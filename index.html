@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Daily Bread &amp; Briefing</title>
+  <meta name="description" content="Daily, weekly and monthly news briefings alongside devotions and a one-year Bible reading plan.">
+  <meta name="theme-color" content="#f6f2ea" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1b1a17" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap header-row">
+      <div class="brand">
+        <img src="assets/icon.svg" alt="" width="28" height="28">
+        <span>Daily Bread &amp; Briefing</span>
+      </div>
+      <button class="icon-btn" id="settings-btn" aria-label="Settings" title="Settings">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M19.4 13a7.5 7.5 0 0 0 0-2l2.1-1.6-2-3.5-2.5 1a7.6 7.6 0 0 0-1.7-1L15 3.3h-4l-.4 2.6a7.6 7.6 0 0 0-1.7 1l-2.5-1-2 3.5L6.5 11a7.5 7.5 0 0 0 0 2l-2.1 1.6 2 3.5 2.5-1a7.6 7.6 0 0 0 1.7 1l.4 2.6h4l.4-2.6a7.6 7.6 0 0 0 1.7-1l2.5 1 2-3.5L19.4 13ZM13 15.5a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7Z" transform="translate(-1 0)"/></svg>
+      </button>
+    </div>
+    <div class="wrap">
+      <nav class="tabs" role="tablist" aria-label="Period">
+        <button role="tab" data-period="day" aria-selected="true">Daily</button>
+        <button role="tab" data-period="week" aria-selected="false">Weekly</button>
+        <button role="tab" data-period="month" aria-selected="false">Monthly</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="date-nav">
+      <button class="icon-btn" id="prev-btn" aria-label="Previous">&#8249;</button>
+      <div class="date-label">
+        <h1 id="period-title">Today</h1>
+        <button class="link-btn" id="today-btn" hidden>Back to today</button>
+      </div>
+      <button class="icon-btn" id="next-btn" aria-label="Next">&#8250;</button>
+    </div>
+
+    <div class="grid">
+      <section class="col-devotion" aria-labelledby="devotion-h">
+        <h2 id="devotion-h" class="section-h">Devotion</h2>
+        <div id="devotion"></div>
+        <h2 class="section-h">Bible reading plan</h2>
+        <div id="reading"></div>
+        <div id="notes"></div>
+      </section>
+
+      <section class="col-news" aria-labelledby="news-h">
+        <div class="news-head">
+          <h2 id="news-h" class="section-h">News</h2>
+          <span class="muted small" id="news-updated"></span>
+        </div>
+        <div id="topics"></div>
+        <div id="category-filter" class="chips" role="group" aria-label="Filter by category"></div>
+        <div id="news"></div>
+      </section>
+    </div>
+  </main>
+
+  <footer class="wrap site-footer muted small">
+    Scripture quotations from the King James Version (public domain). News headlines link to their original publishers.
+  </footer>
+
+  <dialog id="settings">
+    <form method="dialog" class="settings-form">
+      <h2>Settings</h2>
+      <label>Reading plan start date
+        <input type="date" id="plan-start">
+      </label>
+      <label>Bible version for reading links
+        <select id="bible-version">
+          <option value="KJV">KJV</option>
+          <option value="ESV">ESV</option>
+          <option value="NIV">NIV</option>
+          <option value="NKJV">NKJV</option>
+          <option value="NLT">NLT</option>
+          <option value="CSB">CSB</option>
+          <option value="NASB">NASB</option>
+          <option value="WEB">WEB</option>
+        </select>
+      </label>
+      <p class="muted small">Your reading progress and notes are saved in this browser only.</p>
+      <div class="settings-actions">
+        <button type="button" class="btn-ghost danger" id="reset-progress">Reset reading progress</button>
+        <button type="submit" class="btn" value="save">Done</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="assets/bible.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
