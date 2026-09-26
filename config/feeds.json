@@ -1,16 +1,36 @@
 {
-  "_comment": "Add, remove, or re-categorize RSS/Atom feeds here. Categories become the section headings in the app.",
-  "max_age_days": 35,
-  "max_items_per_feed": 150,
+  "_comment": "Each feed carries a circle hint (local, state, national, international) and optional flags. Claude re-checks the circle per story; the hint is a starting point. OPEN: add your town and county paper and local government agenda feeds under local.",
+  "max_age_days": 45,
+  "max_items_per_feed": 100,
   "feeds": [
-    { "name": "BBC World",           "category": "World",    "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
-    { "name": "NPR News",            "category": "World",    "url": "https://feeds.npr.org/1001/rss.xml" },
-    { "name": "The Guardian World",  "category": "World",    "url": "https://www.theguardian.com/world/rss" },
-    { "name": "BBC Business",        "category": "Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml" },
-    { "name": "Christianity Today",  "category": "Faith",    "url": "https://www.christianitytoday.com/feed/" },
-    { "name": "Religion News Service","category": "Faith",   "url": "https://religionnews.com/feed/" },
-    { "name": "The Gospel Coalition","category": "Faith",    "url": "https://www.thegospelcoalition.org/feed/" },
-    { "name": "Ars Technica",        "category": "Tech & Science", "url": "https://feeds.arstechnica.com/arstechnica/index" },
-    { "name": "ScienceDaily",        "category": "Tech & Science", "url": "https://www.sciencedaily.com/rss/top/science.xml" }
+    { "name": "Indiana Capital Chronicle", "circle": "state", "url": "https://indianacapitalchronicle.com/feed/" },
+    { "name": "Mirror Indy",               "circle": "state", "url": "https://mirrorindy.org/feed/" },
+    { "name": "Indianapolis Business Journal", "circle": "state", "url": "https://www.ibj.com/rss" },
+
+    { "name": "NPR News",                  "circle": "national", "url": "https://feeds.npr.org/1001/rss.xml" },
+    { "name": "Christian Science Monitor", "circle": "national", "url": "https://rss.csmonitor.com/feeds/all" },
+    { "name": "The Dispatch",              "circle": "national", "url": "https://thedispatch.com/feed/" },
+    { "name": "Deseret News",              "circle": "national", "url": "https://www.deseret.com/arc/outboundfeeds/rss/?outputType=xml" },
+    { "name": "Vox",                       "circle": "national", "url": "https://www.vox.com/rss/index.xml" },
+    { "name": "Reason",                    "circle": "national", "url": "https://reason.com/feed/" },
+    { "name": "ProPublica",                "circle": "national", "url": "https://www.propublica.org/feeds/propublica/main" },
+    { "name": "Christianity Today",        "circle": "national", "url": "https://www.christianitytoday.com/feed/" },
+
+    { "name": "BBC World",                 "circle": "international", "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
+    { "name": "The Guardian World",        "circle": "international", "url": "https://www.theguardian.com/world/rss" },
+    { "name": "Al Jazeera",                "circle": "international", "url": "https://www.aljazeera.com/xml/rss/all.xml" },
+    { "name": "The New Humanitarian",      "circle": "international", "url": "https://www.thenewhumanitarian.org/rss/all.xml" },
+
+    { "name": "SEC Press Releases",        "circle": "national", "domain": true, "url": "https://www.sec.gov/news/pressreleases.rss" },
+    { "name": "FINRA",                     "circle": "national", "domain": true, "url": "https://www.finra.org/rss.xml" },
+    { "name": "Federal Reserve",           "circle": "national", "domain": true, "url": "https://www.federalreserve.gov/feeds/press_all.xml" },
+    { "name": "Federal Register: IRS",     "circle": "national", "domain": true, "url": "https://www.federalregister.gov/api/v1/documents.rss?conditions%5Bagencies%5D%5B%5D=internal-revenue-service" },
+    { "name": "Congressional Budget Office","circle": "national", "domain": true, "url": "https://www.cbo.gov/publications/all/rss.xml" },
+    { "name": "Kiplinger",                 "circle": "national", "domain": true, "url": "https://www.kiplinger.com/feeds/all" },
+    { "name": "WealthManagement.com",      "circle": "national", "domain": true, "url": "https://www.wealthmanagement.com/rss.xml" },
+    { "name": "MarketWatch",               "circle": "national", "domain": true, "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories" },
+
+    { "name": "Reasons to be Cheerful",    "circle": "international", "flourishing": true, "url": "https://reasonstobecheerful.world/feed/" },
+    { "name": "Positive News",             "circle": "international", "flourishing": true, "url": "https://www.positive.news/feed/" }
   ]
 }

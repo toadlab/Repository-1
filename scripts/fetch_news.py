@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch the RSS/Atom feeds listed in config/feeds.json into data/news.json.
+"""Fetch the RSS/Atom feeds listed in config/feeds.json into data/news.json (the raw feed history).
 
 Uses only the Python standard library. Existing items in the output file are
 kept (up to ``max_age_days``) so the app can show weekly and monthly views
@@ -12,6 +12,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import hashlib
 import html
 import json
 import re
@@ -24,7 +25,7 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-USER_AGENT = "NewsDevotionBot/1.0 (+https://github.com/)"
+USER_AGENT = "Mozilla/5.0 (compatible; PersonalNewsDigest/1.0)"
 ATOM = "{http://www.w3.org/2005/Atom}"
 RSS1 = "{http://purl.org/rss/1.0/}"
 DC = "{http://purl.org/dc/elements/1.1/}"
@@ -115,7 +116,7 @@ def main() -> int:
     args = ap.parse_args()
 
     config = json.loads(args.config.read_text())
-    max_age = timedelta(days=config.get("max_age_days", 35))
+    max_age = timedelta(days=config.get("max_age_days", 45))
     per_feed = config.get("max_items_per_feed", 150)
     now = datetime.now(timezone.utc)
 
@@ -123,7 +124,8 @@ def main() -> int:
     if args.out.exists():
         try:
             for item in json.loads(args.out.read_text()).get("items", []):
-                archive[item["link"]] = item
+                if "id" in item:  # skip items from the pre-scoring format
+                    archive[item["link"]] = item
         except (ValueError, KeyError):
             print(f"warning: ignoring unreadable {args.out}", file=sys.stderr)
 
@@ -144,10 +146,13 @@ def main() -> int:
                 published = parse_date(entry["published"])
                 existing = archive.get(link)
                 archive[link] = {
+                    "id": hashlib.sha1(link.encode()).hexdigest()[:12],
                     "title": title,
                     "link": link,
                     "source": feed["name"],
-                    "category": feed["category"],
+                    "circle_hint": feed.get("circle", "national"),
+                    "domain_feed": bool(feed.get("domain")),
+                    "flourishing_feed": bool(feed.get("flourishing")),
                     "summary": clean_text(entry["summary"]),
                     # Keep the first-seen time for undated items so they age out.
                     "published": (published.isoformat() if published
@@ -168,7 +173,6 @@ def main() -> int:
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(json.dumps({
         "generated": now.isoformat(),
-        "categories": list(dict.fromkeys(f["category"] for f in feeds)),
         "feeds": status,
         "items": items,
     }, ensure_ascii=False, indent=1))
