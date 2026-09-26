@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T19:50:31.446548+00:00",
+ "generated": "2026-09-26T20:32:32.148649+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -18,8 +18,8 @@
   },
   {
    "name": "NPR News",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "count": 10
   },
   {
    "name": "Christian Science Monitor",
@@ -128,6 +128,83 @@
   }
  ],
  "items": [
+  {
+   "id": "b7b8e82fc48e",
+   "title": "When Making a Statutory Argument, It Helps To Read the Statute",
+   "link": "https://reason.com/volokh/2026/09/26/when-making-a-statutory-argument-it-helps-to-read-the-statute/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A quick rejoinder to Ben Zycher on the EPA's rescission of the endangerment finding.",
+   "published": "2026-09-26T20:23:57+00:00"
+  },
+  {
+   "id": "90a1ef280c71",
+   "title": "Tens of thousands attend right-wing protest over Ceuta migrant crisis",
+   "link": "https://www.aljazeera.com/news/2026/9/26/tens-of-thousands-attend-right-wing-protest-over-ceuta-migrant-crisis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Demonstrators are demanding early elections and accuse Pedro Sanchez's government of negligence.",
+   "published": "2026-09-26T20:21:56+00:00"
+  },
+  {
+   "id": "0efa634cfa7d",
+   "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+   "link": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
+   "published": "2026-09-26T20:08:28+00:00"
+  },
+  {
+   "id": "fd187e81f631",
+   "title": "Private colleges around Australia offering last-minute discounts for diploma allegedly ‘misused by shonks’",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/27/australia-private-colleges-discount-deregistered-management-diploma-visa-crackdown-immigration-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Federal government to deregister graduate diploma of management in October over fears it was being used by ‘non-genuine’ students to remain in country Get our breaking news email , free app or daily news podcast Private colleges are offering discounts to rush students into a…",
+   "published": "2026-09-26T20:00:45+00:00"
+  },
+  {
+   "id": "79a2c9afd488",
+   "title": "Palestinian careers adviser who was allegedly told to stop wearing keffiyeh at Sydney school sues for racial discrimination",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/27/palestinian-careers-adviser-who-was-allegedly-told-to-stop-wearing-keffiyeh-at-sydney-school-sues-for-racial-discrimination-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Wasim El-Haj alleges NSW government school ordered him to stop wearing symbolic garment as it ‘may cause discord’ Get our breaking news email , free app or daily news podcast A Palestinian careers adviser who was allegedly directed to stop wearing a keffiyeh at a Sydney…",
+   "published": "2026-09-26T20:00:45+00:00"
+  },
+  {
+   "id": "181477aa4446",
+   "title": "My friend grosses $300,000 a year with her pet-sitting business. She pays herself $50,000. Should I do the same?",
+   "link": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“She currently has about 15 sitters, all independent contractors.”",
+   "published": "2026-09-26T20:00:00+00:00"
+  },
+  {
+   "id": "f71799c88cc4",
+   "title": "‘Miracle on the Hudson’ pilot Chesly Sullenberger inducted into US Aviation Hall of Fame",
+   "link": "https://www.theguardian.com/us-news/2026/sep/26/chesley-sullenberger-national-aviation-hall-of-fame",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sullenberger landed a disabled passenger plane safely in the Hudson River in 2009 without any loss of life Capt Chesley “Sully” Sullenberger III – the pilot known for safely landing a US Airways flight in New York City’s Hudson River during a 2009 emergency – has been inducted…",
+   "published": "2026-09-26T19:54:54+00:00"
+  },
   {
    "id": "9e39130e88dd",
    "title": "Pope praises young people's 'energy and commitment' at huge open-air Mass in Paris",
@@ -391,6 +468,17 @@
    "flourishing_feed": false,
    "summary": "Social Security’s future may be even more dire than expected as time is running out to shore up the program’s finances.",
    "published": "2026-09-26T17:15:00+00:00"
+  },
+  {
+   "id": "96c7d053ceec",
+   "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+   "link": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings.",
+   "published": "2026-09-26T17:10:04+00:00"
   },
   {
    "id": "db9140274baf",
@@ -987,6 +1075,39 @@
    "published": "2026-09-26T12:00:00+00:00"
   },
   {
+   "id": "c3118d9e5da4",
+   "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
+   "link": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Donald Trump mused openly before the United Nations about whether he should annihilate Iran. It's a stark contrast to how his predecessors have spoken about wielding US military power.",
+   "published": "2026-09-26T12:00:00+00:00"
+  },
+  {
+   "id": "bf949d66b9dc",
+   "title": "Powerful nor'easter brings winds, floods to East Coast",
+   "link": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-pounds-mid-atlantic-new-england-coastlines-hurricane-nolo-targets-hawaii",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thousands of people are without power across the East Coast as a nor'easter rips through the area. Forecasters expect significant winds and rain throughout the weekend.",
+   "published": "2026-09-26T11:38:00+00:00"
+  },
+  {
+   "id": "ae827126dc68",
+   "title": "Why this island paradise has the world's fastest-growing HIV epidemic",
+   "link": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor.",
+   "published": "2026-09-26T11:31:18+00:00"
+  },
+  {
    "id": "a568e5946f75",
    "title": "UN adds 61 firms to settlements blacklist over alleged human rights violations against Palestinians",
    "link": "https://www.theguardian.com/world/2026/sep/26/un-companies-israeli-settlements-blacklist-alleged-palestinian-rights-violations",
@@ -1163,6 +1284,39 @@
    "published": "2026-09-26T09:00:00+00:00"
   },
   {
+   "id": "9ce74947a51f",
+   "title": "The AI safety debate is confusing. Here's our guide to the different factions",
+   "link": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The battle over AI's promise and perils is not a clash between two opposing sides, but a debate among a range of competing voices and ideologies. Here is a guide to who's who in that debate.",
+   "published": "2026-09-26T09:00:00+00:00"
+  },
+  {
+   "id": "296e0f57f2ce",
+   "title": "The U.S. has more thalidomide survivors than the government admits",
+   "link": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In the 1950s and 1960s, doctors gave the drug thalidomide to pregnant patients without telling them — and without FDA approval. Now those patients' children want recognition.",
+   "published": "2026-09-26T09:00:00+00:00"
+  },
+  {
+   "id": "1217f48bf216",
+   "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
+   "link": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Some states deliver meals to Medicaid patients that address their dietary needs. Evidence shows it aids recovery and saves healthcare costs, but federal budget cuts may lead some states to cancel it.",
+   "published": "2026-09-26T09:00:00+00:00"
+  },
+  {
    "id": "b8305af197a3",
    "title": "What Does Your Data Reveal About Sports Betting Apps? Help ProPublica Find Out.",
    "link": "https://projects.propublica.org/sports-betting-uploader",
@@ -1218,6 +1372,17 @@
    "published": "2026-09-26T07:00:00+00:00"
   },
   {
+   "id": "cd28012b247a",
+   "title": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+   "link": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pope Leo XIV has warned that a \"paradise of machines\" could undermine humanity. He raises concerns about artificial intelligence, nuclear arms, and human rights during his visit to France.",
+   "published": "2026-09-26T06:59:45+00:00"
+  },
+  {
    "id": "7d4f807f7a63",
    "title": "High school football: Highland wins nail-biter over Murray for Region 10 bragging rights",
    "link": "https://www.deseret.com/sports/2026/09/26/high-school-football-murray-highland/",
@@ -1260,6 +1425,17 @@
    "flourishing_feed": false,
    "summary": "It’s hard to win football games when you lose the turnover battle by four and commit half a dozen costly offensive holding penalties, but Bountiful’s resilience — and some good fortune on a first-half Hail Mary — allowed it to overcome those shortcomings Friday night against…",
    "published": "2026-09-26T05:52:42+00:00"
+  },
+  {
+   "id": "88da5e32c2ab",
+   "title": "Roads flood in New Jersey, inundate some homes, as first major signs of nor'easter take shape",
+   "link": "https://www.npr.org/2026/09/26/g-s1-145146/roads-flood-in-new-jersey",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thousands are without power on the U.S. East Coast, while roads are flooding in some coastal New Jersey communities.",
+   "published": "2026-09-26T05:43:38+00:00"
   },
   {
    "id": "f6240aa82fac",
