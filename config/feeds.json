@@ -1,0 +1,16 @@
+{
+  "_comment": "Add, remove, or re-categorize RSS/Atom feeds here. Categories become the section headings in the app.",
+  "max_age_days": 35,
+  "max_items_per_feed": 150,
+  "feeds": [
+    { "name": "BBC World",           "category": "World",    "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
+    { "name": "NPR News",            "category": "World",    "url": "https://feeds.npr.org/1001/rss.xml" },
+    { "name": "The Guardian World",  "category": "World",    "url": "https://www.theguardian.com/world/rss" },
+    { "name": "BBC Business",        "category": "Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml" },
+    { "name": "Christianity Today",  "category": "Faith",    "url": "https://www.christianitytoday.com/feed/" },
+    { "name": "Religion News Service","category": "Faith",   "url": "https://religionnews.com/feed/" },
+    { "name": "The Gospel Coalition","category": "Faith",    "url": "https://www.thegospelcoalition.org/feed/" },
+    { "name": "Ars Technica",        "category": "Tech & Science", "url": "https://feeds.arstechnica.com/arstechnica/index" },
+    { "name": "ScienceDaily",        "category": "Tech & Science", "url": "https://www.sciencedaily.com/rss/top/science.xml" }
+  ]
+}

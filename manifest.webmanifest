@@ -1,0 +1,9 @@
+{
+  "name": "Daily Bread & Briefing",
+  "short_name": "Daily Bread",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f2ea",
+  "theme_color": "#8a5a2b",
+  "icons": [{ "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
