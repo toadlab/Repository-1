@@ -1,0 +1,69 @@
+{
+  "_comment": "Who the digest is for and how it filters. Values marked OPEN are open questions from the project doc - fill them in.",
+  "reader": "Joe",
+  "profession": "financial planner",
+  "home": {
+    "town": "OPEN: your town",
+    "county": "OPEN: your county",
+    "state": "Indiana",
+    "metro": "Indianapolis"
+  },
+  "timezone": "America/Indiana/Indianapolis",
+  "digest_hour": 5,
+
+  "domains": [
+    "personal finance",
+    "tax policy",
+    "retirement policy (Social Security, Medicare, 401k/IRA rules)",
+    "markets and the economy",
+    "regulation affecting financial advisors (SEC, FINRA, DOL fiduciary rules)"
+  ],
+
+  "scoring": {
+    "_comment": "composite = durability + domain * w.domain + flourishing * w.flourishing (+ persistence bonus). A story is included when composite >= the bar for its circle, borderline within borderline_margin below it.",
+    "weights": { "domain": 0.35, "flourishing": 0.25 },
+    "circle_bar": { "hyperlocal": 3.0, "local": 4.0, "state": 6.0, "national": 8.0, "international": 9.0 },
+    "borderline_margin": 1.0,
+    "domain_critical": 8,
+    "persistence_days": 3,
+    "persistence_bonus": 0.5,
+    "tally_promote_days": 3
+  },
+
+  "cadence": {
+    "_comment": "Day types: pulse-<circle> shows the daily pulse plus that circle's spotlight; reflection = little or no news; weekly = the Saturday digest. OPEN: which day maps to which circle.",
+    "mon": "pulse-local",
+    "tue": "reflection",
+    "wed": "pulse-state",
+    "thu": "reflection",
+    "fri": "pulse-global",
+    "sat": "weekly",
+    "sun": "reflection-hyperlocal"
+  },
+  "pulse_max_items": 3,
+  "weekly_min_items": 8,
+  "weekly_max_items": 12,
+  "deep_dives_per_week": 2,
+  "fatigue_days": { "pulse": 4, "weekly": 10 },
+
+  "regions": [
+    "Sub-Saharan Africa",
+    "East Asia",
+    "Latin America",
+    "Middle East and North Africa",
+    "South Asia",
+    "Europe",
+    "Southeast Asia and Oceania",
+    "Central Asia and the Caucasus",
+    "The Caribbean and Central America",
+    "Eastern Europe and Russia",
+    "The Sahel and Horn of Africa",
+    "The Arctic and Canada"
+  ],
+
+  "claude": {
+    "model": "claude-opus-5",
+    "scoring_effort": "medium",
+    "batch_size": 25
+  }
+}

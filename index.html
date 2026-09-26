@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Daily Bread &amp; Briefing</title>
-  <meta name="description" content="Daily, weekly and monthly news briefings alongside devotions and a one-year Bible reading plan.">
+  <meta name="description" content="A personal digest: grounding first, then only the news that is durable, near, or professionally relevant, with its editorial choices shown.">
   <meta name="theme-color" content="#f6f2ea" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#1b1a17" media="(prefers-color-scheme: dark)">
   <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
@@ -26,76 +26,78 @@
       </button>
     </div>
     <div class="wrap">
-      <nav class="tabs" role="tablist" aria-label="Period">
-        <button role="tab" data-period="day" aria-selected="true">Daily</button>
-        <button role="tab" data-period="week" aria-selected="false">Weekly</button>
-        <button role="tab" data-period="month" aria-selected="false">Monthly</button>
+      <nav class="tabs" role="tablist" aria-label="View">
+        <button role="tab" data-view="today" aria-selected="true">Today</button>
+        <button role="tab" data-view="weekly" aria-selected="false">Weekly digest</button>
+        <button role="tab" data-view="flagged" aria-selected="false">Flagged <span id="flag-count" class="count"></span></button>
       </nav>
     </div>
   </header>
 
-  <main class="wrap">
-    <div class="date-nav">
+  <main class="wrap narrow">
+    <div class="date-nav" id="date-nav">
       <button class="icon-btn" id="prev-btn" aria-label="Previous">&#8249;</button>
       <div class="date-label">
         <h1 id="period-title">Today</h1>
+        <p class="muted small" id="period-sub"></p>
         <button class="link-btn" id="today-btn" hidden>Back to today</button>
       </div>
       <button class="icon-btn" id="next-btn" aria-label="Next">&#8250;</button>
     </div>
-
-    <div class="grid">
-      <section class="col-devotion" aria-labelledby="devotion-h">
-        <h2 id="devotion-h" class="section-h">Devotion</h2>
-        <div id="devotion"></div>
-        <h2 class="section-h">Bible reading plan</h2>
-        <div id="reading"></div>
-        <div id="notes"></div>
-      </section>
-
-      <section class="col-news" aria-labelledby="news-h">
-        <div class="news-head">
-          <h2 id="news-h" class="section-h">News</h2>
-          <span class="muted small" id="news-updated"></span>
-        </div>
-        <div id="topics"></div>
-        <div id="category-filter" class="chips" role="group" aria-label="Filter by category"></div>
-        <div id="news"></div>
-      </section>
-    </div>
+    <div id="view"></div>
   </main>
 
-  <footer class="wrap site-footer muted small">
-    Scripture quotations from the King James Version (public domain). News headlines link to their original publishers.
+  <footer class="wrap narrow site-footer muted small">
+    Scripture quotations are from the King James Version (public domain). Headlines link to their original publishers.
   </footer>
 
   <dialog id="settings">
     <form method="dialog" class="settings-form">
       <h2>Settings</h2>
-      <label>Reading plan start date
-        <input type="date" id="plan-start">
-      </label>
-      <label>Bible version for reading links
-        <select id="bible-version">
-          <option value="KJV">KJV</option>
-          <option value="ESV">ESV</option>
-          <option value="NIV">NIV</option>
-          <option value="NKJV">NKJV</option>
-          <option value="NLT">NLT</option>
-          <option value="CSB">CSB</option>
-          <option value="NASB">NASB</option>
-          <option value="WEB">WEB</option>
+      <label>Daily reading source
+        <select id="set-source">
+          <option value="trial">Four-week trial (one tradition per week)</option>
+          <option value="catholic">Catholic daily lectionary</option>
+          <option value="orthodox">Eastern Orthodox daily readings</option>
+          <option value="coptic">Coptic Orthodox daily readings</option>
+          <option value="biy">Bible in a Year (Fr. Mike Schmitz)</option>
         </select>
       </label>
-      <p class="muted small">Your reading progress and notes are saved in this browser only.</p>
+      <label>Trial start date
+        <input type="date" id="set-trial-start">
+      </label>
+      <label>Claude API key for the chat and one-tap actions
+        <input type="password" id="set-key" autocomplete="off" placeholder="sk-ant-…">
+      </label>
+      <label>Chat model
+        <input type="text" id="set-model" placeholder="claude-opus-5">
+      </label>
+      <p class="muted small">Everything here, including your flags and journal, is saved only in this browser. The key is sent only to the Claude API.</p>
       <div class="settings-actions">
-        <button type="button" class="btn-ghost danger" id="reset-progress">Reset reading progress</button>
         <button type="submit" class="btn" value="save">Done</button>
       </div>
     </form>
   </dialog>
 
-  <script src="assets/bible.js"></script>
+  <dialog id="chat" class="chat">
+    <div class="chat-head">
+      <h2 class="chat-title">Talk it through</h2>
+      <button class="icon-btn chat-close" aria-label="Close">&times;</button>
+    </div>
+    <div class="chat-log" aria-live="polite"></div>
+    <div class="chat-key" hidden>
+      <p class="small">The chat uses your own Claude API key, stored only in this browser.</p>
+      <input type="password" placeholder="sk-ant-…" autocomplete="off">
+      <button type="button" class="btn">Save key</button>
+    </div>
+    <form class="chat-form">
+      <textarea rows="2" placeholder="Ask anything…" aria-label="Message"></textarea>
+      <button type="submit" class="btn">Send</button>
+    </form>
+  </dialog>
+
+  <script src="assets/grounding.js"></script>
   <script src="assets/app.js"></script>
+  <script type="module" src="assets/chat.js"></script>
 </body>
 </html>

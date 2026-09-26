@@ -1,24 +1,29 @@
-name: Refresh news & deploy
+name: Digest pipeline & deploy
 
+# Hourly: fetch feeds, score new stories, build the day's digest once it's due
+# (or break the rhythm for an emergency), commit the pipeline state, and deploy.
 on:
+  schedule:
+    - cron: "20 * * * *"
+  workflow_dispatch:
   push:
     branches: [main]
-  schedule:
-    - cron: "15 */3 * * *" # every 3 hours
-  workflow_dispatch:
+    paths-ignore: ["data/**"]
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
 concurrency:
-  group: pages
+  group: digest
   cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
 
@@ -26,30 +31,45 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Configure Pages
-        id: pages
-        uses: actions/configure-pages@v5
-
-      # Carry the rolling news archive forward from the live site so the
-      # weekly and monthly views keep ~35 days of headlines between runs.
-      - name: Restore previous news archive
-        run: |
-          if curl -fsSL "${{ steps.pages.outputs.base_url }}/data/news.json" -o /tmp/news.json; then
-            mv /tmp/news.json data/news.json
-            echo "Restored archive"
-          else
-            echo "No previous archive; starting from the committed snapshot"
-          fi
+      - run: pip install -r requirements.txt
 
       - name: Fetch feeds
         run: python scripts/fetch_news.py
 
+      - name: Score new stories
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/score.py
+
+      - name: Build digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/build_digest.py
+
+      - name: Commit pipeline state
+        id: commit
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "digest-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -q -m "Update digest data [skip ci]"
+            git pull -q --rebase origin "${GITHUB_REF_NAME}"
+            git push -q origin "HEAD:${GITHUB_REF_NAME}"
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
 
   deploy:
     needs: build
+    # Hourly runs that changed nothing don't need a redeploy.
+    if: needs.build.outputs.changed == 'true' || github.event_name != 'schedule'
     runs-on: ubuntu-latest
     environment:
       name: github-pages

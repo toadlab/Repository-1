@@ -1,63 +1,52 @@
-/* Daily Bread & Briefing: daily / weekly / monthly news and devotion views. */
+/* Daily Bread & Briefing: grounding first, then a deliberately thin, filtered digest. */
 (function () {
   "use strict";
 
-  const PERIODS = ["day", "week", "month"];
-  const NEWS_LIMIT = { day: 6, week: 8, month: 10 };
-  const ROLLING_DAYS = { day: 1, week: 7, month: 30 };
-  const STORE_KEY = "dbb.v1";
+  const STORE_KEY = "pnd.v1";
   const MS_DAY = 86400000;
 
-  // ---------- storage (per-browser; must never break rendering) ----------
+  // ---------- per-browser storage (never allowed to break rendering) ----------
   function loadStore() {
     let s = {};
     try { s = JSON.parse(localStorage.getItem(STORE_KEY)) || {}; } catch (_) { /* unavailable */ }
-    return {
-      planStart: s.planStart || null, // set to the first visit below
-      version: s.version || "KJV",
-      done: s.done || {},
-      notes: s.notes || {},
-    };
+    return { trialStart: s.trialStart || null, source: s.source || "trial", flags: s.flags || [],
+             journal: s.journal || {}, trialNotes: s.trialNotes || {}, praying: s.praying || {} };
   }
-  function saveStore() {
-    try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch (_) { /* ignore */ }
-  }
+  const store = loadStore();
+  function save() { try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch (_) { /* ignore */ } }
 
-  // ---------- dates (local calendar days) ----------
+  // ---------- dates ----------
   const today = () => { const d = new Date(); return new Date(d.getFullYear(), d.getMonth(), d.getDate()); };
   const addDays = (d, n) => new Date(d.getFullYear(), d.getMonth(), d.getDate() + n);
   const ymd = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
   const parseYmd = (s) => { const [y, m, d] = s.split("-").map(Number); return new Date(y, m - 1, d); };
-  const dayDiff = (a, b) => Math.round((Date.UTC(b.getFullYear(), b.getMonth(), b.getDate()) -
-                                        Date.UTC(a.getFullYear(), a.getMonth(), a.getDate())) / MS_DAY);
-  const startOfWeek = (d) => addDays(d, -((d.getDay() + 6) % 7)); // Monday
-  const startOfMonth = (d) => new Date(d.getFullYear(), d.getMonth(), 1);
-  function isoWeek(d) {
-    const t = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
-    t.setUTCDate(t.getUTCDate() + 4 - (t.getUTCDay() || 7));
-    const yearStart = new Date(Date.UTC(t.getUTCFullYear(), 0, 1));
-    return { year: t.getUTCFullYear(), week: Math.ceil(((t - yearStart) / MS_DAY + 1) / 7) };
-  }
-  function periodRange(period, anchor) {
-    if (period === "day") return [anchor, addDays(anchor, 1)];
-    if (period === "week") { const s = startOfWeek(anchor); return [s, addDays(s, 7)]; }
-    const s = startOfMonth(anchor);
-    return [s, new Date(s.getFullYear(), s.getMonth() + 1, 1)];
-  }
-  const fmt = (d, opts) => d.toLocaleDateString(undefined, opts);
+  const fmt = (d, o) => d.toLocaleDateString(undefined, o);
+  const startOfWeek = (d) => addDays(d, -((d.getDay() + 6) % 7));
+  if (!store.trialStart) { store.trialStart = ymd(startOfWeek(today())); save(); }
 
-  // ---------- state ----------
-  const store = loadStore();
-  if (!store.planStart) { store.planStart = ymd(today()); saveStore(); }
+  // ---------- state & data ----------
   const state = {
-    period: PERIODS.includes(location.hash.slice(1)) ? location.hash.slice(1) : "day",
-    anchor: today(),
-    category: "All",
-    topic: null,
-    expanded: new Set(),
+    view: ["today", "weekly", "flagged"].includes(location.hash.slice(1)) ? location.hash.slice(1) : "today",
+    date: today(),
+    weekIndex: null,
   };
-  let devotions = null;
-  let news = null;
+  let grounding = null, index = [];
+  const digests = new Map();
+
+  async function getJson(url) {
+    const res = await fetch(url, { cache: "no-cache" });
+    if (!res.ok) throw new Error(`${url}: ${res.status}`);
+    return res.json();
+  }
+  async function digestFor(date) {
+    const key = ymd(date);
+    if (!index.some((d) => d.date === key)) return null;
+    if (!digests.has(key)) {
+      const p = getJson(`data/digests/${key}.json`).catch(() => { digests.delete(key); return null; });
+      digests.set(key, p);
+    }
+    return digests.get(key);
+  }
 
   // ---------- DOM helpers ----------
   const $ = (id) => document.getElementById(id);
@@ -70,345 +59,421 @@
       else el.setAttribute(k, v === true ? "" : v);
     }
     for (const c of children.flat()) {
-      if (c == null || c === false) continue;
+      if (c == null || c === false || c === "") continue;
       el.append(c.nodeType ? c : document.createTextNode(String(c)));
     }
     return el;
   }
   const safeUrl = (u) => (/^https?:\/\//i.test(u || "") ? u : null);
-  const passageUrl = (q) =>
-    `https://www.biblegateway.com/passage/?search=${encodeURIComponent(q)}&version=${encodeURIComponent(store.version)}`;
-  const passageLink = (ref, label) =>
-    h("a", { href: passageUrl(ref), target: "_blank", rel: "noopener" }, label || ref);
+  const ext = (href, label, cls) => h("a", { href: safeUrl(href), target: "_blank", rel: "noopener", class: cls }, label);
+  const gateway = (ref) => `https://www.biblegateway.com/passage/?search=${encodeURIComponent(ref)}&version=KJV`;
+  const para = (text) => (text || "").split(/\n{2,}/).filter(Boolean).map((t) => h("p", {}, t));
 
-  // ---------- header ----------
-  function renderHeader() {
-    const [start, end] = periodRange(state.period, state.anchor);
-    const now = today();
-    let title;
-    if (state.period === "day") {
-      const diff = dayDiff(now, state.anchor);
-      title = diff === 0 ? "Today" : diff === -1 ? "Yesterday" : diff === 1 ? "Tomorrow" : null;
-      title = (title ? title + " · " : "") + fmt(state.anchor, { weekday: "long", month: "long", day: "numeric" });
-    } else if (state.period === "week") {
-      const last = addDays(end, -1);
-      title = `Week of ${fmt(start, { month: "short", day: "numeric" })} – ${fmt(last, { month: "short", day: "numeric", year: "numeric" })}`;
-    } else {
-      title = fmt(start, { month: "long", year: "numeric" });
+  function talk(ctx, prompt) {
+    if (window.openChat) window.openChat(ctx, prompt);
+    else alert("The chat is still loading, or it can't reach the Claude API from here.");
+  }
+  const talkBtn = (label, ctx, prompt) => h("button", { class: "chip action", onclick: () => talk(ctx, prompt) }, label);
+
+  // ---------- grounding ----------
+  function groundingSection(date, { compact } = {}) {
+    if (!grounding) return h("p", { class: "muted" }, "Loading…");
+    const f = Grounding.focus(grounding, date);
+    const pr = Grounding.prayer(grounding, date);
+    const wrap = h("section", { class: "grounding", "aria-label": "Grounding" });
+
+    wrap.append(h("div", { class: `card focus season-${f.seasonKey}` },
+      h("p", { class: "eyebrow" }, `${f.season.name} · ${f.label}`),
+      h("blockquote", {}, h("p", {}, f.text),
+        h("cite", {}, ext(gateway(f.ref), `${f.ref} ${grounding.translation}`))),
+      f.prompt && h("p", { class: "prompt" }, f.prompt)));
+
+    wrap.append(h("div", { class: "card prayer-card" },
+      h("p", { class: "eyebrow" }, `Prayer of the week · ${pr.number} of ${pr.of}`),
+      h("h3", {}, pr.title, pr.source && h("span", { class: "muted small" }, ` · ${pr.source}`)),
+      h("p", { class: "prayer-text" }, pr.text),
+      h("div", { class: "card-actions" },
+        h("span", { class: "muted small" }, "The same prayer each day this week, to turn over slowly."),
+        talkBtn("Talk it through", { kind: "prayer", title: pr.title, body: pr.text }))));
+
+    if (compact) return wrap;
+
+    const r = Grounding.reading(grounding, date, store);
+    const trial = r.trial;
+    const readingCard = h("div", { class: "card reading-card" },
+      h("p", { class: "eyebrow" }, trial
+        ? (trial.before ? "Trial starts soon" : trial.complete ? "Trial complete. Keep rotating until you choose." : `Reading trial · week ${trial.week} of ${trial.of}`)
+        : "Today's reading"),
+      h("h3", {}, r.name),
+      h("p", { class: "muted small" }, `${r.length}. ${r.about}`),
+      h("div", { class: "card-actions" },
+        ext(r.link.url, r.link.label + " ↗", "btn-link"),
+        r.link.alt && ext(r.link.alt.url, r.link.alt.label + " ↗", "btn-link subtle"),
+        talkBtn("Ask about this passage", { kind: "reading", title: `${r.name}, ${fmt(date, { month: "long", day: "numeric", year: "numeric" })}`,
+          body: `Today's readings: ${r.link.url}`, url: r.link.url })));
+    if (trial) {
+      const noteKey = r.id;
+      const ta = h("textarea", { rows: 2, placeholder: `How did ${r.name.split(" (")[0]} sit with you this week?` });
+      ta.value = store.trialNotes[noteKey] || "";
+      ta.addEventListener("input", () => { store.trialNotes[noteKey] = ta.value; save(); });
+      readingCard.append(h("label", { class: "small muted trial-note" }, "Trial notes", ta));
+      if (trial.complete) readingCard.append(trialChooser());
     }
-    $("period-title").textContent = title;
-    $("today-btn").hidden = now >= start && now < end;
-    document.querySelectorAll(".tabs [role=tab]").forEach((b) =>
-      b.setAttribute("aria-selected", String(b.dataset.period === state.period)));
+    wrap.append(readingCard);
+
+    const n = Grounding.narrative(grounding, date);
+    const passage = n.chapters.join("; ");
+    const textBox = h("div", { class: "scripture" });
+    const details = h("details", { class: "card narrative" },
+      h("summary", {},
+        h("span", { class: "eyebrow" }, `Narrative track · ${n.unit.period}`),
+        h("span", { class: "narrative-title" }, `${n.unit.title}: ${passage}`)),
+      textBox,
+      h("div", { class: "card-actions" }, ext(gateway(passage), "Read on BibleGateway ↗", "btn-link subtle"),
+        talkBtn("Ask about this passage", { kind: "reading", title: passage, body: `${n.unit.period}: ${n.unit.title}` })));
+    details.addEventListener("toggle", () => { if (details.open && !textBox.childElementCount) loadScripture(passage, textBox); }, { once: false });
+    wrap.append(details);
+    return wrap;
   }
 
-  // ---------- devotion ----------
-  function renderDevotion() {
-    const box = $("devotion");
-    box.replaceChildren();
-    if (!devotions) { box.append(h("p", { class: "muted" }, "Loading…")); return; }
-
-    if (state.period === "day") {
-      const d = devotions.daily[(state.anchor.getDate() - 1) % devotions.daily.length];
-      box.append(h("article", { class: "card devotion" },
-        h("p", { class: "eyebrow" }, "Verse of the day"),
-        h("h3", {}, d.title),
-        h("blockquote", {}, h("p", {}, d.text), h("cite", {}, passageLink(d.ref, `${d.ref} ${devotions.translation}`))),
-        h("p", {}, d.reflection),
-        h("p", { class: "prayer" }, h("strong", {}, "Prayer. "), d.prayer)));
-    } else if (state.period === "week") {
-      const { week } = isoWeek(state.anchor);
-      const w = devotions.weekly[(week - 1) % devotions.weekly.length];
-      const [start] = periodRange("week", state.anchor);
-      const verses = Array.from({ length: 7 }, (_, i) => {
-        const day = addDays(start, i);
-        const d = devotions.daily[(day.getDate() - 1) % devotions.daily.length];
-        return h("li", {}, h("span", { class: "muted" }, fmt(day, { weekday: "short" })), " ", passageLink(d.ref), " · ", d.title);
-      });
-      box.append(h("article", { class: "card devotion" },
-        h("p", { class: "eyebrow" }, `Week ${week} theme`),
-        h("h3", {}, w.theme),
-        h("p", {}, "Read and reflect on ", passageLink(w.passage), "."),
-        h("p", {}, h("strong", {}, "This week's practice. "), w.practice),
-        h("p", { class: "eyebrow" }, "Reflection questions"),
-        h("ul", { class: "questions" }, w.questions.map((q) => h("li", {}, q))),
-        h("p", { class: "eyebrow" }, "Daily verses this week"),
-        h("ul", { class: "plain-list" }, verses)));
-    } else {
-      const m = devotions.monthly[state.anchor.getMonth()];
-      box.append(h("article", { class: "card devotion" },
-        h("p", { class: "eyebrow" }, `${fmt(state.anchor, { month: "long" })} theme`),
-        h("h3", {}, m.theme),
-        h("p", {}, m.focus),
-        h("p", {}, h("strong", {}, "Memory verse. "), passageLink(m.memoryVerse)),
-        h("p", { class: "eyebrow" }, "Monthly review"),
-        h("ul", { class: "questions" }, m.review.map((q) => h("li", {}, q)))));
+  async function loadScripture(passage, box) {
+    box.replaceChildren(h("p", { class: "muted small" }, "Loading the text…"));
+    try {
+      const parts = await Promise.all(passage.split("; ").map((p) =>
+        getJson(`https://bible-api.com/${encodeURIComponent(p)}?translation=kjv`)));
+      box.replaceChildren(...parts.flatMap((d) => [
+        h("h4", {}, d.reference),
+        h("p", {}, d.verses.flatMap((v) => [h("sup", {}, v.verse), `${v.text.replace(/\s+/g, " ").trim()} `]))]));
+    } catch (_) {
+      box.replaceChildren(h("p", { class: "muted small" }, "Couldn't load the text here. Use the link below."));
     }
   }
 
-  // ---------- reading plan ----------
-  const planStart = () => parseYmd(store.planStart);
-  const planDayOf = (date) => dayDiff(planStart(), date);
-
-  function toggleDone(day, checked) {
-    if (checked) store.done[day] = true; else delete store.done[day];
-    saveStore();
-    renderReading();
-  }
-
-  function readingRow(date, { compact }) {
-    const day = planDayOf(date);
-    const p = BiblePlan.portion(day);
-    const label = compact ? fmt(date, { weekday: "short", day: "numeric" }) : null;
-    if (!p) {
-      return h("li", { class: "reading-row off" },
-        label && h("span", { class: "reading-date" }, label),
-        h("span", { class: "muted" }, day < 0 ? "Plan not started" : "Plan complete"));
+  function trialChooser() {
+    const box = h("div", { class: "chooser" },
+      h("p", {}, h("strong", {}, "Which one did you find most nourishing to return to? "),
+        "Not the most efficient or the most popular, just the one that fed you."));
+    for (const s of grounding.trial_sources) {
+      box.append(h("button", { class: "chip", onclick: () => { store.source = s.id; save(); render(); } },
+        s.name, store.trialNotes[s.id] ? h("span", { class: "chip-count" }, " · has notes") : null));
     }
-    const done = !!store.done[day];
-    const isToday = dayDiff(today(), date) === 0;
-    const id = `r-${day}`;
-    return h("li", { class: `reading-row${done ? " done" : ""}${isToday ? " is-today" : ""}` },
-      h("input", { type: "checkbox", id, checked: done, onchange: (e) => toggleDone(day, e.target.checked),
-                   "aria-label": `Mark day ${day + 1} (${p.label}) as read` }),
-      label && h("label", { for: id, class: "reading-date" }, label),
-      h("span", { class: "reading-portion" }, passageLink(p.query, p.label)),
-      h("span", { class: "muted small reading-day" }, `Day ${day + 1}`));
+    return box;
   }
 
-  function planStats() {
-    const doneDays = Object.keys(store.done).map(Number).filter((d) => d >= 0 && d < BiblePlan.PLAN_DAYS);
-    const doneChapters = doneDays.reduce((n, d) => n + BiblePlan.portion(d).chapters, 0);
-    const current = Math.min(planDayOf(today()), BiblePlan.PLAN_DAYS - 1);
-    let behind = 0;
-    for (let d = 0; d < current; d++) if (!store.done[d]) behind++;
-    let streak = 0;
-    for (let d = store.done[current] ? current : current - 1; d >= 0 && store.done[d]; d--) streak++;
-    return { days: doneDays.length, pct: Math.round((doneChapters / BiblePlan.TOTAL_CHAPTERS) * 100), behind, streak };
+  function closing(date) {
+    const f = Grounding.focus(grounding, date);
+    return h("p", { class: "closing" }, f.season.closing);
   }
 
-  function renderReading() {
-    const box = $("reading");
-    box.replaceChildren();
-    const [start, end] = periodRange(state.period, state.anchor);
-    const card = h("div", { class: "card" });
+  // ---------- stories ----------
+  const isFlagged = (id) => store.flags.some((f) => f.id === id);
+  function toggleFlag(item) {
+    if (isFlagged(item.id)) store.flags = store.flags.filter((f) => f.id !== item.id);
+    else store.flags.push({ id: item.id, title: item.title, link: item.link, source: item.source,
+                            blurb: item.blurb || item.summary || "", flaggedAt: new Date().toISOString() });
+    save();
+    updateFlagCount();
+  }
+  function updateFlagCount() { $("flag-count").textContent = store.flags.length ? String(store.flags.length) : ""; }
 
-    if (state.period === "day") {
-      const p = BiblePlan.portion(planDayOf(state.anchor));
-      if (p) card.append(h("p", { class: "eyebrow" }, `Today's reading · ${p.chapters} chapter${p.chapters > 1 ? "s" : ""}`));
-      card.append(h("ul", { class: "reading-list" }, readingRow(state.anchor, { compact: false })));
-    } else {
-      const rows = [];
-      let periodDone = 0, periodTotal = 0;
-      let beforeStart = 0;
-      for (let d = start; d < end; d = addDays(d, 1)) {
-        const day = planDayOf(d);
-        if (day < 0) { beforeStart++; continue; }
-        rows.push(readingRow(d, { compact: true }));
-        if (day >= 0 && day < BiblePlan.PLAN_DAYS) { periodTotal++; if (store.done[day]) periodDone++; }
-      }
-      card.append(
-        h("p", { class: "eyebrow" }, `${periodDone} of ${periodTotal} readings done this ${state.period}`),
-        beforeStart > 0 && rows.length > 0 &&
-          h("p", { class: "small muted" }, `Plan started ${fmt(planStart(), { month: "short", day: "numeric" })}.`),
-        rows.length
-          ? h("ul", { class: `reading-list${state.period === "month" ? " scroll" : ""}` }, rows)
-          : h("p", { class: "muted" }, `Your plan starts ${fmt(planStart(), { month: "long", day: "numeric", year: "numeric" })}.`));
-    }
-
-    const s = planStats();
-    card.append(h("div", { class: "plan-stats" },
-      h("div", { class: "progress", role: "progressbar", "aria-valuenow": s.pct, "aria-valuemin": 0, "aria-valuemax": 100,
-                 "aria-label": "Bible read" }, h("span", { style: `width:${s.pct}%` })),
-      h("p", { class: "small muted" },
-        `${s.pct}% of the Bible · ${s.days}/${BiblePlan.PLAN_DAYS} days`,
-        s.streak ? ` · ${s.streak}-day streak` : "",
-        s.behind ? ` · ${s.behind} day${s.behind > 1 ? "s" : ""} to catch up` : "")));
-    box.append(card);
+  function newsCtx(item) {
+    return { kind: "news", title: item.title, url: item.link,
+             body: [item.ai_summary || item.summary, item.why_it_matters].filter(Boolean).join("\n\n") };
   }
 
-  // ---------- notes ----------
-  function notesKey() {
-    if (state.period === "day") return ymd(state.anchor);
-    if (state.period === "week") { const w = isoWeek(state.anchor); return `${w.year}-W${String(w.week).padStart(2, "0")}`; }
-    return ymd(state.anchor).slice(0, 7);
+  function storyEl(item, { weekly } = {}) {
+    const flagBtn = h("button", { class: "flag", "aria-pressed": String(isFlagged(item.id)), title: "Worth digging into later",
+      onclick: (e) => { e.stopPropagation(); toggleFlag(item); flagBtn.setAttribute("aria-pressed", String(isFlagged(item.id))); } },
+      "⚑");
+    const dd = item.deep_dive;
+    const body = h("div", { class: "story-body", hidden: true },
+      h("p", { class: "meta small muted" }, ext(item.link, `${item.source} ↗`), " · ", fmt(new Date(item.published), { month: "short", day: "numeric" })),
+      item.ai_summary && h("div", { class: "ai-summary" }, h("span", { class: "tag" }, "AI summary"), h("p", {}, item.ai_summary)),
+      !item.ai_summary && item.summary && h("p", {}, item.summary),
+      weekly && item.why_it_matters && h("div", { class: "why" }, h("h4", {}, "Why it matters to you"), ...para(item.why_it_matters)),
+      item.talk_to && h("p", { class: "talk-to" }, "☎ ", item.talk_to),
+      dd && h("div", { class: "deep-dive" },
+        h("h4", {}, "Deeper context"),
+        h("h5", {}, "Background"), ...para(dd.background),
+        dd.prior_attempts && [h("h5", {}, "Research and prior attempts"), ...para(dd.prior_attempts)],
+        h("h5", {}, "Where there is consensus"), ...para(dd.consensus),
+        h("h5", {}, "Where serious people disagree"), ...para(dd.debated),
+        dd.open_questions?.length > 0 && [h("h5", {}, "Open questions"), h("ul", {}, dd.open_questions.map((q) => h("li", {}, q)))],
+        dd.faith_engagement && [h("h5", {}, "How the Christian tradition has engaged this"), ...para(dd.faith_engagement)],
+        dd.sources?.length > 0 && h("p", { class: "small muted sources" }, "Sources: ",
+          dd.sources.map((s, i) => [i ? ", " : "", ext(s.url, s.title)]))),
+      h("p", { class: "small muted score-line" },
+        item.borderline ? (item.promoted ? "Borderline, but it quietly persisted across several days. " : "Borderline call. ") : "",
+        `Score ${item.composite} against a ${item.circle} bar of ${item.bar}. ${item.reason}`),
+      h("div", { class: "actions" },
+        talkBtn("Different perspectives", newsCtx(item), "What are the different serious perspectives on this story? Represent each fairly."),
+        talkBtn("Dig deeper", newsCtx(item), "Dig deeper: what's the background, what's known versus disputed, and what should I watch for?"),
+        talkBtn("Who could I talk to?", newsCtx(item), "Who in my life (clients, colleagues, neighbors, family, church) might be worth talking with about this, and what might I ask them?"),
+        talkBtn("Ask…", newsCtx(item))));
+    const head = h("div", { class: "story-head", role: "button", tabindex: 0, "aria-expanded": "false" },
+      h("div", { class: "story-text" },
+        h("h3", {}, item.title, item.borderline && h("span", { class: "badge" }, "borderline"), dd && h("span", { class: "badge deep" }, "deep dive")),
+        h("p", { class: "blurb" }, item.blurb || item.summary)),
+      flagBtn);
+    const toggle = () => { body.hidden = !body.hidden; head.setAttribute("aria-expanded", String(!body.hidden)); };
+    head.addEventListener("click", toggle);
+    head.addEventListener("keydown", (e) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); } });
+    return h("li", { class: "story" }, head, body);
   }
-  let noteTimer;
-  function renderNotes() {
-    const key = notesKey();
-    const label = { day: "Journal & prayer notes", week: "Weekly reflection", month: "Monthly review notes" }[state.period];
+
+  function methodologyEl(m) {
+    if (!m) return null;
+    const excluded = h("ul", { class: "excluded", hidden: true }, (m.excluded || []).map((x) =>
+      h("li", {}, ext(x.link, x.title), h("span", { class: "muted" }, ` · ${x.source} · ${x.reason}`))));
+    return h("details", { class: "methodology" },
+      h("summary", {}, `How this was filtered: ${m.included} included of ${m.considered} considered`),
+      m.skew_note && h("p", {}, m.skew_note),
+      h("ul", {}, (m.notes || []).map((n) => h("li", {}, n))),
+      m.borderline?.length > 0 && [h("h4", {}, "Borderline calls, not included"),
+        h("ul", {}, m.borderline.map((b) => h("li", {}, ext(b.link, b.title), h("span", { class: "muted" }, ` · ${b.source}. ${b.note}`))))],
+      m.excluded?.length > 0 && h("button", { class: "link-btn", onclick: (e) => { excluded.hidden = !excluded.hidden;
+        e.target.textContent = excluded.hidden ? `Show all ${m.excluded.length} excluded headlines` : "Hide excluded headlines"; } },
+        `Show all ${m.excluded.length} excluded headlines`),
+      excluded,
+      h("p", { class: "small muted" }, "Sources are mainstream and regional RSS feeds, so some mainstream framing is an accepted limitation. Stories are included or excluded by the durability and relevance rules, never to manufacture balance."));
+  }
+
+  function journalEl(key, label, placeholder) {
     const status = h("span", { class: "small muted" });
-    const ta = h("textarea", { id: "notes-text", rows: 4, placeholder: "What is God showing you? What are you praying about?" });
-    ta.value = store.notes[key] || "";
+    const ta = h("textarea", { id: "journal", rows: 3, placeholder });
+    ta.value = store.journal[key] || "";
+    let t;
     ta.addEventListener("input", () => {
-      clearTimeout(noteTimer);
-      noteTimer = setTimeout(() => {
-        if (ta.value.trim()) store.notes[key] = ta.value; else delete store.notes[key];
-        saveStore();
-        status.textContent = "Saved";
+      clearTimeout(t);
+      t = setTimeout(() => {
+        if (ta.value.trim()) store.journal[key] = ta.value; else delete store.journal[key];
+        save(); status.textContent = "Saved";
       }, 400);
     });
-    $("notes").replaceChildren(h("div", { class: "card notes" },
-      h("div", { class: "notes-head" }, h("label", { for: "notes-text", class: "eyebrow" }, label), status), ta));
+    return h("div", { class: "card journal" }, h("div", { class: "journal-head" }, h("label", { for: "journal", class: "eyebrow" }, label), status), ta);
   }
 
-  // ---------- news ----------
-  const STOPWORDS = new Set(("a about after again against all also am an and any are as at be because been before being " +
-    "between both but by can could did do does doing down during each few for from further had has have having he her " +
-    "here hers him his how i if in into is it its just me more most my new no nor not now of off on once only or other " +
-    "our out over own same says say said she should so some such than that the their them then there these they this " +
-    "those through to too under until up us very was we were what when where which while who whom why will with would " +
-    "you your year years first last week day days time amid could may might make makes made get gets how's what's " +
-    "it's he's she's they're we're don't can't won't isn't people one two three four five back top big set still " +
-    "news report reports video watch live latest update updates here's why's year-old white access " +
-    "discover discovers scientists study finds reveals according") .split(/\s+/));
+  // ---------- views ----------
+  async function renderToday() {
+    const date = state.date;
+    const view = $("view");
+    const digest = await digestFor(date);
+    if (state.view !== "today" || ymd(state.date) !== ymd(date)) return; // navigated away meanwhile
+    const parts = [groundingSection(date)];
 
-  function newsWindow() {
-    const [start, end] = periodRange(state.period, state.anchor);
-    const now = new Date();
-    if (now >= start && now < end) {
-      return { from: new Date(now - ROLLING_DAYS[state.period] * MS_DAY), to: now,
-               label: { day: "Past 24 hours", week: "Past 7 days", month: "Past 30 days" }[state.period] };
+    if (digest?.emergencies?.length) {
+      parts.push(h("section", { class: "card emergency" }, h("p", { class: "eyebrow" }, "Breaking the rhythm: this needs your attention"),
+        h("ul", { class: "stories" }, digest.emergencies.map((i) => storyEl(i)))));
     }
-    return { from: start, to: end, label: null };
-  }
 
-  function topicsFor(items) {
-    const counts = new Map();
-    for (const it of items) {
-      const words = new Set((it.title.toLowerCase().match(/[a-z][a-z'’-]{3,}/g) || [])
-        .map((w) => w.replace(/['’]s$/, "").replace(/[-'’]+$/, ""))
-        .filter((w) => w.length > 3 && !STOPWORDS.has(w)));
-      for (const w of words) counts.set(w, (counts.get(w) || 0) + 1);
+    const isFuture = date > today();
+    if (!digest) {
+      parts.push(h("div", { class: "card empty" }, isFuture ? "This day's digest hasn't been written yet."
+        : "No digest was built for this day. The pipeline builds one each morning once it is running."));
+    } else if (digest.type === "pulse") {
+      const spot = digest.spotlight;
+      parts.push(h("section", {},
+        h("h2", { class: "section-h" }, "Daily pulse"),
+        digest.pulse.length
+          ? h("ul", { class: "stories card" }, digest.pulse.map((i) => storyEl(i)))
+          : h("div", { class: "card calm" }, h("p", {}, h("strong", {}, "Nothing needs your attention today. "),
+              "That is an expected outcome, not a gap."))));
+      if (spot?.circle === "global") parts.push(regionEl(spot));
+      else if (spot) {
+        parts.push(h("section", {},
+          h("h2", { class: "section-h" }, `${spot.circle === "local" ? "Local" : "State and region"} day`),
+          spot.items.length ? h("ul", { class: "stories card" }, spot.items.map((i) => storyEl(i)))
+            : h("div", { class: "card calm" }, `Nothing from the ${spot.circle} circle cleared the bar this week.`)));
+      }
+      parts.push(methodologyEl(digest.methodology));
+    } else if (digest.type === "reflection") {
+      parts.push(reflectionEl(date, digest));
+    } else if (digest.type === "weekly") {
+      parts.push(h("div", { class: "card calm" }, h("p", {}, h("strong", {}, "Today is the weekly digest. "), "It's meant for unhurried weekend reading."),
+        h("button", { class: "btn", onclick: () => { state.weekIndex = weeklyDates().indexOf(ymd(date)); setView("weekly"); } }, "Open this week's digest")));
     }
-    return [...counts.entries()].filter(([, n]) => n >= 3).sort((a, b) => b[1] - a[1]).slice(0, 12);
+
+    parts.push(closing(date));
+    parts.push(journalEl(ymd(date), "Your reflection", "What did you notice, feel, or want to remember today?"));
+    view.replaceChildren(...parts.filter(Boolean));
   }
 
-  function relTime(iso) {
-    const d = new Date(iso);
-    const mins = Math.round((Date.now() - d) / 60000);
-    if (mins < 60) return `${Math.max(mins, 1)}m ago`;
-    if (mins < 60 * 24) return `${Math.round(mins / 60)}h ago`;
-    return fmt(d, { month: "short", day: "numeric" });
+  function regionEl(spot) {
+    const v = spot.visit;
+    return h("section", {},
+      h("h2", { class: "section-h" }, "Global day"),
+      h("div", { class: "card region" },
+        h("p", { class: "eyebrow" }, `Region of the month · ${spot.region}`),
+        h("p", { class: "muted small" }, "Not what happened, but what is persistently or quietly true there right now."),
+        v ? [
+          ...para(v.what_is_true),
+          h("h4", {}, "Since the last visit"), ...para(v.changes_since_last),
+          h("h4", {}, "Worth your attention this month"), ...para(v.suggestion),
+          v.sources?.length > 0 && h("p", { class: "small muted sources" }, "Sources: ", v.sources.map((s, i) => [i ? ", " : "", ext(s.url, s.title)])),
+          h("div", { class: "card-actions" }, talkBtn("Talk about this region", { kind: "region", title: spot.region, body: v.what_is_true })),
+        ] : h("p", {}, "This month's note needs a Claude API key in the pipeline to research it.")));
   }
 
-  function renderNews() {
-    const box = $("news"), topicsBox = $("topics"), filterBox = $("category-filter");
-    box.replaceChildren(); topicsBox.replaceChildren(); filterBox.replaceChildren();
-    if (!news) { box.append(h("p", { class: "muted" }, "Loading headlines…")); return; }
-    if (!news.items.length) {
-      box.append(h("div", { class: "card empty" }, "No headlines yet. Run ", h("code", {}, "python3 scripts/fetch_news.py"), " to fetch the feeds."));
+  function reflectionEl(date, digest) {
+    const key = ymd(date);
+    const hyper = digest.circle === "hyperlocal";
+    const pick = (list) => list[Math.floor(date.getTime() / MS_DAY) % list.length];
+    const f = Grounding.focus(grounding, date);
+    const pr = Grounding.prayer(grounding, date);
+    const story = digest.inspiring?.[0];
+    const options = [
+      { id: "passage", label: `The passage: ${f.ref}` },
+      { id: "prayer", label: `This week's prayer: ${pr.title}` },
+      story && { id: "story", label: `The story: ${story.title}` },
+      hyper && { id: "people", label: "Someone in my family or among my friends" },
+    ].filter(Boolean);
+    const chosen = store.praying[key];
+    return h("section", {},
+      h("h2", { class: "section-h" }, hyper ? "Reflection day · family and friends" : "Reflection day"),
+      h("div", { class: "card reflection" },
+        h("p", {}, "No news today. That's on purpose."),
+        h("p", { class: "prompt" }, hyper ? pick(grounding.hyperlocal_prompts) : pick(grounding.reflection_prompts)),
+        story && h("div", { class: "inspiring" }, h("p", { class: "eyebrow" }, "Something that is working"),
+          h("ul", { class: "stories" }, storyEl(story))),
+        h("p", { class: "question" }, "Which of these would you like to pray about today?"),
+        h("div", { class: "chips" }, options.map((o) => h("button", { class: "chip", "aria-pressed": String(chosen === o.id),
+          onclick: () => { store.praying[key] = o.id; save(); render(); } }, o.label))),
+        chosen && h("div", { class: "card-actions" },
+          talkBtn("Pray it through with Claude", { kind: "reflection", title: options.find((o) => o.id === chosen)?.label || "",
+            body: chosen === "prayer" ? pr.text : chosen === "passage" ? `${f.ref}: ${f.text}` : chosen === "story" ? (story.blurb || story.summary) : "" }))));
+  }
+
+  const weeklyDates = () => index.filter((d) => d.type === "weekly").map((d) => d.date);
+
+  async function renderWeekly() {
+    const view = $("view");
+    const dates = weeklyDates();
+    if (!dates.length) {
+      view.replaceChildren(h("div", { class: "card empty" }, "No weekly digest yet. The first one arrives on Saturday morning."));
+      $("period-title").textContent = "Weekly digest";
       return;
     }
+    if (state.weekIndex == null || state.weekIndex < 0 || state.weekIndex >= dates.length) state.weekIndex = dates.length - 1;
+    const date = parseYmd(dates[state.weekIndex]);
+    renderHeader();
+    const digest = await digestFor(date);
+    if (state.view !== "weekly") return;
+    if (!digest) { view.replaceChildren(h("div", { class: "card empty" }, "Couldn't load this digest.")); return; }
 
-    const win = newsWindow();
-    $("news-updated").textContent = `${win.label ? win.label + " · " : ""}updated ${relTime(news.generated)}`;
-    const inWindow = news.items.filter((it) => { const t = new Date(it.published); return t >= win.from && t < win.to; });
+    const parts = [groundingSection(date, { compact: true })];
+    parts.push(h("section", {}, h("h2", { class: "section-h" }, `This week · ${digest.items.length} stories`),
+      h("ul", { class: "stories card" }, digest.items.map((i) => storyEl(i, { weekly: true })))));
+    if (digest.first_weekend) parts.push(monthlyPickEl(date));
+    parts.push(methodologyEl(digest.methodology));
+    parts.push(closing(date));
+    parts.push(journalEl(`week-${dates[state.weekIndex]}`, "Weekly reflection", "What stood out this week? What do you want to remember or pray about?"));
+    view.replaceChildren(...parts.filter(Boolean));
+  }
 
-    const categories = news.categories || [...new Set(news.items.map((i) => i.category))];
-    if (state.category !== "All" && !categories.includes(state.category)) state.category = "All";
-    for (const c of ["All", ...categories]) {
-      filterBox.append(h("button", { class: "chip", "aria-pressed": String(state.category === c),
-        onclick: () => { state.category = c; state.expanded.clear(); renderNews(); } }, c));
-    }
+  function monthlyPickEl(date) {
+    const since = addDays(date, -35);
+    const flags = store.flags.filter((f) => new Date(f.flaggedAt) >= since);
+    return h("section", { class: "card monthly-pick" },
+      h("p", { class: "eyebrow" }, "First weekend of the month"),
+      h("h3", {}, "Pick one flagged story to explore in depth"),
+      flags.length
+        ? h("ul", { class: "plain-list" }, flags.map((f) => h("li", {},
+            h("span", {}, f.title), " ",
+            talkBtn("Explore in depth", { kind: "news", title: f.title, url: f.link, body: f.blurb },
+              "I flagged this as worth digging into. Let's explore it in real depth: background, what's known and disputed, the best thinking on different sides, and what it might mean for me."))))
+        : h("p", { class: "muted" }, "You haven't flagged anything this past month. Use ⚑ on any story to save it for here."));
+  }
 
-    const byCategory = state.category === "All" ? inWindow : inWindow.filter((i) => i.category === state.category);
-    const topics = topicsFor(byCategory);
-    if (state.topic && !topics.some(([w]) => w === state.topic)) state.topic = null;
-    if (topics.length) {
-      topicsBox.append(h("p", { class: "eyebrow" }, state.period === "day" ? "In the headlines" : "Trending this " + state.period),
-        h("div", { class: "chips" }, topics.map(([w, n]) =>
-          h("button", { class: "chip topic", "aria-pressed": String(state.topic === w),
-            onclick: () => { state.topic = state.topic === w ? null : w; state.expanded.clear(); renderNews(); } },
-            w, h("span", { class: "chip-count" }, n)))));
-    }
+  function renderFlagged() {
+    const view = $("view");
+    const list = [...store.flags].sort((a, b) => b.flaggedAt.localeCompare(a.flaggedAt));
+    view.replaceChildren(
+      h("p", { class: "muted" }, "Stories you marked as worth digging into later. On the first weekend of each month they come back as a short list to choose from."),
+      list.length ? h("ul", { class: "stories card" }, list.map((f) => h("li", { class: "story" },
+        h("div", { class: "story-head" },
+          h("div", { class: "story-text" }, h("h3", {}, f.title), h("p", { class: "blurb" }, f.blurb),
+            h("p", { class: "small muted" }, ext(f.link, `${f.source} ↗`), ` · flagged ${fmt(new Date(f.flaggedAt), { month: "short", day: "numeric" })}`),
+            h("div", { class: "actions" },
+              talkBtn("Explore in depth", { kind: "news", title: f.title, url: f.link, body: f.blurb },
+                "I flagged this as worth digging into. Let's explore it in real depth."),
+              h("button", { class: "chip", onclick: () => { toggleFlag(f); renderFlagged(); } }, "Remove")))))))
+        : h("div", { class: "card empty" }, "Nothing flagged yet. Tap ⚑ on any story."));
+  }
 
-    const filtered = state.topic ? byCategory.filter((i) => i.title.toLowerCase().includes(state.topic)) : byCategory;
-    if (!filtered.length) {
-      box.append(h("div", { class: "card empty" }, "No headlines in this period. The archive keeps roughly the last month."));
-      return;
-    }
-
-    const groups = new Map(categories.map((c) => [c, []]));
-    for (const it of filtered) (groups.get(it.category) || groups.set(it.category, []).get(it.category)).push(it);
-    const limit = state.topic ? Infinity : NEWS_LIMIT[state.period] * (state.category === "All" ? 1 : 3);
-
-    for (const [cat, items] of groups) {
-      if (!items.length) continue;
-      const expanded = state.expanded.has(cat);
-      const shown = expanded ? items : items.slice(0, limit);
-      box.append(h("section", { class: "card news-group" },
-        h("h3", {}, cat, h("span", { class: "muted small" }, ` ${items.length}`)),
-        h("ul", { class: "news-list" }, shown.map((it) => h("li", {},
-          h("a", { href: safeUrl(it.link), target: "_blank", rel: "noopener" }, it.title),
-          it.summary && h("p", { class: "summary" }, it.summary),
-          h("p", { class: "meta small muted" }, it.source, " · ", relTime(it.published))))),
-        items.length > shown.length && h("button", { class: "link-btn",
-          onclick: () => { state.expanded.add(cat); renderNews(); } }, `Show ${items.length - shown.length} more`)));
+  // ---------- chrome ----------
+  function renderHeader() {
+    const nav = $("date-nav");
+    nav.hidden = state.view === "flagged";
+    document.querySelectorAll(".tabs [role=tab]").forEach((b) => b.setAttribute("aria-selected", String(b.dataset.view === state.view)));
+    if (state.view === "today") {
+      const d = Math.round((state.date - today()) / MS_DAY);
+      const rel = d === 0 ? "Today" : d === -1 ? "Yesterday" : d === 1 ? "Tomorrow" : null;
+      $("period-title").textContent = (rel ? rel + " · " : "") + fmt(state.date, { weekday: "long", month: "long", day: "numeric" });
+      const f = grounding && Grounding.focus(grounding, state.date);
+      $("period-sub").textContent = f ? `${f.season.name} · ${f.season.theme}` : "";
+      $("today-btn").hidden = d === 0;
+    } else if (state.view === "weekly") {
+      const dates = weeklyDates();
+      const date = dates.length && state.weekIndex != null ? parseYmd(dates[state.weekIndex]) : null;
+      $("period-title").textContent = date ? `Week ending ${fmt(date, { month: "long", day: "numeric" })}` : "Weekly digest";
+      $("period-sub").textContent = "For weekend reading";
+      $("today-btn").hidden = state.weekIndex === dates.length - 1;
+    } else {
+      $("period-title").textContent = "Flagged";
     }
   }
 
-  // ---------- wiring ----------
   function render() {
     renderHeader();
-    renderDevotion();
-    renderReading();
-    renderNotes();
-    renderNews();
+    updateFlagCount();
+    if (!grounding) { $("view").replaceChildren(h("p", { class: "muted" }, "Loading…")); return; }
+    if (state.view === "today") renderToday();
+    else if (state.view === "weekly") renderWeekly();
+    else renderFlagged();
+  }
+
+  function setView(v) {
+    state.view = v;
+    history.replaceState(null, "", `#${v}`);
+    render();
+    window.scrollTo(0, 0);
   }
 
   function shift(dir) {
-    const a = state.anchor;
-    if (state.period === "day") state.anchor = addDays(a, dir);
-    else if (state.period === "week") state.anchor = addDays(a, 7 * dir);
-    else state.anchor = new Date(a.getFullYear(), a.getMonth() + dir, Math.min(a.getDate(), 28));
-    state.expanded.clear();
+    if (state.view === "today") state.date = addDays(state.date, dir);
+    else if (state.view === "weekly") state.weekIndex = Math.max(0, Math.min(weeklyDates().length - 1, (state.weekIndex ?? 0) + dir));
     render();
   }
 
-  function setPeriod(p) {
-    state.period = p;
-    state.expanded.clear();
-    state.topic = null;
-    history.replaceState(null, "", `#${p}`);
-    render();
-  }
-
-  document.querySelectorAll(".tabs [role=tab]").forEach((b) => b.addEventListener("click", () => setPeriod(b.dataset.period)));
+  document.querySelectorAll(".tabs [role=tab]").forEach((b) => b.addEventListener("click", () => setView(b.dataset.view)));
   $("prev-btn").addEventListener("click", () => shift(-1));
   $("next-btn").addEventListener("click", () => shift(1));
-  $("today-btn").addEventListener("click", () => { state.anchor = today(); render(); });
+  $("today-btn").addEventListener("click", () => { state.date = today(); state.weekIndex = null; render(); });
   document.addEventListener("keydown", (e) => {
-    if (e.target.closest("input, textarea, select, dialog[open]")) return;
+    if (e.target.closest("input, textarea, select, dialog[open], [role=button]")) return;
     if (e.key === "ArrowLeft") shift(-1);
     if (e.key === "ArrowRight") shift(1);
   });
 
-  const dialog = $("settings");
+  const settings = $("settings");
   $("settings-btn").addEventListener("click", () => {
-    $("plan-start").value = store.planStart;
-    $("bible-version").value = store.version;
-    dialog.showModal();
+    $("set-source").value = store.source;
+    $("set-trial-start").value = store.trialStart;
+    $("set-key").value = window.chatSettings?.key || "";
+    $("set-model").value = window.chatSettings?.model || "claude-opus-5";
+    settings.showModal();
   });
-  dialog.addEventListener("close", () => {
-    if (/^\d{4}-\d{2}-\d{2}$/.test($("plan-start").value)) store.planStart = $("plan-start").value;
-    store.version = $("bible-version").value;
-    saveStore();
+  settings.addEventListener("close", () => {
+    store.source = $("set-source").value;
+    if (/^\d{4}-\d{2}-\d{2}$/.test($("set-trial-start").value)) store.trialStart = $("set-trial-start").value;
+    if (window.chatSettings) { window.chatSettings.key = $("set-key").value; window.chatSettings.model = $("set-model").value; }
+    save();
     render();
   });
-  $("reset-progress").addEventListener("click", () => {
-    if (confirm("Clear all reading-plan checkmarks? Your notes are kept.")) { store.done = {}; saveStore(); render(); }
-  });
-
-  async function loadJson(url) {
-    const res = await fetch(url, { cache: "no-cache" });
-    if (!res.ok) throw new Error(`${url}: ${res.status}`);
-    return res.json();
-  }
 
   render();
-  loadJson("data/devotions.json").then((d) => { devotions = d; renderDevotion(); })
-    .catch((e) => $("devotion").replaceChildren(h("p", { class: "card empty" }, `Could not load devotions (${e.message}).`)));
-  loadJson("data/news.json").then((n) => { news = n; renderNews(); })
-    .catch(() => { news = { items: [] }; renderNews(); });
+  Promise.all([
+    getJson("data/grounding.json").then((g) => { grounding = g; }),
+    getJson("data/digests/index.json").then((i) => { index = i; }).catch(() => { index = []; }),
+  ]).then(render).catch((e) => $("view").replaceChildren(h("div", { class: "card empty" }, `Couldn't load the app data (${e.message}).`)));
 })();

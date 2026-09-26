@@ -1,0 +1,623 @@
+{
+ "translation": "KJV",
+ "seasons": {
+  "advent": {
+   "name": "Advent",
+   "theme": "Waiting and hope",
+   "about": "The church waits for the coming of Christ, remembering his first coming and longing for his return.",
+   "closing": "Keep watch today, not anxiously, but in hope.",
+   "weeks": [
+    {
+     "title": "Hope",
+     "ref": "Isaiah 9:2",
+     "text": "The people that walked in darkness have seen a great light: they that dwell in the land of the shadow of death, upon them hath the light shined."
+    },
+    {
+     "title": "Peace",
+     "ref": "Isaiah 9:6",
+     "text": "For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace."
+    },
+    {
+     "title": "Joy",
+     "ref": "Luke 2:10",
+     "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people."
+    },
+    {
+     "title": "Love",
+     "ref": "John 3:16",
+     "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+    }
+   ]
+  },
+  "christmas": {
+   "name": "Christmas",
+   "theme": "God with us",
+   "about": "Twelve days of celebrating the Incarnation: the Word made flesh.",
+   "closing": "The Word dwells among us, even in an ordinary day.",
+   "weeks": [
+    {
+     "title": "The Word made flesh",
+     "ref": "John 1:14",
+     "text": "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth."
+    },
+    {
+     "title": "Glory in the highest",
+     "ref": "Luke 2:14",
+     "text": "Glory to God in the highest, and on earth peace, good will toward men."
+    }
+   ]
+  },
+  "epiphany": {
+   "name": "Epiphany",
+   "theme": "Light revealed",
+   "about": "Christ is made known to the nations, from the Magi's star to his baptism in the Jordan.",
+   "closing": "Carry a little of that light into someone else's day.",
+   "weeks": [
+    {
+     "title": "Arise, shine",
+     "ref": "Isaiah 60:1",
+     "text": "Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee."
+    },
+    {
+     "title": "The light of the world",
+     "ref": "John 8:12",
+     "text": "Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life."
+    }
+   ]
+  },
+  "lent": {
+   "name": "Lent",
+   "theme": "Repentance and return",
+   "about": "Forty days of prayer, fasting and almsgiving, turning the heart back toward God.",
+   "closing": "Return to the Lord; he is gracious and merciful.",
+   "weeks": [
+    {
+     "title": "Rend your heart",
+     "ref": "Joel 2:13",
+     "text": "And rend your heart, and not your garments, and turn unto the LORD your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil."
+    },
+    {
+     "title": "Not by bread alone",
+     "ref": "Matthew 4:4",
+     "text": "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God."
+    },
+    {
+     "title": "A clean heart",
+     "ref": "Psalm 51:10",
+     "text": "Create in me a clean heart, O God; and renew a right spirit within me."
+    },
+    {
+     "title": "A contrite heart",
+     "ref": "Psalm 51:17",
+     "text": "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise."
+    },
+    {
+     "title": "Take up your cross",
+     "ref": "Luke 9:23",
+     "text": "And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me."
+    },
+    {
+     "title": "By his stripes",
+     "ref": "Isaiah 53:5",
+     "text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed."
+    }
+   ]
+  },
+  "holyweek": {
+   "name": "Holy Week",
+   "theme": "The way of the cross",
+   "about": "From Palm Sunday to Holy Saturday, the church walks with Christ to the cross and the tomb.",
+   "closing": "Stay with him in the quiet.",
+   "weeks": [
+    {
+     "title": "Obedient unto death",
+     "ref": "Philippians 2:8",
+     "text": "And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross."
+    }
+   ]
+  },
+  "easter": {
+   "name": "Easter",
+   "theme": "Resurrection",
+   "about": "Fifty days of rejoicing that Christ is risen and death has lost its sting.",
+   "closing": "He is risen. Live today from that fact.",
+   "weeks": [
+    {
+     "title": "He is risen",
+     "ref": "Matthew 28:6",
+     "text": "He is not here: for he is risen, as he said. Come, see the place where the Lord lay."
+    },
+    {
+     "title": "The resurrection and the life",
+     "ref": "John 11:25",
+     "text": "Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:"
+    },
+    {
+     "title": "Blessed are they that have not seen",
+     "ref": "John 20:29",
+     "text": "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed."
+    },
+    {
+     "title": "Hearts burning",
+     "ref": "Luke 24:32",
+     "text": "And they said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?"
+    },
+    {
+     "title": "A lively hope",
+     "ref": "1 Peter 1:3",
+     "text": "Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,"
+    },
+    {
+     "title": "Where is thy sting?",
+     "ref": "1 Corinthians 15:55",
+     "text": "O death, where is thy sting? O grave, where is thy victory?"
+    }
+   ]
+  },
+  "pentecost": {
+   "name": "Pentecost",
+   "theme": "The Spirit poured out",
+   "about": "The birthday of the church: the Holy Spirit comes upon the disciples.",
+   "closing": "Walk in step with the Spirit today.",
+   "weeks": [
+    {
+     "title": "Filled with the Spirit",
+     "ref": "Acts 2:4",
+     "text": "And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance."
+    }
+   ]
+  },
+  "ordinary": {
+   "name": "Ordinary Time",
+   "theme": "Growing in the everyday",
+   "about": "The long green seasons of the church year, spent living inside the core building blocks of the faith.",
+   "closing": "Faithfulness in small things is the whole of it.",
+   "weeks": []
+  }
+ },
+ "constants": [
+  {
+   "name": "The Beatitudes",
+   "ref": "Matthew 5:3-10",
+   "items": [
+    {
+     "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+     "prompt": "Where do I need to stop pretending to be self-sufficient?"
+    },
+    {
+     "text": "Blessed are they that mourn: for they shall be comforted.",
+     "prompt": "What loss, mine or someone else's, can I bring honestly before God today?"
+    },
+    {
+     "text": "Blessed are the meek: for they shall inherit the earth.",
+     "prompt": "Where can I hold my strength with gentleness today?"
+    },
+    {
+     "text": "Blessed are they which do hunger and thirst after righteousness: for they shall be filled.",
+     "prompt": "What do I actually hunger for? What would it look like to hunger for what is right?"
+    },
+    {
+     "text": "Blessed are the merciful: for they shall obtain mercy.",
+     "prompt": "Who needs mercy from me that I have been withholding?"
+    },
+    {
+     "text": "Blessed are the pure in heart: for they shall see God.",
+     "prompt": "What is dividing my heart right now?"
+    },
+    {
+     "text": "Blessed are the peacemakers: for they shall be called the children of God.",
+     "prompt": "Where is one small place I could make peace this week?"
+    },
+    {
+     "text": "Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.",
+     "prompt": "Where does doing right cost me something, and am I willing to pay it?"
+    }
+   ]
+  },
+  {
+   "name": "The Fruit of the Spirit",
+   "ref": "Galatians 5:22-23",
+   "items": [
+    {
+     "text": "But the fruit of the Spirit is love,",
+     "prompt": "Love: who can I love concretely today, in a way that costs me something?"
+    },
+    {
+     "text": "joy,",
+     "prompt": "Joy: what gift from God have I been too hurried to enjoy?"
+    },
+    {
+     "text": "peace,",
+     "prompt": "Peace: what am I carrying that I could hand back to God?"
+    },
+    {
+     "text": "longsuffering,",
+     "prompt": "Patience: where is my patience thinnest right now?"
+    },
+    {
+     "text": "gentleness,",
+     "prompt": "Kindness: who would be surprised by kindness from me today?"
+    },
+    {
+     "text": "goodness,",
+     "prompt": "Goodness: what good thing is within my reach to do today?"
+    },
+    {
+     "text": "faith,",
+     "prompt": "Faithfulness: what small commitment can I keep well today?"
+    },
+    {
+     "text": "Meekness,",
+     "prompt": "Gentleness: where would a softer answer change a conversation?"
+    },
+    {
+     "text": "temperance: against such there is no law.",
+     "prompt": "Self-control: what appetite or habit needs a gentle 'no' today?"
+    }
+   ]
+  },
+  {
+   "name": "The Lord's Prayer",
+   "ref": "Matthew 6:9-13",
+   "items": [
+    {
+     "text": "Our Father which art in heaven,",
+     "prompt": "What does it mean for me today that God is Father, and ours rather than only mine?"
+    },
+    {
+     "text": "Hallowed be thy name.",
+     "prompt": "How could my work today honor God's name?"
+    },
+    {
+     "text": "Thy kingdom come.",
+     "prompt": "Where do I long to see God's kingdom come, near and far?"
+    },
+    {
+     "text": "Thy will be done in earth, as it is in heaven.",
+     "prompt": "What part of my will do I need to surrender today?"
+    },
+    {
+     "text": "Give us this day our daily bread.",
+     "prompt": "What is enough for today? Can I trust God with tomorrow?"
+    },
+    {
+     "text": "And forgive us our debts, as we forgive our debtors.",
+     "prompt": "Whom do I need to forgive, and what do I need to confess?"
+    },
+    {
+     "text": "And lead us not into temptation, but deliver us from evil:",
+     "prompt": "Where am I most vulnerable right now?"
+    },
+    {
+     "text": "For thine is the kingdom, and the power, and the glory, for ever. Amen.",
+     "prompt": "What would change if I really believed the kingdom, power and glory are God's, not mine or anyone else's?"
+    }
+   ]
+  },
+  {
+   "name": "The Ten Commandments",
+   "ref": "Exodus 20:3-17",
+   "items": [
+    {
+     "text": "Thou shalt have no other gods before me.",
+     "prompt": "What competes with God for first place in my attention?"
+    },
+    {
+     "text": "Thou shalt not make unto thee any graven image,",
+     "prompt": "What images of success or security do I quietly serve?"
+    },
+    {
+     "text": "Thou shalt not take the name of the LORD thy God in vain;",
+     "prompt": "Do my words and my witness carry God's name with care?"
+    },
+    {
+     "text": "Remember the sabbath day, to keep it holy.",
+     "prompt": "Where is rest in my week, and do I protect it?"
+    },
+    {
+     "text": "Honour thy father and thy mother:",
+     "prompt": "How can I honor my parents, or those who formed me, this week?"
+    },
+    {
+     "text": "Thou shalt not kill.",
+     "prompt": "Where does contempt or anger live in me?"
+    },
+    {
+     "text": "Thou shalt not commit adultery.",
+     "prompt": "How can I guard and strengthen faithfulness in my closest relationships?"
+    },
+    {
+     "text": "Thou shalt not steal.",
+     "prompt": "Am I giving full value in my work, my time and my dealings?"
+    },
+    {
+     "text": "Thou shalt not bear false witness against thy neighbour.",
+     "prompt": "Do I speak about others, including people in the news, truthfully and fairly?"
+    },
+    {
+     "text": "Thou shalt not covet",
+     "prompt": "What am I comparing myself against? What would contentment look like?"
+    }
+   ]
+  }
+ ],
+ "constant_block_days": 21,
+ "prayers": [
+  {
+   "title": "Prayer of Saint Basil the Great",
+   "text": "Lord our God, steer the ship of our lives to yourself, the quiet harbor, for all storm-stressed souls. Guide us, who are Your servants, along the safest course among the reefs of life's many temptations. Steer us to the actual haven of security for our souls, which is Yourself. Amen."
+  },
+  {
+   "title": "Saint Augustine's prayer on the restless heart",
+   "source": "Confessions",
+   "text": "You have made us for Yourself, O Lord, and our heart is restless until it rests in You. Great are You, O Lord, and greatly to be praised. You move us to delight in praising You, for You have made us for Yourself."
+  },
+  {
+   "title": "Saint Patrick's Breastplate",
+   "source": "the Christ with me section",
+   "text": "Christ with me, Christ before me, Christ behind me, Christ in me, Christ beneath me, Christ above me, Christ on my right, Christ on my left, Christ when I lie down, Christ when I sit down, Christ when I arise, Christ in the heart of everyone who thinks of me, Christ in the mouth of everyone who speaks of me, Christ in every eye that sees me, Christ in every ear that hears me."
+  },
+  {
+   "title": "Saint Teresa of Avila's Bookmark Prayer",
+   "text": "Let nothing disturb you, let nothing frighten you, all things are passing away, God never changes. Patience obtains all things. Whoever has God lacks nothing. God alone suffices."
+  },
+  {
+   "title": "The Canticle of the Creatures",
+   "source": "Saint Francis of Assisi",
+   "text": "Most High, all-powerful, good Lord, Yours is the praise, the glory, the honor, and every blessing. To You alone, Most High, do they belong, and no one is worthy to speak Your name. Praised be You, my Lord, with all Your creatures, especially Sir Brother Sun, who is the day and through whom You give us light, and he is beautiful and radiant with great splendor, and bears a likeness of You, Most High One."
+  },
+  {
+   "title": "Prayer from the Imitation of Christ",
+   "source": "Thomas à Kempis",
+   "text": "Most kind Jesus, grant me Your grace, so that it may be with me and work with me and remain with me to the end. Grant me to know what I ought to know, to love what I ought to love, to praise what delights You most, to value what is precious in Your sight, and to hate what is offensive to You."
+  },
+  {
+   "title": "The Suscipe",
+   "source": "Saint Ignatius of Loyola",
+   "text": "Take, Lord, and receive all my liberty, my memory, my understanding, and my entire will, all that I have and call my own. You have given all to me. To You, Lord, I return it. Everything is Yours. Do with it what You will. Give me only Your love and Your grace. That is enough for me."
+  },
+  {
+   "title": "The Magnificat",
+   "source": "Mary's song of praise, Luke 1",
+   "text": "My soul magnifies the Lord, and my spirit rejoices in God my Savior, for He has looked upon the humble estate of His servant. For behold, from now on all generations will call me blessed, for He who is mighty has done great things for me, and holy is His name."
+  },
+  {
+   "title": "The Lord's Prayer",
+   "source": "Matthew 6",
+   "text": "Our Father, who art in heaven, hallowed be Thy name. Thy kingdom come, Thy will be done, on earth as it is in heaven. Give us this day our daily bread, and forgive us our trespasses, as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil."
+  },
+  {
+   "title": "Augustine's prayer for the light of truth",
+   "text": "Grant me, O Lord, to know You, to love You, and to rejoice in You. And if I cannot do these perfectly in this life, let me at least advance to higher degrees every day, until I can come to do them in perfection. Let the knowledge of You increase in me here, that it may be full hereafter. Let the love of You grow every day more and more here, that it may be perfect hereafter, so that my joy may be full in You."
+  },
+  {
+   "title": "Prayer Before the Crucifix",
+   "source": "Saint Francis of Assisi, before the San Damiano cross",
+   "text": "Most High, glorious God, enlighten the darkness of my heart and give me true faith, certain hope, and perfect charity, sense and knowledge, Lord, that I may carry out Your holy and true command. Amen."
+  }
+ ],
+ "narrative_track": {
+  "about": "A rotating track through less-visited parts of scripture in narrative order, grouped by the periods of salvation history (in the spirit of the Great Adventure Bible Timeline). One unit per month.",
+  "units": [
+   {
+    "period": "Early World",
+    "title": "Job",
+    "books": [
+     [
+      "Job",
+      42
+     ]
+    ]
+   },
+   {
+    "period": "Egypt and Exodus",
+    "title": "Leviticus",
+    "books": [
+     [
+      "Leviticus",
+      27
+     ]
+    ]
+   },
+   {
+    "period": "Desert Wanderings",
+    "title": "Numbers",
+    "books": [
+     [
+      "Numbers",
+      36
+     ]
+    ]
+   },
+   {
+    "period": "Conquest and Judges",
+    "title": "Judges and Ruth",
+    "books": [
+     [
+      "Judges",
+      21
+     ],
+     [
+      "Ruth",
+      4
+     ]
+    ]
+   },
+   {
+    "period": "Royal Kingdom",
+    "title": "Proverbs",
+    "books": [
+     [
+      "Proverbs",
+      31
+     ]
+    ]
+   },
+   {
+    "period": "Royal Kingdom",
+    "title": "Ecclesiastes and Song of Solomon",
+    "books": [
+     [
+      "Ecclesiastes",
+      12
+     ],
+     [
+      "Song of Solomon",
+      8
+     ]
+    ]
+   },
+   {
+    "period": "Divided Kingdom",
+    "title": "Amos, Hosea, Jonah and Micah",
+    "books": [
+     [
+      "Amos",
+      9
+     ],
+     [
+      "Hosea",
+      14
+     ],
+     [
+      "Jonah",
+      4
+     ],
+     [
+      "Micah",
+      7
+     ]
+    ]
+   },
+   {
+    "period": "Exile",
+    "title": "Lamentations, Habakkuk, Obadiah and Daniel",
+    "books": [
+     [
+      "Lamentations",
+      5
+     ],
+     [
+      "Habakkuk",
+      3
+     ],
+     [
+      "Obadiah",
+      1
+     ],
+     [
+      "Daniel",
+      12
+     ]
+    ]
+   },
+   {
+    "period": "Return",
+    "title": "Ezra, Nehemiah, Haggai and Malachi",
+    "books": [
+     [
+      "Ezra",
+      10
+     ],
+     [
+      "Nehemiah",
+      13
+     ],
+     [
+      "Haggai",
+      2
+     ],
+     [
+      "Malachi",
+      4
+     ]
+    ]
+   },
+   {
+    "period": "Messianic Fulfillment",
+    "title": "Mark",
+    "books": [
+     [
+      "Mark",
+      16
+     ]
+    ]
+   },
+   {
+    "period": "The Church",
+    "title": "1 and 2 Timothy, Titus and Philemon",
+    "books": [
+     [
+      "1 Timothy",
+      6
+     ],
+     [
+      "2 Timothy",
+      4
+     ],
+     [
+      "Titus",
+      3
+     ],
+     [
+      "Philemon",
+      1
+     ]
+    ]
+   },
+   {
+    "period": "The Church",
+    "title": "Hebrews and James",
+    "books": [
+     [
+      "Hebrews",
+      13
+     ],
+     [
+      "James",
+      5
+     ]
+    ]
+   }
+  ]
+ },
+ "trial_sources": [
+  {
+   "id": "catholic",
+   "name": "Catholic daily lectionary",
+   "length": "about 2-3 minutes",
+   "about": "The Mass readings for the day: usually a first reading, a psalm and a Gospel."
+  },
+  {
+   "id": "orthodox",
+   "name": "Eastern Orthodox daily readings",
+   "length": "about 4-6 minutes, plus a saint's life",
+   "about": "The Epistle and Gospel for the day, with the lives of the saints commemorated."
+  },
+  {
+   "id": "coptic",
+   "name": "Coptic Orthodox daily readings (Katameros)",
+   "length": "10 minutes or more",
+   "about": "The full stack of Vespers, Matins and Liturgy passages, plus the Synaxarium."
+  },
+  {
+   "id": "biy",
+   "name": "Bible in a Year (Fr. Mike Schmitz)",
+   "length": "a 20-25 minute podcast episode",
+   "about": "Scripture read in narrative order following the Great Adventure Bible Timeline, with a short reflection and prayer."
+  }
+ ],
+ "reflection_prompts": [
+  "Sit with today's passage for two minutes before doing anything else.",
+  "Name one thing you are grateful for that you did nothing to earn.",
+  "Who comes to mind when you read today's prayer? Pray for them by name.",
+  "What is one thing weighing on you that is outside your control? Hand it over.",
+  "Where did you see something good and true this week?"
+ ],
+ "hyperlocal_prompts": [
+  "Who in your family or among your friends is carrying something heavy right now? Could you call them this week?",
+  "What is one good thing happening in your household that deserves to be noticed out loud?",
+  "Who have you not talked to in a while that you have been meaning to reach out to?",
+  "What does your family need from you this week that no one has asked for?"
+ ]
+}
