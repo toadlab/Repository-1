@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-26T20:32:32.148649+00:00",
+ "generated": "2026-09-26T21:27:09.221963+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,72 @@
  ],
  "items": [
   {
+   "id": "dc5707e6ec24",
+   "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+   "link": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Christy Spivey tells the BBC she only has more questions now police think Tasia Fortune's body was put in the tree after her death.",
+   "published": "2026-09-26T21:13:13+00:00"
+  },
+  {
+   "id": "9fd30229a17b",
+   "title": "Yamal nets in Spain’s 3-2 comeback win against England in Nations League",
+   "link": "https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lamine Yamal goal opens the scoring, but Spain made to comeback in Nations League win as Harry Kane misses penalty.",
+   "published": "2026-09-26T21:09:59+00:00"
+  },
+  {
+   "id": "6df35b9282bb",
+   "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A wave of Russian strikes has hit various regions across Ukraine.",
+   "published": "2026-09-26T20:57:54+00:00"
+  },
+  {
+   "id": "7deee3f6e163",
+   "title": "Why is violence between Pakistan and Afghanistan recurring?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pakistan has carried out new strikes inside Afghanistan.",
+   "published": "2026-09-26T20:55:44+00:00"
+  },
+  {
+   "id": "e196d18a7730",
+   "title": "Major storm in US north-east knocks out power for 100,000 and floods roads",
+   "link": "https://www.theguardian.com/us-news/2026/sep/26/noreaster-north-east-us",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Residents across New Jersey, Massachusetts, Delaware and New York without electricity as storm hits A slow-moving, powerful storm known as a nor’easter crept along the coast of the US north-east on Saturday, producing high winds that knocked out electricity to thousands of…",
+   "published": "2026-09-26T20:34:42+00:00"
+  },
+  {
+   "id": "ae08c77c6bd5",
+   "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
+   "link": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hamas accuses Board of Peace of aligning with Israel after excluding UN agency for Palestinians from Gaza operations.",
+   "published": "2026-09-26T20:33:05+00:00"
+  },
+  {
    "id": "b7b8e82fc48e",
    "title": "When Making a Statutory Argument, It Helps To Read the Statute",
    "link": "https://reason.com/volokh/2026/09/26/when-making-a-statutory-argument-it-helps-to-read-the-statute/",
@@ -193,6 +259,17 @@
    "flourishing_feed": false,
    "summary": "“She currently has about 15 sitters, all independent contractors.”",
    "published": "2026-09-26T20:00:00+00:00"
+  },
+  {
+   "id": "c91cab7f8cf6",
+   "title": "Republic of Ireland to wear black armbands for Israel game",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel.",
+   "published": "2026-09-26T19:59:00+00:00"
   },
   {
    "id": "f71799c88cc4",
@@ -680,13 +757,13 @@
   },
   {
    "id": "5f92916ca87c",
-   "title": "LIVE: England vs Spain – UEFA Nations League",
+   "title": "England 2-3 Spain: UEFA Nations League – as it happened",
    "link": "https://www.aljazeera.com/sports/liveblog/2026/9/26/live-england-vs-spain-uefa-nations-league?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Follow the updates, with build-up, predictions, team news and lineups, from our live text commentary stream coverage.",
+   "summary": "Updates from our live text commentary stream coverage as Yamal scores for Spain, but England's Kane misses penalty.",
    "published": "2026-09-26T15:47:40+00:00"
   },
   {
@@ -974,17 +1051,6 @@
    "flourishing_feed": false,
    "summary": "From Lewis v. StopAntisemitism, decided Friday by Judge Adrienne Nelson (D. Or.): Plaintiff is a professional musician who has worked… The post Music Teacher's Defamation Lawsuit Against StopAntisemitism Thrown Out appeared first on Reason Magazine.",
    "published": "2026-09-26T13:35:34+00:00"
-  },
-  {
-   "id": "e196d18a7730",
-   "title": "Power outages and flooded roads as major storm bears down on US north-east",
-   "link": "https://www.theguardian.com/us-news/2026/sep/26/noreaster-north-east-us",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Thousands already without without power as New Jersey, Massachusetts, Delaware and New York brace for nor’easter More than 70,000 customers were without electricity in the north-eastern US on Saturday, a major sign of a powerful storm known as a nor’easter that was expected to…",
-   "published": "2026-09-26T13:35:26+00:00"
   },
   {
    "id": "2cf9a4ab7f97",
