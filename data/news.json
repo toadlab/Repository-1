@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T17:26:07.388240+00:00",
+ "generated": "2026-09-27T18:30:47.941695+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -28,8 +28,8 @@
   },
   {
    "name": "The Dispatch",
-   "ok": false,
-   "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+   "ok": true,
+   "count": 10
   },
   {
    "name": "Deseret News",
@@ -140,6 +140,127 @@
    "published": "2026-09-28T04:00:00+00:00"
   },
   {
+   "id": "2b0a89bd386a",
+   "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+   "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“As a country, we have grown dangerously comfortable.”",
+   "published": "2026-09-27T18:30:00+00:00"
+  },
+  {
+   "id": "90c20609f57e",
+   "title": "Republican says Trump’s support of Ken Paxton in Texas primary was ‘colossal mistake’",
+   "link": "https://www.theguardian.com/us-news/2026/sep/27/republican-tillis-trump-paxton",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thom Tillis says Trump’s decision to back Paxton over John Cornyn has put the Senate seat at risk for Republicans US senator Thom Tillis on Sunday criticized Donald Trump , his fellow Republican, for the president’s support of Ken Paxton over incumbent John Cornyn in the Texas…",
+   "published": "2026-09-27T18:19:02+00:00"
+  },
+  {
+   "id": "d90ab5570ae0",
+   "title": "Where BYU and Utah landed in Week 3’s AP top 25 poll",
+   "link": "https://www.deseret.com/sports/2026/09/27/byu-utah-football-ap-top-25-poll-week-3-2026/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Utah is moving up in the national rankings, while BYU takes a step back. The Utes moved up two spots to No. 13 in Sunday’s latest AP top 25 poll following their 31-17 win at Iowa State. The Cougars, who sat idle with a bye, took a one-spot setback to now sit at No. 10.…",
+   "published": "2026-09-27T18:14:16+00:00"
+  },
+  {
+   "id": "f6cafcd4a485",
+   "title": "‘Don’t squander it’: Can Labour hang on to the Burnham bounce?",
+   "link": "https://www.theguardian.com/politics/2026/sep/27/burnham-bounce-gives-labour-a-second-chance-but-budget-realities-are-looming",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Conference delegates grateful ousting Starmer has paid off, but relief tempered by fiscal headwinds ahead UK politics live – latest updates Even Andy Burnham’s closest allies accept that deposing Keir Starmer to install their man as leader was a huge political gamble. But if…",
+   "published": "2026-09-27T18:05:15+00:00"
+  },
+  {
+   "id": "e4723fc29ff2",
+   "title": "UK to open new refugee resettlement routes for Afghan women and Palestinians",
+   "link": "https://www.theguardian.com/politics/2026/sep/27/shabana-mahmood-uk-refugee-resettlement-scheme-afghan-women-girls-palestinians",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Move by Shabana Mahmood comes after closure of Afghan scheme last year but experts say numbers too small to deter Channel crossings UK politics live – latest updates Shabana Mahmood will announce a new legal route for refugees that prioritises Afghan women and girls…",
+   "published": "2026-09-27T18:00:11+00:00"
+  },
+  {
+   "id": "8f450cee7bb0",
+   "title": "Why the Smartest Retirees Are Handing Out Inheritances Now",
+   "link": "https://www.kiplinger.com/retirement/inheritance/dont-wait-until-youre-gone-why-retirees-are-giving-away-wealth-early",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Older generations hold $124 trillion in assets. Here is why financial experts say giving your heirs an inheritance early might be the smartest move you can make.",
+   "published": "2026-09-27T18:00:00+00:00"
+  },
+  {
+   "id": "134ef26cdd13",
+   "title": "‘Iran ready for doomsday war’, FM Araghchi says",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Foreign Minister Abbas Araghchi says Iran is prepared for war to resume, ‘even if it comes to a doomsday war’.",
+   "published": "2026-09-27T17:46:04+00:00"
+  },
+  {
+   "id": "aa93907cd830",
+   "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
+   "link": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US ambassador says Iran refused to agree to an arrangement where uranium would be supplied by Washington.",
+   "published": "2026-09-27T17:42:45+00:00"
+  },
+  {
+   "id": "eb884084fb85",
+   "title": "Give While You Live Or Wait Until Death? Take Our Quiz to Find Out",
+   "link": "https://www.kiplinger.com/puzzles/quizzes/should-you-give-while-you-live-or-wait-until-death-take-our-quiz",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Great Wealth Transfer is upon us. Discover whether your heirs benefit more if you give now or let your assets grow.",
+   "published": "2026-09-27T17:40:00+00:00"
+  },
+  {
+   "id": "2fca1ef23e08",
+   "title": "One month after Nepal’s catastrophic floods, thousands remain missing",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-nepal-floods-one-month-sv-mp4?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A month after floods tore through Nepal, 5,285 people remain missing and more than 1,100 are still in holding centres.",
+   "published": "2026-09-27T17:29:50+00:00"
+  },
+  {
+   "id": "68ec78794f38",
+   "title": "Late-night drive and a 999 call: chance encounter that led to terrorism arrests at RAF base",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/27/villagers-raf-fairford-evacuation",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Local people say members of WhatsApp group noticed suspicious activity around vans in Whelford overnight In the early hours of Sunday morning, a resident of the village of Whelford was driving home when she saw three white vans parked on a country road. She was immediately…",
+   "published": "2026-09-27T17:23:24+00:00"
+  },
+  {
    "id": "f3d048c9f105",
    "title": "UK politics live: Pat McFadden tells Labour activists they should not defend benefits system ‘status quo’ because it ‘writes off’ claimants",
    "link": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
@@ -148,7 +269,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Work and pensions secretary says the current system is flawed because it consigns too many people to a life on benefits when they would be better off working ‘I can deliver’: Burnham pledges radical change on eve of Labour conference Kuenssberg puts it to Burnham that,…",
-   "published": "2026-09-27T17:09:00+00:00"
+   "published": "2026-09-27T17:11:00+00:00"
   },
   {
    "id": "97c6947e011b",
@@ -191,7 +312,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Governments will be hoping row over the contentious Orange Order march down Garvaghy Road can be defused Portadown march: latest updates Like a ghost from its troubled past Drumcree has unexpectedly reappeared to remind people of how far Northern Ireland has changed in 30 years…",
+   "summary": "Governments will be hoping row over the contentious Orange Order march down Garvaghy Road can be defused Portadown march: latest updates Like a ghost from its troubled past, Drumcree has unexpectedly reappeared to remind people how far Northern Ireland has changed in 30 years…",
    "published": "2026-09-27T16:56:11+00:00"
   },
   {
@@ -547,17 +668,6 @@
    "published": "2026-09-27T15:00:00+00:00"
   },
   {
-   "id": "2b0a89bd386a",
-   "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-   "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“As a country, we have grown dangerously comfortable.”",
-   "published": "2026-09-27T14:45:00+00:00"
-  },
-  {
    "id": "2dddc5621806",
    "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
    "link": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss",
@@ -622,17 +732,6 @@
    "flourishing_feed": false,
    "summary": "At first, Bobure Wabol, from the Bikenibeu 2nd Ward in the Tarawa Kiribati East Stake, simply saw the new Sunday schedule of The Church of Jesus Christ of Latter-day Saints as a change in format. But after teaching a few lessons under the new way, she has come to appreciate the…",
    "published": "2026-09-27T14:07:02+00:00"
-  },
-  {
-   "id": "68ec78794f38",
-   "title": "‘Police were banging on the door’: villagers near RAF Fairford describe evacuation",
-   "link": "https://www.theguardian.com/uk-news/2026/sep/27/villagers-raf-fairford-evacuation",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Local people say members of WhatsApp group noticed suspicious activity around vans in Whelford overnight Those living near RAF Fairford have been used to disturbance from protesters and a heavy police presence after the decision to allow the US air force to use it as a base for…",
-   "published": "2026-09-27T14:04:31+00:00"
   },
   {
    "id": "4006c453dde9",
@@ -966,7 +1065,7 @@
   },
   {
    "id": "3d515067f5a3",
-   "title": "Photos: These shepherds climb down a mountain to go to night school",
+   "title": "Photos: This may be the most inspirational night school on Earth",
    "link": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
    "source": "NPR News",
    "circle_hint": "national",
