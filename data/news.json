@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T16:28:29.399129+00:00",
+ "generated": "2026-09-27T17:26:07.388240+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -28,8 +28,8 @@
   },
   {
    "name": "The Dispatch",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
   },
   {
    "name": "Deseret News",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 30
+   "count": 25
   },
   {
    "name": "The Guardian World",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Federal Register: IRS",
@@ -140,15 +140,158 @@
    "published": "2026-09-28T04:00:00+00:00"
   },
   {
+   "id": "f3d048c9f105",
+   "title": "UK politics live: Pat McFadden tells Labour activists they should not defend benefits system ‘status quo’ because it ‘writes off’ claimants",
+   "link": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Work and pensions secretary says the current system is flawed because it consigns too many people to a life on benefits when they would be better off working ‘I can deliver’: Burnham pledges radical change on eve of Labour conference Kuenssberg puts it to Burnham that,…",
+   "published": "2026-09-27T17:09:00+00:00"
+  },
+  {
+   "id": "97c6947e011b",
+   "title": "Giant pandas arrive in Atlanta as part of 10-year US-China agreement",
+   "link": "https://www.aljazeera.com/news/2026/9/27/giant-pandas-arrive-in-atlanta-as-part-of-10-year-us-china-agreement?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The two pandas, Ping Ping and Fu Shuang, arrived from southwestern China.",
+   "published": "2026-09-27T17:07:33+00:00"
+  },
+  {
    "id": "4380743d7c15",
-   "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+   "title": "Two bodies found after avalanche hits Himalayan climbing group",
    "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
-   "published": "2026-09-27T16:22:37+00:00"
+   "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
+   "published": "2026-09-27T17:05:26+00:00"
+  },
+  {
+   "id": "4deec7137bc2",
+   "title": "Dozens killed in two mass shootings in South Africa",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/dozens-killed-in-two-mass-shootings-in-south-africa?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least 27 people have been killed in two mass shootings across South Africa.",
+   "published": "2026-09-27T16:58:36+00:00"
+  },
+  {
+   "id": "ef2ebc4da5e1",
+   "title": "Drumcree standoff shows Northern Ireland’s troubled past still threatens its peace",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/27/drumcree-standoff-shows-northern-irelands-troubled-past-still-threatens-its-peace",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Governments will be hoping row over the contentious Orange Order march down Garvaghy Road can be defused Portadown march: latest updates Like a ghost from its troubled past Drumcree has unexpectedly reappeared to remind people of how far Northern Ireland has changed in 30 years…",
+   "published": "2026-09-27T16:56:11+00:00"
+  },
+  {
+   "id": "9b606860f7e1",
+   "title": "What Post Malone’s Ozzy Osbourne tribute meant to the late rocker’s son",
+   "link": "https://www.deseret.com/entertainment/2026/09/27/jack-osbourne-talks-post-malone-grammys-tribute-to-ozzy-osbourne/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jack Osbourne was visibly emotional as Post Malone honored his dad, heavy metal legend Ozzy Osbourne, at the Grammys with a performance of Black Sabbath’s “War Pigs” earlier this year. The performance — which also featured Slash, Guns N’ Roses bassist Duff McKagan, Red Hot…",
+   "published": "2026-09-27T16:55:47+00:00"
+  },
+  {
+   "id": "23c53f8b0b0a",
+   "title": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/jerusalem-daily-israeli-opposition-leaders-unite-to-drive-out-netanyahu?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jerusalem Daily: Israeli opposition leaders unite to drive out Netanyahu",
+   "published": "2026-09-27T16:53:57+00:00"
+  },
+  {
+   "id": "5a0ae9b9fc75",
+   "title": "Northern Ireland protesters block Orange Order march into Catholic area",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/aje-onl-nf_northern-ireland-protesters-block-orange-order-270926?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thousands of Protesters blocked a road leading into a Catholic area of Northern Ireland ahead of an Orange Order march.",
+   "published": "2026-09-27T16:51:15+00:00"
+  },
+  {
+   "id": "76fee30d47f1",
+   "title": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding in her finances?",
+   "link": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
+   "published": "2026-09-27T16:45:00+00:00"
+  },
+  {
+   "id": "48f3b53a67b1",
+   "title": "Muslims protest planned demolition of ‘600-year-old’ mosque in India",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/muslims-protest-planned-demolition-of-600-year-old-mosque-in-india?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hundreds of Muslims have gathered in the Indian city of Ujjain to protest the partial demolition of a historic mosque.",
+   "published": "2026-09-27T16:37:59+00:00"
+  },
+  {
+   "id": "2e4ff4b9f424",
+   "title": "Woman charged with stealing from patients and staff at hospitals across Ontario",
+   "link": "https://www.bbc.co.uk/news/articles/c3ew9e5lg01vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 34-year-old is under investigation for incidents that began in February 2024 up until as recently as last month.",
+   "published": "2026-09-27T16:35:41+00:00"
+  },
+  {
+   "id": "ca8a5e696a11",
+   "title": "Changing UK benefits for young people a ‘moral crusade’, says minister",
+   "link": "https://www.theguardian.com/politics/2026/sep/27/pat-mcfadden-uk-benefits-young-people-moral-crusade",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pat McFadden urges Labour MPs to back overhauls, amid signs party looking to cut payments for some 16- to 24-year-olds UK politics live – latest updates Labour MPs have a moral responsibility to accept significant changes to the welfare system to help get more young people into…",
+   "published": "2026-09-27T16:33:17+00:00"
+  },
+  {
+   "id": "f7656d113ba5",
+   "title": "UN ambassador Waltz says Iran was not negotiating ‘in good faith’ to end war",
+   "link": "https://www.theguardian.com/us-news/2026/sep/27/trump-un-ambassador-iran-war",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Waltz says Trump rejected Iran’s proposal to end war because they ‘were asking for everything up front’ The Trump administration ’s ambassador to the United Nations said the US rejected Iran ’s proposal to end the ongoing war there because Iranian negotiators “were asking for…",
+   "published": "2026-09-27T16:28:05+00:00"
+  },
+  {
+   "id": "3c6bb9508d78",
+   "title": "Most of UK’s essential food supply grown in drought-risk areas, report warns",
+   "link": "https://www.theguardian.com/business/2026/sep/27/most-of-uks-essential-food-supply-grown-in-drought-risk-areas-report-warns",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Keys crops such as cereals, potatoes, sugar and oils grown in areas with moderate to very high risk The vast majority of the UK’s essential foods, including cereals, potatoes, sugar and oil, are grown in areas of England rated as having a moderate to very high risk of drought.…",
+   "published": "2026-09-27T16:24:27+00:00"
   },
   {
    "id": "3bbf9ac9d91e",
@@ -226,17 +369,6 @@
    "flourishing_feed": false,
    "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
    "published": "2026-09-27T16:00:00+00:00"
-  },
-  {
-   "id": "f3d048c9f105",
-   "title": "UK politics live: Burnham says he wants to fight next election on plan for new taxes to pay for free social care in England",
-   "link": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "PM appears to be anticipating criticism of reforms that he will set out on Tuesday at the Labour party conference ‘I can deliver’: Burnham pledges radical change on eve of Labour conference Kuenssberg puts it to Burnham that, according to the Health Foundation, a system…",
-   "published": "2026-09-27T15:57:32+00:00"
   },
   {
    "id": "0643170288bd",
@@ -636,13 +768,13 @@
   },
   {
    "id": "5fb9047d4f91",
-   "title": "Two giant pandas set off to Atlanta zoo from China after Xi-Trump summit",
+   "title": "Two giant pandas arrive in Atlanta from China after Xi-Trump summit",
    "link": "https://www.theguardian.com/us-news/2026/sep/27/giant-pandas-atlanta-zoo-china-xi-trump-summit",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Pandas departed Chengdu for their new homes in Georgia as part of agreement between Chinese and US governments Two giant pandas departed Chengdu in south-western China early on Sunday for their new homes in Atlanta , Georgia, as part of an agreement between the Chinese and US…",
+   "summary": "Ping Ping and Fu Shuang to live at Atlanta zoo in Georgia as part of loan deal between Chinese and US governments Two giant pandas from China arrived in Atlanta , Georgia, on Sunday morning as part of an agreement between the Chinese and American governments. While in…",
    "published": "2026-09-27T13:14:42+00:00"
   },
   {
@@ -723,6 +855,17 @@
    "published": "2026-09-27T12:34:13+00:00"
   },
   {
+   "id": "acc34d2c97e9",
+   "title": "Trump wants to remove a question about race in the census. We look back at the history",
+   "link": "https://www.npr.org/2026/09/27/nx-s1-5966883/trump-wants-to-remove-a-question-about-race-in-the-census-we-look-back-at-the-history",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Trump administration wants to stop asking about race and ethnicity on the next U.S. census. Since 1790, the topic has been used to exclude people of color, and, more recently, for inclusion.",
+   "published": "2026-09-27T12:17:31+00:00"
+  },
+  {
    "id": "28bfe8c82375",
    "title": "Would You Take a Vacation Just to Sleep? Inside the Sleepcation Trend",
    "link": "https://www.kiplinger.com/personal-finance/travel/a-different-kind-of-dream-vacation",
@@ -732,6 +875,17 @@
    "flourishing_feed": false,
    "summary": "Sleepcations are becoming a popular travel trend, but some hotel sleep packages come at a premium. Here's how to decide what's worth paying for.",
    "published": "2026-09-27T12:15:00+00:00"
+  },
+  {
+   "id": "811e02c2bfae",
+   "title": "As Congress debates college sports, athletes-turned-senators have a seat at the table",
+   "link": "https://www.npr.org/2026/09/27/nx-s1-5978973/protect-college-sports-act-senators-athletes",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Protect College Sports Act is on the brink of passing in the Senate, where a handful of former college athletes who are now senators on both sides of the aisle have an extra say in the debate.",
+   "published": "2026-09-27T12:06:24+00:00"
   },
   {
    "id": "5c7c30026dd7",
@@ -1813,7 +1967,7 @@
   },
   {
    "id": "310ab98e9db8",
-   "title": "Killer Christa Pike is to be executed within days, but her defence say she's a victim too",
+   "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
    "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
