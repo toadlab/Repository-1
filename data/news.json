@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T19:25:35.018479+00:00",
+ "generated": "2026-09-27T20:27:04.182933+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "name": "The Guardian World",
@@ -140,6 +140,94 @@
    "published": "2026-09-28T04:00:00+00:00"
   },
   {
+   "id": "e6dc28c76604",
+   "title": "Watch: The ups and downs of SpaceX's 13 Starship test flights",
+   "link": "https://www.bbc.co.uk/news/videos/cm0e30lpngxpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The BBC's Ricky Boleto looks how previous SpaceX test flights went.",
+   "published": "2026-09-27T20:05:07+00:00"
+  },
+  {
+   "id": "dd7f9186901b",
+   "title": "Embattled Serbian president resigns, paving way for early elections",
+   "link": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+   "published": "2026-09-27T20:04:21+00:00"
+  },
+  {
+   "id": "06a0b3521465",
+   "title": "Why has Trump rejected Iran’s peace proposal?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US president has reportedly threatened to resume strikes on Iran.",
+   "published": "2026-09-27T20:03:04+00:00"
+  },
+  {
+   "id": "e49be6f9cfd8",
+   "title": "Shannon felt a ‘sense of doom’ as she sought justice for sexual assault. A new NSW program hopes to alleviate that",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/28/sexual-assault-service-nsw-victim-survivor-opening-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Dedicated service to support sexual assault victim-survivors as they navigate legal system to open in NSW Get our breaking news email , free app or daily news podcast It took Shannon Stokes two years and 11 days to successfully prosecute her former boyfriend for…",
+   "published": "2026-09-27T20:00:13+00:00"
+  },
+  {
+   "id": "b72d3708aa0a",
+   "title": "Republican senator criticizes White House for taxpayer-funded Trump ads",
+   "link": "https://www.theguardian.com/us-news/2026/sep/27/john-kennedy-white-house-trump-ad-tax-money",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "John Kennedy pushes back against such spending as pro-Trump ‘public service announcements’ air before midterms As the White House expands a taxpayer-funded advertising campaign to promote Donald Trump ’s political agenda before the November midterm elections , US senator John…",
+   "published": "2026-09-27T19:54:03+00:00"
+  },
+  {
+   "id": "007fe3baf6f8",
+   "title": "Pope says 'scourge' of abuse must be rooted out as he visits Lourdes",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
+   "published": "2026-09-27T19:47:21+00:00"
+  },
+  {
+   "id": "9051653c9cfb",
+   "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
+   "link": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ireland has been thrust into the global spotlight over two controversial Nations League football games against Israel.",
+   "published": "2026-09-27T19:35:30+00:00"
+  },
+  {
+   "id": "7b22fb2454c6",
+   "title": "Bill Gates says AI without regulation is ‘completely irresponsible’",
+   "link": "https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The billionaire cofounder of Microsoft says, without restrictions, AI could 'cause a billion deaths'.",
+   "published": "2026-09-27T19:34:42+00:00"
+  },
+  {
    "id": "e5349dfe39c6",
    "title": "A ‘death cross’ is coming for the dollar. Why Trump will be happy.",
    "link": "https://www.marketwatch.com/story/a-death-cross-is-coming-for-the-dollar-why-trump-will-be-happy-0766303d?mod=mw_rss_topstories",
@@ -158,8 +246,30 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Vučić not allowed to seek third presidential term and PM election will test his grip on rule after widespread protests Serbia’s populist president, Aleksandar Vučić, has resigned to pursue an attempt to become the prime minister in an upcoming early parliamentary election that…",
+   "summary": "Vučić not allowed to seek third presidential term and election will test his grip on rule after widespread protests Serbia’s populist president, Aleksandar Vučić, has resigned to pursue an attempt to become prime minister in an early parliamentary election that will test his…",
    "published": "2026-09-27T19:09:38+00:00"
+  },
+  {
+   "id": "38cb12525584",
+   "title": "Stuck between Israeli military checkpoints",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli road closures have become a part of daily life for Palestinians in the occupied West Bank.",
+   "published": "2026-09-27T19:04:21+00:00"
+  },
+  {
+   "id": "ebb7bce4290f",
+   "title": "Palestine Action protesters arrested in Liverpool",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/aje-onl-nf_palestine-action-protesters-arrested-in-liverpool-270926?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police have arrested protesters at a Palestine Action demonstration in Liverpool, ahead of the Labour Party conference.",
+   "published": "2026-09-27T18:56:27+00:00"
   },
   {
    "id": "c037d3738b6b",
@@ -169,7 +279,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "PM says he is willing to expend political capital to bring in universal service that would be funded by ‘everybody’ Analysis: can Labour hang on to Burnham bounce? Andy Burnham will fight the next election with a pledge to finally fix the broken social care system,…",
+   "summary": "PM says he is willing to expend political capital to bring in universal service for England funded by ‘everybody’ Analysis: can Labour hang on to Burnham bounce? Andy Burnham will fight the next election with a pledge to finally fix the broken social care system, acknowledging…",
    "published": "2026-09-27T18:56:22+00:00"
   },
   {
@@ -653,7 +763,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Pontiff also uses visit to Catholic shrine at Lourdes to criticise assisted dying as ‘false compassion’ The pope has called on the Catholic church to heal “deep wounds” and “painful errors”, before a meeting with survivors of child sexual abuse as he continues his four-day…",
+   "summary": "Pontiff also uses visit to Catholic shrine at Lourdes to criticise assisted dying as ‘false compassion’ The pope has called on the Catholic church to heal “deep wounds” and “painful errors”, before a meeting survivors of child sexual abuse as he continues his four-day visit to…",
    "published": "2026-09-27T15:22:50+00:00"
   },
   {
@@ -1161,17 +1271,6 @@
    "flourishing_feed": false,
    "summary": "Decision to allow development of 190 new homes in north Somerset sparks campaign for change in the law Houses can be built on floodplains even if they fail a crucial safety test, according to a high court judgment that will be of “immense interest” to developers across England…",
    "published": "2026-09-27T11:48:47+00:00"
-  },
-  {
-   "id": "007fe3baf6f8",
-   "title": "'Scourge' of abuse must be rooted out, says Pope during Lourdes visit",
-   "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Pope Leo spoke to bishops before leading a service attended by thousands of worshippers in France.",
-   "published": "2026-09-27T11:38:03+00:00"
   },
   {
    "id": "6fc478749533",
