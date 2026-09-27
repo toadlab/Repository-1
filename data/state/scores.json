@@ -7134,5 +7134,53 @@
   "decision": "exclude",
   "exclusion": "low durability",
   "persistent": false
+ },
+ "fb6dc0236c6e": {
+  "story_key": "iowa-state-coach-jimmy-rogers",
+  "durability": 2,
+  "circle": "national",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 2.0,
+  "bar": 8.0,
+  "decision": "exclude",
+  "exclusion": "low durability",
+  "persistent": false
+ },
+ "bd6438757477": {
+  "story_key": "araghchi-ignores-trump-waits-mediators",
+  "durability": 4,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
+ },
+ "d20a141229c9": {
+  "story_key": "cash-grab-one-nation-demands",
+  "durability": 7,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 7.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
  }
 }
