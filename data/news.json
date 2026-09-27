@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T12:32:51.120839+00:00",
+ "generated": "2026-09-27T13:27:02.154578+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 28
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,50 @@
  ],
  "items": [
   {
+   "id": "5d66b44eb0a7",
+   "title": "Monty Don says he may have to sack his gardeners after leaving BBC",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/27/monty-don-may-sack-gardeners-leaving-bbc",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Presenter reveals corporation has been paying part of their salaries to keep his Herefordshire garden ‘camera ready’ For 15 years, viewers have looked in amazement at Monty Don’s beautiful Herefordshire garden, known as Longmeadow, as he hosted the show Gardeners’ World from…",
+   "published": "2026-09-27T13:06:15+00:00"
+  },
+  {
+   "id": "549b64aa5243",
+   "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+   "link": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "On Saturday night, there were separate mass shootings near South Africa's two largest cities.",
+   "published": "2026-09-27T13:01:27+00:00"
+  },
+  {
+   "id": "349e2cc5a007",
+   "title": "‘I wanted to help another family’: four surrogates on how they feel about the surrogacy discourse",
+   "link": "https://www.theguardian.com/lifeandstyle/2026/sep/27/surrogacy-pregnancy-discourse-controversey",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Guardian spoke with surrogates across the US about what they think of the controversy surrounding the practice Surrogacy has been thrust into the national spotlight in recent weeks, with both the announcement of Lena Dunham using a surrogate to start a family and the…",
+   "published": "2026-09-27T13:00:06+00:00"
+  },
+  {
+   "id": "d2e2f82a70d9",
+   "title": "Look closer, and Wall Street’s rally is showing cracks",
+   "link": "https://www.marketwatch.com/story/look-closer-and-wall-streets-rally-is-showing-cracks-94952048?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Major stock indexes hovering near records are masking a market straining under elevated oil prices, rising Treasury yields and a Federal Reserve bracing for additional interest-rate hikes.",
+   "published": "2026-09-27T13:00:00+00:00"
+  },
+  {
    "id": "f3d048c9f105",
    "title": "UK politics live: Burnham says he wants to fight next election on plan for new taxes to pay for free social care in England",
    "link": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
@@ -137,7 +181,51 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "PM appears to be anticipating criticism of reforms that he will set out on Tuesday at the Labour party conference ‘I can deliver’: Burnham pledges radical change on eve of Labour conference Kuenssberg puts it to Burnham that, according to the Health Foundation, a system…",
-   "published": "2026-09-27T12:24:37+00:00"
+   "published": "2026-09-27T12:51:01+00:00"
+  },
+  {
+   "id": "6c36a3683990",
+   "title": "Swiss voters set to reject tighter neutrality rules in referendum",
+   "link": "https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "About 71 percent of voters oppose initiative to impose stricter limits on neutrality, projection suggests.",
+   "published": "2026-09-27T12:45:42+00:00"
+  },
+  {
+   "id": "4380743d7c15",
+   "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+   "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
+   "published": "2026-09-27T12:36:57+00:00"
+  },
+  {
+   "id": "8e8dd43e1318",
+   "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+   "published": "2026-09-27T12:34:26+00:00"
+  },
+  {
+   "id": "06328a16b966",
+   "title": "Political rallies fill Brazil’s streets a week before elections",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rival political rallies have been held in Brazil as campaigns intensify with one week to go until election day.",
+   "published": "2026-09-27T12:34:13+00:00"
   },
   {
    "id": "e552da27f744",
@@ -257,7 +345,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "People evacuated from village after men are arrested on suspicion of explosives offences near Gloucestershire airbase used by US forces Counter-terrorism police are leading the investigation in which several men were arrested on suspicion of explosives offences near an RAF base…",
+   "summary": "Homes evacuated after men arrested on suspicion of explosives offences near Gloucestershire airbase used in US attacks against Iran Counter-terrorism police are leading the investigation in which several men were arrested on suspicion of explosives offences near an RAF base…",
    "published": "2026-09-27T11:40:22+00:00"
   },
   {
@@ -284,7 +372,7 @@
   },
   {
    "id": "432ad921ed94",
-   "title": "Updating etiquette for the 21st century",
+   "title": "Wait, what are the rules around cellphone etiquette now?",
    "link": "https://www.vox.com/explain-it-to-me/503469/phone-etiquette-headphones-speakerphone-lizzie-emily-post",
    "source": "Vox",
    "circle_hint": "national",
@@ -334,7 +422,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Supplies cut off from Ukrainian city where bodies are being left to be eaten by dogs because of deadly risk from drones The phone message sent out of Russian-occupied Oleshky was grimly matter of fact: food for the 2,000 or so civilians still remaining in the city and its…",
+   "summary": "Ukrainian forces airdrop supplies in to city where bodies are left to be eaten by dogs because of deadly risk from drones The phone message sent out of Russian-occupied Oleshky was grimly matter of fact: food for the 2,000 or so civilians – including 50 children – remaining in…",
    "published": "2026-09-27T11:00:04+00:00"
   },
   {
@@ -558,6 +646,17 @@
    "published": "2026-09-27T08:59:38+00:00"
   },
   {
+   "id": "325adde017a5",
+   "title": "Before BTS and Blackpink, there was Big Bang: Now the Kings of K-pop are back",
+   "link": "https://www.bbc.co.uk/news/articles/cq39me84zrkdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Big Bang played London's Tottenham Hotspur Stadium, marking a long-awaited return for the group that helped build the blueprint for modern K-pop.",
+   "published": "2026-09-27T08:51:23+00:00"
+  },
+  {
    "id": "11934f0cd6ec",
    "title": "Massive Attack singer arrested over pro-Palestine protest in UK",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/massive-attack-singer-arrested-over-pro-palestine-protest-in-uk?traffic_source=rss",
@@ -752,7 +851,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Crowd gathered on Garvaghy Road early on Sunday to protest against the ruling allowing the march.",
+   "summary": "Crowd gathered on Garvaghy Road on Sunday to protest against a court ruling allowing the march.",
    "published": "2026-09-27T06:53:31+00:00"
   },
   {
@@ -930,17 +1029,6 @@
    "flourishing_feed": false,
    "summary": "For the first time this season, Utah State was in the driver’s seat to close a game Saturday. The season’s storyline has been the Aggies’ struggling offense, especially in the run game and quarterback play, but for the first time in 2026, the offense showed life in a 21-10 win…",
    "published": "2026-09-27T04:32:48+00:00"
-  },
-  {
-   "id": "8e8dd43e1318",
-   "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-   "published": "2026-09-27T04:23:09+00:00"
   },
   {
    "id": "478f32f2d386",
