@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T15:27:32.657504+00:00",
+ "generated": "2026-09-27T16:28:29.399129+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 28
+   "count": 30
   },
   {
    "name": "The Guardian World",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "name": "Federal Register: IRS",
@@ -129,6 +129,215 @@
  ],
  "items": [
   {
+   "id": "69e3a8cdcc28",
+   "title": "Information Reporting Regarding Qualified Opportunity Zones and Updated Qualified Opportunity Fund Certification and Decertification Procedures",
+   "link": "https://www.federalregister.gov/documents/2026/09/28/C1-2026-18574/information-reporting-regarding-qualified-opportunity-zones-and-updated-qualified-opportunity-fund",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "",
+   "published": "2026-09-28T04:00:00+00:00"
+  },
+  {
+   "id": "4380743d7c15",
+   "title": "Ten climbers missing after avalanche hits Himalayan base camp",
+   "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
+   "published": "2026-09-27T16:22:37+00:00"
+  },
+  {
+   "id": "3bbf9ac9d91e",
+   "title": "Afghanistan says 28 fighters killed as Islamabad, Kabul trade accusations",
+   "link": "https://www.aljazeera.com/news/2026/9/27/afghanistan-says-28-fighters-killed-as-islamabad-kabul-trade-accusations?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Relations strain further as Afghanistan and Pakistan trade accusations over terrorism and cross-border violence.",
+   "published": "2026-09-27T16:05:49+00:00"
+  },
+  {
+   "id": "7824db06bf03",
+   "title": "Switzerland rejects stricter interpretation of its neutrality",
+   "link": "https://www.bbc.co.uk/news/articles/cm750plvwy9vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The initiative would have prevented the nation from imposing sanctions unless approved by the UN.",
+   "published": "2026-09-27T16:02:17+00:00"
+  },
+  {
+   "id": "95afb8689f1b",
+   "title": "5 arrested near British air base used by US in Iran war on suspicion of preparing a terrorist act",
+   "link": "https://www.csmonitor.com/World/2026/0927/britain-fairford-iran-war?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The British base has been used by American bombers for limited strikes against Iran. Iran has said that bases used to attack it are legitimate targets.",
+   "published": "2026-09-27T16:02:08+00:00"
+  },
+  {
+   "id": "159708f09970",
+   "title": "Nor’easter storm batters US east coast with heavy winds and power outages",
+   "link": "https://www.theguardian.com/us-news/2026/sep/27/noreaster-storm-east-coast-death-power-outages",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least one person killed and nearly 150,000 households lost electricity from North Carolina to New England A strong, deadly storm known as a nor’easter battered the US’s east coast over the weekend, bringing power outages, flooding, damaging winds and hazardous ocean…",
+   "published": "2026-09-27T16:01:14+00:00"
+  },
+  {
+   "id": "e7c4eff3c97e",
+   "title": "LIVE: Norway vs Portugal – Nations League",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/9/27/live-norway-vs-portugal-nations-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow updates as Norway host Portugal for a Group A4 clash, including the build-up, analysis and live text commentary.",
+   "published": "2026-09-27T16:00:35+00:00"
+  },
+  {
+   "id": "d7f751e79a1b",
+   "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
+   "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
+   "published": "2026-09-27T16:00:00+00:00"
+  },
+  {
+   "id": "1dd691d2549e",
+   "title": "‘It doesn’t seem fair’: I’m retired and have plenty of money. Why can’t I qualify for a retail credit card?",
+   "link": "https://www.marketwatch.com/story/it-doesnt-seem-fair-im-retired-and-have-plenty-of-money-why-cant-i-qualify-for-a-retail-credit-card-8a58eda3?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I draw from my IRA as needed for household repairs, trips and other larger expenses.”",
+   "published": "2026-09-27T16:00:00+00:00"
+  },
+  {
+   "id": "f3d048c9f105",
+   "title": "UK politics live: Burnham says he wants to fight next election on plan for new taxes to pay for free social care in England",
+   "link": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "PM appears to be anticipating criticism of reforms that he will set out on Tuesday at the Labour party conference ‘I can deliver’: Burnham pledges radical change on eve of Labour conference Kuenssberg puts it to Burnham that, according to the Health Foundation, a system…",
+   "published": "2026-09-27T15:57:32+00:00"
+  },
+  {
+   "id": "0643170288bd",
+   "title": "Venezuela releases dozens of political prisoners as election calls grow",
+   "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
+   "published": "2026-09-27T15:56:25+00:00"
+  },
+  {
+   "id": "28a394739b04",
+   "title": "Who is Gavin Bazunu, and why is he boycotting the Ireland vs Israel match?",
+   "link": "https://www.aljazeera.com/sports/2026/9/27/who-is-gavin-bazunu-and-why-is-he-boycotting-the-ireland-vs-israel-match?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bazunu says his decision to withdraw was based on a 'personal belief that the killing of innocent people is wrong'.",
+   "published": "2026-09-27T15:51:18+00:00"
+  },
+  {
+   "id": "58494643ebc3",
+   "title": "The longevity boom is getting ahead of the science",
+   "link": "https://www.aljazeera.com/opinions/2026/9/27/the-longevity-boom-is-getting-ahead-of-the-science?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Billions are pouring into anti-ageing biotech, but manipulating ageing has risks we are only beginning to understand.",
+   "published": "2026-09-27T15:48:16+00:00"
+  },
+  {
+   "id": "3c6ab76ef2e3",
+   "title": "Burnham dodges questions on Heathrow third runway as project faces four-year delay",
+   "link": "https://www.theguardian.com/environment/2026/sep/27/burham-dodges-questions-heathrow-third-runway-delay",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Airport chiefs say 2035 operations deadline unachievable as critics say new delay makes case for project ‘even more dubious’ Plans for a third runway at Heathrow are once again up in the air after the prime minister refused to say whether he backs the “contested” project which…",
+   "published": "2026-09-27T15:47:04+00:00"
+  },
+  {
+   "id": "a74877c3d29e",
+   "title": "Tense standoff over loyalist march in Portadown as protesters block route",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/27/tense-standoff-loyalist-march-portadown-protesters-block-route",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sinn Féin leaders join those on streets opposing decision to allow Garvaghy Road parade for first time since 1998 Portadown march: latest updates Hundreds of protesters spent the day blocking the route of a hugely contentious parade in Northern Ireland after a court gave…",
+   "published": "2026-09-27T15:33:57+00:00"
+  },
+  {
+   "id": "1d1496b17fd8",
+   "title": "Finding Desert Angels: Searching for the missing at the US-Mexico border",
+   "link": "https://www.aljazeera.com/video/witness/2026/9/27/finding-desert-angels-searching-for-the-missing-at-the-us-mexico-border?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An ageing trailblazer of search and rescue risks his life to find a woman’s missing son in the US-Mexico borderlands.",
+   "published": "2026-09-27T15:30:00+00:00"
+  },
+  {
+   "id": "0cde24a9c0b0",
+   "title": "For Libya, the Hormuz crisis can be a trap or an opportunity",
+   "link": "https://www.aljazeera.com/opinions/2026/9/27/for-libya-the-hormuz-crisis-can-be-a-trap-or-an-opportunity?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Libyan hydrocarbons are increasingly sought after. To take full advantage, the country needs a new economic strategy.",
+   "published": "2026-09-27T15:29:19+00:00"
+  },
+  {
+   "id": "e552da27f744",
+   "title": "Pope Leo urges healing of ‘deep wounds’ before meeting child sexual abuse survivors in France",
+   "link": "https://www.theguardian.com/world/2026/sep/27/pope-leo-france-child-sexual-abuse-survivors",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pontiff also uses visit to Catholic shrine at Lourdes to criticise assisted dying as ‘false compassion’ The pope has called on the Catholic church to heal “deep wounds” and “painful errors”, before a meeting with survivors of child sexual abuse as he continues his four-day…",
+   "published": "2026-09-27T15:22:50+00:00"
+  },
+  {
+   "id": "64a15347ae66",
+   "title": "Burnham refreshes the parts others can’t reach on the Andy and Laura show | John Crace",
+   "link": "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-laura-kuenssberg-show-social-care",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The PM oozes confidence and easy-going charm as he tells Laura Kuenssberg the hill he’ll die on is fixing social care UK politics live – latest updates In recent weeks there has been much speculation in some parts of the media that Andy Burnham would call an early general…",
+   "published": "2026-09-27T15:17:23+00:00"
+  },
+  {
    "id": "3f804ce368bf",
    "title": "My friend is terminally ill. Should she sell her rental home and pay $100,000 in capital gains?",
    "link": "https://www.marketwatch.com/story/my-friend-is-terminally-ill-should-she-sell-her-rental-home-and-pay-100-000-in-capital-gains-8568aada?mod=mw_rss_topstories",
@@ -141,13 +350,13 @@
   },
   {
    "id": "853a933f05e4",
-   "title": "Swiss voters reject stricter neutrality rules that would curb Nato cooperation",
+   "title": "Swiss voters reject stricter neutrality rules that would have curbed Nato cooperation",
    "link": "https://www.theguardian.com/world/2026/sep/27/swiss-vote-reject-stricter-neutrality-rules-nato",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "70% vote against tightening centuries-old neutrality, which far right said was eroded by sanctions against Russia Swiss voters have decisively rejected a proposal for a strict definition of neutrality that would have required Switzerland to curb cooperation with Nato and…",
+   "summary": "70% vote against tightening centuries-old neutrality, which far right said was being eroded by sanctions against Russia Swiss voters have decisively rejected a proposal for a strict definition of neutrality that would have required Switzerland to curb cooperation with Nato and…",
    "published": "2026-09-27T15:05:21+00:00"
   },
   {
@@ -206,17 +415,6 @@
    "published": "2026-09-27T15:00:00+00:00"
   },
   {
-   "id": "f3d048c9f105",
-   "title": "UK politics live: Burnham says he wants to fight next election on plan for new taxes to pay for free social care in England",
-   "link": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "PM appears to be anticipating criticism of reforms that he will set out on Tuesday at the Labour party conference ‘I can deliver’: Burnham pledges radical change on eve of Labour conference Kuenssberg puts it to Burnham that, according to the Health Foundation, a system…",
-   "published": "2026-09-27T14:56:09+00:00"
-  },
-  {
    "id": "2b0a89bd386a",
    "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
    "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
@@ -246,7 +444,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "US-owned firm says average monthly users at its UK arm surged to 700,000 with sales up by a third Love them or hate them, Lime ebikes are an increasingly common sight on England’s roads with new figures showing annual profits more than doubling thanks to a surge in riders.…",
+   "summary": "US-owned firm says average monthly users at UK arm surged to nearly 700,000 with sales up by a third Love them or hate them, Lime ebikes are an increasingly common sight on England’s roads with new figures showing annual profits more than doubling thanks to a surge in riders.…",
    "published": "2026-09-27T14:24:16+00:00"
   },
   {
@@ -493,25 +691,14 @@
   },
   {
    "id": "6c36a3683990",
-   "title": "Swiss voters set to reject tighter neutrality rules in referendum",
+   "title": "Swiss voters reject tighter neutrality rules in referendum",
    "link": "https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "About 71 percent of voters oppose initiative to impose stricter limits on neutrality, projection suggests.",
+   "summary": "About 71 percent of voters oppose initiative to impose stricter limits on neutrality.",
    "published": "2026-09-27T12:45:42+00:00"
-  },
-  {
-   "id": "4380743d7c15",
-   "title": "Ten climbers missing after avalanche hits Himalayan base camp",
-   "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
-   "published": "2026-09-27T12:36:57+00:00"
   },
   {
    "id": "8e8dd43e1318",
@@ -534,17 +721,6 @@
    "flourishing_feed": false,
    "summary": "Rival political rallies have been held in Brazil as campaigns intensify with one week to go until election day.",
    "published": "2026-09-27T12:34:13+00:00"
-  },
-  {
-   "id": "e552da27f744",
-   "title": "Pope Leo urges healing of ‘deep wounds’ before meeting child sexual abuse survivors in France",
-   "link": "https://www.theguardian.com/world/2026/sep/27/pope-leo-france-child-sexual-abuse-survivors",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Catholic church must reckon with its ‘painful errors’, pontiff tells crowd in Lourdes during four-day tour The pope has called on the Catholic church to heal “deep wounds” and “painful errors”, before a meeting with survivors of child sexual abuse as he continues his four-day…",
-   "published": "2026-09-27T12:20:21+00:00"
   },
   {
    "id": "28bfe8c82375",
@@ -658,7 +834,7 @@
   },
   {
    "id": "007fe3baf6f8",
-   "title": "'Scourge' of abuse must be rooted out, says Pope, during Lourdes visit",
+   "title": "'Scourge' of abuse must be rooted out, says Pope during Lourdes visit",
    "link": "https://www.bbc.co.uk/news/articles/cm5y5nj8ejj8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -933,13 +1109,13 @@
   },
   {
    "id": "e99a3d60c379",
-   "title": "UK police evacuate homes near RAF Fairford airbase used by US",
+   "title": "Five arrested on ‘terrorism’ charges in UK near base used to strike Iran",
    "link": "https://www.aljazeera.com/news/2026/9/27/uk-police-evacuate-homes-near-air-base-used-by-us?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Police say they have arrested several men on suspicion of explosives-related offences.",
+   "summary": "Police evacuated about 85 households and cordoned off the area as bomb disposal experts examined three vehicles.",
    "published": "2026-09-27T08:59:38+00:00"
   },
   {
@@ -2524,17 +2700,6 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "\"I would tell my younger self to continue with your plan, but take a few more moments to let loose and create more experiences.\"",
-   "published": "2026-09-26T15:00:00+00:00"
-  },
-  {
-   "id": "d7f751e79a1b",
-   "title": "My husband and I are in our 50s and have no kids. We have $2 million in IRAs and 401(k)s. Do we really need a will?",
-   "link": "https://www.marketwatch.com/story/my-husband-and-i-are-in-our-50s-and-have-no-kids-we-have-2-million-do-we-need-a-will-62fb422f?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“We have no debt and own our primary home, a vacation home, as well as my mother’s home in another state.”",
    "published": "2026-09-26T15:00:00+00:00"
   },
   {
@@ -4780,6 +4945,17 @@
    "flourishing_feed": false,
    "summary": "Mirror Indy spoke to immigration experts about preparing documents and avoiding fraud. The post How to find legal help if a family member is detained by ICE appeared first on Mirror Indy .",
    "published": "2026-09-24T16:26:39+00:00"
+  },
+  {
+   "id": "6e8baf0e64b6",
+   "title": "High school girls tennis: 5A state tournament scores and schedules (updated with Saturday’s first round results)",
+   "link": "https://www.deseret.com/sports/2026/09/24/high-school-girls-tennis-5a-state-tournament-scores-schedules/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "First singles First round (Sept 26) At Brighton High School No. 17 Brielle Funes, Pleasant Grove def. No. 16 Brielle Yates, Box Elder, 6-1, 6-4 No. 9 Cecily Hancock, Payson def. No. 24 Megan Mckay, Cyprus, 6-0, 6-1 No. 12 Kate Ruffner, Springville def. No. 21 Jordin Madsen,…",
+   "published": "2026-09-24T16:24:50+00:00"
   },
   {
    "id": "41001f431334",
