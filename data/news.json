@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T12:37:03.004416+00:00",
+ "generated": "2026-09-28T13:31:38.647208+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,160 @@
  ],
  "items": [
   {
+   "id": "69e32e72154d",
+   "title": "Base jumper dies in Utah after wingsuit fails in remote mountainous region",
+   "link": "https://www.theguardian.com/us-news/2026/sep/28/base-jumper-dies-utah",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Identity of man, 27, being withheld pending family notification after 700ft plunge A Base jumper died on Sunday in Utah after his wingsuit failed while he plunged from a 700ft height, according to authorities. Local news reports cited the Cache county sheriff’s office, which…",
+   "published": "2026-09-28T13:28:37+00:00"
+  },
+  {
+   "id": "03bf5651b553",
+   "title": "Stevie Wonder releases four unheard songs from Songs in the Key of Life sessions",
+   "link": "https://www.theguardian.com/music/2026/sep/28/stevie-wonder-releases-four-unheard-songs-from-songs-in-the-key-of-life-sessions",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Previously unreleased material comes as Wonder marks 50th anniversary of album with arena tour Stevie Wonder has expanded the scope of what was already the most epic studio album in his catalogue, 1976’s Songs in the Key of Life. Four unheard songs from the recording sessions…",
+   "published": "2026-09-28T13:27:33+00:00"
+  },
+  {
+   "id": "31f56a4c8df5",
+   "title": "RAF Fairford live updates: Iran rejects any link to airbase arrests as police say those held are UK nationals from London",
+   "link": "https://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The counter terror police say the investigation has led to multiple lines of new enquiry UK security forces aware of suspected bomb plot, hints defence secretary RAF Fairford suspected bomb plot: have you been affected? Speaking at the Labour party conference in Liverpool, the…",
+   "published": "2026-09-28T13:25:33+00:00"
+  },
+  {
+   "id": "491488a13375",
+   "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
+   "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The company intends to repurchase a large amount of shares through January 2028, reflecting “confidence in the long-term opportunity ahead.”",
+   "published": "2026-09-28T13:20:00+00:00"
+  },
+  {
+   "id": "d3ab501d3691",
+   "title": "John Healey says Labour will stick to fiscal rules in first speech as chancellor – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The chancellor announced a new local apprenticeship service to boost opportunities for young people Lisa O’Carroll is a senior Guardian correspondent. The head of the SDLP, Claire Hanna , has called for an international mediator to resolve the continuing crisis over a unionist…",
+   "published": "2026-09-28T13:16:50+00:00"
+  },
+  {
+   "id": "d5e94824f57b",
+   "title": "SpaceX's Starship launches on first orbital mission from Texas",
+   "link": "https://www.npr.org/2026/09/28/nx-s1-5983418/spacex-starship-first-orbital-flight-14-nasa",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Starship is key to SpaceX's commercial success and NASA's plans to land humans on the moon. This is the 14th flight of the uncrewed Starship, but the first time it aims to reach orbit.",
+   "published": "2026-09-28T13:15:29+00:00"
+  },
+  {
+   "id": "2514fb17fd27",
+   "title": "Iran says it ‘has no plans to negotiate with US’ despite Trump claims – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump had told Axios he expected talks to resume a day after he rejected Iran’s proposal to reopen the strait of Hormuz Sign up for the Breaking News US email Donald Trump again urged supporters to “pretend that I am on the ballot” as the November midterms approach – a line…",
+   "published": "2026-09-28T13:03:49+00:00"
+  },
+  {
+   "id": "c74ed29a9dff",
+   "title": "Unstatesmanlike Statesmen",
+   "link": "https://thedispatch.com/newsletter/wanderland/trump-netanyahu-unstatesmanlike-statesmen/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Benjamin Netanyahu in New York and Donald Trump with Xi Jinping both forgot that a leader represents his country, not himself.",
+   "published": "2026-09-28T13:00:00+00:00"
+  },
+  {
+   "id": "fcac6cb9e95e",
+   "title": "Schools forced to shut amid burst Thames Water pipe ‘leaking 750 litres a second’",
+   "link": "https://www.theguardian.com/business/2026/sep/28/schools-forced-to-shut-amid-burst-thames-water-pipe-leaking-750-litres-a-second",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Leak causes outages and low pressure in parts of London and Surrey, affecting 6,000 properties and leaving some without water Schools, businesses and homes across seven boroughs in England were hit by a Thames Water outage on Monday, from a burst water main reportedly leaking…",
+   "published": "2026-09-28T12:53:47+00:00"
+  },
+  {
+   "id": "49b565c8a10a",
+   "title": "US response to UN pandemic talks ‘severely weakens’ global planning, says leading health expert",
+   "link": "https://www.theguardian.com/global-development/2026/sep/28/us-response-un-pandemic-talks-global-planning",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US says it is unable to support a major global text on pandemic prevention and preparedness put forward at UN general assembly The United States government’s decision to block a major global declaration on pandemic preparedness “severely weakens” the effort, and signals…",
+   "published": "2026-09-28T12:49:30+00:00"
+  },
+  {
+   "id": "45567bd4f529",
+   "title": "Plan for controversial Sydney data centre scrapped after push-back",
+   "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
+   "published": "2026-09-28T12:47:09+00:00"
+  },
+  {
+   "id": "bf336c0afbd9",
+   "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+   "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“We have an ironclad prenup.”",
+   "published": "2026-09-28T12:45:00+00:00"
+  },
+  {
+   "id": "3cef7023ff4f",
+   "title": "Taking Ozempic? A routine eye exam could help you understand your risk for vision loss.",
+   "link": "https://www.marketwatch.com/story/taking-ozempic-a-routine-eye-exam-could-help-you-understand-your-risk-for-vision-loss-3392c1a0?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Some research suggests that GLP-1 drugs may raise the risk of a rare eye disease that causes full or partial vision loss.",
+   "published": "2026-09-28T12:42:00+00:00"
+  },
+  {
+   "id": "49cfd30ec810",
+   "title": "Police clash with protesters over mosque demolitions in India",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/police-clash-with-protesters-over-mosque-demolitions-in-india?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police clash with protesters over mosque demolitions in India",
+   "published": "2026-09-28T12:40:36+00:00"
+  },
+  {
    "id": "ef6a339347b1",
    "title": "SpaceX is moments away from monumental Starship launch",
    "link": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
@@ -151,26 +305,15 @@
    "published": "2026-09-28T12:30:00+00:00"
   },
   {
-   "id": "2514fb17fd27",
-   "title": "Iran says it ‘has no plans to negotiate with US’ despite Trump claims – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
+   "id": "13895a817859",
+   "title": "Healey vows to stick to fiscal rules in budget built on hope",
+   "link": "https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Trump had told Axios he expected talks to resume a day after he rejected Iran’s proposal to reopen the strait of Hormuz Sign up for the Breaking News US email Trump also spent some of Sunday posting about his frustration with the US supreme court, after the justices repeatedly…",
-   "published": "2026-09-28T12:24:54+00:00"
-  },
-  {
-   "id": "31f56a4c8df5",
-   "title": "RAF Fairford live updates: Five men arrested over suspected bomb plot are UK nationals from London, say counter terror police",
-   "link": "https://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The counter terror police say the investigation has led to multiple lines of new enquiry UK security forces aware of suspected bomb plot, hints defence secretary RAF Fairford suspected bomb plot: have you been affected? Speaking at the Labour party conference in Liverpool, the…",
-   "published": "2026-09-28T12:20:26+00:00"
+   "summary": "Chancellor tells Labour conference it’s ‘not progressive’ to fail to balance books amid rising welfare bill as borrowing costs climb to record high Business live – latest updates Price of diesel on UK forecourts reaches all-time high John Healey has pledged to use next month’s…",
+   "published": "2026-09-28T12:25:29+00:00"
   },
   {
    "id": "5027f2276bbe",
@@ -226,17 +369,6 @@
    "flourishing_feed": false,
    "summary": "Powerful weather system pummels shoreline for a second day, knocking out power to tens of thousands Residents of coastal communities in the US’s north-east slogged through floodwaters for a second day as a powerful storm known as a nor’easter pummeled the shoreline on Sunday ,…",
    "published": "2026-09-28T12:03:25+00:00"
-  },
-  {
-   "id": "d3ab501d3691",
-   "title": "John Healey says Labour will stick to fiscal rules in first speech as chancellor – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The chancellor announced a new local apprenticeship service to boost opportunities for young people Lisa O’Carroll is a senior Guardian correspondent. The head of the SDLP, Claire Hanna , has called for an international mediator to resolve the continuing crisis over a unionist…",
-   "published": "2026-09-28T12:01:05+00:00"
   },
   {
    "id": "e264f21c5649",
@@ -415,17 +547,6 @@
    "published": "2026-09-28T11:26:00+00:00"
   },
   {
-   "id": "491488a13375",
-   "title": "Nvidia makes a statement with historic $150 billion buyback announcement",
-   "link": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "The company intends to repurchase a large amount of shares through January 2028, reflecting “confidence in the long-term opportunity ahead.”",
-   "published": "2026-09-28T11:21:00+00:00"
-  },
-  {
    "id": "6a154df196f3",
    "title": "‘Counting window’ seen as high-risk time for Trump to cast doubt on midterm results | First Thing",
    "link": "https://www.theguardian.com/us-news/2026/sep/28/first-thing-counting-window-risk-trump-midterm-results",
@@ -477,7 +598,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The category-four storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
+   "summary": "The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
    "published": "2026-09-28T11:05:49+00:00"
   },
   {
@@ -559,13 +680,13 @@
   },
   {
    "id": "3bdbb46e0ef1",
-   "title": "5 men arrested over suspected attack at a U.S.-run air force base are British nationals",
+   "title": "U.K. holds 5 British suspects after arrests near U.S. air base as Iran denies role",
    "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
    "source": "NPR News",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Authorities have arrested five British nationals over a suspected attack at a U.S.-operated air force base in England. The men, all in their 20s from London, were detained Sunday.",
+   "summary": "Authorities have arrested five British nationals over a suspected attack at a U.S.-operated air force base in England. Iran denied involvement.",
    "published": "2026-09-28T10:51:25+00:00"
   },
   {
@@ -844,17 +965,6 @@
    "published": "2026-09-28T09:17:29+00:00"
   },
   {
-   "id": "bf336c0afbd9",
-   "title": "‘I feel like he’s holding me back’: I have $8 million. My husband resents my success. Should I pay for more things?",
-   "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I’d rather be on a beach in Bali than watching my spouse sit at the computer.”",
-   "published": "2026-09-28T09:15:00+00:00"
-  },
-  {
    "id": "de19e50a2ca4",
    "title": "Azeez Al-Shaair honours slain Palestinian sisters despite NFL sanctions",
    "link": "https://www.aljazeera.com/sports/2026/9/28/azeez-al-shaair-honours-slain-palestinian-sisters-despite-nfl-sanctions?traffic_source=rss",
@@ -966,7 +1076,7 @@
   },
   {
    "id": "59b72672f046",
-   "title": "Welcome to the 'Wild West' of AI in schools: Research is scarce, but experiments abound",
+   "title": "Schools are experimenting with AI with little evidence or policy to guide them",
    "link": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
    "source": "NPR News",
    "circle_hint": "national",
