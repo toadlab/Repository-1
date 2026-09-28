@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T08:32:45.518945+00:00",
+ "generated": "2026-09-28T09:32:54.828129+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 25
+   "count": 23
   },
   {
    "name": "The Guardian World",
@@ -93,8 +93,8 @@
   },
   {
    "name": "Federal Register: IRS",
-   "ok": true,
-   "count": 24
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "Congressional Budget Office",
@@ -136,8 +136,41 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Statistician Andrew Dilnot says that putting social care on the same footing as health care would cost ‘well in excess of £18bn’ There is increasing speculation that Andy Burnham might announce plans to scrap the pensions triple lock as one means of funding his social care…",
-   "published": "2026-09-28T08:24:56+00:00"
+   "summary": "Statistician Andrew Dilnot says that putting social care on the same footing as health care would cost ‘well in excess of £18bn’ Lisa O’Carroll is a senior Guardian correspondent. The head of the SDLP, Claire Hanna , has called for an international mediator to resolve the…",
+   "published": "2026-09-28T09:22:33+00:00"
+  },
+  {
+   "id": "63e304aa3754",
+   "title": "Oil prices surge after Trump rejects Iran’s plan to reopen Strait of Hormuz",
+   "link": "https://www.aljazeera.com/economy/2026/9/28/oil-prices-surge-after-trump-rejects-irans-plan-to-reopen-strait-of-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Brent crude rises more than 3 percent to top $107 a barrel as Washington dismisses Tehran's proposal to end war.",
+   "published": "2026-09-28T09:17:29+00:00"
+  },
+  {
+   "id": "bf336c0afbd9",
+   "title": "‘I feel like he’s holding me back’: I have $8 million. My husband resents my success. Should I pay for more things?",
+   "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I’d rather be on a beach in Bali than watching my spouse sit at the computer.”",
+   "published": "2026-09-28T09:15:00+00:00"
+  },
+  {
+   "id": "de19e50a2ca4",
+   "title": "Azeez Al-Shaair honours slain Palestinian sisters despite NFL sanctions",
+   "link": "https://www.aljazeera.com/sports/2026/9/28/azeez-al-shaair-honours-slain-palestinian-sisters-despite-nfl-sanctions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Houston Texans linebacker wore eye black with the names of slain sisters Lana, 12, and Bana, eight.",
+   "published": "2026-09-28T09:12:45+00:00"
   },
   {
    "id": "31f56a4c8df5",
@@ -147,8 +180,206 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Member of the public who contacted police after seeing ‘group of hooded and masked men’ near RAF base says she thinks ‘someone dropped the ball’ over incident The incident comes as the war between the US and Iran limps on. In July, Iran’s Islamic Revolutionary Guard Corps noted…",
-   "published": "2026-09-28T08:20:54+00:00"
+   "summary": "Member of the public who contacted police after seeing ‘group of hooded and masked men’ near RAF base says she thinks ‘someone dropped the ball’ over incident In Fairford, police ‌have imposed a 400m ​cordon around the air base and ​evacuated about residents from 85 homes while…",
+   "published": "2026-09-28T09:12:43+00:00"
+  },
+  {
+   "id": "82158ad771a6",
+   "title": "Boss of Beaverbrooks urges government to give businesses ‘a bit of a break’",
+   "link": "https://www.theguardian.com/business/2026/sep/28/beaverbrooks-urge-government-give-businesses-break",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jeweller reports flat sales and fall in underlying operating profit as retailers anticipate October budget Business live – latest updates The boss of family-owned jeweller Beaverbrooks has called on the government to give business “a bit of break” by halting cost increases amid…",
+   "published": "2026-09-28T09:12:20+00:00"
+  },
+  {
+   "id": "7ffe78bf9246",
+   "title": "After a dead whale washed up at a Perth beach, some took selfies. Others held their nose from the stench",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/28/after-a-dead-whale-washed-up-at-a-perth-beach-some-took-selfies-others-held-their-nose-from-the-stench",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Local authorities have closed the beach for several kilometres and multiple sharks have been spotted in the area Get our breaking news email , free app or daily news podcast Multiple sharks have been spotted swimming near a large, smelly whale carcass that has washed ashore at…",
+   "published": "2026-09-28T09:11:40+00:00"
+  },
+  {
+   "id": "20229ed7e1b5",
+   "title": "The ethical fashion brand championing change across the industry",
+   "link": "https://www.positive.news/economics/the-ethical-fashion-brand-championing-change-across-the-industry/",
+   "source": "Positive News",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": true,
+   "summary": "With a focus on living wages, better fabrics and sustainability, one clothing brand is pushing to transform the fashion industry The post The ethical fashion brand championing change across the industry appeared first on Positive News .",
+   "published": "2026-09-28T09:05:56+00:00"
+  },
+  {
+   "id": "686fc7666cb8",
+   "title": "Simone Biles and Jonathan Owens list a $1.2 million Texas home near Houston",
+   "link": "https://www.marketwatch.com/story/simone-biles-and-jonathan-owens-list-a-1-2-million-texas-home-near-houston-0c3a7700?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Olympic gymnast Simone Biles and her NFL star husband, Jonathan Owens, are bidding farewell to the Texas home they lived in while putting the finishing touches on their custom-built dream mansion.",
+   "published": "2026-09-28T09:02:00+00:00"
+  },
+  {
+   "id": "c05cbc75b400",
+   "title": "Indiana expungement filings rose 52% over a decade. But getting relief still takes time, money",
+   "link": "https://indianacapitalchronicle.com/2026/09/28/indiana-expungement-filings-rose-52-over-a-decade-but-getting-relief-still-takes-time-money/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 10,000 expungement cases were filed in Indiana courts last year, continuing a decade-long rise in the number of people asking judges to restrict access to old arrests and convictions. Courts opened 10,156 expungement cases in 2025, up 52% from 6,660 in 2016, according…",
+   "published": "2026-09-28T09:00:55+00:00"
+  },
+  {
+   "id": "b963533621e4",
+   "title": "Our world: The week of Sept. 28, 2026",
+   "link": "https://www.csmonitor.com/World/2026/0928/our-world-0928?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Our World is a roundup from our weekly print edition of noteworthy happenings, from our global correspondents.",
+   "published": "2026-09-28T09:00:11+00:00"
+  },
+  {
+   "id": "a3e535a290f7",
+   "title": "Understanding Indiana’s reserves",
+   "link": "https://indianacapitalchronicle.com/2026/09/28/assessing-indianas-reserves/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Many smart people have been spending time thinking about how state leaders might invest Indiana’s growing revenue and robust reserves. This is especially of interest as monthly revenue collections continue to outperform forecast estimates (revenues have exceeded estimates for…",
+   "published": "2026-09-28T09:00:02+00:00"
+  },
+  {
+   "id": "dd130cb7b007",
+   "title": "What to know about the $810 million in spending canceled by President Trump",
+   "link": "https://www.npr.org/2026/09/28/nx-s1-5982739/what-to-know-about-the-810-million-in-spending-canceled-by-president-trump",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Trump announced plans to cancel $810 million in Congressionally approved spending, a move that some in his own party are calling illegal.",
+   "published": "2026-09-28T09:00:00+00:00"
+  },
+  {
+   "id": "b544a0e63c8d",
+   "title": "How to limit the rat numbers? Train the humans",
+   "link": "https://www.npr.org/2026/09/28/nx-s1-5980436/rats-dc-new-york-rangers",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "D.C.'s Rat Rangers take anyone who is interested on night time safaris through some of the Capitol's filthiest back alleys to learn the way of the rats, and to be better humans.",
+   "published": "2026-09-28T09:00:00+00:00"
+  },
+  {
+   "id": "59b72672f046",
+   "title": "Welcome to the 'Wild West' of AI in schools: Research is scarce, but experiments abound",
+   "link": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Teachers are using AI to develop lesson plans, and in some districts, AI chatbots give students feedback on their work. Meanwhile, the research around how AI can help students is extremely limited.",
+   "published": "2026-09-28T09:00:00+00:00"
+  },
+  {
+   "id": "df17ec11ea2c",
+   "title": "5 tips for parents worried about their kids' screen time and online safety",
+   "link": "https://www.npr.org/2026/09/28/nx-s1-5965849/screens-teens-parents-social-media-safety",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Parental monitoring can help protect kids from the harms of social media and excess screen time. Screen time boundaries plus early and open conversations about online habits can make kids less vulnerable.",
+   "published": "2026-09-28T09:00:00+00:00"
+  },
+  {
+   "id": "a1b3b4e22524",
+   "title": "Two Years After Hurricane Helene, People Are Still Allowed to Live in Harm’s Way",
+   "link": "https://www.propublica.org/article/hurricane-helene-flood-prone-areas",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post Two Years After Hurricane Helene, People Are Still Allowed to Live in Harm’s Way appeared first on ProPublica .",
+   "published": "2026-09-28T09:00:00+00:00"
+  },
+  {
+   "id": "43b7ad2489ef",
+   "title": "‘Sex and the City’ star Chris Noth is selling his ‘breathtaking’ Greenwich Village apartment for $1.5 million",
+   "link": "https://www.marketwatch.com/story/sex-and-the-city-star-chris-noth-is-selling-his-breathtaking-greenwich-village-apartment-for-1-5-million-e9685111?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“Sex and the City” star Chris Noth is moving on from his longtime New York City apartment, listing the luxe Greenwich Village dwelling for nearly $1.5 million.",
+   "published": "2026-09-28T08:58:00+00:00"
+  },
+  {
+   "id": "6e8b24ec0b5e",
+   "title": "Mapping Israel’s 300 checkpoints: Where they are and how they work",
+   "link": "https://www.aljazeera.com/news/2026/9/28/mapping-israels-300-checkpoints-where-they-are-and-how-they-work?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israel has shut occupied West Bank crossings for a week, further restricting Palestinian movement and holy site access.",
+   "published": "2026-09-28T08:50:37+00:00"
+  },
+  {
+   "id": "c88692c475d2",
+   "title": "UK security forces were aware of RAF Fairford suspected bomb plot, hints defence secretary",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/28/uk-security-forces-raf-fairford-suspected-bomb-plot-wes-streeting-defence-secretary",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Wes Streeting indicates farmer who alerted police and said security forces had ‘dropped the ball’ only ‘had a partial picture’ UK security services were aware in advance about a group of men arrested in connection to a bomb plot against an RAF base used by the US military, Wes…",
+   "published": "2026-09-28T08:47:15+00:00"
+  },
+  {
+   "id": "584fad482bf9",
+   "title": "Morning news brief",
+   "link": "https://www.npr.org/2026/09/28/nx-s1-5979667/morning-news-brief",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Trump has rejected Iran's latest proposal to end the war, five men were arrested near a U.K. air base for an alleged terror plot, Trump's fight with the press leaves his events uncovered.",
+   "published": "2026-09-28T08:44:29+00:00"
+  },
+  {
+   "id": "90830300681d",
+   "title": "‘Terror’ incident near RAF base used for Iran war: What we know",
+   "link": "https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Five men were arrested on suspicion of the 'preparation of a terrorist act' near RAF Fairford, a base used by the US.",
+   "published": "2026-09-28T08:44:16+00:00"
+  },
+  {
+   "id": "f9ae1f2e89d2",
+   "title": "Iran’s children return to school under the shadow of war",
+   "link": "https://www.aljazeera.com/features/2026/9/28/irans-children-return-to-school-under-the-shadow-of-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Iranian children have missed schooling due to the US war.",
+   "published": "2026-09-28T08:25:49+00:00"
   },
   {
    "id": "369ddaa4bf19",
@@ -171,6 +402,28 @@
    "flourishing_feed": false,
    "summary": "The 81-year-old singer will wrap up a touring career that stretches back to his mid-teens in the early 1960s, with dates planned for UK and Europe Rod Stewart has announced that his next tour will be his last. The 81-year-old singer has been touring since the early 1960s, when…",
    "published": "2026-09-28T08:18:19+00:00"
+  },
+  {
+   "id": "1fcbe11b3da9",
+   "title": "France’s far-right National Rally gains ground in Senate vote",
+   "link": "https://www.aljazeera.com/news/2026/9/28/frances-far-right-national-rally-gains-ground-in-senate-vote?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The vote marks the first time the far-right party gained enough seats to form its own caucus.",
+   "published": "2026-09-28T08:10:17+00:00"
+  },
+  {
+   "id": "d03afe0a4709",
+   "title": "Belgium vs France – Nations League: Team line-ups, head-to-head, Mbappe",
+   "link": "https://www.aljazeera.com/sports/2026/9/28/belgium-france-uefa-nations-league-mbappe-injury-olise-de-bruyne?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two-time world champions France travel to Belgium for Monday's Nations League clash without captain Kylian Mbappe.",
+   "published": "2026-09-28T08:02:30+00:00"
   },
   {
    "id": "128ea262552f",
@@ -226,6 +479,17 @@
    "flourishing_feed": false,
    "summary": "Hurricane Nolo edged further away from the Hawaiian Islands on Sunday as major Hurricane Polo bore down on Mexico's Baja California peninsula with a threat of storm surge, high winds and heavy rains.",
    "published": "2026-09-28T07:54:01+00:00"
+  },
+  {
+   "id": "7e75547f1667",
+   "title": "Trump-Xi summit: What wasn't said might matter the most",
+   "link": "https://www.bbc.co.uk/news/articles/cxp84g2ly1mjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
+   "published": "2026-09-28T07:52:23+00:00"
   },
   {
    "id": "6d9175e05c00",
@@ -675,7 +939,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Marine Le Pen hails ‘historic victory’ as her party and allies win enough seats to form caucus just months ahead of presidential poll France’s far-right National Rally (RN) party and its allies have secured a record 14 seats in the rightwing-dominated Senate in elections,…",
+   "summary": "Marine Le Pen hails ‘historic victory’ as her party and allies win enough seats to form caucus just months ahead of presidential poll The French far-right leader Marine Le Pen has said her 2027 presidential campaign will be boosted after her anti-immigration party, the National…",
    "published": "2026-09-28T01:31:45+00:00"
   },
   {
