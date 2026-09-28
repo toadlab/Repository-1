@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T11:30:52.783510+00:00",
+ "generated": "2026-09-28T12:37:03.004416+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,259 @@
  ],
  "items": [
   {
+   "id": "ef6a339347b1",
+   "title": "SpaceX is moments away from monumental Starship launch",
+   "link": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The company is getting closer to making the rocket fully reusable.",
+   "published": "2026-09-28T12:35:00+00:00"
+  },
+  {
+   "id": "ee79de76a602",
+   "title": "Our Parents Lived 'Forever.' How Do We Plan for Long-Term Care?",
+   "link": "https://www.kiplinger.com/retirement/long-term-care/our-parents-lived-forever-could-long-term-care-drain-our-usd3-5-million",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Even if you're very wealthy, you may need to plan for long-term care through age 100. Our Wealth Wise columnist asks the experts what to do.",
+   "published": "2026-09-28T12:30:00+00:00"
+  },
+  {
+   "id": "2514fb17fd27",
+   "title": "Iran says it ‘has no plans to negotiate with US’ despite Trump claims – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump had told Axios he expected talks to resume a day after he rejected Iran’s proposal to reopen the strait of Hormuz Sign up for the Breaking News US email Trump also spent some of Sunday posting about his frustration with the US supreme court, after the justices repeatedly…",
+   "published": "2026-09-28T12:24:54+00:00"
+  },
+  {
+   "id": "31f56a4c8df5",
+   "title": "RAF Fairford live updates: Five men arrested over suspected bomb plot are UK nationals from London, say counter terror police",
+   "link": "https://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The counter terror police say the investigation has led to multiple lines of new enquiry UK security forces aware of suspected bomb plot, hints defence secretary RAF Fairford suspected bomb plot: have you been affected? Speaking at the Labour party conference in Liverpool, the…",
+   "published": "2026-09-28T12:20:26+00:00"
+  },
+  {
+   "id": "5027f2276bbe",
+   "title": "What we know about the suspected U.K. terror plot. And, why the Gulf remains in limbo",
+   "link": "https://www.npr.org/2026/09/28/g-s1-145248/up-first-newsletter-uk-us-air-base-iran-strait-hormuz-media-outlets-cnn-trump",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What we know — and still don't — about the suspected terror plot near a U.K. air base. Trump rejects Iran's offer to pause fighting. And CNN prepares for new owners with ties to Trump.",
+   "published": "2026-09-28T12:15:05+00:00"
+  },
+  {
+   "id": "080cdbe5b75f",
+   "title": "5 ETFs to Help Build Your Emergency Fund and Keep It Safe",
+   "link": "https://www.kiplinger.com/investing/etfs/etfs-to-help-build-your-emergency-fund-and-keep-it-safe",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The best ETFs to help build your emergency fund prioritize safety and liquidity, while some variants offer regular income or superior tax efficiency.",
+   "published": "2026-09-28T12:14:46+00:00"
+  },
+  {
+   "id": "e29322eb18a0",
+   "title": "Why South Korea is demanding an apology from Ukraine over North Korean PoWs",
+   "link": "https://www.aljazeera.com/news/2026/9/28/why-south-korea-is-demanding-an-apology-from-ukraine-over-north-korean-pows?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Seoul says Kyiv agreed to a nondisclosure agreement over the prisoners but broke it.",
+   "published": "2026-09-28T12:09:23+00:00"
+  },
+  {
+   "id": "c0a543bb8d4c",
+   "title": "Child among three killed off French coast in Channel crossing attempt",
+   "link": "https://www.aljazeera.com/news/2026/9/28/child-among-three-killed-off-french-coast-in-channel-crossing-attempt?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "France's maritime police ‌‌said ​they received a distress ​call from an inflatable dinghy carrying 105 people.",
+   "published": "2026-09-28T12:08:11+00:00"
+  },
+  {
+   "id": "b1b3e6b0cc7f",
+   "title": "Nor’easter storm floods coastal areas from New Jersey to New England",
+   "link": "https://www.theguardian.com/us-news/2026/sep/28/noreaster-storm-floods-coastal-areas-new-jersey",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Powerful weather system pummels shoreline for a second day, knocking out power to tens of thousands Residents of coastal communities in the US’s north-east slogged through floodwaters for a second day as a powerful storm known as a nor’easter pummeled the shoreline on Sunday ,…",
+   "published": "2026-09-28T12:03:25+00:00"
+  },
+  {
+   "id": "d3ab501d3691",
+   "title": "John Healey says Labour will stick to fiscal rules in first speech as chancellor – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The chancellor announced a new local apprenticeship service to boost opportunities for young people Lisa O’Carroll is a senior Guardian correspondent. The head of the SDLP, Claire Hanna , has called for an international mediator to resolve the continuing crisis over a unionist…",
+   "published": "2026-09-28T12:01:05+00:00"
+  },
+  {
+   "id": "e264f21c5649",
+   "title": "Africa is not responsible for climate crisis: Activist Vanessa Nakate",
+   "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/9/28/africa-is-not-responsible-for-climate-crisis-activist-vanessa-nakate?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Climate activist Vanessa Nakate says she is determined to raise awareness of how global warming is affecting Africa.",
+   "published": "2026-09-28T12:00:36+00:00"
+  },
+  {
+   "id": "7f2cc84f5166",
+   "title": "Decades of fossil fuel influence paved way for Trump’s assault on university research, study says",
+   "link": "https://www.theguardian.com/us-news/2026/sep/28/fossil-fuel-industry-climate-research-universities-study",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fossil fuel firms have spent years trying to regulate climate research by donating to US universities, study authors argue Recent attacks on US universities by the Trump administration have built on decades of efforts by libertarian donor networks, fossil fuel companies and…",
+   "published": "2026-09-28T12:00:33+00:00"
+  },
+  {
+   "id": "4af2781c81e0",
+   "title": "Why a 'Fee-Based' DST Investing Sales Pitch Is a Red Flag",
+   "link": "https://www.kiplinger.com/real-estate/real-estate-investing/why-a-fee-based-delaware-statutory-trust-sales-pitch-is-a-red-flag",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "An AUM fee on a Delaware statutory trust can cost investors far more than a one-time commission in the long run. So why are fiduciary advisers proposing it?",
+   "published": "2026-09-28T12:00:00+00:00"
+  },
+  {
+   "id": "01dec6eaf83a",
+   "title": "DTCC Invests in iCapital, Announces Partnership",
+   "link": "https://www.wealthmanagement.com/alternative-investments/dtcc-invests-in-icapital-announces-partnership",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The collaboration will involve transaction processing, data exchange, reporting and other functions.",
+   "published": "2026-09-28T12:00:00+00:00"
+  },
+  {
+   "id": "2bc2af8fce22",
+   "title": "Teachers at Euan Blair firm report ‘horrendous stress’ after AI used to rate their work",
+   "link": "https://www.theguardian.com/technology/2026/sep/28/teachers-euan-blair-firm-report-horrendous-stress-ai-used-to-rate-their-work",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Instructors at tech training company Multiverse hit out at ‘remorseless’ and ‘unnerving’ monitoring system Teachers at Euan Blair’s £1.6bn tech training company, Multiverse, have blown the whistle about “horrendous stress” and feeling constantly watched after bosses…",
+   "published": "2026-09-28T11:57:57+00:00"
+  },
+  {
+   "id": "8a3a04800630",
+   "title": "Five men arrested at RAF Fairford are all UK nationals from London, say police",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/28/men-arrested-raf-fairford-counter-terrorism-police",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Officers say they have secured extension to continue to hold men, all in their 20s, on suspicion of terror offences Five men arrested on suspicion of terror offences at RAF Fairford are all British nationals from London in their 20s, counter-terrorism police have said. The men…",
+   "published": "2026-09-28T11:56:19+00:00"
+  },
+  {
+   "id": "0ad5cfa86386",
+   "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
+   "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Micron is increasingly important to the S&P 500, and its earnings report has become “a market event in and of itself.”",
+   "published": "2026-09-28T11:47:00+00:00"
+  },
+  {
+   "id": "3a223e99d7a4",
+   "title": "Three people dead, including a child, in attempt to cross Channel to UK",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/28/people-dead-english-channel-crossing",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Official says deaths – and dozens of injuries – were probably caused by crushing on boat carrying 105 people A 10-year-old child and two women died ⁠attempting ​to cross the Channel on Monday, French authorities have said. Their deaths and the injuries of dozens of others in a…",
+   "published": "2026-09-28T11:45:11+00:00"
+  },
+  {
+   "id": "ba690f0a3ab8",
+   "title": "Israeli fans direct monkey chants and military slogans at Ireland’s players",
+   "link": "https://www.aljazeera.com/sports/2026/9/28/israeli-fans-monkey-chants-ireland-adam-idah-uefa-nations-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli fans directed monkey chants at Ireland's Adam Idah, who scored a goal in his team's 3-0 Nations League win.",
+   "published": "2026-09-28T11:43:27+00:00"
+  },
+  {
+   "id": "a74877c3d29e",
+   "title": "Tensions rise as Orange Order members vow to continue with march blocked by police",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/27/tense-standoff-loyalist-march-portadown-protesters-block-route",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Talks expected on Monday after Sinn Féin leaders join those on streets opposing decision to allow unionist parade for first time since 1998 Tensions between unionist and nationalist leaders in Northern Ireland have escalated as a number of Orange Order members remain at…",
+   "published": "2026-09-28T11:42:01+00:00"
+  },
+  {
+   "id": "0e8c70955783",
+   "title": "Larissa Waters steps down as Greens leader due to ill health",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/28/larissa-waters-steps-down-as-greens-leader-due-to-ill-health-ntnwfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ballot for new leader expected next week after Waters quits to manage pre-existing kidney disease that has ‘declined significantly’ Get our breaking news email , free app or daily news podcast Greens leader Larissa Waters has announced she will step down due to ill health, with…",
+   "published": "2026-09-28T11:41:51+00:00"
+  },
+  {
+   "id": "6b05f2305816",
+   "title": "Trump aims to leave a physical legacy in D.C., bulldozing norms along the way",
+   "link": "https://www.npr.org/2026/09/28/nx-s1-5930441/trump-construction-projects-legacy",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Trump has brought his New York real estate background to the White House. But experts say D.C. is a very different historic and legal landscape — and worry about the precedent he could set.",
+   "published": "2026-09-28T11:41:48+00:00"
+  },
+  {
+   "id": "c2cf78b3bc56",
+   "title": "Fighting between rival forces in Somalia’s Baidoa",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/fighting-between-rival-forces-in-somalias-baidoa?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "There are reports of casualties in Baidoa where forces have launched attacks, triggering fighting with federal troops.",
+   "published": "2026-09-28T11:40:38+00:00"
+  },
+  {
    "id": "f52fa46103d1",
    "title": "Flock cameras are creepy. They might still be worth it.",
    "link": "https://www.vox.com/politics/504154/flock-cameras-crime-surveillance",
@@ -138,6 +391,17 @@
    "flourishing_feed": false,
    "summary": "To no small extent, Americans have grown accustomed to being watched. For more than a decade, CCTV cameras have recorded a hefty portion of many people’s public movements, while ubiquitous smartphones have made us all perpetually vulnerable to unsolicited documentation (if not,…",
    "published": "2026-09-28T11:30:00+00:00"
+  },
+  {
+   "id": "bcbd0c64ea1e",
+   "title": "Israel does not have right to close UK consulate in Jerusalem, Foreign Office advised",
+   "link": "https://www.theguardian.com/politics/2026/sep/28/israel-no-right-close-jerusalem-uk-consulate-foreign-office-advised",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former attorney general Dominic Grieve says Israel is not entitled to shut mission in occupied Palestinian territory UK politics live – latest updates Israel does not have a legal right to act on its plan to close the British consulate in East Jerusalem, the former attorney…",
+   "published": "2026-09-28T11:28:12+00:00"
   },
   {
    "id": "076e6f358858",
@@ -162,25 +426,14 @@
    "published": "2026-09-28T11:21:00+00:00"
   },
   {
-   "id": "d3ab501d3691",
-   "title": "John Healey addresses Labour conference in first speech as chancellor – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Healey says it is the ‘privilege of his life’ to serve in role Lisa O’Carroll is a senior Guardian correspondent. The head of the SDLP, Claire Hanna , has called for an international mediator to resolve the continuing crisis over a unionist parade in a nationalist area close to…",
-   "published": "2026-09-28T11:20:12+00:00"
-  },
-  {
    "id": "6a154df196f3",
-   "title": "First Thing: ‘Counting window’ seen as high-risk time for Trump to cast doubt on midterm results",
+   "title": "‘Counting window’ seen as high-risk time for Trump to cast doubt on midterm results | First Thing",
    "link": "https://www.theguardian.com/us-news/2026/sep/28/first-thing-counting-window-risk-trump-midterm-results",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Experts warn Republicans may try to sow distrust and claim ‘foreign interference’ in crucial hours after counting begins. Plus, two pandas have a new home thanks to US-China diplomacy Good morning. Election experts have warned that Donald Trump’s administration could use the…",
+   "summary": "Experts warn Republicans may try to sow distrust and claim ‘foreign interference’ in crucial hours after counting begins. Plus, two pandas have a new home thanks to US-China diplomacy Don’t already get First Thing in your inbox? Sign up here Good morning. Election experts have…",
    "published": "2026-09-28T11:16:14+00:00"
   },
   {
@@ -215,6 +468,17 @@
    "flourishing_feed": false,
    "summary": "Israeli football fans chant military slogans after defeat to Ireland",
    "published": "2026-09-28T11:10:03+00:00"
+  },
+  {
+   "id": "5dc658f5c09d",
+   "title": "Mexico's Pacific coast braces for Hurricane Polo",
+   "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The category-four storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
+   "published": "2026-09-28T11:05:49+00:00"
   },
   {
    "id": "38711379bd43",
@@ -283,17 +547,6 @@
    "published": "2026-09-28T11:00:23+00:00"
   },
   {
-   "id": "2514fb17fd27",
-   "title": "Iran says it ‘has no plans to negotiate with US’ despite Trump claims – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Trump had told Axios he expected talks to resume a day after he rejected Iran’s proposal to reopen the strait of Hormuz Sign up for the Breaking News US email Donald Trump ’s attorney general Todd Blanche argued on Sunday that the administration was permitted to ban three news…",
-   "published": "2026-09-28T11:00:18+00:00"
-  },
-  {
    "id": "f10a9cd02978",
    "title": "Once Recession-Proof, D.C. Feels the Pain From Federal Workforce Reductions",
    "link": "https://reason.com/2026/09/28/once-recession-proof-d-c-area-feels-pain-from-federal-workforce-reductions/",
@@ -305,25 +558,14 @@
    "published": "2026-09-28T11:00:12+00:00"
   },
   {
-   "id": "31f56a4c8df5",
-   "title": "RAF Fairford live updates: Streeting thanks farmer who alerted police but says she has ‘a partial picture’",
-   "link": "https://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Member of the public who contacted police after seeing ‘group of hooded and masked men’ near RAF base says she thinks ‘someone dropped the ball’ over incident UK security forces aware of suspected bomb plot, hints defence secretary RAF Fairford suspected bomb plot: have you…",
-   "published": "2026-09-28T10:59:05+00:00"
-  },
-  {
    "id": "3bdbb46e0ef1",
-   "title": "British police investigate if arrests near U.S. air base foiled an Iran-linked attack",
+   "title": "5 men arrested over suspected attack at a U.S.-run air force base are British nationals",
    "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
    "source": "NPR News",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Police were holding five men and examining suspected explosives found near a U.S.-operated air force base in England, as counterterror detectives investigated whether the arrests foiled an attempted attack linked to Iran.",
+   "summary": "Authorities have arrested five British nationals over a suspected attack at a U.S.-operated air force base in England. The men, all in their 20s from London, were detained Sunday.",
    "published": "2026-09-28T10:51:25+00:00"
   },
   {
@@ -347,17 +589,6 @@
    "flourishing_feed": false,
    "summary": "In a 2016 opinion, authored one year before he became a Supreme Court justice, then-Judge Neil Gorsuch warned against lawyers who tempt judges to reach conclusions that aren’t supported by the Constitution’s text. “Ours is the job of interpreting the Constitution,” the future…",
    "published": "2026-09-28T10:45:00+00:00"
-  },
-  {
-   "id": "3a223e99d7a4",
-   "title": "Three people dead, including a child, in attempt to cross Channel to UK",
-   "link": "https://www.theguardian.com/uk-news/2026/sep/28/people-dead-english-channel-crossing",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Dozens also reported injured after inflatable boat carrying 105 people gets into trouble off northern France A child was among three people who died ⁠and dozens of others who were injured while ⁠attempting ​to cross the Channel on Monday, French authorities have said. France’s…",
-   "published": "2026-09-28T10:40:24+00:00"
   },
   {
    "id": "e4724de1eb86",
@@ -413,17 +644,6 @@
    "flourishing_feed": false,
    "summary": "You must coordinate different retirement timelines while stretching your savings to cover a longer lifespan.",
    "published": "2026-09-28T10:15:00+00:00"
-  },
-  {
-   "id": "0e8c70955783",
-   "title": "Larissa Waters steps down as Greens leader due to ill health",
-   "link": "https://www.theguardian.com/australia-news/2026/sep/28/larissa-waters-steps-down-as-greens-leader-due-to-ill-health-ntnwfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Ballot for new leader expected next week after Waters quits to manage pre-existing kidney disease that has ‘declined significantly’ Get our breaking news email , free app or daily news podcast Greens leader Larissa Waters has announced she will step down due to ill health, with…",
-   "published": "2026-09-28T10:13:58+00:00"
   },
   {
    "id": "00953dd86ef6",
@@ -1427,17 +1647,6 @@
    "published": "2026-09-28T00:52:49+00:00"
   },
   {
-   "id": "a74877c3d29e",
-   "title": "Protesters disperse after blocking route for loyalist march in Portadown",
-   "link": "https://www.theguardian.com/uk-news/2026/sep/27/tense-standoff-loyalist-march-portadown-protesters-block-route",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Talks expected on Monday after Sinn Féin leaders join those on streets opposing decision to allow Orange Order parade for first time since 1998 Hundreds of protesters spent the day blocking the route of a hugely contentious parade in Northern Ireland after a court gave…",
-   "published": "2026-09-28T00:46:58+00:00"
-  },
-  {
    "id": "9a864f82b6a3",
    "title": "BYU football’s ‘success rate’ leads the nation",
    "link": "https://www.deseret.com/sports/2026/09/27/byu-footballs-success-rate-leads-the-nation/",
@@ -1593,7 +1802,7 @@
   },
   {
    "id": "c3982b286e1c",
-   "title": "Hurricane Nolo still threatens Hawaii as Mexico's Baja braces for major Hurricane Polo",
+   "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
    "link": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -2579,17 +2788,6 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "Use these tips to help you open the door to conversations about their financial health before it’s too late.",
-   "published": "2026-09-27T14:00:00+00:00"
-  },
-  {
-   "id": "0ad5cfa86386",
-   "title": "Micron could dethrone Nvidia and become the biggest driver of S&P 500 profit growth",
-   "link": "https://www.marketwatch.com/story/micron-could-dethrone-nvidia-and-become-the-biggest-driver-of-s-p-500-profit-growth-d62e0e68?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Micron is increasingly important to the S&P 500, and its earnings report has become “a market event in and of itself.”",
    "published": "2026-09-27T14:00:00+00:00"
   },
   {
