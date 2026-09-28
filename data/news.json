@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T16:32:06.348062+00:00",
+ "generated": "2026-09-28T17:29:33.929855+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -13,8 +13,8 @@
   },
   {
    "name": "Indianapolis Business Journal",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "name": "NPR News",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 27
+   "count": 30
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,369 @@
  ],
  "items": [
   {
+   "id": "e21a4b4a49f3",
+   "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
+   "link": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+   "published": "2026-09-28T17:26:21+00:00"
+  },
+  {
+   "id": "ef6a339347b1",
+   "title": "SpaceX sends its Starship rocket to orbit for the first time — but not without some hiccups",
+   "link": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "SpaceX cut the flight short after initially aiming to send it on a nearly 10-hour mission.",
+   "published": "2026-09-28T17:21:00+00:00"
+  },
+  {
+   "id": "2274a9e87608",
+   "title": "Evangelicals Urge Trump Administration to Release Frozen Global Health Funds",
+   "link": "https://www.christianitytoday.com/2026/09/evangelical-leaders-trump-usaid-russell-vought-omb-funding/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 120 Christian leaders, musicians, and authors, including both conservative and liberal-leaning evangelicals, have signed a letter urging President Donald Trump’s administration to spend $1.35 billion designated for global health initiatives before the funds…",
+   "published": "2026-09-28T17:15:29+00:00"
+  },
+  {
+   "id": "bf336c0afbd9",
+   "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+   "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“We have an ironclad prenup.”",
+   "published": "2026-09-28T17:15:00+00:00"
+  },
+  {
+   "id": "d80fe2debe5b",
+   "title": "Opinion: State constitutions — the forgotten guardians of our rights",
+   "link": "https://www.deseret.com/opinion/2026/09/28/state-constitutions-are-guardians-of-our-rights/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two hundred and fifty years ago today, Pennsylvania ratified its first constitution . This anniversary, coinciding with America’s 250th , is a timely reminder that the American tradition of enshrining rights in written, fundamental law is as old as American independence itself…",
+   "published": "2026-09-28T17:15:00+00:00"
+  },
+  {
+   "id": "a130b90915ad",
+   "title": "Iran court upholds lashes sentence for singer who performed without hijab",
+   "link": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Parastoo Ahmadi was convicted of \"offending public decency\" after singing while wearing a sleeveless dress during a livestreamed concert.",
+   "published": "2026-09-28T17:15:00+00:00"
+  },
+  {
+   "id": "ac92afa251ad",
+   "title": "Prosecutors are reexamining a Cornell fraternity rape case. Here's what we know",
+   "link": "https://www.npr.org/2026/09/28/nx-s1-5983480/cornell-fraternity-rape-chi-phi-case-updates",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "New York prosecutors are reopening an investigation into an alleged rape case at Cornell University in 2024. The alleged victim recently filed a lawsuit against seven members of Chi Phi fraternity.",
+   "published": "2026-09-28T17:14:25+00:00"
+  },
+  {
+   "id": "2514fb17fd27",
+   "title": "Iran says it ‘has no plans to negotiate with US’ despite Trump claims – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump had told Axios he expected talks to resume a day after he rejected Iran’s proposal to reopen the strait of Hormuz Sign up for the Breaking News US email While the lawmakers in the US House have already left Washington to get a head start on midterm campaigning, the Senate…",
+   "published": "2026-09-28T17:12:16+00:00"
+  },
+  {
+   "id": "2295434c200a",
+   "title": "Man charged with killing 2 in shooting outside funeral in Salt Lake claims he acted in self defense",
+   "link": "https://www.deseret.com/utah/2026/09/28/man-charged-with-killing-2-in-shooting-outside-funeral-in-salt-lake-claims-he-acted-in-self-defense/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A 3rd District Court judge ruled Friday that John Vea Uasike Jr. has a prima facia claim of self defense. Now prosecutors are seeking to prove he was not justified and the charges should stay.",
+   "published": "2026-09-28T17:12:12+00:00"
+  },
+  {
+   "id": "3045a6dacf0f",
+   "title": "MongoDB’s stock is down nearly 20% as CEO decamps to Meta",
+   "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Meta is creating an enterprise platform business that aims to make it easier for developers to use its products. CJ Desai, formerly of MongoDB, will head up the initiative.",
+   "published": "2026-09-28T17:10:00+00:00"
+  },
+  {
+   "id": "1079d52cc8d0",
+   "title": "Opinion: What to make of America’s falling crime rate",
+   "link": "https://www.deseret.com/opinion/2026/09/28/the-crime-rate-keeps-dropping/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Where did all the criminals go? And, perhaps more importantly, did you notice they were missing? Jeff Asher, a crime statistics guru who co-founded the data firm AH Datalytics, told the National Council of State Legislatures that people tend to judge the crime rate by anecdotal…",
+   "published": "2026-09-28T17:09:12+00:00"
+  },
+  {
+   "id": "1bf2f7e252cb",
+   "title": "Merseyside blaze that killed mother and three children caused by lithium-ion battery",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/28/merseyside-blaze-killed-mother-three-children-caused-lithium-ion-battery",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Local fire and rescue service says last week’s tragic incident highlights risks the batteries can pose A fire that left a mother and her three children dead was caused by a lithium-ion battery, firefighters in Merseyside have said. An electrical event caused the battery, which…",
+   "published": "2026-09-28T17:09:10+00:00"
+  },
+  {
+   "id": "02b1559ed862",
+   "title": "Nor’easter storms uncover 19th-century shipwreck in Nantucket",
+   "link": "https://www.deseret.com/environment/2026/09/28/noreaster-storms-uncover-nineteenth-century-shipwreck/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Powerful weekend storms on the East Coast brought a piece of history to light, uncovering a 19th-century shipwreck on the shore of Nantucket. The remains, consisting of wooden beams attached to iron fastenings, are believed to be from the 19th-century schooner Warren Sawyer , a…",
+   "published": "2026-09-28T17:08:47+00:00"
+  },
+  {
+   "id": "73191a90c067",
+   "title": "Utah judge to rule if Douglas Carter will be released on bail after 41 years behind bars",
+   "link": "https://www.deseret.com/utah/2026/09/28/judge-to-rule-if-douglas-carter-will-be-released-on-bail-after-41-years-behind-bars/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A 4th District Court judge is planning to rule Monday whether Douglas Carter, a man who has been on death row for much of the last 41 years after he was arrested and convicted of murder in 1985, should be released on bail after his conviction was overturned.",
+   "published": "2026-09-28T17:08:28+00:00"
+  },
+  {
+   "id": "ed6c545424ef",
+   "title": "FBI co-deputy director Andrew Bailey steps down amid agency shake-up",
+   "link": "https://www.theguardian.com/us-news/2026/sep/28/fbi-co-deputy-director-steps-down",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bailey, who oversaw some of Trump’s election crackdown investigations, to resign about a year after assuming role Andrew Bailey, a deputy director of the FBI who has been overseeing some of Trump’s election-related investigations, will step down from his position approximately…",
+   "published": "2026-09-28T17:07:39+00:00"
+  },
+  {
+   "id": "e0ec3b6d5d13",
+   "title": "Investigation of alleged gang-rape at Cornell University fraternity house reopened",
+   "link": "https://www.theguardian.com/us-news/2026/sep/28/cornell-fraternity-investigation-alleged-gang-rape",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Outrage over treatment of alleged offenders, members of Chi Phi fraternity, has grown since lawsuit was made public Sign up for the Breaking News US newsletter email Prosecutors in New York said on Monday that they have reopened an investigation into the alleged gang-rape of a…",
+   "published": "2026-09-28T17:05:00+00:00"
+  },
+  {
+   "id": "19c83ca53546",
+   "title": "People escape historic Kyiv building hit by Russian drone",
+   "link": "https://www.bbc.co.uk/news/videos/cqj9xkdyrvgzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The BBC's Paul Adams reports from the scene of the strike on Ukraine's National Academy of Sciences.",
+   "published": "2026-09-28T17:04:14+00:00"
+  },
+  {
+   "id": "ec1f8f15ec58",
+   "title": "SEC Commissioner Hester Peirce To Resign This Week",
+   "link": "https://www.wealthmanagement.com/regulation-compliance/sec-commissioner-hester-peirce-resigns-friday",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The SEC commissioner is departing the regulator to become a professor at Regent University, leaving the agency with just two Republicans and no Democratic representation.",
+   "published": "2026-09-28T17:01:00+00:00"
+  },
+  {
+   "id": "d3ab501d3691",
+   "title": "Shabana Mahmood says Labour party wants to create ‘fairness in our immigration system’ – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "She says a lack of fairness can make ‘people turn inwards’ Healey vows to stick to fiscal rules in budget built on hope Lisa O’Carroll is a senior Guardian correspondent. The head of the SDLP, Claire Hanna , has called for an international mediator to resolve the continuing…",
+   "published": "2026-09-28T17:00:36+00:00"
+  },
+  {
+   "id": "b662706710c8",
+   "title": "Gisèle Pelicot’s daughter launches awareness campaign for potential victims of drugging and sexual assault",
+   "link": "https://www.theguardian.com/world/2026/sep/28/gisele-pelicot-daughter-awareness-campaign-potential-victims-drugging-sexual-assault",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Campaign broadcast across France encourages people to come forward even if they have little to no memory of attack Gisèle Pelicot is the figurehead of a new campaign run by her daughter to encourage people who suspect they have been drugged and sexually assaulted to come…",
+   "published": "2026-09-28T17:00:14+00:00"
+  },
+  {
+   "id": "7fbc9e4054fc",
+   "title": "Micron has a chance to set the record straight with its earnings report",
+   "link": "https://www.marketwatch.com/story/micron-has-a-chance-to-set-the-record-straight-with-its-earnings-report-a98fb935?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Micron is no longer the company it was before the AI boom, and one analyst says it’s time that investors fully appreciate that.",
+   "published": "2026-09-28T16:58:00+00:00"
+  },
+  {
+   "id": "31f56a4c8df5",
+   "title": "RAF Fairford live updates: Five men arrested near base to be released on bail, police say",
+   "link": "https://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Counter terror police say earlier that they arrested five men who were British national in their 20s from London UK security forces aware of suspected bomb plot, hints defence secretary RAF Fairford suspected bomb plot: have you been affected? Speaking at the Labour party…",
+   "published": "2026-09-28T16:57:14+00:00"
+  },
+  {
+   "id": "0d5da6e91e94",
+   "title": "Arming an adversary: Why Trump’s offer to sell China weapons belies US policy",
+   "link": "https://www.aljazeera.com/news-analysis/2026/9/28/arming-an-adversary-why-trump-offer-to-sell-china-weapons-belies-us-policy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Analysts dismissed Trump's proposal as lacking any strategic logic – but said it revealed how he views Beijing.",
+   "published": "2026-09-28T16:55:05+00:00"
+  },
+  {
+   "id": "6da1ba16692e",
+   "title": "Developing Advisors Who Stay",
+   "link": "https://www.wealthmanagement.com/professional-development/developing-advisors-who-stay",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The FinServ Foundation fellowship prepares the next generation of financial planners for long-term success.",
+   "published": "2026-09-28T16:54:16+00:00"
+  },
+  {
+   "id": "cb066738e7cb",
+   "title": "South Korea suspects North Korean mines behind DMZ blast",
+   "link": "https://www.aljazeera.com/news/2026/9/28/south-korea-suspects-north-korean-mines-behind-dmz-blast?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The report into the explosion in Demilitarized Zone threatens to provoke renewed tension between the two Koreas.",
+   "published": "2026-09-28T16:50:08+00:00"
+  },
+  {
+   "id": "051e96bffc7d",
+   "title": "Report Center Webinar Series: MRSB Report Card",
+   "link": "https://www.finra.org/node/387961",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Report Center Webinar Series: MRSB Report Card K28672 Mon, 09/28/2026 - 12:48 This comprehensive webinar series is designed to help your firm maximize the value of FINRA's Report Center. The Report Center provides firms with secure access to data and reports that help detect…",
+   "published": "2026-09-28T16:48:12+00:00"
+  },
+  {
+   "id": "569a35739830",
+   "title": "Migrant children protest after police clear beach camp in Ceuta",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/migrant-children-protest-after-police-clear-beach-camp-in-ceuta?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Migrant children in Ceuta have protested for adequate shelter after heavy rain soaked their makeshift tents.",
+   "published": "2026-09-28T16:44:58+00:00"
+  },
+  {
+   "id": "a9c334a906ae",
+   "title": "Trump’s deportations to third countries violate human rights, UN experts warn",
+   "link": "https://www.theguardian.com/us-news/2026/sep/28/us-deportations-donald-trump-violate-human-rights-un",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sending migrants to countries they do not come from can have deadly consequences and must be halted, says report The deportation of thousands of migrants from the US to third countries has set off a “cascade of human rights violations” that could have “deadly” consequences, two…",
+   "published": "2026-09-28T16:41:55+00:00"
+  },
+  {
+   "id": "5db6c0b8f014",
+   "title": "25-00849.pdf",
+   "link": "https://www.finra.org/node/387956",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "25-00849.pdf Anonymous (not verified) Mon, 09/28/2026 - 12:40 Case ID 25-00849 Forum FINRA Document Type Award Claimants Rikin Patel Respondents Michael Nessim Mohamed Alsoraimi Kingswood Capital Partners, LLC Neutrals Linda T. Pellegrino Howard Alan Grinsberg Hearing Site…",
+   "published": "2026-09-28T16:40:02+00:00"
+  },
+  {
+   "id": "5462451f4bbd",
+   "title": "French police fire tear gas at migrants on beach",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/french-police-fire-tear-gas-at-migrants-on-beach?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "French police have used tear gas to disperse migrants attempting to cross the English Channel to Britain from France.",
+   "published": "2026-09-28T16:37:19+00:00"
+  },
+  {
+   "id": "b2e4bc07a7d4",
+   "title": "Customer Information Request",
+   "link": "https://www.finra.org/node/387951",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Customer Information Request K28672 Mon, 09/28/2026 - 12:35 Join this webinar for an overview of the Customer Information Request that was sent to firms through FINRA Gateway on Oct. 7. FINRA staff will discuss the objective of the request, how the data will be used, new…",
+   "published": "2026-09-28T16:35:24+00:00"
+  },
+  {
+   "id": "6f217f5a33f2",
+   "title": "Nvidia is right: Its stock is a bargain by this measure",
+   "link": "https://www.marketwatch.com/story/nvidia-is-right-its-stock-is-a-bargain-95cee6ca?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Nvidia’s stock has gotten cheaper even as the company has sustained robust levels of growth.",
+   "published": "2026-09-28T16:33:00+00:00"
+  },
+  {
+   "id": "a9818c4fea92",
+   "title": "S. 1981, Strategic Grazing to Reduce Risk of Wildfire Act",
+   "link": "https://www.cbo.gov/publication/62804",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As reported by the Senate Committee on Energy and Natural Resources on July 23, 2026",
+   "published": "2026-09-28T16:32:00+00:00"
+  },
+  {
    "id": "ec166bf4d845",
    "title": "H.R. 3276, Local Communities & Bird Habitat Stewardship Act of 2026",
    "link": "https://www.cbo.gov/publication/62806",
@@ -151,15 +514,15 @@
    "published": "2026-09-28T16:31:00+00:00"
   },
   {
-   "id": "6f217f5a33f2",
-   "title": "Nvidia is right: Its stock is a bargain",
-   "link": "https://www.marketwatch.com/story/nvidia-is-right-its-stock-is-a-bargain-95cee6ca?mod=mw_rss_topstories",
-   "source": "MarketWatch",
+   "id": "9657e1f82d5c",
+   "title": "Trump's immigration push has largely spared farms. Idaho dairymen worry it won't last.",
+   "link": "https://www.npr.org/2026/09/28/nx-s1-5976810/trumps-immigration-push-has-largely-spared-farms-idaho-dairymen-worry-it-wont-last",
+   "source": "NPR News",
    "circle_hint": "national",
-   "domain_feed": true,
+   "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Nvidia’s stock has gotten cheaper even as the company has sustained robust levels of growth.",
-   "published": "2026-09-28T16:29:00+00:00"
+   "summary": "America's farms have largely escaped the president's aggressive immigration crackdown. But as ICE sweeps continue across the nation, farmers are uneasy because many still can't find enough workers.",
+   "published": "2026-09-28T16:27:30+00:00"
   },
   {
    "id": "8cbb8c6c9360",
@@ -206,15 +569,59 @@
    "published": "2026-09-28T16:24:25+00:00"
   },
   {
-   "id": "d3ab501d3691",
-   "title": "Shabana Mahmood says Labour party wants to create ‘fairness in our immigration system’ – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
+   "id": "8e43a4054e5b",
+   "title": "‘Starship is in orbit’: cheers go up as huge SpaceX rocket circles Earth for first time",
+   "link": "https://www.theguardian.com/science/2026/sep/28/spacex-starship-rocket-orbits-earth-texas",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "She says a lack of fairness can make ‘people turn inwards’ Healey vows to stick to fiscal rules in budget built on hope Lisa O’Carroll is a senior Guardian correspondent. The head of the SDLP, Claire Hanna , has called for an international mediator to resolve the continuing…",
-   "published": "2026-09-28T16:16:35+00:00"
+   "summary": "Mission goes ahead despite some fears an initial engine failure after the Texas launch would scupper the attempt SpaceX has sent its enormous Starship rocket into Earth’s orbit for the first time on a milestone flight intended to pave the way for future missions to the moon and…",
+   "published": "2026-09-28T16:23:49+00:00"
+  },
+  {
+   "id": "08ebb5cec86c",
+   "title": "Free Speech Unmuted: Can the President Kick Reporters out of the White House?",
+   "link": "https://reason.com/volokh/2026/09/28/free-speech-unmuted-can-the-president-kick-reporters-out-of-the-white-house/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "When President Trump moved to bar CNN, MSNOW, and Politico from the White House over \"biased\" coverage, it set off… The post Free Speech Unmuted: Can the President Kick Reporters out of the White House? appeared first on Reason Magazine.",
+   "published": "2026-09-28T16:23:30+00:00"
+  },
+  {
+   "id": "5301eb5f08cb",
+   "title": "Dozens arrested at pro-Palestine protest on Sunday outside Labour conference",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/28/dozens-arrested-pro-palestine-protest-labour-conference",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Merseyside force says 82 people arrested and another 79 reported for summons during demonstration More than 160 people were arrested or reported for summons at a pro-Palestine demonstration outside the Labour party conference on Sunday, police have said. Officers arrested 82…",
+   "published": "2026-09-28T16:22:52+00:00"
+  },
+  {
+   "id": "6d9175e05c00",
+   "title": "Avanti West Coast to be renationalised in March as ministers float public ownership of new trains",
+   "link": "https://www.theguardian.com/business/2026/sep/28/avanti-west-coast-to-be-renationalised-in-march",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Andy Burnham hails nationalisation of much-criticised service between London, Birmingham and Glasgow Britain’s biggest intercity rail operator, Avanti West Coast, will be renationalised in spring, ministers have announced, while new trains could also be publicly owned under…",
+   "published": "2026-09-28T16:22:29+00:00"
+  },
+  {
+   "id": "778bf6319ab8",
+   "title": "Women protest in the streets of Delhi after string of sexual assaults",
+   "link": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "BBC correspondent Azadeh Moshiri reports from Delhi, where hundreds of women are protesting.",
+   "published": "2026-09-28T16:15:57+00:00"
   },
   {
    "id": "4380743d7c15",
@@ -273,7 +680,7 @@
   },
   {
    "id": "00bbcc28a396",
-   "title": "A windy corner of New Mexico becomes a launch pad for America’s fastest-growing job",
+   "title": "A windy corner of New Mexico becomes a launch pad for one of America’s fastest-growing jobs",
    "link": "https://www.csmonitor.com/USA/Society/2026/0928/route-66-new-mexico-wind-energy-renewables?icid=rss",
    "source": "Christian Science Monitor",
    "circle_hint": "national",
@@ -281,17 +688,6 @@
    "flourishing_feed": false,
    "summary": "A New Mexico community college is a leader in training for wind technicians, servicing the turbines that are adding wind energy to the electric grid.",
    "published": "2026-09-28T16:01:42+00:00"
-  },
-  {
-   "id": "31f56a4c8df5",
-   "title": "RAF Fairford live updates: Five men arrested near base to be released on bail, police say",
-   "link": "https://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Counter terror police say earlier that they arrested five men who were British national in their 20s from London UK security forces aware of suspected bomb plot, hints defence secretary RAF Fairford suspected bomb plot: have you been affected? Speaking at the Labour party…",
-   "published": "2026-09-28T16:01:15+00:00"
   },
   {
    "id": "1d9836e29a17",
@@ -325,28 +721,6 @@
    "flourishing_feed": false,
    "summary": "Follow updates from the Group A1 Nations League clash, including the build-up, analysis and live text commentary.",
    "published": "2026-09-28T16:00:25+00:00"
-  },
-  {
-   "id": "bf336c0afbd9",
-   "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-   "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“We have an ironclad prenup.”",
-   "published": "2026-09-28T16:00:00+00:00"
-  },
-  {
-   "id": "2514fb17fd27",
-   "title": "Iran says it ‘has no plans to negotiate with US’ despite Trump claims – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Trump had told Axios he expected talks to resume a day after he rejected Iran’s proposal to reopen the strait of Hormuz Sign up for the Breaking News US email While the lawmakers in the US House have already left Washington to get a head start on midterm campaigning, the Senate…",
-   "published": "2026-09-28T15:57:22+00:00"
   },
   {
    "id": "9db566e727c7",
@@ -391,6 +765,17 @@
    "flourishing_feed": false,
    "summary": "Editors’ note: This story was originally published on Sept. 28, 2924. A look back at local, national and world events through Deseret News archives. On Sept. 28, 1981, Joseph Paul Franklin, avowed racist and domestic terrorist, was sentenced to life imprisonment for killing two…",
    "published": "2026-09-28T15:48:14+00:00"
+  },
+  {
+   "id": "bc1e1e027492",
+   "title": "Nigerian attempts to break world record by dancing non-stop for seven days",
+   "link": "https://www.bbc.co.uk/news/articles/cq8r6z2gjzd1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Crowds have gathered in Lagos to watch Ben Dancer, who says he will carry on dancing until Tuesday morning.",
+   "published": "2026-09-28T15:39:19+00:00"
   },
   {
    "id": "ed043367e871",
@@ -477,19 +862,8 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Three others wounded as jet-powered drones increasingly target Ukraine’s capital, with medical centre also hit Europe live – latest updates Russia has hit the National Academy of Sciences in central Kyiv with a drone, killing at least one person in the latest daytime attack on…",
+   "summary": "Three others wounded as jet-powered drones increasingly target Ukraine’s capital, with medical centre also hit Europe live – latest updates A Russian drone hit the National Academy of Sciences in central Kyiv on Monday, killing at least one person, in the latest daytime attack…",
    "published": "2026-09-28T15:16:50+00:00"
-  },
-  {
-   "id": "e0ec3b6d5d13",
-   "title": "Investigation of alleged gang-rape at Cornell University fraternity house reopened",
-   "link": "https://www.theguardian.com/us-news/2026/sep/28/cornell-fraternity-investigation-alleged-gang-rape",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Outrage over treatment of alleged offenders, members of Chi Phi fraternity, has grown since lawsuit was made public Sign up for the Breaking News US newsletter email Prosecutors in New York said on Monday that they have reopened an investigation into the alleged gang-rape of a…",
-   "published": "2026-09-28T15:14:26+00:00"
   },
   {
    "id": "6d03a319966c",
@@ -646,17 +1020,6 @@
    "published": "2026-09-28T14:49:21+00:00"
   },
   {
-   "id": "8e43a4054e5b",
-   "title": "‘Starship is in orbit’: cheers go up as huge SpaceX rocket circles Earth for first time",
-   "link": "https://www.theguardian.com/science/2026/sep/28/spacex-starship-rocket-orbits-earth-texas",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Mission goes ahead despite some fears an initial engine failure after the Texas launch would scupper the attempt SpaceX has sent its enormous Starship rocket into Earth’s orbit for the first time on a milestone flight intended to pave the way for future missions to the moon and…",
-   "published": "2026-09-28T14:44:13+00:00"
-  },
-  {
    "id": "2b0a89bd386a",
    "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
    "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
@@ -688,17 +1051,6 @@
    "flourishing_feed": false,
    "summary": "Criminals use sophisticated techniques to form deep emotional attachments to their victims",
    "published": "2026-09-28T14:12:00+00:00"
-  },
-  {
-   "id": "ef6a339347b1",
-   "title": "SpaceX sends its Starship rocket to orbit for the first time",
-   "link": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "The company is getting closer to making the rocket fully reusable.",
-   "published": "2026-09-28T14:11:00+00:00"
   },
   {
    "id": "46e637fb80d2",
@@ -767,17 +1119,6 @@
    "published": "2026-09-28T14:00:00+00:00"
   },
   {
-   "id": "3045a6dacf0f",
-   "title": "MongoDB’s stock is down more than 20% as CEO decamps to Meta",
-   "link": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Meta is creating an enterprise platform business that aims to make it easier for developers to use its products. CJ Desai, formerly of MongoDB, will head up the initiative.",
-   "published": "2026-09-28T13:57:00+00:00"
-  },
-  {
    "id": "b273774e7f9e",
    "title": "Cattle to feed: Why a global meat crisis is looming",
    "link": "https://www.aljazeera.com/news/2026/9/28/cattle-to-feed-why-a-global-meat-crisis-is-looming?traffic_source=rss",
@@ -796,7 +1137,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "EU to push members to cut tax rate below duty on gas, with 10%+ surge in sales also put down to fallout from Iran war Business live – latest updates Europe live – latest updates Sales of residential heat pumps jumped across Europe in the first six months of the year as the Iran…",
+   "summary": "EU to push member states to cut tax rate below duty on gas, with 11% surge in sales also put down to fallout from Iran war Business live – latest updates Europe live – latest updates Sales of residential heat pumps jumped across Europe in the first six months of the year as the…",
    "published": "2026-09-28T13:53:52+00:00"
   },
   {
@@ -2030,17 +2371,6 @@
    "flourishing_feed": false,
    "summary": "The most revealing thing about the summit in Washington may be what the two leaders did not say - and what we still don't know.",
    "published": "2026-09-28T07:52:23+00:00"
-  },
-  {
-   "id": "6d9175e05c00",
-   "title": "Avanti West Coast to be renationalised in March",
-   "link": "https://www.theguardian.com/business/2026/sep/28/avanti-west-coast-to-be-renationalised-in-march",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Rail operator linking London to Birmingham, the north-west and Glasgow had highest number of cancellations across network Avanti West Coast will be renationalised in spring, as Andy Burnham declares “enough is enough” for passengers who have put up with a rail service “that has…",
-   "published": "2026-09-28T07:24:45+00:00"
   },
   {
    "id": "59d5e816e53e",
