@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T04:30:57.588478+00:00",
+ "generated": "2026-09-28T05:30:00.026234+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,6 +129,17 @@
  ],
  "items": [
   {
+   "id": "b1019ccd6ee9",
+   "title": "Russian strikes kill eight, injure dozens across Ukraine",
+   "link": "https://www.aljazeera.com/news/2026/9/28/russian-strikes-kill-eight-injure-dozens-across-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukrainian leader Zelenskyy says Moscow launched nearly 4,000 drones, aerial bombs and missiles on Ukraine in past week.",
+   "published": "2026-09-28T05:06:11+00:00"
+  },
+  {
    "id": "ed5c9f5a80fb",
    "title": "Australia news live: fuel prices rise ahead of interest rate decision; whale carcass prompts shark warnings at Perth beach",
    "link": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
@@ -137,7 +148,95 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast RBA expected to hike cash rate to 4.6%, its highest level since 2011 Australia’s key interest rate is expected to hit its highest level since 2011, drag down house prices and add more than…",
-   "published": "2026-09-28T04:22:58+00:00"
+   "published": "2026-09-28T05:04:35+00:00"
+  },
+  {
+   "id": "5463c15a2f11",
+   "title": "Should you lock into a fixed-rate savings account paying 5.25%?",
+   "link": "https://www.theguardian.com/money/2026/sep/28/fixed-rate-savings-accounts-interest-highest-in-years",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Savers face a dilemma: lock down the deals now or wait, with offers tipped to ‘get even better’ Returns on the top fixed-rate savings accounts are at their highest level in years and still climbing, with some now paying up to 5.25%. It leaves those with money to put away facing…",
+   "published": "2026-09-28T05:00:24+00:00"
+  },
+  {
+   "id": "2427ecf95016",
+   "title": "The Bosnian War and Negative Peace",
+   "link": "https://thedispatch.com/article/bosnia-serbia-croatia-labels-peace/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What three recent deaths teach us about labels and hatred.",
+   "published": "2026-09-28T05:00:00+00:00"
+  },
+  {
+   "id": "b6cbb21ab454",
+   "title": "Florence Allen Was More Than a First",
+   "link": "https://thedispatch.com/article/florence-allen-female-judge/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The first female judge in America was impressive for reasons beyond her sex.",
+   "published": "2026-09-28T05:00:00+00:00"
+  },
+  {
+   "id": "af72d72da9fd",
+   "title": "Is Iran’s War Coming to the West?",
+   "link": "https://thedispatch.com/article/britain-fairford-iran-attack/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A foiled attack on a British air base suggests Tehran is willing to strike far beyond the Middle East.",
+   "published": "2026-09-28T05:00:00+00:00"
+  },
+  {
+   "id": "0e41079a9340",
+   "title": "Censorship Has No Place in the People’s House",
+   "link": "https://thedispatch.com/article/trump-press-ban-cnn-politico-ms-now/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Trump’s attempt to ban of CNN, MS Now, and Politico is his most direct attack on free speech.",
+   "published": "2026-09-28T05:00:00+00:00"
+  },
+  {
+   "id": "fc03a22df13f",
+   "title": "Sudanese army impounds dozens of motorcycles in Blue Nile curfew",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/sudanese-army-impounds-dozens-of-motorcycles-in-blue-nile-curfew?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Dozens of motorcycles were impounded in Sudan’s Blue Nile State, after their riders were accused of flouting a curfew.",
+   "published": "2026-09-28T04:56:00+00:00"
+  },
+  {
+   "id": "c830fac114fd",
+   "title": "Serbia’s president resigns to run for prime minister",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/28-09-sv-serbias-vucic-resigns-to-run-for-pm-sb?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Serbia’s Aleksandar Vucic has resigned as president and will lead his ruling party into a snap parliamentary election.",
+   "published": "2026-09-28T04:50:46+00:00"
+  },
+  {
+   "id": "83661f704675",
+   "title": "14 killed, a dozen missing as Nepal is hit by more floods and landslides",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/14-killed-a-dozen-missing-as-nepal-is-hit-by-more-floods-and-landslides?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least 14 people have been killed and 11 remain missing after heavy rain triggered floods and landslides across Nepal.",
+   "published": "2026-09-28T04:44:12+00:00"
   },
   {
    "id": "8689a773868c",
