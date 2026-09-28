@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T23:26:10.968489+00:00",
+ "generated": "2026-09-28T00:37:43.453348+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "name": "The Guardian World",
@@ -141,14 +141,80 @@
   },
   {
    "id": "ed5c9f5a80fb",
-   "title": "Australia news live: Gallagher says final budget outcome will shave $6bn off deficit; RBA interest rate hike looms",
+   "title": "Australia news live: Mike Baird resigns as Cricket Australia chair; RBA expected to hike cash rate to 4.6%",
    "link": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Double murder trial of Beau Lamarre-Condon to resume A police officer’s double-murder trial is set to resume with a close confidant continuing in the witness box, AAP reports. Fifty percent…",
-   "published": "2026-09-27T23:14:29+00:00"
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast RBA expected to hike cash rate to 4.6%, its highest level since 2011 Australia’s key interest rate is expected to hit its highest level since 2011, drag down house prices and add more than…",
+   "published": "2026-09-28T00:09:49+00:00"
+  },
+  {
+   "id": "25c62a037e5a",
+   "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Abbas Araghchi's warning comes after Washington rejected a seven-day roadmap to end the war and reopen Strait of Hormuz.",
+   "published": "2026-09-28T00:00:00+00:00"
+  },
+  {
+   "id": "b72d3708aa0a",
+   "title": "Republican senator criticizes White House for taxpayer-funded Trump ads",
+   "link": "https://www.theguardian.com/us-news/2026/sep/27/john-kennedy-white-house-trump-ad-tax-money",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "John Kennedy pushes back against such spending as pro-Trump ‘public service announcements’ air before midterms As the White House expands a taxpayer-funded advertising campaign to promote Donald Trump ’s political agenda before the November midterm elections , US senator John…",
+   "published": "2026-09-27T23:40:34+00:00"
+  },
+  {
+   "id": "8e8dd43e1318",
+   "title": "One dead as nor'easter storm pummels New York and New Jersey",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
+   "published": "2026-09-27T23:37:26+00:00"
+  },
+  {
+   "id": "b419a9e425a4",
+   "title": "News media must stay relevant or 'society will struggle', says World News Day boss",
+   "link": "https://www.bbc.co.uk/news/articles/cmwyz9q3l6pno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "World News Day aims to highlight the role of news providers in investigating and explaining important events.",
+   "published": "2026-09-27T23:27:22+00:00"
+  },
+  {
+   "id": "fa2d11f48443",
+   "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
+   "link": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Slinger Francisco, who performed as the Mighty Sparrow, died on Sunday surrounded by family in New York Slinger Francisco, known on stage as the Mighty Sparrow and dubbed the “calypso king of the world”, has died aged 91. Francisco, who got his breakthrough in calypso music…",
+   "published": "2026-09-27T23:24:10+00:00"
+  },
+  {
+   "id": "1113c95038c0",
+   "title": "Pope pledges action on clergy child abuse in meeting with French survivors",
+   "link": "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Head of the Roman Catholic Church holds 'emotional' two-hour meeting with seven abuse victims in French town of Lourdes.",
+   "published": "2026-09-27T23:14:15+00:00"
   },
   {
    "id": "19a09f7980eb",
@@ -171,6 +237,17 @@
    "flourishing_feed": false,
    "summary": "Man City just got found guilty on 114 of 115 financial charges — but the story behind it is much more complex.",
    "published": "2026-09-27T23:09:48+00:00"
+  },
+  {
+   "id": "930b4cf9e607",
+   "title": "Why some Indian civil servants become heroes for doing their jobs",
+   "link": "https://www.bbc.co.uk/news/articles/cw980vje6l3eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In a system often marked by red tape and exhausting delays, officers seen to be following the rules get adulation.",
+   "published": "2026-09-27T23:01:37+00:00"
   },
   {
    "id": "14fd92ce0257",
@@ -292,6 +369,17 @@
    "flourishing_feed": false,
    "summary": "Student protests at an Indian university have turned violent following claims that a female student was raped on campus.",
    "published": "2026-09-27T21:17:05+00:00"
+  },
+  {
+   "id": "70b346dbdb24",
+   "title": "Inside Yemen's front-line city as Houthis battle for control",
+   "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+   "published": "2026-09-27T21:16:31+00:00"
   },
   {
    "id": "c43e406577be",
@@ -468,17 +556,6 @@
    "flourishing_feed": false,
    "summary": "Exclusive: Dedicated service to support sexual assault victim-survivors as they navigate legal system to open in NSW Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast It took Shannon Stokes two years and 11 days…",
    "published": "2026-09-27T20:00:13+00:00"
-  },
-  {
-   "id": "b72d3708aa0a",
-   "title": "Republican senator criticizes White House for taxpayer-funded Trump ads",
-   "link": "https://www.theguardian.com/us-news/2026/sep/27/john-kennedy-white-house-trump-ad-tax-money",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "John Kennedy pushes back against such spending as pro-Trump ‘public service announcements’ air before midterms As the White House expands a taxpayer-funded advertising campaign to promote Donald Trump ’s political agenda before the November midterm elections , US senator John…",
-   "published": "2026-09-27T19:54:03+00:00"
   },
   {
    "id": "007fe3baf6f8",
@@ -1359,17 +1436,6 @@
    "flourishing_feed": false,
    "summary": "About 71 percent of voters oppose initiative to impose stricter limits on neutrality.",
    "published": "2026-09-27T12:45:42+00:00"
-  },
-  {
-   "id": "8e8dd43e1318",
-   "title": "One dead as nor'easter storm pummels New York and New Jersey",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system.",
-   "published": "2026-09-27T12:34:26+00:00"
   },
   {
    "id": "06328a16b966",
