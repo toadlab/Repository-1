@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T19:28:59.973404+00:00",
+ "generated": "2026-09-28T20:28:37.077513+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,17 @@
  ],
  "items": [
   {
+   "id": "923f7843c4e1",
+   "title": "Salt Lake firefighter identified as BASE jumper who died in Cache County",
+   "link": "https://www.deseret.com/utah/2026/09/28/firefighter-identified-as-base-jumper-who-died-in-cache-county/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A firefighter with the Salt Lake City Fire Department died on Sunday in a BASE jumping incident where the wingsuit he was using malfunctioned.",
+   "published": "2026-09-28T20:23:14+00:00"
+  },
+  {
    "id": "780e114c8b45",
    "title": "Stand-up comic released after being convicted of insulting Erdoğan",
    "link": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss",
@@ -137,7 +148,315 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Turkish comedian Deniz Göktaş also faces a travel ban but has been released due to time served.",
-   "published": "2026-09-28T19:26:15+00:00"
+   "published": "2026-09-28T20:23:12+00:00"
+  },
+  {
+   "id": "feed8d1f8499",
+   "title": "Learn how to support students facing housing insecurity",
+   "link": "https://mirrorindy.org/learn-how-to-support-students-facing-housing-insecurity/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Brightlane Learning’s Sparking Conversations series promotes collaborative solutions. The post Learn how to support students facing housing insecurity appeared first on Mirror Indy .",
+   "published": "2026-09-28T20:20:26+00:00"
+  },
+  {
+   "id": "2514fb17fd27",
+   "title": "Trump doubles down on claims US will win war with Iran ‘one way or another’ as talks are in doubt – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President claims US negotiators spoke with Iranian officials through intermediaries after Iran says it ‘has no plans to negotiate with US’ Sign up for the Breaking News US email While the lawmakers in the US House have already left Washington to get a head start on midterm…",
+   "published": "2026-09-28T20:19:55+00:00"
+  },
+  {
+   "id": "f0beeda5c441",
+   "title": "H.R. 2299, Ensuring Workers Get PAID Act of 2025",
+   "link": "https://www.cbo.gov/publication/62811",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As reported by the House Committee on Education and Workforce on March 3, 2026",
+   "published": "2026-09-28T20:15:00+00:00"
+  },
+  {
+   "id": "08f40c4166fa",
+   "title": "Spiking fuel costs add to burden as Syrians try to rebuild, sparking protests",
+   "link": "https://www.csmonitor.com/World/Middle-East/2026/0928/fuel-protests-syria-rebuilding-iran-war?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Syrian government’s recent decision to raise fuel costs, after an earlier increase in electricity prices, led to protests that upset a string of government successes.",
+   "published": "2026-09-28T20:13:24+00:00"
+  },
+  {
+   "id": "ca9dd6a21883",
+   "title": "This exotic fruit could help treat a certain type of heart failure",
+   "link": "https://www.deseret.com/lifestyle/2026/09/28/pomegranate-compound-helps-heart-function-kings-college-study-walnuts-berries/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A natural compound the body makes when gut bacteria break down substances in pomegranates could lead to a new treatment for a kind of heart failure that’s hard to treat. That’s just the latest finding that suggests multiple benefits from a fruit that manages to be sweet and…",
+   "published": "2026-09-28T20:11:51+00:00"
+  },
+  {
+   "id": "49cef282355a",
+   "title": "Two people sentenced to 60 and 45 years in prison in death of Telemundo reporter",
+   "link": "https://www.theguardian.com/us-news/2026/sep/28/telemundo-reporter-death-sentences",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Danette Colbert and Rickey White sentenced in Adan Manzano’s death for racketeering and negligent homicide A Louisiana judge has handed lengthy prison sentences to two people convicted of roles in a criminal enterprise that targeted New Orleans tourists led to the death of a…",
+   "published": "2026-09-28T20:10:31+00:00"
+  },
+  {
+   "id": "940b78c15741",
+   "title": "Stocks Fall on Fog of War and Fear of AI: Stock Market Today",
+   "link": "https://www.kiplinger.com/investing/stocks/stocks-fall-on-fog-of-war-and-fear-of-ai-stock-market-today",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As the war in the Middle East between the U.S. and Iran continues to drag on stocks and sentiment, a rogue OpenAI model attacks the United Nations.",
+   "published": "2026-09-28T20:10:05+00:00"
+  },
+  {
+   "id": "5af5dd73b28f",
+   "title": "H.R. 5235, Skills-Based Federal Contracting Act of 2025",
+   "link": "https://www.cbo.gov/publication/62810",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As reported by the Senate Committee on Homeland Security and Governmental Affairs on September 14, 2026",
+   "published": "2026-09-28T20:08:00+00:00"
+  },
+  {
+   "id": "1cf6264925e4",
+   "title": "Trump announces $15bn steel mill project in Iowa before US midterms",
+   "link": "https://www.aljazeera.com/economy/2026/9/28/trump-announces-15bn-steel-mill-project-in-iowa-before-us-midterms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Amid tight Iowa midterm races, US President Trump emphasises steel industry revival with a project announcement.",
+   "published": "2026-09-28T20:04:27+00:00"
+  },
+  {
+   "id": "641dcb0f160b",
+   "title": "Before you invest in the Oura IPO, understand what you’re buying",
+   "link": "https://www.marketwatch.com/story/before-you-invest-in-the-oura-ipo-understand-what-youre-buying-1d88d868?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The health-data company could see a pop in its stock price, but there are plenty of warning signs",
+   "published": "2026-09-28T20:04:00+00:00"
+  },
+  {
+   "id": "352d918355d4",
+   "title": "Why RIA M&A Deals Keep Getting Bigger, and What It Means for Your Firm",
+   "link": "https://www.wealthmanagement.com/growth-strategies/ria-deal-size-grows-as-advisory-firms-mature",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Advisory businesses are becoming larger enterprises with professional management teams and specialized staff, driving bigger transactions beyond just capital influx.",
+   "published": "2026-09-28T20:03:26+00:00"
+  },
+  {
+   "id": "e35b7b47af3a",
+   "title": "October is historically the most volatile month for stocks. But why? These 4 popular theories fail to hold up.",
+   "link": "https://www.marketwatch.com/story/october-is-historically-the-most-volatile-month-for-stocks-but-why-these-4-popular-theories-fail-to-hold-up-a47a1830?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Although October historically has been the most volatile month of the year, you shouldn’t bet that it will continue to be in the future.",
+   "published": "2026-09-28T20:02:00+00:00"
+  },
+  {
+   "id": "3ef4717752da",
+   "title": "New tool directly links carbon emissions to amount of environmental and economic damage caused",
+   "link": "https://www.theguardian.com/environment/2026/sep/29/new-tool-directly-links-carbon-emissions-to-amount-of-environmental-and-economic-damage-caused",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Carbon Impacts Tracer can be used to estimate climate impact from emissions across eight different factors, including lost food production The biggest coal project before authorities in New South Wales, the HVO mine , will emit the equivalent of about 809m tonnes of…",
+   "published": "2026-09-28T20:00:43+00:00"
+  },
+  {
+   "id": "f6fc8fd09912",
+   "title": "The 5th Circuit Rejects Qualified Immunity for Cops Who Searched a Driver After a Bogus Traffic Stop",
+   "link": "https://reason.com/2026/09/28/the-5th-circuit-rejects-qualified-immunity-for-cops-who-searched-a-driver-after-a-bogus-traffic-stop/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "\"It is clearly established that an officer cannot pull someone over without reasonable suspicion and thereafter concoct a fabricated traffic violation,\" the appeals court says.",
+   "published": "2026-09-28T20:00:32+00:00"
+  },
+  {
+   "id": "b0130cb080cd",
+   "title": "The 2 BYU misconceptions that are not beholden to the facts",
+   "link": "https://www.deseret.com/sports/2026/09/28/byu-misconceptions-age-travel-well/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Late in a recent BYU-Arizona soccer game, with the score tied 1-1, a strong contingent of BYU fans in Tucson started making a little noise. As the broadcasters called attention to them, I said out loud in my home office, “Don’t do it. Don’t say it.” And then they said it. “BYU…",
+   "published": "2026-09-28T20:00:00+00:00"
+  },
+  {
+   "id": "1f554d82e61e",
+   "title": "Nepal hit by deadly floods, landslides, and avalanche",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_nepal-hit-by-deadly-floods-landslides-avalanche-280926?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Heavy rain triggered deadly floods and landslides across Nepal, while an avalanche left 12 workers missing.",
+   "published": "2026-09-28T19:59:36+00:00"
+  },
+  {
+   "id": "8159484788a2",
+   "title": "NFL asks US Homeland Security to remove video with former star player",
+   "link": "https://www.aljazeera.com/news/2026/9/28/nfl-asks-us-homeland-security-to-remove-video-with-former-star-player?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Agency used video of Hall of Fame player Brian Dawkins to show readiness for border protection.",
+   "published": "2026-09-28T19:49:25+00:00"
+  },
+  {
+   "id": "0fe7dafc4f7c",
+   "title": "October 2026 general conference: How to watch, listen and follow",
+   "link": "https://www.deseret.com/faith/2026/09/28/october-2026-general-conference-how-to-watch-and-follow/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 196th Semiannual General Conference of The Church of Jesus Christ of Latter-day Saints is coming up on Oct. 3–4, and all are invited to join and “hear the word of God.” “General conference provides an opportunity to receive personal revelation as church leaders give counsel…",
+   "published": "2026-09-28T19:46:16+00:00"
+  },
+  {
+   "id": "a093dfca7941",
+   "title": "Italian court convicts three Egyptian agents for kidnap of Giulio Regeni",
+   "link": "https://www.aljazeera.com/news/2026/9/28/italian-court-convicts-three-egyptian-agents-for-kidnap-of-giulio-regeni?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Defendants were sentenced in absentia to 10 years in prison over the 2016 fatal abduction of the Cambridge scholar.",
+   "published": "2026-09-28T19:45:06+00:00"
+  },
+  {
+   "id": "5a85b96500f0",
+   "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
+   "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“The only debts were utility and credit-card bills, which we will pay off.”",
+   "published": "2026-09-28T19:45:00+00:00"
+  },
+  {
+   "id": "340584a5fe39",
+   "title": "The Swiss take a stand on neutrality",
+   "link": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/0928/The-Swiss-take-a-stand-on-neutrality?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Voters overwhelmingly reject a strict neutrality in the face of foreign threats in Europe, testing Switzerland’s ability to be a peacemaking arbiter.",
+   "published": "2026-09-28T19:44:07+00:00"
+  },
+  {
+   "id": "d9dfd9eee7d1",
+   "title": "UAE confirms Netanyahu visit to Abu Dhabi",
+   "link": "https://www.aljazeera.com/news/2026/9/28/uae-confirms-netanyahu-visit-to-abu-dhabi?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The visit took place as the Israeli prime minister battles domestic turmoil ahead of October's Knesset elections.",
+   "published": "2026-09-28T19:42:30+00:00"
+  },
+  {
+   "id": "3fba492f51d6",
+   "title": "Trump unveils plan for $15bn Iowa steel plant he calls biggest in US history",
+   "link": "https://www.theguardian.com/us-news/2026/sep/28/trump-steel-plant-iowa",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President seeks midterms boost as White House says project, built by Indian-owned company, will begin in 2030 Donald Trump on Monday announced what he called the largest steel plant in American history to be built in Iowa, giving Republicans a jobs message to take to voters in…",
+   "published": "2026-09-28T19:39:39+00:00"
+  },
+  {
+   "id": "bb9d98e2b47c",
+   "title": "How can the UK’s Labour Party rebuild voter trust?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/9/28/how-can-the-uks-labour-party-rebuild-voter-trust?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Members at annual conference are optimistic about new PM",
+   "published": "2026-09-28T19:37:27+00:00"
+  },
+  {
+   "id": "59d63dde3977",
+   "title": "PepsiCo plans to raise prices on sodas, chips and dip — and that has Wall Street worried",
+   "link": "https://www.marketwatch.com/story/pepsico-plans-to-raise-prices-on-sodas-chips-and-dip-and-that-has-wall-street-worried-0ec355bf?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "TD Cowen analysts flagged the company’s “shifting narrative on affordability” as a risk.",
+   "published": "2026-09-28T19:37:00+00:00"
+  },
+  {
+   "id": "d33e18969831",
+   "title": "Myanmar army air strike kills dozens in Rakhine state",
+   "link": "https://www.aljazeera.com/news/2026/9/28/myanmar-army-air-strike-kills-dozens-in-rakhine-state?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Nearly half a million people are displaced in Rakhine as a result of the conflict between the military and rebel groups.",
+   "published": "2026-09-28T19:31:27+00:00"
+  },
+  {
+   "id": "013cc48f499a",
+   "title": "Trump's New Ads Look Like Campaign Spots. Taxpayers Are Paying for Them.",
+   "link": "https://reason.com/2026/09/28/trumps-new-ads-look-like-campaign-spots-taxpayers-are-paying-for-them/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "With midterm voting underway, the distinction between public service announcements and campaign ads blurs.",
+   "published": "2026-09-28T19:30:20+00:00"
+  },
+  {
+   "id": "2b0a89bd386a",
+   "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+   "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“As a country, we have grown dangerously comfortable.”",
+   "published": "2026-09-28T19:30:00+00:00"
   },
   {
    "id": "32466dabd5d1",
@@ -160,17 +479,6 @@
    "flourishing_feed": false,
    "summary": "Police said Tasia Fortune, 29, was killed before her body was placed in the tree, and the scene was ‘staged’ A Mississippi judge set a $5m bond on Monday for a third man charged in the death of a Black woman whose body was found hanging from a tree in August. Police disclosed…",
    "published": "2026-09-28T19:19:38+00:00"
-  },
-  {
-   "id": "2514fb17fd27",
-   "title": "Trump doubles down on claims US will win war with Iran ‘one way or another’ as talks are in doubt – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President claims US negotiators spoke with Iranian officials through intermediaries after Iran says it ‘has no plans to negotiate with US’ Sign up for the Breaking News US email While the lawmakers in the US House have already left Washington to get a head start on midterm…",
-   "published": "2026-09-28T19:18:37+00:00"
   },
   {
    "id": "122f1bbabbdb",
@@ -270,6 +578,17 @@
    "flourishing_feed": false,
    "summary": "“My sister always chooses places where it’s cheapest for her to fly.”",
    "published": "2026-09-28T18:40:00+00:00"
+  },
+  {
+   "id": "40c2542b6951",
+   "title": "Stuck between superpowers: How Australia navigates the China-US rivalry",
+   "link": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Australia is increasingly concerned about China's military might - but Beijing is also its biggest trade partner.",
+   "published": "2026-09-28T18:37:15+00:00"
   },
   {
    "id": "ec9384613748",
@@ -1438,17 +1757,6 @@
    "published": "2026-09-28T15:00:36+00:00"
   },
   {
-   "id": "5a85b96500f0",
-   "title": "‘I want to make her proud’: My mother, a divorcée, died and I’m her executor. Do I need to file for probate?",
-   "link": "https://www.marketwatch.com/story/i-want-to-make-her-proud-my-mother-a-divorcee-died-and-im-her-executor-do-i-need-to-file-for-probate-a39b1123?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“The only debts were utility and credit-card bills, which we will pay off.”",
-   "published": "2026-09-28T15:00:00+00:00"
-  },
-  {
    "id": "0d590e1e41e0",
    "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
    "link": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
@@ -1513,17 +1821,6 @@
    "flourishing_feed": false,
    "summary": "Surfshark offers more than a VPN. Learn how its antivirus, data breach alerts, Alternative ID and other tools can help protect your information online.",
    "published": "2026-09-28T14:49:21+00:00"
-  },
-  {
-   "id": "2b0a89bd386a",
-   "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-   "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“As a country, we have grown dangerously comfortable.”",
-   "published": "2026-09-28T14:30:00+00:00"
   },
   {
    "id": "491488a13375",
@@ -12216,17 +12513,6 @@
    "flourishing_feed": false,
    "summary": "The Securities and Exchange Commission today announced that it proposed new rules, titled “Regulation Crypto Assets,” that would create a clear and fit-for-purpose framework for certain investment contracts involving crypto assets. This proposal follows…",
    "published": "2026-08-18T17:15:48+00:00"
-  },
-  {
-   "id": "99ec08dcf9f7",
-   "title": "SEC Charges Boiler Room Operator and Three Entities with Defrauding Retail Investors in $74 Million Pre-IPO Investment Scam",
-   "link": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo",
-   "source": "SEC Press Releases",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "The Securities and Exchange Commission today charged New York resident Andrew Spaventa and three entities he owned and controlled with fraud and other violations in connection with unregistered securities offerings of private funds that purportedly…",
-   "published": "2026-08-14T20:16:34+00:00"
   }
  ]
 }
