@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T15:32:24.829934+00:00",
+ "generated": "2026-09-28T16:32:06.348062+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,83 @@
  ],
  "items": [
   {
+   "id": "ec166bf4d845",
+   "title": "H.R. 3276, Local Communities & Bird Habitat Stewardship Act of 2026",
+   "link": "https://www.cbo.gov/publication/62806",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As passed by the House on September 14, 2026",
+   "published": "2026-09-28T16:31:00+00:00"
+  },
+  {
+   "id": "4370ab51ddc4",
+   "title": "S. 1680, Virginia Wilderness Addition Act of 2025",
+   "link": "https://www.cbo.gov/publication/62805",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As reported by the Senate Committee on Agriculture, Nutrition, and Forestry on October 27, 2025",
+   "published": "2026-09-28T16:31:00+00:00"
+  },
+  {
+   "id": "6f217f5a33f2",
+   "title": "Nvidia is right: Its stock is a bargain",
+   "link": "https://www.marketwatch.com/story/nvidia-is-right-its-stock-is-a-bargain-95cee6ca?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Nvidia’s stock has gotten cheaper even as the company has sustained robust levels of growth.",
+   "published": "2026-09-28T16:29:00+00:00"
+  },
+  {
+   "id": "8cbb8c6c9360",
+   "title": "Ebola cases surpass 8,000 as DRC struggles to control outbreak",
+   "link": "https://www.aljazeera.com/news/2026/9/28/ebola-cases-surpass-8000-as-drc-struggles-to-control-outbreak?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fatalities near 4,000 across the DRC as health workers battle community anger and a vaccine-resistant strain.",
+   "published": "2026-09-28T16:26:18+00:00"
+  },
+  {
+   "id": "7472fc44a9bd",
+   "title": "Remains of dozens of suspected kidnap victims found in Nigerian forests",
+   "link": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Investigations are ongoing to establish the identities of at least 28 people whose remains were recovered by police.",
+   "published": "2026-09-28T16:25:00+00:00"
+  },
+  {
+   "id": "1f7095a47fe0",
+   "title": "Jerusalem Daily: Israeli incursions at Al-Aqsa Mosque",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/jerusalem-daily-israeli-incursions-at-al-aqsa-mosque?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jerusalem Daily: Israeli incursions at Al-Aqsa Mosque",
+   "published": "2026-09-28T16:24:54+00:00"
+  },
+  {
+   "id": "6cdcb3944668",
+   "title": "Florida authorities ask court to block OpenAI’s ChatGPT over safety issues",
+   "link": "https://www.aljazeera.com/news/2026/9/28/florida-authorities-ask-court-to-block-openais-chatgpt-over-safety-issues?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Republican-led US state says the AI should be blocked from development until safeguards are put in place.",
+   "published": "2026-09-28T16:24:25+00:00"
+  },
+  {
    "id": "d3ab501d3691",
    "title": "Shabana Mahmood says Labour party wants to create ‘fairness in our immigration system’ – UK politics live",
    "link": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
@@ -137,7 +214,73 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "She says a lack of fairness can make ‘people turn inwards’ Healey vows to stick to fiscal rules in budget built on hope Lisa O’Carroll is a senior Guardian correspondent. The head of the SDLP, Claire Hanna , has called for an international mediator to resolve the continuing…",
-   "published": "2026-09-28T15:27:42+00:00"
+   "published": "2026-09-28T16:16:35+00:00"
+  },
+  {
+   "id": "4380743d7c15",
+   "title": "Four bodies found after avalanche hits Himalayan climbing group",
+   "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rescuers are still looking for 12 Nepalese cook staff who were preparing for climbers to ascend the Himlung Himal peak.",
+   "published": "2026-09-28T16:13:44+00:00"
+  },
+  {
+   "id": "6ac37744919b",
+   "title": "Founders Town Hall: Handicapping the Midterms",
+   "link": "https://thedispatch.com/article/founders-town-hall-handicapping-the-midterms/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Join Steve and Jonah Tuesday night at 8 p.m. ET.",
+   "published": "2026-09-28T16:09:43+00:00"
+  },
+  {
+   "id": "c6e47b1b483d",
+   "title": "The Trump administration weakens fuel efficiency standards for new cars",
+   "link": "https://www.npr.org/2026/09/28/nx-s1-5918509/car-fuel-efficiency-cafe-standards-rollback",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Trump administration says easing these standards will make cars more affordable. Critics say it's not so simple and could be costly for the environment.",
+   "published": "2026-09-28T16:07:15+00:00"
+  },
+  {
+   "id": "205b065286a5",
+   "title": "Texas Republican called for public execution of Democratic leaders – report",
+   "link": "https://www.theguardian.com/us-news/2026/sep/28/texas-republican-controversial-social-media-posts",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bo French, who is running to lead a state agency, has in the past posted controversial and racist statements online Bo French, a Texas Republican running to lead a powerful state agency, has a history of making controversial social media posts, including calling for the public…",
+   "published": "2026-09-28T16:04:28+00:00"
+  },
+  {
+   "id": "5bc0e4b77f94",
+   "title": "Obama Claims Government Is 'Less Corrupt' and Women Are Better Leaders. There's a Problem With Both Ideas.",
+   "link": "https://reason.com/2026/09/28/obama-claims-government-is-less-corrupt-and-women-are-better-leaders-theres-a-problem-with-both-ideas/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "There's a lot of flaws in both sweeping claims—and one that they have in common.",
+   "published": "2026-09-28T16:03:59+00:00"
+  },
+  {
+   "id": "00bbcc28a396",
+   "title": "A windy corner of New Mexico becomes a launch pad for America’s fastest-growing job",
+   "link": "https://www.csmonitor.com/USA/Society/2026/0928/route-66-new-mexico-wind-energy-renewables?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A New Mexico community college is a leader in training for wind technicians, servicing the turbines that are adding wind energy to the electric grid.",
+   "published": "2026-09-28T16:01:42+00:00"
   },
   {
    "id": "31f56a4c8df5",
@@ -148,17 +291,193 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Counter terror police say earlier that they arrested five men who were British national in their 20s from London UK security forces aware of suspected bomb plot, hints defence secretary RAF Fairford suspected bomb plot: have you been affected? Speaking at the Labour party…",
-   "published": "2026-09-28T15:24:52+00:00"
+   "published": "2026-09-28T16:01:15+00:00"
+  },
+  {
+   "id": "1d9836e29a17",
+   "title": "Palestine has become electoral issue in UK for first time, says solidarity campaign chief",
+   "link": "https://www.theguardian.com/politics/2026/sep/28/palestine-gaza-electoral-issue-uk-israel-aimee-shalan",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Anger over Israel’s war in Gaza is mobilising British voters, according to Aimee Shalan Palestine has become a domestic electoral issue in Britain for the first time, according to the incoming head of the country’s largest Palestinian solidarity organisation. Aimee Shalan, who…",
+   "published": "2026-09-28T16:00:38+00:00"
+  },
+  {
+   "id": "a12ef54c0fd2",
+   "title": "Angela Rayner promises greater public control of housing in England",
+   "link": "https://www.theguardian.com/society/2026/sep/28/angela-rayner-labour-conference-greater-public-control-housing-england",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Conference speech to announce housing associations cannot reject homeless families without good reason as councils gain new powers Housing associations in England will be told they cannot decline to house homeless families without good reason, Angela Rayner will tell the Labour…",
+   "published": "2026-09-28T16:00:38+00:00"
+  },
+  {
+   "id": "9c6e8cad7134",
+   "title": "LIVE: Belgium vs France – Nations League",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/9/28/live-belgium-vs-france-nations-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow updates from the Group A1 Nations League clash, including the build-up, analysis and live text commentary.",
+   "published": "2026-09-28T16:00:25+00:00"
+  },
+  {
+   "id": "bf336c0afbd9",
+   "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+   "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“We have an ironclad prenup.”",
+   "published": "2026-09-28T16:00:00+00:00"
+  },
+  {
+   "id": "2514fb17fd27",
+   "title": "Iran says it ‘has no plans to negotiate with US’ despite Trump claims – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump had told Axios he expected talks to resume a day after he rejected Iran’s proposal to reopen the strait of Hormuz Sign up for the Breaking News US email While the lawmakers in the US House have already left Washington to get a head start on midterm campaigning, the Senate…",
+   "published": "2026-09-28T15:57:22+00:00"
+  },
+  {
+   "id": "9db566e727c7",
+   "title": "Trump administration to slash clean car rules aimed at cutting climate emissions",
+   "link": "https://www.theguardian.com/us-news/2026/sep/28/trump-administration-slashes-clean-car-rules",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Environmentalists decry move that relaxes requirements on automakers to control pollution from gas-powered cars The Trump administration on Monday announced it was slashing clean car rules that had been aimed at reducing planet-heating emissions and boosting electric vehicles.…",
+   "published": "2026-09-28T15:56:32+00:00"
+  },
+  {
+   "id": "831bb5cd19a0",
+   "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
+   "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party says A senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on a radio programme to raise awareness…",
+   "published": "2026-09-28T15:54:25+00:00"
+  },
+  {
+   "id": "f177281a17dd",
+   "title": "Gene-edited bananas that don’t go brown could hit UK supermarkets",
+   "link": "https://www.theguardian.com/science/2026/sep/28/gene-edited-non-browning-banana-britain-shops",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Scientific breakthrough could reduce food waste and make it easier to add the fruit to prepackaged food It is the bane of every fruit bowl: sliced banana that turns brown before it has reached the table. But such woes could soon be a thing of the past, with gene-edited bananas…",
+   "published": "2026-09-28T15:50:44+00:00"
+  },
+  {
+   "id": "d3362884b93c",
+   "title": "Deseret News archives: Joseph Paul Franklin sentenced for Utah murders",
+   "link": "https://www.deseret.com/utah/2024/09/28/deseret-news-archives-joseph-paul-franklin-sentenced-in-utah-murders/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Editors’ note: This story was originally published on Sept. 28, 2924. A look back at local, national and world events through Deseret News archives. On Sept. 28, 1981, Joseph Paul Franklin, avowed racist and domestic terrorist, was sentenced to life imprisonment for killing two…",
+   "published": "2026-09-28T15:48:14+00:00"
+  },
+  {
+   "id": "ed043367e871",
+   "title": "At least 33 killed after Myanmar military air strike hits market",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/at-least-33-killed-after-myanmar-military-air-strike-hits-market?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Dozens of people have been killed in a military air strike on an opposition-controlled area of Rakhine State, Myanmar.",
+   "published": "2026-09-28T15:38:16+00:00"
+  },
+  {
+   "id": "2a7c458bde65",
+   "title": "Brothzilla, or \"It's a Cruel Thing to Disrupt Your Estranged Sister's Expensive Destination Wedding\"",
+   "link": "https://reason.com/volokh/2026/09/28/brothzilla-or-its-a-cruel-thing-to-disrupt-your-estranged-sisters-expensive-destination-wedding/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "And there's a defamation case stemming from all that.",
+   "published": "2026-09-28T15:37:33+00:00"
+  },
+  {
+   "id": "e838092e1654",
+   "title": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
+   "link": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "British foreign minister vows to 'match word with action' when it comes to defending Palestinian rights.",
+   "published": "2026-09-28T15:35:21+00:00"
+  },
+  {
+   "id": "a0144831b74b",
+   "title": "High school boys golf: Week 8 region recap from 6A, 5A, 4A, 3A and 2A",
+   "link": "https://www.deseret.com/sports/2026/09/28/high-school-boys-golf-week-8-region-recaps/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Region 1 Team standings Stroke average — School 276.5 — Farmington 284.4 — Weber 285.1 — Davis 288.1 — Layton 297.3 — Syracuse Individual standings Stroke average — School 67.0 — Austin Bybee, Weber 68.0 — Coulson Summerhays, Farmington 68.1 — Jackson Gross, Davis 69.5 — Madden…",
+   "published": "2026-09-28T15:33:23+00:00"
+  },
+  {
+   "id": "db77ef27cd18",
+   "title": "The Untold Origins of Trump’s Plan to Sharply Restrict Mail-In Voting",
+   "link": "https://www.propublica.org/article/trumps-plan-to-restrict-mail-voting",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post The Untold Origins of Trump’s Plan to Sharply Restrict Mail-In Voting appeared first on ProPublica .",
+   "published": "2026-09-28T15:30:00+00:00"
+  },
+  {
+   "id": "4290e2aa3994",
+   "title": "Iran denies link to attack on airbase as UK minister warns of ‘proxies’",
+   "link": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tehran condemns 'unfounded and malicious speculation'; British FM vows to 'act against the proxies of Iran'.",
+   "published": "2026-09-28T15:29:48+00:00"
+  },
+  {
+   "id": "be23a66d61de",
+   "title": "SpaceX’s showpiece Starship rocket reaches orbit for first time",
+   "link": "https://www.aljazeera.com/news/2026/9/28/spacexs-showpiece-starship-rocket-reaches-orbit-for-first-time?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Founder Elon Musk's rocket, the largest ever built, is meant to carry NASA mission to moon and beyond.",
+   "published": "2026-09-28T15:25:38+00:00"
   },
   {
    "id": "58a5aa28036e",
-   "title": "Staff killed and wounded in Russian strike on Kyiv’s science academy",
+   "title": "Russian strike on Kyiv’s science academy kills at least one in latest daytime attack",
    "link": "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Moscow’s jet-powered drones pummel Ukraine’s capital in switch to daytime attacks Europe live – latest updates Russia has hit the National Academy of Sciences in central Kyiv with a drone, killing at least one person in the latest daytime attack on Ukraine’s capital. Flames…",
+   "summary": "Three others wounded as jet-powered drones increasingly target Ukraine’s capital, with medical centre also hit Europe live – latest updates Russia has hit the National Academy of Sciences in central Kyiv with a drone, killing at least one person in the latest daytime attack on…",
    "published": "2026-09-28T15:16:50+00:00"
   },
   {
@@ -204,17 +523,6 @@
    "flourishing_feed": false,
    "summary": "A federal appeals court has permanently blocked the recruitment provision of Tennessee's \"abortion trafficking\" law.",
    "published": "2026-09-28T15:08:13+00:00"
-  },
-  {
-   "id": "9db566e727c7",
-   "title": "Trump administration to slash clean car rules aimed at cutting climate emissions",
-   "link": "https://www.theguardian.com/us-news/2026/sep/28/trump-administration-slashes-clean-car-rules",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Environmentalists decry move that relaxes requirements on automakers to control pollution from gas-powered cars The Trump administration on Monday announced it was slashing clean car rules that had been aimed at reducing planet-heating emissions and boosting electric vehicles.…",
-   "published": "2026-09-28T15:05:59+00:00"
   },
   {
    "id": "98368bf2049a",
@@ -347,17 +655,6 @@
    "flourishing_feed": false,
    "summary": "Mission goes ahead despite some fears an initial engine failure after the Texas launch would scupper the attempt SpaceX has sent its enormous Starship rocket into Earth’s orbit for the first time on a milestone flight intended to pave the way for future missions to the moon and…",
    "published": "2026-09-28T14:44:13+00:00"
-  },
-  {
-   "id": "2514fb17fd27",
-   "title": "Iran says it ‘has no plans to negotiate with US’ despite Trump claims – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Trump had told Axios he expected talks to resume a day after he rejected Iran’s proposal to reopen the strait of Hormuz Sign up for the Breaking News US email While the lawmakers in the US House have already left Washington to get a head start on midterm campaigning, the Senate…",
-   "published": "2026-09-28T14:34:17+00:00"
   },
   {
    "id": "2b0a89bd386a",
@@ -776,17 +1073,6 @@
    "flourishing_feed": false,
    "summary": "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\".",
    "published": "2026-09-28T12:47:09+00:00"
-  },
-  {
-   "id": "bf336c0afbd9",
-   "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-   "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“We have an ironclad prenup.”",
-   "published": "2026-09-28T12:45:00+00:00"
   },
   {
    "id": "49cfd30ec810",
@@ -2877,17 +3163,6 @@
    "flourishing_feed": false,
    "summary": "The two pandas, Ping Ping and Fu Shuang, arrived from southwestern China.",
    "published": "2026-09-27T17:07:33+00:00"
-  },
-  {
-   "id": "4380743d7c15",
-   "title": "Two bodies found after avalanche hits Himalayan climbing group",
-   "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
-   "published": "2026-09-27T17:05:26+00:00"
   },
   {
    "id": "4deec7137bc2",
