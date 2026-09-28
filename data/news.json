@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T09:32:54.828129+00:00",
+ "generated": "2026-09-28T10:31:28.136416+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -93,8 +93,8 @@
   },
   {
    "name": "Federal Register: IRS",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "count": 24
   },
   {
    "name": "Congressional Budget Office",
@@ -129,15 +129,246 @@
  ],
  "items": [
   {
+   "id": "2514fb17fd27",
+   "title": "Iran says it ‘has no plans to negotiate with US’ despite Trump claims – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump had told Axios he expected talks to resume a day after he rejected Iran’s proposal to reopen the strait of Hormuz Hello and welcome to the US politics live blog. State media in Iran has reported that Iran’s delegation to the UN General Assembly had no talks planned with…",
+   "published": "2026-09-28T10:25:49+00:00"
+  },
+  {
    "id": "d3ab501d3691",
-   "title": "Warning Burnham’s social care plan could cost far more than he says, and take ‘decades’ to implement – UK politics live",
+   "title": "Miliband says Britain must play its part in ‘rebuilding’ world order – UK politics live",
    "link": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Statistician Andrew Dilnot says that putting social care on the same footing as health care would cost ‘well in excess of £18bn’ Lisa O’Carroll is a senior Guardian correspondent. The head of the SDLP, Claire Hanna , has called for an international mediator to resolve the…",
-   "published": "2026-09-28T09:22:33+00:00"
+   "summary": "The foreign secretary says in conference speech that ‘democratic norms are under threat’ and that ‘international rule of law is being brazenly flouted’ Lisa O’Carroll is a senior Guardian correspondent. The head of the SDLP, Claire Hanna , has called for an international…",
+   "published": "2026-09-28T10:17:46+00:00"
+  },
+  {
+   "id": "2b0a89bd386a",
+   "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+   "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“As a country, we have grown dangerously comfortable.”",
+   "published": "2026-09-28T10:15:00+00:00"
+  },
+  {
+   "id": "18943061a14e",
+   "title": "Planning for Couples Who Have a Big Age Gap",
+   "link": "https://www.kiplinger.com/retirement/retirement-planning/planning-for-couples-who-have-a-big-age-gap",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "You must coordinate different retirement timelines while stretching your savings to cover a longer lifespan.",
+   "published": "2026-09-28T10:15:00+00:00"
+  },
+  {
+   "id": "0e8c70955783",
+   "title": "Larissa Waters steps down as Greens leader due to ill health",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/28/larissa-waters-steps-down-as-greens-leader-due-to-ill-health-ntnwfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ballot for new leader expected next week after Waters quits to manage pre-existing kidney disease that has ‘declined significantly’ Get our breaking news email , free app or daily news podcast Greens leader Larissa Waters has announced she will step down due to ill health, with…",
+   "published": "2026-09-28T10:13:58+00:00"
+  },
+  {
+   "id": "31f56a4c8df5",
+   "title": "RAF Fairford live updates: Streeting thanks farmer who alerted police but says she has ‘a partial picture’",
+   "link": "https://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Member of the public who contacted police after seeing ‘group of hooded and masked men’ near RAF base says she thinks ‘someone dropped the ball’ over incident UK security forces aware of suspected bomb plot, hints defence secretary RAF Fairford suspected bomb plot: have you…",
+   "published": "2026-09-28T10:13:34+00:00"
+  },
+  {
+   "id": "67fc20ed384c",
+   "title": "John Fetterman accidentally calls himself ‘a lifelong Republican’",
+   "link": "https://www.theguardian.com/us-news/2026/sep/28/john-fetterman-gaffe-republican",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Social and news media commenters seize on senator’s gaffe, with some characterizing it as a Freudian slip With speculation about whether he may defect from the Democratic party swirling around him, US senator John Fetterman described himself seemingly unintentionally as a…",
+   "published": "2026-09-28T10:00:30+00:00"
+  },
+  {
+   "id": "e150cacc89a4",
+   "title": "Archives: October 2026",
+   "link": "https://reason.com/2026/09/28/archives-october-2026/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Excerpts from Reason's vaults",
+   "published": "2026-09-28T10:00:29+00:00"
+  },
+  {
+   "id": "11c2ba2e20c5",
+   "title": "Republicans look for a midterm fix",
+   "link": "https://www.deseret.com/politics/2026/09/28/republicans-need-midterm-fix/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This article was first published in the On the Hill newsletter . Sign up to receive the newsletter in your inbox on Friday mornings here . The midterm elections are less than 40 days away. It’s crunch time for both parties as the fight for Congress is as close as ever.…",
+   "published": "2026-09-28T10:00:01+00:00"
+  },
+  {
+   "id": "f05bbc9a9653",
+   "title": "Well-rested BYU will be facing an angry TCU team coming off a loss at UCF",
+   "link": "https://www.deseret.com/sports/2026/09/28/byu-football-cougars-tcu-look-ahead-back-ranking-quarterback-healthy/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "While the BYU Cougars were enjoying their only week off in the 2026 college football regular season, their next two opponents were sustaining devastating losses. The TCU Horned Frogs, who will play host to BYU on Saturday in Fort Worth, fell 21-13 on the road to the UCF…",
+   "published": "2026-09-28T10:00:01+00:00"
+  },
+  {
+   "id": "3d7fa853365d",
+   "title": "Will the real Adam Smith please stand up?",
+   "link": "https://www.deseret.com/magazine/2026/09/27/adam-smith-wealth-of-nations-annivesary/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The week before Thanksgiving 1988, at the end of his presidency, Ronald Reagan took the microphone for his weekly radio address. With his time in office running short, Reagan wanted to express his hopes for the future of the country he had led for eight years. From the canon of…",
+   "published": "2026-09-28T10:00:00+00:00"
+  },
+  {
+   "id": "b92c81b3302a",
+   "title": "Ryan Smith bought the Utah Jazz for $1.66B. Six years later, he’s reshaping Salt Lake City",
+   "link": "https://www.deseret.com/sports/2026/09/28/utah-jazz-nba-season-state-of-franchise/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ryan and Ashley Smith have owned the Utah Jazz for nearly six years now. During that time, their Smith Entertainment Group launched one of the most ambitious building stretches in the NBA — a mix of massive capital investment, rising valuation and an expanding sports empire.…",
+   "published": "2026-09-28T10:00:00+00:00"
+  },
+  {
+   "id": "959a024801c8",
+   "title": "America’s empty bedrooms are up for grabs",
+   "link": "https://www.vox.com/the-highlight/502859/padsplit-sros-housing-affordable-bedroom-adult-dorms-homelessness",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Todd Waller wasn’t expecting to spend the latter half of his 30s living with roommates. But in late 2022, following a breakup with his girlfriend, he needed to find a new place to live, quickly. A social worker based in the Atlanta metro, Waller started googling “efficiency…",
+   "published": "2026-09-28T10:00:00+00:00"
+  },
+  {
+   "id": "44626954fdcc",
+   "title": "What should you do if your friend is in love with you?",
+   "link": "https://www.vox.com/the-highlight/504005/best-friend-love-ethical-decision",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hi readers! Shayla Love here, science journalist and longtime fan of Your Mileage May Vary. I’m honored to be subbing for Sigal Samuel while she’s out on parental leave. I’m diving into your questions as a way to help understand human nature and our choices through multiple…",
+   "published": "2026-09-28T10:00:00+00:00"
+  },
+  {
+   "id": "7db3431e1a6f",
+   "title": "Arizona Lawmaker Proposes More Federal Support for English Fluency Services",
+   "link": "https://www.propublica.org/article/arizona-english-fluency-legislation-adelita-grijalva",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post Arizona Lawmaker Proposes More Federal Support for English Fluency Services appeared first on ProPublica .",
+   "published": "2026-09-28T10:00:00+00:00"
+  },
+  {
+   "id": "fd604254d03f",
+   "title": "God Sees Everything. Flock Should Not.",
+   "link": "https://www.christianitytoday.com/2026/09/god-sees-everything-flock-should-not-omniscience-repentance-surveillance/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "I live in a safe neighborhood. It’s a new-build community filled with young families, and my kids ride their bikes up and down all the streets. As long as they’ve got their helmets on, I’m not concerned for their safety here. Yet as they ride their bikes—or as our family walks…",
+   "published": "2026-09-28T10:00:00+00:00"
+  },
+  {
+   "id": "dfd18814ef63",
+   "title": "Save the Unborn, Yes. Don’t Punish Their Mothers.",
+   "link": "https://www.christianitytoday.com/2026/09/save-the-unborn-yes-dont-punish-their-mothers/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Abortion “abolitionists” have introduced bills in many states to prosecute women for abortion. This tactic ignores law, history, tradition, and law enforcement experience before Roe v. Wade. Thankfully, no prosecution bill passed a committee or got to a legislative house floor…",
+   "published": "2026-09-28T10:00:00+00:00"
+  },
+  {
+   "id": "734491a6c762",
+   "title": "Before You Move Abroad, Try Living There First",
+   "link": "https://www.kiplinger.com/personal-finance/before-you-move-abroad-try-living-there-first",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Your dream vacation in Italy can't tell you what it's really like to live there. But there's a simple way to find out before you commit to a permanent move.",
+   "published": "2026-09-28T10:00:00+00:00"
+  },
+  {
+   "id": "df0eedefa74f",
+   "title": "Plan for controversial $1.2bn datacentre in Sydney scrapped due to ‘emerging’ regulations",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/28/plan-for-controversial-12bn-datacentre-in-sydney-scrapped-due-to-emerging-regulations",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Developer Goodman Group says changes in government rules are behind decision to pull plug on ‘Project Mars’ in Lane Cove Get our new political email , free app or daily news podcast Plans for a controversial $1.2bn datacentre in Lane Cove in Sydney’s north have been withdrawn,…",
+   "published": "2026-09-28T09:53:10+00:00"
+  },
+  {
+   "id": "33dadb78cef6",
+   "title": "France’s far-right National Rally surges in partial Senate elections",
+   "link": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Marine Le Pen hails ‘historic victory’ as her party and allies win enough seats to form caucus just months ahead of presidential poll The French far-right leader Marine Le Pen has said her 2027 presidential campaign will be boosted after her anti-immigration party, the National…",
+   "published": "2026-09-28T09:46:35+00:00"
+  },
+  {
+   "id": "75b5397038d5",
+   "title": "Al Jazeera reports from near front line in Ethiopia’s Afar region",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/al-jazeera-reports-from-near-front-line-in-ethiopias-afar-region?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Al Jazeera reports from Ethiopia’s Afar region, where fighting has spread amid efforts to oust PM Abiy Ahmed.",
+   "published": "2026-09-28T09:44:14+00:00"
+  },
+  {
+   "id": "535caf2c7cf3",
+   "title": "How a U.S. diesel export ban would play out, according to Goldman Sachs",
+   "link": "https://www.marketwatch.com/story/how-a-u-s-diesel-export-ban-would-play-out-according-to-goldman-sachs-8142525d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Strategists at Goldman Sachs see potential restrictions on U.S. diesel exports adding $0.30 per gallon to domestic retail gasoline prices",
+   "published": "2026-09-28T09:32:00+00:00"
   },
   {
    "id": "63e304aa3754",
@@ -173,17 +404,6 @@
    "published": "2026-09-28T09:12:45+00:00"
   },
   {
-   "id": "31f56a4c8df5",
-   "title": "RAF Fairford live updates: Streeting thanks farmer who alerted police but says she has ‘a partial picture’",
-   "link": "https://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Member of the public who contacted police after seeing ‘group of hooded and masked men’ near RAF base says she thinks ‘someone dropped the ball’ over incident In Fairford, police ‌have imposed a 400m ​cordon around the air base and ​evacuated about residents from 85 homes while…",
-   "published": "2026-09-28T09:12:43+00:00"
-  },
-  {
    "id": "82158ad771a6",
    "title": "Boss of Beaverbrooks urges government to give businesses ‘a bit of a break’",
    "link": "https://www.theguardian.com/business/2026/sep/28/beaverbrooks-urge-government-give-businesses-break",
@@ -191,7 +411,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Jeweller reports flat sales and fall in underlying operating profit as retailers anticipate October budget Business live – latest updates The boss of family-owned jeweller Beaverbrooks has called on the government to give business “a bit of break” by halting cost increases amid…",
+   "summary": "Jeweller reports flat sales and fall in underlying operating profit as retailers anticipate October budget Business live – latest updates The boss of the family-owned jeweller Beaverbrooks has called on the government to give business “a bit of a break” by halting cost…",
    "published": "2026-09-28T09:12:20+00:00"
   },
   {
@@ -361,7 +581,7 @@
   },
   {
    "id": "90830300681d",
-   "title": "‘Terror’ incident near RAF base used for Iran war: What we know",
+   "title": "Police probe ‘terror’ incident near RAF base used in Iran war: What we know",
    "link": "https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -383,7 +603,7 @@
   },
   {
    "id": "369ddaa4bf19",
-   "title": "Thai downpours shift north-westwards after Bangkok declared a disaster zone",
+   "title": "Bangkok declared a ‘disaster zone’ after flooding, as rainstorms shift direction",
    "link": "https://www.theguardian.com/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -932,17 +1152,6 @@
    "published": "2026-09-28T01:33:52+00:00"
   },
   {
-   "id": "33dadb78cef6",
-   "title": "France’s far-right National Rally surges in Senate elections",
-   "link": "https://www.theguardian.com/world/2026/sep/28/french-election-2026-far-right-senate-elections",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Marine Le Pen hails ‘historic victory’ as her party and allies win enough seats to form caucus just months ahead of presidential poll The French far-right leader Marine Le Pen has said her 2027 presidential campaign will be boosted after her anti-immigration party, the National…",
-   "published": "2026-09-28T01:31:45+00:00"
-  },
-  {
    "id": "8ca46fa5319c",
    "title": "Taylor Swift and Charli XCX among stars to light up VMAs red carpet",
    "link": "https://www.bbc.co.uk/news/videos/cw7v4plplmgpo?at_medium=RSS&at_campaign=rss",
@@ -1216,17 +1425,6 @@
    "flourishing_feed": false,
    "summary": "At least one person killed and about 110,500 households still without power from North Carolina to New England A strong, deadly storm known as a nor’easter battered the US’s east coast over the weekend, bringing power outages, flooding, damaging winds and hazardous ocean…",
    "published": "2026-09-27T21:52:59+00:00"
-  },
-  {
-   "id": "2b0a89bd386a",
-   "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-   "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“As a country, we have grown dangerously comfortable.”",
-   "published": "2026-09-27T21:45:00+00:00"
   },
   {
    "id": "b797a253fd88",
@@ -1951,7 +2149,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Pontiff also uses visit to Catholic shrine at Lourdes to criticise assisted dying as ‘false compassion’ The pope has called on the Catholic church to heal “deep wounds” and “painful errors”, before a meeting survivors of child sexual abuse as he continues his four-day visit to…",
+   "summary": "Pontiff also uses visit to Catholic shrine at Lourdes to criticise assisted dying as ‘false compassion’ The pope has called on the Catholic church to heal “deep wounds” and “painful errors”, before meeting survivors of child sexual abuse as he continues his four-day visit to…",
    "published": "2026-09-27T15:22:50+00:00"
   },
   {
