@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T03:30:40.015317+00:00",
+ "generated": "2026-09-28T04:30:57.588478+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "name": "Congressional Budget Office",
@@ -129,6 +129,39 @@
  ],
  "items": [
   {
+   "id": "ed5c9f5a80fb",
+   "title": "Australia news live: fuel prices rise ahead of interest rate decision; whale carcass prompts shark warnings at Perth beach",
+   "link": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast RBA expected to hike cash rate to 4.6%, its highest level since 2011 Australia’s key interest rate is expected to hit its highest level since 2011, drag down house prices and add more than…",
+   "published": "2026-09-28T04:22:58+00:00"
+  },
+  {
+   "id": "8689a773868c",
+   "title": "‘The same struggles as 100 years ago’: exhibition highlights lives of Sami people in Sweden",
+   "link": "https://www.theguardian.com/world/2026/sep/28/same-struggles-exhibition-highlights-lives-sami-people-sweden",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Show at Kin Museum in Kiruna marks handover of long-awaited report on abuses committed by the state against the Indigenous people From a detailed multi-perspectival drawing of reindeer to written accounts of belief systems and childbirth, Johan Turi’s work offers unparalleled…",
+   "published": "2026-09-28T04:00:24+00:00"
+  },
+  {
+   "id": "930fe11c8f13",
+   "title": "Ed Miliband to acknowledge Labour’s former stance on Palestine fell short",
+   "link": "https://www.theguardian.com/politics/2026/sep/28/ed-miliband-labour-former-stance-palestine-fell-short",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Foreign secretary will tell party’s conference ‘we are not here to accept the status quo but to change it’ Ed Miliband will tell campaigners and party members who raised the plight of Palestinians they were right that Labour’s approach had not been enough, saying he was heeding…",
+   "published": "2026-09-28T04:00:24+00:00"
+  },
+  {
    "id": "69e3a8cdcc28",
    "title": "Information Reporting Regarding Qualified Opportunity Zones and Updated Qualified Opportunity Fund Certification and Decertification Procedures",
    "link": "https://www.federalregister.gov/documents/2026/09/28/C1-2026-18574/information-reporting-regarding-qualified-opportunity-zones-and-updated-qualified-opportunity-fund",
@@ -138,17 +171,6 @@
    "flourishing_feed": false,
    "summary": "",
    "published": "2026-09-28T04:00:00+00:00"
-  },
-  {
-   "id": "ed5c9f5a80fb",
-   "title": "Australia news live: Chalmers says ‘near universal expectation’ of global rate hikes; Australia to meet with OpenAI this week after breach",
-   "link": "https://www.theguardian.com/australia-news/live/2026/sep/28/labor-anthony-albanese-openai-ai-hacks-coalition-one-nation-medicare-budget-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast RBA expected to hike cash rate to 4.6%, its highest level since 2011 Australia’s key interest rate is expected to hit its highest level since 2011, drag down house prices and add more than…",
-   "published": "2026-09-28T03:26:28+00:00"
   },
   {
    "id": "42cda7c89ee4",
@@ -361,7 +383,7 @@
   },
   {
    "id": "25c62a037e5a",
-   "title": "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+   "title": "Iran war live: Tehran open to ‘real diplomacy’, ready for ‘apocalyptic war’",
    "link": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
