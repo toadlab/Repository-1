@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T05:29:27.005908+00:00",
+ "generated": "2026-09-29T06:35:54.523670+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,83 @@
  ],
  "items": [
   {
+   "id": "fd61e3e42c6a",
+   "title": "Australia news live: Bullock says interest rates will be hiked again ‘if that’s what’s needed’; Angus Taylor says ‘this is a dark day’ after RBA decision",
+   "link": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast New South Wales police say they are investigating the suspicious deaths of two men in the state’s north. Police said they found the first man – who has since been identified as a 79-year-old…",
+   "published": "2026-09-29T06:24:17+00:00"
+  },
+  {
+   "id": "dc5f21b066ca",
+   "title": "AFCON qualifiers: Wissa guides DR Congo to win, Tunisia held by Botswana",
+   "link": "https://www.aljazeera.com/sports/2026/9/29/africa-cup-of-nations-qualifying-afcon-wissa-dr-congo-tunisia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Democratic Republic of the Congo secure their second straight win in Group E, with striker Yoanne Wissa scoring again.",
+   "published": "2026-09-29T06:18:42+00:00"
+  },
+  {
+   "id": "1b69fc148a17",
+   "title": "Watch: Bangkok locals create floating market during floods",
+   "link": "https://www.bbc.co.uk/news/videos/c6q8jlqvjgdlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As sellers waded through floodwaters to sell produce like fish and vegetables from floating platforms and foam boxes, buyers walked or paddled between the makeshift stalls to buy their groceries.",
+   "published": "2026-09-29T06:15:25+00:00"
+  },
+  {
+   "id": "d24f72f918ba",
+   "title": "Watch: Luxury units uncovered inside an Indonesian prison",
+   "link": "https://www.bbc.co.uk/news/videos/c6vgy293vvp3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A surprise inspection at the prison revealed apartment-like units appearing to house inmates, equipped with televisions, a gym and fridges stocked with alcohol.",
+   "published": "2026-09-29T06:04:36+00:00"
+  },
+  {
+   "id": "56894dfc4f7c",
+   "title": "Hospitals in England hit by shortages of common drugs such as paracetamol",
+   "link": "https://www.theguardian.com/society/2026/sep/29/hospitals-shortages-medicine-paracetamol-nhs-england",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "NHS trusts also report disruption to supplies last winter of co-codamol and blood pressure medication ramipril Hospitals are being hit by shortages of key drugs used to provide pain relief, prevent blood clots and tackle high blood pressure. Dozens of NHS trusts in England have…",
+   "published": "2026-09-29T06:00:56+00:00"
+  },
+  {
+   "id": "d7ca71a4de8e",
+   "title": "Tennessee is set to execute a woman for the first time in 200 years",
+   "link": "https://www.npr.org/2026/09/29/g-s1-145408/tennessee-woman-execution",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "One of the youngest women sent to death row is set to be executed in Tennessee. If carried out as scheduled Wednesday, it would be Tennessee's first execution of a woman in 200 years.",
+   "published": "2026-09-29T05:59:18+00:00"
+  },
+  {
+   "id": "bd162714a2f1",
+   "title": "Tuesday briefing: Inside the suspected bomb plot at RAF Fairford",
+   "link": "https://www.theguardian.com/world/2026/sep/29/tuesday-briefing-first-edition-raf-fairford-cotswolds",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In today’s newsletter: New details suggest there is a counter-narrative to how events unfolded at the airbase used by the US Good morning. Vehicles suspected of carrying explosives zipping across Britain, entirely unbeknownst to authorities, is a disconcerting prospect.…",
+   "published": "2026-09-29T05:45:56+00:00"
+  },
+  {
    "id": "1031f460856f",
    "title": "RBA interest rates: Reserve Bank hikes cash rate to 4.6%, the highest level since 2011",
    "link": "https://www.theguardian.com/business/2026/sep/29/rba-interest-rate-announcement-decision-cash-rate",
@@ -136,19 +213,30 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Widely expected decision is fourth increase to interest rate this year and will be blow to mortgage holders across Australia Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Reserve Bank has lifted its key…",
+   "summary": "Widely expected decision is fourth increase to interest rate this year and will be blow to mortgage holders across Australia Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Reserve Bank of Australia has…",
    "published": "2026-09-29T05:23:15+00:00"
   },
   {
-   "id": "fd61e3e42c6a",
-   "title": "Australia news live: RBA hikes official cash rate to highest level since 2011 as Chalmers says move ‘will make things tougher’ for many Australians",
-   "link": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb",
-   "source": "The Guardian World",
+   "id": "041be4a58a5b",
+   "title": "Public transport drivers strike in Manila over soaring fuel prices",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/public-transport-drivers-strike-in-manila-over-soaring-fuel-prices?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast New South Wales police say they are investigating the suspicious deaths of two men in the state’s north. Police said they found the first man – who has since been identified as a 79-year-old…",
-   "published": "2026-09-29T05:19:39+00:00"
+   "summary": "Public transport drivers in Manila begin a three-day strike over soaring fuel prices.",
+   "published": "2026-09-29T05:21:50+00:00"
+  },
+  {
+   "id": "e366347dd3c8",
+   "title": "More than 80 reported abducted in Nigeria as police find human remains",
+   "link": "https://www.aljazeera.com/news/2026/9/29/more-than-80-reported-abducted-in-nigeria-as-police-find-human-remains?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Farmers and women abducted in northern Niger and Zamfara states as police find human remains at suspected gang camps.",
+   "published": "2026-09-29T05:17:35+00:00"
   },
   {
    "id": "3dd9034d2fa5",
@@ -284,7 +372,7 @@
   },
   {
    "id": "2354848b838a",
-   "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+   "title": "New York Times executive fatally shot by elderly in-laws, police say",
    "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -3716,13 +3804,13 @@
   },
   {
    "id": "3bdbb46e0ef1",
-   "title": "U.K. examines if Iran or Russia are involved in foiled attack near base used by U.S.",
+   "title": "5 men arrested near a U.S.-run base bailed as UK police probe if there's an Iran link",
    "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
    "source": "NPR News",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Five men arrested on terror charges near a U.S.-run air force base were released on bail, as detectives investigate lines of inquiry, including whether a foreign state or armed group was involved.",
+   "summary": "Investigators haven't concluded whether the incident was state-backed. They are investigating a possible link to Iran, Russia or non-state militant groups.",
    "published": "2026-09-28T10:51:25+00:00"
   },
   {
