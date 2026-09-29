@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T01:27:31.282282+00:00",
+ "generated": "2026-09-29T02:27:19.807119+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,6 +129,83 @@
  ],
  "items": [
   {
+   "id": "fd61e3e42c6a",
+   "title": "Australia news live: OpenAI executive to fly to Australia to appear at joint committee; 18-year-old charged after alleged drone plot",
+   "link": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast New South Wales police say they are investigating the suspicious deaths of two men in the state’s north. Police said they found the first man – who has since been identified as a 79-year-old…",
+   "published": "2026-09-29T02:23:26+00:00"
+  },
+  {
+   "id": "f0f600809934",
+   "title": "He used to perform, but life got in the way. Then his wife signed him up for ‘The Voice’",
+   "link": "https://www.deseret.com/entertainment/2026/09/28/the-voice-johnnie-kapua-utah-singer/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "“The Voice” has changed up the format for its newest season. Now, when multiple coaches on the show are fighting over a singer during the blind audition round, a new feature gives the coach who turned their chair around first a major advantage. Instead of waiting for the…",
+   "published": "2026-09-29T02:17:31+00:00"
+  },
+  {
+   "id": "06826863b07a",
+   "title": "The Senate passes the Protect College Sports Act, but the bill's future is unclear",
+   "link": "https://www.npr.org/2026/09/28/nx-s1-5977851/protect-college-sports-act-senate-bill-vote",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The bill's supporters, which include the NCAA, say it will tame what they call a \"Wild West\" era of college sports as litigation chips away at long-held rules around eligibility, transfers and pay.",
+   "published": "2026-09-29T02:16:19+00:00"
+  },
+  {
+   "id": "908083967a85",
+   "title": "The Senate just passed a massive overhaul of college sports. Here’s what happens next",
+   "link": "https://www.deseret.com/politics/2026/09/28/senate-passes-college-sports-reform-bill/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Senate overwhelmingly approved a comprehensive reform package targeting college sports as lawmakers look to establish federal guidelines for some of the most controversial issues cropping up in collegiate athletics. Senators passed the Protect College Sports Act in a 77-22…",
+   "published": "2026-09-29T02:13:58+00:00"
+  },
+  {
+   "id": "6a8067d7f2f9",
+   "title": "OpenAI ‘sorry and working to do better’ after hack of Medicare and other Australian government websites",
+   "link": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Artificial intelligence firm to front parliament as it apologises to Australians for agent attack OpenAI has apologised to Australians for its agent attack on Medicare , and will front parliament next week, as the tech company revealed more details about its June hack of…",
+   "published": "2026-09-29T02:10:55+00:00"
+  },
+  {
+   "id": "4da863b703c7",
+   "title": "Why Gov. Cox is pushing voluntary service for America’s young people",
+   "link": "https://www.deseret.com/utah/2026/09/28/governor-spencer-cox-wants-to-mandate-youth-service/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "If Utah Gov. Spencer Cox could change one thing about the United States, he knows what it would be: implementing a year of voluntary service for America’s young people. If I could change one thing about our country it would be this. https://t.co/QAQ3nFGVyQ — Spencer Cox…",
+   "published": "2026-09-29T02:02:00+00:00"
+  },
+  {
+   "id": "2514fb17fd27",
+   "title": "Trump doubles down on claims US will win war with Iran ‘one way or another’ as talks are in doubt – as it happened",
+   "link": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This live blog is now closed. Sign up for the Breaking News US email While the lawmakers in the US House have already left Washington to get a head start on midterm campaigning, the Senate is hoping to wrap up its legislative agenda this week. Today, we can expect a vote at…",
+   "published": "2026-09-29T01:54:38+00:00"
+  },
+  {
    "id": "fb9c5ac6a0fc",
    "title": "OpenAI scraps rollout of new model over safety concerns",
    "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
@@ -136,30 +213,41 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
-   "published": "2026-09-29T01:18:24+00:00"
+   "summary": "OpenAI also issued an update on incidents in which its models accessed Australian government systems.",
+   "published": "2026-09-29T01:51:25+00:00"
   },
   {
-   "id": "fd61e3e42c6a",
-   "title": "Australia news live: Greens to choose new leader next week; footage shows massive great white shark at Perth beach",
-   "link": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb",
+   "id": "d3087d8d05c7",
+   "title": "Anthropic’s potential $2 trillion IPO comes with the following fine print",
+   "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anthropic’s revenue grew over 10-fold in 2025, but the cost of training and serving its models is also climbing.",
+   "published": "2026-09-29T01:31:00+00:00"
+  },
+  {
+   "id": "2564cf036abf",
+   "title": "‘Looked like dried blood’: worker tells Beau Lamarre-Condon trial about finding suspicious belongings in skip",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/29/beau-lamarre-condon-murder-trial-greenkeeper-evidence-luke-davies-jesse-baird-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast New South Wales police say they are investigating the suspicious deaths of two men in the state’s north. Police said they found the first man – who has since been identified as a 79-year-old…",
-   "published": "2026-09-29T01:13:20+00:00"
+   "summary": "Former Sydney police officer, 31, has pleaded not guilty to murdering AFL umpire Jesse Baird and flight attendant Luke Davies Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Brand new AFL shorts, a Qantas card…",
+   "published": "2026-09-29T01:28:59+00:00"
   },
   {
-   "id": "2514fb17fd27",
-   "title": "Trump doubles down on claims US will win war with Iran ‘one way or another’ as talks are in doubt – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/sep/28/donald-trump-iran-negotiations-fuel-deportations-media-china-latest-news-updates",
+   "id": "8f0db4e9a8f9",
+   "title": "Vietnamese government accused of abducting Melbourne human rights activist",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/29/melbourne-human-rights-activist-tran-hiep-missing-cambodia-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "President claims US negotiators spoke with Iranian officials through intermediaries after Iran says it ‘has no plans to negotiate with US’ Sign up for the Breaking News US email While the lawmakers in the US House have already left Washington to get a head start on midterm…",
-   "published": "2026-09-29T01:06:17+00:00"
+   "summary": "Tran Hiep, a 50-year-old Vietnamese Australian anti-human trafficking campaigner, not heard from since 18 September Vietnamese authorities have detained three activists, including an Australian, on what have been described as “fabricated” charges. The Vietnamese government said…",
+   "published": "2026-09-29T01:16:28+00:00"
   },
   {
    "id": "77fa3f5c8390",
@@ -259,17 +347,6 @@
    "flourishing_feed": false,
    "summary": "Here’s a look at what it was like behind the scenes of the coverage you saw online and on TV.",
    "published": "2026-09-29T00:10:21+00:00"
-  },
-  {
-   "id": "8f0db4e9a8f9",
-   "title": "Vietnamese government accused of abducting Melbourne human rights activist",
-   "link": "https://www.theguardian.com/australia-news/2026/sep/29/melbourne-human-rights-activist-tran-hiep-missing-cambodia-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Tran Hiep, a 50-year-old Vietnamese Australian anti-human trafficking campaigner, not heard from since 18 September Vietnamese authorities have detained three activists, including an Australian, on what have been described as “fabricated” charges. The Vietnamese government said…",
-   "published": "2026-09-29T00:08:11+00:00"
   },
   {
    "id": "c9fc18b7476a",
@@ -9211,7 +9288,7 @@
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Before it reaches younger heirs, $54 trillion will move horizontally to surviving spouses. Here is how to prepare.",
+   "summary": "Before it reaches younger heirs, $54 trillion will move horizontally to surviving spouses. Here's how to prepare.",
    "published": "2026-09-25T13:15:00+00:00"
   },
   {
