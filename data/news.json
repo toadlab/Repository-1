@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T03:30:49.849109+00:00",
+ "generated": "2026-09-29T04:30:29.714421+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -13,8 +13,8 @@
   },
   {
    "name": "Indianapolis Business Journal",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "count": 10
   },
   {
    "name": "NPR News",
@@ -129,15 +129,103 @@
  ],
  "items": [
   {
+   "id": "036ae30f355a",
+   "title": "6 bold predictions on the eve of the 2026–27 NHL season",
+   "link": "https://www.deseret.com/sports/2026/09/28/2026-27-nhl-season-predictions/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hockey is back. The season kicks off Tuesday with a five-game slate. What better way to prepare than with some irresponsible predictions? I’ve published predictions, in one way or another, since long before I became a full-time NHL beat reporter. I’m not always right , but I’ve…",
+   "published": "2026-09-29T04:11:30+00:00"
+  },
+  {
+   "id": "75c99657219b",
+   "title": "US ban on Canadian alcohol and dairy comes into effect as trade war drags on",
+   "link": "https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.",
+   "published": "2026-09-29T04:10:33+00:00"
+  },
+  {
+   "id": "1861da874271",
+   "title": "Minky Couture Week 9 high school star athletes of the week",
+   "link": "https://www.deseret.com/sports/2026/09/28/high-school-preps-athletes-of-the-week-9-football-soccer/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Football Titan Borchardt, Hurricane (Jr.) Hurricane’s 7-0 start to the season has been one of the big stories of the year so far, and junior Titan Borchart is a big reason. His versatility has been a big weapon that the Tigers have leaned on throughout their winning streak.…",
+   "published": "2026-09-29T04:09:50+00:00"
+  },
+  {
+   "id": "2354848b838a",
+   "title": "New York Times executive fatally shot allegedly by elderly in-laws",
+   "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
+   "published": "2026-09-29T04:06:43+00:00"
+  },
+  {
    "id": "fd61e3e42c6a",
-   "title": "Australia news live: Shoebridge doesn’t rule himself out of Greens leadership race; RBA interest rates decision expected",
+   "title": "Australia news live: RBA interest rate decision expected; Shoebridge not ruling himself out of Greens leadership race",
    "link": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast New South Wales police say they are investigating the suspicious deaths of two men in the state’s north. Police said they found the first man – who has since been identified as a 79-year-old…",
-   "published": "2026-09-29T03:24:33+00:00"
+   "published": "2026-09-29T04:05:25+00:00"
+  },
+  {
+   "id": "cd5bf880cda3",
+   "title": "‘Intimidatory’ far-right marches should not be allowed, says Angela Rayner",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/29/intimidatory-far-right-marches-should-not-be-allowed-says-angela-rayner",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The UK communities secretary decried protests by ‘men in black wearing face masks’ and those ‘whipping up hatred’ towards lifeboat volunteers Far-right marches led by the self-styled “Danny Tommo” should not be treated like normal protests, the communities secretary, Angela…",
+   "published": "2026-09-29T04:00:53+00:00"
+  },
+  {
+   "id": "10b405488c11",
+   "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+   "link": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
+   "published": "2026-09-29T03:50:40+00:00"
+  },
+  {
+   "id": "d44c27d98383",
+   "title": "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
+   "link": "https://www.aljazeera.com/news/2026/9/29/russian-strike-hits-ukraines-academy-of-sciences-in-kyiv-killing-2?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Footage of attack on Academy shows people leaning out of windows as bright flames engulf part of the historic building.",
+   "published": "2026-09-29T03:38:16+00:00"
+  },
+  {
+   "id": "980f2cc62999",
+   "title": "Rubio says foreign actor was ‘clearly’ behind suspected RAF Fairford bomb plot",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/29/raf-fairford-uk-bomb-plot-marco-rubio-claims-foreign-actor",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US secretary of state offered no evidence for his claims, and also said many people were ‘disturbed’ that the five suspects had been released on bail US secretary of state Marco Rubio has said unequivocally that a foreign actor was involved in the suspected UK bomb plot at…",
+   "published": "2026-09-29T03:29:33+00:00"
   },
   {
    "id": "1bd5c0abf6ad",
@@ -250,6 +338,17 @@
    "published": "2026-09-29T01:54:38+00:00"
   },
   {
+   "id": "1341e3f98128",
+   "title": "Lost songs from iconic Australian rockstar found in garage",
+   "link": "https://www.bbc.co.uk/news/articles/cmrl6ylzy4zxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Divinyls frontwoman Chrissy Amphlett recorded the songs with Split Enz's Tim Finn in 1998.",
+   "published": "2026-09-29T01:33:29+00:00"
+  },
+  {
    "id": "d3087d8d05c7",
    "title": "Anthropic’s potential $2 trillion IPO comes with the following fine print",
    "link": "https://www.marketwatch.com/story/anthropics-potential-2-trillion-ipo-comes-with-the-following-fine-print-99d3cb90?mod=mw_rss_topstories",
@@ -272,14 +371,25 @@
    "published": "2026-09-29T01:28:59+00:00"
   },
   {
+   "id": "559cbc7382d0",
+   "title": "Evicted Spanish pensioner can move back home, lawyer says",
+   "link": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
+   "published": "2026-09-29T01:28:57+00:00"
+  },
+  {
    "id": "8f0db4e9a8f9",
-   "title": "Vietnamese government accused of abducting Melbourne human rights activist",
+   "title": "Vietnamese government accused of abducting human rights activists",
    "link": "https://www.theguardian.com/australia-news/2026/sep/29/melbourne-human-rights-activist-tran-hiep-missing-cambodia-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Tran Hiep, a 50-year-old Vietnamese Australian anti-human trafficking campaigner, not heard from since 18 September Vietnamese authorities have detained three activists, including an Australian, on what have been described as “fabricated” charges. The Vietnamese government said…",
+   "summary": "Detained anti-human trafficking campaigners include Tran Hiep, a Vietnamese Australian, not heard from since 18 September Vietnamese authorities have detained three activists, including an Australian, on what have been described as “fabricated” charges. The Vietnamese…",
    "published": "2026-09-29T01:16:28+00:00"
   },
   {
@@ -350,13 +460,13 @@
   },
   {
    "id": "bf11ea6fbec1",
-   "title": "OpenAI cancels release of latest AI model over safety concerns",
+   "title": "OpenAI cancels release of AI model GPT-6.1 Astra, citing safety concerns",
    "link": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "AI giant says GPT-6.1 Astra failed to meet alignment standards during internal testing.",
+   "summary": "AI giant says latest model failed to meet alignment standards during internal testing.",
    "published": "2026-09-29T00:38:06+00:00"
   },
   {
@@ -702,7 +812,7 @@
   },
   {
    "id": "bfb127cce398",
-   "title": "Anti-South Asian ‘hate speech’ has exploded online in US, report finds",
+   "title": "Anti-South Asian ‘hate speech’ on X surges by 240%, US report finds",
    "link": "https://www.aljazeera.com/news/2026/9/28/anti-south-asian-hate-speech-has-exploded-online-in-us-new-report-finds?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -1076,25 +1186,14 @@
   },
   {
    "id": "dd82154cce8c",
-   "title": "French far-right leader Bardella refutes anti-Semitism allegations",
+   "title": "French far-right leader Jordan Bardella refutes anti-Semitism allegations",
    "link": "https://www.aljazeera.com/news/2026/9/28/french-far-right-leader-bardella-refutes-anti-semitism-allegations?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Mediapart's explosive report comes a day after France's National Rally party secures a record number of Senate seats.",
+   "summary": "Bardella rejects allegations of anti-Semitic private messages published by Mediapart, calling them forgeries.",
    "published": "2026-09-28T20:52:03+00:00"
-  },
-  {
-   "id": "2354848b838a",
-   "title": "New York Times executive fatally shot allegedly by elderly in-laws",
-   "link": "https://www.bbc.co.uk/news/articles/cred737qdv2no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Jonathan McKinsey's in-laws, who are both 77 years old, face multiple charges including first-degree murder.",
-   "published": "2026-09-28T20:50:03+00:00"
   },
   {
    "id": "684ac6e53a8f",
@@ -1263,7 +1362,7 @@
   },
   {
    "id": "730c204dd174",
-   "title": "Apple ordered to pay $5.7bn in patent infringement case",
+   "title": "Apple ordered to pay $5.7bn in iPhone patent infringement case",
    "link": "https://www.aljazeera.com/economy/2026/9/28/apple-ordered-to-pay-5-7bn-in-patent-infringement-case?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
