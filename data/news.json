@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T20:31:15.735057+00:00",
+ "generated": "2026-09-29T21:29:14.967833+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,193 @@
  ],
  "items": [
   {
+   "id": "347b6023c3c2",
+   "title": "After Iran war damage, US may close some Middle East bases for good",
+   "link": "https://www.csmonitor.com/USA/Military/2026/0929/iran-war-middle-east-military-bases?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "America’s military footprint in the Middle East is shrinking, as the U.S. assesses its role in Gulf conflicts following extensive base damage during the Iran war.",
+   "published": "2026-09-29T21:24:34+00:00"
+  },
+  {
+   "id": "4ccc0fbfb6c2",
+   "title": "Microsoft’s stock is on track to post its biggest quarterly gain in 28 years",
+   "link": "https://www.marketwatch.com/story/microsofts-stock-is-on-track-to-post-its-biggest-quarterly-gain-in-28-years-e6a20d11?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Amid a “flight to quality,” Microsoft’s stock has stood out as an AI winner, according to one analyst",
+   "published": "2026-09-29T21:18:00+00:00"
+  },
+  {
+   "id": "b4420c3061bb",
+   "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+   "link": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home.",
+   "published": "2026-09-29T21:16:17+00:00"
+  },
+  {
+   "id": "235da24470ec",
+   "title": "Eleventh Circuit Upholds Restriction on Referring to \"Settlement\" of Trump v. IRS,",
+   "link": "https://reason.com/volokh/2026/09/29/eleventh-circuit-upholds-restriction-on-referring-to-settlement-of-trump-v-irs/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "though concluding that the restriction is narrow.",
+   "published": "2026-09-29T21:16:06+00:00"
+  },
+  {
+   "id": "f8a914f89262",
+   "title": "Australia news live: Home Affairs orders ‘rapid’ stocktake of government cyber-systems after OpenAI hack",
+   "link": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Good morning, Nick Visser here once more to guide you through the day’s news. Let’s get to it. Two men and a teenage boy have been charged in relation to the alleged mistaken identity…",
+   "published": "2026-09-29T21:12:02+00:00"
+  },
+  {
+   "id": "04c2d55923d3",
+   "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
+   "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
+   "published": "2026-09-29T21:09:00+00:00"
+  },
+  {
+   "id": "6c48d9b4ab4e",
+   "title": "Opinion: The chatbot has become the confessional booth",
+   "link": "https://www.deseret.com/opinion/2026/09/29/the-chatbot-has-become-the-confessional-booth/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At 2 a.m., a woman types seven words she has never said out loud: “I think I hate my husband.” She has not said it to her pastor. She has not said it to her therapist. She has not said it to her best friend, and she certainly has not said it to her husband. She said it to a…",
+   "published": "2026-09-29T21:05:10+00:00"
+  },
+  {
+   "id": "87d9dd51cdf9",
+   "title": "Supreme court allows Trump to temporarily resume deporting people to third countries – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 25,000 people have been deported to 29 countries under ⁠the policy implemented last year, according to a tally by human rights groups Sign up to the US Breaking News email For some context, it’s worth remembering that Smith had a two-volume report of his findings as a…",
+   "published": "2026-09-29T21:04:20+00:00"
+  },
+  {
+   "id": "e3777b2f930b",
+   "title": "‘We haven’t performed as well as we need to’: TCU coach Sonny Dykes previews weighty matchup with BYU",
+   "link": "https://www.deseret.com/sports/2026/09/29/tcu-football-coach-sonny-dykes-previews-matchup-against-byu/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The water’s getting deeper for TCU in 2026. The Horned Frogs are 2-2, recently losing their Big 12 opener at UCF and having fallen to North Carolina in Week 0 as well. Sonny Dykes’ team is among the most penalized in the country, with his own future in Fort Worth appearing to…",
+   "published": "2026-09-29T21:00:00+00:00"
+  },
+  {
+   "id": "31d116cdce04",
+   "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
+   "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Medicare beneficiaries can change their coverage during open enrollment, which begins Oct. 15.",
+   "published": "2026-09-29T20:57:00+00:00"
+  },
+  {
+   "id": "f0ddbd79c93c",
+   "title": "What we know about RAF Fairford ‘bomb plot’",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/what-we-know-about-raf-fairford-bomb?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A police alert turned into a potential Iranian “bomb plot” against a British military base used by the US.",
+   "published": "2026-09-29T20:55:20+00:00"
+  },
+  {
+   "id": "d1cf627859e3",
+   "title": "Nvidia’s historic buyback announcement underscores a sharp divide in Big Tech",
+   "link": "https://www.marketwatch.com/story/nvidias-historic-buyback-announcement-underscores-a-sharp-divide-in-big-tech-ac04a001?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Nvidia is expanding its buyback program to $235 billion while Alphabet and Meta halt repurchases and reallocate money to their AI initiatives.",
+   "published": "2026-09-29T20:52:00+00:00"
+  },
+  {
+   "id": "d73fced6743c",
+   "title": "Beware the Rush to Judgment in the Cornell Rape Case",
+   "link": "https://reason.com/2026/09/29/beware-the-rush-to-judgment-in-the-cornell-rape-case/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As with similar cases at UVA and Duke Lacrosse, it's important to get the facts first.",
+   "published": "2026-09-29T20:50:54+00:00"
+  },
+  {
+   "id": "a95b6c2f048a",
+   "title": "US sanctions 10 entities for allegedly supporting Iran’s military",
+   "link": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Individuals and firms in China, Pakistan, Turkiye, Iran and Saudi Arabia sanctioned as part of a pressure campaign.",
+   "published": "2026-09-29T20:48:34+00:00"
+  },
+  {
+   "id": "397b25a98e4b",
+   "title": "Gun violence drops — except in domestic violence cases",
+   "link": "https://mirrorindy.org/indianapolis-domestic-gun-violence-rising-constitutional-carry-covid19-coburn-place/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "State and federal funding cuts have made escaping from armed abusers more difficult in the post-COVID-19 economy. The post Gun violence drops — except in domestic violence cases appeared first on Mirror Indy .",
+   "published": "2026-09-29T20:41:09+00:00"
+  },
+  {
+   "id": "162aac9f7662",
+   "title": "Curtis pushes to fast-track wildfire prevention bill on Senate floor — and it works",
+   "link": "https://www.deseret.com/politics/2026/09/29/john-curtis-pushes-to-approve-wildfire-emissions-bill/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Senate unanimously approved a wildfire emissions bill aimed at helping states prevent wildfires after Utah Sen. John Curtis used a fast-track procedure to expedite its passage. Curtis formally invoked his bipartisan Wildfire Emissions Prevention Act on the Senate floor on…",
+   "published": "2026-09-29T20:39:29+00:00"
+  },
+  {
+   "id": "8889b56158af",
+   "title": "Kids Are Using NPR Podcast Comments as Secret Group Chats",
+   "link": "https://reason.com/2026/09/29/kids-are-using-npr-podcast-comments-as-secret-group-chats/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Teenagers barred from social media are turning obscure corners of the internet into makeshift chat rooms.",
+   "published": "2026-09-29T20:38:15+00:00"
+  },
+  {
    "id": "4b088555e508",
    "title": "A crisis that goes far beyond Cornell",
    "link": "https://www.vox.com/today-explained-newsletter/504570/cornell-university-sexual-assault-case",
@@ -140,6 +327,17 @@
    "published": "2026-09-29T20:30:00+00:00"
   },
   {
+   "id": "20a100f5c90c",
+   "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+   "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+   "published": "2026-09-29T20:30:00+00:00"
+  },
+  {
    "id": "dcee76bcf80c",
    "title": "Anonymous Comment On Regulatory Notice 26-15",
    "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-29",
@@ -147,8 +345,19 @@
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Tue, 09/29/2026 - 16:26 Anonymous Free Mind <freemind.365@gmail.com> Regulatory Notice 26-15 Core Official Date Sat, 09/19/2026 - 12:00 Comment File Anonymous_fm_26-15_9.19.2026_0.pdf",
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Tue, 09/29/2026 - 16:26 Anonymous null null Free Mind <freemind.365@gmail.com> Regulatory Notice 26-15 Core Official Date Sat, 09/19/2026 - 12:00 Comment File Anonymous_fm_26-15_9.19.2026_1.pdf",
    "published": "2026-09-29T20:26:07+00:00"
+  },
+  {
+   "id": "06cdba67dbcd",
+   "title": "US supreme court allows Trump officials to resume deportations to third countries",
+   "link": "https://www.theguardian.com/us-news/2026/sep/29/trump-immigration-deport-migrants-third-country",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Conservative majority temporarily lifts lower-court decision as liberal justices dissent from ruling The Trump administration may deport immigrants to a “third country”, or a country other than their homeland, without providing them an opportunity to dispute due to humanitarian…",
+   "published": "2026-09-29T20:24:23+00:00"
   },
   {
    "id": "e755f49ea1f5",
@@ -182,6 +391,17 @@
    "flourishing_feed": false,
    "summary": "KEEFE, BRUYETTE & WOODS, INC. fnrw-backend Tue, 09/29/2026 - 16:18 MC ID KBBD MC Reporter Type Broker-Dealer MC Paragraph MC Link https://public.s3.com/rule605/kbwi/ MC Last Updated Tue, 09/29/2026 - 16:17",
    "published": "2026-09-29T20:18:05+00:00"
+  },
+  {
+   "id": "b237d85a758a",
+   "title": "Six Flags permanently shuts down X2 rollercoaster after claims of brain injuries",
+   "link": "https://www.theguardian.com/us-news/2026/sep/29/six-flags-permanently-shuts-down-x2-rollercoaster",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 100 people have said they were injured by the ride in California, which reaches up to 76mph Six Flags has permanently shut down its embattled X2 rollercoaster in Valencia, California, the company announced on Tuesday, as a groundswell of past riders have come forward…",
+   "published": "2026-09-29T20:16:39+00:00"
   },
   {
    "id": "bee07f271fd8",
@@ -224,19 +444,8 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Douglas Carter, 71, who has spent more than four decades on death row, released on bail until new trial begins A Utah man who has spent more than four decades on death row was released from jail after newly analyzed DNA evidence showed that he was not connected to a 1985…",
+   "summary": "Douglas Carter, 71, who has spent more than four decades on death row, was released on bail until new trial begins A Utah man who has spent more than four decades on death row was released from jail after newly analyzed DNA evidence showed that he was not connected to a 1985…",
    "published": "2026-09-29T20:12:41+00:00"
-  },
-  {
-   "id": "87d9dd51cdf9",
-   "title": "Supreme court allows Trump to temporarily resume deporting people to third countries – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/sep/29/donald-trump-iran-ai-jack-smith-media-white-house-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "More than 25,000 people have been deported to 29 countries under ⁠the policy implemented last year, according to a tally by human rights groups Sign up to the US Breaking News email For some context, it’s worth remembering that Smith had a two-volume report of his findings as a…",
-   "published": "2026-09-29T20:09:42+00:00"
   },
   {
    "id": "158d137d532c",
@@ -405,7 +614,7 @@
   },
   {
    "id": "511ad3d15def",
-   "title": "Innovation's secret sauce: Less fear, more forgiveness",
+   "title": "Innovation’s secret sauce: Less fear, more forgiveness",
    "link": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/0929/Innovation-s-secret-sauce-Less-fear-more-forgiveness?icid=rss",
    "source": "Christian Science Monitor",
    "circle_hint": "national",
@@ -996,17 +1205,6 @@
    "flourishing_feed": false,
    "summary": "The city's ordinance targets price gouging that its own evidence doesn't show—and it could kill discounts that save shoppers money.",
    "published": "2026-09-29T17:46:19+00:00"
-  },
-  {
-   "id": "31d116cdce04",
-   "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
-   "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Medicare beneficiaries can change their coverage during open enrollment, which begins Oct. 15.",
-   "published": "2026-09-29T17:45:00+00:00"
   },
   {
    "id": "22b0d1fa19d5",
@@ -1659,13 +1857,13 @@
   },
   {
    "id": "83d7b070c4f6",
-   "title": "LIVE: Spain vs Croatia – Nations League",
+   "title": "LIVE: Spain 4-1 Croatia – Nations League as it happened",
    "link": "https://www.aljazeera.com/sports/liveblog/2026/9/29/live-spain-vs-croatia-nations-league?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Build-up, teams and live text coverage as World champions Spain host Croatia on matchday two of the UEFA Nations League",
+   "summary": "Lamine Yamal scores twice as World champions Spain beat Croatia on matchday two of the UEFA Nations League",
    "published": "2026-09-29T15:59:10+00:00"
   },
   {
@@ -1722,17 +1920,6 @@
    "flourishing_feed": false,
    "summary": "Civilian displacement surges as key Yemen roads close, leaving thousands in camps amid dire humanitarian challenges.",
    "published": "2026-09-29T15:47:37+00:00"
-  },
-  {
-   "id": "20a100f5c90c",
-   "title": "‘I have $400,000 in equity’: I’m 80 years old. Should I move out of my house because of dangerous stairs?",
-   "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
-   "published": "2026-09-29T15:45:00+00:00"
   },
   {
    "id": "c7eb5feb85b5",
@@ -2028,7 +2215,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "You could be forgiven for thinking the inquiry has been a bit of a damp squib. But high-profile resignations are not the only measure of Icac’s success Get our breaking news email , free app or daily news podcast Many people watching the Independent Commission Against…",
+   "summary": "You could be forgiven for thinking the inquiry has been a bit of a damp squib. But high-profile resignations are not the only measure of Icac’s success Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Many…",
    "published": "2026-09-29T15:00:54+00:00"
   },
   {
@@ -2039,7 +2226,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "No excuses for next leader of party, Adam Bandt says, while Bob Brown warns they must also be able to take on Pauline Hanson and One Nation Get our new political email , free app or daily news podcast The former Greens leader Adam Bandt says the party’s new leadership team,…",
+   "summary": "No excuses for next leader of party, Adam Bandt says, while Bob Brown warns they must also be able to take on Pauline Hanson and One Nation Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The former Greens…",
    "published": "2026-09-29T15:00:53+00:00"
   },
   {
@@ -2162,17 +2349,6 @@
    "flourishing_feed": false,
    "summary": "Measures, which need to be approved in Congress, include extending ban on evictions of vulnerable people Spain’s Socialist Workers’ party-led coalition government has approved a range of measures aimed at easing the country’s housing crisis, including extending a ban on…",
    "published": "2026-09-29T14:27:03+00:00"
-  },
-  {
-   "id": "04c2d55923d3",
-   "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-   "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024.",
-   "published": "2026-09-29T14:25:12+00:00"
   },
   {
    "id": "6f004bb8a0e5",
