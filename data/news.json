@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T02:27:19.807119+00:00",
+ "generated": "2026-09-29T03:30:49.849109+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -13,8 +13,8 @@
   },
   {
    "name": "Indianapolis Business Journal",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "name": "NPR News",
@@ -130,14 +130,69 @@
  "items": [
   {
    "id": "fd61e3e42c6a",
-   "title": "Australia news live: OpenAI executive to fly to Australia to appear at joint committee; 18-year-old charged after alleged drone plot",
+   "title": "Australia news live: Shoebridge doesn’t rule himself out of Greens leadership race; RBA interest rates decision expected",
    "link": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast New South Wales police say they are investigating the suspicious deaths of two men in the state’s north. Police said they found the first man – who has since been identified as a 79-year-old…",
-   "published": "2026-09-29T02:23:26+00:00"
+   "published": "2026-09-29T03:24:33+00:00"
+  },
+  {
+   "id": "1bd5c0abf6ad",
+   "title": "Fighter jets escort Pope Leo on final day of his France tour",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/fighter-jets-escort-pope-leo-on-final-day-of-his-france-tour?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pope Leo XIV was escorted by fighter jets to Metz, the final stop of his four-day France tour.",
+   "published": "2026-09-29T03:00:01+00:00"
+  },
+  {
+   "id": "6a8067d7f2f9",
+   "title": "‘New kind of cyber incident’: OpenAI apologises for Medicare hack and reveals extent of attack",
+   "link": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Chief strategy officer to fly to Australia to front joint committee on AI after breaches of government websites Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast OpenAI has apologised to Australians for its agent…",
+   "published": "2026-09-29T02:51:17+00:00"
+  },
+  {
+   "id": "a067cf581d70",
+   "title": "Tennessee governor declines to halt execution of state's lone woman on death row",
+   "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "If the execution proceeds, Pike would be the first woman put to death in Tennessee in more than 200 years.",
+   "published": "2026-09-29T02:36:46+00:00"
+  },
+  {
+   "id": "a115788fb6ec",
+   "title": "Iran’s Araghchi meets Qatari mediators as US calls for nuclear talks",
+   "link": "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tehran awaits reply on Hormuz plan as a US official says there will be no deal unless nuclear issues are addressed.",
+   "published": "2026-09-29T02:36:25+00:00"
+  },
+  {
+   "id": "fb9c5ac6a0fc",
+   "title": "OpenAI scraps rollout of new model over safety concerns",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+   "published": "2026-09-29T02:29:25+00:00"
   },
   {
    "id": "f0f600809934",
@@ -173,17 +228,6 @@
    "published": "2026-09-29T02:13:58+00:00"
   },
   {
-   "id": "6a8067d7f2f9",
-   "title": "OpenAI ‘sorry and working to do better’ after hack of Medicare and other Australian government websites",
-   "link": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Artificial intelligence firm to front parliament as it apologises to Australians for agent attack OpenAI has apologised to Australians for its agent attack on Medicare , and will front parliament next week, as the tech company revealed more details about its June hack of…",
-   "published": "2026-09-29T02:10:55+00:00"
-  },
-  {
    "id": "4da863b703c7",
    "title": "Why Gov. Cox is pushing voluntary service for America’s young people",
    "link": "https://www.deseret.com/utah/2026/09/28/governor-spencer-cox-wants-to-mandate-youth-service/",
@@ -204,17 +248,6 @@
    "flourishing_feed": false,
    "summary": "This live blog is now closed. Sign up for the Breaking News US email While the lawmakers in the US House have already left Washington to get a head start on midterm campaigning, the Senate is hoping to wrap up its legislative agenda this week. Today, we can expect a vote at…",
    "published": "2026-09-29T01:54:38+00:00"
-  },
-  {
-   "id": "fb9c5ac6a0fc",
-   "title": "OpenAI scraps rollout of new model over safety concerns",
-   "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "OpenAI also issued an update on incidents in which its models accessed Australian government systems.",
-   "published": "2026-09-29T01:51:25+00:00"
   },
   {
    "id": "d3087d8d05c7",
@@ -317,7 +350,7 @@
   },
   {
    "id": "bf11ea6fbec1",
-   "title": "OpenAI scraps release of latest AI model over safety concerns",
+   "title": "OpenAI cancels release of latest AI model over safety concerns",
    "link": "https://www.aljazeera.com/economy/2026/9/29/openai-scraps-release-of-latest-ai-model-over-safety-concerns?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -556,17 +589,6 @@
    "flourishing_feed": false,
    "summary": "Several mental health and suicide indicators among high school students improved from 2023 to 2025. The last decade overall, however, has not shown significant positive change in teen health. The Centers for Disease Control and Prevention published findings last week from the…",
    "published": "2026-09-28T22:27:55+00:00"
-  },
-  {
-   "id": "a067cf581d70",
-   "title": "Tennessee governor rejects clemency bid for Christa Pike as execution looms",
-   "link": "https://www.bbc.co.uk/news/articles/ckr50yyddljlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "If the execution proceeds, Pike would be the first woman executed in Tennessee in more than 200 years.",
-   "published": "2026-09-28T22:27:33+00:00"
   },
   {
    "id": "78274598df78",
