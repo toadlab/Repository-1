@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T07:31:13.678795+00:00",
+ "generated": "2026-09-29T08:32:31.003891+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 34
+   "count": 25
   },
   {
    "name": "The Guardian World",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "name": "Congressional Budget Office",
@@ -129,6 +129,325 @@
  ],
  "items": [
   {
+   "id": "826e70df814c",
+   "title": "Estonia summons Russia’s chargé d’affaires over arson attack on a robotics company - Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/sep/29/ukraine-russia-war-odesa-overnight-lithuania-mark-rutte-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Foreign minister says the attack on Milrem Robotics was ‘an act of sabotage ordered by the special services of the Russian Federation’ Estonia’s national security agency Kaitsepolitseiamet offered a bit more detail on the arson attack and what led to the attribution, saying…",
+   "published": "2026-09-29T08:25:01+00:00"
+  },
+  {
+   "id": "5e94996af35d",
+   "title": "Burnham to signal willingness to look at scrapping pension triple lock to fund social care",
+   "link": "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-labour-conference-pension-triple-lock-social-care",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "PM to tell Labour conference he is prepared to make difficult arguments and have ‘honest conversation’ UK politics live – latest updates Andy Burnham will signal he is prepared to look at scrapping the pensions triple lock to fund a national care service, telling the Labour…",
+   "published": "2026-09-29T08:22:55+00:00"
+  },
+  {
+   "id": "3e38bbdfc51d",
+   "title": "Fighting in Ethiopia intensifies: What’s the latest?",
+   "link": "https://www.aljazeera.com/news/2026/9/29/fighting-in-ethiopia-intensifies-whats-the-latest?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Capture of key town could pave the way for federal forces to push towards Tigray's capital, Mekelle.",
+   "published": "2026-09-29T08:19:23+00:00"
+  },
+  {
+   "id": "615f290e95c3",
+   "title": "RAF Fairford: Labour’s deputy leader says ‘I trust our police’ after Trump questions decision to bail suspects – latest updates",
+   "link": "https://www.theguardian.com/uk-news/live/2026/sep/29/raf-fairford-counter-terror-suspected-plot-iran-donald-trump-marco-rubio-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lucy Powell’s comments come after US secretary of state, Marco Rubio, also expressed concerns and says foreign actor was ‘clearly’ behind plot Rubio says foreign actor was ‘clearly’ behind suspected RAF Fairford plot Five men arrested over a suspected bomb plot at RAF Fairford…",
+   "published": "2026-09-29T08:17:54+00:00"
+  },
+  {
+   "id": "e38723560490",
+   "title": "US-Iran talks continue, but ‘deal unlikely’ before midterm elections",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/us-iran-talks-continue-but-deal-unlikely-before-midterm-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US and Iran are talking through mediators, but there are major differences over what a deal should look like.",
+   "published": "2026-09-29T08:15:48+00:00"
+  },
+  {
+   "id": "fd61e3e42c6a",
+   "title": "Australia news live: Bullock says interest rates will be hiked again ‘if that’s what’s needed’; Mehreen Faruqi confirms she will contest Greens leadership",
+   "link": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast New South Wales police say they are investigating the suspicious deaths of two men in the state’s north. Police said they found the first man – who has since been identified as a 79-year-old…",
+   "published": "2026-09-29T08:15:28+00:00"
+  },
+  {
+   "id": "1031f460856f",
+   "title": "RBA interest rates: Reserve Bank raises cash rate to highest level in 15 years and warns of more hikes ‘if needed’",
+   "link": "https://www.theguardian.com/business/2026/sep/29/rba-interest-rate-announcement-decision-cash-rate",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Michele Bullock said board knows decision will hit some people hard but hopefully in the next few years ‘this will all have been worth it’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Reserve Bank of…",
+   "published": "2026-09-29T08:14:37+00:00"
+  },
+  {
+   "id": "306937ebea7d",
+   "title": "Thousands of drivers strike in the Philippines over rising fuel prices",
+   "link": "https://www.aljazeera.com/news/2026/9/29/thousands-of-drivers-strike-in-the-philippines-over-rising-fuel-prices?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Transport workers blame US-Israel war on Iran for rising fuel prices as government offers free rides for commuters.",
+   "published": "2026-09-29T08:14:08+00:00"
+  },
+  {
+   "id": "fb9c5ac6a0fc",
+   "title": "OpenAI scraps rollout of new model over safety concerns",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
+   "published": "2026-09-29T08:13:13+00:00"
+  },
+  {
+   "id": "1d477e7a286e",
+   "title": "News organizations ask court to bar White House enforcement of access ban",
+   "link": "https://www.npr.org/2026/09/29/nx-s1-5984349/news-organizations-court-white-house-ban",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three news outlets that President Trump banished from White House grounds asked a federal court to block the ban until the case is resolved.",
+   "published": "2026-09-29T08:13:11+00:00"
+  },
+  {
+   "id": "1ecbe2c8bf64",
+   "title": "How a rape rumour sent an Indian university into turmoil and emptied hostels",
+   "link": "https://www.bbc.co.uk/news/articles/c6kg8dxrv54do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police are trying to verify whether a female student was raped at Lovely Professional University (LPU).",
+   "published": "2026-09-29T08:12:39+00:00"
+  },
+  {
+   "id": "b5c06015422e",
+   "title": "‘A false problem’: Italy’s Muslims question Meloni’s burqa ban",
+   "link": "https://www.aljazeera.com/news/2026/9/29/a-false-problem-italys-muslims-question-melonis-burqa-ban?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As the prime minister attempts to stave off a far-right challenger, a small minority of Muslims are being targeted.",
+   "published": "2026-09-29T08:11:27+00:00"
+  },
+  {
+   "id": "c48fcdb529bb",
+   "title": "Burnham is told axing pension triple lock would be ‘electoral suicide’ as he prepares to address Labour conference – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/sep/29/andy-burnham-labour-conference-liverpool-speech-triple-lock-pension-angela-rayner-lucy-powell-bridget-phillipson-uk-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Union leader says getting rid of triple lock not ‘the right thing’ as the PM prepares to lay out his ‘hope comes from honesty’ vision in Liverpool this afternoon Burnham promises to roll back privatisation with government-backed grid plan Andy Burnham has posted this on social…",
+   "published": "2026-09-29T08:09:20+00:00"
+  },
+  {
+   "id": "5dc658f5c09d",
+   "title": "Hurricane Polo makes landfall on Mexico's Pacific coast",
+   "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The storm moved ashore on the Baja California peninsula, which is a popular tourist destination.",
+   "published": "2026-09-29T08:05:09+00:00"
+  },
+  {
+   "id": "480a16939c8a",
+   "title": "Burkina Faso's junta leader opens major gold refinery to keep mining profits at home",
+   "link": "https://www.bbc.co.uk/news/articles/c61mvdlk0327o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Junta leader Ibrahim Traoré wants the country to profit more from its mineral wealth.",
+   "published": "2026-09-29T08:01:24+00:00"
+  },
+  {
+   "id": "22c528648138",
+   "title": "Israeli settlers attack Jalud village in occupied West Bank, torch homes",
+   "link": "https://www.aljazeera.com/news/2026/9/29/israeli-settlers-attack-jalud-village-in-occupied-west-bank-torch-homes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A group of settlers attacked two homes belonging to the Al-Tubasi family in northern West Bank village.",
+   "published": "2026-09-29T08:01:14+00:00"
+  },
+  {
+   "id": "02c6e711316a",
+   "title": "Fire fears as vape shop prepares to open next to Glasgow’s Mackintosh Tearooms",
+   "link": "https://www.theguardian.com/artanddesign/2026/sep/29/mackintosh-tearooms-vape-shops-fire-risk-glasgow-heritage",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Residents say shop threatens Charles Rennie Mackintosh’s last surviving tearoom months after vape shop blaze nearby In the heart of Glasgow city centre, nestled between shops, bars, offices and hotels, sits the Mackintosh Tearooms, the last surviving tearoom designed by Charles…",
+   "published": "2026-09-29T08:00:58+00:00"
+  },
+  {
+   "id": "108a374df2db",
+   "title": "‘The forest is life’: how Indigenous communities in Peru are preventing wildfires",
+   "link": "https://www.positive.news/environment/the-forest-is-life-how-indigenous-communities-in-peru-are-preventing-wildfires/",
+   "source": "Positive News",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": true,
+   "summary": "Forest fires have ravaged Peru in recent years, but Indigenous communities are fighting back, protecting forests and reducing blazes The post ‘The forest is life’: how Indigenous communities in Peru are preventing wildfires appeared first on Positive News .",
+   "published": "2026-09-29T08:00:53+00:00"
+  },
+  {
+   "id": "209eb8dea405",
+   "title": "Brickbat: Evidence Is Overrated",
+   "link": "https://reason.com/2026/09/29/brickbat-evidence-is-overrated/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Nathaniel Stephens of Grayson, Kentucky, became the subject of a DUI investigation after a teenager backed into his car in… The post Brickbat: Evidence Is Overrated appeared first on Reason Magazine.",
+   "published": "2026-09-29T08:00:37+00:00"
+  },
+  {
+   "id": "60054c52f0b4",
+   "title": "Trump administration revokes $810M approved by Congress for refugee aid and more",
+   "link": "https://indianacapitalchronicle.com/2026/09/29/repub/trump-administration-revokes-810m-approved-by-congress-for-refugee-aid-and-more/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "WASHINGTON — The Trump administration has, once again, infuriated lawmakers from both political parties by using a controversial maneuver to cancel funding previously approved by Congress. The $810 million in the “pocket rescission” would have gone to refugee assistance…",
+   "published": "2026-09-29T08:00:28+00:00"
+  },
+  {
+   "id": "3b62ad162e91",
+   "title": "A Place to Sleep for Denver’s Homeless College Students",
+   "link": "https://reasonstobecheerful.world/home-for-denver-homeless-college-students/",
+   "source": "Reasons to be Cheerful",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": true,
+   "summary": "This story was originally published by Chalkbeat. Sign up for their newsletters at ckbe.at/newsletters. During her first semester at Chicago’s Malcolm X College, Nikya Harrell had had enough. It was winter, and she was cold. She was bouncing to and from family members’ houses…",
+   "published": "2026-09-29T08:00:24+00:00"
+  },
+  {
+   "id": "737d6fb4e428",
+   "title": "Israel’s West Bank road closures turn routine journeys into long ordeals",
+   "link": "https://www.aljazeera.com/news/2026/9/29/israels-west-bank-road-closures-turn-routine-journeys-into-long-ordeals?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Palestinians face delayed medical care and long journeys as Israel tightens movement restrictions across the West Bank.",
+   "published": "2026-09-29T07:44:06+00:00"
+  },
+  {
+   "id": "0dce995b7162",
+   "title": "Satellite images show Gaza in ruins three years into Israel’s genocidal war",
+   "link": "https://www.aljazeera.com/news/2026/9/29/satellite-images-show-gaza-in-ruins-three-years-into-israels-genocidal-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Google Maps images show scale of Israel's destruction of Gaza, where more than 74,000 Palestinians have been killed.",
+   "published": "2026-09-29T07:41:59+00:00"
+  },
+  {
+   "id": "539fa6142904",
+   "title": "Can Pakistan’s Sohail Afridi win freedom for ex-PM Imran Khan?",
+   "link": "https://www.aljazeera.com/features/2026/9/29/can-pakistans-sohail-afridi-win-freedom-for-ex-pm-imran-khan?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At 37, he's the PTI's top elected leader. But the Khyber Pakhtunkhwa chief minister is assuming a national role too.",
+   "published": "2026-09-29T07:38:56+00:00"
+  },
+  {
+   "id": "39af24e3005b",
+   "title": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
+   "link": "https://www.aljazeera.com/news/2026/9/29/israeli-forces-kill-hamas-commander-izz-al-din-al-beik-in-gaza-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Head of Hamas's armed wing in northern Gaza killed in ⁠an Israeli strike on an apartment building in Gaza City.",
+   "published": "2026-09-29T07:34:50+00:00"
+  },
+  {
+   "id": "3ebf6b5d7b1a",
+   "title": "Sarah Hanson-Young and Mehreen Faruqi announce Greens leadership tilt after Larissa Waters’ shock resignation",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/29/larissa-waters-resignation-greens-leadership-contenders",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "New leader expected to be chosen imminently, with David Shoebridge, Faruqi and Hanson-Young among frontrunners Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Greens Sarah Hanson-Young and Mehreen Faruqi look…",
+   "published": "2026-09-29T07:31:10+00:00"
+  },
+  {
+   "id": "5a78c5d748f3",
+   "title": "Gaza doctors face tough decisions as patients face long waits for diagnoses",
+   "link": "https://www.aljazeera.com/features/2026/9/29/gaza-doctors-face-tough-decisions-as-patients-face-long-waits-for-diagnoses?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Medical staff in Gaza struggle to treat patients with shortages in testing equipment.",
+   "published": "2026-09-29T07:26:37+00:00"
+  },
+  {
+   "id": "73b2a22bbe0b",
+   "title": "Former ABC broadcaster Margaret Throsby recovering in hospital after being hit by ebike",
+   "link": "https://www.theguardian.com/media/2026/sep/29/margaret-throsby-ebike-former-abc-broadcaster-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 84-year-old underwent surgery after a collision with two teenagers on an electric ‘fat bike’ in the Illawarra Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Former ABC broadcaster Margaret Throsby is…",
+   "published": "2026-09-29T07:21:24+00:00"
+  },
+  {
+   "id": "a2c275a76a43",
+   "title": "OpenAI scraps release of new model over safety concerns in internal testing",
+   "link": "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "GPT-6.1 Astra showed deceptive behaviour and tried to use external tools despite knowing it would be unsafe As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you Business live – latest updates OpenAI is scrapping the release…",
+   "published": "2026-09-29T07:15:54+00:00"
+  },
+  {
    "id": "b4b60e7fe272",
    "title": "FIFA could disburse millions to members as Infantino seeks re-election",
    "link": "https://www.aljazeera.com/sports/2026/9/29/fifa-could-disburse-millions-to-members-as-infantino-seeks-re-election?traffic_source=rss",
@@ -138,17 +457,6 @@
    "flourishing_feed": false,
    "summary": "FIFA president Infantino is open to providing 'greatest level of additional funding' to associations amid opposition.",
    "published": "2026-09-29T07:10:07+00:00"
-  },
-  {
-   "id": "fd61e3e42c6a",
-   "title": "Australia news live: Bullock says interest rates will be hiked again ‘if that’s what’s needed’; Chandler-Mather proposes ‘radical idea’ for Greens to recreate Mamdani energy",
-   "link": "https://www.theguardian.com/australia-news/live/2026/sep/29/treasurer-jim-chalmers-reserve-bank-cash-rate-decision-coalition-one-nation-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast New South Wales police say they are investigating the suspicious deaths of two men in the state’s north. Police said they found the first man – who has since been identified as a 79-year-old…",
-   "published": "2026-09-29T07:10:03+00:00"
   },
   {
    "id": "af45725911ad",
@@ -257,7 +565,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "As outrage grows over cases​ of sexual violence, activists are demanding a shift from controlling women to confronting men’s behaviour. Plus, Tony Klor’s ‘hella dope’ city vlogs As an Indian woman, I often feel myself oscillating between states of anxiety or anger. The anxiety…",
+   "summary": "As outrage grows over cases​ of sexual violence, activists are demanding a shift from controlling women to confronting men’s behaviour. Plus, Tony Klor’s ‘hella dope’ city vlogs • Don’t get This is India delivered to your inbox? Sign up here As an Indian woman, I often feel…",
    "published": "2026-09-29T06:30:55+00:00"
   },
   {
@@ -292,6 +600,17 @@
    "flourishing_feed": false,
    "summary": "As sellers waded through floodwaters to sell produce like fish and vegetables from floating platforms and foam boxes, buyers walked or paddled between the makeshift stalls to buy their groceries.",
    "published": "2026-09-29T06:15:25+00:00"
+  },
+  {
+   "id": "e5d9b29001e8",
+   "title": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
+   "link": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Human rights groups say some 5,000 returnees could face violence, persecution and forced conscription.",
+   "published": "2026-09-29T06:06:20+00:00"
   },
   {
    "id": "d24f72f918ba",
@@ -338,15 +657,15 @@
    "published": "2026-09-29T05:45:56+00:00"
   },
   {
-   "id": "1031f460856f",
-   "title": "RBA interest rates: Reserve Bank hikes cash rate to 4.6%, the highest level since 2011",
-   "link": "https://www.theguardian.com/business/2026/sep/29/rba-interest-rate-announcement-decision-cash-rate",
-   "source": "The Guardian World",
+   "id": "47021b7207ae",
+   "title": "Rights group accuses Vietnam of abducting Australian and Norwegian activists",
+   "link": "https://www.bbc.co.uk/news/articles/cmvgy2wwvzlqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Widely expected decision is fourth increase to interest rate this year and will be blow to mortgage holders across Australia Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Reserve Bank of Australia has…",
-   "published": "2026-09-29T05:23:15+00:00"
+   "summary": "Vietnam says the men entered the country illegally and accused them of planning terrorist activities.",
+   "published": "2026-09-29T05:31:37+00:00"
   },
   {
    "id": "041be4a58a5b",
@@ -437,17 +756,6 @@
    "published": "2026-09-29T04:46:38+00:00"
   },
   {
-   "id": "3ebf6b5d7b1a",
-   "title": "Sarah Hanson-Young announces Greens leadership tilt after MPs blindsided by Larissa Waters’ shock resignation",
-   "link": "https://www.theguardian.com/australia-news/2026/sep/29/larissa-waters-resignation-greens-leadership-contenders",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "New leader expected to be chosen imminently, with Mehreen Faruqi, David Shoebridge and Hanson-Young among frontrunners Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast High-profile Greens senator Sarah…",
-   "published": "2026-09-29T04:38:45+00:00"
-  },
-  {
    "id": "bfa5a9c94788",
    "title": "Ethiopian army claims to have taken Tigrayan stronghold",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/29/ethiopian-army-claims-to-have-taken-tigrayan-stronghold?traffic_source=rss",
@@ -457,17 +765,6 @@
    "flourishing_feed": false,
    "summary": "The Ethiopian military and allied militia claim to have overtaken the town of Alamata in the Tigray region.",
    "published": "2026-09-29T04:37:21+00:00"
-  },
-  {
-   "id": "fb9c5ac6a0fc",
-   "title": "OpenAI scraps rollout of new model over safety concerns",
-   "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-   "published": "2026-09-29T04:30:13+00:00"
   },
   {
    "id": "036ae30f355a",
@@ -523,6 +820,17 @@
    "flourishing_feed": false,
    "summary": "The UK communities secretary decried protests by ‘men in black wearing face masks’ and those ‘whipping up hatred’ towards lifeboat volunteers Far-right marches led by the self-styled “Danny Tommo” should not be treated like normal protests, the communities secretary, Angela…",
    "published": "2026-09-29T04:00:53+00:00"
+  },
+  {
+   "id": "9b2215c17a28",
+   "title": "Election To Pay in Installments Tax on Gain From Certain Farmland Property",
+   "link": "https://www.federalregister.gov/documents/2026/09/29/2026-19888/election-to-pay-in-installments-tax-on-gain-from-certain-farmland-property",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "This document contains proposed regulations regarding the statutory election to pay in four equal annual installments the tax on the gain from the sale or exchange of qualified farmland property to a qualified farmer. The proposed regulations would affect taxpayers who sell or…",
+   "published": "2026-09-29T04:00:00+00:00"
   },
   {
    "id": "10b405488c11",
@@ -701,6 +1009,17 @@
    "published": "2026-09-29T01:16:28+00:00"
   },
   {
+   "id": "594060058d66",
+   "title": "Are Trump's US government funded ads illegal?",
+   "link": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Trump has faced criticism after fronting adverts which were paid for by the US government.",
+   "published": "2026-09-29T01:12:52+00:00"
+  },
+  {
    "id": "77fa3f5c8390",
    "title": "Hungary lifts immunity of Prime Minister Magyar, two Orban-era ministers",
    "link": "https://www.aljazeera.com/news/2026/9/29/hungary-lifts-immunity-of-prime-minister-magyar-two-orban-era-ministers?traffic_source=rss",
@@ -866,17 +1185,6 @@
    "published": "2026-09-28T23:44:49+00:00"
   },
   {
-   "id": "5dc658f5c09d",
-   "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
-   "link": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California Sur.",
-   "published": "2026-09-28T23:43:48+00:00"
-  },
-  {
    "id": "02114218cc8b",
    "title": "UK: ‘Too soon’ to blame airbase plot on foreign state",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/uk-too-soon-to-blame-airbase-plot-on-foreign-state?traffic_source=rss",
@@ -897,17 +1205,6 @@
    "flourishing_feed": false,
    "summary": "Police arrest couple in their 70s after Jonathan McKinsey, 40, found dead in park in Bay Area city of Dublin A married couple in their 70s have been arrested for allegedly shooting and killing their son-in-law, a New York Times engineer, in broad daylight at a suburban Bay Area…",
    "published": "2026-09-28T23:17:18+00:00"
-  },
-  {
-   "id": "a2c275a76a43",
-   "title": "OpenAI scraps release of new model over safety concerns in internal testing",
-   "link": "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "GPT-6.1 Astra showed deceptive behavior and tried to use external tools despite knowing it would be unsafe OpenAI is scrapping the release of GPT-6.1 Astra, a next-generation ⁠AI model planned for an October debut, over safety concerns raised by researchers ⁠during internal…",
-   "published": "2026-09-28T23:02:28+00:00"
   },
   {
    "id": "2b0a89bd386a",
@@ -11818,7 +12115,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Generations of artisans from Mumbai to Lucknow have shaped the world’s most coveted designs. Plus, the gen Z memes giving classic Bollywood a new life The zardozi embroidery on a Dior dress, the T-strap leather sandals at a Prada show, the mirror-work technique used on a Fendi…",
+   "summary": "Generations of artisans from Mumbai to Lucknow have shaped the world’s most coveted designs. Plus, the gen Z memes giving classic Bollywood a new life • Don’t get This is India delivered to your inbox? Sign up here The zardozi embroidery on a Dior dress, the T-strap leather…",
    "published": "2026-09-22T06:30:37+00:00"
   },
   {
