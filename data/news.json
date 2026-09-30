@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T15:33:59.400519+00:00",
+ "generated": "2026-09-30T16:33:08.034663+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,114 @@
  ],
  "items": [
   {
-   "id": "7dc108d376c5",
-   "title": "Trump’s Big Tent Is Collapsing",
-   "link": "https://thedispatch.com/newsletter/next-right/kevin-stitt-marjorie-taylor-greene-trump-republicans-2028/",
-   "source": "The Dispatch",
+   "id": "b0a85ec5bc30",
+   "title": "Wall Street may be sleeping on this networking stock tied to Google and OpenAI",
+   "link": "https://www.marketwatch.com/story/wall-street-may-be-sleeping-on-this-networking-stock-tied-to-google-and-openai-1cb9741f?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A critical bottleneck in data centers is creating a massive runway for networking stocks like Celestica, according to Bernstein.",
+   "published": "2026-09-30T16:29:00+00:00"
+  },
+  {
+   "id": "ba6ac4093910",
+   "title": "Five Key Developments for Estate Planners and Litigators",
+   "link": "https://www.wealthmanagement.com/estate-planning/five-key-developments-for-estate-planners-and-litigators",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Highlights from the 2026 Jerry A. Kasner Estate Planning Symposium.",
+   "published": "2026-09-30T16:23:15+00:00"
+  },
+  {
+   "id": "d90754976149",
+   "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
+   "link": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "It’s important to have guardrails around your legacy.",
+   "published": "2026-09-30T16:20:00+00:00"
+  },
+  {
+   "id": "275408c25e28",
+   "title": "‘President of the Unites States’: White House’s AI accord includes spelling error",
+   "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-ai-accord-spelling-error",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Donald Trump and six tech executives voluntarily signed the document, which included a misspelling, committing to safely developing AI The White House misspelled “United States” under the signature of Donald Trump on an accord he signed with AI executives on Tuesday. At the…",
+   "published": "2026-09-30T16:11:58+00:00"
+  },
+  {
+   "id": "619fa93470e0",
+   "title": "Saving your retirement could come down to this simple writing exercise",
+   "link": "https://www.marketwatch.com/story/saving-your-retirement-could-come-down-to-this-simple-writing-exercise-c25734a9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A “retirement policy statement” lays out instructions that you can stick to.",
+   "published": "2026-09-30T16:11:00+00:00"
+  },
+  {
+   "id": "1b9e8340e99c",
+   "title": "New field-level seats are coming to Rice-Eccles Stadium. Here’s all the details",
+   "link": "https://www.deseret.com/sports/2026/09/30/utah-football-field-level-seats-rice-eccles-stadium-north-end-zone/",
+   "source": "Deseret News",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Oklahoma’s governor and Marjorie Taylor Greene could be harbingers of a fractured GOP coalition to come.",
-   "published": "2026-09-30T15:31:44+00:00"
+   "summary": "Five years ago, the University of Utah unveiled its newly completed south end zone renovation at Rice-Eccles Stadium that included premium-seating options that elevated the experience at the Utes’ home field. Now, there will be an additional way for fans to get a premium-level…",
+   "published": "2026-09-30T16:06:40+00:00"
+  },
+  {
+   "id": "17dbe957a73b",
+   "title": "26-01160.pdf",
+   "link": "https://www.finra.org/node/388731",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "26-01160.pdf Anonymous (not verified) Wed, 09/30/2026 - 12:05 Case ID 26-01160 Forum FINRA Document Type Award Claimants Patrick Bedgood Respondents Robinhood Financial, LLC Fidelity Brokerage Services LLC Neutrals Michael J. Ahlstrom Hearing Site Memphis, TN Award Document…",
+   "published": "2026-09-30T16:05:02+00:00"
+  },
+  {
+   "id": "f3cb696192f6",
+   "title": "23-03615.pdf",
+   "link": "https://www.finra.org/node/388726",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "23-03615.pdf Anonymous (not verified) Wed, 09/30/2026 - 12:05 Case ID 23-03615 Forum FINRA Document Type Award Respondents Shayna Weitz TD Ameritrade, Inc. Neutrals William Kent Brown Mark A. Bilawsky Stephanie Reed Traband Hearing Site Boca Raton, FL Award Document…",
+   "published": "2026-09-30T16:05:02+00:00"
+  },
+  {
+   "id": "83299cb63233",
+   "title": "26-01117.pdf",
+   "link": "https://www.finra.org/node/388721",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "26-01117.pdf Anonymous (not verified) Wed, 09/30/2026 - 12:05 Case ID 26-01117 Forum FINRA Document Type Award Claimants Tradestation Securities, Inc. Respondents Mehran Khavarian Neutrals David Aaron DeSoto Hearing Site Houston, TX Award Document 26-01117.pdf Documentum DocID…",
+   "published": "2026-09-30T16:05:02+00:00"
+  },
+  {
+   "id": "317e4e1839e1",
+   "title": "Wealth Enhancement Pens Largest Deal to Date with $22B RWA Partners",
+   "link": "https://www.wealthmanagement.com/ria-news/wealth-enhancement-pens-largest-deal-to-date-with-22b-rwa-partners",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The women-led RWA Partners will bring private wealth and family office specialties to Wealth Enhancement, which will grow to more than $187 billion in client assets.",
+   "published": "2026-09-30T16:05:00+00:00"
   },
   {
    "id": "cd5fdbbb6e29",
@@ -147,8 +246,206 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Israeli PM issues statement on flydubai incident, which saw plane plummet mid-air before emergency landing in Saudi Arabia Full report: Pilot on Israel-bound plane stabbed co-pilot and tried to crash aircraft, passenger says Netanyahu said one of the FlyDubai pilots stabbed his…",
-   "published": "2026-09-30T15:30:06+00:00"
+   "summary": "Israeli PM issues statement on flydubai incident, which saw plane plummet mid-air before emergency landing in Saudi Arabia Full report: Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu Netanyahu said one of the FlyDubai pilots stabbed…",
+   "published": "2026-09-30T16:04:31+00:00"
+  },
+  {
+   "id": "224abd7eb0db",
+   "title": "Wall Street Regulator Moves to Expand Access to Private Funds",
+   "link": "https://www.wealthmanagement.com/alternative-investments/wall-street-regulator-moves-to-expand-access-to-private-funds",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "An SEC proposal would let registered investment advisors charge a fee up to 20% based on a fund’s performance, putting the fee structure in line with some hedge funds.",
+   "published": "2026-09-30T16:02:07+00:00"
+  },
+  {
+   "id": "554c086e9a32",
+   "title": "‘Strong indications’ that Iran played role in RAF Fairford incident, says Burnham",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/30/strong-indications-that-iran-played-role-in-raf-fairford-incident-says-burnham",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "PM also defends decision to release suspects on bail and expresses ‘complete confidence’ in security services There are “strong indications” that Iran played a role in events in which five men were arrested near RAF Fairford in Gloucestershire as part of a terror investigation,…",
+   "published": "2026-09-30T16:00:12+00:00"
+  },
+  {
+   "id": "aabef0343d74",
+   "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+   "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I have $152,000 in my IRA and Roth accounts.”",
+   "published": "2026-09-30T16:00:00+00:00"
+  },
+  {
+   "id": "0b4940ab8abc",
+   "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+   "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Support for white Afrikaners, anti-communism and others reveals how US redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a…",
+   "published": "2026-09-30T15:59:32+00:00"
+  },
+  {
+   "id": "0348efbc3150",
+   "title": "French court jails six men for manslaughter over mass drowning in Channel",
+   "link": "https://www.theguardian.com/world/2026/sep/30/french-court-jails-six-manslaughter-mass-drowning-channel",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Seven others found guilty of lesser charges in connection to incident in 2021 when inflatable dinghy sank killing at least 27 people with four more missing, presumed dead A Paris court has jailed six ⁠men for manslaughter over the deaths of at least 27 people in the worst mass…",
+   "published": "2026-09-30T15:58:30+00:00"
+  },
+  {
+   "id": "450858bb3599",
+   "title": "A tough job market is pushing more young Americans to make a big bet: on themselves",
+   "link": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "There has been a rise in entrepreneurship among young Americans as the entry-level labor market has become tougher to join.",
+   "published": "2026-09-30T15:55:00+00:00"
+  },
+  {
+   "id": "67c7af3a4b71",
+   "title": "Opinion: Prediction markets let you bet on what?",
+   "link": "https://www.deseret.com/opinion/2026/09/30/prediction-markets-should-be-reined-in/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Every month or so, it seems as if something new and shocking is revealed about prediction markets and the events for which they allow customers to wager. Not many months ago, it was the date and time when the United States would launch a military strike against Venezuela. U.S.…",
+   "published": "2026-09-30T15:47:54+00:00"
+  },
+  {
+   "id": "69db3db7aec4",
+   "title": "Braun renews gas tax suspension, broadens untaxed diesel use for farmers",
+   "link": "https://indianacapitalchronicle.com/2026/09/30/braun-renews-gas-tax-suspension-broadens-untaxed-diesel-use-for-farmers/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Gov. Mike Braun on Wednesday renewed Indiana's gas tax suspension for another 30 days — until early November — and issued a new order lifting restrictions on the sale of untaxed diesel fuel for semi-trucks operated by farmers and timber harvesters, citing continued disruption…",
+   "published": "2026-09-30T15:47:53+00:00"
+  },
+  {
+   "id": "2043c69b5edf",
+   "title": "Seth Meyers on Trump canceling $1bn in federal funds: ‘Is he adding a waterslide to the reflecting pool?’",
+   "link": "https://www.theguardian.com/culture/2026/sep/30/seth-meyers-trump-federal-funds-ai",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Late-night hosts weighed in on Trump’s relationship with tech leaders and the White House’s new AI-powered site On Tuesday night, late-night hosts discussed a Maha summit in Washington DC, the White House’s new AI -powered website and Donald Trump once again falling asleep on…",
+   "published": "2026-09-30T15:46:19+00:00"
+  },
+  {
+   "id": "b1fff16ebba4",
+   "title": "NFL Player's Penis Size Is a 'Matter of Legitimate Public Concern,' Says Court",
+   "link": "https://reason.com/2026/09/30/nfl-players-penis-size-is-a-matter-of-legitimate-public-concern-says-court/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "That means his ex-wife can talk about it on a podcast if she wants to. But you probably shouldn’t follow suit.",
+   "published": "2026-09-30T15:45:04+00:00"
+  },
+  {
+   "id": "c0d0f7cfe841",
+   "title": "SEC Proposes Amendments to Expand Responsible Retailization of Private Markets",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-96-sec-proposes-amendments-expand-responsible-retailization-private-markets",
+   "source": "SEC Press Releases",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Securities and Exchange Commission today voted to propose rule amendments that would facilitate capital formation in the public and private markets by expanding retail investor choice and promoting innovation in regulated fund structures while…",
+   "published": "2026-09-30T15:45:00+00:00"
+  },
+  {
+   "id": "b003dc6cff2c",
+   "title": "Sweden must apologise for harm done to Sami people, says state-backed report",
+   "link": "https://www.theguardian.com/world/2026/sep/30/sweden-sami-harm-apology-report",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Independent commission accuses country of failing Indigenous people, amid rising tensions over land rights An independent commission set up by the Swedish state has called on the country’s government to apologise for the “harm and injustice inflicted upon the Sami people” and…",
+   "published": "2026-09-30T15:40:28+00:00"
+  },
+  {
+   "id": "adbc733cc2ab",
+   "title": "On FOI Requests and Other Benefits of Working at a Public University",
+   "link": "https://reason.com/volokh/2026/09/30/on-foi-requests-and-other-benefits-of-working-at-a-public-university/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For twenty-five years I never had to think about freedom-of-information requests, but in the last year I have been the subject of two such requests.",
+   "published": "2026-09-30T15:37:22+00:00"
+  },
+  {
+   "id": "f07c8c944243",
+   "title": "Estate Planning for Clients with Non-Traditional Heirs",
+   "link": "https://www.wealthmanagement.com/estate-planning/estate-planning-for-clients-with-non-traditional-heirs",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A growing opportunity to help child-free Americans carry out their legacy wishes.",
+   "published": "2026-09-30T15:37:21+00:00"
+  },
+  {
+   "id": "80697e675695",
+   "title": "‘You’re a finance bro with that voice?’: Utah singer wows all 4 coaches on ‘The Voice’",
+   "link": "https://www.deseret.com/entertainment/2026/09/30/the-voice-2026-who-is-cade-mower/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A singer from Utah has emerged as an early front-runner on this season of “The Voice” with an audition that won over all four coaches in a matter of seconds. His wife signed him up for 'The Voice.' Now this Utah singer is on Kelly Clarkson's team They won ‘The Voice.’ Now,…",
+   "published": "2026-09-30T15:34:32+00:00"
+  },
+  {
+   "id": "fb532953da0e",
+   "title": "Good news in US inflation report boosts chances Fed won’t hike rates",
+   "link": "https://www.theguardian.com/business/2026/sep/30/inflation-report-interest-rates-fed",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Traders see an about 35% chance of an October rate hike, down from ​about 45% following White House pressure Good economic news boosted Wall Street’s main indexes on Wednesday, as a softer-than-anticipated inflation reading buoyed hopes that the Federal Reserve might not hike…",
+   "published": "2026-09-30T15:34:20+00:00"
+  },
+  {
+   "id": "75ec55a14ddd",
+   "title": "How Ukrainians are coping with new, more deadly Russian attacks",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Zanny Minton Beddoes, The Economist's editor in chief , just visited Ukraine. She says, despite all its drone weaponry, Kyiv is under extraordinary bombardment, as Russia tries to make it unlivable.",
+   "published": "2026-09-30T15:33:19+00:00"
+  },
+  {
+   "id": "7dc108d376c5",
+   "title": "Trump’s Big Tent Is Collapsing",
+   "link": "https://thedispatch.com/newsletter/next-right/kevin-stitt-marjorie-taylor-greene-trump-republicans-2028/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Oklahoma’s governor and Marjorie Taylor Greene could be harbingers of a fractured GOP coalition to come.",
+   "published": "2026-09-30T15:31:44+00:00"
   },
   {
    "id": "99393131b9ac",
@@ -182,6 +479,17 @@
    "flourishing_feed": false,
    "summary": "The S&P 500 has gained slightly in September, but three-quarters of its components have declined.",
    "published": "2026-09-30T15:28:00+00:00"
+  },
+  {
+   "id": "c565b4fc5b60",
+   "title": "What happened on diverted Flydubai flight from Dubai to Tel Aviv?",
+   "link": "https://www.aljazeera.com/news/2026/9/30/what-happened-on-diverted-flydubai-flight-from-dubai-to-tel-aviv?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israel's prime minister said one of the pilots stabbed the other and then tried to crash the plane.",
+   "published": "2026-09-30T15:27:26+00:00"
   },
   {
    "id": "a7d768dd51af",
@@ -279,7 +587,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Unprecedented university donation from Citadel CEO Ken Griffin will go toward building a new Miami campus Carnegie Mellon University will receive an unprecedented $3bn donation from billionaire investor Ken Griffin, making it the largest single donation in the history of US…",
+   "summary": "Unprecedented university donation from Citadel CEO Ken Griffin will go toward building a new Miami campus Carnegie Mellon University will receive an unprecedented $3bn donation from the billionaire investor Ken Griffin, making it the largest single donation in the history of US…",
    "published": "2026-09-30T15:13:04+00:00"
   },
   {
@@ -314,6 +622,17 @@
    "flourishing_feed": false,
    "summary": "Marcus Smrecek Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 11:06 Marcus Smrecek Marcus Smrecek <marcus_smrecek@yahoo.com> Regulatory Notice 26-15 Core Official Date Wed, 09/23/2026 - 12:00 Comment File Marcus Smrecek_26-15_9.23.2026.pdf",
    "published": "2026-09-30T15:06:27+00:00"
+  },
+  {
+   "id": "fd0a6f60f358",
+   "title": "Ethiopia fighting escalates in Tigray killing 52 civilians, medic tells the BBC",
+   "link": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The deadly fighting has also spread to neighbouring regions, stranding tourists in Lalibela.",
+   "published": "2026-09-30T15:04:32+00:00"
   },
   {
    "id": "15299073ef9a",
@@ -510,7 +829,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "As soaring rents and house prices across Europe​ feed into the political discourse, campaigners believe they have a rare opportunity to force housing to the top of the agenda Don’t get This Is Europe delivered to your inbox? Sign up here It was billed as one of the largest…",
+   "summary": "As soaring rents and house prices across Europe​ feed into the political discourse, campaigners believe they have a rare opportunity to force housing to the top of the agenda • Don’t get This Is Europe delivered to your inbox? Sign up here It was billed as one of the largest…",
    "published": "2026-09-30T14:45:43+00:00"
   },
   {
@@ -1317,17 +1636,6 @@
    "published": "2026-09-30T12:33:05+00:00"
   },
   {
-   "id": "aabef0343d74",
-   "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-   "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I have $152,000 in my IRA and Roth accounts.”",
-   "published": "2026-09-30T12:32:00+00:00"
-  },
-  {
    "id": "438aaa227e28",
    "title": "Voters back Burnham’s plan to cut back triple lock to fund social care reform by 48% to 28%, poll suggests – as it happened",
    "link": "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
@@ -1480,17 +1788,6 @@
    "flourishing_feed": false,
    "summary": "As reported by the Senate Committee on Health, Education, Labor and Pensions on August 5, 2026",
    "published": "2026-09-30T12:02:00+00:00"
-  },
-  {
-   "id": "0b4940ab8abc",
-   "title": "Top Trump figures push to direct human rights funding to rightwing causes",
-   "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Support for white Afrikaners, anti-communism and others reveals how US redefining what qualifies as human rights With hours left before the funding expires, the Trump administration is pushing to direct more than $175m of the state department’s flagship human rights fund to a…",
-   "published": "2026-09-30T12:00:42+00:00"
   },
   {
    "id": "d6c8ca6de2c7",
@@ -6419,17 +6716,6 @@
    "flourishing_feed": false,
    "summary": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents.",
    "published": "2026-09-29T12:43:04+00:00"
-  },
-  {
-   "id": "d90754976149",
-   "title": "Dolly Parton planned for her estate. The fight with her nephew shows why that matters.",
-   "link": "https://www.marketwatch.com/story/dolly-parton-planned-for-her-estate-the-fight-with-her-nephew-shows-why-that-matters-b7e57c26?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "It’s important to have guardrails around your legacy.",
-   "published": "2026-09-29T12:42:00+00:00"
   },
   {
    "id": "f587e8523cf1",
