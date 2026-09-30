@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T08:33:35.878173+00:00",
+ "generated": "2026-09-30T09:31:47.005785+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,26 +129,290 @@
  ],
  "items": [
   {
-   "id": "438aaa227e28",
-   "title": "Andy Burnham says rejoining the EU among all ‘the options’ being considered – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
+   "id": "45c848811327",
+   "title": "One group of funds is holding up the stock market. Barclays says oil prices have to fall to drive a year-end rally.",
+   "link": "https://www.marketwatch.com/story/one-group-of-funds-is-holding-up-the-stock-market-barclays-says-oil-prices-have-to-fall-to-drive-a-year-end-rally-c6d551f9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "The prime minister says he wants to open a debate about the UK’s future relationship with Europe Burnham wants to review the UK’s relationship with the EU. What are the options? From Brexit to electoral reform: key takeaways from Andy Burnham’s conference speech Andy Burnham…",
-   "published": "2026-09-30T08:27:54+00:00"
+   "summary": "Strategists at the bank said a rally at the end of the year would likely depend on oil prices lowering or stabilizing even as the historically best-performing quarter approaches.",
+   "published": "2026-09-30T09:20:00+00:00"
+  },
+  {
+   "id": "c206845a0aa6",
+   "title": "There’s a new Wall Street TACO index — and this one is saying it’s time for Trump to strike a deal",
+   "link": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "JPMorgan has devised a TACO barometer, referring to the expression Trump Always Chickens Out ,as a way to predict the behavior of the mercurial world leader.",
+   "published": "2026-09-30T09:16:00+00:00"
+  },
+  {
+   "id": "aabef0343d74",
+   "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+   "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I have $152,000 in my IRA and Roth accounts.”",
+   "published": "2026-09-30T09:15:00+00:00"
   },
   {
    "id": "a7d768dd51af",
-   "title": "Russia targets communications and energy facilities in overnight drone attacks on Ukraine - Europe live",
+   "title": "Belgium’s defence minister warns of ‘dark winter for Europe’ with more ‘hybrid warfare’ from Russia - Europe live",
    "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Kyiv mayor says debris had also been found at the site of a western embassy in the capital Belgian defence minister Theo Francken said “there will be more hybrid threat actions” in the coming months, as he starkly warned “it will be a dark winter for Europe.” Speaking at…",
-   "published": "2026-09-30T08:25:58+00:00"
+   "summary": "Theo Francken says bloc is in a ‘difficult position’ after recent increase in hybrid provocations from Moscow Meanwhile, with Brexit and the question of Britain’s relationship with the EU back in the spotlight in the UK, it’s worth picking up some fresh comments from France’s…",
+   "published": "2026-09-30T09:12:52+00:00"
+  },
+  {
+   "id": "7f3db7dc3a67",
+   "title": "Israel-bound passenger plane makes emergency landing in Saudi Arabia",
+   "link": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli media say incident, which raised fears of possible hijacking, stemmed from feud between plane’s two pilots A commercial plane travelling from Dubai in the United Arab Emirates to Israel has been forced to make an emergency landing in Saudi Arabia, briefly raising…",
+   "published": "2026-09-30T09:11:27+00:00"
+  },
+  {
+   "id": "438aaa227e28",
+   "title": "Burnham says UK ‘can’t afford another decade of post-Brexit drift’ as he leaves door open to rejoining the EU – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The PM says all ‘the options’ being considered and calls for an open debate about the UK’s future relationship with Europe Burnham: UK could ‘go all the way’ by rejoining EU Burnham wants to review the UK’s relationship with the EU. What are the options? Key takeaways from Andy…",
+   "published": "2026-09-30T09:05:24+00:00"
+  },
+  {
+   "id": "e16fa8268a8f",
+   "title": "Israel-bound flight diverted after fight between pilots",
+   "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out.",
+   "published": "2026-09-30T09:02:59+00:00"
+  },
+  {
+   "id": "fb42633dcce3",
+   "title": "Netflix stars Nick and Vanessa Lachey list $8.1 million L.A. home they bought from Naomi Osaka",
+   "link": "https://www.marketwatch.com/story/netflix-stars-nick-and-vanessa-lachey-list-8-1-million-l-a-home-they-bought-from-naomi-osaka-0cdb873b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "TV stars Nick and Vanessa Lachey are bidding farewell to their longtime “dream home,” listing the Tarzana property for $8.1 million as they prepare to leave California altogether.",
+   "published": "2026-09-30T09:02:00+00:00"
+  },
+  {
+   "id": "bb67b6f8a295",
+   "title": "A startup wants to build a massive nuclear-powered data center on public land in Utah",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5983482/valar-atomic-nuclear-data-center-project-beehive-utah",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Valar Atomics wants to place over 450 reactors on more than 9,500 acres in Utah to power a huge data center project.",
+   "published": "2026-09-30T09:01:00+00:00"
+  },
+  {
+   "id": "538ec35c95e5",
+   "title": "New Orleans judge files criminal case against CBS affiliate over reporting",
+   "link": "https://www.theguardian.com/us-news/2026/sep/30/new-orleans-judge-criminal-case-cbs-affiliate",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Kimya Holmes’ lawsuit over a news segment on a real-estate transaction invokes law that no longer exists A New Orleans state court judge filed a police complaint against a local CBS affiliate after it aired a segment scrutinizing a real-estate transaction in which she was…",
+   "published": "2026-09-30T09:00:23+00:00"
+  },
+  {
+   "id": "4a31b3933f01",
+   "title": "What do braids, cornrows and Bantu knots have to do with the news?",
+   "link": "https://indianacapitalchronicle.com/2026/09/30/what-do-braids-cornrows-and-bantu-knots-have-to-do-with-the-news/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Black journalists on TV have had to think about their appearance on air in ways that other journalists do not. In August 2020, broadcast journalist Jalea Brooks knew she needed to have an uncomfortable conversation with her news director about her hair. She had been working in…",
+   "published": "2026-09-30T09:00:21+00:00"
+  },
+  {
+   "id": "b3be7d009b60",
+   "title": "At the bookend of summer, here are September’s best reads",
+   "link": "https://www.csmonitor.com/Arts-Culture/Books/2026/0930/At-the-bookend-of-summer-here-are-September-s-best-reads?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Monitor reviewers recommend titles by Emily St. John Mandel, Min Jin Lee, and Paul Theroux.",
+   "published": "2026-09-30T09:00:11+00:00"
+  },
+  {
+   "id": "2e8245eabf9e",
+   "title": "No fines against Indiana retailers so far for SNAP violations",
+   "link": "https://indianacapitalchronicle.com/2026/09/30/no-fines-against-indiana-retailers-so-far-for-snap-violations/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "No Indiana retailers have been fined since the state banned the purchase of candy or soda using Supplemental Nutrition Assistance Program benefits. A spokesperson for the U.S. Department of Agriculture’s Food and Nutrition Administration said the agency has taken action 61…",
+   "published": "2026-09-30T09:00:03+00:00"
+  },
+  {
+   "id": "17191a2d9bf4",
+   "title": "Hogsett rode ‘Mr. Clean’ image into office. Did he deliver on ethics promises?",
+   "link": "https://mirrorindy.org/indianapolis-mayor-joe-hogsett-broken-promises-mr-clean/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The mayor would not assess his own record. So we did it for him. The post Hogsett rode ‘Mr. Clean’ image into office. Did he deliver on ethics promises? appeared first on Mirror Indy .",
+   "published": "2026-09-30T09:00:00+00:00"
+  },
+  {
+   "id": "c14ef876f18e",
+   "title": "Where to grab a copy of Mirror Indy’s 2026 election zine",
+   "link": "https://mirrorindy.org/indiana-general-election-2026-election-zine-voter-guide/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Learn how voting works, what your rights are and what candidates really do. The post Where to grab a copy of Mirror Indy’s 2026 election zine appeared first on Mirror Indy .",
+   "published": "2026-09-30T09:00:00+00:00"
+  },
+  {
+   "id": "899c8579fe52",
+   "title": "What's behind HHS claims that gender-affirming care 'may' radicalize",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5962843/hhs-study-gender-ideology-flaws-missing-context",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The report is the agency's latest effort to chip away at trust in established health care models for transgender people. Critics say it frames transgender identity as illegitimate or even dangerous.",
+   "published": "2026-09-30T09:00:00+00:00"
+  },
+  {
+   "id": "7edaf1d96537",
+   "title": "Drugs are widely used to sedate dementia patients. Her sons wanted to keep her off them",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5980081/memory-drugs-brain-aging-dementia",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Potent sedating medications are often used on agitated people with dementia in long-term care facilities despite federal efforts to discourage them. A clash over whether to drug a Michigan woman illuminates the wrenching decisions families and guardians face.",
+   "published": "2026-09-30T09:00:00+00:00"
+  },
+  {
+   "id": "c9aad8419bb5",
+   "title": "The 2026 Student Podcast Challenge Honorable Mentions",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5984991/student-podcast-challenge-2026-honorable-mentions",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Here are the honorable mentions from this year's Student Podcast Challenge, chosen from nearly 1,500 entries.",
+   "published": "2026-09-30T09:00:00+00:00"
+  },
+  {
+   "id": "7e6f185776e3",
+   "title": "The moment you've been waiting for: America's best student podcasts",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5930430/student-podcast-challenge-2026-finalists",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "We've listened to nearly 1,500 podcasts from all around the U.S. and narrowed them down to 10 middle school and 10 high school finalists.",
+   "published": "2026-09-30T09:00:00+00:00"
+  },
+  {
+   "id": "1f2fdbfa3777",
+   "title": "Foster care often fails kids with disabilities. Consider these cases",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5534203/foster-care-disabilities-children-bad-outcomes",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Disabled kids make up the largest group in foster care. They have the worst outcomes. They stay in foster care longest. They're the most likely to die.",
+   "published": "2026-09-30T09:00:00+00:00"
+  },
+  {
+   "id": "3af7dc6e029e",
+   "title": "One year after the end of the EV tax credit, is the future still electric?",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5979915/ev-hybrid-sales-2026-federal-tax-credit",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Congress got rid of a $7,500 federal tax credit for new electric vehicle buyers. One year later, are people still buying EVs?",
+   "published": "2026-09-30T09:00:00+00:00"
+  },
+  {
+   "id": "2b5b6d6237f8",
+   "title": "Montana starts enforcing Medicaid work requirements on Oct 1. Patients are confused",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5946766/montana-early-medicaid-work-requirements-patients-confused",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In most states, people with Medicaid coverage will have to prove they're working, volunteering or studying, starting Jan. 1. But Montana is starting that early, and it's sowing confusion and anxiety.",
+   "published": "2026-09-30T09:00:00+00:00"
+  },
+  {
+   "id": "7153cf749eef",
+   "title": "A Girl Nearly Died After Drinking Raw Milk. The State Did Little to Punish the Unlicensed Farmer Who Sold It.",
+   "link": "https://www.propublica.org/article/california-raw-milk-regulation-emily-marris-moonlight-ridge-farm",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post A Girl Nearly Died After Drinking Raw Milk. The State Did Little to Punish the Unlicensed Farmer Who Sold It. appeared first on ProPublica .",
+   "published": "2026-09-30T09:00:00+00:00"
+  },
+  {
+   "id": "a365546dd6a0",
+   "title": "UK‘s PM Burnham sets out plans to reshape public services",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/uks-pm-burnham-sets-out-plans-to-reshape-public-services?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "UK's PM Andy Burnham is promising a major improvement to public services including social care, housing and energy.",
+   "published": "2026-09-30T08:48:59+00:00"
+  },
+  {
+   "id": "a20db36fde0e",
+   "title": "Greggs announces plans to shut four UK factories that could cost 740 jobs",
+   "link": "https://www.theguardian.com/business/2026/sep/30/greggs-to-close-four-uk-factories-with-potential-for-740-job-losses",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bakery chain says move is necessary to provide growth in the ‘most cost-efficient manner’ Business live – latest updates Greggs has announced plans to close four of its factories, in a move that could result in 740 job losses over the next two and a half years. The bakery chain…",
+   "published": "2026-09-30T08:46:29+00:00"
+  },
+  {
+   "id": "c2ff0501f2c0",
+   "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
+   "link": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In the emotional letter, the judge describes the survivor as \"the bravest little girl this court has ever seen\".",
+   "published": "2026-09-30T08:45:45+00:00"
   },
   {
    "id": "4b1aadbd1c54",
@@ -159,7 +423,51 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "Beneath the languished moves in the main stock-market indexes, there were some disturbing features.",
-   "published": "2026-09-30T08:25:00+00:00"
+   "published": "2026-09-30T08:42:00+00:00"
+  },
+  {
+   "id": "1d72dcfdd52a",
+   "title": "Hijabi students turned away from school in Azerbaijan",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/hijabi-students-turned-away-from-school-in-azerbaijan?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Female students leave a school in Azerbaijan after reportedly being denied entry for wearing headscarves.",
+   "published": "2026-09-30T08:41:41+00:00"
+  },
+  {
+   "id": "33b620fafe08",
+   "title": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
+   "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The murders of 12 women near Johannesburg has caused a outcry about the scale of violence against women.",
+   "published": "2026-09-30T08:40:01+00:00"
+  },
+  {
+   "id": "b860a7cc6749",
+   "title": "As ration cuts bite, Malawi’s refugees lose vital lifelines",
+   "link": "https://www.thenewhumanitarian.org/first-person/2026/09/30/ration-cuts-bite-malawis-refugees-lose-vital-lifelines",
+   "source": "The New Humanitarian",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An $8 payment barely covers a week’s needs. From inside Dzaleka, a refugee describes life as food aid, jobs, and other lifelines disappear.",
+   "published": "2026-09-30T08:35:17+00:00"
+  },
+  {
+   "id": "84ab4c1f0a57",
+   "title": "Africa's richest man to launch Kenya oil refinery despite land protests",
+   "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
+   "published": "2026-09-30T08:12:43+00:00"
   },
   {
    "id": "07189016bb02",
@@ -213,7 +521,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Airline says plane experiences 'incident' en route from Dubai to Tel Aviv, lands safely at Saudi Arabia's Tabuk airport.",
+   "summary": "Airline says plane experiences an 'incident' en route from Dubai to Tel Aviv, lands safely at Saudi Arabia's Tabuk airport.",
    "published": "2026-09-30T08:00:10+00:00"
   },
   {
@@ -224,7 +532,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Ex-Asda boss Andy Bond linked to plan, with buyout team understood to be negotiating with financial backer Poundland’s management team are in “advanced talks” to lead a rescue bid for the ailing cut-price retailer that could save more than 11,000 jobs. The former Asda boss Andy…",
+   "summary": "Ex-Asda boss Andy Bond linked to plan, with buyout team understood to be negotiating with financial backer Poundland’s management team are in “advanced talks” to lead a rescue bid for the ailing cut-price retailer that could save up to 11,000 jobs. The former Asda boss Andy…",
    "published": "2026-09-30T07:57:43+00:00"
   },
   {
@@ -248,17 +556,6 @@
    "flourishing_feed": false,
    "summary": "Minister tells Guardian of trade-offs Kyiv facing as it tries to keep normal life moving amid Russian strikes Missile alerts are costing Ukraine an estimated $45m (£34m) for every hour they bring business to a halt, according to the country’s economy minister, as Kyiv searches…",
    "published": "2026-09-30T07:52:53+00:00"
-  },
-  {
-   "id": "e16fa8268a8f",
-   "title": "Israel-bound flight diverted after fight between pilots",
-   "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out.",
-   "published": "2026-09-30T07:51:26+00:00"
   },
   {
    "id": "ab1c77fe1f5c",
@@ -444,7 +741,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Cap poised to rise by 16% to equivalent of £1,999 for dual-fuel bill, the biggest quarterly increase since January 2023 Household energy bills in Great Britain are predicted to soar by £276 a year for the typical household from January as the impact of the Middle East war…",
+   "summary": "Cap poised to rise by 16% to equivalent of £1,999 for dual-fuel bill, the biggest quarterly increase since January 2023 Household energy bills in Great Britain are predicted to reach almost £2,000 a year for the typical household from January as the impact of the Middle East…",
    "published": "2026-09-30T06:17:33+00:00"
   },
   {
@@ -1381,17 +1678,6 @@
    "flourishing_feed": false,
    "summary": "Security force members deployed to Haiti have struggled to make progress against criminal groups as violence continues.",
    "published": "2026-09-29T22:38:10+00:00"
-  },
-  {
-   "id": "33b620fafe08",
-   "title": "South Africa to clean up high-risk areas after 12 women killed",
-   "link": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The deaths sparked a national outcry about the scale of violence against women in the country.",
-   "published": "2026-09-29T22:33:39+00:00"
   },
   {
    "id": "8269364aa4c8",
