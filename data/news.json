@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T02:28:42.902922+00:00",
+ "generated": "2026-09-30T03:30:45.948591+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,26 +129,114 @@
  ],
  "items": [
   {
+   "id": "7ce9cd643951",
+   "title": "ABC finance journalist Alan Kohler to retire after three decades as Jim Chalmers says he will be ‘really missed’",
+   "link": "https://www.theguardian.com/media/2026/sep/30/abc-finance-journalist-alan-kohler-to-retire-after-three-decades-as-jim-chalmers-says-he-will-be-really-missed",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 74-year-old says he is leaving to spend more time with his family, including his six grandchildren Financial journalist Alan Kohler, a familiar face on the ABC’s 7pm news bulletin, will retire in December after three decades as the public broadcaster’s highly-respected…",
+   "published": "2026-09-30T03:28:23+00:00"
+  },
+  {
+   "id": "7ceb1f139d05",
+   "title": "High school girls volleyball: Twin outside hitters lead Syracuse over Skyline",
+   "link": "https://www.deseret.com/sports/2026/09/29/high-school-girls-volleyball-skyline-syracuse/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Syracuse wasted no time getting into its system and setting the pace in Tuesday’s game with Skyline. The Titans played clean and took an early lead. However, the Eagles crawled back to win the first set. Syracuse then answered with back-to-back-to-back set wins for a 3-1 win,…",
+   "published": "2026-09-30T03:23:54+00:00"
+  },
+  {
+   "id": "b4989f4ae871",
+   "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+   "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
+   "published": "2026-09-30T03:23:17+00:00"
+  },
+  {
+   "id": "234ce95f9b75",
+   "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
+   "link": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river.",
+   "published": "2026-09-30T03:21:28+00:00"
+  },
+  {
    "id": "f8a914f89262",
-   "title": "News live: David Shoebridge voted new Greens leader; inflation climbs to 4% in year to August",
+   "title": "Australia news live: Chalmers blames inflation on high fuel costs and end of energy rebates; Faruqi ‘disappointed’ after Greens ballot",
    "link": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Who is potential Greens deputy leader candidate Steph Hodgins-May? So who is the first-term senator expected to announce a leadership ticket tilt with David Shoebridge ? Get your dirty hands…",
-   "published": "2026-09-30T02:14:39+00:00"
+   "published": "2026-09-30T03:18:59+00:00"
   },
   {
    "id": "3abf11cb88b5",
-   "title": "David Shoebridge elected new Greens leader after pledging to ‘replace’ Labor",
+   "title": "David Shoebridge says ‘we’re here to replace Labor’ in first remarks after being elected new Greens leader",
    "link": "https://www.theguardian.com/australia-news/2026/sep/30/david-shoebridge-greens-leadership-steph-hodgins-may-retreat-larissa-waters",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Shoebridge, a senator from New South Wales and former upper house state MP, won the role over Mehreen Faruqi and Sarah Hanson-Young Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast David Shoebridge has been…",
-   "published": "2026-09-30T02:04:17+00:00"
+   "summary": "Shoebridge, a senator from New South Wales and former upper house state MP, won the role over Mehreen Faruqi and Sarah Hanson-Young Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast David Shoebridge has declared…",
+   "published": "2026-09-30T02:47:50+00:00"
+  },
+  {
+   "id": "2ec66c0d1551",
+   "title": "Somali pirates killed five crew members on hijacked tanker, officials say",
+   "link": "https://www.aljazeera.com/news/2026/9/30/somali-pirates-killed-five-crew-members-on-hijacked-tanker-officials-say?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The deaths appear to be the first at the hands of Somali pirates in more than a decade.",
+   "published": "2026-09-30T02:39:06+00:00"
+  },
+  {
+   "id": "44999684eecd",
+   "title": "US Senate blocks resolution seeking report on Americans killed in West Bank",
+   "link": "https://www.aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The resolution cites a 'lack of accountability' by Israel's government and an 'inability to secure justice' by the US.",
+   "published": "2026-09-30T02:26:20+00:00"
+  },
+  {
+   "id": "8999b90cb3a2",
+   "title": "Protesters block Orange Order march in Northern Ireland",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/protesters-block-orange-order-march-in-northern-ireland?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Protesters block Orange Order route into Catholic area of Portadown after court allows march for first time in 28 years.",
+   "published": "2026-09-30T02:23:09+00:00"
+  },
+  {
+   "id": "1cd49982ae05",
+   "title": "King appoints Morocco’s first female prime minister",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/king-appoints-moroccos-first-female-prime-minister-2?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Morocco’s King Mohammed VI has named Marrakesh’s long-time mayor as the country’s first female prime minister.",
+   "published": "2026-09-30T02:13:07+00:00"
   },
   {
    "id": "02e4e5b39988",
@@ -383,13 +471,13 @@
   },
   {
    "id": "e4cdb8d063c8",
-   "title": "Trump, top tech firms sign accord to ‘self-police’ AI development",
+   "title": "Trump, tech bosses sign voluntary pact pledging ‘robust’ AI safeguards",
    "link": "https://www.aljazeera.com/news/2026/9/29/trump-top-tech-firms-sign-accord-to-self-police-ai-development?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Accord says companies will implement 'robust internal controls' for their AI systems as concerns mount over safety.",
+   "summary": "Trump touts self-regulation amid calls for formal rules by international community and industry .",
    "published": "2026-09-29T23:43:32+00:00"
   },
   {
@@ -603,13 +691,13 @@
   },
   {
    "id": "8269364aa4c8",
-   "title": "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
+   "title": "Six Flags shuts down X2 rollercoaster after more than 100 allege brain injuries",
    "link": "https://www.bbc.co.uk/news/articles/cw14d37446d8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The announcement comes after multiple lawsuits alleged that hundreds of riders suffered brain injuries from X2, a ride with seats that spin 360 degrees.",
+   "summary": "Hundreds of riders were allegedly injured on X2, which has seats that spin 360 degrees.",
    "published": "2026-09-29T22:33:13+00:00"
   },
   {
