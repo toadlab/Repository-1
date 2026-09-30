@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T06:37:02.738478+00:00",
+ "generated": "2026-09-30T07:32:44.346785+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 34
+   "count": 29
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,147 @@
  ],
  "items": [
   {
+   "id": "5973c435ff36",
+   "title": "David Shoebridge wants the Greens to ‘seize this moment’. Is his more combative style the answer?",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/30/australian-greens-david-shoebridge-new-leader-style-analysis",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "New leader says his party must connect with millions of disaffected voters and ‘make them believe in politics again’ Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast As One Nation’s polling surged this year, and…",
+   "published": "2026-09-30T07:12:22+00:00"
+  },
+  {
    "id": "f8a914f89262",
-   "title": "Australia news live: five-year-old seriously injured after being struck by ebike rider in Sydney",
+   "title": "Australia news live: Peugeot recalls hundreds of cars in Australia over issue that could increase ‘risk of serious injury or death’",
    "link": "https://www.theguardian.com/australia-news/live/2026/sep/30/labor-anthony-albanese-coalition-polling-new-greens-leader-openai-hack-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Who is potential Greens deputy leader candidate Steph Hodgins-May? So who is the first-term senator expected to announce a leadership ticket tilt with David Shoebridge ? Get your dirty hands…",
-   "published": "2026-09-30T06:22:15+00:00"
+   "published": "2026-09-30T07:09:22+00:00"
+  },
+  {
+   "id": "293ce3c26c6b",
+   "title": "An 87-year-old woman whose eviction sparked protests in Spain is returning home",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5985703/woman-eviction-protests-spain",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "María del Carmen Abascal's case has drawn tens of thousands of people to the streets in recent days and led the Spanish government to present measures to address the country's housing crisis.",
+   "published": "2026-09-30T07:07:42+00:00"
+  },
+  {
+   "id": "438aaa227e28",
+   "title": "Andy Burnham says rejoining the EU among all ‘the options’ being considered – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The prime minister says he wants to open a debate about the UK’s future relationship with Europe Burnham wants to review the UK’s relationship with the EU. What are the options? From Brexit to electoral reform: key takeaways from Andy Burnham’s conference speech According to…",
+   "published": "2026-09-30T07:04:23+00:00"
+  },
+  {
+   "id": "9f4a9e7ec413",
+   "title": "Sixteen English councils spend more than 80% of core funding on social care",
+   "link": "https://www.theguardian.com/society/2026/sep/30/councils-core-spending-social-care-england",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Councils collectively spent record 71.9% of core spending on adult and children’s care last year, analysis shows Sixteen English councils spent more than 80% of their core funding on adult and children’s social care last year, highlighting the growing financial pressure on…",
+   "published": "2026-09-30T07:00:13+00:00"
+  },
+  {
+   "id": "db4d5dbe845b",
+   "title": "The Scientific Republic | Interview: Tony Mills",
+   "link": "https://thedispatch.com/podcast/remnant/the-scientific-republic-interview-tony-mills/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "‘Glandular, neurotic, and weird.’",
+   "published": "2026-09-30T07:00:00+00:00"
+  },
+  {
+   "id": "95c3714c568d",
+   "title": "Open Thread",
+   "link": "https://reason.com/volokh/2026/09/30/open-thread-343/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What’s on your mind?",
+   "published": "2026-09-30T07:00:00+00:00"
+  },
+  {
+   "id": "7cd7461a8ced",
+   "title": "Gentle giant Backpack wins Alaska’s Fat Bear Week",
+   "link": "https://www.aljazeera.com/news/2026/9/30/gentle-giant-backpack-declared-the-winner-of-alaskas-fat-bear-week?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The contest celebrates the resilience of the 2,200 brown bears that live in the preserve on the Alaska Peninsula.",
+   "published": "2026-09-30T06:57:52+00:00"
+  },
+  {
+   "id": "07e49402e096",
+   "title": "Trump says top tech firms have signed accord to 'self-police' AI development",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5985699/trump-self-police-ai-development",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Trump on Tuesday said that he and a large group of leaders of artificial intelligence companies had signed a voluntary accord that will include internal and external reviews.",
+   "published": "2026-09-30T06:54:43+00:00"
+  },
+  {
+   "id": "72cc7c59c72c",
+   "title": "Trump calls Kim Jong Un a ‘friend’ and plays down N Korea’s nuclear arsenal",
+   "link": "https://www.aljazeera.com/news/2026/9/30/trump-calls-kim-jong-un-a-friend-and-plays-down-n-koreas-nuclear-arsenal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US president's comments came after he was asked why North Korea can have nuclear weapons when Iran cannot.",
+   "published": "2026-09-30T06:48:09+00:00"
+  },
+  {
+   "id": "10d4e961e31f",
+   "title": "Somali pirates killed oil tanker crew before rescue, official tells BBC",
+   "link": "https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Piracy off the Somali coast has increased in recent years after dropping when international naval operations began in 2011.",
+   "published": "2026-09-30T06:41:35+00:00"
+  },
+  {
+   "id": "89e09b2b63bd",
+   "title": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’",
+   "link": "https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "AI giant launches 'dots' to rival Meta's Muse and Google's Gemini Spark.",
+   "published": "2026-09-30T06:29:57+00:00"
+  },
+  {
+   "id": "8491c10400a2",
+   "title": "India’s Ujjain tense as mosque partially demolished for Hindu pilgrimage",
+   "link": "https://www.aljazeera.com/news/2026/9/30/indias-ujjain-tense-as-mosque-partially-demolished-for-hindu-pilgrimage?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fearing outright demolition, Muslims volunteer to take down parts of the city's Shahi Mosque themselves.",
+   "published": "2026-09-30T06:25:39+00:00"
   },
   {
    "id": "282de1ffd77e",
@@ -147,7 +279,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Cap poised to rise by 16% to equivalent of £1,999 for dual-fuel bill as impact of Iran war puts squeeze on homes Household energy bills in Great Britain are predicted to soar by £276 a year for the typical household from January as the impact of the Middle East war continues…",
+   "summary": "Cap poised to rise by 16% to equivalent of £1,999 for dual-fuel bill, the biggest quarterly increase since January 2023 Household energy bills in Great Britain are predicted to soar by £276 a year for the typical household from January as the impact of the Middle East war…",
    "published": "2026-09-30T06:17:33+00:00"
   },
   {
