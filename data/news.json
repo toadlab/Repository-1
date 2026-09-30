@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T10:31:37.135468+00:00",
+ "generated": "2026-09-30T11:29:02.109627+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 30
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "name": "Congressional Budget Office",
@@ -129,6 +129,325 @@
  ],
  "items": [
   {
+   "id": "8c8d0e7cdafa",
+   "title": "Anonymous Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-43",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 07:28 Anonymous Ryan Vinzent <ryan.vinzent@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/30/2026 - 12:00 Comment File Anonymous_rv_26-15_9.22.2026_Redacted.pdf",
+   "published": "2026-09-30T11:28:42+00:00"
+  },
+  {
+   "id": "7ff506143712",
+   "title": "Anonymous Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-42",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 07:25 Anonymous Emmanuel Esekwe <eesekwe@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/30/2026 - 12:00 Comment File Anonymous_ee_26-15_9.22.2026_Redacted.pdf",
+   "published": "2026-09-30T11:25:33+00:00"
+  },
+  {
+   "id": "84ab4c1f0a57",
+   "title": "Africa's richest man launches Kenya oil refinery despite land protests",
+   "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
+   "published": "2026-09-30T11:25:12+00:00"
+  },
+  {
+   "id": "92ddce47579e",
+   "title": "John Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/john-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "John Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 07:20 John john stewart <hn.stewart.john@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/30/2026 - 12:00 Comment File John_26-15_9.22.2026_Redacted.pdf",
+   "published": "2026-09-30T11:20:35+00:00"
+  },
+  {
+   "id": "291a9479a601",
+   "title": "‘I’m afraid of human stupidity.’ Why this top economist prefers U.S. tech and gold over bonds.",
+   "link": "https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A prominent economist doesn’t fear artificial intelligence, but fully embraces it in portfolios. He feels far differently about government debt.",
+   "published": "2026-09-30T11:20:00+00:00"
+  },
+  {
+   "id": "54fe14e8cd51",
+   "title": "N Korea and S Korea exchange threats over DMZ blast",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/n-korea-and-s-korea-exchange-threats-over-dmz-blast?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A landmine explosion which injured three South Korean soldiers in the Korean Demilitarized Zone last week.",
+   "published": "2026-09-30T11:19:10+00:00"
+  },
+  {
+   "id": "16463fb011bd",
+   "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+   "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
+   "published": "2026-09-30T11:13:17+00:00"
+  },
+  {
+   "id": "e9ebe6d6fb2b",
+   "title": "Citi tells investors it’s time to sell Moderna after 600%-plus stock gains",
+   "link": "https://www.marketwatch.com/story/citi-tells-investors-its-time-to-sell-moderna-after-600-plus-stock-gains-84cb9b62?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Revenue and profit forecasts fail to justify the hype baked into Moderna’s share price, according to Citi’s analysts.",
+   "published": "2026-09-30T11:12:00+00:00"
+  },
+  {
+   "id": "7f3db7dc3a67",
+   "title": "Israel-bound passenger plane makes emergency landing in Saudi Arabia after reported fight between pilots",
+   "link": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli media say incident, which raised fears of possible hijacking, stemmed from feud between plane’s two pilots A commercial plane travelling from Dubai in the United Arab Emirates to Israel has been forced to make an emergency landing in Saudi Arabia, after an apparent…",
+   "published": "2026-09-30T11:11:58+00:00"
+  },
+  {
+   "id": "438aaa227e28",
+   "title": "Voters back Burnham’s plan to cut back triple lock to fund social care reform by 48% to 28%, poll suggests – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The data suggest Burnham may be able to win the argument with the public amid lobbying efforts Andy Burnham has suggested that it would not be legitimate for a party to form a majority government with less than 30% of the vote. In his Today interview, asked why he wanted…",
+   "published": "2026-09-30T11:10:20+00:00"
+  },
+  {
+   "id": "50a87abef125",
+   "title": "AI tool that copied actor’s ‘lustrous’ voice violated his rights, says Tokyo court",
+   "link": "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Kenjiro Tsuda wins case against TikTok account in landmark verdict to protect publicity rights A court in Japan has ruled that the human voice has legal protection after a landmark case involving a well known actor and a TikTok account whose AI -generated videos, he claimed,…",
+   "published": "2026-09-30T11:09:52+00:00"
+  },
+  {
+   "id": "fb81e0c5f411",
+   "title": "Iranian singer’s 74 lashes for performing without a hijab ‘a form of torture’, say rights groups",
+   "link": "https://www.theguardian.com/global-development/2026/sep/30/iranian-singer-74-lashes-parastoo-ahmadi-performing-without-hijab-torture",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Iranian court upholds sentence against 29-year-old star Parastoo Ahmadi and other musicians in crackdown on women flouting hijab law An Iranian court’s decision to uphold a sentence of 74 lashes against the popular singer Parastoo Ahmadi for performing without a hijab has…",
+   "published": "2026-09-30T11:09:00+00:00"
+  },
+  {
+   "id": "0079163ac18c",
+   "title": "The October 7 warnings threatening Netanyahu’s Israeli election campaign",
+   "link": "https://www.aljazeera.com/news/2026/9/30/the-october-7-warnings-threatening-netanyahus-israel-election-campaign?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Netanyahu faces continued pressure over alleged warnings before the 2023 Hamas attack as October 27 elections draw near.",
+   "published": "2026-09-30T11:03:01+00:00"
+  },
+  {
+   "id": "e77f228cfe77",
+   "title": "Couple describes relief at rescue after whale destroys their yacht",
+   "link": "https://www.bbc.co.uk/news/videos/c6n4ken4n7n7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jeremy and Gemma Cooper were 500 miles off the coast of New Zealand when their yacht, the Tai Tam, collided with a sperm whale.",
+   "published": "2026-09-30T11:01:58+00:00"
+  },
+  {
+   "id": "8707dc8dba50",
+   "title": "What’s behind French student protests that turned violent?",
+   "link": "https://www.aljazeera.com/news/2026/9/30/whats-behind-french-student-protests-that-turned-violent?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The school protests coincide with public sector strikes over planned budget cuts.",
+   "published": "2026-09-30T11:01:19+00:00"
+  },
+  {
+   "id": "11fcd08397e1",
+   "title": "‘We no longer eat three meals’: Yemen’s displaced face daily fight for food",
+   "link": "https://www.aljazeera.com/news/2026/9/30/we-no-longer-eat-three-meals-yemens-displaced-face-daily-fight-for-food?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Yemen's latest fighting has redrawn front lines after more than a decade of war, deepening hunger and displacement.",
+   "published": "2026-09-30T11:01:10+00:00"
+  },
+  {
+   "id": "7c04eabfec06",
+   "title": "Today in Supreme Court History: September 30, 1857",
+   "link": "https://reason.com/volokh/2026/09/30/today-in-supreme-court-history-september-30-1857-7/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "9/30/1857: Justice Benjamin Robbins Curtis resigns from the Supreme Court after Dred Scott v. Sandford (1857). The post Today in Supreme Court History: September 30, 1857 appeared first on Reason Magazine.",
+   "published": "2026-09-30T11:00:47+00:00"
+  },
+  {
+   "id": "6dcb40100570",
+   "title": "Filing Taxes Will Cost Americans $544 Billion This Year",
+   "link": "https://reason.com/2026/09/30/filing-taxes-will-cost-americans-544-billion-this-year/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The complexity and burden of the tax code add insult to injury.",
+   "published": "2026-09-30T11:00:46+00:00"
+  },
+  {
+   "id": "6ed1b1f783a6",
+   "title": "California rushes to prepare for massive ‘Kelvin’ wave and predicted sea level rise",
+   "link": "https://www.theguardian.com/us-news/2026/sep/30/california-kelvin-wave-sea-level-rise",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Wave nearing southern California expected to reach San Francisco Bay Area by October as it crawls toward Alaska Communities across California are rushing to prepare for the imminent arrival of the so-called “Kelvin wave”, a massive underwater band of warm water threatening to…",
+   "published": "2026-09-30T11:00:39+00:00"
+  },
+  {
+   "id": "52234bc9cfd7",
+   "title": "What will happen to Man City after the Premier League’s guilty verdict?",
+   "link": "https://www.aljazeera.com/sports/2026/9/30/what-will-happen-to-man-city-after-the-premier-leagues-guilty-verdict?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Man City found guilty of breaching Premier League financial rules. What happens next, and could they be relegated?",
+   "published": "2026-09-30T11:00:37+00:00"
+  },
+  {
+   "id": "e9a8e72a24dc",
+   "title": "Travel plans? Here's what to know as measles exposures reach trains and games",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5978940/traveling-measles-exposure-vaccines-transportation",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Measles is traveling, with outbreaks in Pennsylvania, Ohio and New York, and exposures on transportation and in sports. What should you know before getting on a plane or train?",
+   "published": "2026-09-30T11:00:00+00:00"
+  },
+  {
+   "id": "e9353dbf003a",
+   "title": "Georg Schweyen Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/georg-schweyen-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Georg Schweyen Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 06:58 Georg Schweyen Georg Schweyen <gschweyen@aol.com> Regulatory Notice 26-15 Core Official Date Tue, 09/22/2026 - 12:00 Comment File Georg Schweyen_26-15_9.22.2026.pdf",
+   "published": "2026-09-30T10:58:33+00:00"
+  },
+  {
+   "id": "1e03211ee167",
+   "title": "Anonymous Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-41",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 06:58 Anonymous soccerstewart3@gmail.com Regulatory Notice 26-15 Core Official Date Tue, 09/22/2026 - 12:00 Comment File Anonymous_ss_26-15_9.22.2026_Redacted.pdf",
+   "published": "2026-09-30T10:58:11+00:00"
+  },
+  {
+   "id": "a7d768dd51af",
+   "title": "Belgium’s defence minister warns of ‘dark winter for Europe’ with more ‘hybrid warfare’ from Russia - Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Speaking at same Euronews summit Dutch defence chief also warned Europe ‘faces window of vulnerability until 2030’ Lithuanian chief of defence Raimundas Vaikšnoras issued a similar warning about Russia’s escalating actions in Europe. He said: “ We often imagine that war begins…",
+   "published": "2026-09-30T10:51:12+00:00"
+  },
+  {
+   "id": "cbcc5b414c5e",
+   "title": "We need ‘right to intervene’ in AI amid growing threat, says Bank of England boss",
+   "link": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Andrew Bailey’s comments come as fears grow that rogue models could take financial system hostage Business live – latest updates The governor of the Bank of England has said authorities must retain the “right to intervene” in the AI industry amid growing fears that rogue models…",
+   "published": "2026-09-30T10:41:58+00:00"
+  },
+  {
+   "id": "f40468ae844b",
+   "title": "Luxury prison in Indonesia demolished after public outcry",
+   "link": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Indonesian lawmakers on Wednesday ordered the demolition of a controversial luxury compound inside a penitentiary near the capital.",
+   "published": "2026-09-30T10:41:03+00:00"
+  },
+  {
+   "id": "6176545b6361",
+   "title": "Boeing was at risk of losing all fighter-jet production altogether. Now the stock is up on a new Navy contract.",
+   "link": "https://www.marketwatch.com/story/boeing-was-at-risk-of-losing-all-fighter-jet-production-altogether-now-the-stock-is-up-on-a-new-navy-contract-ffb625b2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Shares in the aerospace company rose close to 3% in premarket trading on Wednesday after the U.S. Navy selected it to develop its next-generation fighter jet.",
+   "published": "2026-09-30T10:38:00+00:00"
+  },
+  {
+   "id": "36e869d2776a",
+   "title": "Former American Idol contestant found guilty of murdering wife",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/former-american-idol-contestant-found-guilty-of-murdering-wife?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former American Idol contestant found guilty of murdering wife",
+   "published": "2026-09-30T10:35:55+00:00"
+  },
+  {
+   "id": "fd539e0491a5",
+   "title": "Europe’s Populists Near Power",
+   "link": "https://thedispatch.com/newsletter/morning/europes-populists-near-power/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: Jack Smith defends charging Trump before a Senate panel, consumer confidence falls to its lowest level since 2014, and no more Pop-Tart BuzzBallz",
+   "published": "2026-09-30T10:32:39+00:00"
+  },
+  {
    "id": "d70306b5d822",
    "title": "Trump tried to make burgers cheaper. It backfired spectacularly.",
    "link": "https://www.vox.com/politics/504593/trump-beef-prices-ranchers-iowa-kansas-polls",
@@ -140,15 +459,15 @@
    "published": "2026-09-30T10:30:00+00:00"
   },
   {
-   "id": "438aaa227e28",
-   "title": "Yvette Cooper tells Labour conference ‘Sure Start’s back’ as she expands Healthy Babies programme – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "9d18272c3450",
+   "title": "Flydubai flight to Israel diverted to Saudi Arabia after emergency alert",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-flight-to-israel-diverted-to-saudi-arabia-after-emergency-alert-2?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Health secretary says government ‘will bring back the Sure Start health services into every family centre’ Andy Burnham has suggested that it would not be legitimate for a party to form a majority government with less than 30% of the vote. In his Today interview, asked why he…",
-   "published": "2026-09-30T10:26:53+00:00"
+   "summary": "A Flydubai plane travelling from Dubai to Israel made an emergency landing in Saudi Arabia.",
+   "published": "2026-09-30T10:29:39+00:00"
   },
   {
    "id": "f72cce282783",
@@ -163,7 +482,7 @@
   },
   {
    "id": "4b1aadbd1c54",
-   "title": "Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
+   "title": "Why Tuesday was one of the most disturbing days for markets in recent memory, according to a Goldman Sachs pro",
    "link": "https://www.marketwatch.com/story/tuesdays-market-moves-was-one-of-the-more-disturbing-days-of-late-says-goldman-sachs-pro-22abf406?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
@@ -182,17 +501,6 @@
    "flourishing_feed": false,
    "summary": "Deal aimed at deterring small boat arrivals set to end as talks stall over French demand for EU-wide scheme UK politics live – latest updates The UK government’s “one in one out” deal with France, which was supposed to help deter small boat arrivals, is expected to expire on…",
    "published": "2026-09-30T10:09:48+00:00"
-  },
-  {
-   "id": "7f3db7dc3a67",
-   "title": "Israel-bound passenger plane makes emergency landing in Saudi Arabia after reported fight between pilots",
-   "link": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Israeli media say incident, which raised fears of possible hijacking, stemmed from feud between plane’s two pilots A commercial plane travelling from Dubai in the United Arab Emirates to Israel has been forced to make an emergency landing in Saudi Arabia, after an apparent…",
-   "published": "2026-09-30T10:08:29+00:00"
   },
   {
    "id": "accb63aaad4d",
@@ -393,28 +701,6 @@
    "published": "2026-09-30T09:54:07+00:00"
   },
   {
-   "id": "a7d768dd51af",
-   "title": "Belgium’s defence minister warns of ‘dark winter for Europe’ with more ‘hybrid warfare’ from Russia - Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Theo Francken says bloc is in a ‘difficult position’ after recent increase in hybrid provocations from Moscow Ukraine’s president Volodymyr Zelenskyy said Ukraine faced “a difficult attack” from Russia overnight with “nearly 190 attack drones, as well as ballistic missiles.” “…",
-   "published": "2026-09-30T09:53:23+00:00"
-  },
-  {
-   "id": "84ab4c1f0a57",
-   "title": "Africa's richest man to launch Kenya oil refinery despite land protests",
-   "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
-   "published": "2026-09-30T09:49:53+00:00"
-  },
-  {
    "id": "d8ce22bc96db",
    "title": "Singapore launches matchmaking service for government workers",
    "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
@@ -471,13 +757,13 @@
   },
   {
    "id": "c206845a0aa6",
-   "title": "There’s a new Wall Street TACO index — and this one is saying it’s time for Trump to strike a deal",
+   "title": "There’s a new Wall Street ‘TACO’ index — and this one is saying it’s time for Trump to strike a deal",
    "link": "https://www.marketwatch.com/story/theres-a-new-wall-street-taco-index-and-this-one-is-saying-its-time-for-trump-to-strike-a-deal-c9ccb3fc?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "JPMorgan has devised a TACO barometer, referring to the expression Trump Always Chickens Out ,as a way to predict the behavior of the mercurial world leader.",
+   "summary": "JPMorgan has devised a “TACO” barometer, referring to the expression Trump Always Chickens Out, as a way to predict the behavior of the mercurial world leader.",
    "published": "2026-09-30T09:16:00+00:00"
   },
   {
@@ -526,7 +812,7 @@
   },
   {
    "id": "538ec35c95e5",
-   "title": "New Orleans judge files criminal case against CBS affiliate over reporting",
+   "title": "New Orleans judge files police complaint against CBS affiliate over reporting",
    "link": "https://www.theguardian.com/us-news/2026/sep/30/new-orleans-judge-criminal-case-cbs-affiliate",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -801,13 +1087,13 @@
   },
   {
    "id": "5f933cc7c275",
-   "title": "Poundland management in rescue talks that could save 11,000 jobs",
+   "title": "Poundland management in talks to lead bid that could save 11,000 jobs",
    "link": "https://www.theguardian.com/business/2026/sep/30/poundland-management-in-rescue-talks-that-could-save-11000-jobs",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Ex-Asda boss Andy Bond linked to plan, with buyout team understood to be negotiating with financial backer Poundland’s management team are in “advanced talks” to lead a rescue bid for the ailing cut-price retailer that could save up to 11,000 jobs. The former Asda boss Andy…",
+   "summary": "Ex-Asda boss Andy Bond linked to plan, with buyout team understood to be negotiating with financial backer Poundland’s management team are in “advanced talks” to lead a bid for the ailing cut-price retailer that could save up to 11,000 jobs. The former Asda boss Andy Bond, who…",
    "published": "2026-09-30T07:57:43+00:00"
   },
   {
@@ -1370,6 +1656,17 @@
    "flourishing_feed": false,
    "summary": "Exeter museum to host DJ’s ‘collaboration’ with woodland fungi and artist’s map of her own body’s mycobiome For one of the installations, a musician spent hours in woodland “collaborating” with fungi to create a soundscape inspired by the electricity they emit. Another is a…",
    "published": "2026-09-30T04:00:09+00:00"
+  },
+  {
+   "id": "ee65ca9ac437",
+   "title": "Trump Accounts",
+   "link": "https://www.federalregister.gov/documents/2026/09/30/2026-20026/trump-accounts",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "This document contains temporary regulations regarding general requirements for Trump accounts, the establishment of an initial Trump account (including automatic enrollment by the Secretary of the Treasury), and qualified general contributions (including qualified stock…",
+   "published": "2026-09-30T04:00:00+00:00"
   },
   {
    "id": "444704d7e859",
@@ -5757,7 +6054,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": true,
-   "summary": "Forest fires have ravaged Peru in recent years, but some Indigenous communities are actually seeing a decline. Meet the forest protectors of Paamari The post ‘The forest is life’: how Indigenous communities in Peru are preventing wildfires appeared first on Positive News .",
+   "summary": "Forest fires have ravaged Peru in recent years, but some Indigenous communities are seeing a decline. Meet the forest protectors of Paamari The post ‘The forest is life’: how Indigenous communities in Peru are preventing wildfires appeared first on Positive News .",
    "published": "2026-09-29T08:00:53+00:00"
   },
   {
