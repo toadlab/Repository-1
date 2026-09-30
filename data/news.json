@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T12:40:14.815614+00:00",
+ "generated": "2026-09-30T13:32:34.092590+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,369 @@
  ],
  "items": [
   {
+   "id": "87f4d1bd56db",
+   "title": "Ann J Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/ann-j-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Ann J Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 09:30 Ann J Ann J <ann@weaverdee.com> Regulatory Notice 26-15 Core Official Date Wed, 09/30/2026 - 12:00 Comment File Ann J_26-15_9.22.2026.pdf",
+   "published": "2026-09-30T13:30:52+00:00"
+  },
+  {
+   "id": "46e637fb80d2",
+   "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
+   "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
+   "published": "2026-09-30T13:30:00+00:00"
+  },
+  {
+   "id": "dd309b95e09b",
+   "title": "Anonymous Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-50",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 09:27 Anonymous Trav <trav6521@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/30/2026 - 12:00 Comment File Anonymous_tv_26-15_9.22.2026_Redacted.pdf",
+   "published": "2026-09-30T13:27:32+00:00"
+  },
+  {
+   "id": "28a51c2e4a2c",
+   "title": "Americans get back to their spending ways. Economy might be speeding up again.",
+   "link": "https://www.marketwatch.com/story/americans-get-back-to-their-spending-ways-economy-might-be-speeding-up-again-7884c424?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Consumer spending snapped back in August after a brief lull, adding to mounting evidence of an acceleration in the U.S. economy despite a series of strains.",
+   "published": "2026-09-30T13:24:00+00:00"
+  },
+  {
+   "id": "daf58ad9ec5f",
+   "title": "How Amazon’s stock can fight off the AI threat and soar 46%",
+   "link": "https://www.marketwatch.com/story/how-amazons-stock-can-fight-off-the-ai-threat-and-soar-46-5af77a03?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Some investors worry that AI agents pose a risk to Amazon, but a Rosenblatt analyst thinks the company “can navigate this period of transition largely unaffected.”",
+   "published": "2026-09-30T13:24:00+00:00"
+  },
+  {
+   "id": "a75874b3d5dd",
+   "title": "Why Israel is interfering in Palestinian education",
+   "link": "https://www.aljazeera.com/opinions/2026/9/30/why-israel-is-interfering-in-palestinian-education?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The occupation authorities are trying to censor Palestinian school curricula because they teach national consciousness.",
+   "published": "2026-09-30T13:22:33+00:00"
+  },
+  {
+   "id": "0a6d047e72b0",
+   "title": "Robert Dorey Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/robert-dorey-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Robert Dorey Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 09:18 Robert Dorey robert dorey <robertdorey@rogers.com> Regulatory Notice 26-15 Core Official Date Tue, 09/22/2026 - 12:00 Comment File Robert Dorey_26-15_9.22.2026.pdf",
+   "published": "2026-09-30T13:18:10+00:00"
+  },
+  {
+   "id": "83686a5657fa",
+   "title": "Dozens hurt and hundreds arrested in wave of French school protests",
+   "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Students have been protesting against conditions and resources in secondary schools since last week.",
+   "published": "2026-09-30T13:18:01+00:00"
+  },
+  {
+   "id": "63a22e7e6f7f",
+   "title": "Christa Pike seeks firing squad, not lethal injection: Inside US executions",
+   "link": "https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Women make up about 1 percent of US executions. How do states put people to death, and why is it contested?",
+   "published": "2026-09-30T13:14:39+00:00"
+  },
+  {
+   "id": "6b3e5b68d0cc",
+   "title": "Robert DeWerff Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/robert-dewerff-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Robert DeWerff Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 09:12 Robert DeWerff Robert DeWerff <robert@umamisyndicate.com> Regulatory Notice 26-15 Core Official Date Tue, 09/22/2026 - 12:00 Comment File Robert DeWerff_26-15 9.22.2026.pdf",
+   "published": "2026-09-30T13:12:50+00:00"
+  },
+  {
+   "id": "c0243e656adb",
+   "title": "U.S. inflation rises, keeping pressure on Fed",
+   "link": "https://www.marketwatch.com/story/inflation-rises-again-and-keeps-pressure-on-fed-f64d2ced?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The main inflation gauge used by the Federal Reserve to set U.S. interest rates rose sharply in August, underscoring why the central bank raised interest rates earlier this month for the first time in three years.",
+   "published": "2026-09-30T13:11:00+00:00"
+  },
+  {
+   "id": "e6b55374b38e",
+   "title": "Ben Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/ben-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Ben Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 09:10 Ben ben hatch <benhatch192@gmail.com> Regulatory Notice 26-15 Core Official Date Tue, 09/22/2026 - 12:00 Comment File Ben_26-15_9.22.2026_Redacted.pdf",
+   "published": "2026-09-30T13:10:26+00:00"
+  },
+  {
+   "id": "a7d768dd51af",
+   "title": "Europe ‘faces window of vulnerability until 2030,’ Dutch chief of defence warns - Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Chief of defence of the Dutch armed forces, Gen Onno Eichelsheim, says Europe urgently needs to learn lessons from Ukraine Meanwhile, Ukraine’s total war costs will reach $155bn this year and ⁠the government is ​struggling to close a $27bn funding gap to ensure it can still…",
+   "published": "2026-09-30T13:09:26+00:00"
+  },
+  {
+   "id": "cd5fdbbb6e29",
+   "title": "Israeli minister claims ‘terrorist’ wanted to crash plane after Tel Aviv-bound flight’s emergency landing – latest",
+   "link": "https://www.theguardian.com/world/live/2026/sep/30/dubai-israel-saudi-arabia-flydubai-flight-diversion-pilots-fight-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli media say incident, which raised fears of possible hijacking, stemmed from feud between plane’s two pilots Full report: Israel-bound passenger plane makes emergency landing in Saudi Arabia In a video from inside the plane that was reposted by Israeli social media users,…",
+   "published": "2026-09-30T13:07:53+00:00"
+  },
+  {
+   "id": "dae71122322e",
+   "title": "MI5 China alert will send chill through UK’s cash-strapped universities",
+   "link": "https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Institutions have for years turned to China for funding opportunities but national security concerns are mounting MI5 issues spy alert to UK universities over Chinese front company stealing research The security alert issued by MI5 regarding a Chinese state-owned conglomerate…",
+   "published": "2026-09-30T13:07:24+00:00"
+  },
+  {
+   "id": "e18290f04298",
+   "title": "Grenfell fire police investigators hand files on 20 firms and 54 people to CPS",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/30/grenfell-fire-police-investigators-files-prosecutors",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Met calls move ‘milestone’ moment that paves way for ‘very best possible evidence for charging decisions’ Police investigating the 2017 Grenfell Tower fire have handed over files of evidence relating to 20 companies and 54 individuals to prosecutors. The Metropolitan police…",
+   "published": "2026-09-30T13:05:24+00:00"
+  },
+  {
+   "id": "4a334f58ebc7",
+   "title": "Edward Jones to Develop Retirement Plan Management Tech",
+   "link": "https://www.wealthmanagement.com/rpa-news/edward-jones-launches-ai-powered-retirement-tool",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The wealth management firm partnered with Aboon and RPAG to build an end-to-end system covering prospecting through plan servicing for advisors.",
+   "published": "2026-09-30T13:03:47+00:00"
+  },
+  {
+   "id": "5583a8e5ced6",
+   "title": "Trusts & Estates: October 2026 Digital Edition",
+   "link": "https://www.wealthmanagement.com/publications/trusts---estates/trusts-estates-october-2026-digital-edition",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Special Report: Charitable Giving",
+   "published": "2026-09-30T13:03:28+00:00"
+  },
+  {
+   "id": "1555bb6d4c77",
+   "title": "Where's the Best Place to Store $25k Now?",
+   "link": "https://www.kiplinger.com/personal-finance/savings-accounts/wheres-the-best-place-to-store-25k-now",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "If you want to shelter some of your cash from market volatility, here are smart alternatives that'll outpace inflation and help you reach your goals.",
+   "published": "2026-09-30T13:02:49+00:00"
+  },
+  {
+   "id": "9537df8e5267",
+   "title": "MI5 issues spy alert to UK universities over Chinese front company stealing research",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Security service says academics should stop taking grants from and working with firm backed by China’s intelligence service MI5 China alert will send chill through UK’s cash-strapped universities China’s intelligence service used a front company to pay grants to British…",
+   "published": "2026-09-30T13:00:41+00:00"
+  },
+  {
+   "id": "20a100f5c90c",
+   "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+   "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+   "published": "2026-09-30T13:00:00+00:00"
+  },
+  {
+   "id": "975ec4f2519a",
+   "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+   "source": "Federal Reserve",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+   "published": "2026-09-30T13:00:00+00:00"
+  },
+  {
+   "id": "9f14bdbfacc7",
+   "title": "Eaglebrook Launches Direct Indexing for Cryptocurrencies",
+   "link": "https://www.wealthmanagement.com/crypto/eaglebrook-launches-direct-indexing-for-crypto",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The platform now offers access to the S&P Cryptocurrency Top 10 Equal Weight Index, enabling advisors to implement institutional-grade digital asset indices in client accounts.",
+   "published": "2026-09-30T13:00:00+00:00"
+  },
+  {
+   "id": "795dee37c0bd",
+   "title": "Here’s the most you should be spending on your car payment, whether you make $60,000 or over $150,000",
+   "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "For car buyers today, saving over a few years for a large down payment can be critical to reducing the amount they borrow and the length of their loan",
+   "published": "2026-09-30T13:00:00+00:00"
+  },
+  {
+   "id": "291a9479a601",
+   "title": "‘I’m afraid of human stupidity’: Why this top economist prefers U.S. tech and gold over bonds",
+   "link": "https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A prominent economist doesn’t fear artificial intelligence, but fully embraces it in portfolios. He feels far differently about government debt.",
+   "published": "2026-09-30T12:54:00+00:00"
+  },
+  {
+   "id": "a9f2a45f7d9b",
+   "title": "UK-France ‘one in one out’ deal to expire on Thursday, say sources",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/30/uk-france-one-in-one-out-deal-to-expire-on-thursday-say-sources",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Deal aimed at deterring small boat arrivals set to end as talks stall over French demand for EU-wide scheme UK politics live – latest updates The UK government’s “one in one out” deal with France, which was supposed to help deter small boat arrivals, is expected to expire on…",
+   "published": "2026-09-30T12:52:16+00:00"
+  },
+  {
+   "id": "cc5219ce8023",
+   "title": "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
+   "link": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least six people killed in drone attack on passenger van and one person killed in strike on residential apartment.",
+   "published": "2026-09-30T12:49:04+00:00"
+  },
+  {
+   "id": "5fb842d697ec",
+   "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
+   "link": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Burundi joins several other African nations in accepting people deported under Trump’s hardline policy Burundi has agreed to join a clutch of ⁠other African nations in receiving migrants from other countries deported from the US under ⁠ Donald Trump ’s hardline ⁠ immigration…",
+   "published": "2026-09-30T12:47:15+00:00"
+  },
+  {
+   "id": "a2fee48a1436",
+   "title": "Settlers closing in on Ramallah",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/settlers-closing-in-on-ramallah?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli settlers are encroaching ever closer to Ramallah, the de facto capital of the occupied West Bank.",
+   "published": "2026-09-30T12:43:27+00:00"
+  },
+  {
+   "id": "6687e8d439d2",
+   "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+   "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+   "published": "2026-09-30T12:42:34+00:00"
+  },
+  {
+   "id": "5264014c4baf",
+   "title": "Denmark vs Portugal: UEFA Nations League – Ronaldo, Hojlund, teams, form",
+   "link": "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Reigning champions Portugal look to build on their winning start as they take on Denmark on match day three.",
+   "published": "2026-09-30T12:40:08+00:00"
+  },
+  {
+   "id": "208ff1658e85",
+   "title": "Ranulph Fiennes’ stepson says he is in contact with police about explorer’s wellbeing",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/30/ranulph-fiennes-stepson-speak-police-explorer-wellbeing",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Alexander Millington-Cotes says call from police has given him hope concerns are being taken seriously The stepson of Sir Ranulph Fiennes has been contacted by police and says he intends to speak to them this week over his concerns about the wellbeing of the…",
+   "published": "2026-09-30T12:39:25+00:00"
+  },
+  {
+   "id": "a5da24ef3dd8",
+   "title": "Rainwater washes away highway in Nigeria",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/rainwater-washes-away-highway-in-nigeria?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Heavy rain over three days caused severe flooding along the Agbarho-Ughelli highway in Delta State, southern Nigeria.",
+   "published": "2026-09-30T12:39:08+00:00"
+  },
+  {
    "id": "4f868b7e822a",
    "title": "Anonymous Comment On Regulatory Notice 26-15",
    "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-47",
@@ -140,15 +503,26 @@
    "published": "2026-09-30T12:35:08+00:00"
   },
   {
-   "id": "c0243e656adb",
-   "title": "Inflation rises again and keeps pressure on Fed",
-   "link": "https://www.marketwatch.com/story/inflation-rises-again-and-keeps-pressure-on-fed-f64d2ced?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
+   "id": "55dff203c2e4",
+   "title": "Former journalist crowned king of Uganda’s Tooro kingdom",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/30-09-sv-uganda-tooro-king-ug?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The main inflation gauge used by the Federal Reserve to set U.S. interest rates rose sharply in August, underscoring why the central bank raised interest rates earlier this month for the first time in three years.",
-   "published": "2026-09-30T12:35:00+00:00"
+   "summary": "Edward Rukidi Kijanangoma, a former journalist, has been crowned the king of Uganda’s Tooro Kingdom.",
+   "published": "2026-09-30T12:34:21+00:00"
+  },
+  {
+   "id": "751283209595",
+   "title": "How does Iraq’s security change after US forces withdraw?",
+   "link": "https://www.aljazeera.com/news/2026/9/30/how-does-iraqs-security-change-after-us-forces-withdraw?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Iraq marks US troop withdrawal with 'Sovereignty Days', symbolising a shift after decades of foreign military presence.",
+   "published": "2026-09-30T12:33:05+00:00"
   },
   {
    "id": "aabef0343d74",
@@ -160,6 +534,28 @@
    "flourishing_feed": false,
    "summary": "“I have $152,000 in my IRA and Roth accounts.”",
    "published": "2026-09-30T12:32:00+00:00"
+  },
+  {
+   "id": "438aaa227e28",
+   "title": "Voters back Burnham’s plan to cut back triple lock to fund social care reform by 48% to 28%, poll suggests – as it happened",
+   "link": "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This live blog is now closed ‘Oozing everyman charm’: what the papers said about Burnham’s speech Andy Burnham has suggested that it would not be legitimate for a party to form a majority government with less than 30% of the vote. In his Today interview, asked why he wanted…",
+   "published": "2026-09-30T12:30:15+00:00"
+  },
+  {
+   "id": "e16fa8268a8f",
+   "title": "What we know about the Dubai-Israel plane incident after reported stabbing",
+   "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Saudi Arabian airport where the FlyDubai plane was diverted to said the captain and first officer were injured.",
+   "published": "2026-09-30T12:30:05+00:00"
   },
   {
    "id": "c8f2b53cf344",
@@ -184,17 +580,6 @@
    "published": "2026-09-30T12:30:00+00:00"
   },
   {
-   "id": "cd5fdbbb6e29",
-   "title": "Israeli minister claims ‘terrorist’ wanted to crash plane after Israel-bound flight’s emergency landing – latest",
-   "link": "https://www.theguardian.com/world/live/2026/sep/30/dubai-israel-saudi-arabia-flydubai-flight-diversion-pilots-fight-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Israeli media say incident, which raised fears of possible hijacking, stemmed from feud between plane’s two pilots Full report: Israel-bound passenger plane makes emergency landing in Saudi Arabia An Israeli official has identified the attacker as an Omani national, Reuters is…",
-   "published": "2026-09-30T12:29:39+00:00"
-  },
-  {
    "id": "a72686b8164c",
    "title": "FBI hunting the hackers who stole its employees' sensitive data",
    "link": "https://www.npr.org/2026/09/30/nx-s1-5985202/fbi-hack-shinyhunters",
@@ -202,7 +587,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The FBI says it's addressing a massive data breach, vowing to go after the hackers they believe are responsible.",
+   "summary": "The FBI says it's addressing a massive data breach, vowing to go after the hackers it believes are responsible.",
    "published": "2026-09-30T12:29:05+00:00"
   },
   {
@@ -217,17 +602,6 @@
    "published": "2026-09-30T12:28:00+00:00"
   },
   {
-   "id": "a7d768dd51af",
-   "title": "Europe ‘faces window of vulnerability until 2030,’ Dutch chief of defence warns - Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Chief of defence of the Dutch armed forces, Gen Onno Eichelsheim, says Europe urgently needs to learn lessons from Ukraine Meanwhile, Ukraine’s total war costs will reach $155bn this year and ⁠the government is ​struggling to close a $27bn funding gap to ensure it can still…",
-   "published": "2026-09-30T12:23:35+00:00"
-  },
-  {
    "id": "84f4b6db6147",
    "title": "‘Oozing everyman charm’: what the papers say about Andy Burnham’s speech",
    "link": "https://www.theguardian.com/politics/2026/sep/30/what-papers-say-andy-burnham-speech-labour-conference",
@@ -237,17 +611,6 @@
    "flourishing_feed": false,
    "summary": "PM’s oratory at least as good as Blair’s, says Andrew Marr, while Mail asks who pays for Honest Andy’s ‘New Jerusalem’ UK politics live – latest updates When assessing British political speeches, even many critics of the New Labour years measure success against Tony Blair, a…",
    "published": "2026-09-30T12:23:31+00:00"
-  },
-  {
-   "id": "438aaa227e28",
-   "title": "Voters back Burnham’s plan to cut back triple lock to fund social care reform by 48% to 28%, poll suggests – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The data suggest Burnham may be able to win the argument with the public amid lobbying efforts ‘Oozing everyman charm’: what the papers said about Burnham’s speech Andy Burnham has suggested that it would not be legitimate for a party to form a majority government with less…",
-   "published": "2026-09-30T12:19:48+00:00"
   },
   {
    "id": "6920d1f5cd14",
@@ -393,17 +756,6 @@
    "published": "2026-09-30T11:55:39+00:00"
   },
   {
-   "id": "6687e8d439d2",
-   "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-   "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
-   "published": "2026-09-30T11:47:27+00:00"
-  },
-  {
    "id": "cd3c68948c22",
    "title": "The Best and Worst Airlines for Holiday Flight Delays",
    "link": "https://www.kiplinger.com/personal-finance/travel/the-best-and-worst-airlines-for-holiday-flight-delays-and-cancellations",
@@ -534,17 +886,6 @@
    "flourishing_feed": false,
    "summary": "John Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 07:20 John john stewart <hn.stewart.john@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/30/2026 - 12:00 Comment File John_26-15_9.22.2026_Redacted.pdf",
    "published": "2026-09-30T11:20:35+00:00"
-  },
-  {
-   "id": "291a9479a601",
-   "title": "‘I’m afraid of human stupidity’: Why this top economist prefers U.S. tech and gold over bonds",
-   "link": "https://www.marketwatch.com/story/im-afraid-of-human-stupidity-why-this-top-economist-prefers-u-s-tech-and-gold-over-bonds-30299219?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "A prominent economist doesn’t fear artificial intelligence, but fully embraces it in portfolios. He feels far differently about government debt.",
-   "published": "2026-09-30T11:20:00+00:00"
   },
   {
    "id": "54fe14e8cd51",
@@ -844,17 +1185,6 @@
    "published": "2026-09-30T10:15:00+00:00"
   },
   {
-   "id": "a9f2a45f7d9b",
-   "title": "UK-France ‘one in one out’ deal to expire on Thursday, say sources",
-   "link": "https://www.theguardian.com/uk-news/2026/sep/30/uk-france-one-in-one-out-deal-to-expire-on-thursday-say-sources",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Deal aimed at deterring small boat arrivals set to end as talks stall over French demand for EU-wide scheme UK politics live – latest updates The UK government’s “one in one out” deal with France, which was supposed to help deter small boat arrivals, is expected to expire on…",
-   "published": "2026-09-30T10:09:48+00:00"
-  },
-  {
    "id": "accb63aaad4d",
    "title": "Mediation over Drumcree parade is ‘dead in the water’, say nationalists",
    "link": "https://www.theguardian.com/uk-news/2026/sep/30/drumcree-parade-mediation-dead-in-the-water-say-nationalists",
@@ -1106,17 +1436,6 @@
    "flourishing_feed": false,
    "summary": "JPMorgan has devised a “TACO” barometer, referring to the expression Trump Always Chickens Out, as a way to predict the behavior of the mercurial world leader.",
    "published": "2026-09-30T09:16:00+00:00"
-  },
-  {
-   "id": "e16fa8268a8f",
-   "title": "Israel-bound flight diverted after fight between pilots",
-   "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out.",
-   "published": "2026-09-30T09:02:59+00:00"
   },
   {
    "id": "fb42633dcce3",
@@ -2230,17 +2549,6 @@
    "published": "2026-09-30T01:02:29+00:00"
   },
   {
-   "id": "20a100f5c90c",
-   "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-   "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
-   "published": "2026-09-30T01:00:00+00:00"
-  },
-  {
    "id": "3995471de5fa",
    "title": "Indonesia suspends five officials over luxury apartments for inmates",
    "link": "https://www.aljazeera.com/news/2026/9/30/indonesia-suspends-five-officials-over-luxury-apartments-for-inmates?traffic_source=rss",
@@ -2263,17 +2571,6 @@
    "published": "2026-09-30T00:37:04+00:00"
   },
   {
-   "id": "46e637fb80d2",
-   "title": "‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?",
-   "link": "https://www.marketwatch.com/story/im-never-selling-im-47-and-buy-bitcoin-with-every-dollar-i-earn-am-i-crazy-364d2a64?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“When my paycheck lands, it takes a detour through bitcoin.”",
-   "published": "2026-09-30T00:30:00+00:00"
-  },
-  {
    "id": "7402e2a1cc2f",
    "title": "US Senate blocks resolution demanding accountability over Israeli violence in West Bank",
    "link": "https://www.theguardian.com/us-news/2026/sep/29/senate-resolution-west-bank-israel-violence",
@@ -2292,7 +2589,7 @@
    "circle_hint": "state",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "WARSAW, Ind. — About 300 Hoosiers showed up Tuesday night in Warsaw to hear a pitch headlined by three high-ranking legislators about ending “property taxes on the home you live in.” Another dozen lawmakers also attended, and the room also had local government officials worried…",
+   "summary": "WARSAW, Ind. — About 300 Hoosiers showed up Tuesday night in Warsaw to hear a pitch headlined by three high-ranking legislators about ending “property taxes on the home you live in.” Another dozen lawmakers also attended. The room also had local government officials worried…",
    "published": "2026-09-30T00:00:39+00:00"
   },
   {
@@ -2733,17 +3030,6 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "An internal federal watchdog has ruled President Donald Trump’s decision to cancel roughly $810 million in federal funding was unconstitutional, escalating a fight between the White House and congressional appropriators over who holds budget authority. In a letter sent to Vice…",
-   "published": "2026-09-29T21:55:13+00:00"
-  },
-  {
-   "id": "83686a5657fa",
-   "title": "More than 400 detained as France student protests escalate",
-   "link": "https://www.bbc.co.uk/news/articles/c862epne7glyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Students have been protesting conditions and resources in high schools since last week.",
    "published": "2026-09-29T21:55:13+00:00"
   },
   {
