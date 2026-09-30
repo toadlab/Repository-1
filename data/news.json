@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T17:30:17.079947+00:00",
+ "generated": "2026-09-30T18:33:08.842973+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 27
+   "count": 30
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,358 @@
  ],
  "items": [
   {
+   "id": "075a3f604faf",
+   "title": "Jesus Perez Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/jesus-perez-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Jesus Perez Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 14:30 Jesus Perez Edgar P <ep3473@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/30/2026 - 12:00 Comment File Jesus Perez_26-15_9.23.2026_Redacted.pdf",
+   "published": "2026-09-30T18:30:41+00:00"
+  },
+  {
+   "id": "1523024f7503",
+   "title": "Will Dickerson Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/will-dickerson-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Will Dickerson Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 14:26 Will Dickerson Will Dickerson <will.dickerson@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/30/2026 - 12:00 Comment File Will Dickerson_26-15_9.23.2026.pdf",
+   "published": "2026-09-30T18:26:54+00:00"
+  },
+  {
+   "id": "18c021f3e2a4",
+   "title": "H.R. 8870, BUILD America 250 Act",
+   "link": "https://www.cbo.gov/publication/62817",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As ordered reported by the House Committee on Transportation and Infrastructure on May 22, 2026",
+   "published": "2026-09-30T18:25:00+00:00"
+  },
+  {
+   "id": "f0d8691c2c3f",
+   "title": "Anonymous Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-60",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 14:23 Anonymous Tom LoVerde <tjloverde@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/30/2026 - 12:00 Comment File Anonymous_tl_26-15_9.23.2026_Redacted.pdf",
+   "published": "2026-09-30T18:23:33+00:00"
+  },
+  {
+   "id": "8296f214df51",
+   "title": "Mark Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/mark-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Mark Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 14:20 Mark Mark Ford <mford66215@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/30/2026 - 12:00 Comment File Mark_26-15_9.23.2026_Redacted.pdf",
+   "published": "2026-09-30T18:20:33+00:00"
+  },
+  {
+   "id": "ad21fcfb7631",
+   "title": "This chart shows that buying and holding stocks beats ‘sell in May and go away’ and other gimmicks",
+   "link": "https://www.marketwatch.com/story/why-the-halloween-indicator-isnt-working-and-what-smart-investors-are-doing-instead-6d758662?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Followers of ‘sell in May and go away’ have lost out on a stock rally",
+   "published": "2026-09-30T18:20:00+00:00"
+  },
+  {
+   "id": "c2574f706bfb",
+   "title": "Anonymous Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-59",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 14:18 Anonymous 1plasticlife 1plasticlife <1plasticlife@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/30/2026 - 12:00 Comment File Anonymous_1p_26-15_9.23.2026_Redacted.pdf",
+   "published": "2026-09-30T18:18:10+00:00"
+  },
+  {
+   "id": "839f0cb5af6e",
+   "title": "Your Right to Privacy Doesn't Disappear When You're in Public",
+   "link": "https://reason.com/2026/09/30/your-right-to-privacy-doesnt-disappear-when-youre-in-public/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Defenders of Flock-style surveillance systems argue that people “have no reasonable expectation of privacy in public.” They're wrong.",
+   "published": "2026-09-30T18:17:09+00:00"
+  },
+  {
+   "id": "bf336c0afbd9",
+   "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
+   "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“We have an ironclad prenup.”",
+   "published": "2026-09-30T18:15:00+00:00"
+  },
+  {
+   "id": "5008f1d75db4",
+   "title": "Video: Bangladesh Dengue deaths surpass 233 in deadly outbreak",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/video-bangladesh-dengue-deaths-surpass-233-in-deadly-outbreak?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bangladesh’s health authorities report that at least 233 people have died from dengue fever.",
+   "published": "2026-09-30T18:12:27+00:00"
+  },
+  {
+   "id": "6aa7bafb9db6",
+   "title": "Top 20 performances from Week 7 in Utah high school football",
+   "link": "https://www.deseret.com/sports/2026/09/30/high-school-football-top-performances-week-7/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Each week, the Deseret News collects high school football stats from around the state, with approximately 85% of the coaches submitting their offensive and defensive stats. Here’s a look at some headliner performances from Week 7. Also check out the Deseret News’ complete…",
+   "published": "2026-09-30T18:10:41+00:00"
+  },
+  {
+   "id": "eb6dd0a06c8e",
+   "title": "Strong indications’ Iran linked to suspected UK airbase plot",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "UK Prime Minister says there are ‘strong indications’ Iran played a part in the suspected RAF Fairford airbase plot.",
+   "published": "2026-09-30T18:09:51+00:00"
+  },
+  {
+   "id": "db153282db63",
+   "title": "Utah drivers paying more for gas amid persistent inflation",
+   "link": "https://www.deseret.com/business/2026/09/30/us-inflation-gas-prices-household-budgets-interest-rates-federal-reserve-utah-diesel-fuel-consumer-products-food-costs/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The average price of gas hit the $5 per gallon mark for Utah drivers Wednesday as the latest federal inflation report finds the rate of price increases on consumer goods and services cooled a bit, though is still running well above the Federal Reserve’s target rate of 2%. The…",
+   "published": "2026-09-30T18:06:30+00:00"
+  },
+  {
+   "id": "1ed7ea104b03",
+   "title": "Tennessee halts plan to execute woman for first time in 200 years",
+   "link": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "State governor and supreme court earlier refused calls for clemency for Christa Pike, who was convicted of murder Tennessee ’s first execution of a woman in 200 years was halted by a court on Wednesday morning an hour before it was set to take place . The state governor and the…",
+   "published": "2026-09-30T18:05:14+00:00"
+  },
+  {
+   "id": "31d116cdce04",
+   "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
+   "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Medicare beneficiaries can change their coverage during open enrollment, which begins Oct. 15.",
+   "published": "2026-09-30T18:03:00+00:00"
+  },
+  {
+   "id": "89af8b509d90",
+   "title": "Trump set to announce $200bn in energy investments from South Korea",
+   "link": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The investments come as Trump seeks to tout the Republican Party's economic record ahead of the US midterm races.",
+   "published": "2026-09-30T18:01:14+00:00"
+  },
+  {
+   "id": "3bd0cbec35f1",
+   "title": "Why is Malaysia sending back Rohingya refugees to Myanmar?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/9/30/why-is-malaysia-sending-back-rohingya-refugees-to-myanmar?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Kuala Lumpur calls it a voluntary process, but many are raising safety concerns.",
+   "published": "2026-09-30T17:55:59+00:00"
+  },
+  {
+   "id": "50bf2035dc35",
+   "title": "Recounting cockpit struggle on FlyDubai flight, Israeli passengers return home",
+   "link": "https://www.csmonitor.com/World/Middle-East/2026/0930/flydubai-1073-israel-saudi-flight-uae?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli passengers say one of the pilots on a FlyDubai flight carried out an attempted terrorist attack, and tell of a terrifying plummet.",
+   "published": "2026-09-30T17:55:39+00:00"
+  },
+  {
+   "id": "cad5d146b4fe",
+   "title": "Syria removed from US arms export ban list",
+   "link": "https://www.aljazeera.com/news/2026/9/30/syria-removed-from-us-arms-export-ban-list?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US has gradually loosened restrictions placed on Syria during the Assad era to aid country's recovery from conflict.",
+   "published": "2026-09-30T17:55:13+00:00"
+  },
+  {
+   "id": "faf6a2133434",
+   "title": "US immigration judge allows cold war-era law to deport Wisconsin mosque’s president",
+   "link": "https://www.theguardian.com/us-news/2026/sep/30/salah-sarsour-mosque-president-deportation-wisconsin",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "When one track failed, Trump administration rushed immigration case of Palestine rights advocate Salah Sarsour An immigration judge has ruled that the president of Wisconsin’s largest mosque can be deported under a controversial, cold-war era law the Trump administration has…",
+   "published": "2026-09-30T17:53:25+00:00"
+  },
+  {
+   "id": "e16fa8268a8f",
+   "title": "What we know about stabbing on Flydubai flight to Israel",
+   "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
+   "published": "2026-09-30T17:51:49+00:00"
+  },
+  {
+   "id": "4d59ad9fe4ac",
+   "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5983516/damascus-syria-glass",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As a Syrian glassmaker created his wares in Damascus, watching his craft reminded this reporter to slow down and enjoy the moment.",
+   "published": "2026-09-30T17:51:42+00:00"
+  },
+  {
+   "id": "cefbb3420e4f",
+   "title": "Stella McCartney spotlights sea life at Paris fashion week as animal rights returns to headlines",
+   "link": "https://www.theguardian.com/fashion/2026/sep/30/stella-mccartney-sea-life-paris-fashion-week-animal-rights",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Designer is developing wool alternatives and for Paris wants focus to be on ‘sea life, not sea food’ with ocean-inspired clothes Stella McCartney has been talking about animal rights at fashion week for 30 years. She is usually a lone voice, but the issue is back in the…",
+   "published": "2026-09-30T17:51:18+00:00"
+  },
+  {
+   "id": "99c4c2b41fbb",
+   "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
+   "link": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest rates The Federal Reserve ’s internal watchdog said on Wednesday that the agency has broadly mismanaged an expansive building renovation project but did not find any…",
+   "published": "2026-09-30T17:49:27+00:00"
+  },
+  {
+   "id": "bb956b257f61",
+   "title": "Senate Democrats block datacenter energy bill",
+   "link": "https://www.theguardian.com/us-news/2026/sep/30/senate-datacenter-energy-bill",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Republicans supported legislation although Democrats said it wouldn’t effectively address energy consumption Senate Democrats on Wednesday blocked legislation intended to offset the impact of datacenters on consumer electricity bills, which has emerged as a top voter concern…",
+   "published": "2026-09-30T17:48:30+00:00"
+  },
+  {
+   "id": "67d7f97b7697",
+   "title": "‘Whoever is hearing me, we need help’: how flight 1073 survived its 5,000-metre plunge",
+   "link": "https://www.theguardian.com/world/2026/sep/30/whoever-is-hearing-me-we-need-help-how-flight-1073-survived-its-5000-metre-plunge",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "On morning service from Dubai to Tel Aviv, 150 passengers witnessed a horrific cockpit assault, flight plummet and daring rescue Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu As flight FZ 1073 soared west over the waters of the Gulf…",
+   "published": "2026-09-30T17:47:25+00:00"
+  },
+  {
+   "id": "2fac9f3ec77e",
+   "title": "These bond strategies can help you get a safe 5% return on your cash",
+   "link": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "With U.S. Treasury yields on the rise, financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
+   "published": "2026-09-30T17:38:00+00:00"
+  },
+  {
+   "id": "59402d33e586",
+   "title": "Trump touts economic wins in battleground states — like a $54 billion Alaskan pipeline — as the midterms draw closer",
+   "link": "https://www.marketwatch.com/story/trump-touts-economic-wins-in-battleground-states-like-a-54-billion-alaskan-pipeline-as-the-midterms-draw-closer-46db0149?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "President Donald Trump is spending time this week talking up big job-creating projects in battleground states.",
+   "published": "2026-09-30T17:37:00+00:00"
+  },
+  {
+   "id": "34b3e56df441",
+   "title": "Netanyahu meets Flydubai passenger who subdued pilot in stabbing attack",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/netanyahu-meets-flydubai-passenger-who-subdued-pilot-in-stabbing-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Benjamin Netanyahu has met Yaniv Hayun, the Flydubai passenger that helped restrain a pilot who stabbed a colleague.",
+   "published": "2026-09-30T17:36:17+00:00"
+  },
+  {
+   "id": "9833d935751a",
+   "title": "The Burnham bounce: Is Labour gaining ground against Farage’s Reform?",
+   "link": "https://www.aljazeera.com/news/2026/9/30/burnham-bounce-why-labours-rising-again-reforms-slipping?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "British opinion polls suggest the Labour Party steadily gaining favour as Reform UK dips.",
+   "published": "2026-09-30T17:34:55+00:00"
+  },
+  {
+   "id": "e18290f04298",
+   "title": "Grenfell police hand files on 20 organisations and 54 people to CPS",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/30/grenfell-fire-police-investigators-files-prosecutors",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Met calls move ‘milestone’ moment that paves way for ‘very best possible evidence for charging decisions’ Police investigating the Grenfell Tower fire have asked prosecutors to consider charges including manslaughter and fraud against a range of companies and individuals. The…",
+   "published": "2026-09-30T17:33:56+00:00"
+  },
+  {
+   "id": "20a100f5c90c",
+   "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
+   "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
+   "published": "2026-09-30T17:31:00+00:00"
+  },
+  {
    "id": "81a1030d0920",
    "title": "BH Comment On Regulatory Notice 26-15",
    "link": "https://www.finra.org/rules-guidance/notices/comment/bh-comment-regulatory-notice-26-15",
@@ -149,6 +501,28 @@
    "flourishing_feed": false,
    "summary": "Lawrence Township is offering free language classes for parents and staff. The post Eastside parents can learn Spanish or English this fall appeared first on Mirror Indy .",
    "published": "2026-09-30T17:28:32+00:00"
+  },
+  {
+   "id": "f72b92e5c237",
+   "title": "No. 10 Cougars mustn’t underestimate what awaits them on trip to TCU",
+   "link": "https://www.deseret.com/sports/2026/09/30/byu-cougars-must-not-overlook-tcu-horned-frogs/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "No. 10 BYU jumps back into Big 12 action this week, when there are five in-conference battles going on that are key in the standings. Central Florida is at Houston; West Virginia visits Iowa State; Texas Tech plays at Colorado; Baylor travels to Arizona State; and Arizona hosts…",
+   "published": "2026-09-30T17:28:16+00:00"
+  },
+  {
+   "id": "10535cad5fbf",
+   "title": "Miami Beach Can't Dodge First Amendment Lawsuit After Police Questioned Woman Over Anti-Israel Facebook Post",
+   "link": "https://reason.com/2026/09/30/miami-beach-cant-dodge-first-amendment-lawsuit-after-police-questioned-woman-over-anti-israel-facebook-post/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Miami Beach detectives questioned Raquel Pacheco at her house over her pro-Palestine Facebook comments. A judge ruled several key claims in her First Amendment lawsuit against the city can proceed.",
+   "published": "2026-09-30T17:26:24+00:00"
   },
   {
    "id": "297169d5a00f",
@@ -239,6 +613,17 @@
    "published": "2026-09-30T17:14:03+00:00"
   },
   {
+   "id": "19157381ade8",
+   "title": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
+   "link": "https://www.aljazeera.com/news/2026/9/30/over-1300-settlers-raid-al-aqsa-mosque-alongside-israeli-forces?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli raids at Al-Aqsa Mosque compound have intensified during the Jewish holiday season.",
+   "published": "2026-09-30T17:13:05+00:00"
+  },
+  {
    "id": "abb2ba5a866c",
    "title": "Ian Pullan Comment On Regulatory Notice 26-15",
    "link": "https://www.finra.org/rules-guidance/notices/comment/ian-pullan-comment-regulatory-notice-26-15",
@@ -250,6 +635,17 @@
    "published": "2026-09-30T17:12:57+00:00"
   },
   {
+   "id": "506a1cf2ecd3",
+   "title": "UK-France 'one in, one out' migrant scheme scrapped",
+   "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago.",
+   "published": "2026-09-30T17:11:08+00:00"
+  },
+  {
    "id": "29fee7166a77",
    "title": "Anonymous Comment On Regulatory Notice 26-15",
    "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-54",
@@ -259,6 +655,17 @@
    "flourishing_feed": false,
    "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 13:09 Anonymous Michele Dibert <mldibert68@yahoo.com> Regulatory Notice 26-15 Core Official Date Wed, 09/23/2026 - 12:00 Comment File Anonymous_md_26-15_9.23.2026_Redacted.pdf",
    "published": "2026-09-30T17:09:18+00:00"
+  },
+  {
+   "id": "ad57d19ae24b",
+   "title": "MI5 warns UK academics to cut ties with Chinese group over alleged spying",
+   "link": "https://www.aljazeera.com/news/2026/9/30/mi5-warns-uk-academics-to-cut-ties-with-chinese-group-over-alleged-spying?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "UK intelligence agency accuses Chinese institute of funding academic research to boost Beijing’s espionage capability.",
+   "published": "2026-09-30T17:07:09+00:00"
   },
   {
    "id": "44e18aba75c7",
@@ -284,13 +691,13 @@
   },
   {
    "id": "6beff781408f",
-   "title": "Crews filming in Scotland told to hire local as industry booms",
+   "title": "Crews filming in Scotland told to hire locals as industry booms",
    "link": "https://www.theguardian.com/uk-news/2026/sep/30/crews-filming-in-scotland-told-to-hire-local-as-industry-booms",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "While the country’s screen sector is growing, only a fraction of production staff are Scottish themselves Scotland’s striking Ardross Castle, the oldest star of Celebrity Traitors, which kicks off on Thursday night, is just one of the stops on the Scottish tourist board’s…",
+   "summary": "While the country’s screen sector is growing, only a fraction of production staff are Scottish themselves Scotland’s striking Ardross Castle, the oldest star of The Celebrity Traitors, which kicks off on Thursday night, is just one of the stops on the Scottish tourist board’s…",
    "published": "2026-09-30T16:53:33+00:00"
   },
   {
@@ -334,7 +741,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Pilot accused of attack is being questioned by Saudi authorities, PM says, as Israeli officials investigate if incident was attempted terror attack One of the pilots of a plane flying from the UAE to Israel stabbed his co-pilot and appeared to try to crash the plane, the…",
+   "summary": "Accused pilot being questioned in Saudi Arabia as Israeli officials investigate if incident was attempted terror attack One of the pilots of a plane flying from the UAE to Israel stabbed his co-pilot and appeared to try to crash the plane, the Israeli prime minister, Benjamin…",
    "published": "2026-09-30T16:47:04+00:00"
   },
   {
@@ -360,15 +767,15 @@
    "published": "2026-09-30T16:44:16+00:00"
   },
   {
-   "id": "e18290f04298",
-   "title": "Grenfell fire police investigators hand files on 20 firms and 54 people to CPS",
-   "link": "https://www.theguardian.com/uk-news/2026/sep/30/grenfell-fire-police-investigators-files-prosecutors",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
+   "id": "dc67e39ba3cd",
+   "title": "SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans",
+   "source": "SEC Press Releases",
+   "circle_hint": "national",
+   "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Met calls move ‘milestone’ moment that paves way for ‘very best possible evidence for charging decisions’ Police investigating the Grenfell Tower fire have asked prosecutors to consider charges including manslaughter and fraud against a range of companies and individuals. The…",
-   "published": "2026-09-30T16:43:03+00:00"
+   "summary": "The Securities and Exchange Commission today announced charges against Christopher Kenji Dinelli and Jacob David “Kobe” Frankel for allegedly orchestrating a fraud scheme that raised more than $8.7 million from 35 investors through their fund, Beyond…",
+   "published": "2026-09-30T16:42:15+00:00"
   },
   {
    "id": "d30207ca1c9d",
@@ -411,7 +818,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The withdrawal ends two decades of foreign intervention in Iraq as part of 'global war on terror' and anti-ISIL fight.",
+   "summary": "Trump hails completion of 'very expensive excursion into Hell' as US-led coalition anti-ISIL mission ends.",
    "published": "2026-09-30T16:33:02+00:00"
   },
   {
@@ -446,17 +853,6 @@
    "flourishing_feed": false,
    "summary": "This blog is now closed, you can read our full report on this story here Netanyahu said one of the FlyDubai pilots stabbed his fellow pilot and intended to crash the plane. He added that one of the passengers on the flight managed to break into the cockpit with one of the crew…",
    "published": "2026-09-30T16:26:54+00:00"
-  },
-  {
-   "id": "1ed7ea104b03",
-   "title": "Tennessee halts plan to execute woman for first time in 200 years",
-   "link": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "State governor and supreme court earlier refused calls for clemency for Christa Pike, who was convicted of murder Tennessee ’s first execution of a woman in 200 years was halted by a court on Wednesday morning an hour before it was set to take place . The state governor and the…",
-   "published": "2026-09-30T16:26:15+00:00"
   },
   {
    "id": "4e786b4a8c48",
@@ -526,7 +922,7 @@
   },
   {
    "id": "1b9e8340e99c",
-   "title": "New field-level seats are coming to Rice-Eccles Stadium. Here’s all the details",
+   "title": "New field-level seats are coming to Rice-Eccles Stadium. Here are all the details.",
    "link": "https://www.deseret.com/sports/2026/09/30/utah-football-field-level-seats-rice-eccles-stadium-north-end-zone/",
    "source": "Deseret News",
    "circle_hint": "national",
@@ -930,6 +1326,17 @@
    "flourishing_feed": false,
    "summary": "PV Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 11:10 PV Patrick Varney <patrickvarney87@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/23/2026 - 12:00 Comment File PV_26-15_9.23.2026_Redacted.pdf",
    "published": "2026-09-30T15:10:59+00:00"
+  },
+  {
+   "id": "027697021863",
+   "title": "Passengers describe stabbing on Israel-bound plane",
+   "link": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Passengers on the Flydubai flight bound for Israel filmed the moments following the stabbing.",
+   "published": "2026-09-30T15:07:00+00:00"
   },
   {
    "id": "e92f2baea238",
@@ -1471,17 +1878,6 @@
    "published": "2026-09-30T14:00:10+00:00"
   },
   {
-   "id": "bf336c0afbd9",
-   "title": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. Should I pay for his retirement?",
-   "link": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“We have an ironclad prenup.”",
-   "published": "2026-09-30T14:00:00+00:00"
-  },
-  {
    "id": "a7752175a0c6",
    "title": "Public Editor: What do braids, cornrows and Bantu knots have to do with the news?",
    "link": "https://mirrorindy.org/public-editor-what-do-braids-cornrows-and-bantu-knots-have-to-do-with-the-news/",
@@ -1599,7 +1995,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "As the plane went into a spin and began to plunge, a passenger and crew got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel's leader says.",
+   "summary": "As the plane went into a spin and began to plunge, a passenger and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel's leader says.",
    "published": "2026-09-30T13:35:11+00:00"
   },
   {
@@ -1801,17 +2197,6 @@
    "published": "2026-09-30T13:00:41+00:00"
   },
   {
-   "id": "20a100f5c90c",
-   "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-   "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
-   "published": "2026-09-30T13:00:00+00:00"
-  },
-  {
    "id": "975ec4f2519a",
    "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
    "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
@@ -1964,17 +2349,6 @@
    "flourishing_feed": false,
    "summary": "This live blog is now closed ‘Oozing everyman charm’: what the papers said about Burnham’s speech Andy Burnham has suggested that it would not be legitimate for a party to form a majority government with less than 30% of the vote. In his Today interview, asked why he wanted…",
    "published": "2026-09-30T12:30:15+00:00"
-  },
-  {
-   "id": "e16fa8268a8f",
-   "title": "What we know about the Dubai-Israel plane incident after reported stabbing",
-   "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Saudi Arabian airport where the FlyDubai plane was diverted to said the captain and first officer were injured.",
-   "published": "2026-09-30T12:30:05+00:00"
   },
   {
    "id": "f54f65e3522a",
@@ -4659,17 +5033,6 @@
    "flourishing_feed": false,
    "summary": "The water’s getting deeper for TCU in 2026. The Horned Frogs are 2-2, recently losing their Big 12 opener at UCF and having fallen to North Carolina in Week 0 as well. Sonny Dykes’ team is among the most penalized in the country, with his own future in Fort Worth appearing to…",
    "published": "2026-09-29T21:00:00+00:00"
-  },
-  {
-   "id": "31d116cdce04",
-   "title": "Medicare Advantage plans will be cheaper next year. Here’s the new cost.",
-   "link": "https://www.marketwatch.com/story/medicare-advantage-plans-will-be-cheaper-next-year-heres-the-new-cost-2f7ab55b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Medicare beneficiaries can change their coverage during open enrollment, which begins Oct. 15.",
-   "published": "2026-09-29T20:57:00+00:00"
   },
   {
    "id": "f0ddbd79c93c",
