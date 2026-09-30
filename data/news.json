@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T22:30:22.108558+00:00",
+ "generated": "2026-09-30T23:27:43.744194+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Federal Register: IRS",
@@ -128,6 +128,193 @@
   }
  ],
  "items": [
+  {
+   "id": "44a7f33dc234",
+   "title": "Lischka Adrian Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/lischka-adrian-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Lischka Adrian Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 19:27 Lischka Adrian undefined DE Adilis@unitybox.de Dear Ms. Mitchell, I am an individual investor. I am writing about Regulatory Notice 26-15 and FINRA's request for comment on modernizing its…",
+   "published": "2026-09-30T23:27:39+00:00"
+  },
+  {
+   "id": "ed1aa2b4ebeb",
+   "title": "Anonymous Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-66",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 19:27 Anonymous undefined undefined aerosetzer@gmail.com Dear Ms. Mitchell, I am an individual investor. It matters a lot to me that the little guy isn't exploited. Review of the price I receive,…",
+   "published": "2026-09-30T23:27:03+00:00"
+  },
+  {
+   "id": "8e1bd37ed93b",
+   "title": "Dominic Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/dominic-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Dominic Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 19:25 Dominic AZ US Dhinitials@gmail.com Dear Ms. Mitchell, I am an individual investor. I am writing about Regulatory Notice 26-15 and FINRA's request for comment on modernizing its best execution…",
+   "published": "2026-09-30T23:25:30+00:00"
+  },
+  {
+   "id": "fca29274db52",
+   "title": "26-00950.pdf",
+   "link": "https://www.finra.org/node/389186",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "26-00950.pdf Anonymous (not verified) Wed, 09/30/2026 - 19:20 Case ID 26-00950 Forum FINRA Document Type Award Claimants Tradestation Securities, Inc. Respondents Ryan Alassaad Neutrals Andrea U. Calve Hearing Site Dallas, TX Award Document 26-00950.pdf Documentum DocID…",
+   "published": "2026-09-30T23:20:01+00:00"
+  },
+  {
+   "id": "6aa7f440433e",
+   "title": "25-01891.pdf",
+   "link": "https://www.finra.org/node/389181",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "25-01891.pdf Anonymous (not verified) Wed, 09/30/2026 - 19:20 Case ID 25-01891 Forum FINRA Document Type Award Claimants Matthew McDonald Respondents Sigma Financial Corporation Neutrals Martin A. Feigenbaum Daniel B. MacLeod Michael J. Henke Hearing Site Detroit, MI Award…",
+   "published": "2026-09-30T23:20:01+00:00"
+  },
+  {
+   "id": "5979a75892ca",
+   "title": "Australia news live: ATO finds one-quarter of big firms pay zero tax; one in two homebuyers using 5% deposit scheme",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Queensland’s state government has missed a deadline to sign up to the federal government’s Thriving Kids program before its rollout begins today. Under the program, state governments will…",
+   "published": "2026-09-30T23:13:22+00:00"
+  },
+  {
+   "id": "463ef6085778",
+   "title": "This legendary rocker is going on his ‘last tour ever, ever, ever’",
+   "link": "https://www.deseret.com/entertainment/2026/09/30/rod-stewart-announces-last-tour-after-health-scares/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three months after saying he nearly fainted during a show in Utah , legendary rocker Rod Stewart has announced he is hitting the road one last time. Elton John and the Farewell Tour question: How do aging artists (and the rest of us) say goodbye? ‘The show must go on,’…",
+   "published": "2026-09-30T23:12:03+00:00"
+  },
+  {
+   "id": "4f1348210dcf",
+   "title": "Trump announces South Korea will help fund Alaska pipeline",
+   "link": "https://www.deseret.com/politics/2026/09/30/president-trump-announces-south-korea-to-help-fund-alaska-pipeline-project/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Donald Trump on Wednesday announced that South Korea would be committing $200 billion to the U.S.-Korea Trade and Investment Initiative, including $54 billion to build the long-awaited Alaska pipeline project. Trump said his administration secured agreements from the…",
+   "published": "2026-09-30T23:04:44+00:00"
+  },
+  {
+   "id": "1ed7ea104b03",
+   "title": "Tennessee execution of Christa Pike can go ahead, US supreme court rules",
+   "link": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pike, sentenced to death over 1995 murder, had been granted stay of execution earlier on Wednesday The US supreme court is allowing Tennessee’s execution of Christa Pike to go forward, vacating a last-minute stay issued by a federal appeals court earlier in the day. Pike is set…",
+   "published": "2026-09-30T23:03:13+00:00"
+  },
+  {
+   "id": "433b6d8d3176",
+   "title": "Floating scarecrows: how Cornish fishers are stopping seabirds drowning in their nets",
+   "link": "https://www.theguardian.com/environment/2026/oct/01/scarecrows-cornish-fishers-stop-seabirds-drowning-in-nets",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Simple deterrents can slash the number of razorbills and guillemots being trapped underwater, two-year study shows Bird-shaped kites and a floating scarecrow are being tested to try to stop endangered seabirds drowning in fishing nets. Every year an estimated 95,000 diving…",
+   "published": "2026-09-30T23:01:21+00:00"
+  },
+  {
+   "id": "f01f1d35d865",
+   "title": "‘Hugely exciting’ finds on tiny Scottish island shed light on spread of Christianity",
+   "link": "https://www.theguardian.com/science/2026/oct/01/lismore-archaeological-finds-scottish-island-monastery-spread-of-christianity",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Community-funded archaeological excavations of ‘really important’ sixth-century monastery also rewrite story of Lismore To the residents of the Scottish island of Lismore, population 190, history is never very far away. The tiny island near Oban in Argyll has no row of shops or…",
+   "published": "2026-09-30T23:00:21+00:00"
+  },
+  {
+   "id": "37365029e96d",
+   "title": "Swiss glaciers suffer another year of record ice loss",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Switzerland's glaciers are disappearing at a record pace. More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe.",
+   "published": "2026-09-30T23:00:00+00:00"
+  },
+  {
+   "id": "300683751690",
+   "title": "US Senate rejects bill targeting AI data centre electricity costs",
+   "link": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Democrats criticise bill as lacking 'teeth' and push for mandatory measures to address soaring electricity bills.",
+   "published": "2026-09-30T22:58:21+00:00"
+  },
+  {
+   "id": "62bb7c99816a",
+   "title": "Google shows it’s not out of the AI race just yet",
+   "link": "https://www.marketwatch.com/story/google-shows-its-not-out-of-the-ai-race-just-yet-75e19860?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The company’s Gemini 4 Argon announcement shows Google is back with the pack when it comes to cutting-edge AI models.",
+   "published": "2026-09-30T22:51:00+00:00"
+  },
+  {
+   "id": "653335a91313",
+   "title": "In-laws charged with murder of New York Times games engineer in California",
+   "link": "https://www.theguardian.com/us-news/2026/sep/30/california-new-york-times-games-engineer",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Shili Chen and Shouyong Zhang, both 77, charged days before Jonathan McKinsey and wife were set for hearing in divorce case A couple in their 70s was charged with murder on Wednesday after allegedly gunning down their son-in-law at a bustling California park. Authorities allege…",
+   "published": "2026-09-30T22:40:37+00:00"
+  },
+  {
+   "id": "0f6d26ab75d1",
+   "title": "‘Nice to have a home game’: Tony Finau on playing in Bank of Utah Championship, his struggles in 2026",
+   "link": "https://www.deseret.com/sports/2026/09/30/utah-golf-local-tony-finau-zac-blair-black-desert-pga-tour-event-st-george/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As one of the most popular golfers on the PGA Tour, Utah’s Tony Finau draws large crowds almost every time he plays. The number of people following the 37-year-old father of six could break records this week, however, as Finau plays in the PGA Tour’s Bank of Utah Championship…",
+   "published": "2026-09-30T22:32:29+00:00"
+  },
+  {
+   "id": "7f3db7dc3a67",
+   "title": "Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu",
+   "link": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Accused pilot being questioned in Saudi Arabia as Israeli officials investigate if incident was attempted terror attack One of the pilots of a plane flying from the United Arab Emirates to Israel stabbed his co-pilot and appeared to try to crash the aircraft, the Israeli prime…",
+   "published": "2026-09-30T22:30:53+00:00"
+  },
   {
    "id": "6a891c61bd9c",
    "title": "Tom Dagenais Comment On Regulatory Notice 26-15",
@@ -206,6 +393,17 @@
    "published": "2026-09-30T22:22:50+00:00"
   },
   {
+   "id": "ae0f99b97c11",
+   "title": "Hong Kong journalist arrested on sedition charge",
+   "link": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Authorities detain media founder over Prince Edward station clash video, as press freedom groups voice concern.",
+   "published": "2026-09-30T22:16:01+00:00"
+  },
+  {
    "id": "01cf5054b973",
    "title": "Russian drone crashes into Kyiv playground without exploding",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
@@ -237,17 +435,6 @@
    "flourishing_feed": false,
    "summary": "With the 2026 midterm elections fast approaching, polling increasingly suggests that the GOP is in for a bad time. As the Iran war drives up inflation and fuel prices, Republicans are on the back foot not just in swing states like Michigan, but in redder parts of the map: Iowa,…",
    "published": "2026-09-30T22:10:00+00:00"
-  },
-  {
-   "id": "5979a75892ca",
-   "title": "Australia news live: ATO finds one-quarter of big firms pay zero tax; credit and debit surcharges scrapped",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Link between technology and young people’s mental health ‘more complex’ than portrayed, study finds A new report by the National Mental Health Commission has found the link between digital…",
-   "published": "2026-09-30T22:09:47+00:00"
   },
   {
    "id": "674657b4459a",
@@ -666,17 +853,6 @@
    "flourishing_feed": false,
    "summary": "Yields in the global bond market have risen with startling speed over the past few months, and the more than $30 trillion market for U.S. government debt certainly hasn’t been immune.",
    "published": "2026-09-30T20:32:00+00:00"
-  },
-  {
-   "id": "653335a91313",
-   "title": "In-laws charged with murder of New York Times games engineer in California",
-   "link": "https://www.theguardian.com/us-news/2026/sep/30/california-new-york-times-games-engineer",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Shili Chen and Shouyong Zhang, both 77, charged days before Jonathan McKinsey and wife were set for hearing in divorce case A California couple have been charged with murder after authorities say they shot their son-in-law to death on Saturday in a public park, days before he…",
-   "published": "2026-09-30T20:31:18+00:00"
   },
   {
    "id": "f1d5116a5161",
@@ -1427,17 +1603,6 @@
    "published": "2026-09-30T18:26:54+00:00"
   },
   {
-   "id": "7f3db7dc3a67",
-   "title": "Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu",
-   "link": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Accused pilot being questioned in Saudi Arabia as Israeli officials investigate if incident was attempted terror attack One of the pilots of a plane flying from the United Arab Emirates to Israel stabbed his co-pilot and appeared to try to crash the aircraft, the Israeli prime…",
-   "published": "2026-09-30T18:26:11+00:00"
-  },
-  {
    "id": "18c021f3e2a4",
    "title": "H.R. 8870, BUILD America 250 Act",
    "link": "https://www.cbo.gov/publication/62817",
@@ -1557,17 +1722,6 @@
    "flourishing_feed": false,
    "summary": "The average price of gas hit the $5 per gallon mark for Utah drivers Wednesday as the latest federal inflation report finds the rate of price increases on consumer goods and services cooled a bit, though is still running well above the Federal Reserve’s target rate of 2%. The…",
    "published": "2026-09-30T18:06:30+00:00"
-  },
-  {
-   "id": "1ed7ea104b03",
-   "title": "Tennessee halts plan to execute woman for first time in 200 years",
-   "link": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "State governor and supreme court earlier refused calls for clemency for Christa Pike, who was convicted of murder Tennessee ’s first execution of a woman in 200 years was halted by a court on Wednesday morning an hour before it was set to take place . The state governor and the…",
-   "published": "2026-09-30T18:05:14+00:00"
   },
   {
    "id": "31d116cdce04",
