@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T21:30:48.213940+00:00",
+ "generated": "2026-09-30T22:30:22.108558+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "name": "Federal Register: IRS",
@@ -129,6 +129,248 @@
  ],
  "items": [
   {
+   "id": "6a891c61bd9c",
+   "title": "Tom Dagenais Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/tom-dagenais-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Tom Dagenais Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 18:30 Tom Dagenais WI US tom.dagenais@gmail.com Dear Ms. Mitchell, As a household investor, I am concerned about Regulatory Notice 26-15 and FINRA's request for comment on modernizing its best…",
+   "published": "2026-09-30T22:30:06+00:00"
+  },
+  {
+   "id": "b85c6e665a2f",
+   "title": "Derek Lester Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/derek-lester-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Derek Lester Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 18:28 Derek Lester OK US dereklester10@gmail.com Dear Ms. Mitchell, I am an individual investor. I am writing about Regulatory Notice 26-15 and FINRA's request for comment on modernizing its best…",
+   "published": "2026-09-30T22:28:37+00:00"
+  },
+  {
+   "id": "3776a8e6952d",
+   "title": "Karen George Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/karen-george-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Karen George Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 18:27 Karen George AZ undefined kblondieg_99@yahoo.com Dear Ms. Mitchell, I am an individual investor. I am writing about Regulatory Notice 26-15 and FINRA's request for comment on modernizing its…",
+   "published": "2026-09-30T22:27:52+00:00"
+  },
+  {
+   "id": "39b1fdb34beb",
+   "title": "Lawrence Snow Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/lawrence-snow-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Lawrence Snow Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 18:26 Lawrence Snow CO US snowscript@comcast.net Dear Ms. Mitchell, I am an individual investor whom due to FINRA's either poor judgement or outright collusion with certain nefarious brokers…",
+   "published": "2026-09-30T22:26:49+00:00"
+  },
+  {
+   "id": "62ffab6efeb0",
+   "title": "David Brodahl Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/david-brodahl-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "David Brodahl Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 18:23 David Brodahl NE US davebrodahl@outlook.com To All, I am an individual investor. I am writing about Regulatory Notice 26-15 and FINRA's request for comment on modernizing its best execution…",
+   "published": "2026-09-30T22:23:03+00:00"
+  },
+  {
+   "id": "9a6258292942",
+   "title": "Because He Can",
+   "link": "https://thedispatch.com/newsletter/gfile/trump-government-funded-campaign-ads-caesarism-norms/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump’s propagandistic, taxpayer-funded ads are another symptom of a deformed constitutional order.",
+   "published": "2026-09-30T22:22:58+00:00"
+  },
+  {
+   "id": "1da9245fda6a",
+   "title": "Institute celebrates its 100th anniversary on the date and at the place where it all began",
+   "link": "https://www.deseret.com/faith/2026/09/30/church-news-100-year-institute-commemoration-moscow-idaho-elder-johnson/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "On Sept. 26, 1926, Church President Heber J. Grant sent J. Wyley Sessions, a newly returned mission president in South Africa, to Moscow, Idaho — a small town on the border of Washington state on the Idaho Panhandle — to start “collegiate seminaries.” During the 75th…",
+   "published": "2026-09-30T22:22:50+00:00"
+  },
+  {
+   "id": "01cf5054b973",
+   "title": "Russian drone crashes into Kyiv playground without exploding",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.",
+   "published": "2026-09-30T22:13:35+00:00"
+  },
+  {
+   "id": "871d20908c57",
+   "title": "It’s now the EU’s turn to avert a trade conflict with China",
+   "link": "https://www.csmonitor.com/Perspectives/Essays/2026/0930/china-EU-talks-economy-rare-earth-minerals?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The European Union and China hold meetings next week in Beijing for high-stakes trade talks, as the EU tries to steer clear of a all-out trade war.",
+   "published": "2026-09-30T22:12:09+00:00"
+  },
+  {
+   "id": "78af032e3703",
+   "title": "What Democrats are still getting wrong about voters",
+   "link": "https://www.vox.com/america-actually/504619/sarah-longwell-tribune-festival-book-average-voter",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "With the 2026 midterm elections fast approaching, polling increasingly suggests that the GOP is in for a bad time. As the Iran war drives up inflation and fuel prices, Republicans are on the back foot not just in swing states like Michigan, but in redder parts of the map: Iowa,…",
+   "published": "2026-09-30T22:10:00+00:00"
+  },
+  {
+   "id": "5979a75892ca",
+   "title": "Australia news live: ATO finds one-quarter of big firms pay zero tax; credit and debit surcharges scrapped",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Link between technology and young people’s mental health ‘more complex’ than portrayed, study finds A new report by the National Mental Health Commission has found the link between digital…",
+   "published": "2026-09-30T22:09:47+00:00"
+  },
+  {
+   "id": "674657b4459a",
+   "title": "Trekkers helicoptered off mountains as more deadly landslides hit Nepal",
+   "link": "https://www.bbc.co.uk/news/articles/c607l4l3vn0eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A month after mass catastrophic flooding, around 30 people have died in landslides and heavy rain.",
+   "published": "2026-09-30T22:01:16+00:00"
+  },
+  {
+   "id": "f14fcd9fd49e",
+   "title": "Justice Alito Says Recusal in Suncor Energy v. Boulder County a \"Difficult Judgment Call\"",
+   "link": "https://reason.com/volokh/2026/09/30/justice-alito-says-recusal-in-suncor-energy-v-boulder-county-a-difficult-judgment-call/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bloomberg reports on why Justice Alito decided to recuse from the first case of the Supreme Court's term.",
+   "published": "2026-09-30T21:51:27+00:00"
+  },
+  {
+   "id": "a68b978bc1b9",
+   "title": "Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military",
+   "link": "https://www.npr.org/2026/09/30/nx-s1-5986304/hegseth-troops-address",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Secretary of Defense Pete Hegseth told hundreds of junior military officers and enlisted leaders on Wednesday that the Trump administration has achieved a cultural shift in the military.",
+   "published": "2026-09-30T21:51:20+00:00"
+  },
+  {
+   "id": "7d5e0af1e35e",
+   "title": "Trump's priority refugees, Afrikaners settle into American life",
+   "link": "https://www.csmonitor.com/USA/2026/0930/trump-refugees-afrikaners-oklahoma?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The U.S. government is welcoming members of a small South African racial minority as refugees while continuing its drive to deport more immigrants.",
+   "published": "2026-09-30T21:49:56+00:00"
+  },
+  {
+   "id": "9a3f63f8e83d",
+   "title": "Opinion: College football’s struggle is nothing new",
+   "link": "https://www.deseret.com/opinion/2026/09/30/college-football-problems-span-more-than-a-century/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Nearly 100 years ago, near the end of 1926, newspaper readers in America were presented with a diatribe, of sorts, by Frank G. Menke, a sports writer syndicated by King Features Syndicate. The subject: How college football had gone from clean competition to big business. He…",
+   "published": "2026-09-30T21:44:49+00:00"
+  },
+  {
+   "id": "9085cef68cf5",
+   "title": "Rainn Wilson sang with the Tabernacle Choir. He called it a ‘dream come true’",
+   "link": "https://www.deseret.com/entertainment/2026/09/30/actor-rainn-wilson-sings-with-the-mormon-tabernacle-choir-at-temple-square/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rainn Wilson said his “ dream has come true .” The actor, best known for playing Dwight Schrute on “The Office,” joined a rehearsal with The Tabernacle Choir at Temple Square over the weekend. He returned Sunday to watch the weekly broadcast of “Music & the Spoken Word” and…",
+   "published": "2026-09-30T21:40:42+00:00"
+  },
+  {
+   "id": "ac96a0548362",
+   "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
+   "published": "2026-09-30T21:38:54+00:00"
+  },
+  {
+   "id": "e16fa8268a8f",
+   "title": "What we know about stabbing on Flydubai flight to Israel",
+   "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+   "published": "2026-09-30T21:36:31+00:00"
+  },
+  {
+   "id": "44fb4973ccdd",
+   "title": "It’s the ‘closest thing to an HIV vaccine’, but who gets access?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A twice-yearly injection could revolutionise HIV prevention, but who gets access raises bigger questions.",
+   "published": "2026-09-30T21:34:30+00:00"
+  },
+  {
+   "id": "7a3201bd115a",
+   "title": "Pablo Torre’s latest investigation and what it says about sports media",
+   "link": "https://www.deseret.com/sports/2026/09/30/pablo-torre-keeps-asking-the-questions-other-sports-reporters-arent/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For most of his career, Pablo Torre has been asking questions about sports. Recently, though, his questions have carried weight far beyond the scoreboard. Torre’s latest investigation, reported with progressive news outlet Mother Jones’s Kiera Butler , turns the spotlight on…",
+   "published": "2026-09-30T21:32:48+00:00"
+  },
+  {
+   "id": "fe0c09a90242",
+   "title": "Trump administration files complaint against judges over media comments",
+   "link": "https://www.aljazeera.com/news/2026/9/30/trump-administration-files-complaint-against-judges-over-media-comments?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Seven Minnesota judges face ethics complaint after speaking publicly about US president's immigration crackdown.",
+   "published": "2026-09-30T21:28:43+00:00"
+  },
+  {
    "id": "1a09fdee15be",
    "title": "MFA Comment On Regulatory Notice 26-15",
    "link": "https://www.finra.org/rules-guidance/notices/comment/mfa-comment-regulatory-notice-26-15",
@@ -160,6 +402,28 @@
    "flourishing_feed": false,
    "summary": "The S&P 500 has gained slightly in September, but three-quarters of its components have declined.",
    "published": "2026-09-30T21:22:00+00:00"
+  },
+  {
+   "id": "dfacb3dca456",
+   "title": "Hegseth confirms plan to cut 20% of US top military brass and rails at ‘beardos, weirdos and wimps’",
+   "link": "https://www.theguardian.com/us-news/2026/sep/30/hegseth-military-personnel-cuts",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pentagon head hails military with ‘no fatties, no trannies, no beardos, no weirdos, no wimps, no radicals’ in anti-DEI rant Send us your questions about how the Iran war will affect US voters in the midterms The US defense secretary, Pete Hegseth, has confirmed plans to cut 20%…",
+   "published": "2026-09-30T21:20:58+00:00"
+  },
+  {
+   "id": "783af30f236d",
+   "title": "Pete Hegseth appoints Elon Musk to US taskforce on future of warfare",
+   "link": "https://www.theguardian.com/technology/2026/sep/30/pete-hegseth-elon-musk-taskforce-warfare",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A year after his explosive tenure at Doge, the SpaceX CEO is back in the Trump administration’s good graces Pete Hegseth announced on Wednesday that Elon Musk will co-lead a government project to study the future of warfare, marking the SpaceX CEO’s first return to government…",
+   "published": "2026-09-30T21:18:19+00:00"
   },
   {
    "id": "2d8f4c720c75",
@@ -206,6 +470,17 @@
    "published": "2026-09-30T21:12:54+00:00"
   },
   {
+   "id": "392f43e32709",
+   "title": "Flydubai passengers arrive in Tel Aviv after pilot stabbing",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A replacement Flydubai aircraft has landed in Israel, carrying passengers from the flight on which a pilot was stabbed.",
+   "published": "2026-09-30T21:12:46+00:00"
+  },
+  {
    "id": "c9a440c45749",
    "title": "Michael Connor Comment On Regulatory Notice 26-15",
    "link": "https://www.finra.org/rules-guidance/notices/comment/michael-connor-comment-regulatory-notice-26-15",
@@ -217,17 +492,6 @@
    "published": "2026-09-30T21:11:59+00:00"
   },
   {
-   "id": "ac96a0548362",
-   "title": "Flydubai passenger describes putting attacker in chokehold after cockpit stabbing",
-   "link": "https://www.bbc.co.uk/news/articles/cmx2z92xx57no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Other passengers on the Israel-bound flight described the \"terrifying\" moment the plane dropped.",
-   "published": "2026-09-30T21:11:24+00:00"
-  },
-  {
    "id": "3118e7e48b7d",
    "title": "Anonymous Comment On Regulatory Notice 26-15",
    "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-61",
@@ -237,17 +501,6 @@
    "flourishing_feed": false,
    "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 17:10 Anonymous NJ US bramis@duck.com Dear Ms. Mitchell, I am an individual investor. I am writing about Regulatory Notice 26-15 and FINRA's request for comment on modernizing its best execution…",
    "published": "2026-09-30T21:10:10+00:00"
-  },
-  {
-   "id": "5979a75892ca",
-   "title": "Australia news live: ATO finds one-quarter of big firms pay zero tax; NDIS alternative Thriving Kids program begins",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Good morning, Nick Visser here to pick up the blog. Let’s get into Thursday. From today, children under nine years old with mild developmental delays and autism can access early…",
-   "published": "2026-09-30T21:09:51+00:00"
   },
   {
    "id": "b95186eb35e3",
@@ -323,7 +576,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Cotality data shows median house prices fell in September as interest rates hit borrowing capacity Get our breaking news email , free app or daily news podcast Housing prices are falling in almost every suburb in Australia’s biggest cities, with values dropping faster in…",
+   "summary": "Cotality data shows median house prices fell in September as interest rates hit borrowing capacity Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Housing prices are falling in almost every suburb in…",
    "published": "2026-09-30T20:53:12+00:00"
   },
   {
@@ -358,17 +611,6 @@
    "flourishing_feed": false,
    "summary": "“I have $152,000 in my IRA and Roth accounts.”",
    "published": "2026-09-30T20:45:00+00:00"
-  },
-  {
-   "id": "e16fa8268a8f",
-   "title": "What we know about stabbing on Flydubai flight to Israel",
-   "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
-   "published": "2026-09-30T20:44:12+00:00"
   },
   {
    "id": "7f31db2bdf67",
@@ -1340,7 +1582,7 @@
   },
   {
    "id": "89af8b509d90",
-   "title": "Trump set to announce $200bn in energy investments from South Korea",
+   "title": "Trump announces $200bn in energy investments from South Korea",
    "link": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -2380,7 +2622,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Two supermarket home brands claim equal first while the worst-ranked condiment has double the sugar content of almost all the other products A condiment worthy of compliments, or one that gets a dressing down? Consumer advocacy group Choice has taste tested 29 store-bought…",
+   "summary": "Two supermarket home brands claim equal first while the worst-ranked condiment has double the sugar content of almost all the other products Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A condiment worthy of…",
    "published": "2026-09-30T15:00:50+00:00"
   },
   {
@@ -2391,7 +2633,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Julian Hill says educational providers are being closely watched by government after course attracted non-genuine students Get our new political email , free app or daily news podcast Private colleges have issued nearly 3,000 last-minute enrolments to a diploma course that is…",
+   "summary": "Julian Hill says educational providers are being closely watched by government after course attracted non-genuine students Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast Private colleges have issued nearly…",
    "published": "2026-09-30T15:00:45+00:00"
   },
   {
@@ -2902,13 +3144,13 @@
   },
   {
    "id": "8f9715ea84a4",
-   "title": "A pilot stabs another pilot and tries to crash their flight to Tel Aviv, Israel says",
+   "title": "On flight to Israel, pilot is stabbed, plane plunges before passengers tackle attacker",
    "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
    "source": "NPR News",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "As the plane went into a spin and began to plunge, a passenger and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel's leader says.",
+   "summary": "As the plane went into a spin and began to plunge, passengers and crew members got into the cockpit, subdued the pilot and diverted the flight to land in Saudi Arabia, Israel's leader says.",
    "published": "2026-09-30T13:35:11+00:00"
   },
   {
