@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T01:29:53.794707+00:00",
+ "generated": "2026-10-01T02:29:44.677062+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,127 @@
  ],
  "items": [
   {
+   "id": "58fca97d859e",
+   "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
+   "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Passengers and crew overpowered the attacker and safely landed the plane in Saudi Arabia.",
+   "published": "2026-10-01T02:29:04+00:00"
+  },
+  {
+   "id": "4b8889036ce3",
+   "title": "Anonymous Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-73",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 22:22 Anonymous Matthew Raymond <raymondmatthewc@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/23/2026 - 12:00 Comment File Anonymous_mr_26-15_9.23.2026_Redacted.pdf",
+   "published": "2026-10-01T02:22:34+00:00"
+  },
+  {
+   "id": "5979a75892ca",
+   "title": "Australia news live: PM says Shoebridge’s ‘replace Labor’ goal ‘somewhat concerning’; Anika Wells named in Time’s ‘influential rising stars’",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Queensland’s state government has missed a deadline to sign up to the federal government’s Thriving Kids program before its rollout begins today. Under the program, state governments will…",
+   "published": "2026-10-01T02:21:42+00:00"
+  },
+  {
+   "id": "20c16107e1ae",
+   "title": "Jon Putnam Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/jon-putnam-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Jon Putnam Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 22:14 Jon Putnam Jon Putnam <arcastech@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/23/2026 - 12:00 Comment File Jon Putnam_26-15_9.23.2026.pdf",
+   "published": "2026-10-01T02:14:38+00:00"
+  },
+  {
+   "id": "bc80830c68f2",
+   "title": "Anonymous Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-72",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 22:12 Anonymous Rob Conzett <robsea69@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/23/2026 - 12:00 Comment File Anonymous_rc_26-15_9.23.2026_Redacted.pdf",
+   "published": "2026-10-01T02:12:00+00:00"
+  },
+  {
+   "id": "4f0c46727983",
+   "title": "Gary Kagey Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/gary-kagey-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Gary Kagey Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 22:08 Gary Kagey gary kagey <garykagey@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/23/2026 - 12:00 Comment File Gary Kagey_26-15_9.23.2026.pdf",
+   "published": "2026-10-01T02:08:25+00:00"
+  },
+  {
+   "id": "421745a56aab",
+   "title": "Anonymous Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-71",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 22:05 Anonymous Kevwillsboss <kevwillsboss302@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/23/2026 - 12:00 Comment File Anonymous_kb_26-15_9.23.2026_Redacted.pdf",
+   "published": "2026-10-01T02:05:27+00:00"
+  },
+  {
+   "id": "64fb8dfcc945",
+   "title": "Which BYU players are on the latest injury report ahead of Cougars’ matchup with TCU?",
+   "link": "https://www.deseret.com/sports/2026/09/30/byu-football-tcu-matchup-availability-report/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three days before its first Big 12 road test of the season at TCU, BYU has given an initial update on the health status of some of its players. Here is BYU’s full availability report, which can be found on the Big 12’s website beginning three days before each league game. OUT…",
+   "published": "2026-10-01T02:03:46+00:00"
+  },
+  {
+   "id": "b82b688cf280",
+   "title": "Utahns might see their electricity bills drop — and coal might be to thank",
+   "link": "https://www.deseret.com/environment/2026/09/30/rocky-mountain-power-shows-how-to-keep-rates-down/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As the West grows more concerned about rising electricity rates and a strained power grid, Utah leaders hold an opposing, optimistic view. “We’re consistently in the top five most affordable rates in the country,” Utah Office of Energy Development Director Emmy Lesofski said in…",
+   "published": "2026-10-01T02:02:00+00:00"
+  },
+  {
+   "id": "4cb6451c6afd",
+   "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+   "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
+   "published": "2026-10-01T01:45:09+00:00"
+  },
+  {
+   "id": "2504086e4549",
+   "title": "Man arrested over alleged plot to attack Texas state capitol",
+   "link": "https://www.theguardian.com/us-news/2026/sep/30/texas-state-capitol-austin-attack-plot",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Suspect Benny Caldera Jr held on bond as officials say they received ‘credible’ information about Austin threat A 40-year-old man was arrested early Wednesday on suspicion of plotting to attack the Texas state capitol, authorities said. The Texas department of public safety…",
+   "published": "2026-10-01T01:28:33+00:00"
+  },
+  {
    "id": "05c0a535d809",
    "title": "Brandon Parks Comment On Regulatory Notice 26-15",
    "link": "https://www.finra.org/rules-guidance/notices/comment/brandon-parks-comment-regulatory-notice-26-15",
@@ -173,15 +294,15 @@
    "published": "2026-10-01T01:23:13+00:00"
   },
   {
-   "id": "5979a75892ca",
-   "title": "Australia news live: Shoebridge welcomes Faruqi working outside Greens leadership team; recruitment for Antarctic jobs opens",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
-   "source": "The Guardian World",
+   "id": "c7bb32f7f670",
+   "title": "Iraq celebrates Sovereignty Day as US troops complete withdrawal",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iraq-celebrates-sovereignty-day-as-us-troops-complete-withdrawal?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Queensland’s state government has missed a deadline to sign up to the federal government’s Thriving Kids program before its rollout begins today. Under the program, state governments will…",
-   "published": "2026-10-01T01:15:25+00:00"
+   "summary": "Night time celebrations filled the air as Iraqis observed the start of a four-day holiday.",
+   "published": "2026-10-01T01:11:22+00:00"
   },
   {
    "id": "a82736865e39",
@@ -224,7 +345,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Estonian will navigate narrow ribbon, 160 metres long and 120 metres high, near the city’s famous Gwanghwamun palace on Thursday Estonian aerial athlete Jaan Roose will attempt to cross a 160-metre long highline suspended 120 metres above central Seoul on Thursday. Roose , a…",
+   "summary": "Estonian will navigate narrow ribbon, 160 metres long and 120 metres high, near the city’s famous Gyeongbokgung palace on Thursday Estonian aerial athlete Jaan Roose will attempt to cross a 160-metre long highline suspended 120 metres above central Seoul on Thursday. Roose , a…",
    "published": "2026-10-01T00:59:54+00:00"
   },
   {
@@ -316,17 +437,6 @@
    "published": "2026-10-01T00:20:00+00:00"
   },
   {
-   "id": "4cb6451c6afd",
-   "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-   "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution.",
-   "published": "2026-10-01T00:19:20+00:00"
-  },
-  {
    "id": "11358df77461",
    "title": "Gavin Newsom signs laws to protect California workers from AI threat",
    "link": "https://www.theguardian.com/us-news/2026/sep/30/gavin-newsom-california-ai-threat",
@@ -391,17 +501,6 @@
    "flourishing_feed": false,
    "summary": "Noem cites irreconcilable differences in filing that comes after husband Bryon Noem involved in tabloid scandal Kristi Noem, who was fired by Donald Trump after a rumbustious stint as homeland security secretary, is divorcing her husband, Bryon Noem, after 34 years of marriage,…",
    "published": "2026-09-30T23:58:01+00:00"
-  },
-  {
-   "id": "2504086e4549",
-   "title": "Man arrested over alleged plot to attack Texas state capitol",
-   "link": "https://www.theguardian.com/us-news/2026/sep/30/texas-state-capitol-austin-attack-plot",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Suspect Benny Caldera Jr held on bond as officials say they received ‘credible’ information about Austin threat A 40-year-old man was arrested early Wednesday on suspicion of plotting to attack the Texas state capitol, authorities said. The Texas department of public safety…",
-   "published": "2026-09-30T23:53:33+00:00"
   },
   {
    "id": "071ca77e5b6d",
@@ -1131,7 +1230,7 @@
   },
   {
    "id": "b57dab196bb7",
-   "title": "Brisbane and Sydney hit hardest by falling house prices as 5.2% shaved from property values nationwide",
+   "title": "Property prices are plunging in almost every capital city across Australia – see how your suburb rates",
    "link": "https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -1450,13 +1549,13 @@
   },
   {
    "id": "13e7f26df2f8",
-   "title": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
+   "title": "Netanyahu calls stabbed Indian pilot a hero; Flydubai halts Israel flights",
    "link": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The Israeli prime minister thanks 'true hero' Captain Smit Machchhar for 'extraordinary bravery'.",
+   "summary": "Israeli prime minister thanks Captain Smit Machchhar for saving the lives of 174 people on board Tel Aviv-bound flight.",
    "published": "2026-09-30T19:49:21+00:00"
   },
   {
