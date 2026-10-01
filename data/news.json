@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T03:31:35.859817+00:00",
+ "generated": "2026-10-01T04:32:10.286559+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 28
+   "count": 25
   },
   {
    "name": "Congressional Budget Office",
@@ -129,15 +129,213 @@
  ],
  "items": [
   {
+   "id": "c84b762a098f",
+   "title": "Alan Norris Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/alan-norris-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Alan Norris Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 00:28 Alan Norris Al Norris <alnorris11@proton.me> Regulatory Notice 26-15 Core Official Date Thu, 10/01/2026 - 12:00 Comment File Alan Norris_26-15_9.24.2026.pdf",
+   "published": "2026-10-01T04:28:42+00:00"
+  },
+  {
+   "id": "02c88a583c88",
+   "title": "Anonymous Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-81",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 00:26 Anonymous null null Daniel Huszar <huszardaniel@icloud.com> Regulatory Notice 26-15 Core Official Date Thu, 10/01/2026 - 12:00 Comment File Anonymous_dh_26-15_9.24.2026_Redacted.pdf",
+   "published": "2026-10-01T04:26:01+00:00"
+  },
+  {
+   "id": "5979a75892ca",
+   "title": "Australia news live: Anika Wells named in Time’s ‘influential rising stars’; no negative equity crisis despite property slump",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Queensland’s state government has missed a deadline to sign up to the federal government’s Thriving Kids program before its rollout begins today. Under the program, state governments will…",
+   "published": "2026-10-01T04:24:13+00:00"
+  },
+  {
+   "id": "c24f8351148e",
+   "title": "Daredevil Jaan Roose completes slackline walk high above central Seoul",
+   "link": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Estonian completed first of two attempts to navigate narrow ribbon, 160 metres long and 120 metres high, near the city’s famous Gyeongbokgung palace on Thursday Estonian aerial athlete Jaan Roose has completed his first crossing of a 160-metre long highline suspended 120 metres…",
+   "published": "2026-10-01T04:19:23+00:00"
+  },
+  {
+   "id": "673568cf6776",
+   "title": "Afghanistan says nine killed in Pakistani air raids on Kunar, Helmand",
+   "link": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "No immediate comment from Pakistan as Kabul says all victims of the attacks were women and children.",
+   "published": "2026-10-01T04:16:19+00:00"
+  },
+  {
    "id": "4cb6451c6afd",
-   "title": "Tennessee death row inmate Christa Pike taken to hospital after attempted execution, lawyer says",
+   "title": "US death row inmate Christa Pike taken to hospital after surviving two lethal injections, says lawyer",
    "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "One of her attorneys told the BBC that Pike, 50, was in hospital after two syringes of pentobarbital had been administered.",
-   "published": "2026-10-01T03:25:51+00:00"
+   "summary": "Her lawyer says Pike is being \"provided life-saving measures\" after two syringes of pentobarbital.",
+   "published": "2026-10-01T04:13:49+00:00"
+  },
+  {
+   "id": "8fb71fe44292",
+   "title": "South Korea’s exports hit record high on AI boom",
+   "link": "https://www.aljazeera.com/economy/2026/10/1/south-koreas-exports-hit-record-high-on-ai-boom?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exports jump 83.5 percent to top $120bn for the first time amid ferocious semiconductor demand.",
+   "published": "2026-10-01T04:08:15+00:00"
+  },
+  {
+   "id": "623d60856de7",
+   "title": "Israelis divided as vote that could oust Netanyahu only weeks away",
+   "link": "https://www.theguardian.com/world/2026/oct/01/israel-election-benjamin-netanyahu-gadi-eisenkot",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Some on streets of Jerusalem pledge their support to prime minister while others hope for change On the streets of Jerusalem, crowded with secular and ultra-Orthodox Jews, religious nationalists, settlers, Palestinians, and soldiers returning from deployments, uncertainty hangs…",
+   "published": "2026-10-01T04:00:30+00:00"
+  },
+  {
+   "id": "934c0dc97aee",
+   "title": "New Google Maps images reveal massive scale of devastation in Gaza",
+   "link": "https://www.theguardian.com/world/2026/oct/01/new-google-maps-images-reveal-massive-scale-of-devastation-in-gaza",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Satellite imagery shows further destruction of homes, businesses and places of worship since fragile ceasefire An update to Google Maps has revealed the extent of devastation during the three-year Gaza war and the severity of the continuing humanitarian crisis faced by the…",
+   "published": "2026-10-01T04:00:28+00:00"
+  },
+  {
+   "id": "4c8347fe6279",
+   "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years",
+   "link": "https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Alpine regions in Europe experiencing extreme glacier collapse due to heat-trapping effects of fossil fuel pollution Switzerland has lost almost one-fifth of its ice in just five years, research has found, in a dramatic reshaping of the Alpine country whose big white glaciers…",
+   "published": "2026-10-01T04:00:27+00:00"
+  },
+  {
+   "id": "97eb3656b72a",
+   "title": "Kyiv Independent editor: ‘Our readers want Russia to suffer but we can’t be propagandists’",
+   "link": "https://www.theguardian.com/world/2026/oct/01/kyiv-independent-editor-olga-rudenko-readers-want-russia-suffer-cant-be-propagandists",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Olga Rudenko says news site has duty to report on Russian military gains and Ukrainian corruption even if subjects are not so well read Readers of Ukraine’s leading English news site “really want Russia to suffer” but that should not lead the title to downplay the military and…",
+   "published": "2026-10-01T04:00:26+00:00"
+  },
+  {
+   "id": "1ed7ea104b03",
+   "title": "Tennessee woman ‘snoring’ and still alive as execution halted, witnesses say",
+   "link": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Christa Pike, sentenced to death over 1995 murder, was heard snoring 40 minutes after lethal doses administered, witnesses said Tennessee officials were unable to carry out the execution of Christa Pike, media witnesses said Wednesday, despite her being administered two doses…",
+   "published": "2026-10-01T03:53:11+00:00"
+  },
+  {
+   "id": "df72c9872f68",
+   "title": "Jesse Baird’s housemate did not know surfboard bags contained bodies when she took photo, court hears",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/01/beau-lamarre-condon-murder-trial-jesse-baird-housemate-sufboard-bags-photo-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Housemate tells court she saw the bags oozing red liquid she assumed was furniture rust Jesse Baird’s housemate didn’t know she was looking at bags with Baird and his partner’s dead bodies, when she took a photo of oozing surfboard covers the night of their alleged murders, a…",
+   "published": "2026-10-01T03:52:35+00:00"
+  },
+  {
+   "id": "d45ae520586f",
+   "title": "Plummeting Israel flight like 'rollercoaster', says passenger",
+   "link": "https://www.bbc.co.uk/news/videos/cwm2r2v42vdeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An aeroplane flying to Israel fell 17,000ft (5,200m) in less than two minutes before it was diverted.",
+   "published": "2026-10-01T03:52:20+00:00"
+  },
+  {
+   "id": "6c3d3f456ec0",
+   "title": "Anonymous Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-80",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 23:44 Anonymous Zach Branam <zbranam10@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/23/2026 - 12:00 Comment File Anonymous_zb_26-15_9.23.2026_Redacted.pdf",
+   "published": "2026-10-01T03:44:36+00:00"
+  },
+  {
+   "id": "58fca97d859e",
+   "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+   "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
+   "published": "2026-10-01T03:43:06+00:00"
+  },
+  {
+   "id": "4c27852fb1e6",
+   "title": "Travis Spaniel Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/travis-spaniel-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Travis Spaniel Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 23:41 Travis Spaniel Travis Spaniel <t.m.spaniel@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/23/2026 - 12:00 Comment File Travis M. Spaniel_26-15_9.23.2026.pdf",
+   "published": "2026-10-01T03:41:30+00:00"
+  },
+  {
+   "id": "8acf88e6c81b",
+   "title": "John Church Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/john-church-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "John Church Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 23:37 John Church John Church <clodbreaker@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/23/2026 - 12:00 Comment File John Church_26-15_9.23.2026_Redacted.pdf",
+   "published": "2026-10-01T03:37:41+00:00"
+  },
+  {
+   "id": "97056dc6b04e",
+   "title": "Australia at risk from major global financial shock, Reserve Bank warns",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/01/australia-at-risk-from-major-global-financial-shock-reserve-bank-warns",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Warning comes as central bank estimates fewer than one in 100 borrowers owe more on their home than its worth Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Reserve Bank says households are well placed to…",
+   "published": "2026-10-01T03:32:38+00:00"
   },
   {
    "id": "2750defa926f",
@@ -149,17 +347,6 @@
    "flourishing_feed": false,
    "summary": "BoM expects 30 to 50mm of rain to fall in Melbourne over coming days, with showers and storms also likely for Canberra and Sydney on Saturday Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Widespread rain and…",
    "published": "2026-10-01T03:17:26+00:00"
-  },
-  {
-   "id": "5979a75892ca",
-   "title": "Australia news live: Anika Wells named in Time’s ‘influential rising stars’; no negative equity crisis despite property slump",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Queensland’s state government has missed a deadline to sign up to the federal government’s Thriving Kids program before its rollout begins today. Under the program, state governments will…",
-   "published": "2026-10-01T03:17:05+00:00"
   },
   {
    "id": "5464409212d5",
@@ -228,25 +415,14 @@
    "published": "2026-10-01T03:03:08+00:00"
   },
   {
-   "id": "1ed7ea104b03",
-   "title": "Tennessee woman ‘snoring’ and still alive as execution halted, witnesses say",
-   "link": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Christa Pike, sentenced to death over 1995 murder, was heard snoring 40 minutes after lethal doses administered, witnesses said Tennessee officials were unable to carry out the execution of Christa Pike, media witnesses said Wednesday, despite her being administered two doses…",
-   "published": "2026-10-01T02:55:04+00:00"
-  },
-  {
    "id": "7caf484ae171",
-   "title": "US Supreme Court clears way for Christa Pike’s execution in Tennessee",
+   "title": "Christa Pike’s execution by lethal injection fails in Tennessee",
    "link": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-clears-way-for-christa-pikes-execution-in-tennessee?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Top court's decision overturns last-minute stay that had stalled Tennessee's first execution of a woman in 200 years.",
+   "summary": "Witnesses say Tennessee officials were unable to execute Christa Pike after a lethal injection attempt.",
    "published": "2026-10-01T02:35:59+00:00"
   },
   {
@@ -303,17 +479,6 @@
    "flourishing_feed": false,
    "summary": "ATO database names big companies – including Microsoft subsidiary and Netflix – that pay little corporate tax but notes there could be legitimate reasons Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast…",
    "published": "2026-10-01T02:30:06+00:00"
-  },
-  {
-   "id": "58fca97d859e",
-   "title": "'Hero' pilot stabbed by other pilot on Israel-bound plane, Israeli PM says",
-   "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Passengers and crew overpowered the attacker and safely landed the plane in Saudi Arabia.",
-   "published": "2026-10-01T02:29:04+00:00"
   },
   {
    "id": "4b8889036ce3",
@@ -490,17 +655,6 @@
    "flourishing_feed": false,
    "summary": "Believe it or not, the Utah Mammoth are about to kick off their third season of existence. They’re doing it the same way as they began their inaugural season: with a home game against the Chicago Blackhawks. Utah commanded a 5-2 win in its first game and the team is hoping for…",
    "published": "2026-10-01T01:00:00+00:00"
-  },
-  {
-   "id": "c24f8351148e",
-   "title": "Daredevil Jaan Roose prepares to walk slackline high above central Seoul",
-   "link": "https://www.theguardian.com/world/2026/oct/01/jaan-roose-seoul-slackline-walk-south-korea",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Estonian will navigate narrow ribbon, 160 metres long and 120 metres high, near the city’s famous Gyeongbokgung palace on Thursday Estonian aerial athlete Jaan Roose will attempt to cross a 160-metre long highline suspended 120 metres above central Seoul on Thursday. Roose , a…",
-   "published": "2026-10-01T00:59:54+00:00"
   },
   {
    "id": "ceab246c3877",
