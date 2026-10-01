@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T14:34:26.051931+00:00",
+ "generated": "2026-10-01T15:32:29.585888+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,303 @@
  ],
  "items": [
   {
+   "id": "a0ae7dae72c8",
+   "title": "Katie Downey Stehouwer Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/katie-downey-stehouwer-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Katie Downey Stehouwer Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 11:32 Katie Downey Stehouwer Katie Downey Stehouwe Regulatory Notice 26-15 Core Official Date Thu, 10/01/2026 - 12:00 Comment File Katie Downey Stehouwer_26-15_9.25.2026.pdf",
+   "published": "2026-10-01T15:32:08+00:00"
+  },
+  {
+   "id": "d1a3ee027b9e",
+   "title": "Steve Perkins Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/steve-perkins-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Steve Perkins Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 11:28 Steve Perkins Steve Perkins <perkins.steve@gmail.com> Regulatory Notice 26-15 Core Official Date Thu, 10/01/2026 - 12:00 Comment File Steve Perkins_26-15_9.25.2026.pdf",
+   "published": "2026-10-01T15:28:17+00:00"
+  },
+  {
+   "id": "06df836303bf",
+   "title": "White House again blocks CNN from press pool as Trump rages against media in wide-ranging interview – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/01/tennessee-governor-halts-executions-christa-pike-lethal-injection-donald-trump-hegseth-musk-us-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A Trump-appointed federal judge had issued a temporary block on the administration’s ban of CNN, Politico and MS Now from the White House, which is in place until 8 October Tennessee woman on death row taken to hospital after surviving two lethal injections Sign up for the…",
+   "published": "2026-10-01T15:23:45+00:00"
+  },
+  {
+   "id": "a75b8f17048c",
+   "title": "New space station crew launches from Florida on SpaceX's Crew Dragon capsule",
+   "link": "https://www.npr.org/2026/10/01/nx-s1-5987698/nasa-crew-13-spacex-international-space-station-iss",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The crew of four — two NASA astronauts, one from Canada, and a Russian cosmonaut — heads to the International Space Station after liftoff from the Cape Canaveral Space Force Station in Florida.",
+   "published": "2026-10-01T15:21:33+00:00"
+  },
+  {
+   "id": "0d67d4435f0f",
+   "title": "Co-pilot in flight stabbing had ‘Islamic radical indoctrination’, says Netanyahu",
+   "link": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Alleged flydubai attacker interrogated by Saudi security services as investigation into apparent crash attempt opens The Omani co-pilot who stabbed his captain in an apparent attempt to crash an Israel-bound flight from Dubai had previously undergone radical Islamist…",
+   "published": "2026-10-01T15:21:28+00:00"
+  },
+  {
+   "id": "64cbe22b1a93",
+   "title": "Marek Szkudlarek Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/marek-szkudlarek-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Marek Szkudlarek Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 11:21 Marek Szkudlarek Marek Szkudlarek <marekszkudlarek@hotmail.com> Regulatory Notice 26-15 Core Official Date Thu, 10/01/2026 - 12:00 Comment File Marek Szkudlarek_26-15_9.25.2026.pdf",
+   "published": "2026-10-01T15:21:22+00:00"
+  },
+  {
+   "id": "fe770ff47723",
+   "title": "U.S. manufacturers say inflation is bad and not getting any better",
+   "link": "https://www.marketwatch.com/story/u-s-manufacturers-say-inflation-is-bad-and-not-getting-any-better-8281edef?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "American manufacturers are expanding and have plenty of new orders, but high energy prices and new Trump tariffs appear to be blocking even faster growth.",
+   "published": "2026-10-01T15:19:00+00:00"
+  },
+  {
+   "id": "410b34fad0bd",
+   "title": "Farage hints Reform’s internal inquiry could clear two aides suspended after C4 investigation – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/01/universal-credit-benefits-welfare-conservatives-kemi-badenoch-andy-burnham-labour-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Farage was speaking ahead of a rally in Doncaster Just as a reminder of why prisoners are being released early, here is an explainer by Jamie Grierson which sets out how the scheme works, why it was introduced and the changes made by Burnham’s government: Jamie writes: The…",
+   "published": "2026-10-01T15:14:20+00:00"
+  },
+  {
+   "id": "c71415943cda",
+   "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+   "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
+   "published": "2026-10-01T15:05:36+00:00"
+  },
+  {
+   "id": "8bc663610baa",
+   "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
+   "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
+   "published": "2026-10-01T15:04:32+00:00"
+  },
+  {
+   "id": "0edcabdec924",
+   "title": "Moroccan intelligence uses surveillance to ‘silence’ journalists: Amnesty",
+   "link": "https://www.aljazeera.com/news/2026/10/1/moroccan-intelligence-uses-surveillance-to-silence-journalists-amnesty?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Probe finds spyware, hidden microphones and infected phones used to surveil journalists, activists, rights defenders.",
+   "published": "2026-10-01T15:04:21+00:00"
+  },
+  {
+   "id": "3f074b908634",
+   "title": "SEC’s Division of Examinations Announces New Exam Handbook",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook",
+   "source": "SEC Press Releases",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Securities and Exchange Commission’s Division of Examinations today published its new handbook, “The SEC Exam Handbook: A Practical Guide on Process and Engagement,” which replaces and expands upon the previous examination brochure by providing…",
+   "published": "2026-10-01T15:03:35+00:00"
+  },
+  {
+   "id": "10490f983a18",
+   "title": "Flydubai stabbing: How safe are planes if a pilot turns violent?",
+   "link": "https://www.aljazeera.com/features/2026/10/1/flydubai-stabbing-how-safe-are-planes-if-a-pilot-turns-violent?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Civil aviation changed after 9/11 to keep attackers outside cockpits. The Flydubai scare flips the dilemma.",
+   "published": "2026-10-01T15:03:08+00:00"
+  },
+  {
+   "id": "e746fced3e1b",
+   "title": "Anonymous Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-122",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 11:01 Anonymous Sean Atha <satha92@gmail.com> Regulatory Notice 26-15 Core Official Date Fri, 09/25/2026 - 12:00 Comment File Anonymous_sa_26-15_9.25.2026_Redacted.pdf",
+   "published": "2026-10-01T15:01:09+00:00"
+  },
+  {
+   "id": "68bf8f74def3",
+   "title": "Underlying causes of recurrent bacterial vaginosis identified by Australian scientists",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/02/underlying-causes-of-recurrent-bacterial-vaginosis-identified-by-australian-scientists",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Melbourne researchers behind previous BV transmission breakthrough turn attention to understanding why some cases are harder to cure Australian scientists have identified two contributors to recurrent bacterial vaginosis infections, a common sexual health condition that affects…",
+   "published": "2026-10-01T15:00:55+00:00"
+  },
+  {
+   "id": "6ea926bd8b6e",
+   "title": "Million-dollar public servants: 11 staff at Australia’s Future Fund paid significantly more than the PM",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/02/public-servants-australia-future-fund-paid-more-than-pm-albanese",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "One executive received a $1.5m package last year, while 10 other staff received remuneration exceeding $1m each Get our breaking news email , free app or daily news podcast Nearly a dozen federal public servants were paid more than $1m last year, with one receiving a $1.5m…",
+   "published": "2026-10-01T15:00:55+00:00"
+  },
+  {
+   "id": "4be84b5fb521",
+   "title": "Matt Kean warns climate crisis ‘isn’t someone else’s problem’ as largest coal project in NSW history greenlit",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/02/hunter-valley-operations-coal-mine-extension-nsw",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Climate Change Authority chair says planning commission did not account for climate-related economic damage in NSW Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here A senior Albanese government climate adviser has challenged the…",
+   "published": "2026-10-01T15:00:54+00:00"
+  },
+  {
+   "id": "e1a067c8c909",
+   "title": "Anthropic pushes for opt-out model for Australian content as ABC warns of ‘cannibalisation’ of news",
+   "link": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Maker of Claude claims AI could transform economy but ABC and SBS say the technology should be subject to media regulations Get our new political email , free app or daily news podcast AI giant Anthropic has urged the Albanese government to consider giving “conditional…",
+   "published": "2026-10-01T15:00:53+00:00"
+  },
+  {
+   "id": "56369a2479e7",
+   "title": "Western militaries are undermining Ukraine’s defence, experts say",
+   "link": "https://www.aljazeera.com/news/2026/10/1/western-militaries-are-undermining-ukraines-defence-experts-say?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A combination of rigid Western military attitudes and Kyiv's regulatory paralysis leaves fewer weapons at the front.",
+   "published": "2026-10-01T15:00:44+00:00"
+  },
+  {
+   "id": "2b0a89bd386a",
+   "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+   "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“As a country, we have grown dangerously comfortable.”",
+   "published": "2026-10-01T15:00:00+00:00"
+  },
+  {
+   "id": "01c077d77718",
+   "title": "Anonymous Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/anonymous-comment-regulatory-notice-26-15-121",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 10:58 Anonymous Hunter Masten <davis17@gmail.com> Regulatory Notice 26-15 Core Official Date Fri, 09/25/2026 - 12:00 Comment File Anonymous_hm_26-15_9.25.2026_Redacted.pdf",
+   "published": "2026-10-01T14:58:36+00:00"
+  },
+  {
+   "id": "54e59da69f73",
+   "title": "Sunday in Japan: A Ugandan asylum seeker turns to filmmaking",
+   "link": "https://www.aljazeera.com/video/witness/2026/10/1/sunday-in-japan-a-ugandan-asylum-seeker-turns-to-filmmaking?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Facing deportation from Japan, a Ugandan filmmaker makes a samurai film inspired by his own life.",
+   "published": "2026-10-01T14:50:00+00:00"
+  },
+  {
+   "id": "31282f925d70",
+   "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
+   "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fears that US deficit is unsustainable drive yields on Treasury bills and UK gilts to multi-decade highs Business live – latest updates The turmoil in global bond markets has intensified amid fears the US deficit is reaching unsustainable levels, helping drive UK long-term…",
+   "published": "2026-10-01T14:48:45+00:00"
+  },
+  {
+   "id": "b151a7e82ddf",
+   "title": "French high school protests escalate with violence reported – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Authorities have reported dozens of injuries, including from hurled objects but also, in some suspected cases, from police riot-control projectiles The ⁠EU Commission, France, Italy, Ireland ⁠and ⁠Britain are ​holding a call on ⁠the possible need to release diesel ⁠stocks, an…",
+   "published": "2026-10-01T14:47:15+00:00"
+  },
+  {
+   "id": "970c6c4099bc",
+   "title": "David Gieser’s 70 Year Relationship with Christianity Today",
+   "link": "https://www.christianitytoday.com/about/stories/david-giesers-70-year-relationship-with-christianity-today/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Christianity Today has been part of David Gieser’s life since its very beginning. His family knew Billy Graham before Graham ever conceived of the magazine—and that connection gave David a front-row seat to the ministry and vision that would become Christianity Today. David’s…",
+   "published": "2026-10-01T14:46:06+00:00"
+  },
+  {
+   "id": "34e109b65a85",
+   "title": "September jobs report may show labor market is on the mend — but it’s far from cured",
+   "link": "https://www.marketwatch.com/story/september-jobs-report-may-show-labor-market-is-on-the-mend-but-its-far-from-cured-ebac2472?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The U.S. job market has been stuck in what economists call a low-hire, low fire mode for the past two years — and the September employment report is likely to be in line with this unusual trend.",
+   "published": "2026-10-01T14:43:00+00:00"
+  },
+  {
+   "id": "aab8d0847e56",
+   "title": "Rick Ross arrested on domestic battery and strangulation charges",
+   "link": "https://www.theguardian.com/music/2026/oct/01/rick-ross-arrest-miami-battery-strangulation",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The rapper was arrested in Miami Beach on Thursday, days after an ex-girlfriend accused him of physical abuse Rick Ross has been arrested on domestic violence charges in Miami Beach, according to local police. The rapper was booked at Turner Guilford Knight correctional center…",
+   "published": "2026-10-01T14:34:42+00:00"
+  },
+  {
    "id": "6dbab733c736",
    "title": "Simos Koutsof Comment On Regulatory Notice 26-15",
    "link": "https://www.finra.org/rules-guidance/notices/comment/simos-koutsof-comment-regulatory-notice-26-15",
@@ -149,6 +446,28 @@
    "flourishing_feed": false,
    "summary": "“The only debts were utility and credit-card bills, which we will pay off.”",
    "published": "2026-10-01T14:30:00+00:00"
+  },
+  {
+   "id": "8d6a99dfc7ed",
+   "title": "Naomi Campbell wins legal challenge over charity trustee ban",
+   "link": "https://www.theguardian.com/society/2026/oct/01/naomi-campbell-wins-legal-challenge-charity-trustee-ban",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Supermodel was disqualified from role in 2024 after Charity Commission accused her of misusing funds and abdicating responsibilities Naomi Campbell has won a legal challenge to overturn a five-year ban on being a charity trustee after judges found she was unaware of serious…",
+   "published": "2026-10-01T14:29:42+00:00"
+  },
+  {
+   "id": "f27d9f04e85f",
+   "title": "Finnish PM says suspected break-ins at MPs’ homes could be work of foreign power",
+   "link": "https://www.theguardian.com/world/2026/oct/01/finland-suspected-break-ins-mp-homes-foreign-power",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police investigating reports of politicians’ homes being broken into in last year with nothing being stolen The Finnish prime minister, Petteri Orpo, has said a foreign power could be responsible for a series of suspected break-ins at the homes of several members of parliament.…",
+   "published": "2026-10-01T14:29:26+00:00"
   },
   {
    "id": "189d5c14d7c1",
@@ -217,28 +536,6 @@
    "published": "2026-10-01T14:22:30+00:00"
   },
   {
-   "id": "b151a7e82ddf",
-   "title": "Poland would welcome UK back into EU ‘with open arms’, foreign minister says – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Radosław Sikorski’s comments come a day after similar statement from Emmanuel Macron The ⁠EU Commission, France, Italy, Ireland ⁠and ⁠Britain are ​holding a call on ⁠the possible need to release diesel ⁠stocks, an ​EU ‌official ‌said, as reported by Reuters. A ‌Commission…",
-   "published": "2026-10-01T14:20:56+00:00"
-  },
-  {
-   "id": "06df836303bf",
-   "title": "White House again blocks CNN from press pool as Trump rages against media in wide-ranging interview – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/01/tennessee-governor-halts-executions-christa-pike-lethal-injection-donald-trump-hegseth-musk-us-politics-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "A Trump-appointed federal judge had issued a temporary block on the administration’s ban of CNN, Politico and MS Now from the White House, which is in place until 8 October Tennessee woman on death row taken to hospital after surviving two lethal injections Sign up for the…",
-   "published": "2026-10-01T14:17:18+00:00"
-  },
-  {
    "id": "aabef0343d74",
    "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
    "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
@@ -270,17 +567,6 @@
    "flourishing_feed": false,
    "summary": "In mother-of-pearl suits, the Pearly Kings used to canvass East London for charity. The most famous one, George Major, died in August. A look back on this larger-than-life figure and the Pearly King tradition.",
    "published": "2026-10-01T14:13:38+00:00"
-  },
-  {
-   "id": "410b34fad0bd",
-   "title": "Farage hints Reform’s internal inquiry could clear two aides suspended after C4 investigation – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/01/universal-credit-benefits-welfare-conservatives-kemi-badenoch-andy-burnham-labour-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Farage was speaking ahead of a rally in Doncaster Just as a reminder of why prisoners are being released early, here is an explainer by Jamie Grierson which sets out how the scheme works, why it was introduced and the changes made by Burnham’s government: Jamie writes: The…",
-   "published": "2026-10-01T14:07:41+00:00"
   },
   {
    "id": "033efa691cae",
@@ -515,7 +801,7 @@
   },
   {
    "id": "0576cdcfcbdd",
-   "title": "November Ballot Tax Measures Target High Income: What to Watch",
+   "title": "Income Tax Changes on the November Ballot: Key Measures to Watch",
    "link": "https://www.kiplinger.com/taxes/november-ballot-tax-measures-target-high-income",
    "source": "Kiplinger",
    "circle_hint": "national",
@@ -745,17 +1031,6 @@
    "published": "2026-10-01T12:40:31+00:00"
   },
   {
-   "id": "c71415943cda",
-   "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-   "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
-   "published": "2026-10-01T12:38:55+00:00"
-  },
-  {
    "id": "f78a271d03e4",
    "title": "Watch: Why are students protesting at schools in France?",
    "link": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss",
@@ -955,7 +1230,7 @@
   },
   {
    "id": "343c8c0c3089",
-   "title": "How was the Flydubai pilot who attacked his co-pilot cleared to fly?",
+   "title": "How was the Flydubai co-pilot who attacked his captain cleared to fly?",
    "link": "https://www.aljazeera.com/news/2026/10/1/how-was-the-flydubai-pilot-who-attacked-his-co-pilot-cleared-to-fly?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -1185,17 +1460,6 @@
    "published": "2026-10-01T11:00:26+00:00"
   },
   {
-   "id": "0d67d4435f0f",
-   "title": "Motive behind flydubai cockpit stabbing unknown as international investigation opens",
-   "link": "https://www.theguardian.com/world/2026/oct/01/netanyahu-flydubai-halts-all-flights-to-israel",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Benjamin Netanyahu says too early to tell who may have been behind plane incident as carrier halts all flights to Israel The motive, background and affiliation of the Omani co-pilot who stabbed his captain in an apparent attempt to crash an Israel-bound flight from Dubai…",
-   "published": "2026-10-01T10:59:06+00:00"
-  },
-  {
    "id": "163eb1d5b43d",
    "title": "Christa Pike execution fails: What next when a lethal injection is botched?",
    "link": "https://www.aljazeera.com/news/2026/10/1/christa-pike-execution-fails-what-next-when-a-lethal-injection-is-botched?traffic_source=rss",
@@ -1326,17 +1590,6 @@
    "flourishing_feed": false,
    "summary": "Thomas Johansen Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 06:23 Thomas Johansen Thomas Johansen <thomas_johansen1@msn.com> Regulatory Notice 26-15 Core Official Date Thu, 10/01/2026 - 12:00 Comment File Thomas Johansen_26-15_9.24.2026.pdf",
    "published": "2026-10-01T10:23:56+00:00"
-  },
-  {
-   "id": "31282f925d70",
-   "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
-   "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Fears that US deficit is unsustainable drive Britain’s 30-year bond yield to level not seen since 1998 Business live – latest updates The turmoil in global bond markets has intensified amid fears the US deficit is reaching unsustainable levels, helping drive UK long-term…",
-   "published": "2026-10-01T10:18:03+00:00"
   },
   {
    "id": "507d1e97012d",
@@ -1645,6 +1898,17 @@
    "flourishing_feed": false,
    "summary": "India defeated Sri Lanka by 124 runs in the semifinal to book their spot in a first-ever games clash with Pakistan.",
    "published": "2026-10-01T09:39:05+00:00"
+  },
+  {
+   "id": "a6c38c467c77",
+   "title": "Michael Jordan's 1998 NBA finals jersey sells for more than £9m",
+   "link": "https://www.bbc.co.uk/sport/basketball/articles/cx5yly6p2nyvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A Michael Jordan jersey from his 'Last Dance' season sells for $12.3m, a record for a piece of Jordan memorabilia.",
+   "published": "2026-10-01T09:36:13+00:00"
   },
   {
    "id": "4dea5374c82e",
@@ -1975,17 +2239,6 @@
    "flourishing_feed": false,
    "summary": "Dal Lake’s fragile ecosystem is deteriorating amid pollution, unregulated construction and climate change in Kashmir.",
    "published": "2026-10-01T08:41:57+00:00"
-  },
-  {
-   "id": "8bc663610baa",
-   "title": "Who is the 'hero' Indian pilot who was stabbed on Israel-bound flight?",
-   "link": "https://www.bbc.co.uk/news/articles/cje3r3z7g0zzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Capt Smit Machchhar was attacked by another pilot onboard the Flydubai flight bound for Tel Aviv.",
-   "published": "2026-10-01T08:39:28+00:00"
   },
   {
    "id": "619d1c3de6f2",
@@ -5770,17 +6023,6 @@
    "flourishing_feed": false,
    "summary": "Katie Clapham offers warm and witty dispatches about her experiences as the owner of Storytellers, an independent bookshop in a coastal England town.",
    "published": "2026-09-30T15:00:12+00:00"
-  },
-  {
-   "id": "2b0a89bd386a",
-   "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-   "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“As a country, we have grown dangerously comfortable.”",
-   "published": "2026-09-30T15:00:00+00:00"
   },
   {
    "id": "7787a222850f",
