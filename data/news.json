@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T06:38:08.946867+00:00",
+ "generated": "2026-10-01T07:33:12.161275+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "name": "Congressional Budget Office",
@@ -129,6 +129,149 @@
  ],
  "items": [
   {
+   "id": "d25dd64f395b",
+   "title": "SIFMA Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/sifma-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "SIFMA Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 03:30 Christopher Killian Killian, Chris <ckillian@sifma.org> SIFMA Regulatory Notice 26-15 Core Official Date Thu, 10/01/2026 - 12:00 Comment File SIFMA_Christopher Killian_26-15_9.25.2026.pdf",
+   "published": "2026-10-01T07:30:21+00:00"
+  },
+  {
+   "id": "58fca97d859e",
+   "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+   "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
+   "published": "2026-10-01T07:27:25+00:00"
+  },
+  {
+   "id": "5979a75892ca",
+   "title": "Australia news live: NSW seeks to join Queensland in ‘from the river to the sea’ ban case – as it happened",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This blog has now closed Get our breaking news email , free app or daily news podcast Queensland’s state government has missed a deadline to sign up to the federal government’s Thriving Kids program before its rollout begins today. Under the program, state governments will…",
+   "published": "2026-10-01T07:15:25+00:00"
+  },
+  {
+   "id": "df72c9872f68",
+   "title": "‘Don’t freak out’: Beau Lamarre-Condon asked friend if hire cars could be tracked before alleged murders, court hears",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/01/beau-lamarre-condon-murder-trial-jesse-baird-housemate-sufboard-bags-photo-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Colleague gives evidence she told accused murderer ‘don’t do anything stupid’ during conversation weeks before alleged killings Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon promised he “wasn’t doing anything illegal” when he asked a fellow…",
+   "published": "2026-10-01T07:13:13+00:00"
+  },
+  {
+   "id": "c6ebf430a46a",
+   "title": "Anika Wells named on Time100 list as one of ‘world’s most influential rising stars’ after social media ban",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/01/anika-wells-time100-time-magazine-influential-rising-stars",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Time magazine list includes Australian communications minister after her efforts to take on big tech The federal communications minister, Anika Wells, has been named as one of Time magazine’s “world’s most influential rising stars” in recognition of her work on Australia’s…",
+   "published": "2026-10-01T07:12:45+00:00"
+  },
+  {
+   "id": "84ab4c1f0a57",
+   "title": "Africa's richest man launches Kenya oil refinery despite land protests",
+   "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
+   "published": "2026-10-01T07:04:27+00:00"
+  },
+  {
+   "id": "4cb6451c6afd",
+   "title": "US death row inmate survives execution attempt after two lethal injections",
+   "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+   "published": "2026-10-01T07:01:16+00:00"
+  },
+  {
+   "id": "2ad0e14392a8",
+   "title": "Why good leaders listen",
+   "link": "https://www.positive.news/lifestyle/why-good-leaders-listen/",
+   "source": "Positive News",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": true,
+   "summary": "Listening is often overlooked as a leadership skill, but it can challenge assumptions and lead to better decisions, writes social innovator Ken Banks The post Why good leaders listen appeared first on Positive News .",
+   "published": "2026-10-01T07:00:31+00:00"
+  },
+  {
+   "id": "478b04087254",
+   "title": "Not a MAGA Court",
+   "link": "https://thedispatch.com/podcast/advisoryopinions/not-a-maga-court/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Understanding the Supreme Court ahead of elections.",
+   "published": "2026-10-01T07:00:00+00:00"
+  },
+  {
+   "id": "256a404bd996",
+   "title": "Open Thread",
+   "link": "https://reason.com/volokh/2026/10/01/open-thread-344/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What’s on your mind?",
+   "published": "2026-10-01T07:00:00+00:00"
+  },
+  {
+   "id": "b0b1e706bee5",
+   "title": "UK house price growth halves amid rising mortgage interest rates",
+   "link": "https://www.theguardian.com/money/2026/oct/01/uk-house-price-growth-rising-mortgage-interest-rates-nationwide",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prices fell by 0.2% month on month in September as average price of a home slipped to £274,251, says Nationwide Business live – latest updates Annual house price growth halved in the UK last month, as economic uncertainty sparked by conflict in the Middle East continued to…",
+   "published": "2026-10-01T06:59:04+00:00"
+  },
+  {
+   "id": "67ee7bd30b60",
+   "title": "India vs Pakistan live: Asian Games hockey semifinal",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/1/india-vs-pakistan-live-asian-games-hockey-semifinal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow our build-up to the match in Japan, field hockey rivalry history, score, photos and live text commentary.",
+   "published": "2026-10-01T06:40:43+00:00"
+  },
+  {
+   "id": "f9039bf9dcb1",
+   "title": "Wong thanks ‘heroes’ who thwarted flydubai pilot’s alleged attack on co-pilot as Australians confirmed safe",
+   "link": "https://www.theguardian.com/world/2026/oct/01/australian-couple-on-flydubai-plane-to-israel-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sydney couple were on board flight to Tel Aviv that was dramatically diverted to Saudi Arabia after one pilot allegedly stabbed the other Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Two Australian citizens…",
+   "published": "2026-10-01T06:24:40+00:00"
+  },
+  {
    "id": "1936cda9b999",
    "title": "Billions of dollars, none of it taxed: ATO reveals the tech giants paying zero income tax",
    "link": "https://www.theguardian.com/australia-news/2026/oct/01/microsoft-optus-singtel-netflix-corporations-paying-no-tax-australia-ato",
@@ -140,17 +283,6 @@
    "published": "2026-10-01T06:16:39+00:00"
   },
   {
-   "id": "5979a75892ca",
-   "title": "Australia news live: Anika Wells named in Time’s ‘influential rising stars’; NSW seeks to join Queensland in ‘from the river to the sea’ ban case",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/01/labor-anthony-albanese-ato-ndis-thriving-kids-coalition-greens-leader-david-shoebridge-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Queensland’s state government has missed a deadline to sign up to the federal government’s Thriving Kids program before its rollout begins today. Under the program, state governments will…",
-   "published": "2026-10-01T06:13:07+00:00"
-  },
-  {
    "id": "79e5a4ba4983",
    "title": "Jose Matuk Comment On Regulatory Notice 26-15",
    "link": "https://www.finra.org/rules-guidance/notices/comment/jose-matuk-comment-regulatory-notice-26-15",
@@ -158,7 +290,7 @@
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Jose Matuk Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 02:08 Jose Matuk Pepe Matuk <pepematuk@gmail.com> Regulatory Notice 26-15 Core Official Date Thu, 10/01/2026 - 12:00 Comment File Jose Matuk_26-15_9.24.2026_Redacted.pdf",
+   "summary": "Jose Matuk Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 02:08 Jose Matuk Pepe Matuk <pepematuk@gmail.com> Regulatory Notice 26-15 Core Official Date Thu, 09/24/2026 - 12:00 Comment File Jose Matuk_26-15_9.24.2026_Redacted.pdf",
    "published": "2026-10-01T06:08:35+00:00"
   },
   {
@@ -169,7 +301,7 @@
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Nicholas Sech Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 02:08 Nicholas Sech Nick Sech <nicksech@hotmail.com> Regulatory Notice 26-15 Core Official Date Thu, 10/01/2026 - 12:00 Comment File Nicholas Sech_26-15_9.24.2026.pdf",
+   "summary": "Nicholas Sech Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 02:08 Nicholas Sech Nick Sech <nicksech@hotmail.com> Regulatory Notice 26-15 Core Official Date Thu, 09/24/2026 - 12:00 Comment File Nicholas Sech_26-15_9.24.2026.pdf",
    "published": "2026-10-01T06:08:29+00:00"
   },
   {
@@ -191,7 +323,7 @@
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 02:02 Anonymous david recchion <david.recchion@gmail.com> Regulatory Notice 26-15 Core Official Date Thu, 10/01/2026 - 12:00 Comment File Anonymous_dr_26-15_9.24.2026_Redacted.pdf",
+   "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 02:02 Anonymous david recchion <david.recchion@gmail.com> Regulatory Notice 26-15 Core Official Date Thu, 09/24/2026 - 12:00 Comment File Anonymous_dr_26-15_9.24.2026_Redacted.pdf",
    "published": "2026-10-01T06:02:37+00:00"
   },
   {
@@ -213,7 +345,7 @@
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Eugen Oehler Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 01:59 Eugen Oehler Eugen Oehler <eugen.oehler@gmail.com> Regulatory Notice 26-15 Core Official Date Thu, 10/01/2026 - 12:00 Comment File Eugen Oehler_26-15_9.24.2026.pdf",
+   "summary": "Eugen Oehler Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 01:59 Eugen Oehler Eugen Oehler <eugen.oehler@gmail.com> Regulatory Notice 26-15 Core Official Date Thu, 09/24/2026 - 12:00 Comment File Eugen Oehler_26-15_9.24.2026.pdf",
    "published": "2026-10-01T05:59:14+00:00"
   },
   {
@@ -248,17 +380,6 @@
    "flourishing_feed": false,
    "summary": "After months of wait-and-watch, India is calling out differences with Trump head on as domestic pressure mounts.",
    "published": "2026-10-01T05:37:39+00:00"
-  },
-  {
-   "id": "4cb6451c6afd",
-   "title": "US death row inmate survives execution attempt after two lethal injections",
-   "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Her lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
-   "published": "2026-10-01T05:34:41+00:00"
   },
   {
    "id": "86bbdd27f65d",
@@ -327,17 +448,6 @@
    "published": "2026-10-01T05:14:09+00:00"
   },
   {
-   "id": "f9039bf9dcb1",
-   "title": "Australian couple among passengers on diverted flydubai flight to Israel, embassy says",
-   "link": "https://www.theguardian.com/world/2026/oct/01/australian-couple-on-flydubai-plane-to-israel-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Israeli embassy says the Sydney couple were on board flight that was dramatically diverted after one pilot allegedly stabbed the other Two Australian citizens were onboard a flight to Tel Aviv that was diverted after one of the pilots allegedly stabbed the other in an attack ,…",
-   "published": "2026-10-01T05:14:08+00:00"
-  },
-  {
    "id": "284cbc6edc9b",
    "title": "Gaza prepares to bury 105 Palestinians killed in October 2023",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss",
@@ -378,7 +488,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Millions of people in Great Britain face increase from Thursday to an average of £1,723 a year for a typical home John Healey is under growing pressure to offer fresh energy support for households in next month’s budget as millions face a 4% rise in charges from Thursday to an…",
+   "summary": "Millions of people in Great Britain face increase from Thursday to an average of £1,723 a year for a typical home What to do as energy bills head for £2,000 a year John Healey is under growing pressure to offer fresh energy support for households in next month’s budget as…",
    "published": "2026-10-01T05:00:29+00:00"
   },
   {
@@ -525,6 +635,17 @@
    "published": "2026-10-01T04:00:26+00:00"
   },
   {
+   "id": "aee5866c3673",
+   "title": "Superfund Tax on Chemical Substances; Request To Modify List of Taxable Substances; Notice of Filing for Styrene Isoprene Block Copolymer; x+z=482, y=2,178.51, a=1.70",
+   "link": "https://www.federalregister.gov/documents/2026/10/01/2026-20061/superfund-tax-on-chemical-substances-request-to-modify-list-of-taxable-substances-notice-of-filing",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "This notice of filing announces that a petition has been filed requesting that styrene isoprene block copolymer ((C<INF>8</INF>H<INF>8</INF>)<INF>x</INF>- (C<INF>5</INF>H<INF>8</INF>)<INF>y</INF>- (C<INF>8</INF>H<INF>8</INF>)<INF>z</INF>-…",
+   "published": "2026-10-01T04:00:00+00:00"
+  },
+  {
    "id": "1ed7ea104b03",
    "title": "Tennessee woman on death row taken to hospital after surviving two lethal injections",
    "link": "https://www.theguardian.com/us-news/2026/sep/30/tennessee-execution-halted-christa-pike",
@@ -534,17 +655,6 @@
    "flourishing_feed": false,
    "summary": "Christa Pike, sentenced to death over 1995 murder, was heard snoring 40 minutes after lethal doses administered, witnesses said Tennessee officials were unable to carry out the execution of Christa Pike despite her being administered two doses of a lethal injection drug, her…",
    "published": "2026-10-01T03:53:11+00:00"
-  },
-  {
-   "id": "df72c9872f68",
-   "title": "Jesse Baird’s housemate did not know surfboard bags contained bodies when she took photo, court hears",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/01/beau-lamarre-condon-murder-trial-jesse-baird-housemate-sufboard-bags-photo-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Housemate tells court she saw the bags oozing red liquid she assumed was furniture rust Jesse Baird’s housemate didn’t know she was looking at bags with Baird and his partner’s dead bodies, when she took a photo of oozing surfboard covers the night of their alleged murders, a…",
-   "published": "2026-10-01T03:52:35+00:00"
   },
   {
    "id": "d45ae520586f",
@@ -567,17 +677,6 @@
    "flourishing_feed": false,
    "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 23:44 Anonymous Zach Branam <zbranam10@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/23/2026 - 12:00 Comment File Anonymous_zb_26-15_9.23.2026_Redacted.pdf",
    "published": "2026-10-01T03:44:36+00:00"
-  },
-  {
-   "id": "58fca97d859e",
-   "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-   "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
-   "published": "2026-10-01T03:43:06+00:00"
   },
   {
    "id": "4c27852fb1e6",
@@ -691,13 +790,13 @@
   },
   {
    "id": "7caf484ae171",
-   "title": "Christa Pike’s execution by lethal injection fails in Tennessee",
+   "title": "Tennessee inmate Christa Pike survives lethal injection execution attempt",
    "link": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-clears-way-for-christa-pikes-execution-in-tennessee?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Witnesses say Tennessee officials were unable to execute Christa Pike after a lethal injection attempt.",
+   "summary": "Officials were unable to execute Christa Pike after two lethal injection attempts, with her remaining execution halted.",
    "published": "2026-10-01T02:35:59+00:00"
   },
   {
@@ -4912,17 +5011,6 @@
    "flourishing_feed": false,
    "summary": "Anonymous Comment On Regulatory Notice 26-15 fnrw-backend Wed, 09/30/2026 - 07:25 Anonymous Emmanuel Esekwe <eesekwe@gmail.com> Regulatory Notice 26-15 Core Official Date Wed, 09/30/2026 - 12:00 Comment File Anonymous_ee_26-15_9.22.2026_Redacted.pdf",
    "published": "2026-09-30T11:25:33+00:00"
-  },
-  {
-   "id": "84ab4c1f0a57",
-   "title": "Africa's richest man launches Kenya oil refinery despite land protests",
-   "link": "https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.",
-   "published": "2026-09-30T11:25:12+00:00"
   },
   {
    "id": "92ddce47579e",
