@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T17:30:57.878127+00:00",
+ "generated": "2026-10-01T18:36:04.985180+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,358 @@
  ],
  "items": [
   {
+   "id": "c776b6e47b2b",
+   "title": "ICE Deletes Reports Flagging Medical Neglect in Detention Center Deaths",
+   "link": "https://reason.com/2026/10/01/ice-deletes-reports-flagging-medical-neglect-in-detention-center-deaths/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The reports found medical care that \"deviated beyond safe limits\" in dozens of cases where ICE detainees died in custody.",
+   "published": "2026-10-01T18:30:25+00:00"
+  },
+  {
+   "id": "500878cff84b",
+   "title": "What's Happening in the Bond Market Right Now (And Should You Adjust Your Portfolio?)",
+   "link": "https://www.kiplinger.com/investing/bonds/whats-happening-in-the-bond-market-right-now-and-should-you-adjust-your-portfolio",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Federal Reserve rate cut has gotten most of the coverage, but several other issues are pushing bond yields higher.",
+   "published": "2026-10-01T18:25:07+00:00"
+  },
+  {
+   "id": "3af3dc284483",
+   "title": "A judge permanently dismisses former Olympian's Reflecting Pool charges",
+   "link": "https://www.npr.org/2026/10/01/nx-s1-5987947/reflecting-pool-vandalism-hearn-charges-dismissed",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Citing \"exceptional circumstances,\" a D.C. judge has ruled that the federal government cannot refile its Reflecting Pool charges against David Hearn, despite pressure from President Trump to do so.",
+   "published": "2026-10-01T18:22:59+00:00"
+  },
+  {
+   "id": "06df836303bf",
+   "title": "Trump doesn’t rule out sending ICE to polling sites; US supreme court to review policy to detain immigrants challenging deportation – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/01/tennessee-governor-halts-executions-christa-pike-lethal-injection-donald-trump-hegseth-musk-us-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Justices will consider whether immigrants have a right to a hearing to determine if they should remain detained while challenging their possible deportation Sign up for the Breaking News US email The White House has, again, blocked CNN from covering Donald Trump as part of the…",
+   "published": "2026-10-01T18:22:42+00:00"
+  },
+  {
+   "id": "fa5a901d0def",
+   "title": "Fires break out at French schools as students protest nationwide",
+   "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The French government holds a crisis meeting as demonstrations grow and become violent in places.",
+   "published": "2026-10-01T18:22:29+00:00"
+  },
+  {
+   "id": "31fc72fdcc7b",
+   "title": "H.R. 7427, Securing Access from Foreign Entities Visiting Internal Sites in the States Act",
+   "link": "https://www.cbo.gov/publication/62820",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As ordered reported by the House Committee on Homeland Security on June 24, 2026",
+   "published": "2026-10-01T18:21:00+00:00"
+  },
+  {
+   "id": "e053d6e69ed6",
+   "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+   "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+   "published": "2026-10-01T18:19:14+00:00"
+  },
+  {
+   "id": "58077cfcfc4d",
+   "title": "Fidelity to Raise RIA Custody Asset Minimum to $100M",
+   "link": "https://www.wealthmanagement.com/ria-news/fidelity-to-raise-custody-asset-minimum-to-100m",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Advisors custodying with Fidelity with less than $100 million in client assets will have to depart by June 30, 2027, according to the firm.",
+   "published": "2026-10-01T18:18:07+00:00"
+  },
+  {
+   "id": "1fd4e49c171b",
+   "title": "This silent alarm in the bond market tells you which stocks to buy and which to avoid",
+   "link": "https://www.marketwatch.com/story/this-silent-alarm-in-the-bond-market-tells-you-which-stocks-to-buy-and-which-to-avoid-4568ac53?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Widening credit spreads send an important signal that investors should heed about which stocks to buy and which to avoid",
+   "published": "2026-10-01T18:10:00+00:00"
+  },
+  {
+   "id": "eede0656ba41",
+   "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+   "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Vladimir Putin insists Moscow is \"not threatening anyone\" and merely responding to statements by Western leaders.",
+   "published": "2026-10-01T18:09:03+00:00"
+  },
+  {
+   "id": "e0ec74a2f54d",
+   "title": "The National Debt Has Exploded. The Reckoning Is Still Coming.",
+   "link": "https://reason.com/2026/10/01/the-national-debt-has-exploded-the-reckoning-is-still-coming/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Even the best-case scenario means less investment, slower wage growth, and a budget increasingly spent on past obligations.",
+   "published": "2026-10-01T18:05:23+00:00"
+  },
+  {
+   "id": "286b27e674e3",
+   "title": "‘Dominance like I’ve never seen before or since.’",
+   "link": "https://mirrorindy.org/first-five-heartland-film-festival/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "“First Five,” premiering at Heartland Film Festival, looks at the recruits who built IU basketball. The post ‘Dominance like I’ve never seen before or since.’ appeared first on Mirror Indy .",
+   "published": "2026-10-01T18:04:52+00:00"
+  },
+  {
+   "id": "96333904c204",
+   "title": "Cerity Partners Adds $1.7B in Double Deal",
+   "link": "https://www.wealthmanagement.com/ria-news/cerity-partners-merges-with-two-rias-worth-17b",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The New York-based registered investment advisor brought Cornerstone Capital and Echo Wealth Management into the fold, expanding its presence in Silicon Valley and Minneapolis.",
+   "published": "2026-10-01T18:00:11+00:00"
+  },
+  {
+   "id": "94ff55c7e5d6",
+   "title": "2025088064301 Robert Thompson CRD 713539 AWC lp.pdf",
+   "link": "https://www.finra.org/node/389991",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "2025088064301 Robert Thompson CRD 713539 AWC lp.pdf Anonymous (not verified) Thu, 10/01/2026 - 14:00 Case ID 2025088064301 Document Number 8170b3e5 Document Type AWCs (Letters of Acceptance, Waiver, and Consent) Individuals Robert Wayne Thompson Action Date Thu, 10/01/2026 -…",
+   "published": "2026-10-01T18:00:01+00:00"
+  },
+  {
+   "id": "63ebac033e98",
+   "title": "What the analytics reveal about No. 13 Utah’s offense and its first-month returns",
+   "link": "https://www.deseret.com/sports/2026/10/01/utah-football-offensive-analysis-after-one-month/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This article was first published in the Ute Insiders newslett er . Sign up to receive the newsletter in your inbox each Wednesday night. For the second straight season, the Utah offense is operating under a new coordinator — and the early returns are promising for what Kevin…",
+   "published": "2026-10-01T18:00:00+00:00"
+  },
+  {
+   "id": "4d207e6b5fe4",
+   "title": "‘Data Center Revolt’ tour stops in Brigham City, stressing importance of public involvement",
+   "link": "https://www.deseret.com/utah/2026/10/01/data-center-revolt-tour-stops-in-brigham-city-stressing-importance-of-public-involvement/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Participants in the nationwide Data Center Revolt tour stopped in Utah, stressing the importance of public involvement in data center planning and AI expansion.",
+   "published": "2026-10-01T17:58:28+00:00"
+  },
+  {
+   "id": "78a3e00a2581",
+   "title": "‘Total class act’: Marie-France van Heel is poised to be a very different PM’s wife",
+   "link": "https://www.theguardian.com/politics/2026/oct/01/marie-france-van-heel-very-different-type-prime-minister-wife",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The former marketing executive is expected to play a big role in promoting the UK and could be the most influential spouse in No 10 in years Sarah Brown called Gordon her hero , Samantha Cameron insisted David was “incredibly funny” , while Akshata Murty said Rishi was her best…",
+   "published": "2026-10-01T17:56:46+00:00"
+  },
+  {
+   "id": "31282f925d70",
+   "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
+   "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998 Business live – latest updates The global bond sell-off intensified on Thursday, driving 10-year US government borrowing costs to their highest level in 24 years…",
+   "published": "2026-10-01T17:56:18+00:00"
+  },
+  {
+   "id": "b87e0e6509ef",
+   "title": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting",
+   "link": "https://www.theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "About 900 demonstrations, blockades and related incidents under way outside high schools around the country A fast-growing protest by high-school students over long hours, teacher shortages and decaying facilities has escalated into “urban violence”, the French government has…",
+   "published": "2026-10-01T17:52:16+00:00"
+  },
+  {
+   "id": "44d49ec2550c",
+   "title": "Conrad ‘Cronos’ Lant, frontman of UK heavy metal band Venom, dies aged 63",
+   "link": "https://www.theguardian.com/music/2026/oct/01/conrad-cronos-lant-heavy-metal-venom-dies",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Singer and bassist helped turn Newcastle band into hugely influential force on thrash and black metal subgenres Conrad Lant, the British heavy metal musician who fronted Venom and ensured the Newcastle band became a huge influence on the genre, has died aged 63. “For more than…",
+   "published": "2026-10-01T17:50:41+00:00"
+  },
+  {
+   "id": "a25ffb2cae48",
+   "title": "NAZA film-makers say they spoke to more than 100 sources about Israeli actions in Gaza",
+   "link": "https://www.theguardian.com/film/2026/oct/01/makers-naza-film-spoke-more-than-100-sources-israeli-actions-gaza",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Team behind documentary push back against IDF attempt to discredit its exposure of military systems The team behind the award-winning film NAZA, which details the Israeli military’s targeting policies in Gaza and its alleged acceptance of high numbers of civilian deaths, have…",
+   "published": "2026-10-01T17:45:09+00:00"
+  },
+  {
+   "id": "113c17f8d3aa",
+   "title": "Palestinian children in Israeli military detention",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/palestinian-children-in-israeli-military-detention?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Palestinian children in Israeli military detention",
+   "published": "2026-10-01T17:44:51+00:00"
+  },
+  {
+   "id": "070118786d4e",
+   "title": "US Supreme Court agrees to take up Trump’s ICE detention policy",
+   "link": "https://www.aljazeera.com/news/2026/10/1/us-supreme-court-agrees-to-take-up-trumps-ice-detention-policy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The case is the latest dispute over US President Donald Trump’s sweeping immigration crackdown.",
+   "published": "2026-10-01T17:35:58+00:00"
+  },
+  {
+   "id": "cf3dda3616b4",
+   "title": "Have you been evicted? See if you can get it sealed from public view.",
+   "link": "https://mirrorindy.org/indianapolis-eviction-sealing-clinic-planned-2026-indiana-legal-services/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A free eviction sealing clinic is planned for Oct. 7. The post Have you been evicted? See if you can get it sealed from public view. appeared first on Mirror Indy .",
+   "published": "2026-10-01T17:35:06+00:00"
+  },
+  {
+   "id": "4ba8a61147c7",
+   "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+   "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
+   "published": "2026-10-01T17:32:50+00:00"
+  },
+  {
+   "id": "413db500928f",
+   "title": "How the Church turned competition into collaboration for 8 global humanitarian organizations",
+   "link": "https://www.deseret.com/faith/2026/10/01/church-turns-competition-into-collaboration-8-global-humanitarian-organizations-women-children/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As humanitarian and nonprofit organizations around the world work to help those in need, they are often working in competition for resources, government support and even volunteers. But through the ongoing efforts of The Church of Jesus Christ of Latter-day Saints to care for…",
+   "published": "2026-10-01T17:31:25+00:00"
+  },
+  {
+   "id": "d8a9ee221324",
+   "title": "What happened in the failed execution of Christa Pike - and what next?",
+   "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
+   "published": "2026-10-01T17:31:06+00:00"
+  },
+  {
+   "id": "7ec521ad6fd2",
+   "title": "Border Agents Nabbed Their Phones. These Two Floridians Are Fighting Back.",
+   "link": "https://reason.com/2026/10/01/border-agents-nabbed-their-phones-these-two-floridians-are-fighting-back/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A former assistant state attorney and an immigrant rights activist both had their phones seized, despite having attorney-client privilege. They're suing to protect their data.",
+   "published": "2026-10-01T17:30:12+00:00"
+  },
+  {
+   "id": "7c4c7ab4f8ab",
+   "title": "Which Parts of an Expert's ChatGPT History Related to Preparing Expert Report Must Be Disclosed?",
+   "link": "https://reason.com/volokh/2026/10/01/which-parts-of-an-experts-chatgpt-history-related-to-preparing-expert-report-must-be-disclosed/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "From Judge Anne Traum (D. Nev.) Monday in Villanueva v. Las Vegas Metro. Police Dep't (the underlying lawsuit alleges a… The post Which Parts of an Expert's ChatGPT History Related to Preparing Expert Report Must Be Disclosed? appeared first on Reason Magazine.",
+   "published": "2026-10-01T17:28:54+00:00"
+  },
+  {
+   "id": "820191199809",
+   "title": "Renee Good’s family sues Trump administration over fatal ICE shooting",
+   "link": "https://www.aljazeera.com/news/2026/10/1/renee-goods-family-sues-trump-administration-over-fatal-ice-shooting?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lawsuits accuse Trump officials of recklessness and civil rights violations in Renee Good's fatal Minneapolis shooting .",
+   "published": "2026-10-01T17:28:13+00:00"
+  },
+  {
+   "id": "a0231581a681",
+   "title": "Hegseth puts the future of warfare in the hands of major Maga donors",
+   "link": "https://www.theguardian.com/us-news/2026/oct/01/hegseth-musk-warfare-taskforce",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Installing tech billionaires Elon Musk and Palmer Luckey to Pentagon defense board raises conflict of interest concerns By installing the tech billionaires Elon Musk and Palmer Luckey to advisory roles in a Pentagon project about the future of warfare, the defense secretary,…",
+   "published": "2026-10-01T17:27:38+00:00"
+  },
+  {
+   "id": "0b98a1673148",
+   "title": "Vibe check: New polls show how voters feel about midterm elections",
+   "link": "https://www.deseret.com/politics/2026/10/01/new-polls-show-how-voters-feel-ahead-of-midterm-elections/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Are too many negative ads showing up on your social media feeds? Is the family group chat getting you down? Do you feel like you can’t watch a football game or an awards show without someone saying something that makes you cringe? Yes, it’s that time again. Election season. If…",
+   "published": "2026-10-01T17:27:07+00:00"
+  },
+  {
    "id": "34de8dd71da8",
    "title": "Panel advances $400 million budget proposal for Indianapolis police in 2027",
    "link": "https://mirrorindy.org/panel-advances-400-million-budget-proposal-for-indianapolis-police-in-2027/",
@@ -195,17 +547,6 @@
    "published": "2026-10-01T17:16:00+00:00"
   },
   {
-   "id": "06df836303bf",
-   "title": "Trump doesn’t rule out sending ICE to polling sites; US supreme court to review policy to detain immigrants challenging deportation – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/01/tennessee-governor-halts-executions-christa-pike-lethal-injection-donald-trump-hegseth-musk-us-politics-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Justices will consider whether immigrants have a right to a hearing to determine if they should remain detained while challenging their possible deportation Sign up for the Breaking News US email The White House has, again, blocked CNN from covering Donald Trump as part of the…",
-   "published": "2026-10-01T17:14:13+00:00"
-  },
-  {
    "id": "038ad03c6ca9",
    "title": "How AI is reshaping everyday life in China",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/how-ai-is-reshaping-everyday-life-in-china?traffic_source=rss",
@@ -268,19 +609,8 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Counter-terrorism police also questioned a UK national, days after five others were arrested and released on bail.",
+   "summary": "Counter Terrorism police also questioned a UK national, days after five others were arrested and released on bail.",
    "published": "2026-10-01T16:55:47+00:00"
-  },
-  {
-   "id": "d8a9ee221324",
-   "title": "What happened in the failed execution of Christa Pike - and what next?",
-   "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-   "published": "2026-10-01T16:52:33+00:00"
   },
   {
    "id": "a1f8de075d44",
@@ -382,17 +712,6 @@
    "published": "2026-10-01T16:43:26+00:00"
   },
   {
-   "id": "4ba8a61147c7",
-   "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
-   "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
-   "published": "2026-10-01T16:40:59+00:00"
-  },
-  {
    "id": "b151a7e82ddf",
    "title": "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
    "link": "https://www.theguardian.com/world/live/2026/oct/01/europe-latest-news-updates-russia-strikes-ukraine-nato",
@@ -413,17 +732,6 @@
    "flourishing_feed": false,
    "summary": "First singles First round (Oct. 3) At Brighton High School No. 16 Nadia Bateman, Cedar Valley vs. No. 17 Aspen Record, Layton Round of 16 (Oct. 8) At Liberty Park No. 1 Kamryn Newman, Bingham vs. No. 16/17 winner No. 8 Ella Gonzalez, Lehi vs. No. 9 Grace Chapman, Davis No. 5…",
    "published": "2026-10-01T16:37:50+00:00"
-  },
-  {
-   "id": "fa5a901d0def",
-   "title": "Fires break out at French schools as students protest nationwide",
-   "link": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The French government holds a crisis meeting as demonstrations grow and become violent in places.",
-   "published": "2026-10-01T16:34:22+00:00"
   },
   {
    "id": "410b34fad0bd",
@@ -668,17 +976,6 @@
    "published": "2026-10-01T15:56:47+00:00"
   },
   {
-   "id": "31282f925d70",
-   "title": "Global bond sell-off intensifies as UK long-term borrowing costs pass 6%",
-   "link": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Fears that US deficit is unsustainable drive yields on Treasury bills and UK gilts to multi-decade highs Business live – latest updates The global bond sell-off intensified on Thursday, driving 10-year US government borrowing costs to their highest level in 24 years in a…",
-   "published": "2026-10-01T15:55:50+00:00"
-  },
-  {
    "id": "71f19e652bbe",
    "title": "Crude oil exports from strait of Hormuz largely return to pre-war levels",
    "link": "https://www.theguardian.com/business/2026/oct/01/crude-oil-exports-strait-of-hormuz-transport-gulf-region-diesel",
@@ -734,17 +1031,6 @@
    "published": "2026-10-01T15:43:00+00:00"
   },
   {
-   "id": "e053d6e69ed6",
-   "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
-   "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
-   "published": "2026-10-01T15:38:13+00:00"
-  },
-  {
    "id": "8526365593ac",
    "title": "Trump's Iowa Steel Mill Is a Win for Steelmakers. What About Everyone Else?",
    "link": "https://reason.com/2026/10/01/trumps-iowa-steel-mill-is-a-win-for-steelmakers-what-about-everyone-else/",
@@ -757,7 +1043,7 @@
   },
   {
    "id": "a8cb0942cef1",
-   "title": "LIVE: Denmark vs Portugal – UEFA Nations League",
+   "title": "Denmark vs Portugal: LIVE – UEFA Nations League",
    "link": "https://www.aljazeera.com/sports/liveblog/2026/10/1/live-denmark-vs-portugal-uefa-nations-league-ronaldo?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -889,13 +1175,13 @@
   },
   {
    "id": "10490f983a18",
-   "title": "Flydubai stabbing: How safe are planes if a pilot turns violent?",
+   "title": "Flydubai stabbing: What happens when a pilot turns violent mid-flight?",
    "link": "https://www.aljazeera.com/features/2026/10/1/flydubai-stabbing-how-safe-are-planes-if-a-pilot-turns-violent?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Civil aviation changed after 9/11 to keep attackers outside cockpits. The Flydubai scare flips the dilemma.",
+   "summary": "Flydubai FZ1073 raises questions about cockpit security, pilot vetting and threats from inside the flight deck.",
    "published": "2026-10-01T15:03:08+00:00"
   },
   {
@@ -2271,17 +2557,6 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Just a few weeks after Steve Pearce was sworn in as the director of the Bureau of Land Management this past May, he traveled to Grand Junction, Colorado — the agency’s brief, former national headquarters — for a round table discussion with two presidential cabinet members.…",
-   "published": "2026-10-01T10:00:01+00:00"
-  },
-  {
-   "id": "0b98a1673148",
-   "title": "Vibe check: New polls show how voters feel about midterm elections",
-   "link": "https://www.deseret.com/politics/2026/10/01/new-polls-show-how-voters-feel-ahead-of-midterm-elections/",
-   "source": "Deseret News",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Are too many negative ads showing up on your social media feeds? Is the family group chat getting you down? Do you feel like you can’t watch a football game or an awards show without someone saying something that makes you cringe? Yes, it’s that time again. Election season. If…",
    "published": "2026-10-01T10:00:01+00:00"
   },
   {
@@ -3711,7 +3986,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "As the West grows more concerned about rising electricity rates and a strained power grid, Utah leaders hold an opposing, optimistic view. “We’re consistently in the top five most affordable rates in the country,” Utah Office of Energy Development Director Emmy Lesofski said in…",
+   "summary": "As the West grows more concerned about rising electricity rates and a strained power grid, Utah leaders hold an opposing, optimistic view. “We’re consistently in the top five most affordable rates in the country,” Utah Office of Energy Development Director Emy Lesofski said in…",
    "published": "2026-10-01T02:02:00+00:00"
   },
   {
