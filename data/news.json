@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T04:31:19.547001+00:00",
+ "generated": "2026-10-02T05:29:47.950723+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "name": "Federal Register: IRS",
@@ -129,6 +129,138 @@
  ],
  "items": [
   {
+   "id": "ed6e3f3bb85f",
+   "title": "High school soccer: Springville halts OT jinx on Elizabeth Hopkins’ golden goal against Timpview",
+   "link": "https://www.deseret.com/sports/2026/10/01/high-school-girls-soccer-timpview-springville/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As a way to inject a little fun into practice this week, Springville coach Todd Hollingshead had his players work on their diving headers. The opportunity to actually attempt a diving header in a game is extremely rare, so the drill was primarily just a funny way to do some…",
+   "published": "2026-10-02T05:28:57+00:00"
+  },
+  {
+   "id": "b284a09678ed",
+   "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+   "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+   "published": "2026-10-02T05:26:06+00:00"
+  },
+  {
+   "id": "8ce24920e251",
+   "title": "Australia news live: Shoebridge says members to ‘have a say’ in next Greens leader after Faruqi criticism; more rain for Victoria",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast A Sydney man has been charged after allegedly restraining, choking and sexually assaulting a young woman in a park, Australian Associated Press reports. A 23-year-old woman was walking from…",
+   "published": "2026-10-02T05:16:41+00:00"
+  },
+  {
+   "id": "0024df606271",
+   "title": "Tennessee Poison",
+   "link": "https://thedispatch.com/article/tennessee-botched-execution-death-penalty/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The state has not earned its license to kill.",
+   "published": "2026-10-02T05:01:00+00:00"
+  },
+  {
+   "id": "2ce567561bd7",
+   "title": "Staff fears grow that BBC will shut its Three and Scotland channels next week",
+   "link": "https://www.theguardian.com/media/2026/oct/02/bbc-shut-three-scotland-channels-redundancy",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Redundancy process suggests home of Gavin and Stacey and Fleabag could go online-only again in £500m cuts push The BBC has started a redundancy process in its TV and streaming division, heightening staff fears that Matt Brittin will announce the closure of the poorly performing…",
+   "published": "2026-10-02T05:00:10+00:00"
+  },
+  {
+   "id": "481010a44910",
+   "title": "We Need More Regret in Our Politics",
+   "link": "https://thedispatch.com/article/extremism-woke-agenda-conservative-reform/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It’s time to reject ferocious idealism.",
+   "published": "2026-10-02T05:00:00+00:00"
+  },
+  {
+   "id": "4a9d79ecb978",
+   "title": "How Switzerland lost 20 percent of its ice in five years",
+   "link": "https://www.aljazeera.com/news/2026/10/2/how-switzerland-lost-20-percent-of-its-ice-in-five-years?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Swiss glaciers have lost more than 5 percent of their ice, threatening the country’s alpine economy.",
+   "published": "2026-10-02T04:59:58+00:00"
+  },
+  {
+   "id": "5920ad865795",
+   "title": "Nepal avalanche kills at least 15 expedition workers",
+   "link": "https://www.aljazeera.com/news/2026/10/2/nepal-avalanche-kills-at-least-15-expedition-workers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rescuers recovered eight more bodies on Thursday from the area of an avalanche that swept through a mountain camp.",
+   "published": "2026-10-02T04:53:49+00:00"
+  },
+  {
+   "id": "8f3ce929b847",
+   "title": "Student protests in Chile turn to violent clashes with police",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/student-protests-in-chile-turn-to-violent-clashes-with-police?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Riot police in Chile’s capital deployed tear gas and water cannons to disperse hundreds of students.",
+   "published": "2026-10-02T04:49:52+00:00"
+  },
+  {
+   "id": "ccf2ea2b1523",
+   "title": "Arab-Israeli party leader drops election bid",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-israeli-party-leader-drops-election-bid?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Balad party leader Sami Abu Shehadeh has withdrawn from the October 27 Knesset election.",
+   "published": "2026-10-02T04:41:21+00:00"
+  },
+  {
+   "id": "81b45df0ae11",
+   "title": "Eritrea severs diplomatic ties with Ethiopia in row over Tigray",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/eritrea-severs-diplomatic-ties-with-ethiopia-in-row-over-tigray?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Eritrea has severed diplomatic ties with Ethiopia after Addis Ababa closed its embassy in Asmara",
+   "published": "2026-10-02T04:40:14+00:00"
+  },
+  {
+   "id": "08f057db2ae9",
+   "title": "Iran urges Iraq to lift flight ban amid US sanctions",
+   "link": "https://www.aljazeera.com/news/2026/10/2/iran-urges-iraq-to-lift-flight-ban-amid-us-sanctions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Iran calls on Iraq to remove flight curbs after US sanctions, in a move that has strained bilateral ties.",
+   "published": "2026-10-02T04:34:33+00:00"
+  },
+  {
    "id": "4d4756d3f0bd",
    "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
    "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
@@ -138,17 +270,6 @@
    "flourishing_feed": false,
    "summary": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
    "published": "2026-10-02T04:21:31+00:00"
-  },
-  {
-   "id": "8ce24920e251",
-   "title": "Australia news live: Israeli embassy condemns flydubai ‘false flag’ conspiracies; Melbourne soaked by wettest day since 2024",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast A Sydney man has been charged after allegedly restraining, choking and sexually assaulting a young woman in a park, Australian Associated Press reports. A 23-year-old woman was walking from…",
-   "published": "2026-10-02T04:18:51+00:00"
   },
   {
    "id": "6ace41c214d6",
@@ -312,7 +433,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Court hears audio of call made on morning Luke Davies and Jesse Baird were allegedly murdered by NSW police officer Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The family of Luke Davies cried as audio of a…",
+   "summary": "Court hears audio of call made on morning Luke Davies and Jesse Baird were allegedly murdered by NSW police officer Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Luke Davies’ family has cried as audio of a…",
    "published": "2026-10-02T02:04:17+00:00"
   },
   {
@@ -765,17 +886,6 @@
    "flourishing_feed": false,
    "summary": "Democratic-led coalition says gutting key protections will set US back decades and worsen climate crisis States and cities sued the Trump administration on Thursday for repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and…",
    "published": "2026-10-01T22:24:25+00:00"
-  },
-  {
-   "id": "b284a09678ed",
-   "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-   "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
-   "published": "2026-10-01T22:21:16+00:00"
   },
   {
    "id": "5bc24e1b3f4a",
