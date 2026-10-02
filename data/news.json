@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T02:28:45.510351+00:00",
+ "generated": "2026-10-02T03:30:51.515184+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 30
+   "count": 32
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,72 @@
  ],
  "items": [
   {
+   "id": "8ce24920e251",
+   "title": "Australia news live: Israeli embassy condemns flydubai ‘false flag’ conspiracies; Melbourne soaked by wettest day since 2024",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast A Sydney man has been charged after allegedly restraining, choking and sexually assaulting a young woman in a park, Australian Associated Press reports. A 23-year-old woman was walking from…",
+   "published": "2026-10-02T03:24:19+00:00"
+  },
+  {
+   "id": "b31916732473",
+   "title": "SpaceX flight led by first Black female commander sets US speed record",
+   "link": "https://www.theguardian.com/science/2026/oct/01/spacex-speed-record-first-black-female-commander",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Four astronauts pulled up at International Space Station after eight-hour express flight led by Jessica Watkins Four astronauts pulled up at the International Space Station (ISS) on Thursday after launching on an eight-hour express that set a US speed record, and that created…",
+   "published": "2026-10-02T03:18:45+00:00"
+  },
+  {
+   "id": "564be631db97",
+   "title": "Row between Ukraine, South Korea mounts over North Korean POWs",
+   "link": "https://www.aljazeera.com/news/2026/10/2/row-between-ukraine-south-korea-mounts-over-north-korean-pows?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "South Korea’s ⁠President accused Ukraine of ⁠undermining him by disclosing POW transfer deal",
+   "published": "2026-10-02T02:54:13+00:00"
+  },
+  {
+   "id": "381cf30bd5ec",
+   "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+   "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
+   "published": "2026-10-02T02:49:44+00:00"
+  },
+  {
+   "id": "18539861a7f6",
+   "title": "Women hospitalised and three men charged with assault and choking after separate home invasions in Sydney",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/02/sydney-home-invasions-arncliffe-bankstown-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "NSW police allege the men, aged 18, 19 and 20, broke into homes in Arncliffe and Bankstown this week before assaulting the women aged 31 and 32 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Three men have…",
+   "published": "2026-10-02T02:34:56+00:00"
+  },
+  {
+   "id": "4d4756d3f0bd",
+   "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+   "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fortnite, Roblox and Minecraft also told to 'lift their game' by online safety regulator.",
+   "published": "2026-10-02T02:29:41+00:00"
+  },
+  {
    "id": "40ce86469e6f",
    "title": "Trio of former Cougars lead Utah ties after 1st round of the PGA Tour’s Bank of Utah Championship",
    "link": "https://www.deseret.com/sports/2026/10/01/bank-of-utah-championship-pga-tour-zach-bauchou/",
@@ -149,17 +215,6 @@
    "flourishing_feed": false,
    "summary": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
    "published": "2026-10-02T02:11:34+00:00"
-  },
-  {
-   "id": "8ce24920e251",
-   "title": "Australia news live: Melbourne soaked by wettest day since 2024; Jackie O’s $80m legal fight with KIIS FM owner delayed",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast A Sydney man has been charged after allegedly restraining, choking and sexually assaulting a young woman in a park, Australian Associated Press reports. A 23-year-old woman was walking from…",
-   "published": "2026-10-02T02:10:34+00:00"
   },
   {
    "id": "06df836303bf",
@@ -283,6 +338,17 @@
    "published": "2026-10-02T01:36:21+00:00"
   },
   {
+   "id": "47338c90f337",
+   "title": "OpenAI fires workers for mishandling 'sensitive information'",
+   "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+   "published": "2026-10-02T01:34:56+00:00"
+  },
+  {
    "id": "ffacf0e36749",
    "title": "Labor targets ‘visa hopping’ international students in crackdown on ‘permanently temporary’ migration",
    "link": "https://www.theguardian.com/australia-news/2026/oct/02/labor-migration-crackdown-international-students",
@@ -290,7 +356,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Migration agents and lawyers ‘selling false hope’ to people seeking to stay in Australia also in government’s sights as it seeks to reduce overseas arrivals Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast “Visa…",
+   "summary": "Migration agents and lawyers ‘selling false hope’ to people seeking to stay in Australia also in ministers’ sights as they seek to reduce overseas arrivals Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast “Visa…",
    "published": "2026-10-02T01:33:56+00:00"
   },
   {
@@ -316,17 +382,6 @@
    "published": "2026-10-02T01:08:31+00:00"
   },
   {
-   "id": "18539861a7f6",
-   "title": "Women hospitalised and three men charged with assault and choking after separate home invasions in Sydney",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/02/sydney-home-invasions-arncliffe-bankstown-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "NSW police allege the men, aged 18, 19 and 20, broke into homes in Arncliffe and Bankstown this week before assaulting the women aged 31 and 32 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Three men have…",
-   "published": "2026-10-02T01:02:55+00:00"
-  },
-  {
    "id": "20a100f5c90c",
    "title": "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
    "link": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
@@ -336,17 +391,6 @@
    "flourishing_feed": false,
    "summary": "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
    "published": "2026-10-02T01:00:00+00:00"
-  },
-  {
-   "id": "b31916732473",
-   "title": "SpaceX flight led by first Black female commander sets US speed record",
-   "link": "https://www.theguardian.com/science/2026/oct/01/spacex-speed-record-first-black-female-commander",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Four astronauts pulled up at International Space Station after eight-hour express flight led by Jessica Watkins Four astronauts pulled up at the International Space Station on Thursday after launching on an eight-hour express that set a US speed record, and that created further…",
-   "published": "2026-10-02T00:50:49+00:00"
   },
   {
    "id": "cb14f034f08e",
@@ -589,6 +633,17 @@
    "flourishing_feed": false,
    "summary": "Democratic-led coalition says gutting key protections will set US back decades and worsen climate crisis States and cities sued the Trump administration on Thursday for repealing rules that limit planet-warming greenhouse gas emissions from power plants fueled by coal and…",
    "published": "2026-10-01T22:24:25+00:00"
+  },
+  {
+   "id": "b284a09678ed",
+   "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+   "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+   "published": "2026-10-01T22:21:16+00:00"
   },
   {
    "id": "5bc24e1b3f4a",
@@ -2110,7 +2165,7 @@
   },
   {
    "id": "51772e69f0de",
-   "title": "Britain in talks with European allies over release of emergency diesel stockpiles",
+   "title": "Britain in talks with European allies over release of emergency diesel stockpiles amid Trump pressure",
    "link": "https://www.theguardian.com/business/2026/oct/01/britain-talks-european-allies-eu-emergency-diesel-stockpiles-reserves",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -8672,7 +8727,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "From Diemert v. City of Seattle, decided by Chief Judge Mary Murguia, joined by Judges William A. Fletcher and Lucy… The post Anti-White Speech Stemming from Seattle \"Race and Social Justice Initiative\" Training May Have Been Legally Actionable Workplace Harassment appeared…",
+   "summary": "From Diemert v. City of Seattle, decided by Ninth Circuit Chief Judge Mary Murguia, joined by Judges William A. Fletcher… The post Anti-White Speech Stemming from Seattle \"Race and Social Justice Initiative\" Training May Have Been Legally Actionable Workplace Harassment…",
    "published": "2026-09-30T14:00:10+00:00"
   },
   {
