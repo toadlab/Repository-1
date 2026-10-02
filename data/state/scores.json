@@ -38718,5 +38718,53 @@
   "decision": "exclude",
   "exclusion": "did not clear the national bar",
   "persistent": false
+ },
+ "20e648fbc5c9": {
+  "story_key": "iran-war-live-us-moves",
+  "durability": 7,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 7.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
+ },
+ "3dbfc4191a87": {
+  "story_key": "british-iranian-man-arrested-raf",
+  "durability": 2,
+  "circle": "national",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 2.0,
+  "bar": 8.0,
+  "decision": "exclude",
+  "exclusion": "low durability",
+  "persistent": false
+ },
+ "a4c33371b4b3": {
+  "story_key": "israeli-drone-kills-palestinian-gaza",
+  "durability": 7,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 7.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
  }
 }

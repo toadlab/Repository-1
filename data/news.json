@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T23:26:56.641099+00:00",
+ "generated": "2026-10-02T00:37:54.856843+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,6 +129,39 @@
  ],
  "items": [
   {
+   "id": "aabef0343d74",
+   "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+   "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I have $152,000 in my IRA and Roth accounts.”",
+   "published": "2026-10-02T00:30:00+00:00"
+  },
+  {
+   "id": "77e04e2e894a",
+   "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+   "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+   "published": "2026-10-02T00:15:00+00:00"
+  },
+  {
+   "id": "61a5a5c11a3d",
+   "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
+   "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Twilio gets the nod, as current component Warner Bros Discovery is due to merger with Paramount.",
+   "published": "2026-10-02T00:14:00+00:00"
+  },
+  {
    "id": "e5ea78f88abe",
    "title": "This could be the worst year ever for Nike’s stock, with sales set to fall further",
    "link": "https://www.marketwatch.com/story/nikes-troubles-are-mounting-and-sales-could-fall-further-2c19699d?mod=mw_rss_topstories",
@@ -137,7 +170,62 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "The company has faced struggles in China and in its sneaker business.",
-   "published": "2026-10-01T23:21:00+00:00"
+   "published": "2026-10-02T00:13:00+00:00"
+  },
+  {
+   "id": "8ce24920e251",
+   "title": "Australia news live: Labor to make it harder for international students to change courses; Inman-Grant says time for new eSafety leadership",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast A Sydney man has been charged after allegedly restraining, choking and sexually assaulting a young woman in a park, Australian Associated Press reports. A 23-year-old woman was walking from…",
+   "published": "2026-10-02T00:05:54+00:00"
+  },
+  {
+   "id": "20e648fbc5c9",
+   "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US deploys Roosevelt strike group and 2,000 Marines to the Middle East as part of a wider buildup around Iran.",
+   "published": "2026-10-02T00:00:00+00:00"
+  },
+  {
+   "id": "3dbfc4191a87",
+   "title": "British-Iranian man arrested as RAF Fairford mystery deepens",
+   "link": "https://www.deseret.com/the-west/2026/10/01/investigation-surrounding-security-incident-at-us-operated-british-base-continue/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "British authorities arrested a sixth suspect Thursday as they tried to answer the central mystery surrounding an alleged terrorist plot near RAF Fairford: If three vans carried fuel but no bombs, what were the men allegedly preparing to do? The arrest of a 25-year-old dual…",
+   "published": "2026-10-01T23:57:55+00:00"
+  },
+  {
+   "id": "a4c33371b4b3",
+   "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
+   "link": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "1,439 Palestinians have been killed in Gaza and 5,052 injured since the 'ceasefire' began in October 2025.",
+   "published": "2026-10-01T23:44:39+00:00"
+  },
+  {
+   "id": "06df836303bf",
+   "title": "Trump doesn’t rule out sending ICE to polling sites; US supreme court to review policy to detain immigrants challenging deportation – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/01/tennessee-governor-halts-executions-christa-pike-lethal-injection-donald-trump-hegseth-musk-us-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Justices will consider whether immigrants have a right to a hearing to determine if they should remain detained while challenging their possible deportation Sign up for the Breaking News US email The White House has, again, blocked CNN from covering Donald Trump as part of the…",
+   "published": "2026-10-01T23:37:58+00:00"
   },
   {
    "id": "f3273beba0f6",
@@ -149,39 +237,6 @@
    "flourishing_feed": false,
    "summary": "Rock band will still tour the UK, Europe and US over the next year but say decision to ‘fall dormant’ feels ‘liberating’ The British rock band Enter Shikari have announced they will go on hiatus at the end of 2027, a decision that may result in the band’s “extinction”. The St…",
    "published": "2026-10-01T23:12:06+00:00"
-  },
-  {
-   "id": "61a5a5c11a3d",
-   "title": "Here’s who’s joining the S&P 500 in the index’s latest shakeup",
-   "link": "https://www.marketwatch.com/story/heres-whos-joining-the-s-p-500-in-the-indexs-latest-shakeup-07280a15?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Twilio gets the nod, as current component Warner Bros Discovery is due to merger with Paramount.",
-   "published": "2026-10-01T23:11:00+00:00"
-  },
-  {
-   "id": "8ce24920e251",
-   "title": "Australia news live: Julie Inman-Grant says ‘time for new leadership’ at eSafety; Ayres defends ‘cooperation’ with OpenAI after hack",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast A Sydney man has been charged after allegedly restraining, choking and sexually assaulting a young woman in a park, Australian Associated Press reports. A 23-year-old woman was walking from…",
-   "published": "2026-10-01T23:10:05+00:00"
-  },
-  {
-   "id": "06df836303bf",
-   "title": "Trump doesn’t rule out sending ICE to polling sites; US supreme court to review policy to detain immigrants challenging deportation – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/01/tennessee-governor-halts-executions-christa-pike-lethal-injection-donald-trump-hegseth-musk-us-politics-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Justices will consider whether immigrants have a right to a hearing to determine if they should remain detained while challenging their possible deportation Sign up for the Breaking News US email The White House has, again, blocked CNN from covering Donald Trump as part of the…",
-   "published": "2026-10-01T23:08:26+00:00"
   },
   {
    "id": "c81166811bb8",
@@ -2032,17 +2087,6 @@
    "published": "2026-10-01T16:16:07+00:00"
   },
   {
-   "id": "77e04e2e894a",
-   "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-   "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-   "published": "2026-10-01T16:16:00+00:00"
-  },
-  {
    "id": "0b874e3e41c9",
    "title": "Who is Man City whistleblower Rui Pinto and what has become of him?",
    "link": "https://www.aljazeera.com/sports/2026/10/1/who-is-man-city-whistleblower-rui-pinto-and-whats-happening-to-him?traffic_source=rss",
@@ -2624,17 +2668,6 @@
    "flourishing_feed": false,
    "summary": "Gerald Lehman Comment On Regulatory Notice 26-15 fnrw-backend Thu, 10/01/2026 - 10:22 Gerald Lehman Gerald L <glehman3669@gmail.com> Regulatory Notice 26-15 Core Official Date Thu, 10/01/2026 - 12:00 Comment File Gerald Lehman_26-15_9.25.2026.pdf",
    "published": "2026-10-01T14:22:30+00:00"
-  },
-  {
-   "id": "aabef0343d74",
-   "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-   "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I have $152,000 in my IRA and Roth accounts.”",
-   "published": "2026-10-01T14:15:00+00:00"
   },
   {
    "id": "46e637fb80d2",
