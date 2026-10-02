@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T13:32:57.346356+00:00",
+ "generated": "2026-10-02T14:33:28.727536+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -13,8 +13,8 @@
   },
   {
    "name": "Indianapolis Business Journal",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "count": 10
   },
   {
    "name": "NPR News",
@@ -129,6 +129,204 @@
  ],
  "items": [
   {
+   "id": "6059a124b42e",
+   "title": "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+   "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "EV giant Tesla had the best three-month period for vehicle sales this year, but it was less than a year ago.",
+   "published": "2026-10-02T14:30:00+00:00"
+  },
+  {
+   "id": "70f2a3c6121d",
+   "title": "Top Democrats slam ‘Trump’s failing economic agenda’ after weaker-than-expected jobs growth – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Elizabeth Warren and Chuck Schumer criticize president after US added 29,000 new jobs in September, sharply less than the 84,000 economists had predicted Sign up for the Breaking News US email And as we bring you the latest on how the jobs report stands to impact voter…",
+   "published": "2026-10-02T14:29:55+00:00"
+  },
+  {
+   "id": "a8c6bfb9f0ba",
+   "title": "Over 560 schools disrupted in France on Friday as protests escalate into ‘urban violence’ – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Dozens of schools have been damaged and nearly 3,000 teenagers have been detained since the start of the tensions ‘We just want to be listened to’: student protests shut schools across France Back to France , midday figures quoted by Le Figaro show that 564 schools and…",
+   "published": "2026-10-02T14:27:57+00:00"
+  },
+  {
+   "id": "6feffa33399f",
+   "title": "Zack Polanski calls for three-year cap on rent price increases in Green party conference speech – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/02/zack-polanski-green-party-conference-speech-kemi-badenoch-andy-burnham-general-election-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Green party is holding its largest-ever conference, while its leader runs as a candidate in the Holborn and St Pancras byelection Zack Polanski also insisted his authority as leader of the Green party of England and Wales does not depend on winning next week’s Holborn and…",
+   "published": "2026-10-02T14:21:08+00:00"
+  },
+  {
+   "id": "5c88d0dcb6cf",
+   "title": "Trump says Europe agrees to release ‘massive amount’ diesel stockpile",
+   "link": "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This is a breaking news story.",
+   "published": "2026-10-02T14:14:18+00:00"
+  },
+  {
+   "id": "68b014a82226",
+   "title": "Fires, fury and hundreds of arrests as France gripped by student protests",
+   "link": "https://www.theguardian.com/world/2026/oct/02/student-protests-shut-schools-across-france",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Government struggling to deal with worst crisis in months after being taken by surprise by massive demonstrations Europe live – latest updates As dozens of school pupils sat on top of a pile of wheelie bins blocking a high school entrance in north-eastern Paris, Sophia, 17, was…",
+   "published": "2026-10-02T14:10:21+00:00"
+  },
+  {
+   "id": "5977de50163f",
+   "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+   "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived.",
+   "published": "2026-10-02T14:01:09+00:00"
+  },
+  {
+   "id": "56089032ae0d",
+   "title": "Palestine Action crowdfunder for UK supreme court challenge blocked due to US sanctions",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/02/palestine-action-crowdfunder-supreme-court-challenge-blocked-us-sanctions",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: CrowdJustice platform says US firm Stripe, its payment processor, ‘cannot support accounts or transactions’ linked to group An online crowdfunder to raise money for the UK supreme court challenge to the ban on Palestine Action has been blocked as a result of US…",
+   "published": "2026-10-02T14:00:10+00:00"
+  },
+  {
+   "id": "63d0216156c0",
+   "title": "Tesco is first supermarket to offer paid ‘safe leave’ for victims of domestic abuse",
+   "link": "https://www.theguardian.com/business/2026/oct/02/tesco-supermarket-paid-safe-leave-domestic-abuse",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Britain’s largest private-sector employer has also trained managers to spot signs of domestic abuse Tesco has become the first supermarket to introduce paid “safe leave” for victims of domestic abuse, giving staff dedicated time to access support, secure their safety…",
+   "published": "2026-10-02T14:00:08+00:00"
+  },
+  {
+   "id": "2b4585a5cb9d",
+   "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+   "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
+   "published": "2026-10-02T14:00:00+00:00"
+  },
+  {
+   "id": "7f1330f985e4",
+   "title": "What to Do If You Get a Check From an Inheritance",
+   "link": "https://www.kiplinger.com/retirement/inheritance/inherited-a-check-what-to-do-with-it-next",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Depositing an inheritance check might be trickier than you think. Here are your options and smart strategies to take that gift and build lasting wealth.",
+   "published": "2026-10-02T14:00:00+00:00"
+  },
+  {
+   "id": "c168688ca3c3",
+   "title": "The U.S. added only 29,000 jobs in September as job market lacks spark",
+   "link": "https://www.npr.org/2026/10/02/nx-s1-5989140/jobs-labor-wages-federal-reserve",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "U.S. employers added 29,000 jobs in September as the unemployment rate inched up to 4.2%. Job gains for July and August were revised down by a total of 60,000 jobs, extending a lackluster run for the job market.",
+   "published": "2026-10-02T13:54:18+00:00"
+  },
+  {
+   "id": "37ab7b8b3b6c",
+   "title": "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
+   "link": "https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Analysts warn unrest is likely to spill into neighbouring states and could further destabilise war-torn Sudan.",
+   "published": "2026-10-02T13:53:24+00:00"
+  },
+  {
+   "id": "13ec7219fa34",
+   "title": "Can India’s ‘cockroach’ movement oust Modi’s election chief?",
+   "link": "https://www.aljazeera.com/features/2026/10/2/can-indias-cockroach-movement-oust-modis-election-chief?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "India's youth protests return to streets, eyeing PM Modi's prized bureaucrat who oversees the world's biggest elections.",
+   "published": "2026-10-02T13:50:06+00:00"
+  },
+  {
+   "id": "4f53f3992512",
+   "title": "Braun appoints new leader for troubled public access counselor’s office",
+   "link": "https://indianacapitalchronicle.com/2026/10/02/braun-appoints-new-leader-for-troubled-public-access-counselors-office/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Indiana Gov. Mike Braun selected a new chief for public access requests and grievances, after months of complaints about his previous pick's responsiveness.",
+   "published": "2026-10-02T13:48:03+00:00"
+  },
+  {
+   "id": "77e04e2e894a",
+   "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+   "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+   "published": "2026-10-02T13:45:00+00:00"
+  },
+  {
+   "id": "dcfe7d48e6df",
+   "title": "UK diesel price hits record high of £2 a litre",
+   "link": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "France proposes that EU nations and IEA release oil and diesel from reserves as Iran war drives up cost worldwide ‘Half my day’s pay goes to filling up my car’ Business live – latest updates British motorists face more pressure at the pumps after the average price of diesel…",
+   "published": "2026-10-02T13:41:04+00:00"
+  },
+  {
+   "id": "13f1e0f2c785",
+   "title": "Anthropic vs. the Pope",
+   "link": "https://reason.com/2026/10/02/anthropic-vs-the-pope/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: The rape case and porn, cornrow canceling, and more...",
+   "published": "2026-10-02T13:30:02+00:00"
+  },
+  {
    "id": "bcce35967518",
    "title": "Three reasons this Wall Street market-making powerhouse says investors should reload on stocks right now",
    "link": "https://www.marketwatch.com/story/three-reasons-why-this-wall-street-market-making-powerhouse-says-investors-should-reload-on-stocks-now-8e19ecce?mod=mw_rss_topstories",
@@ -151,28 +349,6 @@
    "published": "2026-10-02T13:30:00+00:00"
   },
   {
-   "id": "6059a124b42e",
-   "title": "Tesla EV sales beat Wall Street’s expectations again, and the stock jumps",
-   "link": "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "EV giant had the best three-month period for vehicle sales this year, but it was less than a year ago.",
-   "published": "2026-10-02T13:30:00+00:00"
-  },
-  {
-   "id": "70f2a3c6121d",
-   "title": "Top Democrat slams ‘Trump’s failing economic agenda’ after weaker-than-expected jobs growth – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Elizabeth Warren criticizes president after US added 29,000 new jobs in September, sharply less than the 84,000 economists had predicted Sign up for the Breaking News US email Elizabeth Warren , the top Democrat on the Senate banking committee, has blasted Donald Trump’s…",
-   "published": "2026-10-02T13:22:24+00:00"
-  },
-  {
    "id": "5c42f726732d",
    "title": "People Moves: TradePMR Tech Executive Jon Patullo Jumps to Hybrid RIA",
    "link": "https://www.wealthmanagement.com/career-moves/people-moves-tradepmr-tech-executive-jon-patullo-jumps-to-hybrid-ria",
@@ -184,26 +360,48 @@
    "published": "2026-10-02T13:20:55+00:00"
   },
   {
-   "id": "a8c6bfb9f0ba",
-   "title": "Over 560 schools disrupted in France on Friday as protests escalate into ‘urban violence’ – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "cfc4306ba64a",
+   "title": "Man City lodge appeal after guilty finding in financial breach scandal",
+   "link": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-appeal-premier-league-financial-ruling-england-fa?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Dozens of schools have been damaged and nearly 3,000 teenagers have been detained since the start of the tensions ‘We just want to be listened to’: student protests shut schools across France Back to France , midday figures quoted by Le Figaro show that 564 schools and…",
-   "published": "2026-10-02T13:20:11+00:00"
+   "summary": "The Abu Dhabi-controlled club has protested its innocence throughout the long-running case, which dates back to 2018.",
+   "published": "2026-10-02T13:17:42+00:00"
   },
   {
-   "id": "6feffa33399f",
-   "title": "Zack Polanski calls for three-year cap on rent price increases in Green party conference speech – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/02/zack-polanski-green-party-conference-speech-kemi-badenoch-andy-burnham-general-election-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "593499ea9e02",
+   "title": "Trump vs Europe as US presses for release of emergency diesel stocks",
+   "link": "https://www.aljazeera.com/news/2026/10/2/trump-vs-europe-as-us-presses-for-release-of-emergency-diesel-stocks?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The Green party is holding its largest-ever conference, while its leader runs as a candidate in the Holborn and St Pancras byelection Zack Polanski also insisted his authority as leader of the Green party of England and Wales does not depend on winning next week’s Holborn and…",
-   "published": "2026-10-02T13:18:33+00:00"
+   "summary": "Europe's leaders are mulling proposals to respond to Trump's diesel demands.",
+   "published": "2026-10-02T13:16:44+00:00"
+  },
+  {
+   "id": "a6b92abe5051",
+   "title": "Wolf encounter: A photographer on what humans have lost",
+   "link": "https://www.aljazeera.com/features/longform/2026/10/2/wolf-encounter-a-photographer-on-what-humans-have-lost?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "How a brush with the wild can expose what modern life no longer asks of us.",
+   "published": "2026-10-02T13:13:05+00:00"
+  },
+  {
+   "id": "1be599d5cc1a",
+   "title": "Protests shutter hundreds of French schools as violence flares",
+   "link": "https://www.aljazeera.com/news/2026/10/2/protests-shutter-hundreds-of-french-schools-as-violence-flares?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Education minister declares students 'in danger' as hundreds of injuries reported across the country.",
+   "published": "2026-10-02T13:12:45+00:00"
   },
   {
    "id": "e28dad159e0b",
@@ -213,7 +411,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Derbyshire county council accused of ‘worst kind of double speak’ as it denied banning local democracy journalist but said his inquiries will be ignored Rows over potholes and a viral story about a garden gate have led to Reform UK’s latest confrontation with local media, after…",
+   "summary": "Derbyshire county council accused of ‘worst kind of double speak’ as it denies banning local democracy journalist but says it will ignore his inquiries Rows over potholes and a viral story about a garden gate have led to Reform UK’s latest confrontation with local media, after…",
    "published": "2026-10-02T13:10:57+00:00"
   },
   {
@@ -270,17 +468,6 @@
    "flourishing_feed": false,
    "summary": "Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy.",
    "published": "2026-10-02T12:58:00+00:00"
-  },
-  {
-   "id": "68b014a82226",
-   "title": "‘We just want to be listened to’: student protests shut schools across France",
-   "link": "https://www.theguardian.com/world/2026/oct/02/student-protests-shut-schools-across-france",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Lack of investment, overcrowded classrooms, crumbling buildings and poor teacher pay among reasons for protests by school students Europe live – latest updates As dozens of school pupils sat on top of a pile of wheelie bins blocking a high school entrance in north-eastern…",
-   "published": "2026-10-02T12:57:16+00:00"
   },
   {
    "id": "ad0cc156a460",
@@ -679,17 +866,6 @@
    "published": "2026-10-02T11:00:20+00:00"
   },
   {
-   "id": "dcfe7d48e6df",
-   "title": "UK diesel price hits record high of £2 a litre",
-   "link": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Motorists and small businesses struggle with costs as Iran war drives up cost of oil worldwide ‘Half my day’s pay goes to filling up my car’ Business live – latest updates British motorists face more pressure at the pumps after the average price of diesel climbed to a record £2…",
-   "published": "2026-10-02T11:00:04+00:00"
-  },
-  {
    "id": "777d93813397",
    "title": "Women Are Better Armed Than Ever",
    "link": "https://reason.com/2026/10/02/women-are-better-armed-than-ever/",
@@ -855,17 +1031,6 @@
    "published": "2026-10-02T10:17:23+00:00"
   },
   {
-   "id": "77e04e2e894a",
-   "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-   "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-   "published": "2026-10-02T10:15:00+00:00"
-  },
-  {
    "id": "e0b63267451e",
    "title": "New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?",
    "link": "https://www.aljazeera.com/news/2026/10/2/new-aircraft-carrier-10000-us-troops-is-the-iran-war-about-to-escalate?traffic_source=rss",
@@ -889,7 +1054,7 @@
   },
   {
    "id": "b77ebd52a089",
-   "title": "'Ashamed': Cornell students gather to voice anger over alleged gang rape",
+   "title": "Cornell students gather to voice anger over alleged gang rape",
    "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -1150,17 +1315,6 @@
    "flourishing_feed": false,
    "summary": "Dispute over march will go to legal appeal on Monday after talks hosted by Northern Ireland secretary end Talks aimed at resolving the Drumcree parade dispute have broken up without agreement, with the Northern Ireland secretary, Chris Bryant, describing the situation as being…",
    "published": "2026-10-02T09:16:02+00:00"
-  },
-  {
-   "id": "2b4585a5cb9d",
-   "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-   "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
-   "published": "2026-10-02T09:15:00+00:00"
   },
   {
    "id": "ff7dcb8efe76",
@@ -4871,13 +5025,13 @@
   },
   {
    "id": "a987c5ca0517",
-   "title": "What to Expect From the September Jobs Report",
+   "title": "What a Cooler-Than-Expected September Jobs Report Means for the Fed",
    "link": "https://www.kiplinger.com/investing/economy/what-to-expect-from-the-september-jobs-report",
    "source": "Kiplinger",
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "The September jobs report will be released Friday morning. Here's what we expect the data to show.",
+   "summary": "The September jobs report was released Friday morning. Here's what the data show.",
    "published": "2026-10-01T13:47:25+00:00"
   },
   {
