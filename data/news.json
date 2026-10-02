@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T09:32:17.934844+00:00",
+ "generated": "2026-10-02T10:30:32.707984+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 31
+   "count": 29
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,325 @@
  ],
  "items": [
   {
+   "id": "2b0590e87b17",
+   "title": "Are Trump’s TV Ads Legal?",
+   "link": "https://thedispatch.com/newsletter/morning/are-trumps-tv-ads-legal/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: Renee Good’s family sues top Trump officials over her fatal shooting, the Senate leaves Washington until after the midterms, and the European Union (somehow) makes a worse alternative to Microsoft Teams.",
+   "published": "2026-10-02T10:30:06+00:00"
+  },
+  {
+   "id": "2a532dc0d4e7",
+   "title": "Failed 'torturous' execution attempt on Christa Pike reignites death penalty debate",
+   "link": "https://www.npr.org/2026/10/02/nx-s1-5988832/christa-pike-reignites-death-penalty-debate",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The botched execution in Tennessee of Christa Pike – who survived despite being subject to two doses of lethal injection on Wednesday – has reignited furious debate about the death penalty in the U.S.",
+   "published": "2026-10-02T10:25:03+00:00"
+  },
+  {
+   "id": "6c1b5329c60f",
+   "title": "Here’s the bond-market alternative as U.S. and other developed markets debt deteriorate",
+   "link": "https://www.marketwatch.com/story/heres-the-bond-market-alternative-as-u-s-and-other-developed-markets-debt-deteriorate-e3d57b02?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Christopher Wood, of Jefferies, said Group of Seven bonds have entered a ‘structural bear market’ since March 2020.",
+   "published": "2026-10-02T10:25:00+00:00"
+  },
+  {
+   "id": "a8c6bfb9f0ba",
+   "title": "400 French schools closed on Friday as protests escalate into ‘urban violence’ – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Dozens of schools have been damaged and nearly 3,000 teenagers have been detained since the start of the tensions We are getting more pictures from Strasbourg … Back to France, the situation appears to be escalating again in Strasbourg, where protesters are building a barrier…",
+   "published": "2026-10-02T10:23:03+00:00"
+  },
+  {
+   "id": "06265987b1c6",
+   "title": "Brazil is holding an election — and for the stock market, there’s more to gain than to lose, says fund manager",
+   "link": "https://www.marketwatch.com/story/brazil-is-holding-an-election-and-for-the-stock-market-theres-more-to-gain-than-to-lose-says-fund-manager-fa29f26e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Were Flavio Bolsonaro to outperform current polling Sunday, an emerging-market fund manager see the opportunity for a sharp rally in stocks",
+   "published": "2026-10-02T10:22:00+00:00"
+  },
+  {
+   "id": "dcfe7d48e6df",
+   "title": "UK diesel price hits record high of £2 a litre",
+   "link": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Motorists and small businesses struggle with costs as Iran war drives up cost of oil worldwide ‘Half my day’s pay goes to filling up my car’ Business live – latest updates British motorists face more pressure at the pumps after the average price of diesel climbed to a record £2…",
+   "published": "2026-10-02T10:20:26+00:00"
+  },
+  {
+   "id": "77e04e2e894a",
+   "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+   "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+   "published": "2026-10-02T10:15:00+00:00"
+  },
+  {
+   "id": "6feffa33399f",
+   "title": "Badenoch claims Labour is preparing for a general election in May 2027 – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/02/zack-polanski-green-party-conference-speech-kemi-badenoch-andy-burnham-general-election-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Speculation about an early election continue to persist even as Andy Burnham ruled it out Senior Labour figures are privately voicing unease about John Healey’s approach to his crucial first budget this month, against the backdrop of volatile global markets and soaring energy…",
+   "published": "2026-10-02T10:05:51+00:00"
+  },
+  {
+   "id": "9755b951926c",
+   "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+   "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+   "published": "2026-10-02T10:04:56+00:00"
+  },
+  {
+   "id": "b77ebd52a089",
+   "title": "A 'dark cloud' and 'dismal' mood: How it feels on Cornell campus right now",
+   "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
+   "published": "2026-10-02T10:00:24+00:00"
+  },
+  {
+   "id": "ad6448e94bb3",
+   "title": "Review: The Fugitive Owl Who Captured New York's Attention",
+   "link": "https://reason.com/2026/10/02/wild-inside/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "HBO's Wild Inside documentary recalls Flaco, who broke free from Central Park Zoo and learned to fly.",
+   "published": "2026-10-02T10:00:08+00:00"
+  },
+  {
+   "id": "44fe48b703f4",
+   "title": "OpenAI disclose another hack on government department in Australia",
+   "link": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Attack accessing historical data on bushfires occurred in June but not disclosed by the tech company until Thursday Get our breaking news email , free app or daily news podcast Artificial intelligence company OpenAI has disclosed another unauthorised hack on a government…",
+   "published": "2026-10-02T10:00:05+00:00"
+  },
+  {
+   "id": "520b042640c1",
+   "title": "Can Colorado make oil companies pay for climate damage? The Supreme Court will soon decide",
+   "link": "https://www.deseret.com/environment/2026/10/02/in-suncor-v-boulder-supreme-court-to-decide-if-oil-companies-should-pay-for-climate-change/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Supreme Court will soon hear arguments on whether state courts can push the price of climate change onto energy companies — which will influence environmental lawsuits across the country. In 2018, Boulder County, Colorado, sued Suncor Energy and Exxon Mobil. Suncor — one of…",
+   "published": "2026-10-02T10:00:01+00:00"
+  },
+  {
+   "id": "0a8ad8f7fd46",
+   "title": "How President Dallin H. Oaks is leading Latter-day Saints through a ‘glorious season of temple building’",
+   "link": "https://www.deseret.com/faith/2026/10/02/temple-status-update-president-dallin-oaks-first-year/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Dallin H. Oaks launched a new era of temple building last year when he became president of The Church of Jesus Christ of Latter-day Saints. The prophet-president was ordained Oct. 14, 2025 , following the death of President Russell M. Nelson on Sept. 27, 2025.…",
+   "published": "2026-10-02T10:00:00+00:00"
+  },
+  {
+   "id": "8fab10f7c150",
+   "title": "States tackle ways to help families with young children. Did your state?",
+   "link": "https://www.deseret.com/family/2026/10/02/family-policies-paid-leave-child-care-doula-subsidies-aid-vanderbilt-report/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Paid leave, child care support, Medicaid coverage for doula services and higher wages are among the investments some states have made to ensure families with young children — ages 0 to 3 — get off to a healthy start. Vanderbilt University’s Prenatal-to-3 Policy Impact Center…",
+   "published": "2026-10-02T10:00:00+00:00"
+  },
+  {
+   "id": "42799d121956",
+   "title": "Fractured foot hasn’t kept safety Faletau Satuala from picking up where he left off last year",
+   "link": "https://www.deseret.com/sports/2026/10/02/byu-football-cougars-faletau-satuala-broken-foot-fracture-injury-recovery/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Junior safety Faletau Satuala was running a shuttle drill with some of his teammates at BYU’s Indoor Practice Facility last June when he felt something pop in his right foot. “At first, I thought it was no big deal,” he said. “I thought I had just stepped funny. And then I…",
+   "published": "2026-10-02T10:00:00+00:00"
+  },
+  {
+   "id": "5a88b246c833",
+   "title": "They’re against abortion. So why is Abolitionists Rising at odds with most abortion opponents?",
+   "link": "https://www.deseret.com/u-s-world/2026/10/02/abolitionists-rising-abortion-protests-dobbs-decision/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In the late 1800s, a Harvard-educated physician led an anti-abortion crusade seeking “the suppression of this abominable, unnatural, and yet common crime.” A century and a half later, abortion opponents who call themselves “abolitionists” are seeking the same outcome, with much…",
+   "published": "2026-10-02T10:00:00+00:00"
+  },
+  {
+   "id": "1c44ce36b70f",
+   "title": "The insidious, fascinating, and utterly infuriating reason that women’s health care is worse than men’s",
+   "link": "https://www.vox.com/the-highlight/504071/medical-billing-womens-health-outcomes",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In the moody alcoves of a lobby bar in Chicago in 2021 over French 75s, Dr. Louise King, a gynecologic surgeon, and Katie L. Watson, a bioethics professor, found themselves in conversation about a topic that had long frustrated them both: Female surgeons are consistently…",
+   "published": "2026-10-02T10:00:00+00:00"
+  },
+  {
+   "id": "abeb695c20ee",
+   "title": "We’re Reporters, Not Teachers. We Were Able to Start Private Schools Anyway.",
+   "link": "https://www.propublica.org/article/propublica-private-schools-arkansas-west-virginia-north-carolina",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post We’re Reporters, Not Teachers. We Were Able to Start Private Schools Anyway. appeared first on ProPublica .",
+   "published": "2026-10-02T10:00:00+00:00"
+  },
+  {
+   "id": "d18bd6e939b3",
+   "title": "Yays and Boos",
+   "link": "https://www.christianitytoday.com/2026/10/yays-and-boos/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This summer, CT started running an occasional feature on reader responses. Here’s a new installment. Creation from Nothing Is Not the Big Bang I appreciate Brad East’s article asserting God’s creating heaven and earth from nothing. I also recommend Augustine’s reflections in…",
+   "published": "2026-10-02T10:00:00+00:00"
+  },
+  {
+   "id": "45db02c0e3bb",
+   "title": "‘The Shack’ Sequel Is as Provocative as the Original",
+   "link": "https://www.christianitytoday.com/2026/10/return-to-the-shack-sequel-provocative-review/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This piece was adapted from CT’s books newsletter. Subscribe here. William Paul Young, Return to the Shack: A Journey Into Redemption (Apiary, 2026) The enormously successful, highly controversial novel The Shack (2007) spotlit the problem of suffering, portraying a divine love…",
+   "published": "2026-10-02T10:00:00+00:00"
+  },
+  {
+   "id": "a7f318c98e90",
+   "title": "How Great Is Our Claude",
+   "link": "https://www.christianitytoday.com/2026/10/ai-claude-worship-leader-setlist-lyric-evaluation/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "One of the most common questions Tyler Anson Newberry hears from young worship leaders is “How do I know if a song is good?” For Newberry, a Houston-based worship leader who has been in ministry for over 30 years, evaluating a new song takes only a few minutes. “I have an…",
+   "published": "2026-10-02T10:00:00+00:00"
+  },
+  {
+   "id": "ec1336984e79",
+   "title": "Christianity Today Announces New Editorial Leadership Team as the Ministry Celebrates Its 70th Year",
+   "link": "https://www.christianitytoday.com/news-releases/erik-petrik-office-of-content-editor-in-chief/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Celebrating the 70th anniversary of its founding, Christianity Today announced a new editorial leadership team to bring together the full scope of its various media platforms. The announcement comes at the conclusion of The One Kingdom Campaign and launches the ministry forward…",
+   "published": "2026-10-02T10:00:00+00:00"
+  },
+  {
+   "id": "9e6bc1ca699c",
+   "title": "For Retirement Income, Which Accounts Do You Tap First?",
+   "link": "https://www.kiplinger.com/investing/wealth-management/retirement-income-planning-which-accounts-first",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "When clients' retirement transition is harder than they expected, a \"ready, shoot, aim\" approach to income withdrawals is often to blame. Here's how to fix it.",
+   "published": "2026-10-02T10:00:00+00:00"
+  },
+  {
+   "id": "66c3b8fad831",
+   "title": "Kinky dating app Feeld pays founders record £3.8m after sales jump",
+   "link": "https://www.theguardian.com/technology/2026/oct/02/feeld-dating-app-pays-founders-sales-jump",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Platform ‘for the curious’ says users outside the UK account for nearly 90% of its revenues Business live – latest updates Feeld, a UK-based dating app aimed at non-monogamous, queer and kinky users, has reported strong sales growth and paid its founders their largest-ever…",
+   "published": "2026-10-02T09:58:19+00:00"
+  },
+  {
+   "id": "7d964b0b4563",
+   "title": "It’s Easy to Start a Private School. Take Our Quiz to Find Out Where You Can Open Yours.",
+   "link": "https://projects.propublica.org/private-school-requirements-quiz/",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post It’s Easy to Start a Private School. Take Our Quiz to Find Out Where You Can Open Yours. appeared first on ProPublica .",
+   "published": "2026-10-02T09:55:00+00:00"
+  },
+  {
+   "id": "ee18e78b5739",
+   "title": "Kiplinger Conversations: How to Talk Inheritance With Your Kids",
+   "link": "https://www.kiplinger.com/retirement/inheritance/kiplinger-conversations-how-to-talk-inheritance-with-your-kids",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In this panel conversation, Kiplinger editors talk to experts about the Great Wealth Transfer and answer questions on how to discuss inheritance with your family.",
+   "published": "2026-10-02T09:30:00+00:00"
+  },
+  {
+   "id": "585fa9cdddb6",
+   "title": "NBA closes sole Africa training academy in blow to young players",
+   "link": "https://www.aljazeera.com/sports/2026/10/2/nba-closes-sole-africa-training-academy-in-blow-to-young-players?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "NBA says its focus is on new global academy opening in Abu Dhabi as Africa, Mexico and Australia hit by closures.",
+   "published": "2026-10-02T09:26:14+00:00"
+  },
+  {
+   "id": "48ec190a4a26",
+   "title": "Arab party leader forced to withdraw from Israeli elections",
+   "link": "https://www.aljazeera.com/news/2026/10/2/arab-party-leader-forced-to-withdraw-from-israeli-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Palestinian participation in upcoming Knesset vote continues to shrink with withdrawal of Sami Abu Shehadeh.",
+   "published": "2026-10-02T09:25:23+00:00"
+  },
+  {
    "id": "50a409b786e7",
    "title": "Another viral AI doomsday report claims ‘it’s over.’ Why home prices could take a hit as screen-based jobs disappear.",
    "link": "https://www.marketwatch.com/story/another-viral-ai-doomsday-report-claims-its-over-why-home-prices-could-take-a-hit-as-screen-based-jobs-disappear-4bed48bc?mod=mw_rss_topstories",
@@ -140,26 +459,26 @@
    "published": "2026-10-02T09:25:00+00:00"
   },
   {
-   "id": "6feffa33399f",
-   "title": "Badenoch claims Labour is preparing for a general election in May 2027 – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/02/zack-polanski-green-party-conference-speech-kemi-badenoch-andy-burnham-general-election-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "1ced9cfaa757",
+   "title": "Manchester City to launch appeal as financial breach fallout grows",
+   "link": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-to-launch-deadline-appeal-as-financial-breach-fallout-grows?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Speculation about an early election continue to persist even as Andy Burnham ruled it out People should not worry about diesel shortages, the government has said, amid pressure from the US for European countries to use their reserves. Transport minister Keir Mather said…",
-   "published": "2026-10-02T09:23:50+00:00"
+   "summary": "Friday deadline looms as the legal fallout widens beyond the Premier League case over the alleged breaches.",
+   "published": "2026-10-02T09:24:48+00:00"
   },
   {
-   "id": "a8c6bfb9f0ba",
-   "title": "400 French schools closed on Friday as protests escalate into ‘urban violence’ – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/02/france-schools-protests-violence-ukraine-kallas-rome-pope-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "cce1e8592991",
+   "title": "Israeli court ruling a ‘new threshold’ in Palestinian suppression",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-ziad-abu-rish-israel-politics-qt-mp4?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Dozens of schools have been damaged and nearly 3,000 teenagers have been detained since the start of the tensions There are also big news lines emerging from Sweden, as the parliament speaker Andreas Norlén has asked Social Democratic leader Magdalena Andersson to have another…",
-   "published": "2026-10-02T09:21:38+00:00"
+   "summary": "Israel’s top court told Palestinian politician Sami Abu Shehadeh to withdraw from the election or face disqualification.",
+   "published": "2026-10-02T09:24:39+00:00"
   },
   {
    "id": "1a10dc4aeb93",
@@ -169,7 +488,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Dispute over march will now go to legal appeal on Monday after talks hosted by Northern Ireland secretary end Talks aimed at resolving the Drumcree parade dispute have broken up without agreement, with the Northern Ireland secretary, Chris Bryant, describing the situation as…",
+   "summary": "Dispute over march will go to legal appeal on Monday after talks hosted by Northern Ireland secretary end Talks aimed at resolving the Drumcree parade dispute have broken up without agreement, with the Northern Ireland secretary, Chris Bryant, describing the situation as being…",
    "published": "2026-10-02T09:16:02+00:00"
   },
   {
@@ -317,7 +636,7 @@
   },
   {
    "id": "a024a026ef9d",
-   "title": "Pro-democracy activists increasingly vulnerable to authoritarian governments in Asia",
+   "title": "Pro-democracy activists increasingly vulnerable to authoritarian governments in Southeast Asia",
    "link": "https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments",
    "source": "NPR News",
    "circle_hint": "national",
@@ -356,7 +675,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Up to 300mm of rain could fall in places, while extreme downpours bring deadly landslides to Nepal Torrential rain and potentially damaging flooding are forecast in eastern Spain over the coming days, as cold upper air moves over the warm, humid surface air of the Mediterranean…",
+   "summary": "Up to 300mm of rain could fall in places, while extreme downpours bring landslides and deaths in Nepal Torrential rain and potentially damaging flooding are forecast in eastern Spain over the coming days, as cold upper air moves over the warm, humid surface air of the…",
    "published": "2026-10-02T08:58:10+00:00"
   },
   {
@@ -479,17 +798,6 @@
    "flourishing_feed": false,
    "summary": "Moscow has suffered further losses of occupied territory, but is using new drones to beat Ukraine's defences.",
    "published": "2026-10-02T08:03:02+00:00"
-  },
-  {
-   "id": "9755b951926c",
-   "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
-   "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
-   "published": "2026-10-02T08:01:10+00:00"
   },
   {
    "id": "e618d8a8d08c",
@@ -1238,17 +1546,6 @@
    "flourishing_feed": false,
    "summary": "Renewed talks over the stalled agreement have revived hope of resettlement, but ageing Chagossians fear time is running.",
    "published": "2026-10-02T00:29:57+00:00"
-  },
-  {
-   "id": "77e04e2e894a",
-   "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-   "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-   "published": "2026-10-02T00:15:00+00:00"
   },
   {
    "id": "61a5a5c11a3d",
@@ -5680,7 +5977,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": true,
-   "summary": "Listening is often overlooked as a leadership skill, but it can challenge assumptions and lead to better decisions, writes social innovator Ken Banks The post Why good leaders listen appeared first on Positive News .",
+   "summary": "Listening is often overlooked as a leadership skill, but it can challenge assumptions and lead to better decisions The post Why good leaders listen appeared first on Positive News .",
    "published": "2026-10-01T07:00:31+00:00"
   },
   {
@@ -16053,7 +16350,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": true,
-   "summary": "Forest fires have ravaged Peru in recent years, but some Indigenous communities are seeing a decline. Meet the forest protectors of Paamari The post ‘The forest is life’: how Indigenous communities in Peru are preventing wildfires appeared first on Positive News .",
+   "summary": "Ancient knowledge and new technology are combining to help Indigenous communities in Peru tackle forest fires The post ‘The forest is life’: how Indigenous communities in Peru are preventing wildfires appeared first on Positive News .",
    "published": "2026-09-29T08:00:53+00:00"
   },
   {
