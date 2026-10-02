@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T06:36:30.442946+00:00",
+ "generated": "2026-10-02T07:31:55.696051+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,72 @@
  ],
  "items": [
   {
+   "id": "ff7dcb8efe76",
+   "title": "I opened cockpit door of plane while being attacked, Indian pilot tells Modi",
+   "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Capt Smit Machchhar, who was stabbed on the Israel-bound flight, has been hailed as a hero.",
+   "published": "2026-10-02T07:20:25+00:00"
+  },
+  {
+   "id": "8ce24920e251",
+   "title": "Australia news live: Union leader says PM ‘vastly underpaid’; Shoebridge pledges members will ‘have a say’ in next leader",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast A Sydney man has been charged after allegedly restraining, choking and sexually assaulting a young woman in a park, Australian Associated Press reports. A 23-year-old woman was walking from…",
+   "published": "2026-10-02T07:15:40+00:00"
+  },
+  {
+   "id": "00d162e01578",
+   "title": "Beau Lamarre-Condon trial: victim’s family cries as double murder trial hears triple-zero call",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/02/beau-lamarre-condon-asked-police-investigator-about-of-lilie-james-day-before-shootings-court-hears",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Court hears audio of call made on morning Luke Davies and Jesse Baird were allegedly murdered by NSW police officer Warning: graphic image below Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A triple-zero…",
+   "published": "2026-10-02T07:10:36+00:00"
+  },
+  {
+   "id": "74fa7142aa69",
+   "title": "Sen. Schmitt’s Failed Attack on Jack Smith",
+   "link": "https://thedispatch.com/podcast/dispatch-podcast/sen-schmitts-failed-attack-on-jack-smith/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: On the ‘superintelligence’ rebrand.",
+   "published": "2026-10-02T07:00:00+00:00"
+  },
+  {
+   "id": "51bda3f33b01",
+   "title": "Open Thread",
+   "link": "https://reason.com/volokh/2026/10/02/open-thread-345/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What’s on your mind?",
+   "published": "2026-10-02T07:00:00+00:00"
+  },
+  {
+   "id": "b284a09678ed",
+   "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+   "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+   "published": "2026-10-02T06:59:30+00:00"
+  },
+  {
    "id": "9077ca09c532",
    "title": "Miami judge rules federal noncitizen voting law violates US Constitution",
    "link": "https://www.aljazeera.com/news/2026/10/2/miami-judge-rules-federal-noncitizen-voting-law-violates-us-constitution?traffic_source=rss",
@@ -160,17 +226,6 @@
    "flourishing_feed": false,
    "summary": "Brazilian president and opposition candidate snub the final debate ahead of the presidential election.",
    "published": "2026-10-02T06:09:57+00:00"
-  },
-  {
-   "id": "8ce24920e251",
-   "title": "Australia news live: Union leader says PM ‘vastly underpaid’; Shoebridge pledges members will ‘have a say’ in next leader",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast A Sydney man has been charged after allegedly restraining, choking and sexually assaulting a young woman in a park, Australian Associated Press reports. A 23-year-old woman was walking from…",
-   "published": "2026-10-02T06:04:24+00:00"
   },
   {
    "id": "bbfc24fb1dd3",
@@ -281,17 +336,6 @@
    "flourishing_feed": false,
    "summary": "As a way to inject a little fun into practice this week, Springville coach Todd Hollingshead had his players work on their diving headers. The opportunity to actually attempt a diving header in a game is extremely rare, so the drill was primarily just a funny way to do some…",
    "published": "2026-10-02T05:28:57+00:00"
-  },
-  {
-   "id": "b284a09678ed",
-   "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-   "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
-   "published": "2026-10-02T05:26:06+00:00"
   },
   {
    "id": "0024df606271",
@@ -600,17 +644,6 @@
    "flourishing_feed": false,
    "summary": "Voters will soon decide between President Luiz Inácio Lula da Silva and the son of former President Jair Bolsonaro.",
    "published": "2026-10-02T02:07:49+00:00"
-  },
-  {
-   "id": "00d162e01578",
-   "title": "Beau Lamarre-Condon trial: victim’s family cries as double murder trial hears triple-zero call",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/02/beau-lamarre-condon-asked-police-investigator-about-of-lilie-james-day-before-shootings-court-hears",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Court hears audio of call made on morning Luke Davies and Jesse Baird were allegedly murdered by NSW police officer Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Luke Davies’ family has cried as audio of a…",
-   "published": "2026-10-02T02:04:17+00:00"
   },
   {
    "id": "f66da02d10a4",
@@ -2638,7 +2671,7 @@
   },
   {
    "id": "4e419a2cfc3b",
-   "title": "Cornell Jane Doe's attorney says she told police in 2024: 'I was raped'",
+   "title": "New York Attorney General Letitia James made special prosecutor in Cornell rape investigation",
    "link": "https://www.npr.org/2026/10/01/nx-s1-5987703/cornell-fraternity-rape-case-updates",
    "source": "NPR News",
    "circle_hint": "national",

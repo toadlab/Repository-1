@@ -39742,5 +39742,53 @@
   "decision": "borderline",
   "exclusion": "did not clear the national bar",
   "persistent": false
+ },
+ "ff7dcb8efe76": {
+  "story_key": "i-opened-cockpit-door-plane",
+  "durability": 4,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
+ },
+ "74fa7142aa69": {
+  "story_key": "sen-schmitt-s-failed-attack",
+  "durability": 4,
+  "circle": "national",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 8.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the national bar",
+  "persistent": false
+ },
+ "51bda3f33b01": {
+  "story_key": "open-thread",
+  "durability": 4,
+  "circle": "national",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.5,
+  "bar": 8.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the national bar",
+  "persistent": true
  }
 }
