@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T03:30:51.515184+00:00",
+ "generated": "2026-10-02T04:31:19.547001+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 32
+   "count": 28
   },
   {
    "name": "The Guardian World",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "name": "Congressional Budget Office",
@@ -129,6 +129,17 @@
  ],
  "items": [
   {
+   "id": "4d4756d3f0bd",
+   "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
+   "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fortnite and Minecraft also told to 'lift their game' by online safety regulator.",
+   "published": "2026-10-02T04:21:31+00:00"
+  },
+  {
    "id": "8ce24920e251",
    "title": "Australia news live: Israeli embassy condemns flydubai ‘false flag’ conspiracies; Melbourne soaked by wettest day since 2024",
    "link": "https://www.theguardian.com/australia-news/live/2026/oct/02/labor-anthony-albanese-online-gaming-esafety-coalition-angus-taylor-greens-david-shoebridge-ntwnfb",
@@ -137,11 +148,66 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast A Sydney man has been charged after allegedly restraining, choking and sexually assaulting a young woman in a park, Australian Associated Press reports. A 23-year-old woman was walking from…",
-   "published": "2026-10-02T03:24:19+00:00"
+   "published": "2026-10-02T04:18:51+00:00"
+  },
+  {
+   "id": "6ace41c214d6",
+   "title": "Tennessee suspends executions as Christa Pike’s lawyer says failed lethal injection leaves her in critical condition",
+   "link": "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-tennessee-governor-executions-year-pause",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Independent inquiry ordered after failed execution of Pike, who was convicted of 1994 murder Christa Pike: what we know so far about Tennessee woman’s failed execution Tennessee ’s governor on Thursday said it was “deeply disturbing” that his state botched the execution of a…",
+   "published": "2026-10-02T04:18:18+00:00"
+  },
+  {
+   "id": "18539861a7f6",
+   "title": "‘They believed these women might be alone’: men charged with assault and choking after Sydney home invasions",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/02/sydney-home-invasions-arncliffe-bankstown-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "NSW police allege the men, aged 18, 19 and 20, broke into homes in Arncliffe and Bankstown this week before assaulting the women aged 31 and 32 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Three men have…",
+   "published": "2026-10-02T04:18:07+00:00"
+  },
+  {
+   "id": "b357b87073e3",
+   "title": "FAO official says he lost his job for criticising Israeli policies in Gaza",
+   "link": "https://www.aljazeera.com/news/2026/10/2/fao-official-says-he-lost-his-job-for-criticising-israeli-policies-in-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The FAO official said he was told his contract would not be renewed over an alleged breach of impartiality on Gaza.",
+   "published": "2026-10-02T04:02:44+00:00"
+  },
+  {
+   "id": "2e5515d010f1",
+   "title": "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election",
+   "link": "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Speculation that Flávio Bolsonaro will try to strip Our Lady of Aparecida of position could become deciding factor in run-up to Sunday A row of Biblical proportions has erupted in the run-up to Brazil’s presidential election, with the country’s patron saint, Our Lady of…",
+   "published": "2026-10-02T04:00:10+00:00"
+  },
+  {
+   "id": "3cd2198035d0",
+   "title": "Indian artist takes ‘deleted voter’ song to Cockroach protest",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/indian-artist-takes-deleted-voter-song-to-cockroach-protest?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An Indian artist tells Al Jazeera the Modi government changed his voting status. Now he’ll join 'Cockroach' protests.",
+   "published": "2026-10-02T03:49:23+00:00"
   },
   {
    "id": "b31916732473",
-   "title": "SpaceX flight led by first Black female commander sets US speed record",
+   "title": "‘An amazing ride’: SpaceX flight led by first Black female commander sets US speed record",
    "link": "https://www.theguardian.com/science/2026/oct/01/spacex-speed-record-first-black-female-commander",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -149,6 +215,28 @@
    "flourishing_feed": false,
    "summary": "Four astronauts pulled up at International Space Station after eight-hour express flight led by Jessica Watkins Four astronauts pulled up at the International Space Station (ISS) on Thursday after launching on an eight-hour express that set a US speed record, and that created…",
    "published": "2026-10-02T03:18:45+00:00"
+  },
+  {
+   "id": "6240bf9bb628",
+   "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Massive US military deployment to the Middle East includes 50,000 troops, F-35s and Marines to pressure Tehran.",
+   "published": "2026-10-02T03:14:47+00:00"
+  },
+  {
+   "id": "39e41a2ade6f",
+   "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+   "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+   "published": "2026-10-02T03:09:13+00:00"
   },
   {
    "id": "564be631db97",
@@ -171,28 +259,6 @@
    "flourishing_feed": false,
    "summary": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
    "published": "2026-10-02T02:49:44+00:00"
-  },
-  {
-   "id": "18539861a7f6",
-   "title": "Women hospitalised and three men charged with assault and choking after separate home invasions in Sydney",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/02/sydney-home-invasions-arncliffe-bankstown-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "NSW police allege the men, aged 18, 19 and 20, broke into homes in Arncliffe and Bankstown this week before assaulting the women aged 31 and 32 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Three men have…",
-   "published": "2026-10-02T02:34:56+00:00"
-  },
-  {
-   "id": "4d4756d3f0bd",
-   "title": "Australia says platforms like Steam and Roblox have 'significant' child safety gaps",
-   "link": "https://www.bbc.co.uk/news/articles/cjvgygzzy6lro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Fortnite, Roblox and Minecraft also told to 'lift their game' by online safety regulator.",
-   "published": "2026-10-02T02:29:41+00:00"
   },
   {
    "id": "40ce86469e6f",
@@ -240,13 +306,13 @@
   },
   {
    "id": "00d162e01578",
-   "title": "Beau Lamarre-Condon asked police investigator about murder of Lilie James day before shootings, court hears",
+   "title": "Beau Lamarre-Condon trial: victim’s family cries as double murder trial hears triple-zero call",
    "link": "https://www.theguardian.com/australia-news/2026/oct/02/beau-lamarre-condon-asked-police-investigator-about-of-lilie-james-day-before-shootings-court-hears",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Lamarre-Condon asked fellow officer if Paul Thijssen ‘would have gotten away with’ James’s murder if he hadn’t subsequently killed himself Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Police officer Beau…",
+   "summary": "Court hears audio of call made on morning Luke Davies and Jesse Baird were allegedly murdered by NSW police officer Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The family of Luke Davies cried as audio of a…",
    "published": "2026-10-02T02:04:17+00:00"
   },
   {
@@ -358,6 +424,17 @@
    "flourishing_feed": false,
    "summary": "Migration agents and lawyers ‘selling false hope’ to people seeking to stay in Australia also in ministers’ sights as they seek to reduce overseas arrivals Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast “Visa…",
    "published": "2026-10-02T01:33:56+00:00"
+  },
+  {
+   "id": "fd58a5aa9598",
+   "title": "Cornell students voice frustration at public hearing over rape case",
+   "link": "https://www.bbc.co.uk/news/videos/cwe8e8jpnpy5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The BBC's Nada Tawfik was at the hearing, where the university's Student Assembly led a discussion around safety concerns and sexual violence on campus.",
+   "published": "2026-10-02T01:29:16+00:00"
   },
   {
    "id": "40920af552a5",
@@ -481,6 +558,17 @@
    "published": "2026-10-01T23:57:55+00:00"
   },
   {
+   "id": "73ef7b3bf8b4",
+   "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
+   "link": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing.",
+   "published": "2026-10-01T23:46:12+00:00"
+  },
+  {
    "id": "a4c33371b4b3",
    "title": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
    "link": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
@@ -490,6 +578,28 @@
    "flourishing_feed": false,
    "summary": "1,439 Palestinians have been killed in Gaza and 5,052 injured since the 'ceasefire' began in October 2025.",
    "published": "2026-10-01T23:44:39+00:00"
+  },
+  {
+   "id": "da0af3bae37f",
+   "title": "Spain and China are cosying up - to the anger of many in the EU",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgyg824m02o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Amid global tumult, the two countries alliance is not the only unlikely pairing.",
+   "published": "2026-10-01T23:42:33+00:00"
+  },
+  {
+   "id": "b1bbfe46d167",
+   "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+   "link": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
+   "published": "2026-10-01T23:32:59+00:00"
   },
   {
    "id": "f3273beba0f6",
@@ -512,6 +622,17 @@
    "flourishing_feed": false,
    "summary": "After five years of work, 5,750 panels of toughened glass will help keep hundred of plants safe from Scottish winters – but more work needs to be done In the early autumn sunlight, Royal Botanic Garden Edinburgh’s extensive plant collection appears safe in their glass…",
    "published": "2026-10-01T23:01:03+00:00"
+  },
+  {
+   "id": "9265c9a73dcf",
+   "title": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+   "link": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
+   "published": "2026-10-01T23:00:05+00:00"
   },
   {
    "id": "4a25225825f9",
@@ -624,6 +745,17 @@
    "published": "2026-10-01T22:26:27+00:00"
   },
   {
+   "id": "c7c2610b0fb3",
+   "title": "Why are these endangered moths swarming Australia's east coast?",
+   "link": "https://www.bbc.co.uk/news/videos/c6rr4r704en4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The sudden influx of Bogong moths has caused a stir in cities like Sydney and Canberra, with people filming them infiltrating their homes and cars.",
+   "published": "2026-10-01T22:26:05+00:00"
+  },
+  {
    "id": "214ea58b884e",
    "title": "US states and cities sue over Trump EPA’s repeal of emissions rules",
    "link": "https://www.theguardian.com/environment/2026/oct/01/us-states-cities-trump-epa-climate-emissions",
@@ -636,7 +768,7 @@
   },
   {
    "id": "b284a09678ed",
-   "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+   "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
    "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -677,17 +809,6 @@
    "flourishing_feed": false,
    "summary": "Saudi Arabia's Interior Ministry says pilots were returned to the UAE with an Emirati security team.",
    "published": "2026-10-01T21:53:16+00:00"
-  },
-  {
-   "id": "6ace41c214d6",
-   "title": "Tennessee suspends executions as Christa Pike’s lawyer says failed lethal injection leaves her in critical condition",
-   "link": "https://www.theguardian.com/us-news/2026/oct/01/christa-pike-tennessee-governor-executions-year-pause",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Independent inquiry ordered after failed execution of Pike, who was convicted of 1994 murder Christa Pike: what we know so far about Tennessee woman’s failed execution Tennessee ’s governor on Thursday said it was “deeply disturbing” that his state botched the execution of a…",
-   "published": "2026-10-01T21:44:49+00:00"
   },
   {
    "id": "02edb42c075a",
@@ -1227,6 +1348,17 @@
    "flourishing_feed": false,
    "summary": "The court ruled that the imposition of the fee violates the Administrative Procedure Act.",
    "published": "2026-10-01T20:09:42+00:00"
+  },
+  {
+   "id": "6d0e059dd312",
+   "title": "What we know about Christa Pike’s condition after failed execution",
+   "link": "https://www.bbc.co.uk/news/videos/cwe8e82jgm8po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The BBC’s Ione Wells reports from outside the Tennessee hospital where Pike is said to have arrived Wednesday night after surviving two lethal injection attempts.",
+   "published": "2026-10-01T20:09:34+00:00"
   },
   {
    "id": "ef6d1d0ae07a",
@@ -2250,6 +2382,17 @@
    "flourishing_feed": false,
    "summary": "First singles First round (Oct. 3) At Brighton High School No. 16 Nadia Bateman, Cedar Valley vs. No. 17 Aspen Record, Layton Round of 16 (Oct. 8) At Liberty Park No. 1 Kamryn Newman, Bingham vs. No. 16/17 winner No. 8 Ella Gonzalez, Lehi vs. No. 9 Grace Chapman, Davis No. 5…",
    "published": "2026-10-01T16:37:50+00:00"
+  },
+  {
+   "id": "0fa2b97a2f5f",
+   "title": "SpaceX launches crew to ISS",
+   "link": "https://www.bbc.co.uk/news/videos/c5rm9mdperemo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Falcon 9 rocket blasted off from Cape Canaveral with two Americans, a Russian and a Canadian who will spend up to six months aboard the International Space Station.",
+   "published": "2026-10-01T16:32:17+00:00"
   },
   {
    "id": "410b34fad0bd",
@@ -25375,7 +25518,7 @@
   },
   {
    "id": "6e8baf0e64b6",
-   "title": "High school girls tennis: 5A state tournament scores and schedules, tourney resumes today with Round of 16 and quarterfinals",
+   "title": "High school girls tennis: 5A state tournament scores and schedules, updated with Thursday’s Round of 16, quarterfinals",
    "link": "https://www.deseret.com/sports/2026/09/24/high-school-girls-tennis-5a-state-tournament-scores-schedules/",
    "source": "Deseret News",
    "circle_hint": "national",
