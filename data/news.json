@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-02T23:26:29.878573+00:00",
+ "generated": "2026-10-03T00:36:30.421702+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 35
+   "count": 37
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,116 @@
  ],
  "items": [
   {
+   "id": "f37c69fe5b90",
+   "title": "Task force report: What can Utah’s colleges do to boost campus safety?",
+   "link": "https://www.deseret.com/education/2026/10/02/utah-campus-safety-task-force-report/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Weeks after the Sept. 10, 2025, Charlie Kirk assassination at Utah Valley University, the Utah Board of Higher Education, or UBHE, mustered a campus safety task force. The group’s charge: Take a deep dive into policies, practices and resources to ensure that Utah’s public…",
+   "published": "2026-10-03T00:35:00+00:00"
+  },
+  {
+   "id": "f403e94eeca5",
+   "title": "Trail Blazers fire new TV announcer hours after hiring him",
+   "link": "https://www.deseret.com/sports/2026/10/02/trail-blazers-fire-new-tv-announcer-hours-after-hiring-him/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Within hours of launching a new chapter in their broadcast booth, the Portland Trail Blazers pivoted and changed direction. Portland announced Thursday that it had hired Braiden Bell, a 29-year-old broadcaster who previously worked with the WNBA’s Phoenix Mercury and the G…",
+   "published": "2026-10-03T00:24:20+00:00"
+  },
+  {
+   "id": "c7e23b625042",
+   "title": "Magnitude 4.8 earthquake hits Victoria with tremors felt across Melbourne",
+   "link": "https://www.theguardian.com/world/2026/oct/02/magnitude-48-earthquake-hits-victoria-with-tremors-felt-across-melbourne",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The epicentre was at Leongatha, 130km south-east of Melbourne, with residents reporting houses shaking just after 2am Get our breaking news email , free app or daily news podcast A magnitude 4.8 earthquake struck Victoria in the early hours of Saturday morning, shaking…",
+   "published": "2026-10-03T00:23:49+00:00"
+  },
+  {
+   "id": "5ba6c3ed1c2c",
+   "title": "What ‘KPop Demon Hunters’ stars said about the sequel",
+   "link": "https://www.deseret.com/entertainment/2026/10/02/kpop-demon-hunters-stars-talk-sequel-release-date/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Considering the massive success of “KPop Demon Hunters” — Netflix’s most watched movie of all-time that amassed 325.1 million views in its first 91 days — the sequel is already getting a lot of attention. But fans have to wait a while before the beloved KPop/secret…",
+   "published": "2026-10-03T00:21:30+00:00"
+  },
+  {
+   "id": "2a19ba1cac4c",
+   "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.",
+   "published": "2026-10-03T00:00:00+00:00"
+  },
+  {
+   "id": "a8e2ed0e177d",
+   "title": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+   "link": "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
+   "published": "2026-10-02T23:56:21+00:00"
+  },
+  {
+   "id": "4f51cabcd775",
+   "title": "North Korea fires ballistic missile towards the sea, South Korea says",
+   "link": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A ballistic missile is fired from the North Korean port city of Wonsan, South Korea's military says.",
+   "published": "2026-10-02T23:55:24+00:00"
+  },
+  {
+   "id": "dec0176999bd",
+   "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+   "published": "2026-10-02T23:53:35+00:00"
+  },
+  {
+   "id": "5beb4d4a33ab",
+   "title": "Partner of Gypsy Rose Blanchard found dead in Louisiana home",
+   "link": "https://www.theguardian.com/us-news/2026/oct/02/gypsy-rose-blanchard-ken-urker-dead",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Kenan ‘Ken’ Urker, 34, who died of apparent drug overdose, was partner of woman convicted of murder of mother The on-and-off partner of Gypsy Rose Blanchard , who spent time in prison for her role in the murder of her abusive mother, was found dead inside his Louisiana home on…",
+   "published": "2026-10-02T23:53:14+00:00"
+  },
+  {
+   "id": "130ab1cf9712",
+   "title": "Dutch royal house helped slave trade to survive, study finds",
+   "link": "https://www.aljazeera.com/news/2026/10/2/dutch-royal-house-helped-slave-trade-to-survive-study-finds?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In-depth study also says the royal house made huge profits from Dutch colonial policies in past centuries.",
+   "published": "2026-10-02T23:43:50+00:00"
+  },
+  {
    "id": "70f2a3c6121d",
    "title": "Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – US politics live",
    "link": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
@@ -137,7 +247,62 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "President has claimed pipeline project was part of a deal made last year to lower tariffs on imports from South Korea in return for billions of dollars of investments in the US Sign up for the Breaking News US email Send us your questions on how the Iran war will affect US…",
-   "published": "2026-10-02T23:08:06+00:00"
+   "published": "2026-10-02T23:39:55+00:00"
+  },
+  {
+   "id": "72681eff0e12",
+   "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
+   "link": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
+   "published": "2026-10-02T23:37:13+00:00"
+  },
+  {
+   "id": "466749eb0050",
+   "title": "Federal judge halts Big Bend border wall construction in blow to Trump agenda",
+   "link": "https://www.theguardian.com/us-news/2026/oct/02/big-bend-national-park-border-wall-halt",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plan to install barriers through popular national park sparked outrage from advocates and politicians alike A federal judge has temporarily blocked the Trump administration from expanding the border wall and other security infrastructure across the Big Bend region of west…",
+   "published": "2026-10-02T23:32:22+00:00"
+  },
+  {
+   "id": "db8a48076e2c",
+   "title": "Women given shorts at Oktoberfest to prevent upskirting",
+   "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The step at the Munich festival comes after thousands of voyeuristic videos emerged on social media.",
+   "published": "2026-10-02T23:16:03+00:00"
+  },
+  {
+   "id": "07aa13d2a013",
+   "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+   "link": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\".",
+   "published": "2026-10-02T23:06:00+00:00"
+  },
+  {
+   "id": "37043d72bf22",
+   "title": "The vanishing world of India's street magicians",
+   "link": "https://www.bbc.co.uk/news/articles/ck7v4v8pmzdeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "India's street performers are struggling to survive as audiences shrink and public spaces become harder to access.",
+   "published": "2026-10-02T22:59:05+00:00"
   },
   {
    "id": "67ab3a761434",
@@ -204,17 +369,6 @@
    "flourishing_feed": false,
    "summary": "The justice and treasury departments said they sent $2m to Hamas through charities and cryptocurrency, while six people were arrested across the US and France The Trump administration on Friday unveiled sanctions against three individuals allegedly related to the Islamist…",
    "published": "2026-10-02T22:24:45+00:00"
-  },
-  {
-   "id": "5beb4d4a33ab",
-   "title": "Partner of Gypsy Rose Blanchard found dead in Louisiana home",
-   "link": "https://www.theguardian.com/us-news/2026/oct/02/gypsy-rose-blanchard-ken-urker-dead",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Kenan ‘Ken’ Urker, 34, who died of apparent drug overdose, was partner of woman convicted of murder of mother The on-and-off partner of Gypsy Rose Blanchard , who spent time in prison for her role in the murder of her abusive mother, was found dead inside his Louisiana home on…",
-   "published": "2026-10-02T22:24:33+00:00"
   },
   {
    "id": "14b2f9efffbc",
@@ -952,17 +1106,6 @@
    "flourishing_feed": false,
    "summary": "The agency’s proposal would allow advisors to self-custody crypto assets under certain conditions. Commissioner Hester Peirce said she hoped a “calm end” to regulatory uncertainty was imminent.",
    "published": "2026-10-02T19:57:42+00:00"
-  },
-  {
-   "id": "c7e23b625042",
-   "title": "Magnitude 4.8 earthquake hits Victoria with tremors felt across Melbourne",
-   "link": "https://www.theguardian.com/world/2026/oct/02/magnitude-48-earthquake-hits-victoria-with-tremors-felt-across-melbourne",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The epicentre was at Leongatha, 130km south-east of Melbourne, with residents reporting houses shaking just after 2am Get our breaking news email , free app or daily news podcast A magnitude 4.8 earthquake struck Victoria in the early hours of Saturday morning, shaking…",
-   "published": "2026-10-02T19:57:16+00:00"
   },
   {
    "id": "e7b5c23581cd",
@@ -2041,6 +2184,17 @@
    "flourishing_feed": false,
    "summary": "Utahns have developed a reputation for showing up. That’s especially true when it comes to the major sports team or any big sporting event in town. And now, UFC 332 will give Salt Lake Valley residents another chance to prove it when the TKO Group-owned promotion returns to the…",
    "published": "2026-10-02T15:04:42+00:00"
+  },
+  {
+   "id": "2d01f4f9eca3",
+   "title": "Watch: Why students in France are protesting",
+   "link": "https://www.bbc.co.uk/news/videos/cr5ynddn318eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Demonstrations started in the French capital, then spread across the country in the days that followed.",
+   "published": "2026-10-02T15:02:15+00:00"
   },
   {
    "id": "788bd02835f7",
@@ -4318,6 +4472,17 @@
    "flourishing_feed": false,
    "summary": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
    "published": "2026-10-01T23:32:59+00:00"
+  },
+  {
+   "id": "4a947e0849c8",
+   "title": "AI, Faith and Human Connection",
+   "link": "https://www.christianitytoday.com/2026/10/ai-faith-and-human-connection/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pastor and scholar Greg Cootsona discusses his recent article in Christianity Today, It’s Not Good To Be Alone – With Chatbots, and explores if we are now exchanging conversation with connection. Watch the video interview here. (You will be leaving the CT site.) Chatbots are…",
+   "published": "2026-10-01T23:12:32+00:00"
   },
   {
    "id": "f3273beba0f6",
@@ -29060,7 +29225,7 @@
   },
   {
    "id": "00382b1aab59",
-   "title": "High school girls tennis: 3A state tournament scores and schedules, Round of 16 and quarterfinal matches resume today",
+   "title": "High school girls tennis: 3A state tournament scores and schedules, updated with Friday’s Round of 16, quarterfinal matches",
    "link": "https://www.deseret.com/sports/2026/09/24/high-school-girls-tennis-3a-state-tournament-scores-schedules/",
    "source": "Deseret News",
    "circle_hint": "national",
