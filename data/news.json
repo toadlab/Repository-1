@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T10:29:24.613283+00:00",
+ "generated": "2026-10-03T14:38:29.517326+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 41
+   "count": 42
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,675 @@
  ],
  "items": [
   {
+   "id": "795dee37c0bd",
+   "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
+   "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "At today’s prices and rates, even the average used vehicle can exceed some commonly used affordability measures.",
+   "published": "2026-10-03T14:36:00+00:00"
+  },
+  {
+   "id": "2b0a89bd386a",
+   "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
+   "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“As a country, we have grown dangerously comfortable.”",
+   "published": "2026-10-03T14:31:00+00:00"
+  },
+  {
+   "id": "e70657906e72",
+   "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+   "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+   "published": "2026-10-03T14:27:33+00:00"
+  },
+  {
+   "id": "eed7ab4cd749",
+   "title": "‘This can’t go on’: tens of thousands protest against housing crisis in Spain",
+   "link": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Demonstrators take to the streets of Madrid ⁠and other Spanish cities ⁠after ​new legislation fails to pass Tens of thousands of people have taken to the streets of Madrid ⁠and other Spanish cities as they step up demands for action to tackle ⁠a mounting housing crisis ⁠after…",
+   "published": "2026-10-03T14:19:46+00:00"
+  },
+  {
+   "id": "2bb6f98570cb",
+   "title": "You might be shocked by how many stocks are in a bear market right now",
+   "link": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The S&P 500 was trading within 2 percentage points of its record closing high on Tuesday, but dig a little bit deeper, and things are looking far less rosy.",
+   "published": "2026-10-03T14:10:00+00:00"
+  },
+  {
+   "id": "10e3c7c18b9f",
+   "title": "Michigan state police rule out claim that Larry Nassar was removed from sex offender registry",
+   "link": "https://www.theguardian.com/us-news/2026/oct/02/larry-nassar-michigan-sex-offender-registry-removed",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Eaton county prosecuting attorney’s office had said court ruling forced removal of Nassar’s name – but he wasn’t on list because he was imprisoned out of state Michigan has removed more than 20,000 entries from its sex offender registry, but convicted serial abuser Larry Nassar…",
+   "published": "2026-10-03T14:07:00+00:00"
+  },
+  {
+   "id": "1478a3adf8fb",
+   "title": "Israel election double standard: Arab leader forced out, far right cleared",
+   "link": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Palestinian Israeli leader forced to withdraw candidature while far-right Israeli leaders allowed to run in polls.",
+   "published": "2026-10-03T14:06:47+00:00"
+  },
+  {
+   "id": "f1df2f3bce13",
+   "title": "California’s new laws target workers’ biggest fear of AI taking their jobs",
+   "link": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The state, which is home to many AI companies, is one of the first to roll out workplace regulations targeting the technology California’s laws aimed at protecting workers from the impacts of artificial intelligence could pave the way for broader workplace safeguards across the…",
+   "published": "2026-10-03T14:00:00+00:00"
+  },
+  {
+   "id": "97ded409a862",
+   "title": "Florida court reverses felony murder charge for death of baby left in hot car",
+   "link": "https://www.theguardian.com/us-news/2026/oct/03/florida-felony-murder-charge-hot-car-death",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rhonda Jewell was sentenced to 17 years for forgetting 10-month-old Ariya in car’s back seat, leading to child’s death A state appeals court in Florida reversed the felony murder conviction of a woman who accidentally left a baby in her car, resulting in the child’s death. In…",
+   "published": "2026-10-03T14:00:00+00:00"
+  },
+  {
+   "id": "3e03a539eca3",
+   "title": "How Playing Dead Can Maximize Your Investment Returns (Seriously)",
+   "link": "https://www.kiplinger.com/investing/wealth-management/how-playing-dead-can-maximize-investment-returns",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Don't ignore the markets entirely, but don't let your emotions control decisions based on headlines and volatility. Here's what to do instead.",
+   "published": "2026-10-03T14:00:00+00:00"
+  },
+  {
+   "id": "dc95c60c6d74",
+   "title": "Why has Brazil accused the US of election interference?",
+   "link": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+   "published": "2026-10-03T13:52:13+00:00"
+  },
+  {
+   "id": "34633b65733d",
+   "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
+   "link": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As hesitant buyers drive home prices down, these are the places with the most price cuts and the biggest markdowns.",
+   "published": "2026-10-03T13:50:00+00:00"
+  },
+  {
+   "id": "c63f4db7016c",
+   "title": "Trump says US to send one-time $90 payment to 20m seniors enrolled in Medicare",
+   "link": "https://www.theguardian.com/us-news/2026/oct/03/trump-payment-seniors-medicare",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President says payments, to be sent in early October, are meant to offset cost of monthly insurance premiums Donald ⁠Trump has said the US government will send a one-time $90 payment to more than 20 million Americans enrolled in Medicare , the ⁠health insurance program for…",
+   "published": "2026-10-03T13:48:21+00:00"
+  },
+  {
+   "id": "82e7de9b9f00",
+   "title": "Protesters across Spain demand action over housing crisis",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+   "published": "2026-10-03T13:34:11+00:00"
+  },
+  {
+   "id": "574d13a0fbf9",
+   "title": "Would You Rather Retire in Naples, FL or Palm Springs, CA?",
+   "link": "https://www.kiplinger.com/retirement/retirement-planning/would-you-rather-retire-in-naples-fl-or-palm-springs-ca",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Coastal tradition or desert cool? We break down the real cost — and culture — of retiring in two of America’s most iconic zip codes.",
+   "published": "2026-10-03T13:30:00+00:00"
+  },
+  {
+   "id": "c8af745f2436",
+   "title": "Southern California swelters as late-season heatwave smothers region",
+   "link": "https://www.theguardian.com/us-news/2026/oct/03/southern-california-late-season-heatwave",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Temperatures expected to hover around 100F in downtown LA and even hotter inland, raising concerns about wildfires Southern California faced scorching heatwaves this summer that made locals wonder what happened to their famed Mediterranean climate. Now, the fall is bringing…",
+   "published": "2026-10-03T13:26:46+00:00"
+  },
+  {
+   "id": "2c7e7ab3396a",
+   "title": "I made $500,000 from a stock sale in my IRA. Could this change my retirement?",
+   "link": "https://www.marketwatch.com/story/i-made-500-000-from-a-stock-sale-in-my-ira-could-this-change-my-retirement-6bddcf0d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Diversification and tax planning go hand-in-hand.",
+   "published": "2026-10-03T13:23:00+00:00"
+  },
+  {
+   "id": "cc97cc7d9a7c",
+   "title": "UK-Iran national arrested over alleged bomb plot at RAF Fairford released on bail",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/03/uk-iran-national-arrested-alleged-bomb-plot-raf-fairford-released-bail",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 25-year-old was the sixth man detained as counter-terrorism police investigate ‘possible foreign state involvement’ A sixth man who was arrested in connection with a suspected terrorist plot at RAF Fairford has been released on bail. The 25-year-old, a dual UK-Iranian…",
+   "published": "2026-10-03T13:19:35+00:00"
+  },
+  {
+   "id": "8a4bb553233b",
+   "title": "Britain’s military in Kenya: Allegations, immunity and a fight for justice",
+   "link": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Kenyan survivors are challenging the UK military over decades of alleged abuses — and the immunity that has shielded it.",
+   "published": "2026-10-03T13:18:37+00:00"
+  },
+  {
    "id": "5cd099378aed",
-   "title": "Greens would nationalise Thames and SE Water without paying compensation, says deputy leader – UK politics live",
+   "title": "Greens would nationalise Thames and SE Water without paying compensation, says deputy leader – as it happened",
    "link": "https://www.theguardian.com/politics/live/2026/oct/03/green-party-conference-zack-polanski-uk-politics-latest-news-updates-labour-conservatives-reform",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Rachel Millward tells Brighton conference: ‘Forget compensation for shareholders and creditors, these are insolvent companies’ Ali says Britain is a multiracial, multicultural democracy that needs to protect “everyone’s equal right to belong.” At a time when Britain is facing…",
-   "published": "2026-10-03T10:22:17+00:00"
+   "summary": "This live blog is now closed, you can find more of our UK political coverage here Ali says Britain is a multiracial, multicultural democracy that needs to protect “everyone’s equal right to belong.” At a time when Britain is facing unprecedented levels of racist violence and…",
+   "published": "2026-10-03T13:16:31+00:00"
+  },
+  {
+   "id": "5ff698d5e027",
+   "title": "LIVE: Croatia vs England – UEFA Nations League",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/live-croatia-vs-england-uefa-nations-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the updates, with build-up, predictions, team news and full match coverage, from our live text commentary stream.",
+   "published": "2026-10-03T13:01:40+00:00"
+  },
+  {
+   "id": "2aabed518ceb",
+   "title": "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
+   "link": "https://www.aljazeera.com/news/2026/10/3/ethiopian-govt-forces-advance-in-tigray-as-rebels-retreat-what-to-know?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Military, pro-government forces recapture airport in Tigray's capital as fighting also rages in Amhara and Afar regions.",
+   "published": "2026-10-03T13:00:57+00:00"
+  },
+  {
+   "id": "2903102cb335",
+   "title": "Badenoch returns to Conservative conference much stronger than a year ago",
+   "link": "https://www.theguardian.com/politics/2026/oct/03/badenoch-returns-to-conservative-conference-much-stronger-than-a-year-ago",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Approval ratings for Tory leader and her party have crept up as she has asserted her style and authority but big challenges lie ahead A year ago, Tory MPs were braced for the prospect of yet another leadership battle to topple Kemi Badenoch as the party sunk to historic lows of…",
+   "published": "2026-10-03T13:00:01+00:00"
+  },
+  {
+   "id": "aabef0343d74",
+   "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
+   "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I have $152,000 in my IRA and Roth accounts.”",
+   "published": "2026-10-03T13:00:00+00:00"
+  },
+  {
+   "id": "32a6b4c496f2",
+   "title": "The U.S. jobs market just took a turn for the worse. Or did it?",
+   "link": "https://www.marketwatch.com/story/the-u-s-jobs-market-just-took-a-turn-for-the-worse-or-did-it-c44c371b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The bottom didn’t drop out of the labor market after a poor September U.S. jobs report. But what it did show is hiring is slow and it’s a tough time to find work.",
+   "published": "2026-10-03T13:00:00+00:00"
+  },
+  {
+   "id": "bf4adbdc8622",
+   "title": "French high school engulfed in flames as student protests continue",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A French high school in Metz went up in flames as student protests over school conditions spread across the country.",
+   "published": "2026-10-03T12:59:27+00:00"
+  },
+  {
+   "id": "5f92289cd5a4",
+   "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+   "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+   "published": "2026-10-03T12:59:10+00:00"
+  },
+  {
+   "id": "6a6584670ca1",
+   "title": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
+   "link": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Russia has also attacked another key bridge in Kyiv, the second such strike in two days.",
+   "published": "2026-10-03T12:55:54+00:00"
+  },
+  {
+   "id": "11c8342b35ee",
+   "title": "Two Iranian men identified Manchester synagogue as site for alleged bomb plot, court hears",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/03/iranian-men-manchester-synagogue-alleged-bomb-plot-court-hears",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rahman Salehi, 34, and Salam Ahmadyan, 36, were charged with preparing attacks on city’s Jewish community, including Heaton Park synagogue Two Iranian men identified a Manchester synagogue previously subjected to a fatal terrorist attack as a target for an alleged homemade bomb…",
+   "published": "2026-10-03T12:53:47+00:00"
+  },
+  {
+   "id": "88cea6b2e175",
+   "title": "Justice Alito on Deciding When to Retire from the Court",
+   "link": "https://reason.com/volokh/2026/10/03/justice-alito-on-deciding-when-to-retire-from-the-court/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Justice Samuel Alito offers candid comments to Jan Crawford of CBS News.",
+   "published": "2026-10-03T12:41:48+00:00"
+  },
+  {
+   "id": "fd47a9b0deac",
+   "title": "Defining consent and the psychology behind the ‘Cornell 7’ rape case",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/defining-consent-and-the-psychology-behind-the-cornell-7-rape-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "How a Cornell student went from blaming herself, to reporting an alleged fraternity rape.",
+   "published": "2026-10-03T12:39:59+00:00"
+  },
+  {
+   "id": "317eced6990f",
+   "title": "Ready to Retire? Ask Your Spouse These 3 Questions First",
+   "link": "https://www.kiplinger.com/retirement/happy-retirement/ready-to-retire-ask-your-spouse-these-3-questions-first",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Retiring soon? Keep your relationship strong by discussing these three questions with your partner before handing in your notice.",
+   "published": "2026-10-03T12:30:00+00:00"
+  },
+  {
+   "id": "55268a37106c",
+   "title": "The next big AI battle is all about cuteness",
+   "link": "https://www.marketwatch.com/story/the-next-big-ai-battle-is-all-about-cuteness-41f6f948?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Meta and other tech companies are betting that fuzzy mascots can win over AI skeptics.",
+   "published": "2026-10-03T12:30:00+00:00"
+  },
+  {
+   "id": "521d48f4837c",
+   "title": "Will Spain's housing crisis lead to a snap election?",
+   "link": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
+   "published": "2026-10-03T12:26:30+00:00"
+  },
+  {
+   "id": "6ac95e40005a",
+   "title": "South Africa’s Pretorius smashes Gayle’s T20 cricket record score",
+   "link": "https://www.aljazeera.com/sports/2026/10/3/south-africas-pretorius-smashes-gayles-t20-cricket-record-score?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "South African Lhuan-dre Pretorius hit 50 in 24 balls, needed 16 more to reach 100 and took another 18 to hit 150.",
+   "published": "2026-10-03T12:19:29+00:00"
+  },
+  {
+   "id": "9397e9d25128",
+   "title": "Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters",
+   "link": "https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli forces detain and assault journalists in Jabal Qamass area in Beita, south of Nablus.",
+   "published": "2026-10-03T12:18:24+00:00"
+  },
+  {
+   "id": "acbef2544504",
+   "title": "Visa and Mastercard Agree to $167.5 Million ATM Fee Settlement: Do You Qualify?",
+   "link": "https://www.kiplinger.com/personal-finance/banking/visa-and-mastercard-167-5-million-atm-fee-settlement-do-you-qualify",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "If you paid a fee to withdraw cash from a non-bank ATM anytime between 2007 and 2026, you could be eligible for a payment from a $167.5 million settlement. Here’s who is eligible and how to file a claim.",
+   "published": "2026-10-03T12:15:00+00:00"
+  },
+  {
+   "id": "ad05ed03cf52",
+   "title": "‘He feels more relatable’: Burnham’s conference speech wins praise from drifting Labour voters",
+   "link": "https://www.theguardian.com/politics/2026/oct/03/andy-burnham-conference-speech-wins-praise-from-drifting-labour-voters",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The UK prime minister has earned his party a rehearing but the battle of public opinion is not yet won “He’s offering what no other politician has offered for a long, long time. He actually feels like he’s one of us,” was how Neil, a geography teacher, described Andy Burnham in…",
+   "published": "2026-10-03T12:00:58+00:00"
+  },
+  {
+   "id": "77e04e2e894a",
+   "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+   "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+   "published": "2026-10-03T12:00:00+00:00"
+  },
+  {
+   "id": "d5767c269460",
+   "title": "Opinion: A Hawk is not the same as a Hawkeye",
+   "link": "https://www.npr.org/2026/10/03/nx-s1-5981300/opinion-a-hawk-is-not-the-same-as-a-hawkeye",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This was emphasized to people watching a Senate hearing this week, where confusion over two basketball teams was on display.",
+   "published": "2026-10-03T12:00:00+00:00"
+  },
+  {
+   "id": "6fd6b3cf290c",
+   "title": "Our Best Stuff on Politics as the Midterms Draw Near",
+   "link": "https://thedispatch.com/newsletter/weekly/midterms-polling-trump-republicans/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Could a blue wave prompt multiple impeachments?",
+   "published": "2026-10-03T12:00:00+00:00"
+  },
+  {
+   "id": "080bed871c05",
+   "title": "October 2026 general conference: Talk summaries, photos",
+   "link": "https://www.deseret.com/faith/2026/10/03/october-2026-general-conference-talk-summaries-photos/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 196th Semiannual General Conference of The Church of Jesus Christ of Latter-day Saints will be Oct. 3-4 from the Conference Center in Salt Lake City. It’s been almost a year since President Dallin H. Oaks was set apart as prophet-president of the global faith. He was…",
+   "published": "2026-10-03T12:00:00+00:00"
+  },
+  {
+   "id": "a3cd43575093",
+   "title": "5 Retirement Savings Strategies Beyond Your 401(k) Match",
+   "link": "https://www.kiplinger.com/retirement/retirement-planning/ways-to-supercharge-retirement-savings-while-still-working",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "From HSAs to backdoor Roths and even taxable brokerage accounts, there are plenty of ways to boost retirement savings once you've hit your full 401(k) match.",
+   "published": "2026-10-03T12:00:00+00:00"
+  },
+  {
+   "id": "f065c419003e",
+   "title": "I bought a $126 concert ticket for my sister and now she can’t go. Will I be able to make a profit selling the ticket?",
+   "link": "https://www.marketwatch.com/story/i-bought-a-126-concert-ticket-for-my-sister-and-now-she-cant-go-will-i-be-able-to-make-a-profit-selling-the-ticket-1dd5cbe9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I’m having trouble accepting that I’ll probably lose some money.”",
+   "published": "2026-10-03T12:00:00+00:00"
+  },
+  {
+   "id": "4b44a7c0f276",
+   "title": "Flydubai co-pilot used crash axe to attack captain, says UAE",
+   "link": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Attorney general says ‘terrorist attack’ was attempted by suspect who is said to have been barred from flying by Oman because of extremist views The co-pilot of flydubai flight FZ1073 used an axe to attempt to carry out a “terrorist attack” during the Israel-bound flight, the…",
+   "published": "2026-10-03T11:56:46+00:00"
+  },
+  {
+   "id": "c15cb6ee8d98",
+   "title": "World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers",
+   "link": "https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Italy's Jannik Sinner has not played since Wimbledon win in July, missing US Open and ongoing ATP 500 event in Beijing.",
+   "published": "2026-10-03T11:51:22+00:00"
+  },
+  {
+   "id": "b4531ebd81c5",
+   "title": "Economist Betsey Stevenson breaks down the gender gap in recent hiring reports",
+   "link": "https://www.npr.org/2026/10/03/nx-s1-5989546/economist-betsey-stevenson-breaks-down-the-gender-gap-in-recent-hiring-reports",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The U.S. economy added fewer jobs than expected last month and unemployment ticked up to 4.2%. NPR's Scott Simon talks to Betsey Stevenson, an economist at the University of Michigan.",
+   "published": "2026-10-03T11:47:09+00:00"
+  },
+  {
+   "id": "d8fda4450907",
+   "title": "The double standards of a failed execution",
+   "link": "https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Had Christa Pike faced the death penalty in the Middle East, there would be relentless outrage and condemnations.",
+   "published": "2026-10-03T11:32:42+00:00"
+  },
+  {
+   "id": "d09cbcac4462",
+   "title": "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
+   "link": "https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The rebels have been seen leaving the capital of the northern Tigray region, according to local sources.",
+   "published": "2026-10-03T11:16:43+00:00"
+  },
+  {
+   "id": "754d0a01b602",
+   "title": "Palestinians gather for football amid Gaza’s ruins",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Displaced Palestinians gathered to watch a friendly football match in Gaza’s Khan Younis.",
+   "published": "2026-10-03T11:08:17+00:00"
+  },
+  {
+   "id": "2a219541fcb6",
+   "title": "Mamdani Promised To Freeze the Rent. Now His Rent Freeze Is in Court.",
+   "link": "https://reason.com/2026/10/03/mamdani-promised-to-freeze-the-rent-now-his-rent-freeze-is-in-court/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A lawsuit alleges New York City's Rent Guidelines Board broke the law by arbitrarily predetermining the outcome.",
+   "published": "2026-10-03T11:00:58+00:00"
+  },
+  {
+   "id": "57edab407ce3",
+   "title": "Today in Supreme Court History: October 3, 1990",
+   "link": "https://reason.com/volokh/2026/10/03/today-in-supreme-court-history-october-3-1990-6/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "10/3/1990: Justice David Souter takes the oath. The post Today in Supreme Court History: October 3, 1990 appeared first on Reason Magazine.",
+   "published": "2026-10-03T11:00:48+00:00"
+  },
+  {
+   "id": "36b52204f2c5",
+   "title": "All's fair in love and 'War' — a well-cast, classy-trashy divorce drama",
+   "link": "https://www.npr.org/2026/10/03/nx-s1-5983443/war-hbo-divorce-dominic-west-sienna-miller",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "HBO's War is intended to be an anthology series about two dueling London law firms. The first season stars Dominic West and Sienna Miller as a high-profile couple in the midst of a very nasty divorce.",
+   "published": "2026-10-03T11:00:00+00:00"
+  },
+  {
+   "id": "0f287ebd6d60",
+   "title": "Just short of its 200th birthday, a landmark natural history museum shuts down",
+   "link": "https://www.npr.org/2026/10/03/nx-s1-5989716/philadelphia-academy-natural-sciences-museum-closure",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Beloved for its dinosaurs, Philadelphia's storied Academy of Natural Sciences closed down this week, amid an intense fight by local residents, politicians and scientists to save it.",
+   "published": "2026-10-03T11:00:00+00:00"
+  },
+  {
+   "id": "cbcc4fb7ce70",
+   "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
+   "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+   "published": "2026-10-03T10:58:51+00:00"
+  },
+  {
+   "id": "f3b079e243f6",
+   "title": "How AI is helping Mexico detect breast cancer earlier",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-mexico-ai-breast-cancer-julia-pkg?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mexico is turning to AI to speed up breast cancer detection as long waits and a shortage of specialists hamper screening",
+   "published": "2026-10-03T10:55:32+00:00"
+  },
+  {
+   "id": "703307e8ed05",
+   "title": "The Philosopher of Home",
+   "link": "https://thedispatch.com/newsletter/dispatch-culture/home-philosophy-cozy-phones-attention/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Making our homes into sanctuaries means taking a hard look at the technology within them.",
+   "published": "2026-10-03T10:50:00+00:00"
+  },
+  {
+   "id": "6f0b127a40d4",
+   "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
+   "link": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Displaced Yemenis are fleeing again, as the Houthis capture the Red Sea coast.",
+   "published": "2026-10-03T10:48:28+00:00"
+  },
+  {
+   "id": "48edad2234b4",
+   "title": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
+   "link": "https://www.aljazeera.com/news/2026/10/3/pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Foreign Ministry says it summoned India's ⁠charge d'affaires to lodge 'strong protest' over killing of two civilians.",
+   "published": "2026-10-03T10:46:20+00:00"
+  },
+  {
+   "id": "63b04ab3f69d",
+   "title": "Remains of medieval tsar return to Bulgaria after decades-long dispute with Greece",
+   "link": "https://www.theguardian.com/world/2026/oct/03/remains-czar-samuel-return-bulgaria-greece-talks",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Greek PM hopes handover of Tsar Samuel will help persuade Britain to return Parthenon marbles The remains of medieval ruler Tsar Samuel will arrive in Bulgaria on Saturday amid great pomp and ceremony, after decades of negotiations with neighbouring Greece. The remains –…",
+   "published": "2026-10-03T10:31:54+00:00"
+  },
+  {
+   "id": "6f1029cfeac5",
+   "title": "The secret to using AI without getting dumber",
+   "link": "https://www.vox.com/advice/504829/chatgpt-ai-dumber-critical-thinking",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For many people, using AI chatbots is incredible at first. It makes them feel productive, confident, maybe even smarter. But later, there’s a hangover. Perhaps there are problems with their memory, or certain skills, like writing or coding, don’t seem to be as sharp as they…",
+   "published": "2026-10-03T10:30:00+00:00"
   },
   {
    "id": "90e18535cf6c",
@@ -151,6 +811,17 @@
    "published": "2026-10-03T10:12:43+00:00"
   },
   {
+   "id": "85282869217d",
+   "title": "What is FC Barcelona’s Negreira case, and what are the charges?",
+   "link": "https://www.aljazeera.com/sports/2026/10/3/what-is-fc-barcelonas-negreira-case-and-what-are-the-charges?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Real Madrid accuse Barcelona of paying former refereeing official Jose Maria Enriquez Negreira between 2001 and 2018.",
+   "published": "2026-10-03T10:12:14+00:00"
+  },
+  {
    "id": "edc75bf0ef3d",
    "title": "Red Bull’s Verstappen grabs pole position for Bahrain GP in Malaysia",
    "link": "https://www.aljazeera.com/sports/2026/10/3/red-bulls-verstappen-grabs-pole-position-for-bahrain-gp-in-malaysia?traffic_source=rss",
@@ -158,12 +829,12 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Lewis Hamilton of Ferrari will start second on the grid in Sepang, with Red Bull's ⁠Isack Hadjar third.",
+   "summary": "Lewis Hamilton of Ferrari to start second on the grid in Sepang with Red Bull's ⁠Isack Hadjar third.",
    "published": "2026-10-03T10:03:40+00:00"
   },
   {
    "id": "97c2de14ab49",
-   "title": "‘I have to dodge them all the time’: Rome locals incensed by rise in golf cart tours",
+   "title": "They embraced the Fiat 500, the Vespa, even tuk-tuks. But will Romans draw the line at the golf cart?",
    "link": "https://www.theguardian.com/world/2026/oct/03/rome-golf-cart-tours-crackdown-tourism",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -204,17 +875,6 @@
    "flourishing_feed": false,
    "summary": "\"I think courts are going to be very suspicious of how broad this is,\" one Minnesota lawyer tells Reason.",
    "published": "2026-10-03T10:00:55+00:00"
-  },
-  {
-   "id": "e70657906e72",
-   "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-   "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
-   "published": "2026-10-03T10:00:04+00:00"
   },
   {
    "id": "5af59eac2829",
@@ -283,17 +943,6 @@
    "published": "2026-10-03T10:00:00+00:00"
   },
   {
-   "id": "5f92289cd5a4",
-   "title": "Russia strikes second major bridge in Kyiv, mayor says",
-   "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
-   "published": "2026-10-03T09:53:16+00:00"
-  },
-  {
    "id": "7061f5f4bf7f",
    "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
    "link": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss",
@@ -301,7 +950,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Global energy prices have been soaring due to the US and Israel's war on Iran and Russia's war on Ukraine.",
+   "summary": "Global energy prices have soared due to the US and Israel's war on Iran and Russia's war on Ukraine.",
    "published": "2026-10-03T09:27:38+00:00"
   },
   {
@@ -427,7 +1076,7 @@
   },
   {
    "id": "2ea9be930283",
-   "title": "Yemen’s army claims over 1,500 Houthi casualties in past 24 hours",
+   "title": "Yemen’s army claims over 1,500 Houthi casualties, attacks Sanaa",
    "link": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -545,17 +1194,6 @@
    "flourishing_feed": false,
    "summary": "Wang Cong dismisses critics who say she she is not deserving of facing Natalia Silva for the flyweight world title at UFC 332 on Saturday.",
    "published": "2026-10-03T07:07:09+00:00"
-  },
-  {
-   "id": "4b44a7c0f276",
-   "title": "Flydubai co-pilot used crash axe to attack captain, says UAE",
-   "link": "https://www.theguardian.com/world/2026/oct/03/flydubai-co-pilot-used-crash-axe-to-attack-captain-says-uae",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Attorney general says ‘terrorist attack’ was attempted by suspect who is said to have been barred from flying by Oman because of extremist views The co-pilot of flydubai flight FZ1073 used a crash axe to attempt to carry out a “terrorist attack” during the flight, the United…",
-   "published": "2026-10-03T07:01:17+00:00"
   },
   {
    "id": "8e630f088c31",
@@ -944,7 +1582,7 @@
   },
   {
    "id": "186f35b430b2",
-   "title": "Brazil's big political rematch: What to know",
+   "title": "Brazil's big political rematch: What to know about the Brazilian election",
    "link": "https://www.npr.org/2026/10/02/nx-s1-5989727/brazil-election-lula-bolsonaro-flavio-democracy",
    "source": "NPR News",
    "circle_hint": "national",
@@ -1317,17 +1955,6 @@
    "published": "2026-10-02T22:14:34+00:00"
   },
   {
-   "id": "aabef0343d74",
-   "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
-   "link": "https://www.marketwatch.com/story/im-71-and-still-working-i-earn-108-000-a-year-am-i-doing-the-right-thing-aaedcaa4?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I have $152,000 in my IRA and Roth accounts.”",
-   "published": "2026-10-02T22:10:00+00:00"
-  },
-  {
    "id": "24d57ef23e7e",
    "title": "Anthropic vs. the pope",
    "link": "https://www.vox.com/today-explained-newsletter/504966/anthropic-claude-consciousness-pope-leo",
@@ -1592,17 +2219,6 @@
    "published": "2026-10-02T21:01:40+00:00"
   },
   {
-   "id": "10e3c7c18b9f",
-   "title": "Disgraced gymnastics doctor Larry Nassar removed from Michigan sex offender registry",
-   "link": "https://www.theguardian.com/us-news/2026/oct/02/larry-nassar-michigan-sex-offender-registry-removed",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Convicted offender among 20,000 people removed from list after state supreme court ruling on Sora registration law Larry Nassar , the former Michigan State University and USA Gymnastics physician convicted of sexually abusing girls and women over a period of decades while…",
-   "published": "2026-10-02T21:01:06+00:00"
-  },
-  {
    "id": "db0078ec76d8",
    "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
    "link": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
@@ -1746,17 +2362,6 @@
    "published": "2026-10-02T20:30:56+00:00"
   },
   {
-   "id": "77e04e2e894a",
-   "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-   "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-   "published": "2026-10-02T20:30:00+00:00"
-  },
-  {
    "id": "0eed710c5ec5",
    "title": "California leads lawsuit against Trump fuel efficiency standards rollback",
    "link": "https://www.aljazeera.com/economy/2026/10/2/california-leads-lawsuit-against-trump-fuel-efficiency-standards-rollback?traffic_source=rss",
@@ -1787,17 +2392,6 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "Europe leaders agreed Friday to release some of diesel stockpiles, pulling prices of oil down by as much as 5%.",
-   "published": "2026-10-02T20:26:00+00:00"
-  },
-  {
-   "id": "34633b65733d",
-   "title": "This city saw 1 in 3 home sellers slash their asking price in September to attract reluctant buyers",
-   "link": "https://www.marketwatch.com/story/this-city-saw-1-in-3-home-sellers-slash-their-asking-price-in-september-to-attract-reluctant-buyers-7f16a0c3?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "As hesitant buyers drive home prices down, these are the places with the most price cuts and the biggest markdowns.",
    "published": "2026-10-02T20:26:00+00:00"
   },
   {
@@ -2338,17 +2932,6 @@
    "flourishing_feed": false,
    "summary": "With U.S. Treasury yields on the rise, financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
    "published": "2026-10-02T18:48:00+00:00"
-  },
-  {
-   "id": "795dee37c0bd",
-   "title": "Cars have become unaffordable for many Americans. Here’s what the numbers show.",
-   "link": "https://www.marketwatch.com/story/heres-the-most-you-should-be-spending-on-your-car-payment-whether-you-make-60-000-or-over-150-000-ee1c228c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "At today’s prices and rates, even the average used vehicle can exceed some commonly used affordability measures.",
-   "published": "2026-10-02T18:47:00+00:00"
   },
   {
    "id": "fa5354d1f8c7",
@@ -3152,17 +3735,6 @@
    "flourishing_feed": false,
    "summary": "From pillboxes and boaters to bicornes and buckets, characterful hats are making their way from the catwalk to the high street “Here goes – an order for a million hats,” wrote Jackie Kennedy to Bergdorf Goodman before moving into the White House in the early 1960s. It’s a line…",
    "published": "2026-10-02T15:00:13+00:00"
-  },
-  {
-   "id": "2b0a89bd386a",
-   "title": "‘We lived within our means’: I earned $30,000 as a pastor and still retired comfortably. Why don’t you tell people that?",
-   "link": "https://www.marketwatch.com/story/we-lived-within-our-means-i-earned-30-000-as-a-pastor-and-still-retired-comfortably-why-dont-you-tell-people-that-6b9f231e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“As a country, we have grown dangerously comfortable.”",
-   "published": "2026-10-02T15:00:00+00:00"
   },
   {
    "id": "5a85b96500f0",
@@ -17991,17 +18563,6 @@
    "flourishing_feed": false,
    "summary": "Utah Sen. Mike Lee objected to fast-tracking a bipartisan proposal to ban the demolition of presidential memorials unless explicitly approved by Congress, which would include the dismantling of the Kennedy Center. In late-night Senate proceedings on Monday night, Lee objected…",
    "published": "2026-09-29T16:28:29+00:00"
-  },
-  {
-   "id": "2bb6f98570cb",
-   "title": "You might be shocked by how many stocks are in a bear market right now",
-   "link": "https://www.marketwatch.com/story/you-might-be-shocked-by-how-many-stocks-are-in-a-bear-market-right-now-017c9cd8?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "The S&P 500 was trading within 2 percentage points of its record closing high on Tuesday, but dig a little bit deeper, and things are looking far less rosy.",
-   "published": "2026-09-29T16:24:00+00:00"
   },
   {
    "id": "5eba141f3348",
