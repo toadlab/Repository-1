@@ -44910,5 +44910,53 @@
   "decision": "exclude",
   "exclusion": "did not clear the international bar",
   "persistent": false
+ },
+ "186f35b430b2": {
+  "story_key": "brazil-s-big-political-rematch",
+  "durability": 4,
+  "circle": "national",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 8.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the national bar",
+  "persistent": false
+ },
+ "befba7942c2d": {
+  "story_key": "dominican-republic-bans-haiti-stadiums",
+  "durability": 4,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
+ },
+ "ad54c8b9b852": {
+  "story_key": "israeli-air-attack-gaza-city",
+  "durability": 4,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
  }
 }
