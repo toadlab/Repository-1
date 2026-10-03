@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T07:33:19.790567+00:00",
+ "generated": "2026-10-03T08:30:38.687111+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "name": "The Guardian World",
@@ -128,6 +128,61 @@
   }
  ],
  "items": [
+  {
+   "id": "e70657906e72",
+   "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+   "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker.",
+   "published": "2026-10-03T08:26:06+00:00"
+  },
+  {
+   "id": "79bad6f471b5",
+   "title": "UK urged to act as Polymarket takes bets on whether HSBC and Lloyds will fail",
+   "link": "https://www.theguardian.com/business/2026/oct/03/uk-polymarket-hsbc-lloyds-failures-banks",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Revelation comes amid mounting concern over online prediction market’s effects on integrity of financial system UK authorities are being urged to intervene after it emerged that the online prediction market Polymarket has been taking thousands of dollars worth of bets over…",
+   "published": "2026-10-03T08:00:53+00:00"
+  },
+  {
+   "id": "7a7b26861705",
+   "title": "Bosnian Serb leader says Bosnia is ‘dead’ ahead of election",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bosnian Serb leader Milorad Dodik says Bosnia and Herzegovina is ‘dead’ at a final campaign rally ahead of elections.",
+   "published": "2026-10-03T07:57:53+00:00"
+  },
+  {
+   "id": "aa93b8bf7f3f",
+   "title": "Israeli air attack on residential apartment in Gaza kills 5 Palestinians",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An Israeli air attack on a residential apartment in Gaza City has killed at least five Palestinians.",
+   "published": "2026-10-03T07:57:47+00:00"
+  },
+  {
+   "id": "c9c7de1f8fef",
+   "title": "To reclaim its sovereignty, Senegal must approach debt differently",
+   "link": "https://www.aljazeera.com/opinions/2026/10/3/to-reclaim-its-sovereignty-senegal-must-approach-debt-differently?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The country must break the cycle of flawed structural adjustment that only feeds its debt crisis",
+   "published": "2026-10-03T07:51:04+00:00"
+  },
   {
    "id": "5f92289cd5a4",
    "title": "Russia strikes second major bridge in Kyiv, mayor says",
@@ -713,13 +768,13 @@
   },
   {
    "id": "2a19ba1cac4c",
-   "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+   "title": "Iran war live: Oil tankers attacked in Hormuz, reports UK maritime agency",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.",
+   "summary": "Two oil tankers have been struck by 'unidentified projectiles' in Hormuz says United Kingdom Maritime Trade Operations.",
    "published": "2026-10-03T00:00:00+00:00"
   },
   {
