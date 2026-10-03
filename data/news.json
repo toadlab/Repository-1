@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T08:30:38.687111+00:00",
+ "generated": "2026-10-03T09:30:56.406021+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 38
+   "count": 41
   },
   {
    "name": "The Guardian World",
@@ -137,7 +137,194 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "The flydubai plane plunged more than 17,000ft two and a half hours into its journey before passengers and crew overpowered the attacker.",
-   "published": "2026-10-03T08:26:06+00:00"
+   "published": "2026-10-03T09:23:31+00:00"
+  },
+  {
+   "id": "5cd099378aed",
+   "title": "Green party conference continues with cost of living on the agenda – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/03/green-party-conference-zack-polanski-uk-politics-latest-news-updates-labour-conservatives-reform",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Green conference enters its second day, while Tories prepare for theirs on Sunday You can watch the speeches from Rachel Millward and Mothin Ali in the stream above. We’re expecting Millward to call for the Burnham government to immediately bring water companies back into…",
+   "published": "2026-10-03T09:21:41+00:00"
+  },
+  {
+   "id": "de47bc756702",
+   "title": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
+   "link": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Western Libya’s GNU say working with Saddam Haftar ‘impossible’ as US-backed merger plan breaks down Allegations that the son of the Libyan warlord Khalifa Haftar oversaw a “terror cell” that launched drone attacks on fuel storage facilities and power stations in western Libya…",
+   "published": "2026-10-03T09:00:56+00:00"
+  },
+  {
+   "id": "714331ba2d6f",
+   "title": "My life sentence? Diagramming.",
+   "link": "https://www.csmonitor.com/The-Home-Forum/2026/1003/sentence-language-diagram?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Taking clauses apart taught me to appreciate the architecture of language. It also made grammar feel less like homework and more like a puzzle.",
+   "published": "2026-10-03T09:00:18+00:00"
+  },
+  {
+   "id": "7438d66871ee",
+   "title": "Brazil is regulating AI use in elections. Here’s why it’s been a challenge.",
+   "link": "https://www.csmonitor.com/World/Americas/2026/1003/ai-brazil-election-lula-bolsonaro?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Brazil’s polarized political landscape is rife with disinformation – a challenge that can be turbocharged by artificial intelligence.",
+   "published": "2026-10-03T09:00:11+00:00"
+  },
+  {
+   "id": "a6689b5d84ad",
+   "title": "No one expected an American pope. Here's the inside story of how 'Bob' became Pope Leo",
+   "link": "https://www.npr.org/2026/10/03/nx-s1-5987816/pope-leo-american-pope-book-excerpt",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "When the 2025 conclave began, no one expected an American pope. But by its end, Cardinal Robert Prevost had become Pope Leo. Here's a look behind the scenes.",
+   "published": "2026-10-03T09:00:00+00:00"
+  },
+  {
+   "id": "94d216d4c2df",
+   "title": "A hot tip to battle performance anxiety? 'Pretend flush' a mistake down the toilet",
+   "link": "https://www.npr.org/2026/10/03/nx-s1-5989391/a-hot-tip-to-battle-performance-anxiety-pretend-flush-a-mistake-down-the-toilet",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Worried about stumbling before a high-stakes event, like a race or a job interview? Psychologist Cindra Kamphoff offers creative strategies to overcome the jitters and build confidence in the moment.",
+   "published": "2026-10-03T09:00:00+00:00"
+  },
+  {
+   "id": "d2a7c43b264a",
+   "title": "How the system failed us: Former foster youth tell their stories",
+   "link": "https://www.npr.org/2026/10/03/nx-s1-5939829/foster-care-youth-disabilities-failure-voices",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former foster youth with disabilities tell their stories — of how they got through foster care",
+   "published": "2026-10-03T09:00:00+00:00"
+  },
+  {
+   "id": "8decaafcf2e2",
+   "title": "The Supreme Court faces another term jam-packed with controversy",
+   "link": "https://www.npr.org/2026/10/03/nx-s1-5986341/supreme-court-term-religion-guns-environment-immigration",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Supreme Court term opens on Monday with big test cases on religion, guns and climate change. Plus, the emergency docket keeps popping.",
+   "published": "2026-10-03T09:00:00+00:00"
+  },
+  {
+   "id": "c48abb98f5a6",
+   "title": "Watch: We Uncovered Bribery Allegations Involving Susan Collins",
+   "link": "https://www.propublica.org/article/susan-collins-bribery-allegations-explained",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post Watch: We Uncovered Bribery Allegations Involving Susan Collins appeared first on ProPublica .",
+   "published": "2026-10-03T09:00:00+00:00"
+  },
+  {
+   "id": "bf242697af36",
+   "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
+   "link": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mayor Vitali Klitschko says Kyivans can no longer pretend it is ‘peacetime’ amid strikes on school, hospital and bridge Valeriya Tkachenko was dropping her son off at school in central Kyiv when the air raid alert sounded. Staff hurried the children and parents into the…",
+   "published": "2026-10-03T08:52:19+00:00"
+  },
+  {
+   "id": "e60e1db5dbdb",
+   "title": "Kim wins Asian Games gold to secure military exemption",
+   "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+   "published": "2026-10-03T08:51:14+00:00"
+  },
+  {
+   "id": "2ea9be930283",
+   "title": "Yemen’s army claims over 1,500 Houthi casualties in past 24 hours",
+   "link": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Government forces close a key crossing connecting Houthi-held al-Houban to government-held Taiz city.",
+   "published": "2026-10-03T08:36:17+00:00"
+  },
+  {
+   "id": "b99891b13a41",
+   "title": "Polls open in Latvia against backdrop of perceived Russia threat",
+   "link": "https://www.aljazeera.com/news/2026/10/3/latvians-head-to-polls-with-security-and-cost-of-living-in-focus?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Latvia is not expected to shift its pro-Europe and pro-Ukraine trajectory, but coalition negotiations could be complex.",
+   "published": "2026-10-03T08:21:23+00:00"
+  },
+  {
+   "id": "b76f0fbebdbe",
+   "title": "Turkish court detains football refereeing chief pending corruption trial",
+   "link": "https://www.aljazeera.com/sports/2026/10/3/turkish-court-detains-football-refereeing-chief-pending-corruption-trial?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Seven officials face an investigation over allegations of manipulation of the referee administration process.",
+   "published": "2026-10-03T08:19:33+00:00"
+  },
+  {
+   "id": "2d40643b99d7",
+   "title": "India beat archrivals Pakistan to win Asian Games T20 cricket gold",
+   "link": "https://www.aljazeera.com/sports/2026/10/3/india-beat-arch-rivals-pakistan-to-win-asian-games-t20-cricket-gold?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "India beat Pakistan by 19 runs in gold medal match at Asian Games as Hasan Nawaz's 96 in vain in reply to 211-6.",
+   "published": "2026-10-03T08:18:40+00:00"
+  },
+  {
+   "id": "f9026a1ce9ca",
+   "title": "Floods sweep cars through streets after intense rain in Spain",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-spain-floods-clip-mp4?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Floodwaters swept cars through Madrigueras, Spain, after near-record rainfall. One woman was killed and 90 rescued.",
+   "published": "2026-10-03T08:17:40+00:00"
+  },
+  {
+   "id": "e078ab8d974e",
+   "title": "Man City whistleblower Pinto to lose witness protection amid death threats",
+   "link": "https://www.aljazeera.com/sports/2026/10/3/man-city-whistleblower-pinto-to-lose-witness-protection-amid-death-threats?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pinto says he will go into hiding for an indefinite period following the Premier League's guilty verdict against City.",
+   "published": "2026-10-03T08:05:28+00:00"
   },
   {
    "id": "79bad6f471b5",
@@ -193,6 +380,17 @@
    "flourishing_feed": false,
    "summary": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
    "published": "2026-10-03T07:25:09+00:00"
+  },
+  {
+   "id": "93461f1b7317",
+   "title": "Joker persona helps Cong 'feel the fear' in opponents",
+   "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckq5x5de46ppo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Wang Cong dismisses critics who say she she is not deserving of facing Natalia Silva for the flyweight world title at UFC 332 on Saturday.",
+   "published": "2026-10-03T07:07:09+00:00"
   },
   {
    "id": "4b44a7c0f276",
@@ -295,13 +493,13 @@
   },
   {
    "id": "b70555229d18",
-   "title": "India vs Pakistan live: Asian Games cricket final",
+   "title": "LIVE: India beat Pakistan in Asian Games – medal ceremony delayed",
    "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Follow our live score and text commentary from the gold-medal match as Pakistan chase 212 to win in Japan.",
+   "summary": "Updates as India win the gold medal match after Pakistan fall short by 19 runs at the Asian Games in Japan.",
    "published": "2026-10-03T06:37:31+00:00"
   },
   {
@@ -526,7 +724,7 @@
   },
   {
    "id": "81e5e23ca525",
-   "title": "10 injured after car crashes into rugby supporters in Australia",
+   "title": "Ten injured after car crashes into rugby supporters in Australia",
    "link": "https://www.aljazeera.com/news/2026/10/3/10-injured-after-car-crashes-into-rugby-supporters-in-australia?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -622,6 +820,17 @@
    "flourishing_feed": false,
    "summary": "Fans forced their way through entrances, damaging a gate at the teams' CONCACAF Nations League match in Santo Domingo.",
    "published": "2026-10-03T02:42:26+00:00"
+  },
+  {
+   "id": "728a5588b18a",
+   "title": "Why electric cars might be making some passengers feel sick",
+   "link": "https://www.bbc.co.uk/news/articles/c3y0zx822wlzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Motion sickness is caused by a mismatch in sensory cues and women and children are more susceptible, experts say.",
+   "published": "2026-10-03T02:36:19+00:00"
   },
   {
    "id": "ad54c8b9b852",
@@ -2855,17 +3064,6 @@
    "flourishing_feed": false,
    "summary": "This blog is now closed, you can read more on this story here Zack Polanski also insisted his authority as leader of the Green party of England and Wales does not depend on winning next week’s Holborn and St Pancras byelection , amid suggestions that the party’s popularity has…",
    "published": "2026-10-02T14:55:00+00:00"
-  },
-  {
-   "id": "bf242697af36",
-   "title": "‘The enemy is tearing our city apart’: terror in Kyiv as Russia ramps up attacks",
-   "link": "https://www.theguardian.com/world/2026/oct/02/terror-kyiv-russia-ramps-up-attacks-ukraine",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Mayor Vitali Klitschko says Kyivans can no longer pretend it is ‘peacetime’ amid strikes on school, hospital and bridge Valeriya Tkachenko was dropping her son off at school in central Kyiv when the air raid alert sounded. Staff hurried the children and parents into the…",
-   "published": "2026-10-02T14:50:59+00:00"
   },
   {
    "id": "8bfecbb9d674",
