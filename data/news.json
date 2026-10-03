@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T03:37:12.278140+00:00",
+ "generated": "2026-10-03T04:31:38.416647+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "name": "Congressional Budget Office",
@@ -129,6 +129,61 @@
  ],
  "items": [
   {
+   "id": "1b0ec3317a0a",
+   "title": "Maloy, Udell offer competing visions for Utah’s sprawling new 3rd District in St. George debate",
+   "link": "https://www.deseret.com/politics/2026/10/02/utah-third-congressional-district-debate-between-maloy-and-udell/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "With access to water, housing costs and public lands shaping daily life across southern Utah, Rep. Celeste Maloy, a Republican, and her Democratic challenger Kent Udell took the stage Friday at Utah Tech University in St. George to make their case to voters in Utah’s newly…",
+   "published": "2026-10-03T04:06:07+00:00"
+  },
+  {
+   "id": "0bea812979ad",
+   "title": "‘We swept a lot under the carpet’: Vichy regime film hits home in France of 2026",
+   "link": "https://www.theguardian.com/world/2026/oct/03/french-film-notre-salut-vichy-regime",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Movie about Nazi-collaborating administration strikes chord during what director calls ‘time of great uncertainty’ It is the story of how a lowly state administrator unthinkingly becomes a cog in the machine of an authoritarian regime, embracing the bureaucracy and logistics of…",
+   "published": "2026-10-03T04:00:48+00:00"
+  },
+  {
+   "id": "b70555229d18",
+   "title": "India vs Pakistan live: Asian Games cricket final",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match.",
+   "published": "2026-10-03T03:57:31+00:00"
+  },
+  {
+   "id": "bfffca8534fd",
+   "title": "Two Iranians charged over alleged plot targeting Jewish community in UK",
+   "link": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two Iranian men are accused of preparing to commit an act of terrorism in Manchester ahead of Yom Kippur.",
+   "published": "2026-10-03T03:56:10+00:00"
+  },
+  {
+   "id": "79d835a65a58",
+   "title": "G7 nations bow to US pressure and avoid crippling diesel ban",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/g7-nations-bow-to-us-pressure-and-avoid-crippling-diesel-ban?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Crude oil prices eased after G7 leaders bowed to US President Donald Trump’s demand to release oil and diesel reserves.",
+   "published": "2026-10-03T03:54:58+00:00"
+  },
+  {
    "id": "90e18535cf6c",
    "title": "Five-year-old girl and man, 67, in critical condition after car hits crowd in Newcastle",
    "link": "https://www.theguardian.com/australia-news/2026/oct/03/several-people-injured-after-vehicle-hits-crowd-at-knights-grand-final-farewell-in-newcastle",
@@ -149,17 +204,6 @@
    "flourishing_feed": false,
    "summary": "Four years after President Lula narrowly defeated Jair Bolsonaro, Brazil is back at the ballot box. This time, Lula faces Bolsonaro's son, Flávio, in a high-stakes rematch.",
    "published": "2026-10-03T02:57:07+00:00"
-  },
-  {
-   "id": "b70555229d18",
-   "title": "India vs Pakistan live: Asian Games cricket final",
-   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
-   "source": "Al Jazeera",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match.",
-   "published": "2026-10-03T02:55:31+00:00"
   },
   {
    "id": "befba7942c2d",
