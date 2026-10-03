@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T00:36:30.421702+00:00",
+ "generated": "2026-10-03T01:29:02.174857+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "name": "Federal Register: IRS",
@@ -129,6 +129,39 @@
  ],
  "items": [
   {
+   "id": "70f2a3c6121d",
+   "title": "Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President has claimed pipeline project was part of a deal made last year to lower tariffs on imports from South Korea in return for billions of dollars of investments in the US Sign up for the Breaking News US email Send us your questions on how the Iran war will affect US…",
+   "published": "2026-10-03T01:16:30+00:00"
+  },
+  {
+   "id": "90e18535cf6c",
+   "title": "Several people injured after vehicle hits crowd in Newcastle waiting to farewell Knights team bus",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/03/several-people-injured-after-vehicle-hits-crowd-at-knights-grand-final-farewell-in-newcastle",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Driver arrested on the scene after a vehicle struck multiple people in a crowd Get our breaking news email , free app or daily news podcast A car has crashed into a crowd of people in Newcastle injuring several as fans waited to farewell the Knights team bus before the NRL…",
+   "published": "2026-10-03T00:51:35+00:00"
+  },
+  {
+   "id": "cd666ca0270f",
+   "title": "US and Australia suspend diplomatic operations in Brazil before election",
+   "link": "https://www.aljazeera.com/news/2026/10/3/us-and-australia-suspend-diplomatic-operations-in-brazil-before-election?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Security threats prompt US and Australia to suspend diplomatic operations in Brazil before pivotal election day.",
+   "published": "2026-10-03T00:46:10+00:00"
+  },
+  {
    "id": "f37c69fe5b90",
    "title": "Task force report: What can Utah’s colleges do to boost campus safety?",
    "link": "https://www.deseret.com/education/2026/10/02/utah-campus-safety-task-force-report/",
@@ -138,6 +171,17 @@
    "flourishing_feed": false,
    "summary": "Weeks after the Sept. 10, 2025, Charlie Kirk assassination at Utah Valley University, the Utah Board of Higher Education, or UBHE, mustered a campus safety task force. The group’s charge: Take a deep dive into policies, practices and resources to ensure that Utah’s public…",
    "published": "2026-10-03T00:35:00+00:00"
+  },
+  {
+   "id": "3122824c73c9",
+   "title": "Cyclospora found at Mexican farm linked to lettuce outbreak, FDA says",
+   "link": "https://www.theguardian.com/us-news/2026/oct/02/cyclospora-mexico-farm-lettuce",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Announcement from US officials comes after CDC declared end to outbreak that infected nearly 13,000 people The Food and Drug Administration said on Friday its inspectors had detected cyclospora at the Mexican farm blamed for the largest foodborne illness outbreak of the…",
+   "published": "2026-10-03T00:27:28+00:00"
   },
   {
    "id": "f403e94eeca5",
@@ -202,7 +246,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "A ballistic missile is fired from the North Korean port city of Wonsan, South Korea's military says.",
+   "summary": "A ballistic missile fired from the North Korean port city of Wonsan flies more than 700km, South Korea's military says.",
    "published": "2026-10-02T23:55:24+00:00"
   },
   {
@@ -237,17 +281,6 @@
    "flourishing_feed": false,
    "summary": "In-depth study also says the royal house made huge profits from Dutch colonial policies in past centuries.",
    "published": "2026-10-02T23:43:50+00:00"
-  },
-  {
-   "id": "70f2a3c6121d",
-   "title": "Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President has claimed pipeline project was part of a deal made last year to lower tariffs on imports from South Korea in return for billions of dollars of investments in the US Sign up for the Breaking News US email Send us your questions on how the Iran war will affect US…",
-   "published": "2026-10-02T23:39:55+00:00"
   },
   {
    "id": "72681eff0e12",
