@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T05:38:41.638460+00:00",
+ "generated": "2026-10-03T06:44:31.883746+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,6 +129,116 @@
  ],
  "items": [
   {
+   "id": "5f92289cd5a4",
+   "title": "Russia strikes second major bridge in Kyiv, mayor says",
+   "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The attack on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+   "published": "2026-10-03T06:27:15+00:00"
+  },
+  {
+   "id": "b70555229d18",
+   "title": "India vs Pakistan live: Asian Games cricket final",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow our live score and text commentary from the gold-medal match as Pakistan chase 212 to win in Japan.",
+   "published": "2026-10-03T06:17:31+00:00"
+  },
+  {
+   "id": "5b75619aa8d0",
+   "title": "Flydubai co-pilot stabbed captain with crash axe in ‘terrorist’ attack: UAE",
+   "link": "https://www.aljazeera.com/news/2026/10/3/flydubai-co-pilot-stabbed-pilot-with-crash-axe-in-terrorist-attack-uae?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This is a breaking news story.",
+   "published": "2026-10-03T06:16:47+00:00"
+  },
+  {
+   "id": "2b6849c14b44",
+   "title": "London Labour council warns it may raise council tax by 150%",
+   "link": "https://www.theguardian.com/society/2026/oct/03/london-labour-council-tax-hammersmith-fulham",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hammersmith and Fulham says it faces ‘biggest financial challenge in living memory’ as government cuts bite A flagship Labour authority has warned it may have to impose a 150% council tax rise on residents to maintain current services following central government cuts under a…",
+   "published": "2026-10-03T06:00:53+00:00"
+  },
+  {
+   "id": "3dc4750742fa",
+   "title": "‘It’s shocking really’: Devon community tracks River Dart sewage spills",
+   "link": "https://www.theguardian.com/environment/2026/oct/03/devon-community-platform-river-hub-dart-sewage-spills-overflows",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Citizen environmentalists create online platform that flags spills in real time and highlights repeatedly polluted spots The easy thing for the people who live on the banks of the River Dart in Devon might have been to grumble and groan about the sewage spills that blight their…",
+   "published": "2026-10-03T06:00:53+00:00"
+  },
+  {
+   "id": "b4d0472ade06",
+   "title": "High school football: Bode Sparrow scores twice as Davis defense shuts down rival Farmington",
+   "link": "https://www.deseret.com/sports/2026/10/02/high-school-football-farmington-davis/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ever since Davis and Farmington began playing each other in football in 2020, Darts coach Scott Peery has learned one thing. Expect the unexpected. It doesn’t matter who is favored. The outcome has been evenly matched on the gridiron since Farmington split from one of Utah’s…",
+   "published": "2026-10-03T05:58:36+00:00"
+  },
+  {
+   "id": "b79001477efb",
+   "title": "High school football: Tytan Hupp’s game-winning field goal lifts Box Elder past Fremont",
+   "link": "https://www.deseret.com/sports/2026/10/02/high-school-football-box-elder-fremont/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Box Elder and Fremont came into Friday’s showdown both undefeated in region play, with the winner set to take a giant step forward for the region title and better playoff positioning. Despite being behind for much for the game, Box Elder rallied to score 10 points in the final…",
+   "published": "2026-10-03T05:41:15+00:00"
+  },
+  {
+   "id": "2154291e5ac1",
+   "title": "Gaza voters want jobs and security as Palestinian elections approach",
+   "link": "https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ahead of first Palestinian national elections in 20 years, people in Gaza hope to rebuild after Israeli destruction.",
+   "published": "2026-10-03T05:39:29+00:00"
+  },
+  {
+   "id": "8f8890a08a5f",
+   "title": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
+   "link": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Company says it is reviewing 50 petabytes of data after its agents accessed websites including Medicare without authorisation Get our breaking news email , free app or daily news podcast OpenAI says its review in response to the Medicare and Hugging Face agent attacks is…",
+   "published": "2026-10-03T05:39:22+00:00"
+  },
+  {
+   "id": "d00a10e57fef",
+   "title": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers",
+   "link": "https://www.theguardian.com/world/2026/oct/03/north-korea-launches-ballistic-missile-after-seoul-demands-apology-over-wounded-soldiers",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pyongyang fires towards sea a day after Kim Jong-un sister denounces South Korea for claiming North’s mines wounded South’s soldiers in DMZ North Korea fired a ballistic missile towards the sea on Saturday, South Korea and Japan said, ⁠a day ​after it rejected Seoul’s…",
+   "published": "2026-10-03T05:31:08+00:00"
+  },
+  {
    "id": "c092f9c65623",
    "title": "High school football: Mountain Ridge remains unbeaten in blowout victory over Herriman",
    "link": "https://www.deseret.com/sports/2026/10/02/high-school-football-herriman-mountain-ridge/",
@@ -151,19 +261,8 @@
    "published": "2026-10-03T05:12:05+00:00"
   },
   {
-   "id": "b70555229d18",
-   "title": "India vs Pakistan live: Asian Games cricket final",
-   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
-   "source": "Al Jazeera",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match.",
-   "published": "2026-10-03T05:09:31+00:00"
-  },
-  {
    "id": "0bb7ff149c0c",
-   "title": "Half want to rejoin EU and backing it could drive up Labour vote, megapoll finds",
+   "title": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
    "link": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -323,7 +422,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Two Iranian men are accused of preparing to commit an act of terrorism in Manchester ahead of Yom Kippur.",
+   "summary": "Two Iranian men are accused of preparing to ​commit attack in Manchester on or before Yom Kippur.",
    "published": "2026-10-03T03:56:10+00:00"
   },
   {
@@ -1086,6 +1185,17 @@
    "published": "2026-10-02T20:40:00+00:00"
   },
   {
+   "id": "03bc79234746",
+   "title": "Newly released video shows Luigi Mangione’s arrest",
+   "link": "https://www.bbc.co.uk/news/videos/cmewelkydwwyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The bodycam footage also shows a police officer finding a gun in Mangione's backpack, days after the killing of UnitedHealthcare CEO Brian Thompson.",
+   "published": "2026-10-02T20:37:34+00:00"
+  },
+  {
    "id": "8298543f4329",
    "title": "Why an octogenarian’s eviction has sent Spaniards into the streets",
    "link": "https://www.csmonitor.com/World/Europe/2026/1002/maricarmen-madrid-spain-housing-rental-protests?icid=rss",
@@ -1403,6 +1513,17 @@
    "flourishing_feed": false,
    "summary": "The agency’s proposal would allow advisors to self-custody crypto assets under certain conditions. Commissioner Hester Peirce said she hoped a “calm end” to regulatory uncertainty was imminent.",
    "published": "2026-10-02T19:57:42+00:00"
+  },
+  {
+   "id": "8c9aa1318998",
+   "title": "How widely used is the death penalty in the US?",
+   "link": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The death penalty is back in the news after Christa Pike survived two lethal injection attempts in Tennessee - but how widely used is it in the US?",
+   "published": "2026-10-02T19:56:28+00:00"
   },
   {
    "id": "e7b5c23581cd",
