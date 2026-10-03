@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T01:29:02.174857+00:00",
+ "generated": "2026-10-03T02:35:34.842392+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Federal Register: IRS",
@@ -129,15 +129,81 @@
  ],
  "items": [
   {
+   "id": "dec0176999bd",
+   "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+   "published": "2026-10-03T02:23:07+00:00"
+  },
+  {
+   "id": "7020292d2b2b",
+   "title": "BYU’s Kihei Akina advances as low amateur at PGA’s Bank of Utah Championship",
+   "link": "https://www.deseret.com/sports/2026/10/02/bank-of-utah-championship/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "BYU sophomore sensation Kihei Akina fired a 4-under par 67 on Friday to join former Cougar and Ogden native Patrick Fishburn as the low local players in the Bank of Utah Championship in Ivins. Akina, who barely missed the cut last year at Black Desert Resort Golf Course, is the…",
+   "published": "2026-10-03T02:19:13+00:00"
+  },
+  {
+   "id": "2b4585a5cb9d",
+   "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+   "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
+   "published": "2026-10-03T02:16:00+00:00"
+  },
+  {
+   "id": "1306da6ec538",
+   "title": "Bangkok at breaking point as floods turn streets into stagnant lakes",
+   "link": "https://www.theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "With 40 dead and a disaster declared across all 50 city districts, experts warn extreme flooding will only worsen across south-east Asia Bangkok is used to absorbing the sudden afternoon downpours that inundate the city during the rainy season. Even streets in many central…",
+   "published": "2026-10-03T02:00:46+00:00"
+  },
+  {
    "id": "70f2a3c6121d",
-   "title": "Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – US politics live",
+   "title": "Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – as it happened",
    "link": "https://www.theguardian.com/us-news/live/2026/oct/02/cornell-university-leticia-james-christa-pike-death-penalty-donald-trump-us-jobs-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "President has claimed pipeline project was part of a deal made last year to lower tariffs on imports from South Korea in return for billions of dollars of investments in the US Sign up for the Breaking News US email Send us your questions on how the Iran war will affect US…",
-   "published": "2026-10-03T01:16:30+00:00"
+   "summary": "This live blog is now closed. Sign up for the Breaking News US email Send us your questions on how the Iran war will affect US voters in the midterms And as we bring you the latest on how the jobs report stands to impact voter sentiment ahead of the November midterms , my…",
+   "published": "2026-10-03T01:56:33+00:00"
+  },
+  {
+   "id": "b70555229d18",
+   "title": "India vs Pakistan live: Asian Games cricket final",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match.",
+   "published": "2026-10-03T01:55:31+00:00"
+  },
+  {
+   "id": "6d0dd9e70e85",
+   "title": "Schools ablaze as student protests spread across France",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/schools-ablaze-as-student-protests-spread-across-france?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Students have set fire to schools and clashed with police as protests spread across France",
+   "published": "2026-10-03T01:46:10+00:00"
   },
   {
    "id": "90e18535cf6c",
@@ -147,7 +213,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Driver arrested on the scene after a vehicle struck multiple people in a crowd Get our breaking news email , free app or daily news podcast A car has crashed into a crowd of people in Newcastle injuring several as fans waited to farewell the Knights team bus before the NRL…",
+   "summary": "Driver arrested at the scene after a vehicle struck multiple people in a crowd Get our breaking news email , free app or daily news podcast A car has crashed into a crowd of people in Newcastle injuring several as fans waited to farewell the Knights team bus before the NRL…",
    "published": "2026-10-03T00:51:35+00:00"
   },
   {
@@ -248,17 +314,6 @@
    "flourishing_feed": false,
    "summary": "A ballistic missile fired from the North Korean port city of Wonsan flies more than 700km, South Korea's military says.",
    "published": "2026-10-02T23:55:24+00:00"
-  },
-  {
-   "id": "dec0176999bd",
-   "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
-   "published": "2026-10-02T23:53:35+00:00"
   },
   {
    "id": "5beb4d4a33ab",
@@ -906,7 +961,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+   "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
    "published": "2026-10-02T20:25:19+00:00"
   },
   {
@@ -1051,17 +1106,6 @@
    "flourishing_feed": false,
    "summary": "Utah Mammoth fans slept well Thursday night — assuming they were able to get to sleep in the first place. The team’s 6-0 stomping of the Chicago Blackhawks on opening night was the Mammoth’s biggest home win in franchise history. It was also their first-ever shutout at the…",
    "published": "2026-10-02T20:10:51+00:00"
-  },
-  {
-   "id": "2b4585a5cb9d",
-   "title": "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
-   "link": "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
-   "published": "2026-10-02T20:10:00+00:00"
   },
   {
    "id": "0ea2c58c9825",
