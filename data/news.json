@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T21:15:44.015397+00:00",
+ "generated": "2026-10-04T21:40:54.493570+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,15 @@
  ],
  "items": [
   {
-   "id": "f84a7df54c51",
-   "title": "Live coverage of October 2026 general conference",
-   "link": "https://www.deseret.com/faith/2026/10/03/october-general-conference-live-coverage-salt-lake-city/",
-   "source": "Deseret News",
-   "circle_hint": "national",
+   "id": "56b17112d1ac",
+   "title": "US bombers sent home from RAF Fairford base after suspected terror plot",
+   "link": "https://www.theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot",
+   "source": "The Guardian World",
+   "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The 196th Semiannual General Conference of The Church of Jesus Christ of Latter-day Saints is being held at the Conference Center in Salt Lake City. Watch and follow live.",
-   "published": "2026-10-04T21:07:20+00:00"
+   "summary": "Aircraft seen leaving at Gloucestershire base following arrest of dual British-Iranian national in central London The US Air Force has pulled its bombers from RAF Fairford following an investigation into an alleged planned terror attack at the base. The bombers were redeployed…",
+   "published": "2026-10-04T21:25:03+00:00"
   },
   {
    "id": "080bed871c05",
@@ -148,7 +148,40 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "The 196th Semiannual General Conference of The Church of Jesus Christ of Latter-day Saints is underway from the Conference Center in Salt Lake City. It’s been almost a year since President Dallin H. Oaks was set apart as prophet-president of the global faith. He was sustained…",
-   "published": "2026-10-04T21:04:54+00:00"
+   "published": "2026-10-04T21:19:28+00:00"
+  },
+  {
+   "id": "85ac007f42df",
+   "title": "Polls close in Brazil as Lula and Flávio Bolsonaro remain neck and neck",
+   "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October.",
+   "published": "2026-10-04T21:11:49+00:00"
+  },
+  {
+   "id": "3a8c211df986",
+   "title": "Ronaldo-less Portugal beat Norway 2-1 to reach Nations League quarterfinals",
+   "link": "https://www.aljazeera.com/sports/2026/10/4/ronaldo-less-portugal-beat-norway-2-1-to-reach-nations-league-quarterfinals?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Holders Portugal are the first team to qualify for 2026-27 UEFA Nations League despite absence of Cristiano Ronaldo.",
+   "published": "2026-10-04T21:10:00+00:00"
+  },
+  {
+   "id": "f84a7df54c51",
+   "title": "Live coverage of October 2026 general conference",
+   "link": "https://www.deseret.com/faith/2026/10/03/october-general-conference-live-coverage-salt-lake-city/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 196th Semiannual General Conference of The Church of Jesus Christ of Latter-day Saints is being held at the Conference Center in Salt Lake City. Watch and follow live.",
+   "published": "2026-10-04T21:07:20+00:00"
   },
   {
    "id": "5ef579e3b24a",
@@ -999,13 +1032,13 @@
   },
   {
    "id": "e4cefa03c7d0",
-   "title": "Brazil goes to polls in decisive election for future of Latin America",
+   "title": "Polls close in first round of Brazil’s high-stakes presidential election",
    "link": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Lula and Flávio Bolsonaro face off in battle between leftwing incumbent and far-right son of jailed ex-president The polls have closed in the first round of Brazil’s highly polarised and high-stakes presidential election that could change not only the direction of Latin…",
+   "summary": "Leftwing incumbent Lula trying to fight off close rival Flávio Bolsonaro, far-right son of jailed ex-president The polls have closed in the first round of Brazil’s highly polarised and high-stakes presidential election that could change not only the direction of Latin America’s…",
    "published": "2026-10-04T13:52:33+00:00"
   },
   {

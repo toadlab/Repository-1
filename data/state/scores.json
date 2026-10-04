@@ -50462,5 +50462,53 @@
   "decision": "exclude",
   "exclusion": "low durability",
   "persistent": false
+ },
+ "56b17112d1ac": {
+  "story_key": "us-bombers-sent-home-raf",
+  "durability": 4,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
+ },
+ "85ac007f42df": {
+  "story_key": "polls-close-brazil-lula-fl",
+  "durability": 7,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 7.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
+ },
+ "3a8c211df986": {
+  "story_key": "ronaldo-less-portugal-beat-norway",
+  "durability": 4,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
  }
 }
