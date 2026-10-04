@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T05:19:23.917464+00:00",
+ "generated": "2026-10-04T11:04:28.704961+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 42
+   "count": 21
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,501 @@
  ],
  "items": [
   {
+   "id": "df8482390474",
+   "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
+   "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
+   "published": "2026-10-04T11:03:20+00:00"
+  },
+  {
+   "id": "27cdc904743f",
+   "title": "We Still Don’t Understand St. Francis, 800 Years After His Death",
+   "link": "https://thedispatch.com/newsletter/dispatch-faith/saint-francis-catholic-church/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Modern conceptions of the ‘poor little man’ are more caricature than fact.",
+   "published": "2026-10-04T11:00:00+00:00"
+  },
+  {
+   "id": "2277fbcc218b",
+   "title": "Can thrift shops save us from Shein?",
+   "link": "https://www.vox.com/explain-it-to-me/504451/thrift-shops-style-fast-fashion-shein",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Think about what you’re wearing right now. Did you pick it out? Or was it chosen for you by an algorithm you haven’t even considered? You may think it’s the former, but with the state of the fashion industry, it’s likely the latter. There was a time when taste was decided by…",
+   "published": "2026-10-04T11:00:00+00:00"
+  },
+  {
+   "id": "1ce20e238b39",
+   "title": "Wills vs Trusts: How to Decide What's Right for Your Family",
+   "link": "https://www.kiplinger.com/retirement/estate-planning/wills-vs-trusts-whats-right-for-your-family",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Does your estate plan need a will, a trust or both? Understanding how these tools work, and what your family needs, will help you make the right choice.",
+   "published": "2026-10-04T11:00:00+00:00"
+  },
+  {
+   "id": "ec25e4bdfac0",
+   "title": "Jacob Rees-Mogg accuses Tucker Carlson of ‘verging on defending Hitler’",
+   "link": "https://www.theguardian.com/us-news/2026/oct/04/jacob-rees-mogg-tucker-carlson-adolf-hitler-second-world-war-uk-armed-forces-vladimir-putin",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former Tory minister defends UK decision to enter war in podcast with US rightwinger and Putin sympathiser The former Tory minister Jacob Rees-Mogg has found himself defending Britain’s decision to fight against Adolf Hitler after inviting the US rightwinger and Vladimir Putin…",
+   "published": "2026-10-04T10:53:22+00:00"
+  },
+  {
+   "id": "e88e013b6a28",
+   "title": "Badenoch says Tories want policies ‘for everybody’ as she defends plan to let millionaires get free childcare – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Conservative leader defends plan to extend free childcare to high earners, as Tory conference begins in Birmingham today On Friday the Times revealed that Katie Lam , the communities secretary, told a meeting in private earlier this year that the state pension system needs a…",
+   "published": "2026-10-04T10:52:50+00:00"
+  },
+  {
+   "id": "46b2b9c32992",
+   "title": "Friedrich Merz begins unannounced Kyiv visit as Russia continues strikes on Ukraine’s capital – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/04/friedrich-merz-german-chancellor-ukraine-kyiv-russia-strikes-war-zelenskyy-putin-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "German chancellor tours city with president Zelenskyy after Moscow strikes city’s North Bridge this morning amid his arrival Germany is Ukraine’s largest donor and has sent Kyiv more than €43.3 billion ($48.8 billion) since the war began, along with equipment and weapons.…",
+   "published": "2026-10-04T10:45:50+00:00"
+  },
+  {
+   "id": "ba9cdbf7f3dd",
+   "title": "Russia’s nuclear plants are ageing. Who will pay to dismantle them?",
+   "link": "https://www.aljazeera.com/opinions/2026/10/4/russias-nuclear-plants-are-ageing-who-will-pay-to-dismantle-them?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Moscow faces a huge decommissioning bill at home even as it expands its nuclear industry abroad.",
+   "published": "2026-10-04T10:44:23+00:00"
+  },
+  {
+   "id": "0c157584ad0e",
+   "title": "Spain protests flare after housing bill rejected: Will it cause snap poll?",
+   "link": "https://www.aljazeera.com/news/2026/10/4/spain-protests-flare-after-housing-bill-rejected-will-it-cause-snap-poll?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Measures pushed by Spain's leftist government fail to pass parliament as the protests spread.",
+   "published": "2026-10-04T10:16:49+00:00"
+  },
+  {
+   "id": "64aa4378c789",
+   "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+   "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Unverified video shows a drone hitting the Northern Bridge as vehicles move across it, creating a large fireball.",
+   "published": "2026-10-04T10:11:32+00:00"
+  },
+  {
+   "id": "ade2ac8100a9",
+   "title": "Netanyahu’s fight to own the election narrative",
+   "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/4/netanyahus-fight-to-own-the-election-narrative?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What did Netanyahu know about October 7 before it happened?",
+   "published": "2026-10-04T10:05:53+00:00"
+  },
+  {
+   "id": "18772fd1ee81",
+   "title": "Tributes as Bosnian football star Edin Dzeko retires",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/tributes-as-bosnian-football-star-edin-dzeko-retires?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bosnia and Herzegovina's legendary striker Edin Dzeko has bid farewell to international football after a final match.",
+   "published": "2026-10-04T10:04:54+00:00"
+  },
+  {
+   "id": "03aa4fc93462",
+   "title": "Pennsylvania health officials brace themselves as measles outbreak expected to spread",
+   "link": "https://www.theguardian.com/us-news/2026/oct/04/pennsylvania-health-officials-measles-outbreak",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Most counties don’t have their own health agencies, and some specific population groups have low vaccination rates Pennsylvania is bracing for a wave of measles cases, with some public health officials concerned that it’s “only a matter of time” until the disease spreads beyond…",
+   "published": "2026-10-04T10:00:25+00:00"
+  },
+  {
+   "id": "f1bc6f355159",
+   "title": "The Millennial Internet Is Dead, and Politicians Killed It.",
+   "link": "https://reason.com/2026/10/04/who-killed-social-media/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Social media use is declining, and what's left has shifted from conversation to passive scrolling.",
+   "published": "2026-10-04T10:00:20+00:00"
+  },
+  {
+   "id": "65fbf2be63fc",
+   "title": "She died covering war for Fox News. Her parents blame the network — and a star reporter",
+   "link": "https://www.npr.org/2026/10/04/nx-s1-5737621/fox-news-ukraine-deaths",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The family members of two Fox News journalists killed while covering the war in Ukraine are suing the network, saying it put getting the story ahead of its people.",
+   "published": "2026-10-04T10:00:00+00:00"
+  },
+  {
+   "id": "d5ff641b724e",
+   "title": "My afternoon becoming a background actor on ‘The Chosen’",
+   "link": "https://www.deseret.com/entertainment/2026/10/11/my-afternoon-becoming-a-background-actor-on-set-of-the-chosen/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The September heat on set of “The Chosen” in Midlothian, Texas, felt almost personal in the way it pressed down. Humidity hung heavy in the dust-clouded air as I made my way through the Capernaum replica . “I’m sorry you wore jeans,” said Austin Reed Alleman, who plays…",
+   "published": "2026-10-04T10:00:00+00:00"
+  },
+  {
+   "id": "7f792d7f252c",
+   "title": "What TCU coach Sonny Dykes said after losing to BYU",
+   "link": "https://www.deseret.com/sports/2026/10/04/tcu-coach-sonny-dykes-reflects-after-loss-against-byu/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "With TCU’s loss to BYU on Saturday, Sonny Dykes’ seat keeps warming up. As the Cougars gutted out a 17-10 win in Fort Worth, the Horned Frogs fell to 0-2 in Big 12 play for the first time since 2013. Additionally, TCU has now scored just four touchdowns across three games…",
+   "published": "2026-10-04T10:00:00+00:00"
+  },
+  {
+   "id": "7e7325b40034",
+   "title": "The children’s show putting mental health on screen",
+   "link": "https://www.deseret.com/entertainment/2026/10/04/lulubugs-garden-teaches-kids-how-to-talk-about-their-feelings/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In the world of “Lulubug’s Garden,” things move slowly. The colors are soft. The sets are familiar, and unchanging from episode to episode. There are no rapid cuts, flashy animations or high-stimulation visuals. The main characters are puppets, the world is handmade and the…",
+   "published": "2026-10-04T10:00:00+00:00"
+  },
+  {
+   "id": "815bb45801bb",
+   "title": "Brazil elections live: Lula faces Bolsonaro in close presidential race",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/4/brazil-elections-live-voters-head-to-polls-for-close-presidential-race?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Voting to begin in Brazil as Lula seeks a historic fourth term, facing strong opposition from Flavio Bolsonaro.",
+   "published": "2026-10-04T10:00:00+00:00"
+  },
+  {
+   "id": "a57d9e3cc8be",
+   "title": "Inheriting Investments: Why Stocks Can Wreck Estate Plans",
+   "link": "https://www.kiplinger.com/retirement/estate-planning/stock-portfolio-instructions-in-your-estate-plan",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Without explicit instructions for stocks in your estate plan, your heirs may end up selling everything for simplicity or because they're mired in conflict.",
+   "published": "2026-10-04T10:00:00+00:00"
+  },
+  {
+   "id": "8f000f7c6d5d",
+   "title": "Flydubai: What happens when a plane plunges 17,000 feet?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/flydubai-what-happens-when-a-plane-plunges-17000-feet?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A flight instructor recreates the Flydubai jet’s near-vertical 17,000 foot dive in a simulator.",
+   "published": "2026-10-04T09:53:39+00:00"
+  },
+  {
+   "id": "da7f3c1446a5",
+   "title": "The story of a book in Gaza: A treasured possession given new lease of life",
+   "link": "https://www.aljazeera.com/features/2026/10/4/the-story-of-a-book-in-gaza-a-treasured-possession-given-new-lease-of-life?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "With libraries, schools and homes destroyed in Gaza, surviving books have become treasured possessions.",
+   "published": "2026-10-04T09:46:48+00:00"
+  },
+  {
+   "id": "6907191f4b8d",
+   "title": "Cornell University to take ‘serious look’ at fraternities after rape allegations",
+   "link": "https://www.theguardian.com/us-news/2026/oct/04/cornell-president-vows-serious-look-at-fraternities-in-wake-of-allegations",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ivy League school’s president promises action after woman alleged she was drugged ⁠and raped by fraternity members Cornell University will examine the role of fraternities and sororities on campus after an outcry over the school’s handling ⁠of a student’s rape allegations, the…",
+   "published": "2026-10-04T09:43:26+00:00"
+  },
+  {
+   "id": "6fc9996ce9ba",
+   "title": "Glasgow council workers face pay cuts in fire-and-rehire plan after union talks break down",
+   "link": "https://www.theguardian.com/society/2026/oct/04/glasgow-council-workers-face-pay-cuts-in-fire-and-rehire-plan-after-union-talks-break-down",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Unison refuses to ballot members on offer that would make thousands of council employees worse off Thousands of Glasgow council workers face being sacked and reappointed under less favourable terms in one of the UK’s biggest ever “fire-and-rehire” exercises, after union…",
+   "published": "2026-10-04T09:13:29+00:00"
+  },
+  {
+   "id": "d688520da41a",
+   "title": "Photos: Community unites in Senegal’s Dakar to clean dilapidated school",
+   "link": "https://www.aljazeera.com/gallery/2026/10/4/photos-dakar-community-unites-to-clean-school-ahead-of-academic-year?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Volunteers and students prepare safer, cleaner classrooms in advance of the academic year in Senegal's capital.",
+   "published": "2026-10-04T09:09:08+00:00"
+  },
+  {
+   "id": "b7e07b1f1e25",
+   "title": "The American Sign Museum is an illuminating trip through time",
+   "link": "https://www.csmonitor.com/World/2026/1004/american-sign-museum-cincinnati?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Founded in 1999, the American Sign Museum in Cincinnati pays homage to the artistry of the signs that have long attracted customers to businesses.",
+   "published": "2026-10-04T09:00:17+00:00"
+  },
+  {
+   "id": "35c5c39b78ce",
+   "title": "Guns, immigration, climate change top the Supreme Court docket",
+   "link": "https://www.csmonitor.com/USA/Justice/2026/1004/supreme-court-term-guns-immigration-climate?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Supreme Court has only 30 cases on its docket so far – about half the usual number for a term. But more high-profile cases could follow.",
+   "published": "2026-10-04T09:00:10+00:00"
+  },
+  {
+   "id": "fbe9393e9480",
+   "title": "Latter-day Saints women turn away from scandal-plagued Republican candidate in Arizona",
+   "link": "https://www.npr.org/2026/10/04/nx-s1-5950536/arizona-house-race-mark-lamb-lds-church",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Arizona Republican candidate for Congress Mark Lamb has been accused of sexual misconduct while sheriff. His controversy is turning many voters away as Democrats see an opportunity in the red seat.",
+   "published": "2026-10-04T09:00:00+00:00"
+  },
+  {
+   "id": "e4cefa03c7d0",
+   "title": "Brazil goes to polls in decisive election for future of Latin America",
+   "link": "https://www.theguardian.com/world/2026/oct/04/brazil-presidential-election-lula-flavio-bolsonaro",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lula and Flávio Bolsonaro face off in battle between leftwing incumbent and far-right son of jailed ex-president Brazilians go to the polls on Sunday in the first round of a highly polarised and high-stakes presidential election that could change not only the direction of Latin…",
+   "published": "2026-10-04T08:53:01+00:00"
+  },
+  {
+   "id": "8ade5c645e48",
+   "title": "Bosnia votes in one of world’s most complicated general elections",
+   "link": "https://www.aljazeera.com/news/2026/10/4/economic-woes-ethnic-rivalries-shape-bosnias-closely-watched-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Voters cast their ballots for a dizzying number of officials across multiple tiers of government.",
+   "published": "2026-10-04T08:36:17+00:00"
+  },
+  {
+   "id": "88f13cb3c120",
+   "title": "Cornell president says university ‘must do better’ after rape allegations",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/cornell-president-says-university-must-do-better-after-rape-allegations?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Cornell president says university ‘must do better’ after rape allegations",
+   "published": "2026-10-04T08:33:54+00:00"
+  },
+  {
+   "id": "2bd34e517728",
+   "title": "Inside the ‘kill box’: The Yemenis who stayed behind in Houthi-held Mocha",
+   "link": "https://www.aljazeera.com/features/2026/10/4/inside-the-kill-box-the-yemenis-who-stayed-behind-in-houthi-held-mocha?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Yemenis trapped in the Red Sea port city speak of deteriorating conditions there.",
+   "published": "2026-10-04T08:31:29+00:00"
+  },
+  {
+   "id": "56724966d838",
+   "title": "Sabalenka, Rybakina handed shock defeats at China Open tennis",
+   "link": "https://www.aljazeera.com/sports/2026/10/4/sabalenka-rybakina-handed-shock-defeats-at-china-open-tennis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Belarusian’s exit follows top seed Rybakina losing to unseeded Charaeva in her first match as world number one.",
+   "published": "2026-10-04T08:04:00+00:00"
+  },
+  {
+   "id": "2f31da9e8451",
+   "title": "Gaza’s Christians mourn mother and daughter killed in Israeli attack",
+   "link": "https://www.aljazeera.com/news/2026/10/4/gazas-christians-mourn-mother-and-daughter-killed-in-israeli-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Maysa Abu Daoud and her daughter Mary al-Najjar among five Palestinians killed in Gaza City attack.",
+   "published": "2026-10-04T08:02:38+00:00"
+  },
+  {
+   "id": "04a0de1d013b",
+   "title": "Lack of inspections at fish slaughterhouses a ‘disgrace’, says Animal Equality UK",
+   "link": "https://www.theguardian.com/world/2026/oct/04/mandatory-inspections-fish-slaughterhouses-england-wales",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Charity calls for faster progress on humane slaughter laws for farmed fish in England and Wales Up to 77m fish are slaughtered each year in the UK but there are no routine or mandatory inspections of fish slaughterhouses in England and Wales, it can be revealed. Concerns within…",
+   "published": "2026-10-04T08:00:22+00:00"
+  },
+  {
+   "id": "3a97cdfa993d",
+   "title": "Welsh ban on greyhound racing sparks warnings of rehoming crisis",
+   "link": "https://www.theguardian.com/news/2026/oct/04/greyhounds-welfare-welsh-racing-ban",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Industry says a phased end to racing, to avoid sudden jump in caring responsibilities, is unworkable Wales’s greyhound racing ban – a UK first – has run into difficulties regarding how and when to wind down the practice, potentially risking the animals’ welfare, a charity has…",
+   "published": "2026-10-04T08:00:22+00:00"
+  },
+  {
+   "id": "92b0ae2288fe",
+   "title": "Saudi-led coalition dismisses ‘misleading’ Houthi claim of Riyadh attack",
+   "link": "https://www.aljazeera.com/news/2026/10/4/houthi-claims-of-targeting-riyadh-are-misleading-saudi-led?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Saudi-led coalition spokesman says the Yemeni armed group is 'attempting to divert attention' from its losses.",
+   "published": "2026-10-04T07:39:04+00:00"
+  },
+  {
+   "id": "a6ebcc21ae98",
+   "title": "Fury to invite US President Trump to lead ring walk before Joshua fight",
+   "link": "https://www.aljazeera.com/sports/2026/10/4/fury-to-invite-us-president-trump-to-lead-ring-walk-before-joshua-fight?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tyson Fury is keen for his 'old pal' to join his procession to the ring for the fight on December 11 in Cardiff.",
+   "published": "2026-10-04T07:21:19+00:00"
+  },
+  {
+   "id": "f68dca98a4ad",
+   "title": "Revealed: Government quietly dropped plan to prepare England for wildfires",
+   "link": "https://www.theguardian.com/world/2026/oct/04/government-dropped-plan-england-countryside-wildfires",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "FOI request shows wildfire risk scheme scrapped, as survey highlights many fire services lack proper protective gear The government quietly scrapped plans to prepare the countryside in England for wildfires, it has been revealed. This was despite new data showing fire crews do…",
+   "published": "2026-10-04T07:00:21+00:00"
+  },
+  {
+   "id": "5bc6c8bd8d4f",
+   "title": "Open Thread",
+   "link": "https://reason.com/volokh/2026/10/04/open-thread-347/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What’s on your mind?",
+   "published": "2026-10-04T07:00:00+00:00"
+  },
+  {
+   "id": "cc864b9ce450",
+   "title": "Yamal scores stunning goal in Spain’s 3-1 Nations League win over Czechia",
+   "link": "https://www.aljazeera.com/sports/2026/10/4/yamal-scores-stunning-goal-in-spains-3-1-nations-league-win-over-czechia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lamine Yamal is the first player to score within the first 10 minutes of each of three consecutive men's football games.",
+   "published": "2026-10-04T06:24:28+00:00"
+  },
+  {
+   "id": "d1b9ca0187b0",
+   "title": "Australia investigating Flydubai co-pilot's links to country",
+   "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+   "published": "2026-10-04T06:19:17+00:00"
+  },
+  {
+   "id": "d5a71c7c0828",
+   "title": "Sports on the air: Here’s what games are on TV and radio for the week of Oct. 4-10",
+   "link": "https://www.deseret.com/sports/2026/10/04/sports-on-the-air-heres-what-games-are-on-tv-and-radio-for-the-week-of-oct-4-10/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sunday, Oct. 4, 2026 TELEVISION BASKETBALL The Border League, ESPNU, 1 p.m. (ESPN2, 3 p.m., 5 p.m., 7 p.m.) WNBA semifinals, ABC, 1 p.m. (COZI, 2 p.m.) Preseason: Jazz vs. Nuggets, KJZZ, 5 p.m. GOLF Alfred Dunhill Links Championship, GOLF, 4:30 a.m. Lehigh Valley Classic, GOLF,…",
+   "published": "2026-10-04T06:00:00+00:00"
+  },
+  {
+   "id": "158c1b37c8f9",
+   "title": "West Indies beat India in record chase as Hope hits 162 in third ODI",
+   "link": "https://www.aljazeera.com/sports/2026/10/4/west-indies-beat-india-in-record-chase-as-hope-hit-162-in-third-odi?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Shai Hope's 162 leads the West Indies to a record cricket run chase as they beat India by five wickets in the third ODI.",
+   "published": "2026-10-04T05:28:38+00:00"
+  },
+  {
+   "id": "2687e8cc5976",
+   "title": "Widespread damage after huge hailstones pound Paraguay capital",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/widespread-damage-after-huge-hailstones-pound-paraguay-capital?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Large hailstones pounded parts of Paraguay’s capital, breaking windows and denting cars.",
+   "published": "2026-10-04T05:14:13+00:00"
+  },
+  {
    "id": "86c1c629beed",
    "title": "Fighters’ faith and joy on full display — and other takeaways from UFC’s visit to Utah",
    "link": "https://www.deseret.com/utah/2026/10/03/natalia-silva-praises-god-after-winning-ufc-title/",
@@ -138,6 +633,17 @@
    "flourishing_feed": false,
    "summary": "Nothing was getting in the way of Natalia Silva’s joy on Saturday. The Brazilian flyweight practically danced into the arena at the Delta Center with the worship song “Nothing is Impossible” blaring as her walkout music. She then danced around the octagon for five rounds with…",
    "published": "2026-10-04T05:03:02+00:00"
+  },
+  {
+   "id": "8e64cbab11b6",
+   "title": "Somalia President: Houthis ‘not in a position’ to bring Yemen peace",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/somalia-president-houthis-not-in-a-position-to-bring-yemen-peace?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Somalia’s president accuses the Houthis of destabilising the region and disrupting navigation through the Bab al-Mandeb",
+   "published": "2026-10-04T05:00:40+00:00"
   },
   {
    "id": "08e538cf8779",
@@ -317,13 +823,13 @@
   },
   {
    "id": "68d7844e9560",
-   "title": "Houthis claim strike on Saudi energy facility as Yemen fighting intensifies",
+   "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies",
    "link": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Smoke and fire seen near an Aramco site in Riyadh as Houthis allege precise missile and drone strikes.",
+   "summary": "Spokesman for Saudi-led coalition supporting Yemen government says Houthi claims of targeting Riyadh are 'misleading'.",
    "published": "2026-10-04T03:33:49+00:00"
   },
   {
@@ -622,6 +1128,17 @@
    "flourishing_feed": false,
    "summary": "Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to 'end a genocide in Gaza'.",
    "published": "2026-10-03T22:43:58+00:00"
+  },
+  {
+   "id": "019c0bdfafeb",
+   "title": "US father and son arrested after 'gas station heroin' deaths",
+   "link": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "They are accused of selling at least one student derivatives of kratom, often called \"gas station heroin\" in the US.",
+   "published": "2026-10-03T22:39:06+00:00"
   },
   {
    "id": "90e18535cf6c",
