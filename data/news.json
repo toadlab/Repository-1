@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T13:37:03.834172+00:00",
+ "generated": "2026-10-05T14:36:25.041752+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,281 @@
  ],
  "items": [
   {
+   "id": "2af20bf7eb6c",
+   "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+   "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
+   "published": "2026-10-05T14:30:31+00:00"
+  },
+  {
+   "id": "c7cfbc28a6c9",
+   "title": "I got a $499 body scan to see if I have cancer. Here’s what I learned.",
+   "link": "https://www.marketwatch.com/story/i-got-a-499-body-scan-to-see-if-i-have-cancer-heres-what-i-learned-09cfca29?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Our healthcare system is designed to diagnose the presence or absence of disease, one organ at a time. That means people have no baseline against which to make broader lifestyle decisions.",
+   "published": "2026-10-05T14:29:00+00:00"
+  },
+  {
+   "id": "a40611be07cb",
+   "title": "Dennis Hastert, former House speaker disgraced by molestation allegations, dies aged 84",
+   "link": "https://www.theguardian.com/us-news/2026/oct/05/dennis-hastert-republican-death",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Republican, who was sent to prison in 2016 in a hush-money case tied to the allegations, died over the weekend Dennis Hastert, the longest-serving Republican US House speaker, died over the weekend, a coroner said Monday. He was 84. Hastert, who was speaker from 1999 until…",
+   "published": "2026-10-05T14:26:01+00:00"
+  },
+  {
+   "id": "9839a201ee0c",
+   "title": "No 10 insists RAF Fairford is safe after US withdraws its bombers – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Downing Street offered more details about the redeployment of US bombers from the British airbase Yesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of water (“0% strength”) to make a point about Burnham supposedly cancelling plans for an early…",
+   "published": "2026-10-05T14:25:20+00:00"
+  },
+  {
+   "id": "0f3054228213",
+   "title": "Dennis Hastert, longtime Republican House speaker who went to prison, dies at age 84",
+   "link": "https://www.npr.org/2026/10/05/g-s1-146452/dennis-hastert-republican-house-speaker-dies-obit",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "ennis Hastert, whose political legacy as Congress' longest-serving Republican House speaker was later fouled by allegations that he had molested high school athletes during his prior career as a teacher and wrestling coach, has died, a coroner said Monday. He was 84.",
+   "published": "2026-10-05T14:24:31+00:00"
+  },
+  {
+   "id": "cccf501d010c",
+   "title": "US pulls bombers from UK base: Is Iran manoeuvring Trump’s war plans?",
+   "link": "https://www.aljazeera.com/news-analysis/2026/10/5/us-pulls-bombers-from-uk-base-is-iran-maneouvering-trumps-war-plans?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The withdrawal means the US lost a convenient launchpad, not its underlying strike capability, said an expert.",
+   "published": "2026-10-05T14:19:44+00:00"
+  },
+  {
+   "id": "9c6ce03534d0",
+   "title": "US book bans in public schools reach record annual high of 12,000",
+   "link": "https://www.theguardian.com/us-news/2026/oct/05/book-bans-schools-record-high",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Texas tops list with 8,100 bans while Stephen King is again most banned author, PEN America finds The US saw almost 12,000 book bans in public schools during the 2025-2026 school year, the highest number in a single year, according to the free-expression non-profit PEN America…",
+   "published": "2026-10-05T14:18:42+00:00"
+  },
+  {
+   "id": "c6b3a8e48da1",
+   "title": "Nobel medicine prize honours US and German scientists for optogenetics work",
+   "link": "https://www.aljazeera.com/news/2026/10/5/nobel-medicine-prize-honours-us-and-german-scientists-for-optogenetics-work?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The winners of the Nobel Prizes in physics, chemistry, literature, peace and ‌economics will be announced in the week.",
+   "published": "2026-10-05T14:18:18+00:00"
+  },
+  {
+   "id": "8a924ab0299a",
+   "title": "Iran’s oil minister resigns as country’s economic crisis worsens",
+   "link": "https://www.theguardian.com/world/2026/oct/05/iran-oil-minister-resigns-economic-crisis",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Departure comes amid large drop in oil receipts, rampant inflation and shrinking economy Iran’s oil minister has resigned days after allegations that an intermediary trust selling Iranian oil abroad owed millions of dollars’ worth of export receipts to the state. Mohsen…",
+   "published": "2026-10-05T14:16:14+00:00"
+  },
+  {
+   "id": "263104a7d430",
+   "title": "Mel B ‘heartbroken’ by Windrush scandal victims’ fight for justice",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/05/mel-b-windrush-scandal-fight-for-justice-legal-support-commissioner",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Public figures back commissioner’s call for government commitment to funding legal support for those affected The singer and television personality Mel B has said she is “heartbroken” by the Windrush scandal victims’ fight for justice, as the Windrush commissioner urged…",
+   "published": "2026-10-05T14:11:23+00:00"
+  },
+  {
+   "id": "0fca6f8e82dc",
+   "title": "Spain’s PM Pedro Sánchez calls snap election after housing law fails to pass",
+   "link": "https://www.theguardian.com/world/2026/oct/05/spain-prime-minister-pedro-sanchez-snap-election-housing-crisis",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Election called after rightwing parties voted down emergency legislation aimed at tackling housing crisis Europe live – latest updates Spain’s socialist prime minister, Pedro Sánchez, has once again staked his political future on a snap general election that he announced three…",
+   "published": "2026-10-05T14:09:31+00:00"
+  },
+  {
+   "id": "eae6727020d2",
+   "title": "Intel’s stock drops after Musk hints at an additional partner for big chip venture",
+   "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Intel may not be the only semiconductor company tapped to help with chip manufacturing for the Terafab project, as Elon Musk said discussions with TSMC are ongoing.",
+   "published": "2026-10-05T14:07:00+00:00"
+  },
+  {
+   "id": "ae6aa17ebe5e",
+   "title": "Trump heads to Nebraska as supreme court hears first oral arguments of new term – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President to visit Grand Island as his plan to allow more foreign beef imports proves unpopular in agriculture-rich state; court to hear argument over climate crisis Sign up for the Breaking News US email Donald Trump has, once again, falsely claimed the counting window – the…",
+   "published": "2026-10-05T14:04:29+00:00"
+  },
+  {
+   "id": "86b644cee005",
+   "title": "A Response to Michael Buschbacher on Suncor Energy v. Boulder County",
+   "link": "https://reason.com/volokh/2026/10/05/a-response-to-michael-buschbacher-on-suncor-energy-v-boulder-county/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In which I reject the suggestion that my arguments do not support the respondent's position before the Supreme Court",
+   "published": "2026-10-05T14:03:01+00:00"
+  },
+  {
+   "id": "f9bbf82ccaa5",
+   "title": "Hundreds of Australians, including war veterans, are being buried in unmarked communal graves",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/poor-australians-war-veterans-buried-unmarked-graves",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Guardian Australia investigation reveals state governments use shared graves to bury those deemed too poor to pay for funerals. ‘It’s unspeakable,’ one relative says Find more from the Unmarked graves investigation here Get our breaking news email , free app or daily…",
+   "published": "2026-10-05T14:00:28+00:00"
+  },
+  {
+   "id": "be42e063cd73",
+   "title": "OpenAI must explain action taken to stop AI hacking Australians’ private data, chair of federal inquiry says",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Unions, employer groups, banks and industry experts will appear at the four-day hearings along with OpenAI, Anthropic, Microsoft and Google Get our new political email , free app or daily news podcast OpenAI must explain how they will stop their models from inappropriately…",
+   "published": "2026-10-05T14:00:27+00:00"
+  },
+  {
+   "id": "ec3daecbfbe1",
+   "title": "Australian leaders condemn pro-Palestine vigils planned for 7 October anniversary amid Jewish commemorations",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/australian-leaders-condemn-pro-palestine-vigils-planned-for-7-october-anniversary-amid-jewish-commemorations",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Peak Jewish bodies organise ceremonies on third anniversary of attacks that triggered conflict in which 74,000 Palestinians have been killed Get our breaking news email , free app or daily news podcast Jewish Australians will mark the third anniversary of the 7 October attacks…",
+   "published": "2026-10-05T14:00:27+00:00"
+  },
+  {
+   "id": "395ec36b133d",
+   "title": "IPO Strategy: Why Waiting to Invest Pays Off",
+   "link": "https://www.kiplinger.com/investing/ipos/rethinking-your-ipo-strategy",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "IPOs are exciting — that doesn't mean they're bargains, and you're usually better off tuning out the hype. Here's a checklist to help you decide when to invest.",
+   "published": "2026-10-05T14:00:00+00:00"
+  },
+  {
+   "id": "93c2b86a72e8",
+   "title": "15-year-old loses hand during French schools protest as clashes with police continue – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hundreds of schools in France remain closed amid planned demonstrations across the country The conservative People’s Party is very pleased with the announcement. “At last,” they say on their X, with a slick election video – set to the EU’s anthem “Ode to Joy” – to go along with…",
+   "published": "2026-10-05T13:58:03+00:00"
+  },
+  {
+   "id": "0d39495f8ced",
+   "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
+   "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Schneider Electric, the maker of electrical equipment that has thrived from the AI build-out, on Monday struck a $23 billion deal to buy an industrial-design software company at a bargain-basement valuation.",
+   "published": "2026-10-05T13:58:00+00:00"
+  },
+  {
+   "id": "04cae9ed2b6c",
+   "title": "Man caught with 300 tortoises and 77 parrots bound for Malta at Sicilian port",
+   "link": "https://www.theguardian.com/world/2026/oct/05/man-caught-with-tortoises-parrots-bound-malta-sicilian-port",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Italian police say Maltese citizen under investigation for smuggling after animals found packed in car A Maltese man is facing animal cruelty charges after allegedly attempting to transport 300 tortoises and 77 parrots from Sicily to Malta. The animals were found packed into a…",
+   "published": "2026-10-05T13:52:30+00:00"
+  },
+  {
+   "id": "80822e5896f7",
+   "title": "Trump’s former press secretary Karoline Leavitt to join Fox News",
+   "link": "https://www.theguardian.com/us-news/2026/oct/05/karoline-leavitt-joins-fox-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Youngest press secretary in White House history left earlier this year after the birth of her second child Karoline Leavitt, who stepped down as White House press secretary in August, is joining Fox News as an on-air contributor, according to the New York Times, citing a…",
+   "published": "2026-10-05T13:51:49+00:00"
+  },
+  {
+   "id": "cd0ab8639c7a",
+   "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+   "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Is it time to dust off the financial playbook from that dismal decade?",
+   "published": "2026-10-05T13:49:00+00:00"
+  },
+  {
+   "id": "ccd32bb2208c",
+   "title": "Samoa prime minister apologises after Nazi salute video surfaces",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/samoa-prime-minister-apologises-after-nazi-salute-video-surfaces?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Samoa PM has apologised after a video of him resurfaced, showing him leading a Nazi salute and saying ‘Heil Hitler'.",
+   "published": "2026-10-05T13:48:32+00:00"
+  },
+  {
+   "id": "8fa96876a9fe",
+   "title": "US supreme court to hear big oil’s bid to block climate damage lawsuits",
+   "link": "https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Court starts new term hearing Suncor Energy and ExxonMobil’s attempt to stop lawsuits at state level The US supreme court begins its new nine-month term hearing arguments Monday in a high-stakes case in which big oil companies are attempting to strike a fatal blow against…",
+   "published": "2026-10-05T13:34:45+00:00"
+  },
+  {
    "id": "2e8d32c98f39",
    "title": "What's Going To Happen in the Midterms?",
    "link": "https://reason.com/2026/10/05/whats-going-to-happen-in-the-midterms/",
@@ -151,17 +426,6 @@
    "published": "2026-10-05T13:30:00+00:00"
   },
   {
-   "id": "93c2b86a72e8",
-   "title": "15-year-old loses hand during French schools protest as clashes with police continue – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Hundreds of schools in France remain closed amid planned demonstrations across the country The conservative People’s Party is very pleased with the announcement. “At last,” they say on their X, with a slick election video – set to the EU’s anthem “Ode to Joy” – to go along with…",
-   "published": "2026-10-05T13:28:07+00:00"
-  },
-  {
    "id": "d0c0677e9fe0",
    "title": "Accept ‘bad things’ in return for benefits of AI, says Sam Altman",
    "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
@@ -171,28 +435,6 @@
    "flourishing_feed": false,
    "summary": "Boss of OpenAI calls for a regulatory light touch because of the ‘good stuff’ the technology can deliver Sam Altman says he believes the world should accept “bad things” happening with AI in exchange for the benefits of the technology. The chief executive of OpenAI cited hacks,…",
    "published": "2026-10-05T13:27:45+00:00"
-  },
-  {
-   "id": "ae6aa17ebe5e",
-   "title": "Trump heads to Nebraska as supreme court hears first oral arguments of new term – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President to visit Grand Island as his plan to allow more foreign beef imports proves unpopular in agriculture-rich state; court to hear argument over climate crisis Sign up for the Breaking News US email Karoline Leavitt, who stepped down as White House press secretary in…",
-   "published": "2026-10-05T13:23:02+00:00"
-  },
-  {
-   "id": "9839a201ee0c",
-   "title": "No 10 insists RAF Fairford is safe after US withdraws its bombers – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Downing Street offered more details about the redeployment of US bombers from the British airbase Yesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of water (“0% strength”) to make a point about Burnham supposedly cancelling plans for an early…",
-   "published": "2026-10-05T13:16:07+00:00"
   },
   {
    "id": "9d6d3c8e15b7",
@@ -292,6 +534,17 @@
    "flourishing_feed": false,
    "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
    "published": "2026-10-05T13:00:00+00:00"
+  },
+  {
+   "id": "e033aaa4146d",
+   "title": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
+   "link": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The father of one of the 19 young abductees tells the BBC he hasn't eaten in three days out of worry.",
+   "published": "2026-10-05T12:59:56+00:00"
   },
   {
    "id": "dfa62e9c9bc1",
@@ -413,17 +666,6 @@
    "flourishing_feed": false,
    "summary": "The vast majority of bachelor’s and graduate degree programs pass new rules meant to hold colleges accountable",
    "published": "2026-10-05T12:30:00+00:00"
-  },
-  {
-   "id": "2af20bf7eb6c",
-   "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-   "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
-   "published": "2026-10-05T12:29:45+00:00"
   },
   {
    "id": "d0e2aadbcf14",
@@ -570,13 +812,13 @@
   },
   {
    "id": "c9610113bf06",
-   "title": "Unpacking the Suncor Oral Argument",
+   "title": "Unpacking the Suncor Oral Argument: Two Upcoming Events",
    "link": "https://reason.com/volokh/2026/10/05/unpacking-the-suncor-oral-argument/",
    "source": "Reason",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Two upcoming events in which I will discuss what we learned in the opening case of the Supreme Court's term.",
+   "summary": "Upcoming events at Penn Carey Law and CWRU at which I will discuss what we learned from oral argument in the Supreme Court's first case of the term.",
    "published": "2026-10-05T11:40:02+00:00"
   },
   {
@@ -646,17 +888,6 @@
    "published": "2026-10-05T11:30:00+00:00"
   },
   {
-   "id": "eae6727020d2",
-   "title": "Musk hints TSMC may join his mega chip venture, and Intel’s stock is taking a hit",
-   "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Intel shares are taking a hit on Monday after a report that TSMC may help with Elon Musk’s Terafab factory.",
-   "published": "2026-10-05T11:27:00+00:00"
-  },
-  {
    "id": "a8f77d9383a9",
    "title": "Growing outrage in Japan after US Marine arrested in woman’s killing",
    "link": "https://www.aljazeera.com/news/2026/10/5/growing-outrage-in-japan-after-us-marine-arrested-in-womans-killing?traffic_source=rss",
@@ -702,7 +933,7 @@
   },
   {
    "id": "7003b9f521ec",
-   "title": "US abruptly withdraws bombers from UK’s RAF Fairford",
+   "title": "Video: Watch the moment US bombers leave UK airbase RAF Fairford",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/us-abruptly-withdraws-bombers-from-uks-raf-fairford?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -801,13 +1032,13 @@
   },
   {
    "id": "9808be0722d4",
-   "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, ongoing investigation finds",
+   "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, investigation finds",
    "link": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
    "source": "NPR News",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The investigation has found the attacker intended to crash the plane into Israel's Ben Gurion International Airport, a person familiar with the matter not authorized to speak publicly told NPR.",
+   "summary": "The ongoing investigation has found the attacker intended to crash the plane into Israel's Ben Gurion International Airport, a person familiar with the matter but not authorized to speak publicly told NPR.",
    "published": "2026-10-05T10:53:46+00:00"
   },
   {
@@ -1076,7 +1307,7 @@
   },
   {
    "id": "870f4c260fd5",
-   "title": "Here’s what Gen Z actually means by “socialism”",
+   "title": "Gen Z is warming to socialism. But they’re still not sure what it means.",
    "link": "https://www.vox.com/politics/504983/gen-z-voters-young-voters-socialism-midterms",
    "source": "Vox",
    "circle_hint": "national",
@@ -1161,17 +1392,6 @@
    "flourishing_feed": false,
    "summary": "Army of internationally recognised gov't claims key gains near strait before Saudi, Pakistani, Turkish officials meet.",
    "published": "2026-10-05T09:40:37+00:00"
-  },
-  {
-   "id": "0d39495f8ced",
-   "title": "This $23 billion software deal was struck at a decade-low valuation, as AI winner takes out loser",
-   "link": "https://www.marketwatch.com/story/this-23-billion-software-deal-was-struck-at-a-decade-low-valuation-as-ai-winner-takes-out-loser-aa18f477?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Schneider Electric, the maker of electrical equipment that has thrived from the AI build-out, on Monday struck a $23 billion deal to buy an industrial-design software company at a bargain-basement valuation.",
-   "published": "2026-10-05T09:39:00+00:00"
   },
   {
    "id": "a6eb37043b64",
@@ -1568,17 +1788,6 @@
    "flourishing_feed": false,
    "summary": "Notes on aid: German government pressured on WFP and Palantir, WFP’s hacked data registration app wins an award, and what’s going on at the FAO?",
    "published": "2026-10-05T07:57:44+00:00"
-  },
-  {
-   "id": "0fca6f8e82dc",
-   "title": "Spain’s PM Pedro Sánchez calls snap election after housing law fails to pass",
-   "link": "https://www.theguardian.com/world/2026/oct/05/spain-prime-minister-pedro-sanchez-snap-election-housing-crisis",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Election called after rightwing parties voted down emergency legislation aimed at tackling housing crisis Europe live – latest updates Spain’s socialist prime minister, Pedro Sánchez, has announced a snap general election three days after rightwing parties torpedoed the…",
-   "published": "2026-10-05T07:22:01+00:00"
   },
   {
    "id": "226a2eb7536a",
@@ -4340,17 +4549,6 @@
    "flourishing_feed": false,
    "summary": "Fighting in Yemen displaces more civilians, as Trump says a decision on Iran is coming.",
    "published": "2026-10-04T00:00:29+00:00"
-  },
-  {
-   "id": "cd0ab8639c7a",
-   "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
-   "link": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Is it time to dust off the financial playbook from that dismal decade?",
-   "published": "2026-10-03T23:58:00+00:00"
   },
   {
    "id": "c17766df6492",
