@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T15:34:48.922424+00:00",
+ "generated": "2026-10-05T16:33:25.386962+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 25
+   "count": 23
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,334 @@
  ],
  "items": [
   {
+   "id": "2af20bf7eb6c",
+   "title": "Teenager's hand blown off during confrontation between France school protesters and police",
+   "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
+   "published": "2026-10-05T16:32:18+00:00"
+  },
+  {
+   "id": "77e04e2e894a",
+   "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+   "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+   "published": "2026-10-05T16:31:00+00:00"
+  },
+  {
+   "id": "9839a201ee0c",
+   "title": "Tory plan to cut energy efficiency rule for builders will cost new home owners £1,000 a year, says thinktank – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A researcher at a climate change think tank says the Conservative policy would be a ‘disaster for first time buyers’ Yesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of water (“0% strength”) to make a point about Burnham supposedly cancelling plans…",
+   "published": "2026-10-05T16:29:08+00:00"
+  },
+  {
+   "id": "ae6aa17ebe5e",
+   "title": "Trump heads to Nebraska as supreme court hears first oral arguments of new term – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President to visit Grand Island as his plan to allow more foreign beef imports proves unpopular in agriculture-rich state; court to hear argument over climate crisis Sign up for the Breaking News US email As the supreme court hears oral arguments this morning, it’s worth noting…",
+   "published": "2026-10-05T16:23:13+00:00"
+  },
+  {
+   "id": "33f35f71f550",
+   "title": "Opinion: James Bond’s forgotten moral code",
+   "link": "https://www.deseret.com/opinion/2026/10/05/james-bond-moral-code/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Oct. 5 is officially known as Global James Bond Day , which marks the anniversary of the 1962 world premiere of the first 007 feature, “Dr. No.” This year, it lands alongside the 20th-anniversary return to theaters of Daniel Craig’s first outing, “Casino Royale,” and the…",
+   "published": "2026-10-05T16:18:20+00:00"
+  },
+  {
+   "id": "4a8198cfbd08",
+   "title": "Q&A: What the Spike in Treasuries Means for Real Estate Investing",
+   "link": "https://www.wealthmanagement.com/real-estate/q-a-what-the-spike-in-treasuries-means-for-real-estate-investing",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The recent increase in interest rates has gotten priced into REIT stocks, and also shone a brighter light on the persistent divergence with implied private real estate valuations.",
+   "published": "2026-10-05T16:17:14+00:00"
+  },
+  {
+   "id": "9d6d3c8e15b7",
+   "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+   "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+   "published": "2026-10-05T16:13:35+00:00"
+  },
+  {
+   "id": "4a720fafa5b1",
+   "title": "Pentagon stops using Anthropic AI tools months after blacklisting company, BBC told",
+   "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It labelled the company a \"supply chain risk\" earlier this year, but multiple sources said Anthropic's Claude model was recently widely used.",
+   "published": "2026-10-05T16:13:21+00:00"
+  },
+  {
+   "id": "3da480fa8b65",
+   "title": "Norway plans temporary ban on smart glasses in some public places",
+   "link": "https://www.theguardian.com/world/2026/oct/05/norway-temporary-ban-smart-glasses-public-places",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Camera-enabled Meta spectacles are already restricted in UK and US because of fears about covert recording Norway is planning a temporary ban on smart glasses in some public places, amid rising global concern at the spread of the AI-enabled recording devices. The Oslo…",
+   "published": "2026-10-05T16:11:31+00:00"
+  },
+  {
+   "id": "f497fa8cb363",
+   "title": "Indiana tallies $13M boost off ‘blackout’ license plate sales, invests in BMV modernization",
+   "link": "https://indianacapitalchronicle.com/2026/10/05/indiana-tallies-13m-boost-off-blackout-license-plate-sales-invests-in-bmv-modernization/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Indiana's Bureau of Motor Vehicles has sold more than 380,000 \"blackout\" license plates in the year since the minimalist design launched.",
+   "published": "2026-10-05T16:09:08+00:00"
+  },
+  {
+   "id": "6c60b97c0ef3",
+   "title": "Glasgow city council reaches pay deal with union to avert fire-and-rehire plan",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/05/glasgow-city-council-reaches-pay-deal-with-union-to-avert-fire-and-rehire-plan",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "‘Strong and fair’ proposal to be taken to members’ ballot after previous offer led Unison to walk out of negotiations Glasgow city council has reached an agreement with the trade union Unison over pay and grading, averting one of the UK’s biggest ever fire-and-rehire exercises.…",
+   "published": "2026-10-05T16:08:14+00:00"
+  },
+  {
+   "id": "2d08123619b4",
+   "title": "Saudi Aramco’s CEO may be too downbeat about the road to restocking global oil supplies",
+   "link": "https://www.marketwatch.com/story/saudi-aramcos-ceo-may-be-too-downbeat-about-the-road-to-restocking-global-oil-supplies-1fdbb70b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Some see record oil production and more alternative routes for delivery once the Strait of Hormuz fully opens.",
+   "published": "2026-10-05T16:08:00+00:00"
+  },
+  {
+   "id": "efd3ea1f7974",
+   "title": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
+   "link": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Progressive voters and supporters of incumbent president Luiz Inácio Lula da Silva left reeling after far-right surge Flávio Bolsonaro is in pole position to win Brazil’s presidential election, after a far-right tsunami propelled him to a shock first-round victory over the…",
+   "published": "2026-10-05T16:05:20+00:00"
+  },
+  {
+   "id": "cbe3010171ef",
+   "title": "What Bolsonaro vs. Lula says about democracy in Brazil",
+   "link": "https://www.csmonitor.com/World/Americas/2026/1005/brazil-president-election-lula-bolsonaro?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Luiz Inácio Lula da Silva and Sen. Flávio Bolsonaro head to a runoff vote in Brazil’s presidential election.",
+   "published": "2026-10-05T16:04:51+00:00"
+  },
+  {
+   "id": "25feb7e54754",
+   "title": "Republican Ken Paxton admits forces in DC control his Texas Senate campaign",
+   "link": "https://www.theguardian.com/us-news/2026/oct/05/ken-paxton-texas-senate-campaign-control",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "‘I don’t control message or what we’re doing,’ scandal- hit state attorney general reportedly says at private event Ken Paxton, the Texas attorney general chosen by Donald Trump to run as the Republican candidate for a Senate seat, admitted in private that his campaign was…",
+   "published": "2026-10-05T16:01:45+00:00"
+  },
+  {
+   "id": "9f86f93e3609",
+   "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+   "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
+   "published": "2026-10-05T16:00:00+00:00"
+  },
+  {
    "id": "93c2b86a72e8",
-   "title": "Nearly 200 students injured in French schools protests as clashes with police continue – Europe live",
+   "title": "Nearly 200 students injured in French schools protests as clashes with police continue – as it happened",
    "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Hundreds of schools in France remain closed amid planned demonstrations across the country The conservative People’s Party is very pleased with the announcement. “At last,” they say on their X, with a slick election video – set to the EU’s anthem “Ode to Joy” – to go along with…",
-   "published": "2026-10-05T15:24:29+00:00"
+   "published": "2026-10-05T15:59:30+00:00"
+  },
+  {
+   "id": "a5865119d807",
+   "title": "Green party drops longstanding opposition to nuclear power",
+   "link": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Party in England and Wales ditches commitment to phase out nuclear in major shift in its energy policy Green party members have voted to end the party’s opposition to nuclear power, dropping a commitment to phase out the technology in a major shift in its energy policy. The…",
+   "published": "2026-10-05T15:53:49+00:00"
+  },
+  {
+   "id": "0391598f0dd8",
+   "title": "France braces for national day of school protests as boy loses hand",
+   "link": "https://www.theguardian.com/world/2026/oct/05/schoolboy-loses-hand-police-stun-grenade-french-school-protests",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thousands expected to join marches of support on Tuesday across the country amid growing concerns over police response Europe live – latest updates France is bracing for a national day of protests and high-school blockades as a youth protest movement gathers pace amid a growing…",
+   "published": "2026-10-05T15:50:50+00:00"
+  },
+  {
+   "id": "689f4304da58",
+   "title": "‘Gilmore Girls’ premiered 26 years ago. Here are 10 of the best episodes",
+   "link": "https://www.deseret.com/entertainment/2020/10/6/21502996/gilmore-girls-20th-anniversary-best-episodes-lorelai-rory-luke/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "“Gilmore Girls” premiered 20 years ago, pulling fans into the unique world of Stars Hollow.",
+   "published": "2026-10-05T15:50:48+00:00"
+  },
+  {
+   "id": "64f8002b9759",
+   "title": "Are Your Clients Raising Heirs or Passengers?",
+   "link": "https://www.wealthmanagement.com/high-net-worth/are-your-clients-raising-heirs-or-passengers-",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The next generation may need less help and more practice.",
+   "published": "2026-10-05T15:50:44+00:00"
+  },
+  {
+   "id": "fa45ac0117b0",
+   "title": "Bosnia and Herzegovina elections: Return to a nationalist political order?",
+   "link": "https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Results raise the prospect of a new conservative alliance and further political polarisation, analysts say.",
+   "published": "2026-10-05T15:47:40+00:00"
+  },
+  {
+   "id": "8e1a38adab44",
+   "title": "LIVE: France vs Belgium – UEFA Nations League",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/5/live-france-vs-belgium-uefa-nations-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Build-up. teams and live text commentary stream of France's Nations League Group A1 game against Belgium in Paris",
+   "published": "2026-10-05T15:47:00+00:00"
+  },
+  {
+   "id": "fefb48fc7298",
+   "title": "Why did the US withdraw bombers from RAF Fairford? – The Latest",
+   "link": "https://www.theguardian.com/news/audio/2026/oct/05/why-did-us-withdraw-bombers-from-raf-fairford-the-latest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US withdrew its bombers from RAF Fairford after an investigation into an alleged planned terrorist attack on the base. At least 10 B-1 bombers used by the US military in the Iran conflict flew out of Fairford on Sunday, suggesting US officials were taking the threat…",
+   "published": "2026-10-05T15:45:46+00:00"
+  },
+  {
+   "id": "59c9104bd8c6",
+   "title": "SpaceX’s stock could actually be a bargain, according to this metric",
+   "link": "https://www.marketwatch.com/story/spacexs-stock-could-actually-be-a-bargain-according-to-this-metric-ac3ddf45?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The stock is expensive when valued solely by operating profit, but SpaceX is cheaper than Meta and Alphabet when you bring growth into the mix.",
+   "published": "2026-10-05T15:45:00+00:00"
+  },
+  {
+   "id": "fa0ac25fdc30",
+   "title": "Latter-day Saint general conference sets new speaker records",
+   "link": "https://www.deseret.com/faith/2026/10/05/april-2026-general-conference-set-new-speaker-records/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This article is an excerpt from the weekly ChurchBeat newsletter . Sign up to receive the newsletter in your inbox each Wednesday night. Last April was the first time a Latter-day Saint general conference was held with just four sessions. When it ended, ChurchBeat noted a…",
+   "published": "2026-10-05T15:44:27+00:00"
+  },
+  {
+   "id": "0a8c3f2a1c61",
+   "title": "US closely monitoring case of lab worker who ‘possibly’ died of plague in Siberia, says Rubio",
+   "link": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Quarantine measures in place in several hospitals in eastern Russia amid uncertainty over death of Darya Shipilova The US secretary of state, Marco Rubio, has said the US is closely monitoring the case of a Russian laboratory worker who died last week after a reported accident…",
+   "published": "2026-10-05T15:36:37+00:00"
+  },
+  {
+   "id": "69df1cab50f4",
+   "title": "Nigeria launches rescue after military plane crashes with 32 aboard",
+   "link": "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Nigeria launches rescue operation after military aircraft carrying 32 people crashes in Ondo state.",
+   "published": "2026-10-05T15:30:15+00:00"
+  },
+  {
+   "id": "5e9d33e4a934",
+   "title": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
+   "link": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Yemeni government forces claim strategic advances near Bab al-Mandeb strait amid a major anti-Houthi offensive.",
+   "published": "2026-10-05T15:29:04+00:00"
+  },
+  {
+   "id": "7ee95642ad53",
+   "title": "What happened between Ireland and Israel in their Nations League match?",
+   "link": "https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Spitting allegations, no handshakes, and bowed heads headlined the second Nations League fixture.",
+   "published": "2026-10-05T15:28:16+00:00"
   },
   {
    "id": "1ff1d9dced2f",
@@ -151,8 +470,19 @@
    "published": "2026-10-05T15:24:29+00:00"
   },
   {
+   "id": "427c7f1263c1",
+   "title": "A drive through the West Bank",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/a-drive-through-the-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Palestinians in the occupied West Bank are left asking world leaders: where exactly is our state meant to go?",
+   "published": "2026-10-05T15:22:10+00:00"
+  },
+  {
    "id": "99de142edf7c",
-   "title": "Yemen air campaign against Houthis under way, says Saudi-led coalition",
+   "title": "Air campaign against Houthis under way in Yemen, says Saudi-led coalition",
    "link": "https://www.theguardian.com/world/2026/oct/05/yemen-air-campaign-houthis-saudi-led-coalition",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -160,17 +490,6 @@
    "flourishing_feed": false,
    "summary": "Operation supported by 100 fighter jets said to have secured ‘air protection’ of Bab al-Mandab strait and destroyed hundreds of targets Leaders of a Saudi-led coalition in Yemen claimed a broad air campaign involving 100 jet aircraft was under way on Monday against the…",
    "published": "2026-10-05T15:21:54+00:00"
-  },
-  {
-   "id": "0a8c3f2a1c61",
-   "title": "US closely monitoring case of lab worker who ‘possibly’ died of plague in Siberia, says Rubio",
-   "link": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Quarantine measures in place in several hospitals in eastern Russia amid uncertainty over death of Darya Shipilova The US secretary of state, Marco Rubio, has said the US is closely monitoring the case of a Russian laboratory worker who died last week after a reported accident…",
-   "published": "2026-10-05T15:19:54+00:00"
   },
   {
    "id": "60476d0129fb",
@@ -191,19 +510,8 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Family of Virginia Giuffre criticizes Colorado’s Jeff Crank for voting to block a vote to release the Epstein files Two relatives of Virginia Giuffre, one of the most prominent Jeffrey Epstein victims who died last year, appeared in a political attack ad targeting Colorado…",
+   "summary": "Family of Virginia Giuffre criticizes Colorado’s Jeff Crank for voting to block a vote to release the Epstein files Two relatives of Virginia Giuffre, one of the most prominent Jeffrey Epstein victims who died last year, appeared in a political attack ad targeting the Colorado…",
    "published": "2026-10-05T15:18:23+00:00"
-  },
-  {
-   "id": "ae6aa17ebe5e",
-   "title": "Trump heads to Nebraska as supreme court hears first oral arguments of new term – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President to visit Grand Island as his plan to allow more foreign beef imports proves unpopular in agriculture-rich state; court to hear argument over climate crisis Sign up for the Breaking News US email As the supreme court hears oral arguments this morning, it’s worth noting…",
-   "published": "2026-10-05T15:18:17+00:00"
   },
   {
    "id": "fe13e899d716",
@@ -226,17 +534,6 @@
    "flourishing_feed": false,
    "summary": "Algorithms and short-form video drove engagement. They also made it easier to quit.",
    "published": "2026-10-05T15:15:20+00:00"
-  },
-  {
-   "id": "9839a201ee0c",
-   "title": "Shadow chancellor Andrew Griffith says Tories imposed too much regulation when they were in power – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "He said the Conservatives did did too much to restrict economic freedom when in power Yesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of water (“0% strength”) to make a point about Burnham supposedly cancelling plans for an early election under…",
-   "published": "2026-10-05T15:14:30+00:00"
   },
   {
    "id": "80822e5896f7",
@@ -402,17 +699,6 @@
    "flourishing_feed": false,
    "summary": "Our healthcare system is designed to diagnose the presence or absence of disease, one organ at a time. That means people have no baseline against which to make broader lifestyle decisions.",
    "published": "2026-10-05T14:35:00+00:00"
-  },
-  {
-   "id": "2af20bf7eb6c",
-   "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-   "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
-   "published": "2026-10-05T14:30:31+00:00"
   },
   {
    "id": "a40611be07cb",
@@ -668,17 +954,6 @@
    "published": "2026-10-05T13:27:45+00:00"
   },
   {
-   "id": "9d6d3c8e15b7",
-   "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-   "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-   "published": "2026-10-05T13:16:00+00:00"
-  },
-  {
    "id": "f65007120df8",
    "title": "Obstacles Facing Convergence of Wealth and Retirement at Work",
    "link": "https://www.wealthmanagement.com/rpa-news/obstacles-facing-convergence-of-wealth-and-retirement-at-work",
@@ -753,17 +1028,6 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "There are 1,001 reasons Donald Trump should be hauled off to jail.",
-   "published": "2026-10-05T13:00:00+00:00"
-  },
-  {
-   "id": "9f86f93e3609",
-   "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
-   "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
    "published": "2026-10-05T13:00:00+00:00"
   },
   {
@@ -908,17 +1172,6 @@
    "flourishing_feed": false,
    "summary": "Ukrainians are turning to weeds for sustenance in a town where bodies are reportedly eaten by feral dogs.",
    "published": "2026-10-05T12:26:40+00:00"
-  },
-  {
-   "id": "0391598f0dd8",
-   "title": "Schoolboy, 15, loses hand after picking up police stun grenade during French school protests",
-   "link": "https://www.theguardian.com/world/2026/oct/05/schoolboy-loses-hand-police-stun-grenade-french-school-protests",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "PM orders ministers to tackle students’ five major demands, including organising replacement teachers and school repairs Europe live – latest updates Hundreds of schools in France remained fully or partly closed on Monday as teenagers continued to blockade buildings and the…",
-   "published": "2026-10-05T12:25:45+00:00"
   },
   {
    "id": "3e59ae428733",
@@ -1128,17 +1381,6 @@
    "flourishing_feed": false,
    "summary": "France’s Cac 40 index slides as announcement of snap election in Spain also helps fuel eurozone uncertainty Business live – latest updates The euro has slumped to the lowest level against the dollar in 17 months amid growing concern France’s debt position could threaten the…",
    "published": "2026-10-05T11:18:20+00:00"
-  },
-  {
-   "id": "77e04e2e894a",
-   "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-   "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-   "published": "2026-10-05T11:15:00+00:00"
   },
   {
    "id": "b3233397741c",
