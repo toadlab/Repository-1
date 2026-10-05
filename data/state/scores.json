@@ -51070,5 +51070,53 @@
   "decision": "exclude",
   "exclusion": "did not clear the national bar",
   "persistent": false
+ },
+ "c236fab516ac": {
+  "story_key": "utah-jazz-beat-denver-nuggets",
+  "durability": 4,
+  "circle": "national",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 8.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the national bar",
+  "persistent": false
+ },
+ "63650ab83695": {
+  "story_key": "alito-hints-dobbs-knew-member",
+  "durability": 4,
+  "circle": "national",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 8.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the national bar",
+  "persistent": false
+ },
+ "a3d5a9de4047": {
+  "story_key": "spitting-allegations-ireland-israel-fight",
+  "durability": 4,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
  }
 }
