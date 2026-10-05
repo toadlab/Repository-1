@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T17:30:43.567413+00:00",
+ "generated": "2026-10-05T18:37:24.718895+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,6 +129,292 @@
  ],
  "items": [
   {
+   "id": "975316babfb4",
+   "title": "H.R. 9721, Fiscal Sponsorship Transparency Act of 2026",
+   "link": "https://www.cbo.gov/publication/62834",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As ordered reported by the House Committee on Ways and Means on July 22, 2026",
+   "published": "2026-10-05T18:31:00+00:00"
+  },
+  {
+   "id": "f7725c03bfdd",
+   "title": "S. 4097, State-Based Education Loan Awareness Act",
+   "link": "https://www.cbo.gov/publication/62833",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As reported by the Senate Committee on Health, Education, Labor and Pensions on August 4, 2026",
+   "published": "2026-10-05T18:30:00+00:00"
+  },
+  {
+   "id": "26389e5a7e49",
+   "title": "LJ Martin and Isaiah Glasker are ‘doubtful’ to play against Iowa State, per Kalani Sitake",
+   "link": "https://www.deseret.com/sports/2026/10/05/byu-football-injury-updates-kalani-sitake-lj-martin-isaiah-glasker-cannon-devries/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "BYU may be without its most impactful offensive player this week. After leaving this past weekend’s game at TCU early with an injury, running back LJ Martin is “doubtful” to play against Iowa State on Friday, according to Cougars head coach Kalani Sitake. Additionally, Sitake…",
+   "published": "2026-10-05T18:29:57+00:00"
+  },
+  {
+   "id": "ae6aa17ebe5e",
+   "title": "Trump heads to Nebraska as supreme court hears first oral arguments of new term – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President to visit Grand Island as his plan to allow more foreign beef imports proves unpopular in agriculture-rich state; court to hear argument over climate crisis Sign up for the Breaking News US email Send us your questions about how the Iran war will affect US voters in…",
+   "published": "2026-10-05T18:28:45+00:00"
+  },
+  {
+   "id": "d91202be1dd6",
+   "title": "The iconic Arthur Read made his TV debut 30 years ago",
+   "link": "https://www.npr.org/2026/10/05/g-s1-146052/arthur-read-tv-debut-30-anniversary",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The animated series \"Arthur\" premiered on PBS Kids on Oct. 7, 1996.",
+   "published": "2026-10-05T18:26:01+00:00"
+  },
+  {
+   "id": "7052ca502e83",
+   "title": "What is ‘Herod’s Pool’, and why is Israel developing it in the West Bank?",
+   "link": "https://www.aljazeera.com/news/2026/10/5/what-is-herods-pool-and-why-is-israel-developing-it-in-the-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israel is developing a reservoir on land in the occupied West Bank, with water syphoned off from Palestinians.",
+   "published": "2026-10-05T18:24:06+00:00"
+  },
+  {
+   "id": "17207c77bea6",
+   "title": "Florida high schooler and one other killed in school bus rollover crash",
+   "link": "https://www.theguardian.com/us-news/2026/oct/05/deaths-school-bus-rollover-crash-florida",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Authorities say crash in Winter Haven involved three vehicles, including bus filled with dozens of high schoolers A high school student and one other person were killed in a crash that caused a school bus to flip over on to its roof in central Florida early on Monday, according…",
+   "published": "2026-10-05T18:19:40+00:00"
+  },
+  {
+   "id": "cfcd850ea183",
+   "title": "Deseret News archives: President Truman gave first ever televised address from the White House",
+   "link": "https://www.deseret.com/utah/2024/10/05/deseret-news-archives-president-truman-gives-first-white-house-tv-address/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Editor’s note: This story was originally published on Oct. 5, 2024. A look back at local, national and world events through Deseret News archives. On Oct. 5, 1947, in the first ever televised White House address, President Harry S. Truman asked Americans to refrain from eating…",
+   "published": "2026-10-05T18:14:48+00:00"
+  },
+  {
+   "id": "eb637d1a7d44",
+   "title": "No 10 insists RAF Fairford is safe after US withdraws its bombers from base",
+   "link": "https://www.theguardian.com/us-news/2026/oct/05/no-10-says-raf-fairford-safe-us-withdraws-bombers-from-base",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A dozen B-1s stationed at Gloucestershire base redeployed over concerns about possible threat from Iran Downing Street has insisted RAF Fairford is secure a day after the US air force suddenly withdrew a dozen B-1 bombers that had been stationed at the Gloucestershire base over…",
+   "published": "2026-10-05T18:07:27+00:00"
+  },
+  {
+   "id": "b72c3ec03c77",
+   "title": "Low water levels, high demand force a reckoning for the Colorado River",
+   "link": "https://www.csmonitor.com/Environment/2026/1005/colorado-river-water-shortage?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lake Powell and the Colorado River are facing historically low water levels, threatening the supply for millions of people as authorities search for solutions.",
+   "published": "2026-10-05T18:07:19+00:00"
+  },
+  {
+   "id": "9f8f3a3a2c24",
+   "title": "Flydubai co-pilot originally planned attack for July, investigators believe",
+   "link": "https://www.theguardian.com/world/2026/oct/05/flydubai-co-pilot-originally-planned-attack-for-july-investigators-believe",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police and security agencies in multiple countries scramble to piece together background and intentions of Hamam al-Hammami Investigators believe that the co-pilot who tried to take control of a plane from Dubai to Tel Aviv last week originally planned his attack for July but…",
+   "published": "2026-10-05T18:00:47+00:00"
+  },
+  {
+   "id": "659de7b3fa02",
+   "title": "Whistleblower Francis Haugen Trashes Facebook's Flawed Fact-Checkers",
+   "link": "https://reason.com/podcast/2026/10/05/whistleblower-francis-haugen-trashes-facebooks-flawed-fact-checkers/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Frances Haugen, the woman whose Facebook revelations inspired The Social Reckoning, argues that the real danger of social media isn’t bad speech—it’s the way the platforms are designed.",
+   "published": "2026-10-05T18:00:15+00:00"
+  },
+  {
+   "id": "80a27451b162",
+   "title": "This NBA player from Utah was asked about basketball, then the questions changed to church missions. Here’s what he said",
+   "link": "https://www.deseret.com/sports/2026/10/05/branden-carlson-talks-church-missions-portland-trail-blazers/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Branden Carlson is a newcomer to the NBA’s Portland Trail Blazers this season, having played his first two seasons in the league with the Oklahoma City Thunder. Last week, Carlson was interviewed scrum style after a Blazers training camp practice and was initially asked…",
+   "published": "2026-10-05T18:00:00+00:00"
+  },
+  {
+   "id": "8538d5c59743",
+   "title": "Treasury Duration Supply and Term Premiums: Working Paper 2026-11",
+   "link": "https://www.cbo.gov/publication/62759",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In this working paper, the effect of Treasury duration supply on term premiums is estimated by using a dynamic term structure model.",
+   "published": "2026-10-05T18:00:00+00:00"
+  },
+  {
+   "id": "ef4aa2a477e9",
+   "title": "My New Lawfare Article on Why \"The President Doesn't Have Unlimited Power to Impose Import Bans\"",
+   "link": "https://reason.com/volokh/2026/10/05/my-new-lawfare-article-on-why-the-president-doesnt-have-unlimited-power-to-impose-import-bans/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Many of the same constitutional and other constraints apply as with tariffs.",
+   "published": "2026-10-05T17:54:39+00:00"
+  },
+  {
+   "id": "2d08123619b4",
+   "title": "Saudi Aramco’s CEO may be too downbeat about the road to restocking global oil supplies",
+   "link": "https://www.marketwatch.com/story/saudi-aramcos-ceo-may-be-too-downbeat-about-the-road-to-restocking-global-oil-supplies-1fdbb70b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Some see record oil production and more alternative routes for delivery once the Strait of Hormuz fully opens.",
+   "published": "2026-10-05T17:54:00+00:00"
+  },
+  {
+   "id": "cbb0c9677017",
+   "title": "UK threatens to expel Israeli diplomats over planned East Jerusalem consulate closure",
+   "link": "https://www.theguardian.com/world/2026/oct/05/uk-threatens-to-expel-israeli-diplomats-after-closing-of-east-jerusalem-consulate",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tit-for-tat expulsions expected after relations deteriorate as a result of UK ban on goods from illegal settlements The UK has threatened to expel one Israeli diplomat for every British diplomat forced to leave Israel as a result of Israel’s decision to close the UK consulate…",
+   "published": "2026-10-05T17:53:46+00:00"
+  },
+  {
+   "id": "d5863d18f5d5",
+   "title": "AI chatbots recommend shopping at Walmart over just about anywhere else, analysts find",
+   "link": "https://www.marketwatch.com/story/ai-chatbots-recommend-shopping-at-walmart-over-just-about-anywhere-else-analysts-find-9483b266?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The next retail battleground could be AI recommendation engines, according to UBS.",
+   "published": "2026-10-05T17:53:00+00:00"
+  },
+  {
+   "id": "5489ba9137f9",
+   "title": "Jesus Christ can deepen peace inside and around us, Latter-day Saint leaders say",
+   "link": "https://www.deseret.com/faith/2026/10/05/peace-passing-understanding/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A two-year-old looking for her recently deceased father at her birthday party. Parents burying an infant son. And friendships estranged by anger and misunderstanding. Even amid difficult personal experiences shared at this weekend’s 196th Semiannual General Conference of The…",
+   "published": "2026-10-05T17:50:52+00:00"
+  },
+  {
+   "id": "706223b9e331",
+   "title": "What you need to know about the bail amendment on your ballot",
+   "link": "https://mirrorindy.org/what-you-need-to-know-about-the-bail-amendment-on-your-ballot/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "If passed, the constitutional amendment would allow judges to deny bail to any defendant if the state proves they cannot be safely released. The post What you need to know about the bail amendment on your ballot appeared first on Mirror Indy .",
+   "published": "2026-10-05T17:50:39+00:00"
+  },
+  {
+   "id": "ea812963d204",
+   "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
+   "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi-backed forces say they seized the port city of Mocha, near the Bab al-Mandab Strait, at the start of an offensive against the Houthis.",
+   "published": "2026-10-05T17:49:59+00:00"
+  },
+  {
+   "id": "0fefb9c896bf",
+   "title": "God can change any heart, starting with our own, Latter-day Saint leaders teach",
+   "link": "https://www.deseret.com/faith/2026/10/05/tasting-the-love-of-god/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "During the 196th Semiannual General Conference of The Church of Jesus Christ of Latter-day Saints, President Dallin H. Oaks testified about the reality of God the Father, before declaring: “Jesus Christ is His Only Begotten Son, Jehovah, God of Israel, the Messiah, “ the God of…",
+   "published": "2026-10-05T17:49:56+00:00"
+  },
+  {
+   "id": "3d54cbeffefa",
+   "title": "Ask Jeeves",
+   "link": "https://reason.com/volokh/2026/10/05/ask-jeeves/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "How would The Butler vote?",
+   "published": "2026-10-05T17:46:54+00:00"
+  },
+  {
+   "id": "0a0792bedda9",
+   "title": "Rubio: No direct link between US bombers removal and UK base incident",
+   "link": "https://www.aljazeera.com/news/2026/10/5/rubio-no-direct-link-between-us-bombers-removal-and-uk-base-incident?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rubio visits Iceland, says no direct link between the removal of US bombers and suspicions of a terrorist act in the UK",
+   "published": "2026-10-05T17:34:15+00:00"
+  },
+  {
+   "id": "d2e96f6e9895",
+   "title": "Western Digital and Seagate shares bounce back as analysts downplay the Toshiba threat",
+   "link": "https://www.marketwatch.com/story/western-digital-and-seagate-shares-bounce-back-as-analysts-downplay-the-toshiba-threat-4979dbff?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Even if Toshiba doubles its capacity, analysts say it has a ways to go to catch up with Western Digital and Seagate",
+   "published": "2026-10-05T17:34:00+00:00"
+  },
+  {
+   "id": "77c25d4cef04",
+   "title": "Plague suspected in Russian lab worker death. What happens next?",
+   "link": "https://www.deseret.com/lifestyle/2026/10/05/russian-lab-plague-worker-dies-unknown-infection/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Roughly 200 people are under observation in Russia’s Irkutsk region in eastern Siberia after a laboratory worker died of what’s suspected to be plague, which was being handled in the lab where she worked. According to The Moscow Times , “Alexei Tsydenov, head of the neighboring…",
+   "published": "2026-10-05T17:33:03+00:00"
+  },
+  {
    "id": "0a9153535120",
    "title": "Spain calls snap election amid housing crisis",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss",
@@ -207,7 +493,7 @@
   },
   {
    "id": "9839a201ee0c",
-   "title": "Tory plan to cut energy efficiency rule for builders will cost new home owners £1,000 a year, says thinktank – UK politics live",
+   "title": "Tory plan to cut energy efficiency rule for builders will cost new home owners £1,000 a year, says thinktank – as it happened",
    "link": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -226,17 +512,6 @@
    "flourishing_feed": false,
    "summary": "Israeli Prime Minister Benjamin Netanyahu has given voters an election ultimatum: Vote for him or vote for Palestine.",
    "published": "2026-10-05T17:05:46+00:00"
-  },
-  {
-   "id": "ae6aa17ebe5e",
-   "title": "Trump heads to Nebraska as supreme court hears first oral arguments of new term – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President to visit Grand Island as his plan to allow more foreign beef imports proves unpopular in agriculture-rich state; court to hear argument over climate crisis Sign up for the Breaking News US email Send us your questions about how the Iran war will affect US voters in…",
-   "published": "2026-10-05T17:03:22+00:00"
   },
   {
    "id": "050f17ca1632",
@@ -448,17 +723,6 @@
    "published": "2026-10-05T16:08:14+00:00"
   },
   {
-   "id": "2d08123619b4",
-   "title": "Saudi Aramco’s CEO may be too downbeat about the road to restocking global oil supplies",
-   "link": "https://www.marketwatch.com/story/saudi-aramcos-ceo-may-be-too-downbeat-about-the-road-to-restocking-global-oil-supplies-1fdbb70b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Some see record oil production and more alternative routes for delivery once the Strait of Hormuz fully opens.",
-   "published": "2026-10-05T16:08:00+00:00"
-  },
-  {
    "id": "efd3ea1f7974",
    "title": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
    "link": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
@@ -570,7 +834,7 @@
   },
   {
    "id": "fa45ac0117b0",
-   "title": "Bosnia and Herzegovina elections: Return to a nationalist political order?",
+   "title": "‘Trend reached us’: Nationalists gain ground in Bosnia and Herzegovina",
    "link": "https://www.aljazeera.com/news/2026/10/5/nationalist-conservative-parties-enjoy-a-boost-in-bosnia-and-herzegovina?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -877,17 +1141,6 @@
    "published": "2026-10-05T14:38:00+00:00"
   },
   {
-   "id": "ea812963d204",
-   "title": "Yemeni government forces say they have 'secured' Bab al-Mandab Strait",
-   "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Houthi-run media deny the government has made advances in the Dhubab area, which overlooks the strategic Red Sea waterway.",
-   "published": "2026-10-05T14:37:17+00:00"
-  },
-  {
    "id": "6702ab96df3d",
    "title": "Murder in Okinawa: The US military’s history of alleged crime in Japan",
    "link": "https://www.aljazeera.com/news/2026/10/5/murder-in-okinawa-the-us-militarys-history-of-alleged-crime-in-japan?traffic_source=rss",
@@ -1174,17 +1427,6 @@
    "published": "2026-10-05T13:15:05+00:00"
   },
   {
-   "id": "eb637d1a7d44",
-   "title": "No 10 insists RAF Fairford is safe after US withdraws its bombers from base",
-   "link": "https://www.theguardian.com/us-news/2026/oct/05/no-10-says-raf-fairford-safe-us-withdraws-bombers-from-base",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "A dozen B-1 bombers stationed at Gloucestershire base were redeployed to US on Sunday amid concerns over possible threat from Iran Downing Street has insisted RAF Fairford is secure a day after the US air force suddenly withdrew a dozen B-1 bombers that had been stationed at…",
-   "published": "2026-10-05T13:14:45+00:00"
-  },
-  {
    "id": "a216149802f8",
    "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
    "link": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz?traffic_source=rss",
@@ -1373,13 +1615,13 @@
   },
   {
    "id": "3e59ae428733",
-   "title": "Students continue to protest in France as hundreds of schools close",
+   "title": "Teenager loses hand in blast amid French school protest clashes",
    "link": "https://www.aljazeera.com/news/2026/10/5/students-continue-to-protest-in-france-as-hundreds-of-schools-close?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Education Minister Edouard Geffray said on Sunday about 500 schools likely to be fully or partially closed on Monday.",
+   "summary": "Police watchdog probes Lens blast as nationwide protests over teacher shortages and school conditions enter a third week",
    "published": "2026-10-05T12:25:26+00:00"
   },
   {
