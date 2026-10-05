@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T03:33:25.198145+00:00",
+ "generated": "2026-10-05T04:34:08.126906+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 25
+   "count": 23
   },
   {
    "name": "Congressional Budget Office",
@@ -129,6 +129,94 @@
  ],
  "items": [
   {
+   "id": "7312c973d5b6",
+   "title": "Russian lab worker dies of suspected plague in Siberia; US monitoring case",
+   "link": "https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A Russian agency links the lab worker's death to 'pneumonia of unknown' origin.",
+   "published": "2026-10-05T04:07:51+00:00"
+  },
+  {
+   "id": "76d0876ef12c",
+   "title": "Former Bachelor star Sam Wood charged with domestic violence",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/05/sam-wood-charged-domestic-violence-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police arrested 46-year-old in Noosa and charged him with assault occasioning bodily harm and strangulation in a domestic setting Get our breaking news email , free app or daily news podcast The fitness influencer and reality TV star Sam Wood has been charged in Queensland with…",
+   "published": "2026-10-05T04:06:47+00:00"
+  },
+  {
+   "id": "d63248e8b720",
+   "title": "Skull fractures suggest servants of Egypt’s ancient kings were sacrificed",
+   "link": "https://www.theguardian.com/science/2026/oct/05/skull-fractures-suggest-servants-of-egypts-ancient-kings-were-sacrificed",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Study of remains taken from royal cemetery at Umm el-Qa’ab appears to confirm early Egyptologist’s theory Court officials and craftspeople serving early Egyptian kings may have been sacrificed when their ruler died, according to research that found fractures in several ancient…",
+   "published": "2026-10-05T04:00:48+00:00"
+  },
+  {
+   "id": "b55da95b67bf",
+   "title": "Ball in UK’s court: EU ambassador says Brussels will be ‘ready to engage‘ after country decides what it wants",
+   "link": "https://www.theguardian.com/politics/2026/oct/05/eu-ambassador-uk-interview",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jukka Salovaara, who served in London during Cool Britannia era, will be ‘very close’ to negotiations as Burnham government resets relations with EU Jukka Salovaara, the newly installed European Union ambassador to the UK, is likely to become a ubiquitous figure in national…",
+   "published": "2026-10-05T04:00:48+00:00"
+  },
+  {
+   "id": "8ee172c38da3",
+   "title": "Exiled separatist leader is likely to return to a very different Catalonia",
+   "link": "https://www.theguardian.com/world/2026/oct/05/exiled-separatist-leader-carles-puigdemont-return-catalonia",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Nine years on from a failed independence push, former president Carles Puigdemont will find times have changed After years of legal wrangling, Spain’s constitutional court is expected to remove the last obstacle to the return of the former Catalan president Carles Puigdemont…",
+   "published": "2026-10-05T04:00:47+00:00"
+  },
+  {
+   "id": "e4c9253e1730",
+   "title": "British government ‘complacent about food as a national security matter’",
+   "link": "https://www.theguardian.com/business/2026/oct/05/british-government-food-national-security-crisis-shortages",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Experts say country does not have plan to feed people in a crisis and is unprepared for future shortages Britain does not have a plan for how to feed people in a crisis and is unprepared for potential future food shortages, according to a warning from more than 150 experts…",
+   "published": "2026-10-05T04:00:47+00:00"
+  },
+  {
+   "id": "62645dfd8f33",
+   "title": "Singapore turns matchmaker amid rock-bottom birthrate",
+   "link": "https://www.aljazeera.com/economy/2026/10/5/singapore-turns-matchmaker-amid-rock-bottom-birthrate?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "City-state launches dating platform for government workers, drawing curiosity, amusement and scorn.",
+   "published": "2026-10-05T03:48:17+00:00"
+  },
+  {
+   "id": "f793dbed8215",
+   "title": "Bosnian Serb nationalist claims party victory in Bosnia elections",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/bosnian-serb-nationalist-claims-party-victory-in-bosnia-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bosnian Serb nationalist Milorad Dodik claimed victory for his party in Bosnia’s elections.",
+   "published": "2026-10-05T03:36:13+00:00"
+  },
+  {
    "id": "c236fab516ac",
    "title": "Utah Jazz beat Denver Nuggets in preseason opener",
    "link": "https://www.deseret.com/sports/2026/10/04/utah-jazz-beat-denver-nuggets-in-nba-preseason/",
@@ -140,15 +228,15 @@
    "published": "2026-10-05T03:26:44+00:00"
   },
   {
-   "id": "76d0876ef12c",
-   "title": "Former Bachelor star Sam Wood charged with domestic violence",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/05/sam-wood-charged-domestic-violence-ntwnfb",
-   "source": "The Guardian World",
+   "id": "db2ec32ff3ad",
+   "title": "US coastguard suspends search for six on board crashed medical jet",
+   "link": "https://www.aljazeera.com/news/2026/10/5/us-coastguard-suspends-search-for-six-on-board-crashed-medical-jet?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Police arrested 46-year-old in Noosa and charged him with assault occasioning bodily harm and strangulation in a domestic setting The fitness influencer and reality TV star Sam Wood has been charged in Queensland with domestic violence offences. The personal trainer and star of…",
-   "published": "2026-10-05T03:17:31+00:00"
+   "summary": "Debris found off Nantucket island after the air ambulance disappeared while flying from Bermuda to Boston.",
+   "published": "2026-10-05T03:22:32+00:00"
   },
   {
    "id": "85ac007f42df",
@@ -160,6 +248,17 @@
    "flourishing_feed": false,
    "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
    "published": "2026-10-05T03:16:16+00:00"
+  },
+  {
+   "id": "e4c5ec6e1cbf",
+   "title": "Yemen gov’t forces commence major combat operation against Houthis",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/yemen-govt-forces-commence-major-combat-operation-against-houthis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Yemeni government forces have declared a ‘battle for liberation’ to retake remaining territory held by the Houthis.",
+   "published": "2026-10-05T03:11:03+00:00"
   },
   {
    "id": "63650ab83695",
