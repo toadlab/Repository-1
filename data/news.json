@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T12:39:08.724684+00:00",
+ "generated": "2026-10-05T13:37:03.834172+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,226 @@
  ],
  "items": [
   {
+   "id": "2e8d32c98f39",
+   "title": "What's Going To Happen in the Midterms?",
+   "link": "https://reason.com/2026/10/05/whats-going-to-happen-in-the-midterms/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: Anthropic's Claude constitution, Letitia James to handle Cornell rape case, and more...",
+   "published": "2026-10-05T13:30:15+00:00"
+  },
+  {
+   "id": "22af0efc7860",
+   "title": "An AI ‘reality check’ may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.",
+   "link": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Keep an eye on artificial-intelligence spending in the upcoming earnings season, Panmure Liberum’s Joachim Klement said.",
+   "published": "2026-10-05T13:30:00+00:00"
+  },
+  {
+   "id": "93c2b86a72e8",
+   "title": "15-year-old loses hand during French schools protest as clashes with police continue – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hundreds of schools in France remain closed amid planned demonstrations across the country The conservative People’s Party is very pleased with the announcement. “At last,” they say on their X, with a slick election video – set to the EU’s anthem “Ode to Joy” – to go along with…",
+   "published": "2026-10-05T13:28:07+00:00"
+  },
+  {
+   "id": "d0c0677e9fe0",
+   "title": "Accept ‘bad things’ in return for benefits of AI, says Sam Altman",
+   "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Boss of OpenAI calls for a regulatory light touch because of the ‘good stuff’ the technology can deliver Sam Altman says he believes the world should accept “bad things” happening with AI in exchange for the benefits of the technology. The chief executive of OpenAI cited hacks,…",
+   "published": "2026-10-05T13:27:45+00:00"
+  },
+  {
+   "id": "ae6aa17ebe5e",
+   "title": "Trump heads to Nebraska as supreme court hears first oral arguments of new term – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President to visit Grand Island as his plan to allow more foreign beef imports proves unpopular in agriculture-rich state; court to hear argument over climate crisis Sign up for the Breaking News US email Karoline Leavitt, who stepped down as White House press secretary in…",
+   "published": "2026-10-05T13:23:02+00:00"
+  },
+  {
+   "id": "9839a201ee0c",
+   "title": "No 10 insists RAF Fairford is safe after US withdraws its bombers – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Downing Street offered more details about the redeployment of US bombers from the British airbase Yesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of water (“0% strength”) to make a point about Burnham supposedly cancelling plans for an early…",
+   "published": "2026-10-05T13:16:07+00:00"
+  },
+  {
+   "id": "9d6d3c8e15b7",
+   "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
+   "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
+   "published": "2026-10-05T13:16:00+00:00"
+  },
+  {
+   "id": "f65007120df8",
+   "title": "Obstacles Facing Convergence of Wealth and Retirement at Work",
+   "link": "https://www.wealthmanagement.com/rpa-news/obstacles-facing-convergence-of-wealth-and-retirement-at-work",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Data issues, tech limits and engagement challenges remain significant.",
+   "published": "2026-10-05T13:15:05+00:00"
+  },
+  {
+   "id": "eb637d1a7d44",
+   "title": "No 10 insists RAF Fairford is safe after US withdraws its bombers from base",
+   "link": "https://www.theguardian.com/us-news/2026/oct/05/no-10-says-raf-fairford-safe-us-withdraws-bombers-from-base",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A dozen B-1 bombers stationed at Gloucestershire base were redeployed to US on Sunday amid concerns over possible threat from Iran Downing Street has insisted RAF Fairford is secure a day after the US air force suddenly withdrew a dozen B-1 bombers that had been stationed at…",
+   "published": "2026-10-05T13:14:45+00:00"
+  },
+  {
+   "id": "a216149802f8",
+   "title": "Is Iran charging a toll to allow oil traffic through Hormuz?",
+   "link": "https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Crude exports bypassing Hormuz surged in September, yet oil prices remain high. Could a secret fee be the reason?",
+   "published": "2026-10-05T13:11:42+00:00"
+  },
+  {
+   "id": "b969d4bad695",
+   "title": "Before UK Greens, who else has equated Zionism with racism?",
+   "link": "https://www.aljazeera.com/news/2026/10/5/before-uk-greens-who-else-has-equated-zionism-with-racism?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israel condemns the move as the party's vote causes an uproar, including among party members.",
+   "published": "2026-10-05T13:03:09+00:00"
+  },
+  {
+   "id": "6ba5e50a6b6b",
+   "title": "Greens pitch Zohran Mamdani-style $25.1bn plan to nationalise 200 Coles and Woolworths supermarkets",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/greens-pitch-zohran-mamdani-style-251bn-plan-to-nationalise-200-coles-and-woolworths-supermarkets",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former MP and Greens Institute head, Max Chandler-Mather, says proposal for publicly owned supermarket chain will ease grocery prices Get our new political email , free app or daily news podcast More than 200 Coles and Woolworths supermarkets would be nationalised, and hundreds…",
+   "published": "2026-10-05T13:01:25+00:00"
+  },
+  {
+   "id": "946dfaf17098",
+   "title": "Oyez! Oyez! Oyez! The October Term 2026 of FantasySCOTUS is now in session",
+   "link": "https://reason.com/volokh/2026/10/05/oyez-oyez-oyez-the-october-term-2026-of-fantasyscotus-is-now-in-session/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Predict all of the biggest cases at the Supreme Court.",
+   "published": "2026-10-05T13:00:09+00:00"
+  },
+  {
+   "id": "8372e5399e56",
+   "title": "High Crimes and Misdemeanors",
+   "link": "https://thedispatch.com/newsletter/wanderland/trump-reckless-driving-respect-rule-law/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "There are 1,001 reasons Donald Trump should be hauled off to jail.",
+   "published": "2026-10-05T13:00:00+00:00"
+  },
+  {
+   "id": "9f86f93e3609",
+   "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+   "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
+   "published": "2026-10-05T13:00:00+00:00"
+  },
+  {
+   "id": "dfa62e9c9bc1",
+   "title": "Nobu chef killed by teen driver who crashed into his parked car in Malibu",
+   "link": "https://www.theguardian.com/us-news/2026/oct/05/nobu-chef-malibu-killed",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ryo Uchimiya was sleeping in his car waiting for his shift to begin when a 16-year-old crashed into him A longtime chef for the famous Japanese restaurant chain Nobu was killed over the weekend in Malibu, California , when a teen driver crashed into his parked vehicle, where he…",
+   "published": "2026-10-05T12:51:09+00:00"
+  },
+  {
+   "id": "535f8b037613",
+   "title": "SEC Coordinates with Global Financial Regulators to Raise Fraud Awareness During World Investor Week",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-101-sec-coordinates-global-financial-regulators-raise-fraud-awareness-during-world-investor-week",
+   "source": "SEC Press Releases",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Securities and Exchange Commission, in coordination with other U.S. and global financial regulators, today issued a joint investor bulletin as part of World Investor Week (WIW). The bulletin encourages investors to be resilient in changing…",
+   "published": "2026-10-05T12:47:36+00:00"
+  },
+  {
+   "id": "5452683b3490",
+   "title": "Two people die trying to cross Channel as anti-migrant protesters clash with police in Gosport",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/05/anti-migrant-protesters-scuffle-police-gosport-channel-rescue",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "French authorities say two men, one in his 30s and another in his 40s, died during overnight crossing UK politics live – latest updates Two people have died and two more have been injured trying to cross the Channel in a small boat, French authorities have said, while 12…",
+   "published": "2026-10-05T12:47:34+00:00"
+  },
+  {
+   "id": "725ef2786cf0",
+   "title": "A place to flourish on the southeast side",
+   "link": "https://mirrorindy.org/regrowth-southeast-neighborhood-development-southside-palmer-street-community-garden-justice-involved-youth/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This Fountain Square gardening program helps young adults turn a new leaf. The post A place to flourish on the southeast side appeared first on Mirror Indy .",
+   "published": "2026-10-05T12:44:04+00:00"
+  },
+  {
+   "id": "71322cfbd8f3",
+   "title": "Bolsonaro favourite to win: What Brazil’s first round of elections tells us",
+   "link": "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Analysts say Flavio Bolsonaro is projected to win the run-off vote on October 25 and become Brazil's next president.",
+   "published": "2026-10-05T12:34:30+00:00"
+  },
+  {
    "id": "7562da258d5b",
    "title": "School Board Member's Objection to No-Indigenous-School-Team-Logos Claim Can Proceed",
    "link": "https://reason.com/volokh/2026/10/05/school-board-members-objection-to-no-indigenous-school-team-logos-claim-can-proceed/",
@@ -138,6 +358,39 @@
    "flourishing_feed": false,
    "summary": "as a First Amendment claim, though only as to his own right to wear \"Wantagh Warriors\"-related gear at games and school functions.",
    "published": "2026-10-05T12:33:59+00:00"
+  },
+  {
+   "id": "338198a46392",
+   "title": "Drones buzz overhead, troops hunker underground in Ukraine's hellish kill zone",
+   "link": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The front line in the Russia-Ukraine war stretches more than 700 miles and has barely moved in four years. Yet straddling this line is the kill zone, dominated by constantly evolving drone technology.",
+   "published": "2026-10-05T12:33:20+00:00"
+  },
+  {
+   "id": "507f68ddeb16",
+   "title": "Six presumed dead as Coast Guard suspends search for missing medical plane near Nantucket",
+   "link": "https://www.theguardian.com/us-news/2026/oct/05/medical-flight-crash-massachusetts-death-toll",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Medical transport plane flying from Bermuda to Boston crashed off coast of Massachusetts early Saturday Six people are presumed dead after the US Coast Guard on Sunday suspended its search for survivors of a medical transport plane crash off the coast of Massachusetts early the…",
+   "published": "2026-10-05T12:31:22+00:00"
+  },
+  {
+   "id": "2bed64726fb4",
+   "title": "Lionel Messi to join Argentina for farewell match against Benin",
+   "link": "https://www.aljazeera.com/sports/2026/10/5/lionel-messi-argentina-farewell-final-match-benin?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The friendly marks a symbolic passing of the torch for a player whose international legacy includes a World Cup title.",
+   "published": "2026-10-05T12:30:46+00:00"
   },
   {
    "id": "9234536f2dad",
@@ -169,7 +422,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The prefect of Pas-de-Calais says the teenager's life is \"not in danger\" after the \"very serious\" incident on Monday.",
+   "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
    "published": "2026-10-05T12:29:45+00:00"
   },
   {
@@ -184,6 +437,17 @@
    "published": "2026-10-05T12:26:40+00:00"
   },
   {
+   "id": "0391598f0dd8",
+   "title": "Schoolboy, 15, loses hand after picking up police stun grenade during French school protests",
+   "link": "https://www.theguardian.com/world/2026/oct/05/schoolboy-loses-hand-police-stun-grenade-french-school-protests",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "PM orders ministers to tackle students’ five major demands, including organising replacement teachers and school repairs Europe live – latest updates Hundreds of schools in France remained fully or partly closed on Monday as teenagers continued to blockade buildings and the…",
+   "published": "2026-10-05T12:25:45+00:00"
+  },
+  {
    "id": "3e59ae428733",
    "title": "Students continue to protest in France as hundreds of schools close",
    "link": "https://www.aljazeera.com/news/2026/10/5/students-continue-to-protest-in-france-as-hundreds-of-schools-close?traffic_source=rss",
@@ -193,28 +457,6 @@
    "flourishing_feed": false,
    "summary": "Education Minister Edouard Geffray said on Sunday about 500 schools likely to be fully or partially closed on Monday.",
    "published": "2026-10-05T12:25:26+00:00"
-  },
-  {
-   "id": "9d6d3c8e15b7",
-   "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-   "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week.",
-   "published": "2026-10-05T12:21:32+00:00"
-  },
-  {
-   "id": "93c2b86a72e8",
-   "title": "15-year-old loses hand in clash with French police during school protest – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Hundreds of schools in France remain closed amid planned demonstrations across the country The conservative People’s Party is very pleased with the announcement. “At last,” they say on their X, with a slick election video – set to the EU’s anthem “Ode to Joy” – to go along with…",
-   "published": "2026-10-05T12:16:38+00:00"
   },
   {
    "id": "a4be14b1e687",
@@ -228,28 +470,6 @@
    "published": "2026-10-05T12:16:32+00:00"
   },
   {
-   "id": "d0c0677e9fe0",
-   "title": "Accept ‘bad things’ in return for benefits of AI, says Sam Altman",
-   "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Boss of OpenAI calls for a regulatory light touch because of the ‘good stuff’ the technology can deliver Sam Altman says he believes the world should accept “bad things” happening with AI in exchange for the benefits of the technology. The chief executive of OpenAI cited hacks,…",
-   "published": "2026-10-05T12:13:36+00:00"
-  },
-  {
-   "id": "9839a201ee0c",
-   "title": "Shadow chancellor to address Tory conference as he claims slashing red tape could cut cost of new houses by £50,000 – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Andrew Griffith makes speech today as Reform UK accuses party of copying policies they ‘announced weeks and months ago’ Tories to pledge to scrap Environment Agency and Natural England Yesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of water (“0%…",
-   "published": "2026-10-05T12:09:44+00:00"
-  },
-  {
    "id": "3cce02fdd6ca",
    "title": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
    "link": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
@@ -259,17 +479,6 @@
    "flourishing_feed": false,
    "summary": "A homecoming celebration turned into a scene of deadly violence, as dozens of shots were fired into a crowd.",
    "published": "2026-10-05T12:08:21+00:00"
-  },
-  {
-   "id": "ae6aa17ebe5e",
-   "title": "Trump heads to Nebraska in attempt to shore up GOP’s midterm vote – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President to visit Grand Island as his plan to allow more foreign beef imports proves unpopular in agriculture-rich state Sign up for the Breaking News US email Donald Trump will begin his day in Washington in closed-door meetings, before he heads to Nebraska to campaign with…",
-   "published": "2026-10-05T12:07:17+00:00"
   },
   {
    "id": "71cca965851e",
@@ -327,17 +536,6 @@
    "published": "2026-10-05T12:00:00+00:00"
   },
   {
-   "id": "5452683b3490",
-   "title": "Two people die trying to cross Channel as anti-migrant protesters clash with police in Gosport",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/05/anti-migrant-protesters-scuffle-police-gosport-channel-rescue",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "French authorities say two men, one in his 30s and another in his 40s, died during overnight crossing UK politics live – latest updates Two people have died and two more have been injured attempting to cross the Channel in a small boat, French authorities have said, while…",
-   "published": "2026-10-05T11:59:19+00:00"
-  },
-  {
    "id": "b393253c2ad8",
    "title": "WMA members must call for release of detained Palestinian medics",
    "link": "https://www.aljazeera.com/opinions/2026/10/5/wma-members-must-call-for-release-of-detained-palestinian-medics?traffic_source=rss",
@@ -389,7 +587,7 @@
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "“We’d better get real quick or we’re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.”",
+   "summary": "A reader writes: “We’d better get real quick or we’re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.”",
    "published": "2026-10-05T11:40:00+00:00"
   },
   {
@@ -470,17 +668,6 @@
    "published": "2026-10-05T11:25:45+00:00"
   },
   {
-   "id": "22af0efc7860",
-   "title": "An AI ‘reality check’ may take the S&P 500 to 5,000. Here are the trades to make, this strategist says.",
-   "link": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Keep an eye on artificial-intelligence spending in the upcoming earnings season, Panmure Liberum’s Joachim Klement said.",
-   "published": "2026-10-05T11:19:00+00:00"
-  },
-  {
    "id": "884e053fb2ba",
    "title": "Euro falls to 17-month low against dollar amid French debt fears",
    "link": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
@@ -537,7 +724,7 @@
   },
   {
    "id": "dc7779782bf4",
-   "title": "Nobel Prize awarded for showing inner workings of the brain",
+   "title": "Nobel Prize awarded for revealing inner workings of the brain",
    "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -611,6 +798,17 @@
    "flourishing_feed": false,
    "summary": "Flávio Bolsonaro is favorite to win 25 October runoff against 80-year-old incumbent leftwing president Luiz Inácio Lula da Silva. Plus the ‘pawsome’ new recruit to Mexico’s national guard Don’t already get First Thing in your inbox? Sign up here Good morning. Brazil’s…",
    "published": "2026-10-05T10:59:21+00:00"
+  },
+  {
+   "id": "9808be0722d4",
+   "title": "FlyDubai attacker intended to crash plane into Tel Aviv airport, ongoing investigation finds",
+   "link": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The investigation has found the attacker intended to crash the plane into Israel's Ben Gurion International Airport, a person familiar with the matter not authorized to speak publicly told NPR.",
+   "published": "2026-10-05T10:53:46+00:00"
   },
   {
    "id": "0a8c3f2a1c61",
@@ -8067,7 +8265,7 @@
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "In addition, Cerity pens its third deal of the week, OnePoint BFG expands in Georgia and Florida, and Carson Group adds a women-led team from Commonwealth to its 1099 advisor channel.",
+   "summary": "In addition, OnePoint BFG expands in Georgia and Florida, and Carson Group adds a women-led team from Commonwealth to its 1099 advisor channel.",
    "published": "2026-10-02T15:45:52+00:00"
   },
   {
@@ -13077,7 +13275,7 @@
   },
   {
    "id": "0576cdcfcbdd",
-   "title": "Midterm Elections Tax Measures on the November Ballot: What to Watch",
+   "title": "Midterm Elections Tax Measures: What to Watch on the November Ballot",
    "link": "https://www.kiplinger.com/taxes/november-ballot-tax-measures-target-high-income",
    "source": "Kiplinger",
    "circle_hint": "national",
