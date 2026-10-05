@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T10:33:22.515005+00:00",
+ "generated": "2026-10-05T11:32:43.157700+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,292 @@
  ],
  "items": [
   {
+   "id": "db38d0306cae",
+   "title": "Morningstar: Geopolitical Tensions, Inflation Top List of Advisors’ Market Concerns",
+   "link": "https://www.wealthmanagement.com/investing-strategies/advisors-spend-too-much-time-on-investments",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "This year’s survey of advisor sentiment showed less optimism about market conditions and a modest increase in the adoption of alternative investments.",
+   "published": "2026-10-05T11:30:00+00:00"
+  },
+  {
+   "id": "eae6727020d2",
+   "title": "Musk hints TSMC may join his mega chip venture, and Intel’s stock is taking a hit",
+   "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Intel shares are taking a hit on Monday after a report that TSMC may help with Elon Musk’s Terafab factory.",
+   "published": "2026-10-05T11:27:00+00:00"
+  },
+  {
+   "id": "9839a201ee0c",
+   "title": "Shadow chancellor to address Tory conference as he claims slashing red tape could cut cost of new houses by £50,000 – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Andrew Griffith makes speech today as Reform UK accuses party of copying policies they ‘announced weeks and months ago’ Tories to pledge to scrap Environment Agency and Natural England Yesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of water (“0%…",
+   "published": "2026-10-05T11:26:58+00:00"
+  },
+  {
+   "id": "22af0efc7860",
+   "title": "An AI ‘reality check’ may take the S&P 500 to 5,000. Here’s the trades to make, this strategist says.",
+   "link": "https://www.marketwatch.com/story/an-ai-reality-check-may-take-the-s-p-500-to-5-000-heres-the-trades-to-make-this-strategist-says-263cf0e9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Keep an eye on artificial-intelligence spending in the upcoming earnings season, Panmure Liberum’s Klement said.",
+   "published": "2026-10-05T11:19:00+00:00"
+  },
+  {
+   "id": "884e053fb2ba",
+   "title": "Euro falls to 17-month low against dollar amid French debt fears",
+   "link": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "France’s CAC 40 index slides as announcement of snap election in Spain also helps fuel eurozone uncertainty Business live – latest updates The euro has slumped to the lowest level against the dollar in 17 months amid growing concern France’s debt position could threaten the…",
+   "published": "2026-10-05T11:18:20+00:00"
+  },
+  {
+   "id": "77e04e2e894a",
+   "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+   "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+   "published": "2026-10-05T11:15:00+00:00"
+  },
+  {
+   "id": "93c2b86a72e8",
+   "title": "Spain’s Sánchez calls snap election amid national housing crisis – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "PM says vote will take place on 29 November after parliament rejected two of his government’s emergency relief measures The conservative People’s Party is very pleased with the announcement. “At last,” they say on their X, with a slick election video – set to the EU’s anthem…",
+   "published": "2026-10-05T11:11:13+00:00"
+  },
+  {
+   "id": "ae6aa17ebe5e",
+   "title": "Trump heads to Nebraska in attempt to shore up GOP’s midterm vote – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President to visit Grand Island as his plan to allow more foreign beef imports proves unpopular in agriculture-rich state Sign up for the Breaking News US email The US Air Force has pulled its bombers from RAF Fairford following an investigation into an alleged planned terror…",
+   "published": "2026-10-05T11:10:48+00:00"
+  },
+  {
+   "id": "7003b9f521ec",
+   "title": "US abruptly withdraws bombers from UK’s RAF Fairford",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/us-abruptly-withdraws-bombers-from-uks-raf-fairford?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US has abruptly withdrawn all of its aircraft from the UK’s RAF Fairford, citing concerns about a potential attack.",
+   "published": "2026-10-05T11:09:57+00:00"
+  },
+  {
+   "id": "cbd656525066",
+   "title": "SCOTUS hears major climate change case. And, Brazil's presidential race goes to runoff",
+   "link": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Supreme Court is set to hear a blockbuster climate change case that could affect more than just climate issues. And, Brazil's presidential race is too close to call.",
+   "published": "2026-10-05T11:07:09+00:00"
+  },
+  {
+   "id": "c6007d87a4f6",
+   "title": "UK considering tariffs on Chinese car imports to align with EU",
+   "link": "https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Move would strengthen Britain’s case to be included in new legislation to protect European manufacturing Business live – latest updates The UK is considering whether to impose tariffs on Chinese car imports to align itself with the EU and strengthen its case to be included in…",
+   "published": "2026-10-05T11:06:18+00:00"
+  },
+  {
+   "id": "dc7779782bf4",
+   "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
+   "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+   "published": "2026-10-05T11:04:37+00:00"
+  },
+  {
+   "id": "15df7c851397",
+   "title": "Photos: Yemen’s hospitals struggle to operate amid persistent power outages",
+   "link": "https://www.aljazeera.com/gallery/2026/10/5/photos-yemens-hospitals-struggle-to-operate-amid-persistent-power-outages?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Families in Aden endure sleepless nights and spoiled food as blackouts become a defining feature of daily life.",
+   "published": "2026-10-05T11:01:07+00:00"
+  },
+  {
+   "id": "3ed3448f531b",
+   "title": "The Federal Government Ran Up a $2 Trillion Deficit in 2026",
+   "link": "https://reason.com/2026/10/05/the-federal-government-ran-up-a-2-trillion-deficit-in-2026/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Congress hasn’t balanced the budget in 25 years.",
+   "published": "2026-10-05T11:00:59+00:00"
+  },
+  {
+   "id": "a8b0d4fd073c",
+   "title": "Today in Supreme Court History: October 5, 1953",
+   "link": "https://reason.com/volokh/2026/10/05/today-in-supreme-court-history-october-5-1953-6/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "10/5/1953: Chief Justice Earl Warren takes the oath. The post Today in Supreme Court History: October 5, 1953 appeared first on Reason Magazine.",
+   "published": "2026-10-05T11:00:16+00:00"
+  },
+  {
+   "id": "19ea8162c168",
+   "title": "Indiana has a transitional housing gap for women. These groups are trying to fill it",
+   "link": "https://mirrorindy.org/transitional-housing-gap-women-indiana/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hundreds of women remain on waitlists for spots in programs across the state. The post Indiana has a transitional housing gap for women. These groups are trying to fill it appeared first on Mirror Indy .",
+   "published": "2026-10-05T11:00:00+00:00"
+  },
+  {
+   "id": "3798c624eaa8",
+   "title": "What color is a tennis ball?",
+   "link": "https://www.vox.com/podcasts/504988/what-color-tennis-ball-brain-perception",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A while back, I was at physical therapy, and the topic of tennis came up. Someone said something about yellow tennis balls, and I was like… “What? They’re green.” And then someone else chimed in, “No, they’re yellow!” And then someone across the room hollered, “No, they’re…",
+   "published": "2026-10-05T11:00:00+00:00"
+  },
+  {
+   "id": "e4365816fa22",
+   "title": "Son of disgraced ex-president Jair Bolsonaro takes election lead in Brazil | First Thing",
+   "link": "https://www.theguardian.com/us-news/2026/oct/05/first-thing-son-disgraced-ex-president-jair-flavio-bolsonaro-election-lead-brazil",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Flávio Bolsonaro is favorite to win 25 October runoff against 80-year-old incumbent leftwing president Luiz Inácio Lula da Silva. Plus the ‘pawsome’ new recruit to Mexico’s national guard Good morning. Brazil’s presidential race will go to a second round after the far-right…",
+   "published": "2026-10-05T10:59:21+00:00"
+  },
+  {
+   "id": "0a8c3f2a1c61",
+   "title": "Lab worker ‘possibly’ dies of plague in Siberia, prompting quarantine measures",
+   "link": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Precautions in place in several hospitals in eastern Russia amid uncertainty over death of Darya Shipilova Several hospitals in Siberia have been placed under quarantine after the death of a woman who worked at an anti-plague institute. Darya Shipilova, an employee at an…",
+   "published": "2026-10-05T10:47:23+00:00"
+  },
+  {
+   "id": "ac592abab95a",
+   "title": "Bitcoin’s big bounce has graduated to a longer-term uptrend. Is it too late to buy?",
+   "link": "https://www.marketwatch.com/story/bitcoins-big-bounce-has-graduated-to-a-longer-term-uptrend-is-it-too-late-to-buy-a9bc585c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A bullish “golden cross” technical pattern has appeared for the first time in more than three years. The last one worked out pretty well.",
+   "published": "2026-10-05T10:46:00+00:00"
+  },
+  {
+   "id": "f73909c7a758",
+   "title": "Gaza mothers seek breastfeeding support amid hunger and siege",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/gaza-mothers-seek-breastfeeding-support-amid-hunger-and-siege?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Palestinian mothers are finding it increasingly difficult to breastfeed their babies in Gaza.",
+   "published": "2026-10-05T10:42:08+00:00"
+  },
+  {
+   "id": "271561d9eddf",
+   "title": "US air force removes all bombers from British military base RAF Fairford",
+   "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
+   "published": "2026-10-05T10:39:09+00:00"
+  },
+  {
+   "id": "e070094e5b94",
+   "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
+   "link": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In a televisxed interview with Axios, Treasury Secretary Bessent defended his department’s record in the bond market and walked back his “I am the house” declaration from a month ago",
+   "published": "2026-10-05T10:39:00+00:00"
+  },
+  {
+   "id": "3286b9d04e64",
+   "title": "Former Prince Andrew launches challenge to ‘quash’ police search warrants",
+   "link": "https://www.aljazeera.com/news/2026/10/5/former-prince-andrew-launches-challenge-to-quash-police-search-warrants?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A London court is likely to hold a private hearing on Thursday as Mountbatten-Windsor challenges Thames Valley Police.",
+   "published": "2026-10-05T10:38:17+00:00"
+  },
+  {
+   "id": "65e35d32824a",
+   "title": "Libyan teachers’ strike escalates as union demands major education reforms",
+   "link": "https://www.aljazeera.com/news/2026/10/5/libyan-teachers-strike-escalates-as-union-demands-major-education-reforms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "School year is on hold with teachers on strike and other unions threatening to take action.",
+   "published": "2026-10-05T10:33:30+00:00"
+  },
+  {
+   "id": "4fd904f6ae5c",
+   "title": "The bond selloff is opening up rare opportunities for investors. Here is where to look, says major bank.",
+   "link": "https://www.marketwatch.com/story/bond-selloff-is-opening-up-rare-opportunities-for-investors-here-is-where-to-look-says-major-bank-463447c7?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The chief investment office at Standard Chartered said bond and money markets have been overly hawkish on the Federal Reserve.",
+   "published": "2026-10-05T10:33:00+00:00"
+  },
+  {
    "id": "2f957ee3925d",
    "title": "The messy bargain that could bring down your power bill",
    "link": "https://www.vox.com/future-perfect/505064/bipartisan-permitting-senate-baaja",
@@ -173,28 +459,6 @@
    "published": "2026-10-05T10:27:06+00:00"
   },
   {
-   "id": "ae6aa17ebe5e",
-   "title": "Trump heads to Nebraska in attempt to shore up GOP’s midterm vote – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President to visit Grand Island as his plan to allow more foreign beef imports proves unpopular in agriculture-rich state Sign up for the Breaking News US email The White House has defended a newly hired press aide who posed for a holiday photograph in 2021 wearing a “Fuck Joe…",
-   "published": "2026-10-05T10:24:25+00:00"
-  },
-  {
-   "id": "271561d9eddf",
-   "title": "US air force removes all bombers from British military base RAF Fairford",
-   "link": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase.",
-   "published": "2026-10-05T10:24:02+00:00"
-  },
-  {
    "id": "1646cfc26667",
    "title": "Supporters of jailed ex-PM Imran Khan begin march in Pakistan",
    "link": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
@@ -204,17 +468,6 @@
    "flourishing_feed": false,
    "summary": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock.",
    "published": "2026-10-05T10:23:26+00:00"
-  },
-  {
-   "id": "93c2b86a72e8",
-   "title": "Spain’s Sánchez calls snap election amid national housing crisis – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/05/europe-spain-pedro-sanchez-election-housing-france-school-protests-ukraine-russia-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "PM says vote will take place on 29 November after parliament rejected two of his government’s emergency relief measures The conservative People’s Party is very pleased with the announcement. “At last,” they say on their X, with a slick election video – set to the EU’s anthem…",
-   "published": "2026-10-05T10:22:12+00:00"
   },
   {
    "id": "7d90a9433d1e",
@@ -228,15 +481,15 @@
    "published": "2026-10-05T10:19:14+00:00"
   },
   {
-   "id": "9839a201ee0c",
-   "title": "Shadow chancellor to address Tory conference as he claims slashing red tape could cut cost of new houses by £50,000 – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "2c7f1e71ebe6",
+   "title": "Spanish PM Sánchez calls early election after housing protests",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Andrew Griffith makes speech today as Reform UK accuses party of copying policies they ‘announced weeks and months ago’ Tories to pledge to scrap Environment Agency and Natural England Yesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of water (“0%…",
-   "published": "2026-10-05T10:18:42+00:00"
+   "summary": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+   "published": "2026-10-05T10:18:47+00:00"
   },
   {
    "id": "2b4585a5cb9d",
@@ -259,17 +512,6 @@
    "flourishing_feed": false,
    "summary": "The Nobel Prize in medicine was awarded Monday to three scientists working on the mechanisms the brain uses to switch on, or off, the activity of individual nerve cells.",
    "published": "2026-10-05T10:11:33+00:00"
-  },
-  {
-   "id": "dc7779782bf4",
-   "title": "Nobel Prize awarded for showing how nerve cells shape feelings",
-   "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
-   "published": "2026-10-05T10:10:27+00:00"
   },
   {
    "id": "f6ca7398829b",
@@ -426,17 +668,6 @@
    "published": "2026-10-05T09:52:03+00:00"
   },
   {
-   "id": "c6007d87a4f6",
-   "title": "UK considering tariffs on Chinese car imports to align with EU, reports say",
-   "link": "https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Move would strengthen Britain’s case to be included in new legislation to protect European manufacturing Business live – latest updates The UK is considering whether to impose tariffs on Chinese car imports to align itself with the EU and strengthen its case to be included in…",
-   "published": "2026-10-05T09:43:22+00:00"
-  },
-  {
    "id": "1185237b92c6",
    "title": "Yemeni forces reclaim Dhubab, key positions near Bab al-Mandeb from Houthis",
    "link": "https://www.aljazeera.com/news/2026/10/5/yemen-forces-claim-to-seize-dhubab-sites-near-bab-al-mandeb-from-houthis?traffic_source=rss",
@@ -455,7 +686,7 @@
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Schneider Electric, the maker of electrical equipment that has thrived from the AI build-out, on Monday struck a $23 billion deal to buy an industrial design software company at a bargain-basement valuation.",
+   "summary": "Schneider Electric, the maker of electrical equipment that has thrived from the AI build-out, on Monday struck a $23 billion deal to buy an industrial-design software company at a bargain-basement valuation.",
    "published": "2026-10-05T09:39:00+00:00"
   },
   {
@@ -466,7 +697,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "After launching major military offensive to reclaim Houthi-held areas, Yemen's government says it has taken key district",
+   "summary": "After launching major military offensive to reclaim Houthi-held areas, Yemeni government says it has taken key district.",
    "published": "2026-10-05T09:38:26+00:00"
   },
   {
@@ -501,17 +732,6 @@
    "flourishing_feed": false,
    "summary": "Musician who had hit albums with Racine and Rats later became a judge on six seasons of Canadian Idol Sass Jordan, the singer-songwriter who became a significant success in Canada’s rock scene in the 1990s before starring as a judge on Canadian Idol, has died aged 65. No cause…",
    "published": "2026-10-05T09:22:59+00:00"
-  },
-  {
-   "id": "e070094e5b94",
-   "title": "What Bessent is now saying after bond yields didn’t stop rising on ‘I am the house’ remark",
-   "link": "https://www.marketwatch.com/story/what-bessent-is-now-saying-after-bond-yields-didnt-stop-rising-on-i-am-the-house-remark-0ab359f8?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "In a televisxed interview with Axios, Treasury Secretary Bessent defended his department’s record in the bond market and walked back his “I am the house” declaration from a month ago",
-   "published": "2026-10-05T09:22:00+00:00"
   },
   {
    "id": "db2cbca633c5",
@@ -1909,17 +2129,6 @@
    "flourishing_feed": false,
    "summary": "Education minister cites safety concerns for closures as organisers call for resumption of protests.",
    "published": "2026-10-04T19:41:04+00:00"
-  },
-  {
-   "id": "77e04e2e894a",
-   "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-   "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-   "published": "2026-10-04T19:30:00+00:00"
   },
   {
    "id": "97dfd95e7abd",
