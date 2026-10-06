@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T16:33:39.289733+00:00",
+ "generated": "2026-10-06T17:29:25.926227+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,15 +129,37 @@
  ],
  "items": [
   {
-   "id": "85915a905b75",
-   "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-   "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
+   "id": "3cfff10513f4",
+   "title": "Prime Day vs. Walmart Deals vs. Best Buy's Techtober: Who Has the Best Tech Deals?",
+   "link": "https://www.kiplinger.com/personal-finance/deals/prime-day-vs-walmart-deals-vs-best-buys-techtober-who-has-the-best-tech-deals",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
-   "published": "2026-10-06T16:22:37+00:00"
+   "summary": "Amazon Prime Big Deal Days isn't the only big sale this week. See how Amazon's best tech deals compare to its rivals.",
+   "published": "2026-10-06T17:22:22+00:00"
+  },
+  {
+   "id": "7ba1f31f15e5",
+   "title": "Custodians, RIA Platforms Target Fidelity Clients on Heels of $100M Minimum",
+   "link": "https://www.wealthmanagement.com/ria-news/custodians-ria-platforms-are-hunting-for-fidelity-clients-on-heels-of-100m-minimum",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "RIA custodians such as Schwab, Axos and Betterment, as well as some RIA platforms, are reaching out to those advisors who may need to shift some or all of their assets off Fidelity by June 2027.",
+   "published": "2026-10-06T17:20:06+00:00"
+  },
+  {
+   "id": "e6d022e25fa7",
+   "title": "Loneliness and social isolation can take six years off your life",
+   "link": "https://www.marketwatch.com/story/loneliness-and-social-isolation-can-take-six-years-off-your-life-496af256?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Loneliness and social isolation can cut almost six healthy years from your life, according to a study that quantified the impact of social problems that often plague older adults.",
+   "published": "2026-10-06T17:18:00+00:00"
   },
   {
    "id": "c331f4aaf953",
@@ -147,8 +169,206 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The war with Iran is reshaping America ahead of the midterms – how will it affect US voters at the polls? We’re live with political and global correspondents to answer your questions Sign in or sign up to join the conversation NorthLondonIsRed asks : Since Congress’s war powers…",
-   "published": "2026-10-06T16:19:07+00:00"
+   "summary": "The war with Iran is reshaping America ahead of the midterms – how will it affect US voters at the polls? We’re live with political and global correspondents to answer your questions Sign in or sign up to join the conversation KafkasDog asks : As it’s increasingly clear that…",
+   "published": "2026-10-06T17:14:14+00:00"
+  },
+  {
+   "id": "5d26815aca13",
+   "title": "In New Mexico, housing shortage finds a fix on Route 66: Renovated motels",
+   "link": "https://www.csmonitor.com/USA/Society/2026/1006/housing-shortage-us-motels?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As tourism waned along Route 66, many motels closed. A New Mexico investor is renovating some of the old structures into apartments that can increase housing stock.",
+   "published": "2026-10-06T17:08:07+00:00"
+  },
+  {
+   "id": "e426aed9f178",
+   "title": "2 NFL officials are suspended for unprofessional conduct",
+   "link": "https://www.deseret.com/sports/2026/10/06/nfl-officials-suspended-mike-vrabel-unsportsmanlike-conduct/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Call it field rage: an outburst of anger during an NFL game. It’s often the cause of a brawl between players, but this weekend, it showed up in the behavior of a coach and two officials. Now, the officials, Jeff Seeman and Adrian Hill, have been formally suspended and the…",
+   "published": "2026-10-06T17:03:58+00:00"
+  },
+  {
+   "id": "642a4888bc76",
+   "title": "Badenoch announces £2.3bn proposal to cut employer national insurance for young workers – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Conservative party leader said the party would halve employer national insurance on jobs worked by young people Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This is getting…",
+   "published": "2026-10-06T17:01:12+00:00"
+  },
+  {
+   "id": "c1fdf5b54e9b",
+   "title": "Kenya confirms first Ebola case as man dies in Nairobi after DRC return",
+   "link": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 4,000 people have died in the worst outbreak in the DR Congo's history, with confirmed cases surpassing 8,300.",
+   "published": "2026-10-06T17:00:52+00:00"
+  },
+  {
+   "id": "0685cda1b6a6",
+   "title": "Indiana BMV offices ranked nation’s best in analysis of reviews",
+   "link": "https://indianacapitalchronicle.com/2026/10/06/indiana-bmv-offices-ranked-nations-best-in-analysis-of-reviews/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Scores varied widely in the analysis of reviews about public vehicle registration and driver's license offices.",
+   "published": "2026-10-06T17:00:19+00:00"
+  },
+  {
+   "id": "115695162b51",
+   "title": "Bowl projections: One national outlet has BYU, Utah meeting in the playoffs",
+   "link": "https://www.deseret.com/sports/2026/10/06/big-12-bowl-projections-after-week-5-2026-season/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "BYU and Utah are popular picks to represent the Big 12 in this year’s College Football Playoff as the college football season heads into Week 6. Could the Cougars and Utes match up again, though, in the CFP? That’s the most shocking prediction from a look at six bowl…",
+   "published": "2026-10-06T17:00:00+00:00"
+  },
+  {
+   "id": "8a77c091bf25",
+   "title": "Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "‘These allegations are deeply alarming,’ said Senator Alex Padilla, a California Democrat who received a copy of the complaint Q&A: The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions Sign up for Breaking News US email Two media…",
+   "published": "2026-10-06T16:56:53+00:00"
+  },
+  {
+   "id": "dcdc2a4f3bf3",
+   "title": "Djokovic wins China Open after de Minaur retires, Alcaraz wins Japan Open",
+   "link": "https://www.aljazeera.com/sports/2026/10/6/djokovic-wins-china-open-after-de-minaur-retires-alcaraz-wins-japan-open?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Novac Djokovic won 102nd match of his career, while ATP 500 tournament victory was Carlos Alcaraz's third of the year.",
+   "published": "2026-10-06T16:53:37+00:00"
+  },
+  {
+   "id": "789aaf7bccdd",
+   "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
+   "link": "https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Journalists are calling for an urgent amendment to the Special Operations Bill, which boosts police search and seizure powers Journalists in Trinidad and Tobago have called for an urgent amendment to a sweeping new bill that boosts police powers of search and seizure, which…",
+   "published": "2026-10-06T16:53:21+00:00"
+  },
+  {
+   "id": "58aa8589276d",
+   "title": "Ship sinks off Bulgaria after drone attack in Black Sea",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/ship-sinks-off-bulgaria-after-drone-attack-in-black-sea?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ship sinks off Bulgaria after drone attack in Black Sea",
+   "published": "2026-10-06T16:53:04+00:00"
+  },
+  {
+   "id": "570ba73f57e4",
+   "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+   "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+   "published": "2026-10-06T16:51:59+00:00"
+  },
+  {
+   "id": "6343447f3ba9",
+   "title": "Election deniers stoke Trump-driven ballot security fears before midterms",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/election-deniers-midterms-trump",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former and current officials who bolstered claims of voter fraud in 2020 make fresh allegations of vulnerabilities Prominent election deniers have spent recent weeks stoking fears over US election security before next month’s midterms, echoing claims pushed by Donald Trump to…",
+   "published": "2026-10-06T16:50:47+00:00"
+  },
+  {
+   "id": "3e8149b7b369",
+   "title": "Greek prime minister pledges to ‘ramp up’ efforts to regain Parthenon marbles",
+   "link": "https://www.theguardian.com/artanddesign/2026/oct/06/greek-prime-minister-pledges-to-ramp-up-efforts-to-regain-parthenon-marbles",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Kyriakos Mitsotakis said his UK counterpart, Andy Burnham, had been supportive of restitution efforts in the past The Greek prime minister has vowed to “ramp up” his country’s claims to win back the Parthenon marbles from the British Museum, emphasising that his UK counterpart,…",
+   "published": "2026-10-06T16:50:19+00:00"
+  },
+  {
+   "id": "a0da0fc0e572",
+   "title": "What would it take for the Yemen offensive to succeed?",
+   "link": "https://www.aljazeera.com/opinions/2026/10/6/what-would-it-take-for-the-yemen-offensive-to-succeed?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Territorial gains alone will not be enough to change the trajectory of the war.",
+   "published": "2026-10-06T16:46:06+00:00"
+  },
+  {
+   "id": "713e26696abc",
+   "title": "14 Investment Must Reads for This Week (Oct. 6, 2026)",
+   "link": "https://www.wealthmanagement.com/etfs/14-investment-must-reads-for-this-week-oct-6-2026-",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "It was a big week on the regulatory front, with the industry attempting to make sense of new SEC proposals on retail alternatives and the IRS’s proposed tax changes to popular 351 ETF conversions. These are among the investment must reads for financial advisors this week.",
+   "published": "2026-10-06T16:36:26+00:00"
+  },
+  {
+   "id": "2b08afed1600",
+   "title": "Live Reason Roundtable 10th Anniversary Show!",
+   "link": "https://reason.com/podcast/2026/10/06/live-reason-roundtable-10th-anniversary-show/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Join Nick Gillespie, Katherine Mangu-Ward, Peter Suderman, and Matt Welch as they celebrate a decade of the show with a special live taping.",
+   "published": "2026-10-06T16:35:41+00:00"
+  },
+  {
+   "id": "d52e358bd78f",
+   "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
+   "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Unprecedented protests that began in low-income suburb are turning ugly, with investigations under way into police brutality Europe live: latest updates from protests in France Before dawn on Tuesday outside the Lycée Sophie-Germain in central Paris, hundreds of teenagers…",
+   "published": "2026-10-06T16:23:12+00:00"
+  },
+  {
+   "id": "85915a905b75",
+   "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+   "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+   "published": "2026-10-06T16:22:37+00:00"
   },
   {
    "id": "09f453b394ca",
@@ -162,28 +382,6 @@
    "published": "2026-10-06T16:17:58+00:00"
   },
   {
-   "id": "8a77c091bf25",
-   "title": "Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "‘These allegations are deeply alarming,’ said Senator Alex Padilla, a California Democrat who received a copy of the complaint Q&A: The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions Sign up for Breaking News US email Two media…",
-   "published": "2026-10-06T16:16:35+00:00"
-  },
-  {
-   "id": "642a4888bc76",
-   "title": "Badenoch suggests Tories would not reverse Labour’s pensions triple lock legislation – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "In his party conference speech last week, Andy Burnham said he wanted to change the triple lock uprating mechanism from 2030 Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This…",
-   "published": "2026-10-06T16:10:19+00:00"
-  },
-  {
    "id": "ed699092c477",
    "title": "New York City med spa owner admits to giving client botulism with bootleg Botox",
    "link": "https://www.theguardian.com/us-news/2026/oct/06/new-york-med-spa-botulism-botox",
@@ -191,7 +389,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Klara Shuster said in court she imported mislabeled Botox illegally and dispensed it to clients The owner of a New York City med spa has admitted to illegally administering bootleg Botox from Asia, leading one to client to develop botulism. Klara Shuster, also known as Klara…",
+   "summary": "Klara Shuster said in court she imported mislabeled Botox illegally and dispensed it to clients The owner of a New York City med spa has admitted to illegally administering bootleg Botox, which authorities say led one client to develop botulism. Klara Shuster, also known as…",
    "published": "2026-10-06T16:06:35+00:00"
   },
   {
@@ -261,17 +459,6 @@
    "published": "2026-10-06T15:47:16+00:00"
   },
   {
-   "id": "d52e358bd78f",
-   "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
-   "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Unprecedented protests that began in low-income banlieue are turning ugly, with investigations under way into police brutality Europe live: latest updates from protests in France Before dawn on Tuesday outside the Lycée Sophie-Germain in central Paris, hundreds of teenagers…",
-   "published": "2026-10-06T15:41:12+00:00"
-  },
-  {
    "id": "2b6ca30d7af8",
    "title": "Sam Altman Says 'Some Bad Things' Will Happen With AI. That Doesn't Mean We Should Stop It.",
    "link": "https://reason.com/2026/10/06/sam-altman-says-some-bad-things-will-happen-with-ai-that-doesnt-mean-we-should-stop-it/",
@@ -284,7 +471,7 @@
   },
   {
    "id": "516f8206bfb7",
-   "title": "Trump’s suggestion to ‘take out’ LA or San Diego draws Republican rebuke",
+   "title": "Trump’s suggestion that Iran could ‘take out’ LA or San Diego draws Republican rebuke",
    "link": "https://www.theguardian.com/us-news/2026/oct/06/republican-trump-iran-los-angeles-san-diego",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -400,7 +587,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Shares in fashion company fall 11% after its app systems are accessed by ‘unidentified third party’ Business live – latest updates Asos is investigating unauthorised access to its app system after shoppers received a notification claiming hackers had “fully compromised” its…",
+   "summary": "Shares in fashion company fall nearly 10% after its app systems are accessed by ‘unidentified third party’ Asos is investigating unauthorised access to its app system after shoppers received a notification claiming hackers had “fully compromised” its data. The online fashion…",
    "published": "2026-10-06T15:06:35+00:00"
   },
   {
@@ -768,13 +955,13 @@
   },
   {
    "id": "b01ec092966c",
-   "title": "UK police arrest British national linked to airbase incident",
+   "title": "UK police arrest British national linked to RAF Fairford airbase incident",
    "link": "https://www.aljazeera.com/news/2026/10/6/uk-police-arrest-british-national-linked-to-airbase-incident?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "22-year old British national arrested on suspicion of a terror offence after other suspects released on bail.",
+   "summary": "British national, 22, arrested on suspicion of a terror offence after other suspects released on bail.",
    "published": "2026-10-06T13:44:19+00:00"
   },
   {
@@ -867,13 +1054,13 @@
   },
   {
    "id": "a8f488c7342e",
-   "title": "France suspends high school as protestors clash with police",
+   "title": "France suspends high school classes as protesters clash with police",
    "link": "https://www.aljazeera.com/news/2026/10/6/demonstrators-clash-with-riot-police-in-france-as-education-protests-mount?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "French Prime Minister warns there is “no room for tolerance for violence” and urged France to \"stand together\".",
+   "summary": "French prime minister warns there is 'no room for tolerance for violence' and urges France to 'stand together'.",
    "published": "2026-10-06T13:28:54+00:00"
   },
   {
@@ -1249,17 +1436,6 @@
    "flourishing_feed": false,
    "summary": "The campaign is led in part by India's \"Cockroach\" youth movement, which previously forced the education minister to resign.",
    "published": "2026-10-06T11:44:06+00:00"
-  },
-  {
-   "id": "570ba73f57e4",
-   "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-   "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
-   "published": "2026-10-06T11:42:52+00:00"
   },
   {
    "id": "58d15ca5c079",
