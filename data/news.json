@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T11:30:44.328186+00:00",
+ "generated": "2026-10-06T12:37:33.434199+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -44,7 +44,7 @@
   {
    "name": "Reason",
    "ok": false,
-   "error": "HTTPError: HTTP Error 504: Gateway Time-out"
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   },
   {
    "name": "ProPublica",
@@ -129,6 +129,336 @@
  ],
  "items": [
   {
+   "id": "2e1491484c6a",
+   "title": "America’s renters are emerging as a political movement",
+   "link": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Housing policy has long prioritized homeownership. As young Americans face the prospect of renting indefinitely, more tenants are seeking political clout.",
+   "published": "2026-10-06T12:33:00+00:00"
+  },
+  {
+   "id": "82350a7a2bb4",
+   "title": "First Thing: ‘deranged’ and ‘dangerous’ Trump calls for Iran to strike US cities amid historic ratings low",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/first-thing-donald-trump-iran-strikes-us-cities",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "California’s leaders attack president after he suggests Iran could ‘take out’ Los Angeles or San Diego. Plus an auction of some of the most famous props in movie history Good morning. Donald Trump has suggested Iran could “take out” Los Angeles and San Diego , in comments…",
+   "published": "2026-10-06T12:29:42+00:00"
+  },
+  {
+   "id": "08a02317c3e9",
+   "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
+   "link": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The co-portfolio manager at Heartland Advisors urges investors to shut out Wall Street’s hype on AI and look for companies that can use its technology as costs come down.",
+   "published": "2026-10-06T12:29:00+00:00"
+  },
+  {
+   "id": "123ef8b1fcce",
+   "title": "British man arrested over suspected RAF Fairford terrorism plot",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/06/british-man-arrested-over-suspected-raf-fairford-terrorism-plot",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Counter Terrorism Policing says 22-year-old arrested in London on suspicion of terrorism offences A 22-year-old British man has been arrested in London on suspicion of terrorism offences related to the suspected RAF Fairford terrorism plot, Counter Terrorism Policing said. More…",
+   "published": "2026-10-06T12:26:53+00:00"
+  },
+  {
+   "id": "1354a485cc87",
+   "title": "Asos customers receive ‘hack’ notification threatening to leak data",
+   "link": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Push message claims fashion company’s data has been ‘fully compromised’, but website and app remain online Business live – latest updates Asos is investigating after users of its mobile app received a notification claiming hackers had “fully compromised” the online fashion…",
+   "published": "2026-10-06T12:26:16+00:00"
+  },
+  {
+   "id": "76a77bd1cb4f",
+   "title": "US, Israeli and European far-right figures to gather for conference in Israel",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/us-israel-far-right-conference",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump’s counter-terrorism ‘czar’, Sebastian Gorka, was scheduled to speak at conference but White House says he will no longer attend A National Conservatism (NatCon) conference beginning today in Jerusalem advertises a talk from the Trump administration’s anti-terrorism czar…",
+   "published": "2026-10-06T12:21:01+00:00"
+  },
+  {
+   "id": "a514000ecbf3",
+   "title": "Google makes a fresh bet on nuclear power as the AI energy crunch intensifies",
+   "link": "https://www.marketwatch.com/story/google-makes-a-fresh-bet-on-nuclear-power-as-the-ai-energy-crunch-intensifies-a757c296?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Constellation’s stock is rising sharply following a deal that equates to as much power as would be supplied by a new nuclear reactor.",
+   "published": "2026-10-06T12:21:00+00:00"
+  },
+  {
+   "id": "8a77c091bf25",
+   "title": "Trump says he will stop using taxpayer funds for self-promoting ads after backlash – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President claims commercials were ‘positive promotion for our Great USA’ but says he will now cover their cost Q&A: The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions Sign up for Breaking News US email Donald Trump will begin his…",
+   "published": "2026-10-06T12:17:49+00:00"
+  },
+  {
+   "id": "642a4888bc76",
+   "title": "Badenoch suggests Tories would not reverse Labour’s pensions triple lock legislation – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In his party conference speech last week, Andy Burnham said he wanted to change the triple lock uprating mechanism from 2030 Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This…",
+   "published": "2026-10-06T12:15:30+00:00"
+  },
+  {
+   "id": "77e04e2e894a",
+   "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
+   "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+   "published": "2026-10-06T12:15:00+00:00"
+  },
+  {
+   "id": "af18cc03674a",
+   "title": "America’s favorite index is misleading investors about the state of the stock market",
+   "link": "https://www.marketwatch.com/story/americas-favorite-index-is-misleading-investors-about-the-state-of-the-stock-market-2e91ca95?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "For decades, the S&P 500 has been the preferred benchmark for monitoring the performance of the U.S. stock market. But these days, it is behaving less like a barometer of broad market health and more like a funhouse mirror.",
+   "published": "2026-10-06T12:05:00+00:00"
+  },
+  {
+   "id": "07062584d69e",
+   "title": "Late-Career Job Loss? 3 Ways to Protect Your Retirement",
+   "link": "https://www.kiplinger.com/personal-finance/careers/late-career-job-loss-how-to-protect-your-retirement",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "If you fear losing your job later in life, stay one step ahead by budgeting, stress-testing your retirement plan and investing in your professional network now.",
+   "published": "2026-10-06T12:00:00+00:00"
+  },
+  {
+   "id": "ea74627dc6db",
+   "title": "France’s student protests grow as hundreds of schools close",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/frances-student-protests-grow-as-hundreds-of-schools-close?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Al Jazeera’s Bernard Smith reports from France on the growing student protests across the country.",
+   "published": "2026-10-06T11:58:53+00:00"
+  },
+  {
+   "id": "bbc994630fe8",
+   "title": "Germany arrests former intelligence chief over alleged spying",
+   "link": "https://www.theguardian.com/world/2026/oct/06/germany-august-hanning-bnd-arrest-former-domestic-intelligence-chief",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "August Hanning served as president of federal intelligence service from 1998 to 2005 A former head of Germany’s foreign intelligence service has been arrested on suspicion of treason and spying on behalf of an overseas intelligence agency, prosecutors said. August Hanning, 80,…",
+   "published": "2026-10-06T11:57:36+00:00"
+  },
+  {
+   "id": "3cc7c2d951fd",
+   "title": "Tennis: World number one Sinner will not play in 2026 due to knee injury",
+   "link": "https://www.aljazeera.com/sports/2026/10/6/tennis-world-number-one-sinner-will-not-play-in-2026-due-to-knee-injury?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jannik Sinner has not competed in a tournament since winning at Wimbledon in July and will continue his recovery.",
+   "published": "2026-10-06T11:55:47+00:00"
+  },
+  {
+   "id": "566be1f5acd2",
+   "title": "The only place left is the moon: A Sudanese journey through a world of closed borders",
+   "link": "https://www.thenewhumanitarian.org/opinion/first-person/2026/10/06/only-place-left-moon-sudanese-journey-through-world-closed-borders",
+   "source": "The New Humanitarian",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The lives of those escaping war are being shaped by imperialist systems that mediate survival, movement, and the right to belong.",
+   "published": "2026-10-06T11:53:28+00:00"
+  },
+  {
+   "id": "e8d3bfd1f5b0",
+   "title": "Ship sinks and crew missing after Black Sea drone attack",
+   "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+   "published": "2026-10-06T11:53:21+00:00"
+  },
+  {
+   "id": "60cdda3b2395",
+   "title": "Kenya confirms its first Ebola death as outbreak spreads",
+   "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+   "published": "2026-10-06T11:51:26+00:00"
+  },
+  {
+   "id": "ea0b95a835f1",
+   "title": "How Palestinian reporters defied Israel’s genocide to redefine journalism",
+   "link": "https://www.aljazeera.com/news/2026/10/6/how-palestinian-reporters-defied-israels-genocide-to-redefine-journalism?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Western media under scrutiny for promoting Israeli narrative rather than standing up for vulnerable journalists in Gaza.",
+   "published": "2026-10-06T11:47:03+00:00"
+  },
+  {
+   "id": "5af7a6b998fc",
+   "title": "Can the State Be Trusted With the Death Penalty?",
+   "link": "https://thedispatch.com/podcast/dispatch-podcast/can-the-state-be-trusted-with-the-death-penalty/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: Angela Paxton ‘endorses’ her husband.",
+   "published": "2026-10-06T11:47:00+00:00"
+  },
+  {
+   "id": "89fec930f36d",
+   "title": "Are You Overpaying for a \"Free\" iPhone 18 Pro?",
+   "link": "https://www.kiplinger.com/personal-finance/gadgets/is-that-free-iphone-18-pro-costing-you-hundreds-of-extra-dollars",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A free iPhone 18 Pro deal can require a pricier wireless plan and a lengthy commitment. See how buying the phone outright could save you money.",
+   "published": "2026-10-06T11:45:00+00:00"
+  },
+  {
+   "id": "af96debcc558",
+   "title": "What to know about nationwide protests in India over voter list changes",
+   "link": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The campaign is led in part by India's \"Cockroach\" youth movement, which previously forced the education minister to resign.",
+   "published": "2026-10-06T11:44:06+00:00"
+  },
+  {
+   "id": "570ba73f57e4",
+   "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+   "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+   "published": "2026-10-06T11:42:52+00:00"
+  },
+  {
+   "id": "58d15ca5c079",
+   "title": "Argentina to stop Falklands exploiting offshore oilfields, country’s foreign minister says",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/06/argentina-to-stop-falkland-islands-exploiting-offshore-oilfields-sovereignty",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pablo Quirno says move is part of government’s strategy to peacefully assert sovereignty over the islands Argentina’s foreign minister has told an audience that included the British ambassador that his government would stop the Falkland Islands from exploiting its offshore…",
+   "published": "2026-10-06T11:40:03+00:00"
+  },
+  {
+   "id": "01199ee8e3e0",
+   "title": "Russia plague quarantine following lab death: Should we be worried?",
+   "link": "https://www.aljazeera.com/news/2026/10/6/russia-plague-quarantine-following-lab-death-should-we-be-worried?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plague is still endemic to Siberia, the location of the first known prehistoric human outbreak.",
+   "published": "2026-10-06T11:40:00+00:00"
+  },
+  {
+   "id": "af0df8b918a7",
+   "title": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat",
+   "link": "https://www.npr.org/2026/10/06/g-s1-146634/vietnamese-police-arrest-12-suspected-of-prowling-city-streets-at-night-snatching-cats-for-meat",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night.",
+   "published": "2026-10-06T11:38:48+00:00"
+  },
+  {
+   "id": "00dba6b2e1ae",
+   "title": "Australia faces summer of extreme weather, Anthony Albanese warns at pre-Cop",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/agreement-to-transition-away-from-fossil-fuels-not-open-for-renegotiation-pacific-leader-tells-pre-cop",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prime minister tells delegates in Tuvalu and Fiji that ‘super El Niño’ brewing in the Pacific shows climate change is ‘here right now’ Anthony Albanese has warned Australia faces a hazardous summer, likely including floods, cyclones and extreme heat, due to the immediate threat…",
+   "published": "2026-10-06T11:36:12+00:00"
+  },
+  {
+   "id": "1156edc6c547",
+   "title": "Ex-spy chief is arrested in Germany on suspicion of trading state secrets and treason",
+   "link": "https://www.npr.org/2026/10/06/g-s1-146630/germany-ex-spy-chief-state-secrets",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A former head of Germany 's foreign intelligence service was arrested on suspicion that he had passed state secrets to a foreign intelligence service, the federal prosecutor's office said.",
+   "published": "2026-10-06T11:31:48+00:00"
+  },
+  {
+   "id": "49316d1f585c",
+   "title": "Former UN food agency official claims he was fired for highlighting hunger in Gaza",
+   "link": "https://www.theguardian.com/world/2026/oct/06/former-un-food-agency-official-fao-benjamin-davis-hunger-gaza",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Benjamin Davis appealing against dismissal from FAO, after being accused by director general of playing ‘political games’ A former senior UN food agency official has alleged he was fired last week for his work highlighting hunger in Gaza, and has launched an appeal against his…",
+   "published": "2026-10-06T11:31:00+00:00"
+  },
+  {
+   "id": "d52e358bd78f",
+   "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
+   "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Unprecedented protests that began in low-income banlieue are turning ugly, with investigations under way into police brutality Before dawn on Tuesday outside the Lycée Sophie-Germain in central Paris, hundreds of teenagers dragged wheelie bins, metal barriers and shopping…",
+   "published": "2026-10-06T11:28:44+00:00"
+  },
+  {
    "id": "ca61885fb78b",
    "title": "'Ghost particles' from space telescope wins physics Nobel",
    "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
@@ -162,6 +492,17 @@
    "published": "2026-10-06T11:19:25+00:00"
   },
   {
+   "id": "f96b976ef2a1",
+   "title": "India opposition leaders briefly arrested in protest against election chief",
+   "link": "https://www.aljazeera.com/news/2026/10/6/india-opposition-leaders-briefly-arrested-in-protest-against-election-chief?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.",
+   "published": "2026-10-06T11:16:48+00:00"
+  },
+  {
    "id": "9f86f93e3609",
    "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
    "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
@@ -170,17 +511,6 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
-   "published": "2026-10-06T11:15:00+00:00"
-  },
-  {
-   "id": "08a02317c3e9",
-   "title": "Wall Street is hyping AI. This fund manager is betting instead on fires, HVAC and Berkshire Hathaway.",
-   "link": "https://www.marketwatch.com/story/wall-street-is-hyping-ai-this-fund-manager-is-betting-instead-on-fires-hvac-and-berkshire-hathaway-1b70fbea?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "The co-portfolio manager at Heartland Advisors urges investors to shut out Wall Street’s hype on AI and look for companies that can use its technology as costs come down.",
    "published": "2026-10-06T11:15:00+00:00"
   },
   {
@@ -195,17 +525,6 @@
    "published": "2026-10-06T11:12:41+00:00"
   },
   {
-   "id": "642a4888bc76",
-   "title": "Shadow minister says Tories would ‘keep political activism out of classrooms’ – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Laura Trott delivers conference speech to near-empty hall on supposed political correctness excesses in schools Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This is getting…",
-   "published": "2026-10-06T11:09:42+00:00"
-  },
-  {
    "id": "381f472435ea",
    "title": "Pro-Palestine Greens challenge Labour’s grip on Starmer’s former seat",
    "link": "https://www.aljazeera.com/news/2026/10/6/pro-palestine-greens-challenge-labours-grip-on-starmers-former-seat?traffic_source=rss",
@@ -215,17 +534,6 @@
    "flourishing_feed": false,
    "summary": "Green Party leader Zack Polanski hopes to shake Labour, which has held Holborn since the seat was created in 1983.",
    "published": "2026-10-06T11:01:43+00:00"
-  },
-  {
-   "id": "8a77c091bf25",
-   "title": "Trump says he will stop using taxpayer funds for self-promoting ads after backlash – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President claims commercials were ‘positive promotion for our Great USA’ but says he will now cover their cost Sign up for Breaking News US email Some Republicans also raised concerns, with Senate majority leader, John Thune, and the senators Mike Rounds, John Kennedy and Thom…",
-   "published": "2026-10-06T11:01:22+00:00"
   },
   {
    "id": "780ae69d366d",
@@ -316,17 +624,6 @@
    "published": "2026-10-06T10:44:48+00:00"
   },
   {
-   "id": "e8d3bfd1f5b0",
-   "title": "Ship sinks and crew missing after Black Sea drone attack",
-   "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
-   "published": "2026-10-06T10:37:19+00:00"
-  },
-  {
    "id": "e4b352bb6c1b",
    "title": "Drax datacentre could create nearly twice the yearly emissions of all Gatwick flights",
    "link": "https://www.theguardian.com/uk-news/2026/oct/06/drax-datacentre-yearly-co2-emissions-gatwick-flights-analysis",
@@ -336,28 +633,6 @@
    "flourishing_feed": false,
    "summary": "Exclusive: Campaign group’s analysis of North Yorkshire plans finds datacentre would have to burn 4.9m tonnes of wood a year Drax’s planned datacentre could produce nearly double the emissions of all flights out of Gatwick airport each year by burning 4.9m tonnes of wood…",
    "published": "2026-10-06T10:27:03+00:00"
-  },
-  {
-   "id": "1354a485cc87",
-   "title": "Asos customers receive ‘hack’ notification threatening leak",
-   "link": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Push message claims fashion company’s data has been ‘fully compromised’, but website and app remain online Business live – latest updates Asos is investigating after users of its mobile app received a notification claiming hackers had “fully compromised” the online fashion…",
-   "published": "2026-10-06T10:24:31+00:00"
-  },
-  {
-   "id": "60cdda3b2395",
-   "title": "Kenya confirms its first Ebola death as outbreak spreads",
-   "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
-   "published": "2026-10-06T10:22:05+00:00"
   },
   {
    "id": "0dc49c4d1105",
@@ -646,17 +921,6 @@
    "published": "2026-10-06T09:51:44+00:00"
   },
   {
-   "id": "bbc994630fe8",
-   "title": "Germany arrests former domestic intelligence chief over alleged spying",
-   "link": "https://www.theguardian.com/world/2026/oct/06/germany-august-hanning-bnd-arrest-former-domestic-intelligence-chief",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "August Hanning served as president of Federal Intelligence Service from 1998 to 2005 Germany’s federal prosecutor’s office has said a former domestic intelligence chief was arrested on Tuesday on espionage allegations. August Hanning was president of the Federal Intelligence…",
-   "published": "2026-10-06T09:49:41+00:00"
-  },
-  {
    "id": "77b11184248e",
    "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
    "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
@@ -787,17 +1051,6 @@
    "flourishing_feed": false,
    "summary": "Police say body found by trail bike riders at remote farm in Terragon is badly decomposed, sparking search of missing persons records Get our breaking news email , free app or daily news podcast A partially submerged body believed to be a woman has been discovered in a remote…",
    "published": "2026-10-06T09:05:54+00:00"
-  },
-  {
-   "id": "570ba73f57e4",
-   "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-   "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
-   "published": "2026-10-06T09:01:51+00:00"
   },
   {
    "id": "632bf2ede0ab",
@@ -1436,17 +1689,6 @@
    "flourishing_feed": false,
    "summary": "The Manchester City star asked to be substituted and was replaced in the 67th minute of the 2-1 defeat in Porto.",
    "published": "2026-10-06T05:38:52+00:00"
-  },
-  {
-   "id": "00dba6b2e1ae",
-   "title": "Agreement to transition away from fossil fuels ‘not open for renegotiation’, Pacific leader tells pre-Cop",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/06/agreement-to-transition-away-from-fossil-fuels-not-open-for-renegotiation-pacific-leader-tells-pre-cop",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "International leaders visit Tuvalu as part of climate talks co-hosted by Australia ahead of Cop31 conference Pacific island leaders have urged a promised global transition away from fossil fuels must not be left open to renegotiation as they gather in tiny Tuvalu in a bid to…",
-   "published": "2026-10-06T05:01:23+00:00"
   },
   {
    "id": "53f3239dbb40",
@@ -3416,17 +3658,6 @@
    "flourishing_feed": false,
    "summary": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
    "published": "2026-10-05T16:32:18+00:00"
-  },
-  {
-   "id": "77e04e2e894a",
-   "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-   "link": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-   "published": "2026-10-05T16:31:00+00:00"
   },
   {
    "id": "255700ed9a65",
