@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T07:32:24.107282+00:00",
+ "generated": "2026-10-06T08:33:07.319890+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 23
+   "count": 25
   },
   {
    "name": "Congressional Budget Office",
@@ -129,6 +129,17 @@
  ],
  "items": [
   {
+   "id": "09cd3057e271",
+   "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
+   "published": "2026-10-06T08:16:57+00:00"
+  },
+  {
    "id": "642a4888bc76",
    "title": "Badenoch claims of Tory air defence plan ‘we haven’t called it Iron Dome’ - despite phrase in press release - UK politics live",
    "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
@@ -137,7 +148,117 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Conservatives plan ‘new integrated air and missile defence system to protect Britain from attack Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This is getting confusing. On BBC…",
-   "published": "2026-10-06T07:13:06+00:00"
+   "published": "2026-10-06T08:10:09+00:00"
+  },
+  {
+   "id": "607ffdd35fce",
+   "title": "Trump suggests he would let Iran ‘take out’ Los Angeles or San Diego",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/trump-suggests-let-iran-take-out-los-angeles-san-diego",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Gavin Newsom calls comments ‘deranged and dangerous’ after president tells Nebraska rally: ‘They can take out a city’ Leaders in California have sharply denounced Donald Trump as “reckless” and “deranged” after the US president suggested Iran could “take out” Los Angeles and…",
+   "published": "2026-10-06T08:04:20+00:00"
+  },
+  {
+   "id": "1c97d2bd5129",
+   "title": "Trump drops longtime aversion to mail-in voting with GOP trailing in polls",
+   "link": "https://indianacapitalchronicle.com/2026/10/06/repub/trump-drops-longtime-aversion-to-mail-in-voting-with-gop-trailing-in-polls/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Donald Trump wants to sharply curtail mail ballots. He’s called them “inherently corrupt” and baselessly condemned them as a major source of fraud. But with Republicans falling behind in the polls, the president is now urging his supporters to vote in the midterm…",
+   "published": "2026-10-06T08:00:42+00:00"
+  },
+  {
+   "id": "bb34fcce2d23",
+   "title": "What is Russia saying about death of woman linked to plague lab?",
+   "link": "https://www.bbc.co.uk/news/videos/cw4g1r1k1d0ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "BBC Verify looks into the death of a woman linked to plague lab in Siberia.",
+   "published": "2026-10-06T07:58:53+00:00"
+  },
+  {
+   "id": "b0f4a832e25d",
+   "title": "US 'watching closely' after plague researcher dies in Russia",
+   "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
+   "published": "2026-10-06T07:58:19+00:00"
+  },
+  {
+   "id": "da11dfa8cb36",
+   "title": "Harmanpreet Kaur steps down as captain of India’s women’s cricket team",
+   "link": "https://www.aljazeera.com/sports/2026/10/6/harmanpreet-kaur-steps-down-as-captain-of-indias-womens-cricket-team?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 37-year-old is longest-serving cricket captain, among both men and women, to have captained in over 150 T20I games.",
+   "published": "2026-10-06T07:49:48+00:00"
+  },
+  {
+   "id": "ea812963d204",
+   "title": "Yemeni military says it has 'secured' Red Sea waterway",
+   "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+   "published": "2026-10-06T07:43:07+00:00"
+  },
+  {
+   "id": "0e2109aac0d5",
+   "title": "Are pets replacing human babies?",
+   "link": "https://www.aljazeera.com/video/money-works/2026/10/6/are-pets-replacing-human-babies?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Why are birth rates declining while pet ownership is on the rise?",
+   "published": "2026-10-06T07:39:00+00:00"
+  },
+  {
+   "id": "4b05c3c8745a",
+   "title": "Taylor’s hardline immigration plan drags Australian politics further to the right – and it’s all upside for One Nation",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/taylors-hardline-immigration-plan-drags-australian-politics-further-to-the-right-and-its-all-upside-for-one-nation-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Coalition leader’s proposal goes further than Peter Dutton’s 2025 election promise and beyond even Pauline Hanson’s bottom line Get our new political email , free app or daily news podcast With Angus Taylor’s hardline immigration policy unveiled on Tuesday, voters have a new…",
+   "published": "2026-10-06T07:26:48+00:00"
+  },
+  {
+   "id": "d9446a8b4ce5",
+   "title": "Children brave snipers and mortars to go to school near Yemen front line",
+   "link": "https://www.bbc.co.uk/news/articles/c670pzpv9gk4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In rare access to Taiz, the BBC World Service speaks to children, teachers and families affected by the war.",
+   "published": "2026-10-06T07:23:24+00:00"
+  },
+  {
+   "id": "3eb4ce4983cd",
+   "title": "Trump approves firing squad execution for Fort Hood attacker Nidal Hasan",
+   "link": "https://www.aljazeera.com/news/2026/10/6/trump-approves-firing-squad-execution-for-fort-hood-attacker-nidal-hasan?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pentagon confirms execution order for Nidal Hasan, convicted of killing 13 in Fort Hood shooting in 2009.",
+   "published": "2026-10-06T07:23:00+00:00"
   },
   {
    "id": "c0cd95395d7b",
@@ -270,17 +391,6 @@
    "flourishing_feed": false,
    "summary": "Former Duke of York is attempting to quash search warrants that led to his arrest in February Andrew Mountbatten-Windsor has been warned not to use the king’s private money to fund his legal action against Thames Valley police. The former Duke of York is attempting to quash…",
    "published": "2026-10-06T06:44:12+00:00"
-  },
-  {
-   "id": "09cd3057e271",
-   "title": "Nigeria mourns as 32 killed in military plane crash",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-   "published": "2026-10-06T06:33:13+00:00"
   },
   {
    "id": "6e4804426009",
@@ -481,17 +591,6 @@
    "published": "2026-10-06T04:34:16+00:00"
   },
   {
-   "id": "ea812963d204",
-   "title": "Yemeni military says it has 'secured' Red Sea waterway",
-   "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
-   "published": "2026-10-06T04:29:53+00:00"
-  },
-  {
    "id": "af14c918c514",
    "title": "RSPCA NSW director quits over welfare standards for RSPCA-branded chicken",
    "link": "https://www.theguardian.com/food/2026/oct/06/rspca-vice-president-quits-chicken-welfare-standards",
@@ -534,6 +633,28 @@
    "flourishing_feed": false,
    "summary": "The custodian's new offering features no account minimums, lower fees than competitors and flexible investment options for advisors managing client philanthropy.",
    "published": "2026-10-06T04:01:00+00:00"
+  },
+  {
+   "id": "cf55b97c1cb8",
+   "title": "Transparency in Coverage",
+   "link": "https://www.federalregister.gov/documents/2026/10/06/2026-20447/transparency-in-coverage",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "These final rules set forth requirements that amend the regulations under the Public Health Service Act, the Employee Retirement Income Security Act of 1974, and the Internal Revenue Code regarding price transparency reporting requirements for non- grandfathered group health…",
+   "published": "2026-10-06T04:00:00+00:00"
+  },
+  {
+   "id": "009f86f5c450",
+   "title": "Agency Information Collection Activities; Comment Request on Cognitive and Psychological Research Coordinated by Statistics of Income on Behalf of All IRS Operations Functions",
+   "link": "https://www.federalregister.gov/documents/2026/10/06/2026-20410/agency-information-collection-activities-comment-request-on-cognitive-and-psychological-research",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+   "published": "2026-10-06T04:00:00+00:00"
   },
   {
    "id": "bc930498db74",
@@ -911,7 +1032,7 @@
   },
   {
    "id": "a93ba133a224",
-   "title": "A simple guide to the US midterms",
+   "title": "What are the US midterms? A simple guide",
    "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -1152,6 +1273,17 @@
    "published": "2026-10-05T22:00:00+00:00"
   },
   {
+   "id": "9c6ca360da20",
+   "title": "What prompted the US bombers to leave RAF Fairford?",
+   "link": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes.",
+   "published": "2026-10-05T21:57:26+00:00"
+  },
+  {
    "id": "00730c9372eb",
    "title": "The case for Nvidia’s stock to march even higher after clinching its first record high in months",
    "link": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
@@ -1238,17 +1370,6 @@
    "flourishing_feed": false,
    "summary": "Nvidia-backed Reflection AI announced Beam, a new ultra-efficient open model that boasts capabilities on par with those of Chinese ones",
    "published": "2026-10-05T21:43:00+00:00"
-  },
-  {
-   "id": "b0f4a832e25d",
-   "title": "US 'watching closely' after plague researcher dies in Russia",
-   "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
-   "published": "2026-10-05T21:33:49+00:00"
   },
   {
    "id": "fc94b99bd90d",
