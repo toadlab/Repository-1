@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T09:33:11.476208+00:00",
+ "generated": "2026-10-06T10:31:57.619134+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 22
+   "count": 24
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,17 @@
  ],
  "items": [
   {
+   "id": "ca61885fb78b",
+   "title": "'Ghost particles' from space telescope wins physics Nobel",
+   "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+   "published": "2026-10-06T10:23:59+00:00"
+  },
+  {
    "id": "60cdda3b2395",
    "title": "Kenya confirms its first Ebola death as outbreak spreads",
    "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
@@ -137,7 +148,315 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
-   "published": "2026-10-06T09:26:11+00:00"
+   "published": "2026-10-06T10:22:05+00:00"
+  },
+  {
+   "id": "399f91c7259d",
+   "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
+   "link": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison. His research into capturing neutrinos at the South Pole dates back to the 1980s.",
+   "published": "2026-10-06T10:16:28+00:00"
+  },
+  {
+   "id": "c4794f2e5dc6",
+   "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
+   "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A reader writes: “We’d better get real quick or we’re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.”",
+   "published": "2026-10-06T10:15:00+00:00"
+  },
+  {
+   "id": "09cd3057e271",
+   "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
+   "published": "2026-10-06T10:13:02+00:00"
+  },
+  {
+   "id": "3823a87eb0f6",
+   "title": "US televangelist Jim Bakker, ensnared in fraud and sex scandal, dies at 86",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/jim-bakker-us-televangelist-fraud-sex-scandal-dead-at-86",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bakker spent four and a half years in prison after being convicted in 1989 ​of defrauding followers in a scheme involving holidays at his Christian theme park The US televangelist Jim Bakker, who built a multimillion-dollar empire and lived ⁠in opulence before being disgraced…",
+   "published": "2026-10-06T10:11:46+00:00"
+  },
+  {
+   "id": "349146704d27",
+   "title": "Indian opposition MPs detained in protest against election chief",
+   "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
+   "published": "2026-10-06T10:05:22+00:00"
+  },
+  {
+   "id": "642a4888bc76",
+   "title": "Badenoch disowns Tory claims that air defence plan amounts to ‘British Iron Dome’ - UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tory leader says ‘Britannia Shield’ will not be a similar scheme to that protecting Israel after repeated questions from broadcasters Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at…",
+   "published": "2026-10-06T10:02:33+00:00"
+  },
+  {
+   "id": "1deae0d14aff",
+   "title": "New Jersey congresswoman LaMonica McIver faces legal deadline after giving birth to second child",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/lamonica-mciver-newborn-baby-federal-case",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "She must decide by the end of the week whether to seek further review of federal charges over a confrontation with ICE agents at Delaney Hall A US congresswoman who just gave birth to a baby girl faces a deadline this week on whether to seek a rehearing of a federal case…",
+   "published": "2026-10-06T10:00:52+00:00"
+  },
+  {
+   "id": "6dab7a37f172",
+   "title": "‘Using the presidency to line his pockets’: could claims of corruption fuel backlash against Trump?",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/trump-corruption-backlash",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Experts say president is vulnerable amid discontent over rising prices – and the US public has ample cause for complaint In Donald Trump’s telling, he’s a model of incorruptible self-sacrifice. “I’m the only president that donated his salary,” he told a group of cheering…",
+   "published": "2026-10-06T10:00:51+00:00"
+  },
+  {
+   "id": "0082f8c895be",
+   "title": "Defense Secretary Pete Hegseth wants religious faith ‘front and center’ in the U.S. military",
+   "link": "https://www.deseret.com/u-s-world/2026/10/06/hegseth-religion-military-pentagon/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Headlines surrounding Defense Secretary Pete Hegseth often focus on his handling of the Iran war, media animosities, his implementation of mandatory testosterone level checks and his goal of “no more fatties” in the ranks . But since becoming the Pentagon chief last year,…",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "id": "470161611113",
+   "title": "Can ‘a committee of guys’ step in for injured LJ Martin and lift No. 8 BYU past explosive Iowa State?",
+   "link": "https://www.deseret.com/sports/2026/10/06/byu-football-injury-situation-lj-martin-ankle-isaiah-glasker-sprain-iowa-state/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "When No. 8 BYU hosts Iowa State on Friday in a late-night special (8:15 p.m. MDT, ESPN) at LaVell Edwards Stadium, the best running back on the field quite likely will not be playing for the Cougars, believe it or not. With reigning Big 12 Offensive Player of the Year LJ Martin…",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "id": "a59c8eb0e21c",
+   "title": "New statue of resurrected Jesus Christ unveiled inside Conference Center",
+   "link": "https://www.deseret.com/faith/2026/10/06/new-statue-of-resurrected-christ-inside-conference-center-church-of-jesus-christ/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This article is an excerpt from the weekly ChurchBeat newsletter . Sign up to receive the newsletter in your inbox each Wednesday night. There’s a major new statue in the atrium of the Conference Center. Workers installed “Christ Visits the Americas” six weeks ago but the…",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "id": "ea6e251c2f26",
+   "title": "How Utahns and the country differ on transgender women in sports",
+   "link": "https://www.deseret.com/sports/2026/10/06/transgender-women-sports-laws-ban-playing-deseret-news-poll/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three months after the U.S. Supreme Court upheld state laws barring transgender girls and women from girls’ and women’s sports, most American voters say they support those laws, and Utahns back them even more strongly, according to a new Deseret News/Hinckley Institute of…",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "id": "11fcf5d197a9",
+   "title": "Redwoods are natural magic kingdoms. Extreme heat is breaking their spell.",
+   "link": "https://www.vox.com/climate/504991/redwood-tree-california-heat-photosynthesis",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A grove of coast redwood trees is a forest of forests. Individual trees can live for thousands of years, and as they grow, their canopies develop mats of soils and ferns, creating something like a second forest floor hundreds of feet above the ground. These elevated ecosystems…",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "id": "f01b54a00c72",
+   "title": "More Than 500 U.S. Citizens Have Been Detained, Including Handcuffed or Held at Gunpoint, in Trump’s Immigration Crackdown",
+   "link": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post More Than 500 U.S. Citizens Have Been Detained, Including Handcuffed or Held at Gunpoint, in Trump’s Immigration Crackdown appeared first on ProPublica .",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "id": "eccda7b398d6",
+   "title": "This Orthodox Ascetic Made Me More Evangelical",
+   "link": "https://www.christianitytoday.com/2026/10/mark-the-monk-orthodox-evangelical/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "“Why aren’t you Catholic?” my friend from divinity school asks. It’s a valid question. As a kid, I had my feet planted on both sides of the Tiber. I’d go to Mass with my dad on Saturdays and attend a Baptist church with my whole family on Sundays. Eventually, I settled into…",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "id": "d879e4f87052",
+   "title": "Religion Is Not the Enemy of Reading",
+   "link": "https://www.christianitytoday.com/2026/10/religion-is-not-the-enemy-of-reading-new-dark-ages-marriott-review/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Reading is dead, and screens are the culprit. That’s one side of James Marriott’s thesis in The New Dark Ages: The Death of Reading and the Dawn of the Post-Literate Society. It’s a claim you’ve heard before, and you probably half agree. You’ve seen the teens with slack faces…",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "id": "875c49eab24d",
+   "title": "We Need the Church to Face the Quiet",
+   "link": "https://www.christianitytoday.com/2026/10/we-need-the-church-to-face-into-the-quiet-john-mark-comer-review/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For several years, I taught an undergraduate course on spiritual formation. Part of the class included readings from the desert fathers and mothers, who, following the example of Jesus (Luke 5:16), withdrew from society and went into the wilderness, embracing a life of…",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "id": "382687177cbf",
+   "title": "5 Steps to Prevent an Inheritance From Fracturing Your Family",
+   "link": "https://www.kiplinger.com/retirement/inheritance/steps-to-prevent-an-inheritance-from-fracturing-your-family",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Conflict among adult children over their parents' estate is all too common — and Mom and Dad’s worst nightmare. Here's how to ensure the kids won’t fight after you’re gone.",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "id": "f8d5c8896ef8",
+   "title": "Inherited $1 Million in the Great Wealth Transfer? Here’s What to Do First",
+   "link": "https://www.kiplinger.com/retirement/inheritance/inherited-1-million-what-to-do-first",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Before you splurge, learn where to park your cash, the rules for inherited IRAs and 401(k)s and how to avoid costly tax mistakes on a $1 million windfall.",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "id": "2fa583e7311c",
+   "title": "Don't Get Burned by a Home Warranty: What to Do Instead",
+   "link": "https://www.kiplinger.com/personal-finance/why-buying-a-home-warranty-could-leave-you-feeling-burned",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Home warranty companies often make big promises to get you to sign up, only to stall or deny expensive repairs when you need them most. Here's an example.",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "id": "4e333c57b6fd",
+   "title": "Should I put my nest egg in a 30-year Treasury bond?",
+   "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Risk comes in many forms, even with “safe” investments.",
+   "published": "2026-10-06T10:00:00+00:00"
+  },
+  {
+   "id": "0c7aa74f600e",
+   "title": "Elon Musk’s wealth tops $1 trillion. These entire countries produce less.",
+   "link": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Is Musk wealthier than the national economy of Poland or Ireland? Find out here.",
+   "published": "2026-10-06T09:56:00+00:00"
+  },
+  {
+   "id": "690d6b85186a",
+   "title": "Kenya ministry of health confirms first imported Ebola case",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The first imported case of Ebola has been recorded in Kenya.",
+   "published": "2026-10-06T09:51:44+00:00"
+  },
+  {
+   "id": "bbc994630fe8",
+   "title": "Germany arrests former domestic intelligence chief over alleged spying",
+   "link": "https://www.theguardian.com/world/2026/oct/06/germany-august-hanning-bnd-arrest-former-domestic-intelligence-chief",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "August Hanning served as president of Federal Intelligence Service from 1998 to 2005 Germany’s federal prosecutor’s office has said a former domestic intelligence chief was arrested on Tuesday on espionage allegations. August Hanning was president of the Federal Intelligence…",
+   "published": "2026-10-06T09:49:41+00:00"
+  },
+  {
+   "id": "77b11184248e",
+   "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+   "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
+   "published": "2026-10-06T09:48:37+00:00"
+  },
+  {
+   "id": "66c1fb21d060",
+   "title": "Michael Burry says he’s sold out of his top holding — for now",
+   "link": "https://www.marketwatch.com/story/michael-burry-says-hes-sold-out-of-his-top-holding-for-now-615c9158?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Michael Burry, the contrarian ex-hedge-fund manager chronicled in The Big Short, is selling his top holding at an 8.5-year low.",
+   "published": "2026-10-06T09:42:00+00:00"
+  },
+  {
+   "id": "0548a4b32305",
+   "title": "India’s ‘million mutinies’ are puncturing Modi’s aura of invincibility",
+   "link": "https://www.aljazeera.com/opinions/2026/10/6/indias-million-mutinies-are-puncturing-modis-aura-of-invincibility?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Across the country, Indians are turning disparate grievances into a broader reckoning with unaccountable power.",
+   "published": "2026-10-06T09:39:03+00:00"
+  },
+  {
+   "id": "78fe2c82c0c4",
+   "title": "Kenya confirms first Ebola case and says patient has died",
+   "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya ⁠has recorded its ⁠first confirmed ​Ebola case, a Kenyan citizen who had been living in the Democratic ⁠Republic of the Congo and arrived in Nairobi on Saturday, the health…",
+   "published": "2026-10-06T09:35:12+00:00"
   },
   {
    "id": "bf0ed46605cf",
@@ -149,6 +468,17 @@
    "flourishing_feed": false,
    "summary": "Aegean Boat Report founder Tommy Olsen insists he is defending the rule of law, as Greece opens trial against him.",
    "published": "2026-10-06T09:25:14+00:00"
+  },
+  {
+   "id": "2eab8ebb517c",
+   "title": "George Fenton, Oscar-nominated British composer for more than 100 films, dies aged 76",
+   "link": "https://www.theguardian.com/music/2026/oct/06/george-fenton-oscar-nominated-british-composer-dies-aged-76-gandhi-groundhog-day-ken-loach",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fenton’s successes include scores for Gandhi, Groundhog Day and 18 Ken Loach films, plus BBC TV news themes, Blue Planet and more George Fenton, the British composer who earned five Oscar nominations for scores to films such as Gandhi and Dangerous Liaisons, has died aged 76. A…",
+   "published": "2026-10-06T09:24:56+00:00"
   },
   {
    "id": "01d1671974f2",
@@ -195,17 +525,6 @@
    "published": "2026-10-06T09:16:00+00:00"
   },
   {
-   "id": "0c7aa74f600e",
-   "title": "Elon Musk is a trillionaire again. Here’s how his wealth stacks up against national economies.",
-   "link": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Is Musk wealthier than the national economy of Poland or Ireland? Find out here.",
-   "published": "2026-10-06T09:16:00+00:00"
-  },
-  {
    "id": "853d6b3ae34f",
    "title": "Former N.Y. Gov. Andrew Cuomo buys a 7-acre Hamptons estate for $9.6 million cash",
    "link": "https://www.marketwatch.com/story/former-n-y-gov-andrew-cuomo-buys-a-7-acre-hamptons-estate-for-9-6-million-cash-2deb9d9f?mod=mw_rss_topstories",
@@ -226,28 +545,6 @@
    "flourishing_feed": false,
    "summary": "Police say body found by trail bike riders at remote farm in Terragon is badly decomposed, sparking search of missing persons records Get our breaking news email , free app or daily news podcast A partially submerged body believed to be a woman has been discovered in a remote…",
    "published": "2026-10-06T09:05:54+00:00"
-  },
-  {
-   "id": "09cd3057e271",
-   "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-   "published": "2026-10-06T09:02:03+00:00"
-  },
-  {
-   "id": "642a4888bc76",
-   "title": "Badenoch disowns Tory claims that air defence plan amounts to ‘British Iron Dome’ - UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Tory leader says ‘Britannia Shield’ will not be a similar scheme to that protecting Israel after repeated questions from broadcasters Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at…",
-   "published": "2026-10-06T09:01:55+00:00"
   },
   {
    "id": "570ba73f57e4",
@@ -306,13 +603,13 @@
   },
   {
    "id": "f0ebd7e1a573",
-   "title": "The Shining axe used by Jack Nicholson for sale as part Stanley Kubrick auction",
+   "title": "Axe used by Jack Nicholson in The Shining for sale as part of Stanley Kubrick auction",
    "link": "https://www.theguardian.com/film/2026/oct/06/the-shining-axe-jack-nicholson-stanley-kubrick-archive-auction",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Excluive: Weapon is one of hundreds of items to be sold as part of the influential late director’s personal archive The axe wielded by Jack Nicholson as he delivered his chillingly manic line “Here’s Johnny!” in the 1980 horror movie The Shining is to go on sale. Nicholson’s…",
+   "summary": "Exclusive: Weapon is one of hundreds of items to be sold as part of the influential late director’s personal archive The axe wielded by Jack Nicholson as he delivered his chillingly manic line “Here’s Johnny!” in the 1980 horror movie The Shining is to go on sale. Nicholson’s…",
    "published": "2026-10-06T09:00:08+00:00"
   },
   {
@@ -426,17 +723,6 @@
    "published": "2026-10-06T09:00:00+00:00"
   },
   {
-   "id": "bbc994630fe8",
-   "title": "Germany arrests former domestic intelligence chief over alleged spying",
-   "link": "https://www.theguardian.com/world/2026/oct/06/germany-august-hanning-bnd-arrest-former-domestic-intelligence-chief",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "August Hanning served as president of Federal Intelligence Service from 1998 to 2005 Germany’s federal prosecutor’s office has said a former domestic intelligence chief was arrested on Tuesday on espionage allegations. August Hanning served as president of the Federal…",
-   "published": "2026-10-06T08:59:16+00:00"
-  },
-  {
    "id": "7b8e1f4c7955",
    "title": "South Korea considers steps to force North Korea apology for DMZ mine blast",
    "link": "https://www.aljazeera.com/news/2026/10/6/south-korea-considers-steps-to-force-north-korea-apology-for-dmz-mine-blast?traffic_source=rss",
@@ -448,17 +734,6 @@
    "published": "2026-10-06T08:58:36+00:00"
   },
   {
-   "id": "3823a87eb0f6",
-   "title": "US televangelist Jim Bakker, ensnared in fraud and sex scandal, dies at 86",
-   "link": "https://www.theguardian.com/us-news/2026/oct/06/jim-bakker-us-televangelist-fraud-sex-scandal-dead-at-86",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Bakker spent four and a half years in prison after being convicted in 1989 ​of defrauding followers in a scheme involving holidays at his Christian theme park The US televangelist Jim Bakker, who built a multimillion-dollar empire and lived ⁠in opulence before being disgraced…",
-   "published": "2026-10-06T08:55:03+00:00"
-  },
-  {
    "id": "7c1176f4b672",
    "title": "Morning news brief",
    "link": "https://www.npr.org/2026/10/06/nx-s1-5988270/morning-news-brief",
@@ -468,17 +743,6 @@
    "flourishing_feed": false,
    "summary": "With just weeks to go, a look at where the midterm elections stand, Saudi-backed forces in Yemen launch a major counter-offensive, Paramount and Warner Bros. begin operations after merger.",
    "published": "2026-10-06T08:51:39+00:00"
-  },
-  {
-   "id": "78fe2c82c0c4",
-   "title": "Kenya confirms first Ebola case and says patient has died",
-   "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya ⁠has recorded its ⁠first confirmed ​Ebola case, a Kenyan citizen who had been living in the Democratic ⁠Republic of the Congo and arrived in Nairobi on Saturday, the health…",
-   "published": "2026-10-06T08:47:51+00:00"
   },
   {
    "id": "c331f4aaf953",
@@ -1469,17 +1733,6 @@
    "flourishing_feed": false,
    "summary": "Ethiopia is facing renewed fighting in the north, just four years after the devastating Tigray war ended.",
    "published": "2026-10-05T23:38:51+00:00"
-  },
-  {
-   "id": "c4794f2e5dc6",
-   "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
-   "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "A reader writes: “We’d better get real quick or we’re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.”",
-   "published": "2026-10-05T23:30:00+00:00"
   },
   {
    "id": "ab3b609f2ceb",
