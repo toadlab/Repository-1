@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T01:30:01.798741+00:00",
+ "generated": "2026-10-06T02:30:56.119623+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Federal Register: IRS",
@@ -129,15 +129,70 @@
  ],
  "items": [
   {
-   "id": "ea812963d204",
-   "title": "Yemeni military says it has 'secured' Red Sea waterway",
-   "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "id": "16461ce1fc65",
+   "title": "High school boys golf: 3A region recaps, Morgan, Carbon Juab claim region titles",
+   "link": "https://www.deseret.com/sports/2026/10/05/high-school-boys-golf-3a-region-recaps/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 3A boys golf regular season came to a close Monday with the final region tournament of the season; Now the focus shifts to Carbon Country Club Golf Course in Price next Wednesday and Thursday for the 3A state tournament. Morgan, Carbon and Juab won their respective region…",
+   "published": "2026-10-06T02:22:06+00:00"
+  },
+  {
+   "id": "e909a80557f5",
+   "title": "NHL this week: 7 storylines to stay up to date with the league",
+   "link": "https://www.deseret.com/sports/2026/10/05/nhl-storylines-october-2026/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "After one of the most engaging off-seasons in recent memory, and the NHL’s regular season has not disappointed so far. Here are the storylines to follow to stay up to date with the league. ‘That’s hockey’ is not an acceptable answer, Mr. Cuylle Alex Ovechkin announced his…",
+   "published": "2026-10-06T02:11:22+00:00"
+  },
+  {
+   "id": "a1fdc74841db",
+   "title": "Minky Couture Week 10 high school star athletes of the week",
+   "link": "https://www.deseret.com/sports/2026/10/05/high-school-preps-athletes-of-the-week-10-football-soccer/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Football Tate Patterson, Corner Canyon (Sr.) Tate Patterson has made big contributions on both sides of the ball last week, which helped Corner Canyon to an easy 56-0 win over Cedar Valley. Defensively, he tallied seven tackles for the Chargers and leads the team with 69 total…",
+   "published": "2026-10-06T02:10:02+00:00"
+  },
+  {
+   "id": "ae6aa17ebe5e",
+   "title": "Trump claims he’s ‘doing great’ as his approval rating sinks to record low – as it happened",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
+   "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
-   "published": "2026-10-06T01:05:00+00:00"
+   "summary": "This live blog is now closed. Sign up for the Breaking News US email Ask our reporters your questions about the Iran war and the US midterms As the supreme court hears oral arguments this morning, it’s worth noting that if the justices side with Boulder or decide that the case…",
+   "published": "2026-10-06T01:55:59+00:00"
+  },
+  {
+   "id": "67a3ced891ce",
+   "title": "Trump says taxpayers will no longer fund TV ads that praise him",
+   "link": "https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Move comes after ethics experts criticised three nationally broadcast ads and called for independent investigations.",
+   "published": "2026-10-06T01:51:32+00:00"
+  },
+  {
+   "id": "7596e1f6382e",
+   "title": "Turkiye, Pakistan to deploy forces to Saudi as Yemen fighting grows",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-yemen-war-update-sv?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "During emergency talks in Riyadh, Turkiye and Pakistan agreed to send rapid deployment forces to Saudi Arabia.",
+   "published": "2026-10-06T01:39:54+00:00"
   },
   {
    "id": "714ab9976025",
@@ -148,18 +203,73 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "President’s U-turn comes after Democrats and Republicans condemned use of tax dollars for pro-Trump ads Donald Trump said on Monday he would pay for taxpayer-funded, pro-Trump ads “with money I raised for MAGA, Inc.”, a political action committee, after the television…",
-   "published": "2026-10-06T01:04:58+00:00"
+   "published": "2026-10-06T01:35:00+00:00"
   },
   {
-   "id": "ae6aa17ebe5e",
-   "title": "Trump claims he’s ‘doing great’ as his approval rating sinks to record low – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
+   "id": "aeeadbec07a6",
+   "title": "Trump approves firing-squad execution of Fort Hood shooter, Pentagon says",
+   "link": "https://www.theguardian.com/us-news/2026/oct/05/trump-fort-hood-shooter-execution",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "President downplays unfavorable polling as he travels to Nebraska to support Republicans ahead of the US midterm elections Sign up for the Breaking News US email Ask our reporters your questions about the Iran war and the US midterms As the supreme court hears oral arguments…",
-   "published": "2026-10-06T01:02:24+00:00"
+   "summary": "Nidal Hasan sentenced to death by military jury in 2013 for carrying out deadly shooting attack at army base in Texas Donald Trump has approved the execution by US army firing squad of Nidal Hasan, who was sentenced to death for killing 13 soldiers at Fort Hood in 2009, chief…",
+   "published": "2026-10-06T01:33:44+00:00"
+  },
+  {
+   "id": "d20c3794e122",
+   "title": "Student protests erupt at Cornell over mishandling of gang-rape allegations",
+   "link": "https://www.theguardian.com/us-news/2026/oct/05/students-vandalize-cornell-building",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hall housing Michael Kotlikoff’s office spray painted as demonstrators demand resignation of college president Cornell University to take ‘serious look’ at fraternities after rape allegations Mass protests erupted at Cornell University on Monday, with students criticizing…",
+   "published": "2026-10-06T01:30:11+00:00"
+  },
+  {
+   "id": "b1de9a8b0305",
+   "title": "Australian Army soldier killed and five others injured in training exercise in the Northern Territory",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/australian-defence-force-soldier-killed-five-injuried-mount-bundey-training-northern-territory",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Defence confirmed the fatality occurred on Monday at the Mount Bundey training area, with next of kin informed Get our breaking news email , free app or daily news podcast An Australian soldier has died and five others were injured in a training accident at a facility outside…",
+   "published": "2026-10-06T01:28:37+00:00"
+  },
+  {
+   "id": "d25b9e367ef3",
+   "title": "Former ‘American Idol’ singer Caleb Flynn gets life for wife’s murder",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/former-american-idol-singer-caleb-flynn-gets-life-for-wifes-murder?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former ‘American Idol’ singer Caleb Flynn is sentenced to life without parole after being convicted of his wife's murder",
+   "published": "2026-10-06T01:24:53+00:00"
+  },
+  {
+   "id": "7b34879943ea",
+   "title": "Angus Taylor vows biggest cut to migration in Australia’s history, slashing 650,000 temporary visas",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/coalition-immigration-policy-angus-taylor-one-nation-labor-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Opposition leader says Coalition would reduce net overseas migration to 100,000 for two years Get our new political email , free app or daily news podcast Angus Taylor says a Coalition government would cut net overseas migration to 100,000 for two years, calling the plan “the…",
+   "published": "2026-10-06T01:18:10+00:00"
+  },
+  {
+   "id": "ea812963d204",
+   "title": "Yemeni military says it has 'secured' Red Sea waterway",
+   "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+   "published": "2026-10-06T01:05:00+00:00"
   },
   {
    "id": "cb4356384844",
@@ -204,17 +314,6 @@
    "flourishing_feed": false,
    "summary": "The University of Utah football team had a special guest on their first road trip of the season. Elder Ronald A. Rasband , a member of the Quorum of the Twelve Apostles of The Church of Jesus Christ of Latter-day Saints, was on hand in Ames, Iowa, to watch Utah defeat Iowa…",
    "published": "2026-10-06T00:23:19+00:00"
-  },
-  {
-   "id": "b1de9a8b0305",
-   "title": "Australian soldier killed and five others injured in training exercise in the Northern Territory",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/06/australian-defence-force-soldier-killed-five-injuried-mount-bundey-training-northern-territory",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Defence confirmed the fatality occurred on Monday at the Mount Bundey training area, with next of kin informed Get our breaking news email , free app or daily news podcast An Australian soldier has died and five others were injured in a training accident at a facility outside…",
-   "published": "2026-10-06T00:19:23+00:00"
   },
   {
    "id": "917e56da1733",
@@ -284,13 +383,13 @@
   },
   {
    "id": "405483f8c72f",
-   "title": "Oil from South Korea being shipped to Russia as Ukraine war grinds on",
+   "title": "Fuel from South Korea being shipped to Russia as Ukraine war grinds on",
    "link": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Exclusive: Guardian analysis finds more than 150,000 tonnes of fuel was shipped to Russian ports in July and August, some using sanctioned tankers Oil is being shipped from South Korea to Russia via sanctioned tankers as Moscow scrambles for supplies amid the war in Ukraine, a…",
+   "summary": "Exclusive: Guardian analysis finds more than 150,000 tonnes of fuel was shipped to Russian ports in July and August, some using sanctioned tankers Fuel is being shipped from South Korea to Russia via sanctioned tankers as Moscow scrambles for supplies amid the war in Ukraine, a…",
    "published": "2026-10-05T23:50:12+00:00"
   },
   {
@@ -413,17 +512,6 @@
    "flourishing_feed": false,
    "summary": "Publisher says author died peacefully at home ‘between writing sessions’ Jeffrey Archer, the bestselling author and former MP whose political career ended in disgrace when he was imprisoned for perjury, has died at the age of 86. Archer, who was a Conservative MP for five years…",
    "published": "2026-10-05T22:31:47+00:00"
-  },
-  {
-   "id": "7b34879943ea",
-   "title": "Coalition set to unveil dramatically deeper cuts to overseas migration as it fends off One Nation’s rise",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/06/coalition-immigration-policy-angus-taylor-one-nation-labor-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Sources say the opposition’s target will be below Labor’s but won’t match One Nation’s goal to limit net arrivals to 130,000 Get our new political email , free app or daily news podcast The Coalition is expected to reveal deep cuts to immigration, which the party says would…",
-   "published": "2026-10-05T22:18:18+00:00"
   },
   {
    "id": "c99a9894dd3f",
@@ -1040,17 +1128,6 @@
    "flourishing_feed": false,
    "summary": "Former MP and Green Institute head says proposal for publicly owned supermarket chain will ease grocery prices Get our new political email , free app or daily news podcast More than 200 Coles and Woolworths supermarkets would be nationalised, and hundreds of government grocery…",
    "published": "2026-10-05T19:55:41+00:00"
-  },
-  {
-   "id": "d20c3794e122",
-   "title": "Students vandalize Cornell building over handling of gang-rape allegations",
-   "link": "https://www.theguardian.com/us-news/2026/oct/05/students-vandalize-cornell-building",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Student activists defend their actions as nonviolent, saying ‘property damage is not violent, condoning rape is’ Cornell University to take ‘serious look’ at fraternities after rape allegations Student activists vandalized a Cornell University administration building overnight…",
-   "published": "2026-10-05T19:52:32+00:00"
   },
   {
    "id": "6e297e9168a6",
