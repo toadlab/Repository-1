@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T21:29:50.194439+00:00",
+ "generated": "2026-10-06T22:30:18.777218+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,314 @@
  ],
  "items": [
   {
+   "id": "d85886d88126",
+   "title": "Utah health department issues warning after 4 deaths linked to certain herbal supplements",
+   "link": "https://www.deseret.com/lifestyle/2026/10/06/utah-health-dept-issues-warning-after-4-deaths-linked-to-certain-herbal-supplements/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Four deaths in Utah were tied to \"illegal chemical compounds found in certain herbal supplements, including kratom products and 'cat's claw,'\" according to health officials.",
+   "published": "2026-10-06T22:21:28+00:00"
+  },
+  {
+   "id": "68eef76d95ca",
+   "title": "Trump’s midterm prep includes travel blitz to key states with aim to highlight achievements",
+   "link": "https://www.deseret.com/politics/2026/10/06/president-trump-midterm/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "With the countdown to the midterm elections officially on, President Donald Trump is using the remaining handful of weeks making campaign stops and holding rallies in Republican-led states and key battlegrounds for his party. Despite his nationwide approval rating lagging…",
+   "published": "2026-10-06T22:17:58+00:00"
+  },
+  {
+   "id": "6adf61320488",
+   "title": "Many Nepalis swept away in the floods aren't officially dead, leaving families in limbo",
+   "link": "https://www.bbc.co.uk/news/articles/ck054zm1701qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Relatives are finding themselves with no compensation and facing an administrative nightmare.",
+   "published": "2026-10-06T22:17:56+00:00"
+  },
+  {
+   "id": "76fd0cccf377",
+   "title": "Richard Morecroft, veteran ABC news presenter, dies aged 70 after cancer diagnosis",
+   "link": "https://www.theguardian.com/media/2026/oct/06/richard-morecroft-veteran-abc-news-presenter-dies-age-70-after-cancer-diagnosis",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Anthony Albanese fondly recalled Morecroft – a passionate environmental advocate – keeping infant flying foxes under his desk as he presented the news Get our new political email , free app or daily news podcast The former ABC news presenter Richard Morecroft has been…",
+   "published": "2026-10-06T22:14:14+00:00"
+  },
+  {
+   "id": "e001434d0e6a",
+   "title": "Christa Pike is conscious and speaking after botched execution attempt, lawyers say",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/christa-pike-execution-awake",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The prisoner received two doses of pentobarbital as authorities tried to put her to death on 30 September Christa Pike, a Tennessee prisoner who survived the state’s attempt to execute her, is awake and speaking as she receives treatment at a hospital, her attorneys said on…",
+   "published": "2026-10-06T22:14:02+00:00"
+  },
+  {
+   "id": "86cd22f6aba1",
+   "title": "Delta, SkyWest add 4 new routes out of Salt Lake City airport",
+   "link": "https://www.deseret.com/business/2026/10/06/delta-skywest-add-4-new-routes-out-of-salt-lake-city-airport/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Delta Air Lines and SkyWest added four new routes out of Salt Lake City, which are now in service or will begin in the coming year.",
+   "published": "2026-10-06T22:13:43+00:00"
+  },
+  {
+   "id": "8a77c091bf25",
+   "title": "Democrats now favored in key midterm races that could give them control of US Senate, new projections find – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Nonpartisan Cook Political Report revises analyses in Kansas, New Hampshire and North Carolina, forecasting Democrats have stronger odds than previously estimated Sign up for Breaking News US email Two media giants, Paramount and Warner Bros Discovery, have completed their…",
+   "published": "2026-10-06T22:10:40+00:00"
+  },
+  {
+   "id": "a414461989d6",
+   "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thousands of Argentina fans poured into Buenos Aires’ Monumental stadium ahead of Lionel Messi’s final match.",
+   "published": "2026-10-06T22:07:44+00:00"
+  },
+  {
+   "id": "4793d059a6fb",
+   "title": "Where parties are spending the most — and pulling away — in tight midterm races",
+   "link": "https://www.deseret.com/politics/2026/10/06/where-parties-are-spending-the-most-in-midterm-races/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "With less than a month to go until Election Day, both political parties are in a mad dash to boost their preferred candidates in the races that will determine the balance of power in Congress next year. The 2026 midterms, in which the House and Senate are both up for grabs, is…",
+   "published": "2026-10-06T22:06:12+00:00"
+  },
+  {
+   "id": "73af366a57a9",
+   "title": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
+   "link": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Justice department detained James Codey Bryant and allege he offered ‘technical advice’ to primary suspect A surprise suspected accomplice has been arrested in connection with a mass school shooting in Canada that was made notorious after an 18-year-old allegedly killed six…",
+   "published": "2026-10-06T22:06:04+00:00"
+  },
+  {
+   "id": "f17b197cdb6a",
+   "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+   "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.",
+   "published": "2026-10-06T22:00:43+00:00"
+  },
+  {
+   "id": "ec08ae1f06bd",
+   "title": "Will Trump’s diesel order do anything?",
+   "link": "https://www.vox.com/the-logoff-newsletter-trump/505329/trump-red-dye-diesel-executive-order-nebraska",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here. Welcome to The Logoff: Donald Trump is trying to fix the diesel crisis he caused. What’s…",
+   "published": "2026-10-06T22:00:00+00:00"
+  },
+  {
+   "id": "c1d5db64c822",
+   "title": "Just Deserts",
+   "link": "https://thedispatch.com/newsletter/boilingfrogs/trump-vance-tucker-2028-postliberalism/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "J.D. Vance’s patrons turn radioactive.",
+   "published": "2026-10-06T21:58:39+00:00"
+  },
+  {
+   "id": "a12b2f6937d9",
+   "title": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi Arabia’s Jazan and Najran airports were attacked as Saudi-led gov’t forces launched air strikes on the Houthis.",
+   "published": "2026-10-06T21:57:03+00:00"
+  },
+  {
+   "id": "d37e27c4f712",
+   "title": "Opinion: The Kennedy Center belongs to the American people — who has the right to tear it down?",
+   "link": "https://www.deseret.com/opinion/2026/10/06/presidential-monuments-belong-to-the-american-people/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Last Monday night, Sept. 28, Sen. Mike Lee, R-Utah, stood alone on the Senate floor and blocked a bipartisan bill to protect the John F. Kennedy Center for the Performing Arts from demolition. The measure, led by Sens. Jeff Merkley, D-Ore., and Lisa Murkowski, a R-Alaska, was…",
+   "published": "2026-10-06T21:52:21+00:00"
+  },
+  {
+   "id": "9c2898b0514e",
+   "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
+   "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "After trading sideways for much of the past year, the “Magnificent Seven” have been staging a comeback, helping to re-energize a bull market threatened by rising bond yields and stubbornly high crude-oil prices.",
+   "published": "2026-10-06T21:52:00+00:00"
+  },
+  {
+   "id": "316e0bc41702",
+   "title": "Trump announces $6.6bn defense shipyard owned by top Republican donor’s firm",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/trump-shipyard-anduril-baltimore",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Baltimore project to be partly funded by US government but owned by defense firm Anduril, founded by Palmer Luckey Donald Trump on Tuesday announced the opening of a new $6.6bn shipbuilding factory in Baltimore, partly funded by the US government but owned by Anduril…",
+   "published": "2026-10-06T21:46:33+00:00"
+  },
+  {
+   "id": "5cc010a9af0f",
+   "title": "Harry Kane equals England record, scores twice in 3-0 win over Czechia",
+   "link": "https://www.aljazeera.com/sports/2026/10/6/kane-equals-england-record-and-scores-twice-in-3-0-win-against-czechia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "England's Harry Kane makes record-equalling 125th appearance and has a hand in all three goals in Nations League win.",
+   "published": "2026-10-06T21:40:12+00:00"
+  },
+  {
+   "id": "c39fdd82b749",
+   "title": "These Utah resorts recognized among best in the Mountain West",
+   "link": "https://www.deseret.com/lifestyle/2026/10/06/conde-nast-traveler-best-resorts-mountain-west-sundance-black-desert/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two Utah resorts — one known for skiing, the other for golf — were recognized among the best in the Mountain West in Condé Nast Traveler’s 2026 Readers’ Choice Awards . In all, readers cast 798,867 votes in the magazine’s 39th annual survey of everything having to do with…",
+   "published": "2026-10-06T21:38:02+00:00"
+  },
+  {
+   "id": "ede8aac8605a",
+   "title": "CNN, CBS News now under one roof as Paramount-Warner Bros merger closes",
+   "link": "https://www.aljazeera.com/economy/2026/10/6/cnn-cbs-news-now-under-one-roof-as-paramount-warner-bros-merger-closes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The newly combined company is called Skydance and began trading on Wall Street on Tuesday.",
+   "published": "2026-10-06T21:33:59+00:00"
+  },
+  {
+   "id": "9463add38ee9",
+   "title": "US arrests suspect in connection with Tumbler Ridge school shooting",
+   "link": "https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The suspect, from the western state of Washington, allegedly gave money and advice to the attacker over the internet.",
+   "published": "2026-10-06T21:28:35+00:00"
+  },
+  {
+   "id": "3608ac24a177",
+   "title": "Obama Campaigns for Abdul El-Sayed as Republicans Sound the Alarm",
+   "link": "https://reason.com/video/2026/10/06/obama-campaigns-for-abdul-el-sayed-as-republicans-sound-the-alarm/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former President Barack Obama is hitting the campaign trail for Abdul El-Sayed as Michigan emerges as one of the country’s biggest political battlegrounds.",
+   "published": "2026-10-06T21:25:58+00:00"
+  },
+  {
+   "id": "08ce2ed28951",
+   "title": "Eva Marie Saint, star of North by Northwest and On the Waterfront, dies aged 102",
+   "link": "https://www.theguardian.com/film/2026/oct/06/eva-marie-saint-star-of-north-by-northwest-and-on-the-waterfront-dies-aged",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Landmark roles were in 50s classics directed by Elia Kazan and Alfred Hitchcock, before going on to play Superman’s adoptive mother in later life Eva Marie Saint – a life in pictures Her best films – ranked Eva Marie Saint, one of the last survivors of Hollywood’s golden age of…",
+   "published": "2026-10-06T21:24:50+00:00"
+  },
+  {
+   "id": "f1508627350d",
+   "title": "Merino scores twice as Spain beat Croatia 2-1 in Nations League",
+   "link": "https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mikel Merino turns game for Spain in Croatia to maintain their 100 percent group-stage record in UEFA Nations League.",
+   "published": "2026-10-06T21:23:59+00:00"
+  },
+  {
+   "id": "3f39e7295b36",
+   "title": "Watch: Riot police clash with school protesters and use tear gas in France",
+   "link": "https://www.bbc.co.uk/news/videos/cwm26078pkepo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hundreds of thousands of people have taken to the streets across France amid a wave of protests by high-school pupils.",
+   "published": "2026-10-06T21:22:22+00:00"
+  },
+  {
+   "id": "f52c9c170509",
+   "title": "Tokyo protests US military presence after Okinawa killing",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Protesters rallied outside the US Embassy in Tokyo after a US Marine was arrested for the killing of a 39-year-old woman",
+   "published": "2026-10-06T21:20:28+00:00"
+  },
+  {
+   "id": "69a91dddcc91",
+   "title": "Trump says he is weighing suspension of federal gas tax",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/trump-federal-gas-tax",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President floats idea as voter anger over rising costs threatens Republican hopes in November midterms Donald Trump said on Tuesday his administration was considering suspending the federal gasoline tax, a sign the president is noticing voter anger over fuel costs a month…",
+   "published": "2026-10-06T21:19:47+00:00"
+  },
+  {
+   "id": "7eea9e2507a4",
+   "title": "Badenoch denies plan for ‘British Iron Dome’ – after Tories use phrase in press release",
+   "link": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Leader also says party is ‘not out of the woods’ and she would rather have another election than form coalition with Reform Kemi Badenoch has denied she compared a new air defence system proposed by the Conservative party to Israel’s Iron Dome, despite using the term in her…",
+   "published": "2026-10-06T21:15:06+00:00"
+  },
+  {
    "id": "2d06b60c94ae",
    "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
    "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
@@ -162,37 +470,15 @@
    "published": "2026-10-06T21:12:33+00:00"
   },
   {
-   "id": "f17b197cdb6a",
-   "title": "US death row inmate Christa Pike conscious after failed execution, lawyers say",
-   "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "id": "e8fe4cecbd63",
+   "title": "US firm gets $2.9bn sub deal after boss joins war study with Musk",
+   "link": "https://www.aljazeera.com/news/2026/10/6/us-firm-gets-2-9bn-sub-deal-after-boss-joins-war-study-with-musk?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.",
-   "published": "2026-10-06T21:09:41+00:00"
-  },
-  {
-   "id": "8a77c091bf25",
-   "title": "Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "‘These allegations are deeply alarming,’ said Senator Alex Padilla, a California Democrat who received a copy of the complaint Can the Iran war cost Trump in the US midterm elections? Your questions answered Sign up for Breaking News US email Two media giants, Paramount and…",
-   "published": "2026-10-06T21:06:04+00:00"
-  },
-  {
-   "id": "e001434d0e6a",
-   "title": "Christa Pike is conscious and speaking after botched execution attempt, lawyers say",
-   "link": "https://www.theguardian.com/us-news/2026/oct/06/christa-pike-execution-awake",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The prisoner received two doses of pentobarbital last Wednesday as authorities tried to put her to death Christa Pike, a Tennessee prisoner who survived the state’s attempt to execute her, is awake and speaking as she receives treatment at a hospital, her attorneys said on…",
-   "published": "2026-10-06T21:05:41+00:00"
+   "summary": "Anduril said it would invest $3.7bn to develop shipyard that would build submarine parts.",
+   "published": "2026-10-06T21:11:39+00:00"
   },
   {
    "id": "51223284097a",
@@ -202,7 +488,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Jaafar Ashtiyeh was covering violence against olive farmers when settlers set upon him with the butts of their guns Armed Israeli settlers beat a photographer in the presence of Israeli soldiers, hospitalising him, as he covered worsening settler violence against olive farmers…",
+   "summary": "Jaafar Ashtiyeh was covering violence against olive farmers when settlers set upon him with the butts of their rifles Armed Israeli settlers beat a photographer in the presence of Israeli soldiers, hospitalising him, as he covered worsening settler violence against olive…",
    "published": "2026-10-06T21:00:28+00:00"
   },
   {
@@ -347,6 +633,17 @@
    "flourishing_feed": false,
    "summary": "British adventurer back in UK after 28-year trek on foot around the world",
    "published": "2026-10-06T20:30:34+00:00"
+  },
+  {
+   "id": "9f4b4633fbb9",
+   "title": "SEC Seeks Final Judgment Against Former Western Asset Co-CIO Ken Leech in Cherry Picking Case",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
+   "source": "SEC Press Releases",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Securities and Exchange Commission today moved for entry of a final judgment by consent against Stephen Kenneth Leech II, the former co-chief investment officer of registered investment adviser Western Asset Management Company LLC, whom the SEC…",
+   "published": "2026-10-06T20:30:24+00:00"
   },
   {
    "id": "b43e4d870605",
@@ -510,7 +807,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Israeli communities shattered by Hamas masacres are torn between rebuilding their lives and remembering lost friends and relatives Keith Siegel spent many of his long hours in Hamas captivity in Gaza etching everything that happened after 7 October 2023 into his memory. For 484…",
+   "summary": "Israeli communities shattered by Hamas massacres are torn between rebuilding their lives and remembering lost friends and relatives Keith Siegel spent many of his long hours in Hamas captivity in Gaza etching everything that happened after 7 October 2023 into his memory. For…",
    "published": "2026-10-06T20:00:23+00:00"
   },
   {
@@ -545,17 +842,6 @@
    "flourishing_feed": false,
    "summary": "Cristiano Ronaldo accuses Portugal coach Jorge Jesus of broken promises, but leaves international return open.",
    "published": "2026-10-06T19:56:14+00:00"
-  },
-  {
-   "id": "9c2898b0514e",
-   "title": "The S&P 500 is back in record territory as the ‘Magnificent Seven’ ride to the rescue",
-   "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "After trading sideways for much of the past year, the “Magnificent Seven” have been staging a comeback, helping to re-energize a bull market threatened by rising bond yields and stubbornly high crude-oil prices.",
-   "published": "2026-10-06T19:54:00+00:00"
   },
   {
    "id": "50130e962647",
@@ -985,17 +1271,6 @@
    "flourishing_feed": false,
    "summary": "CBO examines how spending for flood adaptations today might affect the federal government's potential costs for disaster relief later, and what households are likely to pay for flood insurance that is subsidized by the federal government.",
    "published": "2026-10-06T18:00:00+00:00"
-  },
-  {
-   "id": "7eea9e2507a4",
-   "title": "Badenoch denies plan for ‘British Iron Dome’ – after Tories use phrase in press release",
-   "link": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Leader also says party is ‘not out of the woods’ and she would rather have another election than form coalition with Reform Kemi Badenoch has denied she compared a new air defence system proposed by the Conservative party to Israel’s Iron Dome, despite using the term in her…",
-   "published": "2026-10-06T17:58:35+00:00"
   },
   {
    "id": "2e1491484c6a",
@@ -2613,17 +2888,6 @@
    "flourishing_feed": false,
    "summary": "Saudi aviation authority reports severe injuries and damage following Houthi strikes on Jazan and Najran airports.",
    "published": "2026-10-06T10:47:54+00:00"
-  },
-  {
-   "id": "76fd0cccf377",
-   "title": "Richard Morecroft, veteran ABC news presenter, dies age 70 after cancer diagnosis",
-   "link": "https://www.theguardian.com/media/2026/oct/06/richard-morecroft-veteran-abc-news-presenter-dies-age-70-after-cancer-diagnosis",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Michael Rowland and Leigh Sales lead tributes to newsreader who read the ABC’s 7pm bulletin for 20 years Get our new political email , free app or daily news podcast Former ABC news presenter Richard Morecroft has died at the age of 70. Morecroft presented ABC’s 7pm news…",
-   "published": "2026-10-06T10:44:48+00:00"
   },
   {
    "id": "e4b352bb6c1b",
