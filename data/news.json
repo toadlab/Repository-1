@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T15:31:25.244679+00:00",
+ "generated": "2026-10-06T16:33:39.289733+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -13,8 +13,8 @@
   },
   {
    "name": "Indianapolis Business Journal",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "count": 10
   },
   {
    "name": "NPR News",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,182 @@
  ],
  "items": [
   {
+   "id": "85915a905b75",
+   "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+   "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+   "published": "2026-10-06T16:22:37+00:00"
+  },
+  {
+   "id": "c331f4aaf953",
+   "title": "Our reporters are answering your questions on how the Iran war will affect the midterm elections",
+   "link": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The war with Iran is reshaping America ahead of the midterms – how will it affect US voters at the polls? We’re live with political and global correspondents to answer your questions Sign in or sign up to join the conversation NorthLondonIsRed asks : Since Congress’s war powers…",
+   "published": "2026-10-06T16:19:07+00:00"
+  },
+  {
+   "id": "09f453b394ca",
+   "title": "Is Europe preparing for a wider war with Russia?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/is-europe-preparing-for-a-wider-war-with-russia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A British war-game show simulating a Russian attack has drawn a nuclear warning from Moscow.",
+   "published": "2026-10-06T16:17:58+00:00"
+  },
+  {
+   "id": "8a77c091bf25",
+   "title": "Whistleblower claims Trump ordered FBI to investigate LA anti-ICE protesters – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "‘These allegations are deeply alarming,’ said Senator Alex Padilla, a California Democrat who received a copy of the complaint Q&A: The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions Sign up for Breaking News US email Two media…",
+   "published": "2026-10-06T16:16:35+00:00"
+  },
+  {
+   "id": "642a4888bc76",
+   "title": "Badenoch suggests Tories would not reverse Labour’s pensions triple lock legislation – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In his party conference speech last week, Andy Burnham said he wanted to change the triple lock uprating mechanism from 2030 Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This…",
+   "published": "2026-10-06T16:10:19+00:00"
+  },
+  {
+   "id": "ed699092c477",
+   "title": "New York City med spa owner admits to giving client botulism with bootleg Botox",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/new-york-med-spa-botulism-botox",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Klara Shuster said in court she imported mislabeled Botox illegally and dispensed it to clients The owner of a New York City med spa has admitted to illegally administering bootleg Botox from Asia, leading one to client to develop botulism. Klara Shuster, also known as Klara…",
+   "published": "2026-10-06T16:06:35+00:00"
+  },
+  {
+   "id": "70c0ac108450",
+   "title": "Deseret News archives: Michael Jordan stunned the NBA world by retiring. What would his future hold?",
+   "link": "https://www.deseret.com/utah/2024/10/06/deseret-news-archives-michael-jordan-stunned-nba-world-in-1991-by-retiring/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Editor’s note: This story was originally published on Oct. 6, 2024. A look back at local, national and world events through Deseret News archives. On Oct. 6, 1993, after nine seasons and three NBA championships with the Chicago Bulls, Michael Jordan announced his retirement…",
+   "published": "2026-10-06T16:02:41+00:00"
+  },
+  {
+   "id": "60cdda3b2395",
+   "title": "Kenya confirms its first Ebola death as outbreak spreads",
+   "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+   "published": "2026-10-06T16:02:32+00:00"
+  },
+  {
+   "id": "756554eeb99d",
+   "title": "The \"Application for an Extension and the Querulous Opposition Continue the Path of Bikeshedding or … Parkinson's Law of Triviality\"",
+   "link": "https://reason.com/volokh/2026/10/06/the-application-for-an-extension-and-the-querulous-opposition-continue-the-path-of-bikeshedding-or-parkinsons-law-of-triviality/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "From Magistrate Judge James M. Wicks (E.D.N.Y.) in Lask v. Sorid last month: ORDER granting 91 Motion for Extension of Time to… The post The \"Application for an Extension and the Querulous Opposition Continue the Path of Bikeshedding or … Parkinson's Law of Triviality\" appeared…",
+   "published": "2026-10-06T15:59:55+00:00"
+  },
+  {
+   "id": "2d762fc970c2",
+   "title": "These 5 chip stocks are cheaper than the S&P 500 — and offer faster growth",
+   "link": "https://www.marketwatch.com/story/these-5-chip-stocks-are-cheaper-than-the-s-p-500-and-offer-faster-growth-f8ab4386?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Micron and Nvidia are among high-profile semiconductor companies that have been raking in cash and still have inexpensive stocks.",
+   "published": "2026-10-06T15:57:00+00:00"
+  },
+  {
+   "id": "b44835b918f4",
+   "title": "FIFA chief Infantino’s ‘abuse of power’ questioned by Norway in complaints",
+   "link": "https://www.aljazeera.com/sports/2026/10/6/fifa-chief-infantinos-abuse-of-power-questioned-by-norway-in-complaints?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The three complaints filed by Norway's football body ask FIFA's Ethics Committee to examine Infantino's conduct.",
+   "published": "2026-10-06T15:49:54+00:00"
+  },
+  {
+   "id": "d2fc6b64d9af",
+   "title": "LIVE: Croatia vs Spain – UEFA Nations League",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/6/live-crostia-vs-spain-uefa-nations-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow updates, with build-up and team news, from our live text commentary stream coverage as Lamine Yamal headlines.",
+   "published": "2026-10-06T15:47:16+00:00"
+  },
+  {
+   "id": "d52e358bd78f",
+   "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
+   "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Unprecedented protests that began in low-income banlieue are turning ugly, with investigations under way into police brutality Europe live: latest updates from protests in France Before dawn on Tuesday outside the Lycée Sophie-Germain in central Paris, hundreds of teenagers…",
+   "published": "2026-10-06T15:41:12+00:00"
+  },
+  {
+   "id": "2b6ca30d7af8",
+   "title": "Sam Altman Says 'Some Bad Things' Will Happen With AI. That Doesn't Mean We Should Stop It.",
+   "link": "https://reason.com/2026/10/06/sam-altman-says-some-bad-things-will-happen-with-ai-that-doesnt-mean-we-should-stop-it/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Progress has always required accepting risk.",
+   "published": "2026-10-06T15:40:07+00:00"
+  },
+  {
+   "id": "516f8206bfb7",
+   "title": "Trump’s suggestion to ‘take out’ LA or San Diego draws Republican rebuke",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/republican-trump-iran-los-angeles-san-diego",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Congressional candidate Jim Desmond says he ‘served to protect Americans, not write off American cities’ A Republican candidate in San Diego has criticized Donald Trump after the US president suggested Iran could “take out” the city or Los Angeles. Trump has faced a chorus of…",
+   "published": "2026-10-06T15:39:22+00:00"
+  },
+  {
+   "id": "672c78585495",
+   "title": "State parliament elects Germany’s first far-right speaker since second world war",
+   "link": "https://www.theguardian.com/world/2026/oct/06/germany-afd-first-far-right-tobias-rausch-speaker-since-war",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tobias Rausch secures role of president in Saxony-Anhalt after AfD’s election breakthrough Europe live – latest updates Alternative für Deutschland has become Germany’s first far-right party to secure the position of speaker of a regional parliament since the second world war.…",
+   "published": "2026-10-06T15:38:58+00:00"
+  },
+  {
    "id": "49e1be46e84f",
    "title": "25-01274.pdf",
    "link": "https://www.finra.org/node/390336",
@@ -149,6 +325,17 @@
    "flourishing_feed": false,
    "summary": "25-02227.pdf Anonymous (not verified) Tue, 10/06/2026 - 11:30 Case ID 25-02227 Forum FINRA Document Type Award Claimants William Collins Respondents Morgan Stanley Neutrals Robert J. Scafuri John J. Fitzpatrick Nanci Sondra Landy Hearing Site Detroit, MI Award Document…",
    "published": "2026-10-06T15:30:01+00:00"
+  },
+  {
+   "id": "f31eb2e3b86f",
+   "title": "The SEC Is Watching American Investors' Trades. That's a Privacy Nightmare.",
+   "link": "https://reason.com/2026/10/06/the-sec-is-watching-american-investors-trades-thats-a-privacy-nightmare/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The SEC should not keep a searchable record of Americans’ lawful trades, much less make them pay for it.",
+   "published": "2026-10-06T15:25:38+00:00"
   },
   {
    "id": "ce70dec88c2f",
@@ -173,6 +360,17 @@
    "published": "2026-10-06T15:15:00+00:00"
   },
   {
+   "id": "6ce4098eb380",
+   "title": "Birzeit University memorial destruction aims to crush Palestinian memory",
+   "link": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli soldiers removed the monument to students and alumni killed by Israel and replaced it with a fig sapling.",
+   "published": "2026-10-06T15:14:28+00:00"
+  },
+  {
    "id": "5dde83d4443f",
    "title": "What ‘White Glove’ Means Today",
    "link": "https://www.wealthmanagement.com/high-net-worth/what-white-glove-means-today",
@@ -195,19 +393,8 @@
    "published": "2026-10-06T15:10:46+00:00"
   },
   {
-   "id": "8a77c091bf25",
-   "title": "Republican candidate for San Diego House district criticizes Trump comments on Iran – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Jim Desmond pushes back after president says losing Los Angeles and San Diego would be ‘small price to pay’ Q&A: The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions Sign up for Breaking News US email Two media giants, Paramount…",
-   "published": "2026-10-06T15:10:16+00:00"
-  },
-  {
    "id": "1354a485cc87",
-   "title": "Asos customers receive ‘hack’ message threatening to leak personal data",
+   "title": "Asos warns customer data may be compromised after ‘unauthorised’ app access",
    "link": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -226,17 +413,6 @@
    "flourishing_feed": false,
    "summary": "More than 1 million people in Great Britain now vape despite having never regularly smoked, ONS data shows More than 1 million people in Great Britain now vape despite never having been regular smokers, with rates nearly doubling in just four years, according to figures that…",
    "published": "2026-10-06T15:05:53+00:00"
-  },
-  {
-   "id": "642a4888bc76",
-   "title": "Badenoch suggests Tories would not reverse Labour’s pensions triple lock legislation – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "In his party conference speech last week, Andy Burnham said he wanted to change the triple lock uprating mechanism from 2030 Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This…",
-   "published": "2026-10-06T15:05:52+00:00"
   },
   {
    "id": "201ca87cff67",
@@ -273,7 +449,7 @@
   },
   {
    "id": "04f5f6b23bb5",
-   "title": "Photos: France braces for day of school blockades and street protests",
+   "title": "Photos: School blockades, street protests grip France",
    "link": "https://www.aljazeera.com/gallery/2026/10/6/photos-france-braces-for-day-of-school-blockades-and-street-protests?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -369,6 +545,17 @@
    "flourishing_feed": false,
    "summary": "Energy Minister Prince Abdulaziz bin ⁠Salman says capacity restored after major attack last month.",
    "published": "2026-10-06T14:38:09+00:00"
+  },
+  {
+   "id": "694b408b0e82",
+   "title": "SEC to Host Virtual National Compliance Outreach Seminar for Investment Companies and Investment Advisers",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers",
+   "source": "SEC Press Releases",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Securities and Exchange Commission’s Compliance Outreach Program announced today that it will host a virtual national seminar for investment companies and investment advisers on November 19, 2026. The purpose of the event is to help chief compliance…",
+   "published": "2026-10-06T14:37:55+00:00"
   },
   {
    "id": "b3624a34408b",
@@ -526,13 +713,13 @@
   },
   {
    "id": "2d06b60c94ae",
-   "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
+   "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
    "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "“He estimates the mortgage will be $10,000 a month once both homes are sold, or $14,000 if they are not sold in time.”",
+   "summary": "“Both properties swill be solely in his name.”",
    "published": "2026-10-06T14:00:00+00:00"
   },
   {
@@ -653,7 +840,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "US televangelist Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy.",
+   "summary": "Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy.",
    "published": "2026-10-06T13:31:56+00:00"
   },
   {
@@ -680,13 +867,13 @@
   },
   {
    "id": "a8f488c7342e",
-   "title": "Demonstrators clash with riot police in France as education protests mount",
+   "title": "France suspends high school as protestors clash with police",
    "link": "https://www.aljazeera.com/news/2026/10/6/demonstrators-clash-with-riot-police-in-france-as-education-protests-mount?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "School blockades and clashes intensify in France as frustration rises over government education policy.",
+   "summary": "French Prime Minister warns there is “no room for tolerance for violence” and urged France to \"stand together\".",
    "published": "2026-10-06T13:28:54+00:00"
   },
   {
@@ -732,17 +919,6 @@
    "flourishing_feed": false,
    "summary": "The New York-based RIA's new vertical will focus on professional athletes, entertainers and creators, building on practice head Frank Marzano’s experience in the sector.",
    "published": "2026-10-06T13:14:11+00:00"
-  },
-  {
-   "id": "60cdda3b2395",
-   "title": "Kenya confirms its first Ebola death as outbreak spreads",
-   "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
-   "published": "2026-10-06T13:10:42+00:00"
   },
   {
    "id": "a80be457bd6e",
@@ -1150,17 +1326,6 @@
    "flourishing_feed": false,
    "summary": "Benjamin Davis appealing against dismissal from FAO, after being accused by director general of playing ‘political games’ A former senior UN food agency official has alleged he was fired last week for his work highlighting hunger in Gaza, and has launched an appeal against his…",
    "published": "2026-10-06T11:31:00+00:00"
-  },
-  {
-   "id": "d52e358bd78f",
-   "title": "‘This is state violence’: Paris students rage at politicians and heavy-handed policing",
-   "link": "https://www.theguardian.com/world/2026/oct/06/french-student-protests-barricades-paris-police",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Unprecedented protests that began in low-income banlieue are turning ugly, with investigations under way into police brutality Europe live: latest updates from protests in France Before dawn on Tuesday outside the Lycée Sophie-Germain in central Paris, hundreds of teenagers…",
-   "published": "2026-10-06T11:28:44+00:00"
   },
   {
    "id": "ca61885fb78b",
@@ -1876,17 +2041,6 @@
    "flourishing_feed": false,
    "summary": "With just weeks to go, a look at where the midterm elections stand, Saudi-backed forces in Yemen launch a major counter-offensive, Paramount and Warner Bros. begin operations after merger.",
    "published": "2026-10-06T08:51:39+00:00"
-  },
-  {
-   "id": "c331f4aaf953",
-   "title": "The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions",
-   "link": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The war with Iran is reshaping America ahead of the midterms – how will it affect US voters at the polls? Join us for a live conversation on 6 October at 12pm ET with political and global correspondents Sign in or sign up to join the conversation Welcome to our latest US…",
-   "published": "2026-10-06T08:47:20+00:00"
   },
   {
    "id": "80018172398f",
