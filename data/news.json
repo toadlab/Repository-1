@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T23:27:18.232323+00:00",
+ "generated": "2026-10-06T00:41:38.987599+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -13,8 +13,8 @@
   },
   {
    "name": "Indianapolis Business Journal",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "name": "NPR News",
@@ -129,6 +129,182 @@
  ],
  "items": [
   {
+   "id": "a7b744880dde",
+   "title": "Utah enters the Wild West of AI healthcare. How far will it go?",
+   "link": "https://www.deseret.com/politics/2026/10/05/utah-announces-partnership-with-major-healthcare-providers-to-create-artificial-intelligence-clinical-pilot-programs/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The state of Utah expanded its first-in-the-nation pilot program for artificial intelligence to include some of largest healthcare providers in the American West, giving Utah patients exclusive access to clinical AI applications. In partnership with Utah’s Office of Artificial…",
+   "published": "2026-10-06T00:35:30+00:00"
+  },
+  {
+   "id": "bf439fc422f7",
+   "title": "Syrian Airlines unveils laser-sharp look for the future",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/syrian-airlines-unveils-laser-sharp-look-for-the-future?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Syrian Airlines unveils a new visual identity as it rebrands amid Syria’s post-Assad development.",
+   "published": "2026-10-06T00:25:01+00:00"
+  },
+  {
+   "id": "0837990dca5f",
+   "title": "‘A humble servant’: Morgan Scalley, Utes happy to have special guest at Utah-Iowa State game",
+   "link": "https://www.deseret.com/sports/2026/10/05/utah-utes-morgan-scalley-press-conference-ronald-a-rasband/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The University of Utah football team had a special guest on their first road trip of the season. Elder Ronald A. Rasband , a member of the Quorum of the Twelve Apostles of The Church of Jesus Christ of Latter-day Saints, was on hand in Ames, Iowa, to watch Utah defeat Iowa…",
+   "published": "2026-10-06T00:23:19+00:00"
+  },
+  {
+   "id": "b1de9a8b0305",
+   "title": "Australian soldier killed and five others injured in training exercise in the Northern Territory",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/australian-defence-force-soldier-killed-five-injuried-mount-bundey-training-northern-territory",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Defence confirmed the fatality occurred on Monday at the Mount Bundey training area, with next of kin informed Get our breaking news email , free app or daily news podcast An Australian soldier has died and five others were injured in a training accident at a facility outside…",
+   "published": "2026-10-06T00:19:23+00:00"
+  },
+  {
+   "id": "ae6aa17ebe5e",
+   "title": "Trump claims he’s ‘doing great’ as his approval rating sinks to record low – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President downplays unfavorable polling as he travels to Nebraska to support Republicans ahead of the US midterm elections Sign up for the Breaking News US email Ask our reporters your questions about the Iran war and the US midterms As the supreme court hears oral arguments…",
+   "published": "2026-10-06T00:17:13+00:00"
+  },
+  {
+   "id": "917e56da1733",
+   "title": "Moroccan journalists recount years of surveillance amid new Amnesty claim",
+   "link": "https://www.aljazeera.com/news/2026/10/6/moroccan-journalists-recount-years-of-surveillance-amid-new-amnesty-claim?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Amnesty cites a whistleblower’s account of how Morocco allegedly uses surveillance to silence journalists.",
+   "published": "2026-10-06T00:13:16+00:00"
+  },
+  {
+   "id": "333285413e2a",
+   "title": "Police clash with Kosovo protesters over bid to curb Hague war crimes court",
+   "link": "https://www.aljazeera.com/news/2026/10/6/police-clash-with-kosovo-protesters-over-bid-to-curb-hague-war-crimes-court?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The political dispute over the court has become a factor in negotiations to hold a new presidential election.",
+   "published": "2026-10-06T00:10:27+00:00"
+  },
+  {
+   "id": "ebf8f354c8b6",
+   "title": "Trump officials pursue record number of cases to strip US citizenship",
+   "link": "https://www.aljazeera.com/news/2026/10/6/trump-officials-pursue-record-number-of-cases-to-strip-us-citizenship?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Top officials have sought to expand the use of rarely invoked laws that can strip naturalised Americans of citizenship.",
+   "published": "2026-10-06T00:02:23+00:00"
+  },
+  {
+   "id": "5f71c5ca4496",
+   "title": "New York state declares measles disaster amid resurgence of disease in US",
+   "link": "https://www.aljazeera.com/news/2026/10/6/new-york-state-declares-measles-disaster-amid-resurgence-of-disease-in-us?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US had largely eliminated disease by 2000 but has seen several outbreaks amid declining vaccination rates.",
+   "published": "2026-10-06T00:00:36+00:00"
+  },
+  {
+   "id": "9571e22b4117",
+   "title": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Turkiye and Pakistan agree to rapidly deploy militaries to bolster Saudi security as part of the Mecca defence pact.",
+   "published": "2026-10-06T00:00:00+00:00"
+  },
+  {
+   "id": "5c907c1fadcf",
+   "title": "Supreme Court hears argument in Colorado climate case that could have implications for Utah",
+   "link": "https://www.deseret.com/politics/2026/10/05/supreme-court-starts-new-term-with-climate-change-boulder-county-lawsuit-case-against-oil-and-gas-company/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Supreme Court on Monday heard oral arguments in a case stemming from Boulder, Colorado, focused on whether states and municipalities can sue oil companies responsible for the damages from climate change. The case is the first of the Supreme Court’s new term and a…",
+   "published": "2026-10-05T23:53:18+00:00"
+  },
+  {
+   "id": "405483f8c72f",
+   "title": "Oil from South Korea being shipped to Russia as Ukraine war grinds on",
+   "link": "https://www.theguardian.com/world/2026/oct/06/oil-tankers-south-korea-russia-ukraine-war",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Guardian analysis finds more than 150,000 tonnes of fuel was shipped to Russian ports in July and August, some using sanctioned tankers Oil is being shipped from South Korea to Russia via sanctioned tankers as Moscow scrambles for supplies amid the war in Ukraine, a…",
+   "published": "2026-10-05T23:50:12+00:00"
+  },
+  {
+   "id": "743e0bdc1c9d",
+   "title": "‘Deseret Voices’ Episode 54: What sports betting does to your soul",
+   "link": "https://www.deseret.com/video/2026/10/05/deseret-voices-what-sports-betting-does-to-your-soul/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "On this episode of “Deseret Voices,” McKay Coppins, author of the viral Atlantic article “ Sucker: My Year as a Degenerate Gambler ,” sits down with Paul Lambert of BYU’s Wheatley Institute to discuss President D. Todd Christofferson’s landmark talk at general conference for…",
+   "published": "2026-10-05T23:45:09+00:00"
+  },
+  {
+   "id": "b29aca689f51",
+   "title": "What’s happening in Ethiopia?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-happening-in-ethiopia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ethiopia is facing renewed fighting in the north, just four years after the devastating Tigray war ended.",
+   "published": "2026-10-05T23:38:51+00:00"
+  },
+  {
+   "id": "c4794f2e5dc6",
+   "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
+   "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A reader writes: “We’d better get real quick or we’re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.”",
+   "published": "2026-10-05T23:30:00+00:00"
+  },
+  {
+   "id": "5e7d16fb2769",
+   "title": "Whistleblower warns that humans don’t control AI",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whistleblower-warns-that-humans-dont-control-ai?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former Anthropic researcher Jacob Coxon warns that AI companies ‘don’t fully control’ their models.",
+   "published": "2026-10-05T23:23:47+00:00"
+  },
+  {
    "id": "85ac007f42df",
    "title": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
    "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
@@ -160,17 +336,6 @@
    "flourishing_feed": false,
    "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
    "published": "2026-10-05T23:00:00+00:00"
-  },
-  {
-   "id": "ae6aa17ebe5e",
-   "title": "Trump claims he’s ‘doing great’ as his approval rating sinks to record low – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President downplays unfavorable polling as he travels to Nebraska to support Republicans ahead of the US midterm elections Sign up for the Breaking News US email Ask our reporters your questions about the Iran war and the US midterms As the supreme court hears oral arguments…",
-   "published": "2026-10-05T22:59:35+00:00"
   },
   {
    "id": "c331f4aaf953",
@@ -1018,17 +1183,6 @@
    "flourishing_feed": false,
    "summary": "Trump shifts blame for fuel price hikes to blue states like California and Ukraine strikes on Russian oil refineries.",
    "published": "2026-10-05T19:01:32+00:00"
-  },
-  {
-   "id": "c4794f2e5dc6",
-   "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
-   "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "A reader writes: “We’d better get real quick or we’re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.”",
-   "published": "2026-10-05T19:00:00+00:00"
   },
   {
    "id": "f0a20f689452",
