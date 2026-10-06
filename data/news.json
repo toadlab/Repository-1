@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T04:32:08.830412+00:00",
+ "generated": "2026-10-06T05:30:57.514768+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,83 @@
  ],
  "items": [
   {
+   "id": "53f3239dbb40",
+   "title": "UK regulator FCA to investigate how it handled Epstein whistleblower who took his own life",
+   "link": "https://www.theguardian.com/business/2026/oct/06/uk-regulator-epstein-whistleblower",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "British banker Simon Andriesz helped to expose alleged ties between late sex offender Jeffrey Epstein and US commerce secretary Howard Lutnick A top UK regulator has launched an investigation into how it handled a whistleblower – who highlighted alleged ties between the late…",
+   "published": "2026-10-06T05:00:03+00:00"
+  },
+  {
+   "id": "a5b4d0b3584d",
+   "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
+   "link": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Civilians try to flee as men and boys rounded up on streets by new alliance as Ethiopia conflict erupts again As renewed fighting has threatened a fresh humanitarian crisis in the northern region of Ethiopia, reports are emerging that a new alliance of armed groups in Tigray…",
+   "published": "2026-10-06T05:00:02+00:00"
+  },
+  {
+   "id": "f8e17f8f4145",
+   "title": "In Iowa, Republicans Know They Have a Trump Problem",
+   "link": "https://thedispatch.com/article/iowa-hinson-campaign-trump-vance-affordability/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "How GOP Senate candidate Ashley Hinson is navigating a tricky electoral roadmap in the Hawkeye state.",
+   "published": "2026-10-06T05:00:00+00:00"
+  },
+  {
+   "id": "c85bdea617b7",
+   "title": "What We Got Wrong in September",
+   "link": "https://thedispatch.com/article/what-we-got-wrong-in-september/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A list of corrections issued by The Dispatch last month.",
+   "published": "2026-10-06T05:00:00+00:00"
+  },
+  {
+   "id": "751373978c67",
+   "title": "Watch: Moment Indonesian sneaker shop is torn apart by explosion",
+   "link": "https://www.bbc.co.uk/news/videos/cmkg7dx8wpygo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police have said it is “strongly suspected” that the incident was caused by a gas leak.",
+   "published": "2026-10-06T04:57:16+00:00"
+  },
+  {
+   "id": "62dd7d6b5540",
+   "title": "Violent clashes erupt after mass housing protest in Barcelona",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-6-barcelona-protests-clip-mp4?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Protesters in Barcelona set fires, built barricades and hurled projectiles as violence erupted at a housing protest.",
+   "published": "2026-10-06T04:34:51+00:00"
+  },
+  {
+   "id": "0732183b27f3",
+   "title": "Quebec separatists win election reviving push for independence",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/quebec-separatists-win-election-reviving-push-for-independence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Parti Quebecois leader Paul St-Pierre Plamondon vows a future referendum on independence from Canada.",
+   "published": "2026-10-06T04:34:16+00:00"
+  },
+  {
    "id": "ea812963d204",
    "title": "Yemeni military says it has 'secured' Red Sea waterway",
    "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
@@ -138,6 +215,17 @@
    "flourishing_feed": false,
    "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
    "published": "2026-10-06T04:29:53+00:00"
+  },
+  {
+   "id": "af14c918c514",
+   "title": "RSPCA NSW director quits over welfare standards for RSPCA-branded chicken",
+   "link": "https://www.theguardian.com/food/2026/oct/06/rspca-vice-president-quits-chicken-welfare-standards",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mark Steele says he is ‘ashamed to be associated’ with the RSPCA Certified scheme, which badges 97% of chicken sold in Australia Get our breaking news email , free app or daily news podcast RSPCA New South Wales’s vice-president has left the animal welfare group, saying he is…",
+   "published": "2026-10-06T04:26:53+00:00"
   },
   {
    "id": "3b72a7ddc94f",
@@ -400,7 +488,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Nidal Hasan sentenced to death by military jury in 2013 for carrying out deadly shooting attack at army base in Texas Donald Trump has approved the execution by US army firing squad of Nidal Hasan, who was sentenced to death for killing 13 soldiers at Fort Hood in 2009, chief…",
+   "summary": "Nidal Hasan sentenced to death by military jury in 2013 for carrying out deadly shooting attack at army base in Texas Donald Trump has approved the execution by US army firing squad of Nidal Hasan, who was sentenced to death for killing 13 people at Fort Hood in 2009, chief…",
    "published": "2026-10-06T01:33:44+00:00"
   },
   {
@@ -1106,6 +1194,17 @@
    "flourishing_feed": false,
    "summary": "Palestinians in West Bank are suffering increasing Israeli violence and repression.",
    "published": "2026-10-05T20:49:35+00:00"
+  },
+  {
+   "id": "6e7f36a89f2c",
+   "title": "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election",
+   "link": "https://www.bbc.co.uk/news/articles/cqj6je4jen6po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Flávio Bolsonaro's success could be the latest example of a resurgence of right-wing support in Latin America.",
+   "published": "2026-10-05T20:42:19+00:00"
   },
   {
    "id": "7e8ff7cece53",
