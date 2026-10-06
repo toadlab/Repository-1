@@ -56798,5 +56798,37 @@
   "decision": "exclude",
   "exclusion": "did not clear the international bar",
   "persistent": false
+ },
+ "714ab9976025": {
+  "story_key": "trump-super-pac-pay-taxpayer",
+  "durability": 4,
+  "circle": "international",
+  "domain": 6,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 6.1,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
+ },
+ "cb4356384844": {
+  "story_key": "openai-reiterate-apology-australia-over",
+  "durability": 4,
+  "circle": "international",
+  "domain": 3,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 5.05,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
  }
 }

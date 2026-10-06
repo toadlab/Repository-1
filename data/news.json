@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T00:41:38.987599+00:00",
+ "generated": "2026-10-06T01:30:01.798741+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -13,8 +13,8 @@
   },
   {
    "name": "Indianapolis Business Journal",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "count": 10
   },
   {
    "name": "NPR News",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "name": "Federal Register: IRS",
@@ -128,6 +128,50 @@
   }
  ],
  "items": [
+  {
+   "id": "ea812963d204",
+   "title": "Yemeni military says it has 'secured' Red Sea waterway",
+   "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+   "published": "2026-10-06T01:05:00+00:00"
+  },
+  {
+   "id": "714ab9976025",
+   "title": "Trump says Super Pac will pay for taxpayer-funded ads that sparked outcry",
+   "link": "https://www.theguardian.com/us-news/2026/oct/05/trump-super-pac-ads",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President’s U-turn comes after Democrats and Republicans condemned use of tax dollars for pro-Trump ads Donald Trump said on Monday he would pay for taxpayer-funded, pro-Trump ads “with money I raised for MAGA, Inc.”, a political action committee, after the television…",
+   "published": "2026-10-06T01:04:58+00:00"
+  },
+  {
+   "id": "ae6aa17ebe5e",
+   "title": "Trump claims he’s ‘doing great’ as his approval rating sinks to record low – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President downplays unfavorable polling as he travels to Nebraska to support Republicans ahead of the US midterm elections Sign up for the Breaking News US email Ask our reporters your questions about the Iran war and the US midterms As the supreme court hears oral arguments…",
+   "published": "2026-10-06T01:02:24+00:00"
+  },
+  {
+   "id": "cb4356384844",
+   "title": "OpenAI to reiterate apology to Australia over Medicare hack as inquiry told artists risk becoming ‘roadkill’",
+   "link": "https://www.theguardian.com/media/2026/oct/06/openai-australia-parliament-inquiry-jason-kwon",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Company executive to acknowledge ‘more work to do to rebuild trust with the Australian people’ as ABC says copyright laws do not need changing Get our breaking news email , free app or daily news podcast OpenAI will use an appearance before a parliamentary committee to…",
+   "published": "2026-10-06T00:53:48+00:00"
+  },
   {
    "id": "a7b744880dde",
    "title": "Utah enters the Wild West of AI healthcare. How far will it go?",
@@ -173,17 +217,6 @@
    "published": "2026-10-06T00:19:23+00:00"
   },
   {
-   "id": "ae6aa17ebe5e",
-   "title": "Trump claims he’s ‘doing great’ as his approval rating sinks to record low – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/05/donald-trump-nebraska-midterms-republicans-white-house-media-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President downplays unfavorable polling as he travels to Nebraska to support Republicans ahead of the US midterm elections Sign up for the Breaking News US email Ask our reporters your questions about the Iran war and the US midterms As the supreme court hears oral arguments…",
-   "published": "2026-10-06T00:17:13+00:00"
-  },
-  {
    "id": "917e56da1733",
    "title": "Moroccan journalists recount years of surveillance amid new Amnesty claim",
    "link": "https://www.aljazeera.com/news/2026/10/6/moroccan-journalists-recount-years-of-surveillance-amid-new-amnesty-claim?traffic_source=rss",
@@ -224,7 +257,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "US had largely eliminated disease by 2000 but has seen several outbreaks amid declining vaccination rates.",
+   "summary": "The US had largely eliminated measles by 2000 but has seen several outbreaks amid declining vaccination rates.",
    "published": "2026-10-06T00:00:36+00:00"
   },
   {
@@ -389,7 +422,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Sources say the opposition’s target will be below Labor’s but won’t match One Nation’s goal to limit net arrivals to 130,000 Get our new political email , free app or daily news podcast The Coalition is expected to reveal deep cuts to immigration today which the party says…",
+   "summary": "Sources say the opposition’s target will be below Labor’s but won’t match One Nation’s goal to limit net arrivals to 130,000 Get our new political email , free app or daily news podcast The Coalition is expected to reveal deep cuts to immigration, which the party says would…",
    "published": "2026-10-05T22:18:18+00:00"
   },
   {
@@ -680,7 +713,7 @@
   },
   {
    "id": "3b82f4bdd591",
-   "title": "Ethiopia’s PM insists on access to Red Sea despite regional conflict threat",
+   "title": "Ethiopia’s Abiy demands access to Red Sea as tensions with neighbours rise",
    "link": "https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -1480,17 +1513,6 @@
    "flourishing_feed": false,
    "summary": "If passed, the constitutional amendment would allow judges to deny bail to any defendant if the state proves they cannot be safely released. The post What you need to know about the bail amendment on your ballot appeared first on Mirror Indy .",
    "published": "2026-10-05T17:50:39+00:00"
-  },
-  {
-   "id": "ea812963d204",
-   "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
-   "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Saudi-backed forces say they seized the port city of Mocha, near the Bab al-Mandab Strait, at the start of an offensive against the Houthis.",
-   "published": "2026-10-05T17:49:59+00:00"
   },
   {
    "id": "0fefb9c896bf",
