@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T06:37:49.860695+00:00",
+ "generated": "2026-10-06T07:32:24.107282+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -44,7 +44,7 @@
   {
    "name": "Reason",
    "ok": false,
-   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+   "error": "HTTPError: HTTP Error 504: Gateway Time-out"
   },
   {
    "name": "ProPublica",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "name": "The Guardian World",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Federal Register: IRS",
@@ -130,14 +130,113 @@
  "items": [
   {
    "id": "642a4888bc76",
-   "title": "Badenoch calls for UK ‘Iron Dome’ missile defence system - UK politics live",
+   "title": "Badenoch claims of Tory air defence plan ‘we haven’t called it Iron Dome’ - despite phrase in press release - UK politics live",
    "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Conservatives plan ‘new integrated air and missile defence system to protect Britain from attack – in essence, a British “Iron Dome”’ This is what the Conservatives are saying about why the UK needs a “Britannia Shield” (their name for what they describe as a version of the…",
-   "published": "2026-10-06T06:27:32+00:00"
+   "summary": "Conservatives plan ‘new integrated air and missile defence system to protect Britain from attack Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This is getting confusing. On BBC…",
+   "published": "2026-10-06T07:13:06+00:00"
+  },
+  {
+   "id": "c0cd95395d7b",
+   "title": "Trump jokes about letting Iran bomb Los Angeles and San Diego",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/trump-jokes-about-letting-iran-bomb-los-angeles-and-san-diego?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At a campaign rally in Nebraska, US President Donald Trump joked about letting Iran bomb Los Angeles and San Diego.",
+   "published": "2026-10-06T07:12:00+00:00"
+  },
+  {
+   "id": "a86b9d8ec509",
+   "title": "Gauff in racial abuse controversy at China Open after replayed point",
+   "link": "https://www.aljazeera.com/sports/2026/10/6/gauff-in-racial-abuse-controversy-at-china-open-after-replayed-point?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Coco Gauff was targeted online after stopping play during a crucial point in the first set against China’s Sun Xinran.",
+   "published": "2026-10-06T07:10:37+00:00"
+  },
+  {
+   "id": "0b5b133a5146",
+   "title": "Southeast Asia’s energy chiefs meet against backdrop of Iran war",
+   "link": "https://www.aljazeera.com/economy/2026/10/6/southeast-asias-energy-chiefs-meet-against-backdrop-of-iran-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "ASEAN ministers to discuss energy security amid energy crunch caused by the war on Iran.",
+   "published": "2026-10-06T07:07:47+00:00"
+  },
+  {
+   "id": "3b72a7ddc94f",
+   "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+   "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+   "published": "2026-10-06T07:02:24+00:00"
+  },
+  {
+   "id": "ec8949bbaaa2",
+   "title": "The women putting community at the heart of elephant conservation",
+   "link": "https://www.positive.news/environment/the-women-putting-community-at-the-heart-of-elephant-conservation/",
+   "source": "Positive News",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": true,
+   "summary": "Across Africa, women are challenging old assumptions about who conservation is for – and who gets to lead it The post The women putting community at the heart of elephant conservation appeared first on Positive News .",
+   "published": "2026-10-06T07:00:43+00:00"
+  },
+  {
+   "id": "d1091297bbcc",
+   "title": "Israeli ambassador to Australia says he hopes for return to ‘traditional friendship’ on October 7 anniversary eve",
+   "link": "https://www.theguardian.com/world/2026/oct/06/israeli-ambassador-australia-friendship-october-7-attack-anniversary-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Relations have soured between the two countries over a number of issues since 2023, but Hillel Newman says a ‘reset’ is possible Get our new political email , free app or daily news podcast Israel’s ambassador to Australia says the third anniversary of October 7 is an…",
+   "published": "2026-10-06T07:00:06+00:00"
+  },
+  {
+   "id": "04db906f38c9",
+   "title": "Keeping up with the Bolsonaros: Flávio’s surprise first-round election win heralds rise of a political dynasty",
+   "link": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Four members of disgraced ex-president Jair Bolsonaro’s family have been elected to office, most notably his wife and son Flávio, who won the first round of voting to be Brazil’s new president The weekend’s elections in Brazil not only put Jair Bolsonaro’s eldest son, Flávio…",
+   "published": "2026-10-06T07:00:05+00:00"
+  },
+  {
+   "id": "0e28518d4714",
+   "title": "A medieval manuscript has confounded scholars for centuries. Have they been reading it wrong all this time?",
+   "link": "https://www.theguardian.com/culture/2026/oct/06/voynich-manuscript-research-pages-wrongly-bound",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Researchers argue incorrect binding of Voynich manuscript radically changes ideas about its drawings and indecipherable text It has been called the world’s most mysterious manuscript: a medieval set of pages filled with botanical drawings, astronomical diagrams, pictures of…",
+   "published": "2026-10-06T07:00:04+00:00"
+  },
+  {
+   "id": "ed78bf8bfcd3",
+   "title": "What Is Originalism? | Interview: Sherif Girgis",
+   "link": "https://thedispatch.com/podcast/advisoryopinions/what-is-originalism-interview-sherif-girgis/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Discussing Justice Alito’s latest book.",
+   "published": "2026-10-06T07:00:00+00:00"
   },
   {
    "id": "e770d3f31a3b",
@@ -148,7 +247,73 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
-   "published": "2026-10-06T06:00:53+00:00"
+   "published": "2026-10-06T06:53:17+00:00"
+  },
+  {
+   "id": "b1de9a8b0305",
+   "title": "Australian army soldier killed and five others injured in training exercise in the Northern Territory",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/australian-defence-force-soldier-killed-five-injuried-mount-bundey-training-northern-territory",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Australian defence force identifies soldier killed in a vehicle rollover near Darwin as Corporal Brendan Hannam • Get our breaking news email , free app or daily news podcast Brendan Hannam has been named as the Australian soldier who died in a vehicle rollover during a…",
+   "published": "2026-10-06T06:49:23+00:00"
+  },
+  {
+   "id": "edb1d69ac880",
+   "title": "Buckingham Palace says it will not fund Andrew’s legal action against police",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/06/buckingham-palace-andrew-mountbatten-windsor-legal-action-police",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former Duke of York is attempting to quash search warrants that led to his arrest in February Andrew Mountbatten-Windsor has been warned not to use the king’s private money to fund his legal action against Thames Valley police. The former Duke of York is attempting to quash…",
+   "published": "2026-10-06T06:44:12+00:00"
+  },
+  {
+   "id": "09cd3057e271",
+   "title": "Nigeria mourns as 32 killed in military plane crash",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
+   "published": "2026-10-06T06:33:13+00:00"
+  },
+  {
+   "id": "6e4804426009",
+   "title": "Will Cristiano Ronaldo play for Portugal after a row with coach Jesus?",
+   "link": "https://www.aljazeera.com/sports/2026/10/6/cristiano-ronaldo-portugal-nations-league-jorge-jesus?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ronaldo sparked controversy last week when he walked out of the camp after learning that he would not start a game.",
+   "published": "2026-10-06T06:33:13+00:00"
+  },
+  {
+   "id": "b4f7fda7c627",
+   "title": "From competing for food to a gold medal: the stories behind India’s Asian Games winners",
+   "link": "https://www.theguardian.com/world/2026/oct/05/this-is-india-asian-games-winners-success",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The country’s 85-medal haul included athletes who trained with limited money and borrowed equipment. Plus, the Mumbai performer turning everyday absurdities into comedy In a country where cricket eclipses every other sport, the recently concluded Asian Games offered a…",
+   "published": "2026-10-06T06:30:04+00:00"
+  },
+  {
+   "id": "1d3571219961",
+   "title": "Croatia vs Spain: UEFA Nations League – Yamal, Modric, head-to-head",
+   "link": "https://www.aljazeera.com/sports/2026/10/6/croatia-spain-uefa-nations-league-yamal-modric-format-teams?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Coming on the back of a 10-match winning streak, Spain face Croatia with sights set on the Nations League quarterfinals.",
+   "published": "2026-10-06T06:17:15+00:00"
   },
   {
    "id": "10154ead168e",
@@ -338,17 +503,6 @@
    "published": "2026-10-06T04:26:53+00:00"
   },
   {
-   "id": "3b72a7ddc94f",
-   "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-   "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-   "published": "2026-10-06T04:25:22+00:00"
-  },
-  {
    "id": "8f6a716cc743",
    "title": "Mexican and Colombian cartel mercenaries filmed fighting in Ukraine",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/mexican-and-colombian-cartel-mercenaries-filmed-fighting-in-ukraine?traffic_source=rss",
@@ -499,7 +653,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Nidal Malik Hasan killed 13 unarmed US soldiers and injured another 32 and his execution will be the first by the US military since 1961.",
+   "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
    "published": "2026-10-06T02:22:24+00:00"
   },
   {
@@ -611,17 +765,6 @@
    "flourishing_feed": false,
    "summary": "Hall housing Michael Kotlikoff’s office spray painted as demonstrators demand resignation of college president Cornell University to take ‘serious look’ at fraternities after rape allegations Mass protests erupted at Cornell University on Monday, with students criticizing…",
    "published": "2026-10-06T01:30:11+00:00"
-  },
-  {
-   "id": "b1de9a8b0305",
-   "title": "Australian Army soldier killed and five others injured in training exercise in the Northern Territory",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/06/australian-defence-force-soldier-killed-five-injuried-mount-bundey-training-northern-territory",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Defence confirmed the fatality occurred on Monday at the Mount Bundey training area, with next of kin informed Get our breaking news email , free app or daily news podcast An Australian soldier has died and five others were injured in a training accident at a facility outside…",
-   "published": "2026-10-06T01:28:37+00:00"
   },
   {
    "id": "d25b9e367ef3",
