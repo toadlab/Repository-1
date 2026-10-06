@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T12:37:33.434199+00:00",
+ "generated": "2026-10-06T13:33:02.789151+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -43,8 +43,8 @@
   },
   {
    "name": "Reason",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 48
   },
   {
    "name": "ProPublica",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -129,26 +129,37 @@
  ],
  "items": [
   {
-   "id": "2e1491484c6a",
-   "title": "America’s renters are emerging as a political movement",
-   "link": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
+   "id": "c07a3b77a8a1",
+   "title": "Died: Jim Bakker, Pioneering Televangelist Later Caught in Crimes",
+   "link": "https://www.christianitytoday.com/2026/10/died-jim-bakker-televangelist-tammy-faye/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jim Bakker, a pioneering televangelist later caught in scandal and financial crimes, died Oct. 5 at the age of 86, according to a statement from his second wife Lori Bakker. She did not share his cause of death. Bakker rose to fame in the 1970s and 1980s as the host of a…",
+   "published": "2026-10-06T13:29:16+00:00"
+  },
+  {
+   "id": "7ecaba2454ef",
+   "title": "Fed minutes coming tomorrow could give markets important clues about future rate hikes",
+   "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Housing policy has long prioritized homeownership. As young Americans face the prospect of renting indefinitely, more tenants are seeking political clout.",
-   "published": "2026-10-06T12:33:00+00:00"
+   "summary": "Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.",
+   "published": "2026-10-06T13:27:00+00:00"
   },
   {
-   "id": "82350a7a2bb4",
-   "title": "First Thing: ‘deranged’ and ‘dangerous’ Trump calls for Iran to strike US cities amid historic ratings low",
-   "link": "https://www.theguardian.com/us-news/2026/oct/06/first-thing-donald-trump-iran-strikes-us-cities",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
+   "id": "0ac34cd84900",
+   "title": "Wealthspire Announces $2.9B Sports and Entertainment Practice",
+   "link": "https://www.wealthmanagement.com/ria-news/wealthspire-launches-sports-and-entertainment-practice",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "California’s leaders attack president after he suggests Iran could ‘take out’ Los Angeles or San Diego. Plus an auction of some of the most famous props in movie history Good morning. Donald Trump has suggested Iran could “take out” Los Angeles and San Diego , in comments…",
-   "published": "2026-10-06T12:29:42+00:00"
+   "summary": "The New York-based RIA's new vertical will focus on professional athletes, entertainers and creators, building on practice head Frank Marzano’s experience in the sector.",
+   "published": "2026-10-06T13:14:11+00:00"
   },
   {
    "id": "08a02317c3e9",
@@ -159,7 +170,51 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "The co-portfolio manager at Heartland Advisors urges investors to shut out Wall Street’s hype on AI and look for companies that can use its technology as costs come down.",
-   "published": "2026-10-06T12:29:00+00:00"
+   "published": "2026-10-06T13:13:00+00:00"
+  },
+  {
+   "id": "60cdda3b2395",
+   "title": "Kenya confirms its first Ebola death as outbreak spreads",
+   "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+   "published": "2026-10-06T13:10:42+00:00"
+  },
+  {
+   "id": "a80be457bd6e",
+   "title": "Lego collector’s insurance scam highlights UK’s £1.3bn fraud problem",
+   "link": "https://www.theguardian.com/business/2026/oct/06/lego-insurance-scam-highlights-uk-fraud",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Industry leaders say bogus claims rose 14% last year, pushing up premiums for all customers An insurance fraudster who pocketed more than £14,000 for the supposed theft of Lego sets, fishing gear and gaming consoles was behind one of last year’s most high-profile bogus claims.…",
+   "published": "2026-10-06T13:07:23+00:00"
+  },
+  {
+   "id": "8a77c091bf25",
+   "title": "Republican candidate for San Diego House district criticizes Trump comments on Iran – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jim Desmond pushes back after president says losing Los Angeles and San Diego would be ‘small price to pay’ Q&A: The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions Sign up for Breaking News US email According to the latest data…",
+   "published": "2026-10-06T13:05:06+00:00"
+  },
+  {
+   "id": "0e727cd673e6",
+   "title": "Veteran conservative lawyer quits Trump’s interior department and warns of ‘assault on the rule of law’",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/veteran-conservative-quits-trumps-interior-department",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "John Murdock had been working for the agency for 18 years and his resignation comes during an exodus of longtime federal workers and scientists An 18-year veteran of the US Department of Interior has resigned in protest from the sprawling federal agency, denouncing “a deeply…",
+   "published": "2026-10-06T13:00:15+00:00"
   },
   {
    "id": "123ef8b1fcce",
@@ -169,8 +224,107 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Counter Terrorism Policing says 22-year-old arrested in London on suspicion of terrorism offences A 22-year-old British man has been arrested in London on suspicion of terrorism offences related to the suspected RAF Fairford terrorism plot, Counter Terrorism Policing said. More…",
-   "published": "2026-10-06T12:26:53+00:00"
+   "summary": "Counter-terrorism policing says 22-year-old detained in London on suspicion of terrorism offences A seventh man has been arrested in London on suspicion of terrorism offences related to the suspected RAF Fairford terrorism plot, police have said. The 22-year-old British…",
+   "published": "2026-10-06T12:52:44+00:00"
+  },
+  {
+   "id": "b3ecd61497c3",
+   "title": "Former German spy chief arrested on suspicion of treason and espionage",
+   "link": "https://www.aljazeera.com/news/2026/10/6/former-german-spy-chief-arrested-on-suspicion-of-treason-and-espionage?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "August Hanning's former chief of staff was also arrested on suspicion of 'aiding and abetting attempted treason'.",
+   "published": "2026-10-06T12:52:28+00:00"
+  },
+  {
+   "id": "09cd3057e271",
+   "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
+   "published": "2026-10-06T12:51:05+00:00"
+  },
+  {
+   "id": "78fe2c82c0c4",
+   "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+   "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly through the north-east of the Democratic…",
+   "published": "2026-10-06T12:46:56+00:00"
+  },
+  {
+   "id": "642a4888bc76",
+   "title": "Badenoch suggests Tories would not reverse Labour’s pensions triple lock legislation – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In his party conference speech last week, Andy Burnham said he wanted to change the triple lock uprating mechanism from 2030 Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This…",
+   "published": "2026-10-06T12:44:14+00:00"
+  },
+  {
+   "id": "f1cae770574e",
+   "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
+   "link": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Russia says 290 drones targeted Moscow and nearby regions in the overnight Ukrainian assault.",
+   "published": "2026-10-06T12:42:19+00:00"
+  },
+  {
+   "id": "6a98ffee3177",
+   "title": "Plague epidemic risk in Russia low after death of lab technician, WHO says",
+   "link": "https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "World Health Organization detects no sign of further outbreak since Darya Shipilova died last week The World Health Organization has said the risk of an epidemic in Russia is lowafter the sudden death of a lab technician who worked at a plague research institute in Siberia.…",
+   "published": "2026-10-06T12:38:58+00:00"
+  },
+  {
+   "id": "2e1491484c6a",
+   "title": "America’s renters are emerging as a political movement",
+   "link": "https://www.marketwatch.com/story/locked-out-of-home-ownership-renters-are-rallying-voters-for-affordable-housing-policies-bf946d70?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Housing policy has long prioritized homeownership. As young Americans face the prospect of renting indefinitely, more tenants are seeking political clout.",
+   "published": "2026-10-06T12:37:00+00:00"
+  },
+  {
+   "id": "2868c1b08446",
+   "title": "Francis Halzen wins Nobel Prize in Physics for work on ‘ghost particles’",
+   "link": "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Belgian physicist worked to build Antarctic observatory that tracks neutrinos from deep space.",
+   "published": "2026-10-06T12:31:16+00:00"
+  },
+  {
+   "id": "82350a7a2bb4",
+   "title": "‘Deranged’ and ‘dangerous’ Trump calls for Iran to strike US cities amid historic ratings low | First Thing",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/first-thing-donald-trump-iran-strikes-us-cities",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "California’s leaders attack president after he suggests Iran could ‘take out’ Los Angeles or San Diego. Plus an auction of some of the most famous props in movie history Don’t already get First Thing in your inbox? Sign up here Good morning. Donald Trump has suggested Iran…",
+   "published": "2026-10-06T12:29:42+00:00"
   },
   {
    "id": "1354a485cc87",
@@ -182,6 +336,28 @@
    "flourishing_feed": false,
    "summary": "Push message claims fashion company’s data has been ‘fully compromised’, but website and app remain online Business live – latest updates Asos is investigating after users of its mobile app received a notification claiming hackers had “fully compromised” the online fashion…",
    "published": "2026-10-06T12:26:16+00:00"
+  },
+  {
+   "id": "3b1139ead20d",
+   "title": "Mapping where US bombers are based globally",
+   "link": "https://www.aljazeera.com/news/2026/10/6/mapping-where-us-bombers-are-based-around-the-world?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US has pulled its B-1 bombers from RAF Fairford amid Iran fears. Here's where else they can fly from.",
+   "published": "2026-10-06T12:22:54+00:00"
+  },
+  {
+   "id": "243707ef98a4",
+   "title": "Pakistan, Turkiye join Saudi deterrence against Houthis: What that means",
+   "link": "https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Islamabad says its role is defensive, but Riyadh's offensive in Yemen tests how long it can stay out of the fight.",
+   "published": "2026-10-06T12:22:46+00:00"
   },
   {
    "id": "76a77bd1cb4f",
@@ -206,26 +382,15 @@
    "published": "2026-10-06T12:21:00+00:00"
   },
   {
-   "id": "8a77c091bf25",
-   "title": "Trump says he will stop using taxpayer funds for self-promoting ads after backlash – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "75258d92ed3e",
+   "title": "Qatar and India among seven countries bidding for 2036 Olympics, IOC says",
+   "link": "https://www.aljazeera.com/sports/2026/10/6/qatar-and-india-among-seven-countries-bidding-for-2036-olympics-ioc-says?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "President claims commercials were ‘positive promotion for our Great USA’ but says he will now cover their cost Q&A: The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions Sign up for Breaking News US email Donald Trump will begin his…",
-   "published": "2026-10-06T12:17:49+00:00"
-  },
-  {
-   "id": "642a4888bc76",
-   "title": "Badenoch suggests Tories would not reverse Labour’s pensions triple lock legislation – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "In his party conference speech last week, Andy Burnham said he wanted to change the triple lock uprating mechanism from 2030 Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This…",
-   "published": "2026-10-06T12:15:30+00:00"
+   "summary": "South Africa, Turkiye, Germany, Hungary and South Korea are on the list of countries revealed by the IOC.",
+   "published": "2026-10-06T12:19:50+00:00"
   },
   {
    "id": "77e04e2e894a",
@@ -248,6 +413,39 @@
    "flourishing_feed": false,
    "summary": "For decades, the S&P 500 has been the preferred benchmark for monitoring the performance of the U.S. stock market. But these days, it is behaving less like a barometer of broad market health and more like a funhouse mirror.",
    "published": "2026-10-06T12:05:00+00:00"
+  },
+  {
+   "id": "05af0b777b7e",
+   "title": "Amicus Brief Asking Court to Consider Lawyers' Free Speech Rights, in Eastman v. State Bar",
+   "link": "https://reason.com/volokh/2026/10/06/amicus-brief-asking-court-to-consider-lawyers-free-speech-rights-in-eastman-v-state-bar/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "I thought I'd pass along the amicus brief that I just filed yesterday on behalf of Prof. Rebecca Roiphe (an… The post Amicus Brief Asking Court to Consider Lawyers' Free Speech Rights, in <i>Eastman v. State Bar</i> appeared first on Reason Magazine.",
+   "published": "2026-10-06T12:01:19+00:00"
+  },
+  {
+   "id": "aa6b4af0fa80",
+   "title": "The New Dark Ages Is Long on Alarm, Short on Scientific Literacy",
+   "link": "https://reason.com/2026/10/06/the-new-dark-ages-is-long-on-alarm-short-on-scientific-literacy/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The perils of blaming screens for everything",
+   "published": "2026-10-06T12:00:20+00:00"
+  },
+  {
+   "id": "71aaddf5e317",
+   "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
+   "link": "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The arrests are part of the country's efforts to curb the misuse and abuse of the national currency.",
+   "published": "2026-10-06T12:00:10+00:00"
   },
   {
    "id": "07062584d69e",
@@ -316,17 +514,6 @@
    "published": "2026-10-06T11:53:21+00:00"
   },
   {
-   "id": "60cdda3b2395",
-   "title": "Kenya confirms its first Ebola death as outbreak spreads",
-   "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
-   "published": "2026-10-06T11:51:26+00:00"
-  },
-  {
    "id": "ea0b95a835f1",
    "title": "How Palestinian reporters defied Israel’s genocide to redefine journalism",
    "link": "https://www.aljazeera.com/news/2026/10/6/how-palestinian-reporters-defied-israels-genocide-to-redefine-journalism?traffic_source=rss",
@@ -383,13 +570,13 @@
   },
   {
    "id": "58d15ca5c079",
-   "title": "Argentina to stop Falklands exploiting offshore oilfields, country’s foreign minister says",
+   "title": "Argentina will stop Falklands exploiting offshore oilfields, foreign minister says",
    "link": "https://www.theguardian.com/uk-news/2026/oct/06/argentina-to-stop-falkland-islands-exploiting-offshore-oilfields-sovereignty",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Pablo Quirno says move is part of government’s strategy to peacefully assert sovereignty over the islands Argentina’s foreign minister has told an audience that included the British ambassador that his government would stop the Falkland Islands from exploiting its offshore…",
+   "summary": "Pablo Quirno says move is part of Argentinian government’s strategy to peacefully assert sovereignty over the islands Argentina’s foreign minister has told an audience that included the British ambassador that his government would stop the Falkland Islands from exploiting its…",
    "published": "2026-10-06T11:40:03+00:00"
   },
   {
@@ -558,6 +745,17 @@
    "published": "2026-10-06T11:00:35+00:00"
   },
   {
+   "id": "66df04ffdacf",
+   "title": "Today in Supreme Court History: October 6, 2010",
+   "link": "https://reason.com/volokh/2026/10/06/today-in-supreme-court-history-october-6-2010-6/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "10/6/2010: Snyder v. Phelps is argued. The post Today in Supreme Court History: October 6, 2010 appeared first on Reason Magazine.",
+   "published": "2026-10-06T11:00:13+00:00"
+  },
+  {
    "id": "bcfeca4f0724",
    "title": "A history of presidents naming things after themselves (It's short. They rarely do)",
    "link": "https://www.npr.org/2026/10/06/nx-s1-5986321/kennedy-center-trump-naming-washington",
@@ -688,17 +886,6 @@
    "flourishing_feed": false,
    "summary": "A reader writes: “We’d better get real quick or we’re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.”",
    "published": "2026-10-06T10:15:00+00:00"
-  },
-  {
-   "id": "09cd3057e271",
-   "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-   "published": "2026-10-06T10:13:02+00:00"
   },
   {
    "id": "3823a87eb0f6",
@@ -952,17 +1139,6 @@
    "flourishing_feed": false,
    "summary": "Across the country, Indians are turning disparate grievances into a broader reckoning with unaccountable power.",
    "published": "2026-10-06T09:39:03+00:00"
-  },
-  {
-   "id": "78fe2c82c0c4",
-   "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
-   "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, after a Kenyan man who had been living in the Democratic Republic of the Congo (DRC) died…",
-   "published": "2026-10-06T09:35:12+00:00"
   },
   {
    "id": "bf0ed46605cf",
@@ -1350,6 +1526,17 @@
    "published": "2026-10-06T08:00:42+00:00"
   },
   {
+   "id": "1f82c6795626",
+   "title": "Brickbat: Cold as ICE",
+   "link": "https://reason.com/2026/10/06/brickbat-cold-as-ice/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A man in Evanston, Illinois, was injured after Immigration and Customs Enforcement (ICE) agents mistakenly detained him because he resembled… The post Brickbat: Cold as ICE appeared first on Reason Magazine.",
+   "published": "2026-10-06T08:00:22+00:00"
+  },
+  {
    "id": "bb34fcce2d23",
    "title": "What is Russia saying about death of woman linked to plague lab?",
    "link": "https://www.bbc.co.uk/news/videos/cw4g1r1k1d0ro?at_medium=RSS&at_campaign=rss",
@@ -1537,6 +1724,17 @@
    "published": "2026-10-06T07:00:00+00:00"
   },
   {
+   "id": "0846c723659d",
+   "title": "Open Thread",
+   "link": "https://reason.com/volokh/2026/10/06/open-thread-349/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What’s on your mind?",
+   "published": "2026-10-06T07:00:00+00:00"
+  },
+  {
    "id": "e770d3f31a3b",
    "title": "OpenAI admits response to Australian government hacks 'not good enough'",
    "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
@@ -1645,6 +1843,17 @@
    "flourishing_feed": false,
    "summary": "Key indicator dropped about 20% after the Reserve Bank last month announced the highest interest rates since 2011 Get our breaking news email , free app or daily news podcast Australian households are the most persistently pessimistic they have been since the early-1990s…",
    "published": "2026-10-06T05:54:21+00:00"
+  },
+  {
+   "id": "a82005dcd509",
+   "title": "How Should A.I. Change Legal Scholarship—and the Job of Being a Law Professor?",
+   "link": "https://reason.com/volokh/2026/10/06/how-should-a-i-change-legal-scholarship-and-the-job-of-being-a-law-professor/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A panel discussion.",
+   "published": "2026-10-06T05:53:26+00:00"
   },
   {
    "id": "8c085c56c3cf",
@@ -7452,17 +7661,6 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "Helping them out is cool, but the best gift is teaching them how to manage money, be realistic about their standard of living and learn to stand on their own.",
-   "published": "2026-10-04T12:00:00+00:00"
-  },
-  {
-   "id": "7ecaba2454ef",
-   "title": "Fed minutes coming this week could give markets important clues about future rate hikes",
-   "link": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.",
    "published": "2026-10-04T12:00:00+00:00"
   },
   {
@@ -17268,13 +17466,13 @@
   },
   {
    "id": "0576cdcfcbdd",
-   "title": "Midterm Elections Tax Measures: What to Watch on the November Ballot",
+   "title": "Midterm Elections Tax Measures Target High Income: What to Watch",
    "link": "https://www.kiplinger.com/taxes/november-ballot-tax-measures-target-high-income",
    "source": "Kiplinger",
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Voters in several states will decide on key tax measures during the 2026 midterm elections this fall.",
+   "summary": "Voters in several states will decide on key income tax measures during the 2026 midterm elections this November.",
    "published": "2026-10-01T13:27:00+00:00"
   },
   {
