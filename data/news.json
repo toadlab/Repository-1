@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T02:30:56.119623+00:00",
+ "generated": "2026-10-06T03:31:06.668820+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,94 @@
  ],
  "items": [
   {
+   "id": "6062848e48d2",
+   "title": "Judith Lucy announces breast cancer diagnosis: ‘I’m in shock, but I’m OK’",
+   "link": "https://www.theguardian.com/stage/2026/oct/06/cancer-breast-diagnosis-judith-lucy",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Comedian reveals cancer in a joke-packed video, saying she will undergo a double mastectomy and ‘I’ll be keeping you abreast of everything, Australia’ Comedian and actor Judith Lucy has revealed she has been diagnosed with breast cancer. In a video shared to Instagram on…",
+   "published": "2026-10-06T03:04:05+00:00"
+  },
+  {
+   "id": "3bc717aee494",
+   "title": "UN rights council condemns attacks on civilians in Sudan, calls for truce",
+   "link": "https://www.aljazeera.com/news/2026/10/6/un-rights-council-condemns-attacks-on-civilians-in-sudan-calls-for-truce?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Resolution demands an immediate ceasefire and extends the mandate of the mission investigating abuses in Sudan.",
+   "published": "2026-10-06T02:54:31+00:00"
+  },
+  {
+   "id": "ba8f5b3c4aa1",
+   "title": "Great Salt Lake dust: A problem Utah can’t afford to fix or ignore",
+   "link": "https://www.deseret.com/environment/2026/10/05/great-salt-lake-dust-solutions/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Utah leaders face the costs of controlling dust from a shrinking Great Salt Lake — whether they choose to act now or not. More than 800 square miles of lakebed are now exposed as the Great Salt Lake water levels continue to decline — leaving dry, dusty areas surrounding the…",
+   "published": "2026-10-06T02:51:49+00:00"
+  },
+  {
+   "id": "82debedabd72",
+   "title": "Beau Lamarre-Condon trial shown CCTV of accused’s movements across Sydney after alleged double murder",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/beau-lamarre-condon-trial-cctv-accuseds-movements-sydney-after-alleged-double-murder-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former NSW police officer has pleaded not guilty to February 2024 murders of Jesse Baird, 26, and Luke Davies, 29 Get our breaking news email , free app or daily news podcast Jurors have seen how dozens of CCTV cameras tracked Beau Lamarre-Condon’s movements across Sydney well…",
+   "published": "2026-10-06T02:39:40+00:00"
+  },
+  {
+   "id": "570ba73f57e4",
+   "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+   "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+   "published": "2026-10-06T02:37:46+00:00"
+  },
+  {
+   "id": "9c5f2b7b967a",
+   "title": "Justice Alito on Originalism",
+   "link": "https://reason.com/volokh/2026/10/05/justice-alito-on-originalism/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "His recent Wall Street Journal column on this subject makes some interesting points, but raises more questions than answers.",
+   "published": "2026-10-06T02:36:42+00:00"
+  },
+  {
+   "id": "38770045b8a4",
+   "title": "Samoa leader apologises for Nazi salute after video from 2007 emerges",
+   "link": "https://www.bbc.co.uk/news/articles/c862ylle91k7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Schmidt acknowledged that his actions \"were inappropriate and capable of causing offence and hurt\".",
+   "published": "2026-10-06T02:36:21+00:00"
+  },
+  {
+   "id": "26e8279a5a1f",
+   "title": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
+   "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The execution of Nidal Malik Hasan will be the first military execution since 1961 and the first by firing squad since the end of World War Two.",
+   "published": "2026-10-06T02:22:24+00:00"
+  },
+  {
    "id": "16461ce1fc65",
    "title": "High school boys golf: 3A region recaps, Morgan, Carbon Juab claim region titles",
    "link": "https://www.deseret.com/sports/2026/10/05/high-school-boys-golf-3a-region-recaps/",
@@ -160,6 +248,17 @@
    "flourishing_feed": false,
    "summary": "Football Tate Patterson, Corner Canyon (Sr.) Tate Patterson has made big contributions on both sides of the ball last week, which helped Corner Canyon to an easy 56-0 win over Cedar Valley. Defensively, he tallied seven tackles for the Chargers and leads the team with 69 total…",
    "published": "2026-10-06T02:10:02+00:00"
+  },
+  {
+   "id": "e21610056b64",
+   "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
+   "link": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising.",
+   "published": "2026-10-06T01:58:29+00:00"
   },
   {
    "id": "ae6aa17ebe5e",
@@ -404,6 +503,17 @@
    "published": "2026-10-05T23:45:09+00:00"
   },
   {
+   "id": "a93ba133a224",
+   "title": "A simple guide to the US midterms",
+   "link": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump’s presidency.",
+   "published": "2026-10-05T23:40:58+00:00"
+  },
+  {
    "id": "b29aca689f51",
    "title": "What’s happening in Ethiopia?",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-happening-in-ethiopia?traffic_source=rss",
@@ -426,6 +536,17 @@
    "published": "2026-10-05T23:30:00+00:00"
   },
   {
+   "id": "ab3b609f2ceb",
+   "title": "UK MPs call for investigation after Lutnick-Epstein whistleblower dies",
+   "link": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month.",
+   "published": "2026-10-05T23:29:02+00:00"
+  },
+  {
    "id": "5e7d16fb2769",
    "title": "Whistleblower warns that humans don’t control AI",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whistleblower-warns-that-humans-dont-control-ai?traffic_source=rss",
@@ -446,6 +567,28 @@
    "flourishing_feed": false,
    "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
    "published": "2026-10-05T23:19:14+00:00"
+  },
+  {
+   "id": "add451d0b3cb",
+   "title": "Five reasons India's stock market is sinking even when its economy is growing",
+   "link": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The world's fastest growing major economy has one of the worst performing major equity markets in 2026.",
+   "published": "2026-10-05T23:13:11+00:00"
+  },
+  {
+   "id": "d2862b182df9",
+   "title": "Europe is pouring billions into space. Can Glasgow's satellite industry keep up?",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kedyp348lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The city's space boom raises questions about the role of the state in backing important industries.",
+   "published": "2026-10-05T23:07:08+00:00"
   },
   {
    "id": "6843b980fe38",
@@ -512,6 +655,17 @@
    "flourishing_feed": false,
    "summary": "Publisher says author died peacefully at home ‘between writing sessions’ Jeffrey Archer, the bestselling author and former MP whose political career ended in disgrace when he was imprisoned for perjury, has died at the age of 86. Archer, who was a Conservative MP for five years…",
    "published": "2026-10-05T22:31:47+00:00"
+  },
+  {
+   "id": "a1d58dbf5417",
+   "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+   "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
+   "published": "2026-10-05T22:28:02+00:00"
   },
   {
    "id": "c99a9894dd3f",
