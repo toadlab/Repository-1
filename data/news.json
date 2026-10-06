@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T08:33:07.319890+00:00",
+ "generated": "2026-10-06T09:33:11.476208+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,105 @@
  ],
  "items": [
   {
+   "id": "60cdda3b2395",
+   "title": "Kenya confirms its first Ebola death as outbreak spreads",
+   "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+   "published": "2026-10-06T09:26:11+00:00"
+  },
+  {
+   "id": "bf0ed46605cf",
+   "title": "‘Hitting the right nail’: Refugee rescue group defiant as Greece targets it",
+   "link": "https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Aegean Boat Report founder Tommy Olsen insists he is defending the rule of law, as Greece opens trial against him.",
+   "published": "2026-10-06T09:25:14+00:00"
+  },
+  {
+   "id": "01d1671974f2",
+   "title": "Palestine weekly: Olive harvest opens under assault",
+   "link": "https://www.aljazeera.com/news/2026/10/6/palestine-weekly-olive-harvest-opens-under-assault?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli settlers and forces beat Palestinians, set property on fire and steal crops across the occupied West Bank.",
+   "published": "2026-10-06T09:22:09+00:00"
+  },
+  {
+   "id": "3e051984b219",
+   "title": "The S&P 500 is facing rate chaos and narrow breadth. Why one Goldman Sachs insider is still bullish on stocks.",
+   "link": "https://www.marketwatch.com/story/the-s-p-500-is-facing-rate-chaos-and-narrow-breadth-why-one-goldman-sachs-insider-is-still-bullish-on-stocks-84a20206?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Stocks are not expensive in an historical context, seasonal factors are supportive and Goldman Sachs hedge fund research forecasts a record high for the S&P 500 before year-end.",
+   "published": "2026-10-06T09:20:00+00:00"
+  },
+  {
+   "id": "9c81a4a3beb0",
+   "title": "Disney, ABC battle Trump's FCC in court over free speech protections",
+   "link": "https://www.npr.org/2026/10/06/nx-s1-5991831/disney-battles-fcc",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Trump has repeatedly called for Disney's ABC to fire late night comedian Jimmy Kimmel, for mocking him. Trump has also routinely denounced ABC's The View , accusing it of being unfair.",
+   "published": "2026-10-06T09:17:00+00:00"
+  },
+  {
+   "id": "2d06b60c94ae",
+   "title": "My brother-in-law convinced his parents to sign over their home and savings to buy a $3 million compound. Do I intervene?",
+   "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“He estimates the mortgage will be $10,000 a month once both homes are sold, or $14,000 if they are not sold in time.”",
+   "published": "2026-10-06T09:16:00+00:00"
+  },
+  {
+   "id": "0c7aa74f600e",
+   "title": "Elon Musk is a trillionaire again. Here’s how his wealth stacks up against national economies.",
+   "link": "https://www.marketwatch.com/story/elon-musk-is-a-trillionaire-again-heres-how-his-wealth-stacks-up-against-national-economies-e9788b29?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Is Musk wealthier than the national economy of Poland or Ireland? Find out here.",
+   "published": "2026-10-06T09:16:00+00:00"
+  },
+  {
+   "id": "853d6b3ae34f",
+   "title": "Former N.Y. Gov. Andrew Cuomo buys a 7-acre Hamptons estate for $9.6 million cash",
+   "link": "https://www.marketwatch.com/story/former-n-y-gov-andrew-cuomo-buys-a-7-acre-hamptons-estate-for-9-6-million-cash-2deb9d9f?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Andrew Cuomo has splashed out $9.6 million in cash on a sprawling Hamptons estate—nearly a year after the New York City mayoral primary that marked his return to electoral politics.",
+   "published": "2026-10-06T09:06:00+00:00"
+  },
+  {
+   "id": "e71aeb1d10e9",
+   "title": "Woman’s body found in stockyard trough close to NSW-Queensland border",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/womans-body-found-stockyard-trough-terragon-farm-nsw-queensland-border",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police say body found by trail bike riders at remote farm in Terragon is badly decomposed, sparking search of missing persons records Get our breaking news email , free app or daily news podcast A partially submerged body believed to be a woman has been discovered in a remote…",
+   "published": "2026-10-06T09:05:54+00:00"
+  },
+  {
    "id": "09cd3057e271",
    "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
    "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
@@ -137,18 +236,337 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation.",
-   "published": "2026-10-06T08:16:57+00:00"
+   "published": "2026-10-06T09:02:03+00:00"
   },
   {
    "id": "642a4888bc76",
-   "title": "Badenoch claims of Tory air defence plan ‘we haven’t called it Iron Dome’ - despite phrase in press release - UK politics live",
+   "title": "Badenoch disowns Tory claims that air defence plan amounts to ‘British Iron Dome’ - UK politics live",
    "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Conservatives plan ‘new integrated air and missile defence system to protect Britain from attack Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This is getting confusing. On BBC…",
-   "published": "2026-10-06T08:10:09+00:00"
+   "summary": "Tory leader says ‘Britannia Shield’ will not be a similar scheme to that protecting Israel after repeated questions from broadcasters Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at…",
+   "published": "2026-10-06T09:01:55+00:00"
+  },
+  {
+   "id": "570ba73f57e4",
+   "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+   "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+   "published": "2026-10-06T09:01:51+00:00"
+  },
+  {
+   "id": "632bf2ede0ab",
+   "title": "Indiana reviews Medicaid waiver assessments amid scrutiny of new tool",
+   "link": "https://indianacapitalchronicle.com/2026/10/06/indiana-reviews-medicaid-waiver-assessments-amid-scrutiny-of-interrai/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Indiana Family and Social Services Administration quietly paused determinations for disability Medicaid waivers in August to review how case managers were implementing the agency’s new interRAI assessment system, as advocates raised alarm about the tool’s accuracy. But…",
+   "published": "2026-10-06T09:00:23+00:00"
+  },
+  {
+   "id": "1bee94c49382",
+   "title": "War, tariffs, Israel: How Trump’s foreign policy is influencing the midterms",
+   "link": "https://www.csmonitor.com/USA/Foreign-Policy/2026/1006/trump-foreign-policy-iran-war-oil-midterms?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "From the high prices of gas and groceries to the cost of fertilizer, economic issues that are top of mind for U.S. voters in the midterm elections can be traced to President Donald Trump’s foreign policy choices.",
+   "published": "2026-10-06T09:00:17+00:00"
+  },
+  {
+   "id": "186ebad6362b",
+   "title": "A bestselling classicist embarks on a fresh odyssey",
+   "link": "https://www.csmonitor.com/Arts-Culture/Books/2026/1006/A-bestselling-classicist-embarks-on-a-fresh-odyssey?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Emily Wilson, the first woman to translate Homer, offers a series of essays that examine modern interpretations of ancient literature.",
+   "published": "2026-10-06T09:00:11+00:00"
+  },
+  {
+   "id": "f06cf155ee2c",
+   "title": "US households pay 62% more for water than they did a decade ago, study finds",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/households-drinking-water-cost-study",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For-profit water corporations, federal cuts and climate crisis are ‘supercharging water rate hikes’, study co-author says US households are paying 62% more for drinking water than they did a decade ago – outpacing inflation, grocery prices and household incomes, according to a…",
+   "published": "2026-10-06T09:00:09+00:00"
+  },
+  {
+   "id": "f0ebd7e1a573",
+   "title": "The Shining axe used by Jack Nicholson for sale as part Stanley Kubrick auction",
+   "link": "https://www.theguardian.com/film/2026/oct/06/the-shining-axe-jack-nicholson-stanley-kubrick-archive-auction",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Excluive: Weapon is one of hundreds of items to be sold as part of the influential late director’s personal archive The axe wielded by Jack Nicholson as he delivered his chillingly manic line “Here’s Johnny!” in the 1980 horror movie The Shining is to go on sale. Nicholson’s…",
+   "published": "2026-10-06T09:00:08+00:00"
+  },
+  {
+   "id": "b1963dd0bf5b",
+   "title": "Loss of green space could be issue that decides Holborn and St Pancras byelection",
+   "link": "https://www.theguardian.com/politics/2026/oct/06/holborn-st-pancras-byelection-green-spaces-hs2-housing-euston",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Labour could pay price for disappearance of parks and playgrounds around Euston station When HS2 construction began around London’s Euston station in 2017 and people living nearby watched parks and playgrounds give way to diggers and rubble, they were promised that the lost…",
+   "published": "2026-10-06T09:00:08+00:00"
+  },
+  {
+   "id": "1ede4e146651",
+   "title": "Ben Davis graduates can celebrate homecoming at this alumni event",
+   "link": "https://mirrorindy.org/ben-davis-high-school-homecoming-alumni-experience-football-october-2026/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The west Indy school will give tours, recognize grads during its homecoming football game. The post Ben Davis graduates can celebrate homecoming at this alumni event appeared first on Mirror Indy .",
+   "published": "2026-10-06T09:00:00+00:00"
+  },
+  {
+   "id": "cef51d0ae66f",
+   "title": "A $100K city budget cut is making it harder to get food",
+   "link": "https://mirrorindy.org/indianapolis-food-access-funding-program-cut-feedindy-lyft/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "FEEDINDY was a partnership with Lyft and has been paused since April. The post A $100K city budget cut is making it harder to get food appeared first on Mirror Indy .",
+   "published": "2026-10-06T09:00:00+00:00"
+  },
+  {
+   "id": "e22fec8271f4",
+   "title": "New Hollywood era begins with an epic mega merger between Paramount and Warner Bros.",
+   "link": "https://www.npr.org/2026/10/06/nx-s1-5988283/paramount-warner-bros-skydance-merger-david-ellison",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Paramount and Warner Bros. merger has survived court challenges, public protests and regulatory scrutiny. Now, the Hollywood heavyweight, named Skydance, begins operating.",
+   "published": "2026-10-06T09:00:00+00:00"
+  },
+  {
+   "id": "e3c0d8e310b2",
+   "title": "FBI's spy hunting squads hit with deep cuts even as foreign espionage threats soar",
+   "link": "https://www.npr.org/2026/10/06/g-s1-145511/fbi-trump-counterintelligence-units-cuts",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The cuts come as a consequence of President Trump and FBI Director Kash Patel's focus on violent crime and immigration, leaving other priorities understaffed.",
+   "published": "2026-10-06T09:00:00+00:00"
+  },
+  {
+   "id": "5acf3c7c379a",
+   "title": "Elon Musk and Palmer Luckey's new Pentagon roles raise ethics worries",
+   "link": "https://www.npr.org/2026/10/06/nx-s1-5991899/elon-musk-palmer-luckey-pentagon-drones-ai",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Musk's company, SpaceX, and Luckey's company Anduril, could potentially benefit from recommendations made in the study about future autonomous weapon systems.",
+   "published": "2026-10-06T09:00:00+00:00"
+  },
+  {
+   "id": "61c7cb686f94",
+   "title": "Democrats' advantage is clear with less than a month to go in the midterm elections",
+   "link": "https://www.npr.org/2026/10/06/nx-s1-5989694/midterm-elections-control-congress",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Trump is facing low approval ratings, and voters are blaming him for rising costs. Republicans are likely to pay the price at the ballot box next month.",
+   "published": "2026-10-06T09:00:00+00:00"
+  },
+  {
+   "id": "5ab33767ca11",
+   "title": "'We could all hear her breathing': Witnessing the failed execution of Christa Pike",
+   "link": "https://www.npr.org/2026/10/06/nx-s1-5991669/failed-execution-christa-pike-tennessee-reporter-witness",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Catherine Sweeney was in the witness room when Tennessee attempted to execute Christa Pike on Sept. 30. An attempted execution in May had also failed. Here's what Sweeney saw and heard.",
+   "published": "2026-10-06T09:00:00+00:00"
+  },
+  {
+   "id": "dd8d2ccedec6",
+   "title": "Wildfire smoke affects animals in unique ways. Scientists are trying to understand it",
+   "link": "https://www.npr.org/2026/10/06/nx-s1-5991854/wildfire-smoke-ecology-birds-wildlife-health",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The new field of \"smoke ecology\" examines how wildfire smoke perturbs wild places and animals — and what might be done to prevent its worst mayhem.",
+   "published": "2026-10-06T09:00:00+00:00"
+  },
+  {
+   "id": "7a14ca8d0bb0",
+   "title": "Our Reporter Spent 10 Weeks Gambling on DraftKings. Here Are 5 Things He Learned.",
+   "link": "https://www.propublica.org/article/sports-gambling-draftkings-takeaways",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post Our Reporter Spent 10 Weeks Gambling on DraftKings. Here Are 5 Things He Learned. appeared first on ProPublica .",
+   "published": "2026-10-06T09:00:00+00:00"
+  },
+  {
+   "id": "bbc994630fe8",
+   "title": "Germany arrests former domestic intelligence chief over alleged spying",
+   "link": "https://www.theguardian.com/world/2026/oct/06/germany-august-hanning-bnd-arrest-former-domestic-intelligence-chief",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "August Hanning served as president of Federal Intelligence Service from 1998 to 2005 Germany’s federal prosecutor’s office has said a former domestic intelligence chief was arrested on Tuesday on espionage allegations. August Hanning served as president of the Federal…",
+   "published": "2026-10-06T08:59:16+00:00"
+  },
+  {
+   "id": "7b8e1f4c7955",
+   "title": "South Korea considers steps to force North Korea apology for DMZ mine blast",
+   "link": "https://www.aljazeera.com/news/2026/10/6/south-korea-considers-steps-to-force-north-korea-apology-for-dmz-mine-blast?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Seoul has urged Pyongyang to remove any other mines planted on the southern side of the military demarcation line.",
+   "published": "2026-10-06T08:58:36+00:00"
+  },
+  {
+   "id": "3823a87eb0f6",
+   "title": "US televangelist Jim Bakker, ensnared in fraud and sex scandal, dies at 86",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/jim-bakker-us-televangelist-fraud-sex-scandal-dead-at-86",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bakker spent four and a half years in prison after being convicted in 1989 ​of defrauding followers in a scheme involving holidays at his Christian theme park The US televangelist Jim Bakker, who built a multimillion-dollar empire and lived ⁠in opulence before being disgraced…",
+   "published": "2026-10-06T08:55:03+00:00"
+  },
+  {
+   "id": "7c1176f4b672",
+   "title": "Morning news brief",
+   "link": "https://www.npr.org/2026/10/06/nx-s1-5988270/morning-news-brief",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "With just weeks to go, a look at where the midterm elections stand, Saudi-backed forces in Yemen launch a major counter-offensive, Paramount and Warner Bros. begin operations after merger.",
+   "published": "2026-10-06T08:51:39+00:00"
+  },
+  {
+   "id": "78fe2c82c0c4",
+   "title": "Kenya confirms first Ebola case and says patient has died",
+   "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday Kenya ⁠has recorded its ⁠first confirmed ​Ebola case, a Kenyan citizen who had been living in the Democratic ⁠Republic of the Congo and arrived in Nairobi on Saturday, the health…",
+   "published": "2026-10-06T08:47:51+00:00"
+  },
+  {
+   "id": "c331f4aaf953",
+   "title": "The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions",
+   "link": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The war with Iran is reshaping America ahead of the midterms – how will it affect US voters at the polls? Join us for a live conversation on 6 October at 12pm ET with political and global correspondents Sign in or sign up to join the conversation Welcome to our latest US…",
+   "published": "2026-10-06T08:47:20+00:00"
+  },
+  {
+   "id": "80018172398f",
+   "title": "Malaysia’s Anwar to host Myanmar leader as repatriations near 10,000",
+   "link": "https://www.aljazeera.com/news/2026/10/6/malaysias-anwar-to-host-myanmar-leader-as-repatriations-surpass-10000?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Myanmar President Min Aung Hlaing to visit Kuala Lumpur 'in the next few days', Anwar Ibrahim says.",
+   "published": "2026-10-06T08:47:18+00:00"
+  },
+  {
+   "id": "3e10bb28f5ba",
+   "title": "Gaza woman rescues books from rubble to keep education alive",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/gaza-woman-rescues-books-from-rubble-to-keep-education-alive?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Amid the destruction of Gaza’s schools and universities, Niveen Al-Gharabli has built a makeshift book stall.",
+   "published": "2026-10-06T08:43:07+00:00"
+  },
+  {
+   "id": "e44730db4c5d",
+   "title": "How hunger is devastating Yemen’s children",
+   "link": "https://www.aljazeera.com/news/2026/10/6/malnutrition-among-yemens-children?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Al Jazeera travels to Yemen's displacement camps to measure the toll of malnutrition on the country's children.",
+   "published": "2026-10-06T08:42:10+00:00"
+  },
+  {
+   "id": "8809061e1cd2",
+   "title": "Sahibzada Farhan named Pakistan’s T20 captain as Naseem Shah returns",
+   "link": "https://www.aljazeera.com/sports/2026/10/6/sahibzada-farhan-named-pakistans-t20-captain-as-naseem-shah-returns?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Salman Agha axed before T20 home series against Sri Lanka, but Shaheen Shah Afridi is retained as ODI captain.",
+   "published": "2026-10-06T08:30:26+00:00"
+  },
+  {
+   "id": "44f14c4d3635",
+   "title": "Yemen forces claim key gains near Bab al-Mandeb: What’s the latest?",
+   "link": "https://www.aljazeera.com/news/2026/10/6/yemen-war-whats-the-latest-on-the-battlefield?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The internationally recognised government retakes territories from the Houthis as fighting rages on the western coast.",
+   "published": "2026-10-06T08:27:51+00:00"
+  },
+  {
+   "id": "7eea9e2507a4",
+   "title": "Badenoch denies ‘British Iron Dome’ plan – after Tories use phrase in press release",
+   "link": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tory leader says proposed ‘Britannia Shield’ would not be comparable to Israeli missile defence system UK politics live – latest updates Kemi Badenoch has denied she compared a new air defence system proposed by the party to Israel’s Iron Dome, despite using the term in her…",
+   "published": "2026-10-06T08:27:41+00:00"
+  },
+  {
+   "id": "730676502371",
+   "title": "UK events firm that hosts arms fairs and comic shows sold to rival for £2bn",
+   "link": "https://www.theguardian.com/business/2026/oct/06/informa-buy-clarion-blackstone-ftse-100",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "FTSE 100 firm Informa to buy Clarion from private equity group Blackstone Business live – latest updates A British events business that hosts arms fairs and conventions for comic book fans has been snapped up by a FTSE 100 rival for more than £2bn. Informa has struck a £2.24bn…",
+   "published": "2026-10-06T08:16:48+00:00"
   },
   {
    "id": "607ffdd35fce",
@@ -158,7 +576,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Gavin Newsom calls comments ‘deranged and dangerous’ after president tells Nebraska rally: ‘They can take out a city’ Leaders in California have sharply denounced Donald Trump as “reckless” and “deranged” after the US president suggested Iran could “take out” Los Angeles and…",
+   "summary": "Gavin Newsom calls comments ‘deranged and dangerous’ after president tells Nebraska rally: ‘They can take out a city’ Leaders in California have denounced Donald Trump as “reckless” and “deranged” after the US president suggested Iran could “take out” Los Angeles and San Diego…",
    "published": "2026-10-06T08:04:20+00:00"
   },
   {
@@ -492,6 +910,17 @@
    "published": "2026-10-06T05:44:39+00:00"
   },
   {
+   "id": "94599cda315f",
+   "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lionel Messi's Argentina career will end in a friendly against Benin. BBC Sport looks at what next for the 39-year-old?",
+   "published": "2026-10-06T05:39:49+00:00"
+  },
+  {
    "id": "c64749b5b536",
    "title": "Erling Haaland faces injury scare ahead of Man City vs Liverpool",
    "link": "https://www.aljazeera.com/sports/2026/10/6/erling-haaland-faces-injury-scare-ahead-of-man-city-vs-liverpool?traffic_source=rss",
@@ -734,17 +1163,6 @@
    "published": "2026-10-06T02:39:40+00:00"
   },
   {
-   "id": "570ba73f57e4",
-   "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-   "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
-   "published": "2026-10-06T02:37:46+00:00"
-  },
-  {
    "id": "9c5f2b7b967a",
    "title": "Justice Alito on Originalism",
    "link": "https://reason.com/volokh/2026/10/05/justice-alito-on-originalism/",
@@ -834,7 +1252,7 @@
   },
   {
    "id": "67a3ced891ce",
-   "title": "Trump says taxpayers will no longer fund TV ads that praise him",
+   "title": "US President says taxpayers will no longer fund TV ads praising him",
    "link": "https://www.aljazeera.com/news/2026/10/6/trump-says-taxpayers-will-no-longer-fund-tv-ads-that-praise-him?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -1150,17 +1568,6 @@
    "flourishing_feed": false,
    "summary": "The musician received five Oscar nominations, and soundtracked dozens of memorable nature films.",
    "published": "2026-10-05T22:58:25+00:00"
-  },
-  {
-   "id": "c331f4aaf953",
-   "title": "The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions",
-   "link": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The war with Iran is reshaping America ahead of the midterms – how will it affect US voters at the polls? Join us for a live conversation on 6 October at 12pm ET with political and global correspondents Sign in or sign up to join the conversation Welcome to our latest US…",
-   "published": "2026-10-05T22:52:16+00:00"
   },
   {
    "id": "1edd15da8d10",
