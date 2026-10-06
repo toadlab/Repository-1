@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T05:30:57.514768+00:00",
+ "generated": "2026-10-06T06:37:49.860695+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -43,8 +43,8 @@
   },
   {
    "name": "Reason",
-   "ok": true,
-   "count": 48
+   "ok": false,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
   },
   {
    "name": "ProPublica",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "name": "The Guardian World",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "name": "Federal Register: IRS",
@@ -128,6 +128,116 @@
   }
  ],
  "items": [
+  {
+   "id": "642a4888bc76",
+   "title": "Badenoch calls for UK ‘Iron Dome’ missile defence system - UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Conservatives plan ‘new integrated air and missile defence system to protect Britain from attack – in essence, a British “Iron Dome”’ This is what the Conservatives are saying about why the UK needs a “Britannia Shield” (their name for what they describe as a version of the…",
+   "published": "2026-10-06T06:27:32+00:00"
+  },
+  {
+   "id": "e770d3f31a3b",
+   "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+   "published": "2026-10-06T06:00:53+00:00"
+  },
+  {
+   "id": "10154ead168e",
+   "title": "‘Bully in every way’: domestic abuse survivors say ex-partners behind far-right UK street patrols",
+   "link": "https://www.theguardian.com/society/2026/oct/06/uk-domestic-abuse-survivors-ex-partners-behind-far-right-street-patrols",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Seven women share their stories to make people aware of patterns of violence behind anti-immigration street patrol movement During their relationship, Lisa’s ex-partner was controlling. He kept her at home where he was emotionally and physically abusive towards her, including…",
+   "published": "2026-10-06T06:00:05+00:00"
+  },
+  {
+   "id": "483d2552d3ac",
+   "title": "‘Pull the plug’: protesters resort to direct action against AI firms",
+   "link": "https://www.theguardian.com/technology/2026/oct/06/pull-the-plug-protesters-resort-to-direct-action-against-ai-firms",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Campaign groups report surge in membership after a spate of AI safety alerts and apocalyptic warnings In a bar below Waterloo Bridge, a cell of a fast-growing anti-AI protest movement met last week to plot their latest move: disrupting a tech industry dinner being addressed by…",
+   "published": "2026-10-06T06:00:04+00:00"
+  },
+  {
+   "id": "42d350cf2779",
+   "title": "Jim Bakker, who built 'PTL Club' televangelism empire, has died at 86",
+   "link": "https://www.npr.org/2026/10/06/g-s1-146603/obit-jim-bakker",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jim Bakker, along with his first wife Tammy Faye built an evangelical empire around the hugely successful \"The PTL Club\" TV show, only to lose it all over a sex scandal and financial crimes.",
+   "published": "2026-10-06T05:57:34+00:00"
+  },
+  {
+   "id": "e91c32d53f04",
+   "title": "Australian consumer confidence plunges to worst level since 1990s after RBA rate rise",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/consumer-confidence-index-interest-rate-rise-australia-rba-housing-renter-mortgage",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Key indicator dropped about 20% after the Reserve Bank last month announced the highest interest rates since 2011 Get our breaking news email , free app or daily news podcast Australian households are the most persistently pessimistic they have been since the early-1990s…",
+   "published": "2026-10-06T05:54:21+00:00"
+  },
+  {
+   "id": "8c085c56c3cf",
+   "title": "Tuesday briefing: Why the Green party’s Zionism vote has caused a backlash",
+   "link": "https://www.theguardian.com/world/2026/oct/06/tuesday-briefing-why-the-green-partys-zionism-vote-has-caused-a-backlash",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In today’s newsletter: The party has voted to define Zionism as racist and back a single Palestinian state. But what does the policy mean, why has it caused alarm among Jewish members, and how will it impact the future of the Greens? Good morning. The Green party of England and…",
+   "published": "2026-10-06T05:45:03+00:00"
+  },
+  {
+   "id": "91eb16caf076",
+   "title": "Widowed twice: A Gaza mother’s story of loss and survival",
+   "link": "https://www.aljazeera.com/features/2026/10/6/widowed-twice-a-gaza-mothers-story-of-loss-and-survival?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A young mother has lost two husbands and two children during Israel's genocidal war on Gaza.",
+   "published": "2026-10-06T05:44:39+00:00"
+  },
+  {
+   "id": "c64749b5b536",
+   "title": "Erling Haaland faces injury scare ahead of Man City vs Liverpool",
+   "link": "https://www.aljazeera.com/sports/2026/10/6/erling-haaland-faces-injury-scare-ahead-of-man-city-vs-liverpool?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Manchester City star asked to be substituted and was replaced in the 67th minute of the 2-1 defeat in Porto.",
+   "published": "2026-10-06T05:38:52+00:00"
+  },
+  {
+   "id": "00dba6b2e1ae",
+   "title": "Agreement to transition away from fossil fuels ‘not open for renegotiation’, Pacific leader tells pre-Cop",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/agreement-to-transition-away-from-fossil-fuels-not-open-for-renegotiation-pacific-leader-tells-pre-cop",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "International leaders visit Tuvalu as part of climate talks co-hosted by Australia ahead of Cop31 conference Pacific island leaders have urged a promised global transition away from fossil fuels must not be left open to renegotiation as they gather in tiny Tuvalu in a bid to…",
+   "published": "2026-10-06T05:01:23+00:00"
+  },
   {
    "id": "53f3239dbb40",
    "title": "UK regulator FCA to investigate how it handled Epstein whistleblower who took his own life",
@@ -174,7 +284,7 @@
   },
   {
    "id": "751373978c67",
-   "title": "Watch: Moment Indonesian sneaker shop is torn apart by explosion",
+   "title": "Watch: Moment Indonesian shoe shop is torn apart by explosion",
    "link": "https://www.bbc.co.uk/news/videos/cmkg7dx8wpygo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -224,7 +334,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Mark Steele says he is ‘ashamed to be associated’ with the RSPCA Certified scheme, which badges 97% of chicken sold in Australia Get our breaking news email , free app or daily news podcast RSPCA New South Wales’s vice-president has left the animal welfare group, saying he is…",
+   "summary": "Mark Steele says he is ‘ashamed to be associated’ with the RSPCA Certified scheme, which badges 97% of chicken sold in Australia Get our breaking news email , free app or daily news podcast The vice-president of RSPCA New South Wales has left the animal welfare group, saying he…",
    "published": "2026-10-06T04:26:53+00:00"
   },
   {
@@ -273,13 +383,13 @@
   },
   {
    "id": "bc930498db74",
-   "title": "Alan Jones corresponded with 13-year-old who asked for financial help, court hears",
+   "title": "‘I felt violated’: witness alleges Alan Jones kissed him and put hand on his bottom when he was 17",
    "link": "https://www.theguardian.com/australia-news/2026/oct/06/alan-jones-court-financial-help-13-year-old-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Radio host took teenager to lunch, had him visit his apartment, and told him to keep some conversations secret, court hears Get our breaking news email , free app or daily news podcast Alan Jones corresponded extensively with a 13-year-old who had written to him asking for…",
+   "summary": "Radio host gave financial help to teenager after starting correspondence with him at the age of 13, court hears Get our breaking news email , free app or daily news podcast When Alan Jones allegedly put his tongue inside the mouth of a 17-year-old and touched him on the bottom…",
    "published": "2026-10-06T03:57:47+00:00"
   },
   {
@@ -383,13 +493,13 @@
   },
   {
    "id": "26e8279a5a1f",
-   "title": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
+   "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
    "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The execution of Nidal Malik Hasan will be the first military execution since 1961 and the first by firing squad since the end of World War Two.",
+   "summary": "Nidal Malik Hasan killed 13 unarmed US soldiers and injured another 32 and his execution will be the first by the US military since 1961.",
    "published": "2026-10-06T02:22:24+00:00"
   },
   {
@@ -767,6 +877,17 @@
    "published": "2026-10-05T23:00:00+00:00"
   },
   {
+   "id": "549f7d8eb4a1",
+   "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
+   "link": "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The musician received five Oscar nominations, and soundtracked dozens of memorable nature films.",
+   "published": "2026-10-05T22:58:25+00:00"
+  },
+  {
    "id": "c331f4aaf953",
    "title": "The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions",
    "link": "https://www.theguardian.com/community/live/2026/oct/05/reader-q-a-iran-war-trump-midterms-reporter-answers",
@@ -1098,7 +1219,7 @@
   },
   {
    "id": "3b82f4bdd591",
-   "title": "Ethiopia’s Abiy demands access to Red Sea as tensions with neighbours rise",
+   "title": "Ethiopian PM Abiy demands Red Sea access as tensions with neighbours rise",
    "link": "https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
