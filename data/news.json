@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T14:32:58.445839+00:00",
+ "generated": "2026-10-06T15:31:25.244679+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -13,8 +13,8 @@
   },
   {
    "name": "Indianapolis Business Journal",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "name": "NPR News",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,270 @@
  ],
  "items": [
   {
+   "id": "49e1be46e84f",
+   "title": "25-01274.pdf",
+   "link": "https://www.finra.org/node/390336",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "25-01274.pdf Anonymous (not verified) Tue, 10/06/2026 - 11:30 Case ID 25-01274 Forum FINRA Document Type Award Claimants Gemma Marta James Marta James and Gemma Marta Family Trust Respondents Wedbush Securities Inc. Raymond Chow Robert Woods Neutrals Mary Mackey U. Martin…",
+   "published": "2026-10-06T15:30:01+00:00"
+  },
+  {
+   "id": "f87d7d4d8d2a",
+   "title": "25-02227.pdf",
+   "link": "https://www.finra.org/node/390331",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "25-02227.pdf Anonymous (not verified) Tue, 10/06/2026 - 11:30 Case ID 25-02227 Forum FINRA Document Type Award Claimants William Collins Respondents Morgan Stanley Neutrals Robert J. Scafuri John J. Fitzpatrick Nanci Sondra Landy Hearing Site Detroit, MI Award Document…",
+   "published": "2026-10-06T15:30:01+00:00"
+  },
+  {
+   "id": "ce70dec88c2f",
+   "title": "High school cross country: 5A region championships recap",
+   "link": "https://www.deseret.com/sports/2026/10/06/high-school-cross-country-5a-region-recaps/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Here’s a recap of the four 5A region cross country championships that were held this past week. On Wednesday, Oct. 14, teams and individuals will compete in the 5A Divisional meet at Lakeside Park in Orem to earn their spots in the 5A state championship meet on Wednesday, Oct.…",
+   "published": "2026-10-06T15:18:57+00:00"
+  },
+  {
+   "id": "9f86f93e3609",
+   "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
+   "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
+   "published": "2026-10-06T15:15:00+00:00"
+  },
+  {
+   "id": "5dde83d4443f",
+   "title": "What ‘White Glove’ Means Today",
+   "link": "https://www.wealthmanagement.com/high-net-worth/what-white-glove-means-today",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "For ultra-high-net-worth clients, responsiveness is no longer the standard. It’s table stakes.",
+   "published": "2026-10-06T15:14:04+00:00"
+  },
+  {
+   "id": "ff75d6b4a94e",
+   "title": "If Manchester City Weren't (Basically) Owned by the UAE, Their Scandal Would Be a Lot Less Complicated",
+   "link": "https://reason.com/2026/10/06/if-manchester-city-werent-basically-owned-by-the-uae-their-scandal-would-be-a-lot-less-complicated/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: Nick Saban is wrong again, and could this be the last year of MLB’s playoff format?",
+   "published": "2026-10-06T15:10:46+00:00"
+  },
+  {
+   "id": "8a77c091bf25",
+   "title": "Republican candidate for San Diego House district criticizes Trump comments on Iran – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jim Desmond pushes back after president says losing Los Angeles and San Diego would be ‘small price to pay’ Q&A: The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions Sign up for Breaking News US email Two media giants, Paramount…",
+   "published": "2026-10-06T15:10:16+00:00"
+  },
+  {
+   "id": "1354a485cc87",
+   "title": "Asos customers receive ‘hack’ message threatening to leak personal data",
+   "link": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Shares in fashion company fall 11% after its app systems are accessed by ‘unidentified third party’ Business live – latest updates Asos is investigating unauthorised access to its app system after shoppers received a notification claiming hackers had “fully compromised” its…",
+   "published": "2026-10-06T15:06:35+00:00"
+  },
+  {
+   "id": "80851fd1a3d4",
+   "title": "Proportion of people in Great Britain vaping who never smoked doubles in four years",
+   "link": "https://www.theguardian.com/society/2026/oct/06/proportion-of-people-in-great-britain-vaping-who-never-smoked-doubles-in-four-years",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 1 million people in Great Britain now vape despite having never regularly smoked, ONS data shows More than 1 million people in Great Britain now vape despite never having been regular smokers, with rates nearly doubling in just four years, according to figures that…",
+   "published": "2026-10-06T15:05:53+00:00"
+  },
+  {
+   "id": "642a4888bc76",
+   "title": "Badenoch suggests Tories would not reverse Labour’s pensions triple lock legislation – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In his party conference speech last week, Andy Burnham said he wanted to change the triple lock uprating mechanism from 2030 Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This…",
+   "published": "2026-10-06T15:05:52+00:00"
+  },
+  {
+   "id": "201ca87cff67",
+   "title": "Watch: At the scene of student protests in Lille",
+   "link": "https://www.bbc.co.uk/news/videos/cwzd650e2jqdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The BBC's Europe correspondent Nick Beake reports from a large demonstration in northern France.",
+   "published": "2026-10-06T15:02:56+00:00"
+  },
+  {
+   "id": "255eb8fdc244",
+   "title": "High Earners Stop Maxing Out 401(k)s, Betting They Can Outsmart Retirement Savings",
+   "link": "https://www.wealthmanagement.com/retirement/high-earners-stop-maxing-out-401-k-s-betting-they-can-outsmart-retirement-savings",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Savers are questioning whether the set-it-and-forget-it 401(k) is holding them back.",
+   "published": "2026-10-06T14:56:44+00:00"
+  },
+  {
+   "id": "be694e222615",
+   "title": "The Energy Department Is Offering $4.2 Billion in Loans to Nuclear Projects in Ohio and Pennsylvania",
+   "link": "https://reason.com/2026/10/06/the-energy-department-is-offering-4-2-billion-in-loans-to-nuclear-projects-in-ohio-and-pennsylvania/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Private investors are already pouring billions into America’s nuclear sector. The Trump administration wants a piece of the credit.",
+   "published": "2026-10-06T14:55:33+00:00"
+  },
+  {
+   "id": "04f5f6b23bb5",
+   "title": "Photos: France braces for day of school blockades and street protests",
+   "link": "https://www.aljazeera.com/gallery/2026/10/6/photos-france-braces-for-day-of-school-blockades-and-street-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Protesters increased pressure on the government of outgoing President Emmanuel Macron demanding more education funding.",
+   "published": "2026-10-06T14:53:02+00:00"
+  },
+  {
+   "id": "b90daa3d555a",
+   "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+   "link": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bulgaria launches search operation after Togo-flagged Alfa Watan sinks at scene of attack.",
+   "published": "2026-10-06T14:50:01+00:00"
+  },
+  {
+   "id": "f52e43029738",
+   "title": "‘Not the act of a friend’: Israel’s deadline to close UK consulate nears",
+   "link": "https://www.aljazeera.com/news/2026/10/6/its-not-the-act-of-a-friend-or-ally-israel-moves-to-shut-uk-consulate?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former British consul Sir Vincent Fean says Israel is acting unlawfully in the wake of a new wave of sanctions.",
+   "published": "2026-10-06T14:47:39+00:00"
+  },
+  {
+   "id": "6f78913f994f",
+   "title": "AfD candidate elected speaker of German regional parliament for first time",
+   "link": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment.",
+   "published": "2026-10-06T14:44:03+00:00"
+  },
+  {
+   "id": "8289b131b118",
+   "title": "What new measures is Iran taking to counter US economic pressure?",
+   "link": "https://www.aljazeera.com/news/2026/10/6/what-new-measures-is-iran-taking-to-counter-us-economic-pressure?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Iran adopts a new arrangement to tackle economic challenges amid the US-imposed economic war and naval blockades.",
+   "published": "2026-10-06T14:42:33+00:00"
+  },
+  {
+   "id": "a1d2ec773e59",
+   "title": "In Gaza, we cannot even begin to recover from trauma",
+   "link": "https://www.aljazeera.com/opinions/2026/10/6/in-gaza-we-cannot-even-begin-to-recover-from-trauma?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The genocide has killed many and left the rest broken. For us, survivors, recovery is not on the horizon.",
+   "published": "2026-10-06T14:42:22+00:00"
+  },
+  {
+   "id": "9569dd3b3005",
+   "title": "Reform MP raises concerns about second homes – then buys one for £800,000",
+   "link": "https://www.theguardian.com/politics/2026/oct/06/reform-sarah-pochin-second-homes-bought-800000",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sarah Pochin bought Anglesey property two days after writing to minister about impact of second home ownership on rural communities A Reform UK MP bought an £800,000 second home on a picturesque Welsh island two days after raising concerns in parliament about the impact of…",
+   "published": "2026-10-06T14:41:17+00:00"
+  },
+  {
+   "id": "b0bfcb206f23",
+   "title": "‘No more Viktor Orbán’: EU plans 15-year probation period for new member states",
+   "link": "https://www.theguardian.com/world/2026/oct/06/eu-plans-15-year-probation-period-new-member-states-viktor-orban",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Enlargement commissioner Marta Kos outlines proposed safeguards to protect EU from undemocratic leaders The European Commission wants to ensure there is no repeat Viktor Orbán among the next generation of EU member states, as it set out plans to prepare for the bloc’s…",
+   "published": "2026-10-06T14:38:16+00:00"
+  },
+  {
+   "id": "977a4a48a35b",
+   "title": "Saudi Arabia says East-West pipeline pumping 5.8 million bpd",
+   "link": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Energy Minister Prince Abdulaziz bin ⁠Salman says capacity restored after major attack last month.",
+   "published": "2026-10-06T14:38:09+00:00"
+  },
+  {
+   "id": "b3624a34408b",
+   "title": "Alito Talks Retirement",
+   "link": "https://reason.com/2026/10/06/alito-talks-retirement/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: The Supreme Court weighs a local government’s lawsuit against oil companies over global climate change.",
+   "published": "2026-10-06T14:33:37+00:00"
+  },
+  {
+   "id": "6132d627b347",
+   "title": "High school boys golf: 5A final region recaps, Cyprus, West Field, Skyline, Timpview win region titles",
+   "link": "https://www.deseret.com/sports/2026/10/06/high-school-boys-golf-5a-region-recaps/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "With 5A boys golf regular season now concluded, the focus shifts to next week’s state tournament at Bountiful Ridge Golf Course on Monday and Tuesday. Skyline has won six of the past seven 5A state championships, including last year when it won the title on the final hole. This…",
+   "published": "2026-10-06T14:32:46+00:00"
+  },
+  {
    "id": "a72121d17809",
    "title": "Here are the finalists for the 2026 National Book Awards",
    "link": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists",
@@ -162,6 +426,50 @@
    "published": "2026-10-06T14:29:00+00:00"
   },
   {
+   "id": "bcae50539e49",
+   "title": "France protests: What we know as schools face nationwide action",
+   "link": "https://www.aljazeera.com/features/2026/10/6/france-protests-what-we-know-as-schools-brace-for-nationwide-action?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Now in their third week, the protests have grown.",
+   "published": "2026-10-06T14:22:36+00:00"
+  },
+  {
+   "id": "3a9184037a87",
+   "title": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
+   "link": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Gulf oil flows surge despite escalating ship attacks in the critical Strait of Hormuz energy corridor.",
+   "published": "2026-10-06T14:15:09+00:00"
+  },
+  {
+   "id": "e8269db0da4e",
+   "title": "‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy",
+   "link": "https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Acclaimed Indian author talks to Al Jazeera on the Gen Z-led protests and allegations of vote theft by Modi government.",
+   "published": "2026-10-06T14:13:55+00:00"
+  },
+  {
+   "id": "6ea5f17c37c8",
+   "title": "What we know about Russia’s suspected plague case",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/what-we-know-about-russias-suspected-plague-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Dozens of people have been quarantined over a suspected case of the plague in Russia’s Siberia.",
+   "published": "2026-10-06T14:12:36+00:00"
+  },
+  {
    "id": "4e333c57b6fd",
    "title": "Should I put my nest egg in a 30-year Treasury bond?",
    "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
@@ -193,17 +501,6 @@
    "flourishing_feed": false,
    "summary": "CBP says in response to lawsuit use-of-force cases are ‘thoroughly investigated, reviewed, and presented’ A US citizen who was shot one year ago by a Customs and Border Protection (CBP) agent during a sweeping immigration crackdown in Chicago filed a lawsuit against the federal…",
    "published": "2026-10-06T14:08:55+00:00"
-  },
-  {
-   "id": "642a4888bc76",
-   "title": "Badenoch suggests Tories would not reverse Labour’s pensions triple lock legislation – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "In his party conference speech last week, Andy Burnham said he wanted to change the triple lock uprating mechanism from 2030 Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann that she will have to wait until her speech tomorrow at 11.15am. (This…",
-   "published": "2026-10-06T14:03:57+00:00"
   },
   {
    "id": "3c87b1008cda",
@@ -283,17 +580,6 @@
    "published": "2026-10-06T13:54:00+00:00"
   },
   {
-   "id": "8a77c091bf25",
-   "title": "Republican candidate for San Diego House district criticizes Trump comments on Iran – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Jim Desmond pushes back after president says losing Los Angeles and San Diego would be ‘small price to pay’ Q&A: The Iran war is unpopular, but will it cost Trump the midterms? Our reporters answer your questions Sign up for Breaking News US email Two media giants, Paramount…",
-   "published": "2026-10-06T13:49:50+00:00"
-  },
-  {
    "id": "b01ec092966c",
    "title": "UK police arrest British national linked to airbase incident",
    "link": "https://www.aljazeera.com/news/2026/10/6/uk-police-arrest-british-national-linked-to-airbase-incident?traffic_source=rss",
@@ -349,19 +635,8 @@
    "published": "2026-10-06T13:36:00+00:00"
   },
   {
-   "id": "1354a485cc87",
-   "title": "Asos customers receive ‘hack’ notification threatening to leak data",
-   "link": "https://www.theguardian.com/business/2026/oct/06/asos-hack-notification-website-app",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Push message claims fashion company’s data has been ‘fully compromised’, but website and app remain online Business live – latest updates Asos is investigating after users of its mobile app received a notification claiming hackers had “fully compromised” the online fashion…",
-   "published": "2026-10-06T13:35:31+00:00"
-  },
-  {
    "id": "1f2120a57d51",
-   "title": "Russia responds to US help offer after death of plague researcher",
+   "title": "Watch: How Russia responded to US after plague researcher death",
    "link": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -488,7 +763,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "John Murdock had been working for the agency for 18 years and his resignation comes during an exodus of longtime federal workers and scientists An 18-year veteran of the US Department of Interior has resigned in protest from the sprawling federal agency, denouncing “a deeply…",
+   "summary": "John Murdock had been working for the agency for 18 years and his resignation comes during an exodus of longtime federal workers and scientists An 18-year veteran of the US Department of the Interior has resigned in protest from the sprawling federal agency, denouncing “a…",
    "published": "2026-10-06T13:00:15+00:00"
   },
   {
@@ -930,17 +1205,6 @@
    "flourishing_feed": false,
    "summary": "Protesters are demanding the resignation of Chief Election Commissioner Gyanesh Kumar.",
    "published": "2026-10-06T11:16:48+00:00"
-  },
-  {
-   "id": "9f86f93e3609",
-   "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
-   "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
-   "published": "2026-10-06T11:15:00+00:00"
   },
   {
    "id": "3e066afbec59",
@@ -8342,7 +8606,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Monday, Oct. 5, 2026 TELEVISION MLB White Sox at Guardians, TBS, 3 p.m. Yankees at Rays, TBS, 6 p.m. NFL Falcons at Saints, ESPN, 6:15 p.m. NHL Flyers at Lightning, NHLN, 5 p.m. STREAMING BASEBALL White Sox at Guardians, HBO Max, 3 p.m. Yankees at Rays, HBO Max, 6 p.m. Tuesday,…",
+   "summary": "Tuesday, Oct. 6, 2026 TELEVISION FOOTBALL Southern Miss at Troy, ESPN2, 6 p.m. MLB Dodgers at Braves, FS1, 4 p.m. Brewers at Padres, FS1, 7:30 p.m. NBA Preseason: Nuggets at Jazz, KJZZ, 7 p.m. NHL Mammoth at Devils, Utah 16, 5 p.m. Islanders at Rangers, ESPN, 6 p.m. Panthers at…",
    "published": "2026-10-04T06:00:00+00:00"
   },
   {
