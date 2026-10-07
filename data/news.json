@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T02:31:45.045635+00:00",
+ "generated": "2026-10-07T03:32:11.386791+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,83 @@
  ],
  "items": [
   {
+   "id": "524ad40a4ab8",
+   "title": "Former Australian bishop jailed for sexually abusing young men",
+   "link": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face charges of this nature.",
+   "published": "2026-10-07T03:25:48+00:00"
+  },
+  {
+   "id": "6f7a06dbfc91",
+   "title": "Justice Alito Gives a Fuller Explanation of His Suncor Recusal",
+   "link": "https://reason.com/volokh/2026/10/06/justice-alito-gives-a-fuller-explanation-of-his-suncor-recusal/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "One of several worthwhile tidbits in Justice Alito's Wall Street Journal interview.",
+   "published": "2026-10-07T03:17:06+00:00"
+  },
+  {
+   "id": "0991cdf5023f",
+   "title": "Beau Lamarre-Condon didn’t talk about Jesse Baird to friend in lead-up to alleged murders, court hears",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/07/beau-lamarre-condon-trial-friend-nicole-harvell-no-mention-jesse-baird-before-alleged-murders-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "NSW police officer has pleaded not guilty to murdering his ex and Luke Davies in a Sydney terrace in February 2024 Get our breaking news email , free app or daily news podcast Despite an alleged obsession with his ex, Beau Lamarre-Condon never spoke about him to a close friend…",
+   "published": "2026-10-07T02:45:59+00:00"
+  },
+  {
+   "id": "7930570995a9",
+   "title": "Trump Jr. returns wedding gift to Russian oligarch",
+   "link": "https://www.deseret.com/politics/2026/10/06/don-jr-return-russian-oligarch-wedding-gift/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Russian oligarch who paid for a lavish wedding after-party for Donald Trump Jr. said the president’s son returned the money spent on the event. Umar Kremlev told reporters on Tuesday that Trump Jr. repaid the amount of the after-party, which had raised concerns about…",
+   "published": "2026-10-07T02:38:14+00:00"
+  },
+  {
+   "id": "fc518e91b689",
+   "title": "Explosion shutters Venezuela’s second-largest oil refinery",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/explosion-shutters-venezuelas-second-largest-oil-refinery?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An explosion has ripped through Venezuela's second-largest oil refinery, causing it to suspend activities.",
+   "published": "2026-10-07T02:23:03+00:00"
+  },
+  {
+   "id": "c49493abeabc",
+   "title": "Why do airport and flight rules exist?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/why-do-airport-and-flight-rules-exist?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Everyone follows these rules, but few know why. Each one traces back to an incident that changed aviation security.",
+   "published": "2026-10-07T02:20:17+00:00"
+  },
+  {
+   "id": "4d7ef7253aad",
+   "title": "Australia top court rules against coal mine expansion, citing climate harm",
+   "link": "https://www.aljazeera.com/news/2026/10/7/australia-top-court-rules-against-coal-mine-expansion-citing-climate-harm?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Campaigners say ruling sets a precedent requiring climate damage be weighed when fossil fuel projects are considered.",
+   "published": "2026-10-07T02:17:07+00:00"
+  },
+  {
    "id": "26e8279a5a1f",
    "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
    "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
@@ -182,6 +259,17 @@
    "flourishing_feed": false,
    "summary": "The Trump administration’s recent emission regulation rollbacks could be the push Utah leaders need to maintain coal power generation — or it could accelerate the state’s move away from it entirely. No other state in the Southwest uses coal as a main energy producer — almost…",
    "published": "2026-10-07T02:00:00+00:00"
+  },
+  {
+   "id": "626fb235d95e",
+   "title": "Two Houthi missiles target Yemen’s Aden International Airport",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/two-houthi-missiles-target-yemens-aden-international-airport?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Explosions near Aden International Airport after Yemen’s Saudi-backed gov't said two missiles were fired by the Houthis.",
+   "published": "2026-10-07T01:59:15+00:00"
   },
   {
    "id": "8a77c091bf25",
