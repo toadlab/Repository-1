@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T10:32:50.491041+00:00",
+ "generated": "2026-10-07T11:31:29.213678+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,215 @@
  ],
  "items": [
   {
+   "id": "3f34a122d1cc",
+   "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+   "published": "2026-10-07T11:24:17+00:00"
+  },
+  {
+   "id": "2b4add7b07af",
+   "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
+   "published": "2026-10-07T11:21:49+00:00"
+  },
+  {
+   "id": "2d459c431ed8",
+   "title": "These two hard-hit stocks are poised for a comeback, says fund manager",
+   "link": "https://www.marketwatch.com/story/these-two-hard-hit-stocks-are-poised-for-a-comeback-says-fund-manager-cccc0c4e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "CoStar and Duolingo are two stocks that have faced investor pessimism, but present potential, according to Baillie Gifford.",
+   "published": "2026-10-07T11:21:00+00:00"
+  },
+  {
+   "id": "35bfb74dc0a6",
+   "title": "Royal Mail to cut up to 2,500 jobs amid restructure and fall in letter deliveries",
+   "link": "https://www.theguardian.com/business/2026/oct/07/royal-mail-to-cut-jobs-restructure-fall-in-letter-deliveries",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Postal service says cuts will focus on head office and ‘support function roles’ Business live – latest updates Royal Mail is to cut up to 2,500 jobs as the embattled company seeks to restructure its business amid intense competition and the continuing decline in letter…",
+   "published": "2026-10-07T11:18:05+00:00"
+  },
+  {
+   "id": "d1f5417a3791",
+   "title": "Meta stock scores a rare ‘golden cross’ buy signal as investors swarm to its top-charting AI agent",
+   "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Meta Platforms, whose stock has thrived after the introduction of an artificial-intelligence assistant, just got another piece of good news.",
+   "published": "2026-10-07T11:18:00+00:00"
+  },
+  {
+   "id": "736f0cf0f55f",
+   "title": "Reopening Brexit debate a ‘terrible idea’, says Badenoch as she criticises rivals and mocks Starmer – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/07/kemi-badenoch-inheritance-tax-conservatives-tory-conference-labour-green-party-reform-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Conservative leader takes aim at Andy Burnham, Nigel Farage and Keir Starmer in conference speech Chris Philp , the shadow home secretary, is speaking now at the conference. He described Nick Timothy as the “Bob the Builder” of the next parliament on the basis of the Tory…",
+   "published": "2026-10-07T11:17:41+00:00"
+  },
+  {
+   "id": "2804f09d41e1",
+   "title": "Freddie Jackson, romantic US singer with 10 R&B chart-toppers, dies aged 70",
+   "link": "https://www.theguardian.com/music/2026/oct/07/freddie-jackson-romantic-us-singer-with-10-r-and-b-chart-toppers-dies-aged-70",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Celebrated for his earnest, dextrous voice, Jackson crossed into the pop charts with the hits Rock Me Tonight (For Old Times Sake) and You Are My Lady Freddie Jackson, the US singer whose smooth and romantic take on R&B found a huge audience in the 1980s, has died aged 70. A…",
+   "published": "2026-10-07T11:14:56+00:00"
+  },
+  {
+   "id": "6660d4cdb5b6",
+   "title": "Ukraine accuses Russia of bombing apartment block as birthday gift for Putin",
+   "link": "https://www.theguardian.com/world/2026/oct/07/ukraine-accuses-russia-of-bombing-apartment-block-as-birthday-gift-for-putin",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Building in Pryluky destroyed killing nine people including three children night before Russian president’s 74th birthday Volodymyr Zelenskyy has accused Russia’s military of deliberately killing civilians and bombing residential buildings as a macabre gift for Vladimir Putin,…",
+   "published": "2026-10-07T11:14:24+00:00"
+  },
+  {
+   "id": "d003bcca741a",
+   "title": "SpaceX reportedly is looking to borrow as much money as the company generates in revenue to buy Nvidia chips",
+   "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Elon Musk’s SpaceX is in talks with banks and investors to borrow $40 billion to fund a purchase of Nvidia chips, according to a Financial Times report.",
+   "published": "2026-10-07T11:11:00+00:00"
+  },
+  {
+   "id": "990c5358c661",
+   "title": "Russia ‘pursuing strategy of terror’, EU’s von der Leyen says after deadly strikes on Ukraine – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine president confirms series of attacks on Pryluky, Dnipro, Kremenchik, Zaporizhzhia and Kyiv We are getting reports of a knife attack at a vocational school in Ostrołęka, Poland, which left at least seven people injured, including two seriously, as reported by Poland’s…",
+   "published": "2026-10-07T11:06:38+00:00"
+  },
+  {
+   "id": "5d0d9e1cb975",
+   "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15",
+   "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
+   "published": "2026-10-07T11:05:37+00:00"
+  },
+  {
+   "id": "69c4b52acbfb",
+   "title": "Trump’s LA and San Diego comments ‘dangerous, if not treasonous’, says Newsom – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "California governor critcizes president for ‘putting a target on two of our biggest cities and one of America’s largest naval hubs’ California to ‘actively monitor’ possible threats after Trump said Iran could ‘take out’ LA and San Diego Sign up for the Breaking News US email…",
+   "published": "2026-10-07T11:04:09+00:00"
+  },
+  {
+   "id": "041645099108",
+   "title": "Millionaire tax no more? Rightwing groups lead effort to repeal Washington state law",
+   "link": "https://www.theguardian.com/us-news/2026/oct/07/washington-state-millionaire-tax",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An initiative on November’s ballot aims to overturn the 9.9% tax on earnings above $1m – who’s winning the fight? Voters in Washington state will soon decide the fate of the state’s so-called “ millionaire tax ” – a 9.9% income tax on earnings above $1m that was signed into law…",
+   "published": "2026-10-07T11:00:09+00:00"
+  },
+  {
+   "id": "05b2504acba1",
+   "title": "Separatists win in Quebec – but does that bring separation from Canada any closer?",
+   "link": "https://www.theguardian.com/world/2026/oct/07/quebec-election-canada-separatists-analysis",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lack of majority for Parti Québécois puts any referendum in doubt, especially amid bruising trade war with Trump The victory of the Parti Québécois in Monday’s election in Quebec might seem to bring its signature goal, of separating the French-speaking province from Canada,…",
+   "published": "2026-10-07T11:00:08+00:00"
+  },
+  {
+   "id": "9ffa3e7e1d84",
+   "title": "Why is the right obsessed with Indians all of a sudden?",
+   "link": "https://www.vox.com/politics/505248/texas-bo-french-indian-far-right-hate",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For many Texans, the second weekend of September was a moment for the state to shine. The Texas Longhorns, the University of Texas at Austin’s storied football team, upset the No. 1 Ohio State Buckeyes in a dramatic comeback win. But for Bo French, the Republican candidate for…",
+   "published": "2026-10-07T11:00:00+00:00"
+  },
+  {
+   "id": "fdc4fd82fd18",
+   "title": "The Danger of the Word ‘Permanent’ in Estate Planning",
+   "link": "https://www.kiplinger.com/retirement/estate-planning/permanent-is-the-most-dangerous-word-in-estate-planning",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Higher estate tax exemptions may be presented as \"permanent,\" but relying on tax rules to stay the same — and not regularly updating your estate plan — is risky.",
+   "published": "2026-10-07T11:00:00+00:00"
+  },
+  {
+   "id": "f00683499ec2",
+   "title": "US sets new demands for Iran deal: What are they?",
+   "link": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US Vice President Vance’s call for reduced nuclear enrichment suggests room for compromise, but major obstacles remain.",
+   "published": "2026-10-07T10:58:23+00:00"
+  },
+  {
+   "id": "c88735e1c714",
+   "title": "Girl pleads for world leaders to save her country from climate change",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/girl-pleads-for-world-leaders-to-save-her-country-from-climate-change?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A 13-year-old girl has called on world leaders to act on climate change and save her country, Tuvalu.",
+   "published": "2026-10-07T10:55:05+00:00"
+  },
+  {
+   "id": "4c9f313baa9a",
+   "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
+   "link": "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A possible Iranian threat led the U.S. to remove long-range bombers from a U.K. base. And, Israelis are learning that their prime minister may have been warned before the Oct. 7 attacks.",
+   "published": "2026-10-07T10:52:58+00:00"
+  },
+  {
    "id": "606936222f7b",
    "title": "Love Your Kids But Fear For Their Finances? You Need a Spendthrift Trust",
    "link": "https://www.kiplinger.com/retirement/inheritance/love-your-kids-but-fear-for-their-finances-you-need-a-spendthrift-trust",
@@ -137,6 +346,17 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "You can secure your children's future without giving them unrestricted access to a windfall. Protect your legacy from poor decisions and creditors.",
+   "published": "2026-10-07T10:30:00+00:00"
+  },
+  {
+   "id": "d5c7cc2251a2",
+   "title": "Who will win the 2026 Nobel Prize in economics?",
+   "link": "https://www.npr.org/sections/planet-money/2026/10/07/g-s1-146828/who-will-win-the-2026-nobel-prize-in-economics",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A thinly traded prediction market offers a starting point. We explore potential winners and the big ideas that could earn them economics' biggest prize.",
    "published": "2026-10-07T10:30:00+00:00"
   },
   {
@@ -149,6 +369,17 @@
    "flourishing_feed": false,
    "summary": "Plus: Germany arrests an ex-spy chief on suspicion of espionage, Paramount closes its $81 billion Warner Bros. takeover, and cycling the Berlin marathon.",
    "published": "2026-10-07T10:28:46+00:00"
+  },
+  {
+   "id": "37340b7b481b",
+   "title": "CAS to hear Senegal appeal over AFCON title awarded to Morocco",
+   "link": "https://www.aljazeera.com/sports/2026/10/7/cas-to-hear-senegal-appeal-over-afcon-title-awarded-to-morocco?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Court of Arbitration for Sport (CAS) hearing set to begin after Senegal stripped of Africa Cup of Nations title by CAF.",
+   "published": "2026-10-07T10:28:32+00:00"
   },
   {
    "id": "2a1fb97f2d2c",
@@ -171,6 +402,17 @@
    "flourishing_feed": false,
    "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
    "published": "2026-10-07T10:23:23+00:00"
+  },
+  {
+   "id": "e7b7afc8addc",
+   "title": "Christa Pike is awake after surviving execution: What happens now?",
+   "link": "https://www.aljazeera.com/news/2026/10/7/christa-pike-is-awake-after-surviving-execution-what-happens-now?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tennessee death row inmate survives execution attempt, sparking legal and medical concerns.",
+   "published": "2026-10-07T10:22:11+00:00"
   },
   {
    "id": "b94d97597b3b",
@@ -206,39 +448,6 @@
    "published": "2026-10-07T10:14:35+00:00"
   },
   {
-   "id": "990c5358c661",
-   "title": "Russia ‘pursuing strategy of terror’, EU’s von der Leyen says after deadly strikes on Ukraine – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Ukraine president confirms series of attacks on Pryluky, Dnipro, Kremenchik, Zaporizhzhia and Kyiv We are getting reports of a knife attack at a vocational school in Ostrołęka, Poland, which left at least seven people injured, including two seriously, as reported by Poland’s…",
-   "published": "2026-10-07T10:14:30+00:00"
-  },
-  {
-   "id": "69c4b52acbfb",
-   "title": "Trump’s LA and San Diego comments ‘dangerous, if not treasonous’, says Newsom – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "California governor critcizes president for ‘putting a target on two of our biggest cities and one of America’s largest naval hubs’ California to ‘actively monitor’ possible threats after Trump said Iran could ‘take out’ LA and San Diego Susan Collins, the Republican senator…",
-   "published": "2026-10-07T10:14:24+00:00"
-  },
-  {
-   "id": "736f0cf0f55f",
-   "title": "Badenoch expected to announce plan to cut inheritance tax in speech to Tory conference – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/07/kemi-badenoch-inheritance-tax-conservatives-tory-conference-labour-green-party-reform-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Conservative leader to deliver keynote speech on final day of Tory conference Chris Philp , the shadow home secretary, is speaking now at the conference. He described Nick Timothy as the “Bob the Builder” of the next parliament on the basis of the Tory pledge to build 50,000…",
-   "published": "2026-10-07T10:14:22+00:00"
-  },
-  {
    "id": "f17b197cdb6a",
    "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
    "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
@@ -250,15 +459,15 @@
    "published": "2026-10-07T10:12:36+00:00"
   },
   {
-   "id": "2b4add7b07af",
-   "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "id": "356fdfbd649e",
+   "title": "Bulgaria ends search for missing crew after drone strike sinks cargo ship",
+   "link": "https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
-   "published": "2026-10-07T10:09:57+00:00"
+   "summary": "Rescuers halt operation off the coast after finding no survivors.",
+   "published": "2026-10-07T10:12:04+00:00"
   },
   {
    "id": "9df5249f6d3b",
@@ -404,17 +613,6 @@
    "published": "2026-10-07T10:00:00+00:00"
   },
   {
-   "id": "3f34a122d1cc",
-   "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-   "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
-   "published": "2026-10-07T09:59:13+00:00"
-  },
-  {
    "id": "d54dae072373",
    "title": "Photos: Three years of Israel’s war on Gaza as tent cities spread amid ruin",
    "link": "https://www.aljazeera.com/gallery/2026/10/7/photos-three-years-of-israels-war-on-gaza-as-tent-cities-spread-amid-ruin?traffic_source=rss",
@@ -424,17 +622,6 @@
    "flourishing_feed": false,
    "summary": "Tent cities in Gaza grow as families mourn the dead, care for the injured, and endure relentless displacement.",
    "published": "2026-10-07T09:55:26+00:00"
-  },
-  {
-   "id": "35bfb74dc0a6",
-   "title": "Royal Mail to cut up to 2,500 jobs amid restructure and fall in letter deliveries",
-   "link": "https://www.theguardian.com/business/2026/oct/07/royal-mail-to-cut-jobs-restructure-fall-in-letter-deliveries",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Postal service says cuts will focus on on head office and ‘support function roles’ Business live – latest updates Royal Mail is to cut up to 2,500 jobs as the embattled company seeks to restructure its business amid intense competition and the continuing decline in letter…",
-   "published": "2026-10-07T09:50:45+00:00"
   },
   {
    "id": "15959e13e370",
@@ -511,17 +698,6 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
-   "published": "2026-10-07T09:15:00+00:00"
-  },
-  {
-   "id": "d003bcca741a",
-   "title": "SpaceX reportedly is looking to raise as much money as the company generates in revenue to buy Nvidia chips",
-   "link": "https://www.marketwatch.com/story/spacex-reportedly-is-looking-to-raise-as-much-money-as-the-company-generates-in-revenue-to-buy-nvidia-chips-01ca6d82?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Elon Musk’s SpaceX is in talks with banks and investors to borrow $40 billion to fund a purchase of Nvidia chips, according to a Financial Times report.",
    "published": "2026-10-07T09:15:00+00:00"
   },
   {
@@ -844,17 +1020,6 @@
    "published": "2026-10-07T08:16:17+00:00"
   },
   {
-   "id": "d1f5417a3791",
-   "title": "Meta stock achieves a golden cross as shares thrive since Muse introduction",
-   "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Meta Platforms, whose stock has thrived after the introduction of an artificial-intelligence assistant, just got another piece of good news.",
-   "published": "2026-10-07T08:07:00+00:00"
-  },
-  {
    "id": "e1cbfc800e3d",
    "title": "A popular tech fund is now overbought. That’s no reason to sell, history shows.",
    "link": "https://www.marketwatch.com/story/a-popular-tech-fund-is-now-overbought-thats-no-reason-to-sell-history-shows-d998aab3?mod=mw_rss_topstories",
@@ -889,13 +1054,13 @@
   },
   {
    "id": "862463512a4a",
-   "title": "Police routinely failing to investigate ‘revenge porn’ in England and Wales",
+   "title": "Police routinely failing to investigate ‘revenge porn’, research reveals",
    "link": "https://www.theguardian.com/society/2026/oct/07/police-routinely-failing-to-investigate-revenge-porn-reports-research-shows",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Lawyers launch super-complaint after research shows officers frequently dismiss image-based abuse Police forces are routinely failing to investigate complaints about the circulation of image-based abuse, previously known as “revenge pornography”, according to research that has…",
+   "summary": "Lawyers launch super-complaint over finding that officers in England and Wales frequently dismiss image-based abuse Police forces are routinely failing to investigate complaints about the circulation of image-based abuse, previously known as “revenge pornography”, according to…",
    "published": "2026-10-07T08:00:38+00:00"
   },
   {
@@ -933,7 +1098,7 @@
   },
   {
    "id": "349146704d27",
-   "title": "India's opposition leader dragged onto bus as police break up protest",
+   "title": "India's opposition leader dragged on to bus as police break up protest",
    "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
