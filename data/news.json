@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T12:39:36.201368+00:00",
+ "generated": "2026-10-07T13:34:31.471532+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,292 @@
  ],
  "items": [
   {
+   "id": "853d2fa0376d",
+   "title": "AI Solutions in Search of Problems",
+   "link": "https://reason.com/2026/10/07/ai-solutions-in-search-of-problems/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: Ketamine deep dive, failed Oura IPO, Ray Dalio's warning, and more...",
+   "published": "2026-10-07T13:30:21+00:00"
+  },
+  {
+   "id": "2d06b60c94ae",
+   "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+   "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“Both properties will be solely in his name.”",
+   "published": "2026-10-07T13:30:00+00:00"
+  },
+  {
+   "id": "5d93b61adbd3",
+   "title": "British Jewish groups to hold London vigil for victims of 7 October attacks",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/07/british-jewish-groups-london-vigil-7-october-attacks",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Gathering expected to take place at Richmond Terrace, opposite Downing Street, at 5pm on Wednesday British Jewish organisations will gather in central London for a vigil honouring victims of the 7 October attacks in Israel on Wednesday, after a day of tributes from politicians…",
+   "published": "2026-10-07T13:16:35+00:00"
+  },
+  {
+   "id": "736f0cf0f55f",
+   "title": "Couples would be able to leave £1m and family home exempt from inheritance tax under Tories, says Badenoch – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/07/kemi-badenoch-inheritance-tax-conservatives-tory-conference-labour-green-party-reform-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Conservative leader says proposed measures would halve the number of families paying inheritance tax Chris Philp , the shadow home secretary, is speaking now at the conference. He described Nick Timothy as the “Bob the Builder” of the next parliament on the basis of the Tory…",
+   "published": "2026-10-07T13:15:29+00:00"
+  },
+  {
+   "id": "69c4b52acbfb",
+   "title": "Trump-backed Ken Paxton reportedly blames Iran war and high gas prices for midterms struggles as president heads to Texas – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Leaked audio shows state’s attorney general tell fundraiser affordability is his campaign’s biggest problem; Trump due to speak in Texas on Wednesday California to ‘actively monitor’ possible threats after Trump said Iran could ‘take out’ LA and San Diego Sign up for the…",
+   "published": "2026-10-07T13:09:40+00:00"
+  },
+  {
+   "id": "e8aa90fdba81",
+   "title": "Kalshi is coming for ‘Dancing with the Stars’ fans",
+   "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "What to know before buying event contracts around your favorite reality shows and entertainers.",
+   "published": "2026-10-07T13:05:00+00:00"
+  },
+  {
+   "id": "ef7d6d200529",
+   "title": "Tories accused of prioritising rich voters as Badenoch lays out inheritance tax cut plan",
+   "link": "https://www.theguardian.com/politics/2026/oct/07/tories-prioritising-rich-voters-inheritance-tax-cut-badenoch-conference-speech",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Party hopes to win over affluent middle-class voters as Badenoch rejects calls to ‘unite the right’ in conference speech UK politics live – latest updates Kemi Badenoch has announced the Conservatives would abolish inheritance tax on family homes if elected, prompting immediate…",
+   "published": "2026-10-07T13:04:59+00:00"
+  },
+  {
+   "id": "5d0d9e1cb975",
+   "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 20",
+   "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
+   "published": "2026-10-07T13:02:17+00:00"
+  },
+  {
+   "id": "fbe9e7a581f6",
+   "title": "2 Retirement Tax Strategies To Keep More of Your Wealth",
+   "link": "https://www.kiplinger.com/taxes/tax-planning/tax-loss-harvesting-and-direct-indexing-strategies-for-retirees",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A tax planning strategy that combines direct indexing and tax-loss harvesting could help retirees minimize what they pay Uncle Sam and keep more of their wealth.",
+   "published": "2026-10-07T13:00:00+00:00"
+  },
+  {
+   "id": "3f34a122d1cc",
+   "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+   "published": "2026-10-07T12:58:03+00:00"
+  },
+  {
+   "id": "144c850c4690",
+   "title": "6 Safe Mutual Funds to Own in an Uncertain Market",
+   "link": "https://www.kiplinger.com/investing/mutual-funds/safe-mutual-funds-to-own-in-an-uncertain-market",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Tariffs and conflict and oil, oh my! These safe mutual funds are ideal places to hide if you fear this uncertain market.",
+   "published": "2026-10-07T12:56:03+00:00"
+  },
+  {
+   "id": "990c5358c661",
+   "title": "Russia ‘pursuing strategy of terror’, EU’s von der Leyen says after deadly strikes on Ukraine – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine president confirms series of attacks on Pryluky, Dnipro, Kremenchuk, Zaporizhzhia and Kyiv We are getting reports of a knife attack at a vocational school in Ostrołęka, Poland, which left at least seven people injured, including two seriously, as reported by Poland’s…",
+   "published": "2026-10-07T12:54:06+00:00"
+  },
+  {
+   "id": "7d4582fec881",
+   "title": "Coco Gauff says online racist abuse was ‘draining’ after China Open exit",
+   "link": "https://www.aljazeera.com/sports/2026/10/7/coco-gauff-says-online-racist-abuse-was-draining-after-china-open-exit?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Coco Gauff admits the racism she suffered during China Open exhausted her after US tennis star missed out on quarters.",
+   "published": "2026-10-07T12:53:11+00:00"
+  },
+  {
+   "id": "4c6968db9d0c",
+   "title": "Parental controls aren’t just for kids anymore",
+   "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+   "published": "2026-10-07T12:49:00+00:00"
+  },
+  {
+   "id": "fdc5d6554041",
+   "title": "Ten people linked to Kenya's first-ever Ebola case quarantined as screening concerns grow",
+   "link": "https://www.bbc.co.uk/news/articles/c6eq3x3v11d5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The patient passed through multiple cities in DR Congo, drove to Uganda and eventually flew to Kenya.",
+   "published": "2026-10-07T12:46:39+00:00"
+  },
+  {
+   "id": "2a1fb97f2d2c",
+   "title": "Intel investors get some reassurance from Elon Musk over a major chip endeavor",
+   "link": "https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Elon Musk and Intel’s CEO have said the company’s involvement in the Terafab chip plant will continue, boosting shares.",
+   "published": "2026-10-07T12:46:00+00:00"
+  },
+  {
+   "id": "902f924a47d1",
+   "title": "What to Do When You Receive a Large Check (And How to Deposit It Safely)",
+   "link": "https://www.kiplinger.com/personal-finance/how-to-save-money/how-to-deposit-a-large-check",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Learn how to deposit a large check, avoid common bank deposit restrictions and make the process go as smoothly as possible.",
+   "published": "2026-10-07T12:45:00+00:00"
+  },
+  {
+   "id": "92abe3e1378e",
+   "title": "‘Now is the moment’: housing activists at Madrid encampment pin wary hopes on Spain’s early election",
+   "link": "https://www.theguardian.com/world/2026/oct/07/housing-activists-madrid-encampment-hopes-spain-early-election",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Campaigners set up in more than 1,200 tents in Puerto del Sol square say challenge now is to translate a groundswell of public support into concrete change At a makeshift lunch counter tucked within a maze of tents at a housing protest camp in Madrid, Sélpide San Luis pointed…",
+   "published": "2026-10-07T12:43:36+00:00"
+  },
+  {
+   "id": "3656631706a1",
+   "title": "Aid cuts and continued needs: The challenges facing volunteers at the US-Mexico border",
+   "link": "https://www.thenewhumanitarian.org/feature/2026/10/07/aid-cuts-and-continued-needs-challenges-facing-volunteers-us-mexico-border",
+   "source": "The New Humanitarian",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thousands of asylum seekers and migrants remain in limbo in Mexican border cities as support networks wear thin.",
+   "published": "2026-10-07T12:43:04+00:00"
+  },
+  {
+   "id": "7408cf5cf5a4",
+   "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
+   "link": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "This is going to bring a lot of problems that almost anyone could have predicted",
+   "published": "2026-10-07T12:43:00+00:00"
+  },
+  {
+   "id": "ce6212a1eada",
+   "title": "Israeli soldier assaults Palestinian woman in occupied West Bank",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-soldier-assaults-palestinian-woman-in-occupied-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An Israeli soldier was filmed assaulting a Palestinian woman during a raid on a family home in the occupied West Bank.",
+   "published": "2026-10-07T12:39:07+00:00"
+  },
+  {
+   "id": "620cc345000a",
+   "title": "Palestinian killed, several injured in Israeli pogrom in occupied West Bank",
+   "link": "https://www.aljazeera.com/news/2026/10/7/palestinian-killed-several-injured-in-israeli-pogrom-in-occupied-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A 44-year-old Palestinian man was killed during Israeli settler assaults on olive harvesters in the West Bank.",
+   "published": "2026-10-07T12:38:31+00:00"
+  },
+  {
+   "id": "cf65fb06c4e0",
+   "title": "The UK Greens are wrong – Zionism is not racism",
+   "link": "https://www.aljazeera.com/opinions/2026/10/7/the-uk-greens-are-wrong-zionism-is-not-racism?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The party’s new policy reflects ignorance of Zionism and does nothing to advance Palestinian self-determination.",
+   "published": "2026-10-07T12:37:22+00:00"
+  },
+  {
+   "id": "4d77433dc475",
+   "title": "Yes, Zionism is racism",
+   "link": "https://www.aljazeera.com/opinions/2026/10/7/yes-zionism-is-racism?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "And there is nothing radical about declaring it. It is a fact of history.",
+   "published": "2026-10-07T12:33:55+00:00"
+  },
+  {
+   "id": "4bd00f24e507",
+   "title": "French police suspend use of stun grenades after high school protester loses hand",
+   "link": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Minister says use of grenades has been stopped ‘until we know what happened’ as protests across France continue How dilapidated are French schools and how bad is inequality in the education system? Europe live – latest updates France is suspending the use of stun grenades by…",
+   "published": "2026-10-07T12:32:05+00:00"
+  },
+  {
+   "id": "d6bc9ce69e05",
+   "title": "Electric-shock gloves ICE plans to use inflicted intense pain in army study",
+   "link": "https://www.theguardian.com/us-news/2026/oct/07/electric-shock-gloves-ice-intense-pain",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Immigration enforcement agency has signed $16.7m deal for devices that induced ‘excessive’ fear in military subjects The electric-shock gloves immigration agents could soon use to control detainees and protesters worked so powerfully during a military exercise that participants…",
+   "published": "2026-10-07T12:30:25+00:00"
+  },
+  {
    "id": "8903e19a612b",
    "title": "Why humans are so good at feeling bad",
    "link": "https://www.vox.com/future-perfect/505391/opposite-of-happiness-loewenstein",
@@ -141,25 +427,14 @@
   },
   {
    "id": "2773d7641d4d",
-   "title": "Reform clears officials of breaking party funding laws despite police investigation",
+   "title": "Reform clears its own officials of breaking party funding laws despite police investigation",
    "link": "https://www.theguardian.com/politics/2026/oct/07/reform-clears-officials-breaking-party-funding-laws-despite-police-investigation",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Party’s internal inquiry clears Dan Jukes and James Orr after undercover sting filmed them discussing possible overseas donations Reform UK has cleared two senior officials of breaking laws that ban foreign donations, despite the matter remaining under police investigation.…",
+   "summary": "Internal inquiry clears Dan Jukes and James Orr, who were filmed talking about scheme involving US donor Reform UK has cleared two senior officials of breaking laws that ban foreign donations, despite the matter remaining under police investigation. The party published a…",
    "published": "2026-10-07T12:26:34+00:00"
-  },
-  {
-   "id": "69c4b52acbfb",
-   "title": "Trump’s LA and San Diego comments ‘dangerous, if not treasonous’, says Newsom – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "California governor critcizes president for ‘putting a target on two of our biggest cities and one of America’s largest naval hubs’ California to ‘actively monitor’ possible threats after Trump said Iran could ‘take out’ LA and San Diego Sign up for the Breaking News US email…",
-   "published": "2026-10-07T12:24:28+00:00"
   },
   {
    "id": "5681324bf629",
@@ -171,17 +446,6 @@
    "flourishing_feed": false,
    "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
    "published": "2026-10-07T12:16:58+00:00"
-  },
-  {
-   "id": "990c5358c661",
-   "title": "Russia ‘pursuing strategy of terror’, EU’s von der Leyen says after deadly strikes on Ukraine – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Ukraine president confirms series of attacks on Pryluky, Dnipro, Kremenchuk, Zaporizhzhia and Kyiv We are getting reports of a knife attack at a vocational school in Ostrołęka, Poland, which left at least seven people injured, including two seriously, as reported by Poland’s…",
-   "published": "2026-10-07T12:15:29+00:00"
   },
   {
    "id": "06de99b11c6f",
@@ -268,7 +532,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "At least 73 people estimated to have joined protest against prolonged detention and Folkston facility’s ‘violations’ A group of people detained inside a privately-run Immigration and Customs Enforcement ( ICE ) jail in Georgia have launched a mass hunger strike this week to…",
+   "summary": "At least 73 people estimated to have joined protest against prolonged detention and Folkston facility’s ‘violations’ A group of people detained inside a privately run Immigration and Customs Enforcement ( ICE ) jail in Georgia have launched a mass hunger strike this week to…",
    "published": "2026-10-07T12:00:09+00:00"
   },
   {
@@ -292,17 +556,6 @@
    "flourishing_feed": false,
    "summary": "Site of the Nova music festival near Re’im one of the locations where grieving relatives have gathered. Plus, the unlikely legal tussle over a ‘brain rot’ meme Don’t already get First Thing in your inbox? Sign up here Good morning. Israel is holding ceremonies and gatherings to…",
    "published": "2026-10-07T11:53:44+00:00"
-  },
-  {
-   "id": "736f0cf0f55f",
-   "title": "Couples would be able to leave £1m and family home exempt from inheritance tax under Tories, says Badenoch – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/07/kemi-badenoch-inheritance-tax-conservatives-tory-conference-labour-green-party-reform-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Conservative leader says proposed measures would halve the number of families paying inheritance tax Chris Philp , the shadow home secretary, is speaking now at the conference. He described Nick Timothy as the “Bob the Builder” of the next parliament on the basis of the Tory…",
-   "published": "2026-10-07T11:52:12+00:00"
   },
   {
    "id": "2b4add7b07af",
@@ -336,17 +589,6 @@
    "flourishing_feed": false,
    "summary": "Almost 15,000km away from Argentina, Messi's magical presence on the field left a lasting mark on fans across India.",
    "published": "2026-10-07T11:48:49+00:00"
-  },
-  {
-   "id": "2a1fb97f2d2c",
-   "title": "Intel investors get some reassurance from Elon Musk over a major chip endeavor",
-   "link": "https://www.marketwatch.com/story/elon-musk-and-intel-ceo-shore-up-chipmakers-role-in-terafab-project-and-heres-what-the-news-is-doing-to-the-stock-315d0974?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Elon Musk and Intel’s CEO have said the company’s involvement in the Terafab chip plant will continue, boosting shares.",
-   "published": "2026-10-07T11:44:00+00:00"
   },
   {
    "id": "eae8ce911e39",
@@ -393,17 +635,6 @@
    "published": "2026-10-07T11:31:00+00:00"
   },
   {
-   "id": "3f34a122d1cc",
-   "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-   "link": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
-   "published": "2026-10-07T11:24:17+00:00"
-  },
-  {
    "id": "3c05858bc628",
    "title": "US military aid to Israel continues three years into Gaza genocide",
    "link": "https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss",
@@ -427,7 +658,7 @@
   },
   {
    "id": "d1f5417a3791",
-   "title": "Meta stock scores a rare ‘golden cross’ buy signal as investors swarm to its top-charting AI agent",
+   "title": "Meta’s stock scores a rare ‘golden cross’ buy signal as investors swarm to its chart-topping AI agent Muse",
    "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
@@ -490,17 +721,6 @@
    "flourishing_feed": false,
    "summary": "Elon Musk’s SpaceX is in talks with banks and investors to borrow $40 billion to fund a purchase of Nvidia chips, according to a Financial Times report.",
    "published": "2026-10-07T11:11:00+00:00"
-  },
-  {
-   "id": "5d0d9e1cb975",
-   "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 15",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed.",
-   "published": "2026-10-07T11:05:37+00:00"
   },
   {
    "id": "03a19469afeb",
@@ -666,17 +886,6 @@
    "flourishing_feed": true,
    "summary": "From future-focused projects to secret schools, the people in this issue are choosing to act for a world they may never see The post A future worth building. What to expect in the new issue of Positive News magazine appeared first on Positive News .",
    "published": "2026-10-07T10:16:24+00:00"
-  },
-  {
-   "id": "2d06b60c94ae",
-   "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-   "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“Both properties will be solely in his name.”",
-   "published": "2026-10-07T10:15:00+00:00"
   },
   {
    "id": "ebbef786f78a",
@@ -900,7 +1109,7 @@
   },
   {
    "id": "4bd879fc2345",
-   "title": "AMD’s chief executive is planning to invest ‘tens of billions’ as Asian tour addresses supply-chain chokepoints",
+   "title": "AMD’s chief executive is planning to invest ‘tens of billions’ as Asia tour addresses supply-chain chokepoints",
    "link": "https://www.marketwatch.com/story/amds-chief-executive-is-planning-to-invest-tens-of-billions-as-asian-tour-addresses-supply-chain-chokepoints-c6485919?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
@@ -908,6 +1117,17 @@
    "flourishing_feed": false,
    "summary": "AMD’s CEO has been meeting executives in Taiwan and South Korea.",
    "published": "2026-10-07T09:37:00+00:00"
+  },
+  {
+   "id": "0b42ebe085b9",
+   "title": "The cruelty of a beloved American pastime",
+   "link": "https://www.vox.com/future-perfect/505350/catch-and-release-fishing-ethics-cruelty",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This story is part of a series supported by Animal Charity Evaluators, which received a grant from EarthShare. When I was a kid, my family would occasionally go fishing on small row boats on the lakes of Montgomery County, Maryland. The point wasn’t to catch fish to eat — we…",
+   "published": "2026-10-07T09:34:00+00:00"
   },
   {
    "id": "2e2be84a86c4",
@@ -930,17 +1150,6 @@
    "flourishing_feed": false,
    "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
    "published": "2026-10-07T09:15:00+00:00"
-  },
-  {
-   "id": "4bd00f24e507",
-   "title": "French police suspend use of stun grenades after high-school protester loses hand",
-   "link": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Minister says use of grenades has been stopped ‘until we know what happened’ as protests across France continue How dilapidated are French schools and how bad is inequality in the education system? Europe live – latest updates France is suspending the use of stun grenades by…",
-   "published": "2026-10-07T09:09:07+00:00"
   },
   {
    "id": "445267e0455f",
@@ -3088,17 +3297,6 @@
    "published": "2026-10-06T20:00:00+00:00"
   },
   {
-   "id": "4c6968db9d0c",
-   "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-   "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Parental controls aren’t just for kids anymore.",
-   "published": "2026-10-06T19:58:00+00:00"
-  },
-  {
    "id": "f486fb72608e",
    "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
    "link": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
@@ -3350,17 +3548,6 @@
    "flourishing_feed": false,
    "summary": "Silvia Zhang and Guojun Xuan had 15 children, aged between two months to 13 years, removed from their home A California couple has been arrested on child abuse charges following an investigation into a surrogacy scheme involving at least 21 kids, police said on Tuesday. Silvia…",
    "published": "2026-10-06T18:41:13+00:00"
-  },
-  {
-   "id": "7408cf5cf5a4",
-   "title": "‘Trump accounts’ could force MAGA children to own New York Times stock",
-   "link": "https://www.marketwatch.com/story/trump-accounts-could-force-maga-children-to-own-new-york-times-stock-46177c96?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "This is going to bring a lot of problems that almost anyone could have predicted",
-   "published": "2026-10-06T18:39:00+00:00"
   },
   {
    "id": "b4a3a228baee",
@@ -4505,17 +4692,6 @@
    "flourishing_feed": false,
    "summary": "Märtha Louise and Durek Verrett launch defamation lawsuit in Los Angeles, claiming ‘coordinated series of devastating public attacks’ The Norwegian princess Märtha Louise and her husband, the American businessman Durek Verrett, are suing several former members of their inner…",
    "published": "2026-10-06T13:59:17+00:00"
-  },
-  {
-   "id": "e8aa90fdba81",
-   "title": "Prediction markets are coming for pop culture",
-   "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "What to know before buying event contracts around your favorite reality shows and entertainers.",
-   "published": "2026-10-06T13:58:00+00:00"
   },
   {
    "id": "08a02317c3e9",
