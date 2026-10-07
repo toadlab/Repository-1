@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T04:33:04.590904+00:00",
+ "generated": "2026-10-07T05:32:08.915530+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -43,8 +43,8 @@
   },
   {
    "name": "Reason",
-   "ok": true,
-   "count": 48
+   "ok": false,
+   "error": "HTTPError: HTTP Error 500: Internal Server Error"
   },
   {
    "name": "ProPublica",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "name": "The Guardian World",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 25
+   "count": 30
   },
   {
    "name": "Congressional Budget Office",
@@ -129,6 +129,182 @@
  ],
  "items": [
   {
+   "id": "d57fc4255795",
+   "title": "Libya’s parliament removes Speaker Saleh after 12 years as discontent grows",
+   "link": "https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Eastern-based parliament votes to replace longtime speaker with Al-Salhin Abdelnabi al-Obeidi.",
+   "published": "2026-10-07T05:12:55+00:00"
+  },
+  {
+   "id": "ffcc3aa00c8f",
+   "title": "Darryn Peterson finds his shot and two other takeaways in Jazz preseason home opener",
+   "link": "https://www.deseret.com/sports/2026/10/06/utah-jazz-takeaways-preseason-home-opener-denver-nuggets/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Utah Jazz played their second preseason game Tuesday and lost 117-106 to the Denver Nuggets. Here are three takeaways from Tuesday’s game. Darryn Peterson just finds ways to score Darryn Peterson has not shot well from outside in his first two preseason games. He finished…",
+   "published": "2026-10-07T05:07:57+00:00"
+  },
+  {
+   "id": "a6842562217f",
+   "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+   "link": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there.",
+   "published": "2026-10-07T05:02:18+00:00"
+  },
+  {
+   "id": "74ac8134e074",
+   "title": "Three years of Israel’s genocide in Gaza: In numbers",
+   "link": "https://www.aljazeera.com/news/2026/10/7/three-years-of-israels-genocide-in-gaza-in-numbers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three years of attacks has devastated Gaza, killing tens of thousands, destroying homes, and collapsing basic services.",
+   "published": "2026-10-07T05:02:04+00:00"
+  },
+  {
+   "id": "13bd6e7db836",
+   "title": "October 7 Revived Ancient Hatred, in the Middle East and on U.S. College Campuses",
+   "link": "https://thedispatch.com/article/october-7-antisemitism-american-universities/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three years after Hamas’ attack, antisemitism continues to permeate American universities.",
+   "published": "2026-10-07T05:02:00+00:00"
+  },
+  {
+   "id": "d7545e801853",
+   "title": "How Death Penalty Opponents Share the Blame for Botched Executions",
+   "link": "https://thedispatch.com/article/tennessee-failed-execution-death-penalty-opponents/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "They make the procedure more difficult and ugly, and then claim the ugliness and difficulty are problems.",
+   "published": "2026-10-07T05:01:00+00:00"
+  },
+  {
+   "id": "f1968993f389",
+   "title": "Tories delight as satirical tapestry pokes fun at ‘turncoat’ Robert Jenrick",
+   "link": "https://www.theguardian.com/politics/2026/oct/07/conservative-party-conference-satirical-tapestry-robert-jenrick",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Reminders of banished Reform UK defector were all around the Conservative party conference in Birmingham As Kemi Badenoch basked in the applause of the Tory faithful at the close of her pivotal speech at Conservative party conference last year, one member of her shadow cabinet…",
+   "published": "2026-10-07T05:00:35+00:00"
+  },
+  {
+   "id": "cfd34fe3fa8a",
+   "title": "O2 signs record £200m deal to keep London venue’s naming rights",
+   "link": "https://www.theguardian.com/business/2026/oct/07/o2-signs-record-deal-london-venue-the-o2-naming-rights",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: 10-year sponsorship extension at a 50% premium on last agreement crowns bonanza year for live venue O2 has struck a record £200m deal to retain the naming rights to the London venue the O2 in what is thought to be the largest renewal of its kind in UK history. The…",
+   "published": "2026-10-07T05:00:35+00:00"
+  },
+  {
+   "id": "037390b1f512",
+   "title": "Wanted: children to rear harvest mice at home for wild release in Devon",
+   "link": "https://www.theguardian.com/environment/2026/oct/07/children-harvest-mice-wild-release-devon-uk",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Teenagers Eva Wishart and Emily Smith launch project to breed and release 250 of the tiny animals by September Children in Devon are being invited to become “citizen captive breeders”, rearing harvest mice at home for release into the wild to help revive endangered nature. Wild…",
+   "published": "2026-10-07T05:00:34+00:00"
+  },
+  {
+   "id": "638381cafb79",
+   "title": "The Republican candidates walking a Trump tightrope",
+   "link": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party.",
+   "published": "2026-10-07T05:00:21+00:00"
+  },
+  {
+   "id": "7557af4d1a71",
+   "title": "Why the Catholic Church Is AI Doom’s Most Formidable Foe",
+   "link": "https://thedispatch.com/article/catholic-church-artificial-intelligence-millenarian/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The church has some experience with millenarian cults.",
+   "published": "2026-10-07T05:00:00+00:00"
+  },
+  {
+   "id": "2a6b6408ce3f",
+   "title": "The Return of the Tudors",
+   "link": "https://thedispatch.com/article/trump-tudors-court-england/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Donald Trump’s court has a neat historical ancestor.",
+   "published": "2026-10-07T05:00:00+00:00"
+  },
+  {
+   "id": "b77b9caaade4",
+   "title": "Israelis pause to mark October 7 Hamas-attack anniversary",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israelis-pause-to-mark-october-7-hamas-attack-anniversary?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israelis gathered at memorials to mark the moment the Hamas-led attack began on October 7, 2023.",
+   "published": "2026-10-07T04:43:02+00:00"
+  },
+  {
+   "id": "0e357085aaa1",
+   "title": "Former bishop sentenced to more than six years in prison for sexually abusing young Aboriginal men",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/07/christopher-alan-saunders-broome-bishop-sexual-abuse-aboriginal-men-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Christopher Alan Saunders becomes highest-ranked Catholic in Australia convicted of sexual abuse over his time as member of clergy Get our breaking news email , free app or daily news podcast A former high-ranking Catholic known for hosting boozy parties will spend at least…",
+   "published": "2026-10-07T04:42:52+00:00"
+  },
+  {
+   "id": "1dd53edfd70f",
+   "title": "Pornhub returns to Australia but only for adults with Apple devices",
+   "link": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The world's most popular porn site went dark in March in Australia due to age verification laws.",
+   "published": "2026-10-07T04:39:59+00:00"
+  },
+  {
+   "id": "5b02fa90d30a",
+   "title": "Naval drone hits oil tanker off Russian resort city Sochi, triggering massive blaze",
+   "link": "https://www.theguardian.com/world/2026/oct/07/ukraine-drone-hits-oil-tanker-russia-sochi",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Russian officials said a Liberian-flagged tanker was attacked and a crew of 23 Indian nationals rescued An oil tanker off Russia’s Black Sea coast was struck by a naval drone, triggering a huge fire and black smoke cloud that blanketed parts of the resort city of Sochi,…",
+   "published": "2026-10-07T04:39:01+00:00"
+  },
+  {
    "id": "524ad40a4ab8",
    "title": "Former Australian bishop jailed for sexually abusing young men",
    "link": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
@@ -140,15 +316,15 @@
    "published": "2026-10-07T04:22:07+00:00"
   },
   {
-   "id": "1dd53edfd70f",
-   "title": "Pornhub returns to Australia but only for adults with Apple devices",
-   "link": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "id": "e92d63bbd1ed",
+   "title": "Tree nearly as old as US torn down to expand Mexico border wall",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/tree-nearly-as-old-as-us-torn-down-to-expand-mexico-border-wall?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The world's most popular porn site went dark in March in Australia due to age verification laws.",
-   "published": "2026-10-07T04:12:59+00:00"
+   "summary": "A 200-year-old cottonwood tree has been cut down to make way for a 44-km US-Mexico double border wall despite protests.",
+   "published": "2026-10-07T04:20:28+00:00"
   },
   {
    "id": "c1fa43f10108",
@@ -184,6 +360,61 @@
    "published": "2026-10-07T04:00:00+00:00"
   },
   {
+   "id": "5756d04a06ac",
+   "title": "Agency Information Collection Activities; Comment Request on Treasury Decision (TD) 8686, Requirements To Ensure Collection of Section 2056A Estate Tax",
+   "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20542/agency-information-collection-activities-comment-request-on-treasury-decision-td-8686-requirements",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+   "published": "2026-10-07T04:00:00+00:00"
+  },
+  {
+   "id": "7c57a98d5a51",
+   "title": "Agency Information Collection Activities; Comment Request on Form 8881",
+   "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20541/agency-information-collection-activities-comment-request-on-form-8881",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+   "published": "2026-10-07T04:00:00+00:00"
+  },
+  {
+   "id": "ac46bde54f58",
+   "title": "Agency Information Collection Activities; Comment Request on Returns Regarding Payments of Interest",
+   "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20540/agency-information-collection-activities-comment-request-on-returns-regarding-payments-of-interest",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+   "published": "2026-10-07T04:00:00+00:00"
+  },
+  {
+   "id": "41cfd065fd01",
+   "title": "Agency Information Collection Activities; Comment Request on Time and Manner of Making Certain Elections Under the Technical and Miscellaneous Revenue Act of 1988",
+   "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20539/agency-information-collection-activities-comment-request-on-time-and-manner-of-making-certain",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+   "published": "2026-10-07T04:00:00+00:00"
+  },
+  {
+   "id": "4483bd6c39de",
+   "title": "Agency Information Collection Activities; Comment Request on Trump Account Election(s)",
+   "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20538/agency-information-collection-activities-comment-request-on-trump-account-elections",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+   "published": "2026-10-07T04:00:00+00:00"
+  },
+  {
    "id": "40bdb571a0d7",
    "title": "Mammoth putting the ‘special’ in ‘special teams’",
    "link": "https://www.deseret.com/sports/2026/10/06/utah-mammoth-beat-new-jersey-devils-5-3/",
@@ -196,7 +427,7 @@
   },
   {
    "id": "8c46805090c7",
-   "title": "US stock market hits all-time high as investors bet big on AI",
+   "title": "US stock market hits all-time high as investors continue to bet on AI",
    "link": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -589,6 +820,17 @@
    "flourishing_feed": false,
    "summary": "Yemeni forces claim they have tightened control over the highest peak in the Jabal Habashi district of Taiz.",
    "published": "2026-10-07T00:00:00+00:00"
+  },
+  {
+   "id": "7de8ae07e1ea",
+   "title": "Ronaldo apologises for Portugal walkout; says Jesus broke promise",
+   "link": "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Cristiano Ronaldo accuses Portugal coach Jorge Jesus of broken promises, but leaves international return open.",
+   "published": "2026-10-06T23:56:14+00:00"
   },
   {
    "id": "8b3b9413c682",
@@ -1438,15 +1680,15 @@
    "published": "2026-10-06T19:58:00+00:00"
   },
   {
-   "id": "7de8ae07e1ea",
-   "title": "Ronaldo apologizes for Portugal walkout; says Jesus broke promise",
-   "link": "https://www.aljazeera.com/sports/2026/10/6/ronaldo-apologizes-for-portugal-walkout-says-jesus-broke-promise?traffic_source=rss",
-   "source": "Al Jazeera",
+   "id": "f486fb72608e",
+   "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+   "link": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Cristiano Ronaldo accuses Portugal coach Jorge Jesus of broken promises, but leaves international return open.",
-   "published": "2026-10-06T19:56:14+00:00"
+   "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said.",
+   "published": "2026-10-06T19:53:45+00:00"
   },
   {
    "id": "50130e962647",
