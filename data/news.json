@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T20:31:43.635492+00:00",
+ "generated": "2026-10-07T21:31:37.584694+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 21
+   "count": 22
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,17 @@
  ],
  "items": [
   {
+   "id": "8d65ce193117",
+   "title": "How October 7 changed everything",
+   "link": "https://www.vox.com/today-explained-newsletter/505337/october-7-attack-anniversary",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here. Jewish communities in Israel and around the world are currently marking the third anniversary of the October 7 attacks that…",
+   "published": "2026-10-07T21:30:00+00:00"
+  },
+  {
    "id": "098280bba186",
    "title": "M1 Brings AI Financial Advice to Clients",
    "link": "https://www.wealthmanagement.com/artificial-intelligence/m1-launches-ai-financial-advisor-for-clients",
@@ -140,6 +151,237 @@
    "published": "2026-10-07T21:23:20+00:00"
   },
   {
+   "id": "7030f42b632a",
+   "title": "‘Anything can happen’: Iowa State coach Jimmy Rogers previews Cyclones’ attempt to upset No. 8 BYU",
+   "link": "https://www.deseret.com/sports/2026/10/07/iowa-state-coach-jimmy-rogers-previews-byu-matchup/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jimmy Rogers may be new to the Big 12, but he’s quite familiar with Kalani Sitake. As Iowa State’s new head coach prepares for his first meeting with BYU Friday in Provo, he reflected on his longtime respect for Sitake, which originated 25 years ago at Sitake’s first coaching…",
+   "published": "2026-10-07T21:15:00+00:00"
+  },
+  {
+   "id": "18366c0b99f9",
+   "title": "A hero’s goodbye and an overstayed welcome",
+   "link": "https://www.deseret.com/sports/2026/10/07/lionel-messi-and-cristiano-ronaldo-near-the-end-of-their-soccer-careers-with-a-farewell-for-messi/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It was a bittersweet night in Buenos Aires as the Argentina national team said goodbye to its beloved hero during a friendly against Benin, dubbed “The Last Tango” by many. Lionel Messi played his 208th, and final, match for Argentina Tuesday, and the night was laced with…",
+   "published": "2026-10-07T21:14:16+00:00"
+  },
+  {
+   "id": "69c4b52acbfb",
+   "title": "Trump heads to Texas as Republican midterms woes deepen – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump earlier said he has ‘no regrets’ about endorsing Ken Paxton amid leaked recordings of state attorney general decrying Iran war and high gas prices Sign up for the Breaking News US email Tonight, we’ll have another set of midterm debates. In Iowa, we’ll see the Republican…",
+   "published": "2026-10-07T21:09:59+00:00"
+  },
+  {
+   "id": "78679833fc5e",
+   "title": "South Africa host Australia who battle more than ‘Sandpapergate’ memories",
+   "link": "https://www.aljazeera.com/sports/2026/10/7/south-africa-host-an-australia-battling-more-than-sandpapergate-memories?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "WTC holders South Africa host Australia, who struggled against Bangladesh, in Tests for first time since 2018 scandal.",
+   "published": "2026-10-07T21:09:20+00:00"
+  },
+  {
+   "id": "81962de482f9",
+   "title": "Harmanpreet Kaur: The captain who changed how India’s women played cricket",
+   "link": "https://www.aljazeera.com/sports/2026/10/7/harmanpreet-kaur-the-captain-who-changed-how-indias-women-played-cricket?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Kaur's magical innings instilled belief in the Indian women's cricket team before she led them to a first world title.",
+   "published": "2026-10-07T21:08:59+00:00"
+  },
+  {
+   "id": "dacb02f7f32f",
+   "title": "Gaza child’s autoimmune condition triggered amid Israel’s war",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/gaza-childs-autoimmune-condition-triggered-amid-israels-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Gaza child’s autoimmune condition triggered amid Israel’s war",
+   "published": "2026-10-07T21:06:46+00:00"
+  },
+  {
+   "id": "b2143a750c30",
+   "title": "What is the pneumonic plague?",
+   "link": "https://www.npr.org/2026/10/07/g-s1-146952/pneumonic-plague-russia-siberia-lab-death",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The ancient disease of plague is back in the headlines after the death this month of a Russian lab worker.",
+   "published": "2026-10-07T21:06:31+00:00"
+  },
+  {
+   "id": "f4bd4646d7a5",
+   "title": "Get tickets to join this celebration of faith and Latino cultures",
+   "link": "https://www.deseret.com/faith/2026/10/07/luz-de-las-naciones-tickets-2026/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "“ Luz de las Naciones ,” or “Light of the Nations” — an annual celebration taking participants through a tour of traditional songs and dances from cultures in Latin America — is taking place for a 24th year in Salt Lake City this November. The celebration, hosted by The Church…",
+   "published": "2026-10-07T21:03:32+00:00"
+  },
+  {
+   "id": "4f5afb6271ed",
+   "title": "‘Neither war nor peace’: Palestinians in Gaza on existing amid disease, despair and ruins",
+   "link": "https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "People tell of lives changed beyond recognition after the 7 October attacks by Hamas three years ago and the subsequent Israeli offensive Ahmed Ishtaiwi has six chairs. They are cheap and plastic and battered, but they are among the 43-year-old driver and mechanic’s most…",
+   "published": "2026-10-07T21:00:01+00:00"
+  },
+  {
+   "id": "d9c8b2c1e8e3",
+   "title": "Labour Send changes at risk as parents rush to secure support, say experts",
+   "link": "https://www.theguardian.com/education/2026/oct/07/labour-send-reforms-ehcp-system-change-england",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Overhaul of special education in England could unravel, thinktank finds, because of ‘use it before you lose it’ dynamic Labour’s flagship changes to special education in England are at risk of unravelling because parents are rushing to secure support for their children before…",
+   "published": "2026-10-07T21:00:00+00:00"
+  },
+  {
+   "id": "3a5ae6191a6a",
+   "title": "Texas set to carry out first US execution since botched lethal injection of Christa Pike",
+   "link": "https://www.theguardian.com/us-news/2026/oct/07/texas-execution-jamaal-howard",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jamaal Howard’s lawyers urge halt, citing risk of another failed execution after Pike’s ordeal in Tennessee Texas on Wednesday is scheduled to carry out the first execution in the US after the the botched lethal injection of Christa Pike in Tennessee last week. Lawyers for…",
+   "published": "2026-10-07T20:58:51+00:00"
+  },
+  {
+   "id": "fe2107355194",
+   "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
+   "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Technology is the only one of the S&P 500’s 11 sectors that gained since Sept. 1, as Treasury yields have climbed to multi-decade highs.",
+   "published": "2026-10-07T20:58:00+00:00"
+  },
+  {
+   "id": "fff5d30fadbf",
+   "title": "María del Carmen Abascal, symbol of Spain’s housing protests, dies aged 87",
+   "link": "https://www.theguardian.com/world/2026/oct/07/maria-del-carmen-abascal-spain-housing-protests-dies",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Maricarmen’s eviction from Madrid apartment after over seven decades set off wave of protests against housing crisis ‘Now is the moment’: housing activists at Madrid encampment pin wary hopes on Spain’s early election María del Carmen Abascal, the 87-year-old whose eviction set…",
+   "published": "2026-10-07T20:57:51+00:00"
+  },
+  {
+   "id": "7426171c3503",
+   "title": "Inside SpaceX’s new look for AI data centres in orbit",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/inside-spacexs-new-look-for-ai-data-centres-in-orbit?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Inside SpaceX’s new look for AI data centres in orbit",
+   "published": "2026-10-07T20:54:43+00:00"
+  },
+  {
+   "id": "852aba6fb865",
+   "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+   "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
+   "published": "2026-10-07T20:51:00+00:00"
+  },
+  {
+   "id": "723b0631e641",
+   "title": "Opinion: The politics of gambling — a risky bet",
+   "link": "https://www.deseret.com/opinion/2026/10/07/the-politics-of-gambling/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Utah Constitution strictly prohibits “any game of chance, lottery or gift enterprise under any pretense or for any purpose.” Despite the strong restriction, gambling is often an issue in Utah politics. We explain. A Utah Federal District Court upheld that Utah’s gambling…",
+   "published": "2026-10-07T20:50:41+00:00"
+  },
+  {
+   "id": "98f925e8dbee",
+   "title": "WHO says it does not have ‘full picture’ from Russia following suspected plague death",
+   "link": "https://www.theguardian.com/world/2026/oct/07/who-says-it-does-not-have-full-picture-from-russia-following-suspected-plague-death",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "‘Transparent information sharing’ from Moscow is required to conduct full risk assessment, UN agency says The World Health Organization has said it does not have the “full picture” from Russia following the suspected death from plague last week of a 28-year-old laboratory…",
+   "published": "2026-10-07T20:46:07+00:00"
+  },
+  {
+   "id": "055afee806df",
+   "title": "Options traders are betting on a dramatic drop in interest rates",
+   "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-a-dramatic-drop-in-interest-rates-141066fb?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Recent options activity points to bullish positioning for long-term bonds and utilities.",
+   "published": "2026-10-07T20:36:00+00:00"
+  },
+  {
+   "id": "0383438d24c7",
+   "title": "In Ukraine, holding on to childhood in a time of war",
+   "link": "https://www.csmonitor.com/World/Europe/2026/1007/ukraine-russia-war-putin-children-invasion?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As war in Ukraine continues into its fifth year, some children have only known war. The Monitor revisits three young families striving to live full lives amid Russia’s military invasion.",
+   "published": "2026-10-07T20:35:48+00:00"
+  },
+  {
+   "id": "3fa37c69446a",
+   "title": "Trump backs away from top aides who reportedly advised pro-Russia government",
+   "link": "https://www.theguardian.com/us-news/2026/oct/07/trump-advisers-republika-srpska",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President floats firing Chris LaCivita and James Blair over any ‘conflict’ after reports of work in Republika Srpska Donald Trump distanced himself from two top advisers on Wednesday, claiming he did not have “any idea who else they work for”, after it was reported they spent…",
+   "published": "2026-10-07T20:31:37+00:00"
+  },
+  {
+   "id": "acd0712babdd",
+   "title": "A Survey of Crime Experts Deflates the 'Trump Effect' That Supposedly Reduced Homicides",
+   "link": "https://reason.com/2026/10/07/a-survey-of-crime-experts-deflates-the-trump-effect-that-supposedly-reduced-homicides/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The respondents did not think much of the policies that the president says produced \"the largest drop in violent crime in American history.\"",
+   "published": "2026-10-07T20:30:57+00:00"
+  },
+  {
    "id": "eb033b2d3b09",
    "title": "26-00922.pdf",
    "link": "https://www.finra.org/node/390406",
@@ -149,6 +391,72 @@
    "flourishing_feed": false,
    "summary": "26-00922.pdf Anonymous (not verified) Wed, 10/07/2026 - 16:30 Case ID 26-00922 Forum FINRA Document Type Award Claimants Rohin Vinod Respondents Webull Financial LLC Neutrals Gary G. Sackett Hearing Site Denver, CO Award Document 26-00922.pdf Documentum DocID 9d06e581 Award…",
    "published": "2026-10-07T20:30:01+00:00"
+  },
+  {
+   "id": "211d07ee70f5",
+   "title": "Chinese runner dropped by sponsor after riding bike during marathon",
+   "link": "https://www.bbc.co.uk/news/articles/c3y0enr9e078o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sun Yuanyuan was seemingly pictured on the back of another person's bike during part of the Berlin Marathon.",
+   "published": "2026-10-07T20:29:31+00:00"
+  },
+  {
+   "id": "b3d32738b156",
+   "title": "US Republicans, independents express low trust in election integrity: Poll",
+   "link": "https://www.aljazeera.com/news/2026/10/7/us-republicans-independents-express-low-trust-in-election-integrity-poll?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A Gallup survey highlights a deep – and historic – partisan divide over confidence in the country's elections.",
+   "published": "2026-10-07T20:27:47+00:00"
+  },
+  {
+   "id": "40177e5e0c6b",
+   "title": "FBI says it thwarted terrorist attack in Minnesota by an 18-year-old it supplied with an AK-47",
+   "link": "https://www.theguardian.com/us-news/2026/oct/07/mall-of-america-thwarted-attack",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Authorities say they arrested an 18-year-old who was planning a shooting attack at the Mall of America FBI officials stopped a potential terrorist attack on the Mall of America in Bloomington, Minnesota, authorities announced Wednesday. An 18-year-old was arrested on one count…",
+   "published": "2026-10-07T20:27:27+00:00"
+  },
+  {
+   "id": "515b2afcafd9",
+   "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+   "link": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
+   "published": "2026-10-07T20:27:03+00:00"
+  },
+  {
+   "id": "8d239c241ab6",
+   "title": "Arizona congressional candidate says she was raped while trying to repair campaign sign",
+   "link": "https://www.theguardian.com/us-news/2026/oct/07/bernadette-greene-placentia-house-candidate-allegedly-raped",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bernadette Greene-Placentia says she is sharing her story in order to fight for victims of sexual assault This article contains graphic descriptions of sexual assault. A congressional candidate in Arizona says she was attacked and raped in August while trying to repair one of…",
+   "published": "2026-10-07T20:21:59+00:00"
+  },
+  {
+   "id": "83fa5a0cd2c7",
+   "title": "Israel’s deadline to close UK consulate in East Jerusalem nears",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israels-deadline-to-close-uk-consulate-in-east-jerusalem-nears?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former British consul Vincent Fean says Israel is acting unlawfully by demanding the UK close its consulate.",
+   "published": "2026-10-07T20:17:27+00:00"
   },
   {
    "id": "e6abc5d6b52a",
@@ -173,15 +481,15 @@
    "published": "2026-10-07T20:15:56+00:00"
   },
   {
-   "id": "69c4b52acbfb",
-   "title": "Trump heads to Texas as Republican midterms woes deepen – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "08b5547fc62d",
+   "title": "Democratic FCC member warns of AI robocall misinformation risks in US",
+   "link": "https://www.aljazeera.com/economy/2026/10/7/democratic-fcc-member-warns-of-ai-robocall-misinformation-risks-in-us?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Trump earlier said he has ‘no regrets’ about endorsing Ken Paxton amid leaked recordings of state attorney general decrying Iran war and high gas prices Sign up for the Breaking News US email Tonight, we’ll have another set of midterm debates. In Iowa, we’ll see the Republican…",
-   "published": "2026-10-07T20:15:08+00:00"
+   "summary": "FCC commissioner warns against AI robocalls, citing risks of misinformation before crucial midterm elections.",
+   "published": "2026-10-07T20:14:35+00:00"
   },
   {
    "id": "21e44b9baf8a",
@@ -301,7 +609,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "An Arcadia couple who have been accused of child abuse in a surrogacy scandal have been arrested in their Arcadia mansion by LA County Sheriff’s Departmen in a joint operation with the FBI . Silvia Zhang and Guojun Xuan had 21 children, most of whom were born via surrogacy…",
+   "summary": "An Arcadia couple who have been accused of child abuse in a surrogacy scandal have been arrested in their Arcadia mansion by LA County Sheriff’s Department in a joint operation with the FBI . Silvia Zhang and Guojun Xuan had 21 children, most of whom were born via surrogacy…",
    "published": "2026-10-07T19:36:10+00:00"
   },
   {
@@ -735,13 +1043,13 @@
   },
   {
    "id": "be3c2b3212d9",
-   "title": "Spanish unions call general strike over housing before snap election",
+   "title": "Maricarmen dies at 87 after eviction sparked Spain housing protests",
    "link": "https://www.aljazeera.com/news/2026/10/7/spanish-unions-call-general-strike-over-housing-before-snap-election?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The general strike is the first to be jointly backed by Spain's two largest unions ‌in 14 years.",
+   "summary": "Maricarmen became the symbol of Spain's housing crisis after she was evicted on a stretcher in Madrid.",
    "published": "2026-10-07T18:02:47+00:00"
   },
   {
@@ -1611,6 +1919,17 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Sir James Goldsmith’s links to Hilton Head, South Carolina, add to mystery of Jane Doe 4, who claimed she was abused by Epstein in the 1980s For Jeffrey Epstein , the billionaire Goldsmith family was a gateway to elite society and he wanted to be in their circle. The disgraced…",
+   "published": "2026-10-07T15:00:53+00:00"
+  },
+  {
+   "id": "c09b26619311",
+   "title": "‘Catastrophic wildfire loop’ after colonisation left parts of Australia more at risk from bushfires, study finds",
+   "link": "https://www.theguardian.com/environment/2026/oct/08/colonisation-wildfire-loop-australia-climate-bushfires",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Researchers found the shift from open woodland to dense forest after 1788 led to more intense fires, consistent with loss of cultural burning practices Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here The drastic land use changes wreaked…",
    "published": "2026-10-07T15:00:53+00:00"
   },
   {
