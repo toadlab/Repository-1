@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T23:29:14.381639+00:00",
+ "generated": "2026-10-07T00:42:31.422734+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,171 @@
  ],
  "items": [
   {
+   "id": "35d37f0e57dc",
+   "title": "How student protests grew into a nationwide crisis in France",
+   "link": "https://www.deseret.com/u-s-world/2026/10/06/student-protests-in-france-escalate/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What began as protests over missing teachers, overcrowded classrooms and deteriorating schools has grown into a nationwide crisis in France, drawing hundreds of thousands into the streets and triggering violent clashes between demonstrators and police. Students say years of…",
+   "published": "2026-10-07T00:31:31+00:00"
+  },
+  {
+   "id": "0977ac7cab80",
+   "title": "Pornhub returns to Australia after banning access due to age verification rules",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/07/pornhub-returns-australia-apple-age-verification-rules-child-safety-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Australian adults again able to access the world’s most popular porn site after parent company introduces age checking via Apple devices Get our breaking news email , free app or daily news podcast Australian adults will be able to access Pornhub once again after the site…",
+   "published": "2026-10-07T00:28:14+00:00"
+  },
+  {
+   "id": "8bbd75c8f13a",
+   "title": "Sudan’s al-Burhan rejects talks, vows to retake all territory from RSF",
+   "link": "https://www.aljazeera.com/news/2026/10/7/sudans-al-burhan-rejects-talks-vows-to-retake-all-territory-from-rsf?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least 10 civilians were killed in West Kordofan and 5,500 displaced in Blue Nile as clashes widened on Tuesday.",
+   "published": "2026-10-07T00:26:47+00:00"
+  },
+  {
+   "id": "8a77c091bf25",
+   "title": "Democrats now favored in key midterm races that could give them control of US Senate, new projections find – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Nonpartisan Cook Political Report revises analyses in Kansas, New Hampshire and North Carolina, forecasting Democrats have stronger odds than previously estimated Sign up for Breaking News US email Two media giants, Paramount and Warner Bros Discovery, have completed their…",
+   "published": "2026-10-07T00:23:22+00:00"
+  },
+  {
+   "id": "25b87eef33c3",
+   "title": "Hunter Valley community group wins landmark high court climate change case",
+   "link": "https://www.theguardian.com/environment/2026/oct/07/mount-pleasant-coalmine-case-high-court-climate-change-hunter-valley",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ruling on Mount Pleasant coalmine shows ‘we cannot continue to dig up coal … and pretend the consequences have nothing to do with us’, group says A Hunter Valley community group has won Australia’s first high court case to consider climate change, in a ruling advocates say sets…",
+   "published": "2026-10-07T00:20:29+00:00"
+  },
+  {
+   "id": "3b0c1e068a47",
+   "title": "South Sudan’s aid crisis deepens as food stocks run low",
+   "link": "https://www.aljazeera.com/news/2026/10/7/south-sudans-aid-crisis-deepens-as-food-stocks-run-low?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than one million people could lose life-saving aid by October as funding shrinks and arrivals from Sudan continue.",
+   "published": "2026-10-07T00:13:59+00:00"
+  },
+  {
+   "id": "e772bf23c8e1",
+   "title": "French mayor tear-gassed after shielding protesters from police",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/french-mayor-tear-gassed-after-shielding-protesters-from-police?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saint-Denis Mayor Bally Bagayoko was tear-gassed after shielding student protesters from riot police.",
+   "published": "2026-10-07T00:10:56+00:00"
+  },
+  {
+   "id": "23cf92cda653",
+   "title": "2025088719301 Gregory Wayne Berg CRD 3081088 AWC lp.pdf",
+   "link": "https://www.finra.org/node/390361",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "2025088719301 Gregory Wayne Berg CRD 3081088 AWC lp.pdf Anonymous (not verified) Tue, 10/06/2026 - 20:05 Case ID 2025088719301 Document Number 9571c481 Document Type AWCs (Letters of Acceptance, Waiver, and Consent) Individuals Gregory Wayne Berg Action Date Tue, 10/06/2026 -…",
+   "published": "2026-10-07T00:05:01+00:00"
+  },
+  {
+   "id": "1aef43ad81bd",
+   "title": "Jaguar targets young Americans with Type 01 EV – but it’s too long for UK parking spaces",
+   "link": "https://www.theguardian.com/business/2026/oct/07/jaguar-launch-type-01-electric-vehicle",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Latest model is launching in New York to target rich US buyers – and is more than 5.2 metres long and 2 metres wide It has no rear window, will not fit into a UK parking space and – starting at £130,000 – ($172,000) is aimed squarely at rich tech industry buyers driving the…",
+   "published": "2026-10-07T00:00:28+00:00"
+  },
+  {
+   "id": "0d7635f654fd",
+   "title": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Yemeni forces claim they have tightened control over the highest peak in the Jabal Habashi district of Taiz.",
+   "published": "2026-10-07T00:00:00+00:00"
+  },
+  {
+   "id": "869f80b2ed77",
+   "title": "Privacy watchdog launches probe into China-based company behind Kmart ‘pervert glasses’ app",
+   "link": "https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Commissioner said Shenzhen Qingcheng, the app maker behind the HeyCyan app in the smartglasses, failed to respond to her inquiries Get our breaking news email , free app or daily news podcast The Australian privacy regulator has opened an investigation into the China-based…",
+   "published": "2026-10-06T23:58:23+00:00"
+  },
+  {
+   "id": "f17b197cdb6a",
+   "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+   "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+   "published": "2026-10-06T23:52:53+00:00"
+  },
+  {
+   "id": "8b3b9413c682",
+   "title": "LA and San Diego residents ‘horrified’ by Trump suggesting Iran bomb them",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/trump-iran-threat-san-diego-los-angeles-reaction",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As Angelenos bemoan ‘sad situation’, those in San Diego say remark a ‘disservice’ to town with multiple naval bases Donald Trump’s extraordinary implication that Iran could “take out” Los Angeles and San Diego have sparked condemnation across the political spectrum. As…",
+   "published": "2026-10-06T23:45:02+00:00"
+  },
+  {
+   "id": "e001434d0e6a",
+   "title": "Christa Pike is conscious and speaking after botched execution attempt, lawyers say",
+   "link": "https://www.theguardian.com/us-news/2026/oct/06/christa-pike-execution-awake",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The prisoner received two doses of pentobarbital as authorities tried to put her to death on 30 September Christa Pike, a Tennessee prisoner who survived the state’s attempt to execute her, is awake and speaking as she receives treatment at a hospital, her attorneys said on…",
+   "published": "2026-10-06T23:35:51+00:00"
+  },
+  {
+   "id": "9b44c5614f52",
+   "title": "Electric car bursts into flames at charging station in Turkiye",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-ev-blowsup-turkiye-clip-mp4?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Turkiye’s first domestically produced electric SUV, the Togg T10X burst into flames at a charging station.",
+   "published": "2026-10-06T23:33:33+00:00"
+  },
+  {
    "id": "6a98ffee3177",
    "title": "Plague epidemic risk in Russia low after death of lab technician, WHO says",
    "link": "https://www.theguardian.com/world/2026/oct/06/plague-epidemic-risk-russia-low-death-darya-shipilova-who",
@@ -151,6 +316,17 @@
    "published": "2026-10-06T23:11:27+00:00"
   },
   {
+   "id": "272a5ffef46f",
+   "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+   "link": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+   "published": "2026-10-06T23:07:44+00:00"
+  },
+  {
    "id": "4de7bad3af43",
    "title": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
    "link": "https://www.aljazeera.com/news/longform/2026/10/6/we-are-desperate-venezuelas-power-cuts-fuel-growing-public-anger?traffic_source=rss",
@@ -160,17 +336,6 @@
    "flourishing_feed": false,
    "summary": "Frequent outages have fuelled protests against the government of interim Venezuelan President Delcy Rodriguez.",
    "published": "2026-10-06T23:05:38+00:00"
-  },
-  {
-   "id": "869f80b2ed77",
-   "title": "Privacy watchdog launches probe into China-based company behind Kmart ‘pervert glasses’ app",
-   "link": "https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Commissioner said Shenzhen Qingcheng, the app maker behind the HeyCyan app in the smartglasses, failed to respond to her inquiries Get our breaking news email , free app or daily news podcast The Australian privacy regulator has opened an investigation into the China-based…",
-   "published": "2026-10-06T23:02:36+00:00"
   },
   {
    "id": "f7b7b5807f6a",
@@ -202,7 +367,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Manager who removed Macdonald announces she will replace the late James Valentine from March Get our breaking news email , free app or daily news podcast Two years after her shock axing the ABC has backflipped and reinstated ABC Radio presenter Sarah Macdonald to Sydney’s local…",
+   "summary": "Manager who removed Macdonald announces she will replace the late James Valentine from March Get our breaking news email , free app or daily news podcast Two years after her shock axing, the ABC has backflipped and reinstated ABC Radio presenter Sarah Macdonald to Sydney’s…",
    "published": "2026-10-06T22:59:14+00:00"
   },
   {
@@ -237,28 +402,6 @@
    "flourishing_feed": false,
    "summary": "President Donald Trump signed an executive order Monday titled “ Emergency Tax Relief on Diesel Fuel ” — aiming to save farmers and truckers $100 per refill, the order claims. The question is whether it is too little, too late — and whether Utah will get on board. Diesel fuel…",
    "published": "2026-10-06T22:52:24+00:00"
-  },
-  {
-   "id": "8a77c091bf25",
-   "title": "Democrats now favored in key midterm races that could give them control of US Senate, new projections find – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/06/donald-trump-ads-diesel-baltimore-midterms-media-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Nonpartisan Cook Political Report revises analyses in Kansas, New Hampshire and North Carolina, forecasting Democrats have stronger odds than previously estimated Sign up for Breaking News US email Two media giants, Paramount and Warner Bros Discovery, have completed their…",
-   "published": "2026-10-06T22:51:50+00:00"
-  },
-  {
-   "id": "8b3b9413c682",
-   "title": "LA and San Diego residents ‘horrified’ by Trump’s comment: ‘obsessed with us’",
-   "link": "https://www.theguardian.com/us-news/2026/oct/06/trump-iran-threat-san-diego-los-angeles-reaction",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "As Angelenos bemoan ‘sad situation’, those in San Diego say remark a ‘disservice’ to town with multiple naval bases Donald Trump’s extraordinary implication that Iran could “take out” Los Angeles and San Diego have sparked condemnation across the political spectrum. As…",
-   "published": "2026-10-06T22:49:00+00:00"
   },
   {
    "id": "b2c53e9aed15",
@@ -360,17 +503,6 @@
    "published": "2026-10-06T22:14:14+00:00"
   },
   {
-   "id": "e001434d0e6a",
-   "title": "Christa Pike is conscious and speaking after botched execution attempt, lawyers say",
-   "link": "https://www.theguardian.com/us-news/2026/oct/06/christa-pike-execution-awake",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The prisoner received two doses of pentobarbital as authorities tried to put her to death on 30 September Christa Pike, a Tennessee prisoner who survived the state’s attempt to execute her, is awake and speaking as she receives treatment at a hospital, her attorneys said on…",
-   "published": "2026-10-06T22:14:02+00:00"
-  },
-  {
    "id": "86cd22f6aba1",
    "title": "Delta, SkyWest add 4 new routes out of Salt Lake City airport",
    "link": "https://www.deseret.com/business/2026/10/06/delta-skywest-add-4-new-routes-out-of-salt-lake-city-airport/",
@@ -413,17 +545,6 @@
    "flourishing_feed": false,
    "summary": "Justice department detained James Codey Bryant and allege he offered ‘technical advice’ to primary suspect A surprise suspected accomplice has been arrested in connection with a mass school shooting in Canada that was made notorious after an 18-year-old allegedly killed six…",
    "published": "2026-10-06T22:06:04+00:00"
-  },
-  {
-   "id": "f17b197cdb6a",
-   "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-   "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Experts say her survival after the lethal injections is highly unusual.",
-   "published": "2026-10-06T22:00:43+00:00"
   },
   {
    "id": "ec08ae1f06bd",
@@ -1227,6 +1348,17 @@
    "flourishing_feed": false,
    "summary": "As ordered reported by the House Committee on Education and Workforce on May 21, 2026",
    "published": "2026-10-06T18:44:00+00:00"
+  },
+  {
+   "id": "fdc2649b6560",
+   "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+   "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+   "published": "2026-10-06T18:42:58+00:00"
   },
   {
    "id": "0b7abec9ab7d",
