@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T07:33:41.794341+00:00",
+ "generated": "2026-10-07T08:34:32.381922+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,182 @@
  ],
  "items": [
   {
+   "id": "31a5140a9bb0",
+   "title": "‘We’re short of resources’: France’s student protesters, in their own words",
+   "link": "https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "French students and teachers protesting school conditions spoke with Al Jazeera about their demands.",
+   "published": "2026-10-07T08:32:16+00:00"
+  },
+  {
+   "id": "bbffe3e9d012",
+   "title": "Three years of Israel’s mass dispossession of West Bank Palestinians",
+   "link": "https://www.aljazeera.com/features/2026/10/7/three-years-of-israels-mass-dispossession-of-west-bank-palestinians?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bedouin families uprooted by Israeli settlers describe a state-backed project of forced transfer in the West Bank.",
+   "published": "2026-10-07T08:22:19+00:00"
+  },
+  {
+   "id": "990c5358c661",
+   "title": "At least 11 dead, 34 injured after ‘vile’ attack on Ukraine on Putin’s birthday, Zelenskyy says – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/07/russia-ukraine-war-zelenskyy-putin-france-protests-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine president confirms series of attacks on Pryluky, Dnipro, Kremenchik, Zaporizhzhia and Kyiv Meanwhile, Bulgaria has halted its search for the missing crew of a ship that sank after being ⁠hit by a drone on Tuesday, Reuters reported. As reported yesterday ( Europe Live,…",
+   "published": "2026-10-07T08:19:56+00:00"
+  },
+  {
+   "id": "736f0cf0f55f",
+   "title": "Badenoch expected to announce plan to cut inheritance tax and claim UK faces ‘battle of ideas’ over spending – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/07/kemi-badenoch-inheritance-tax-conservatives-tory-conference-labour-green-party-reform-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Conservative leader will deliver her keynote speech to Tory conference later Kemi Badenoch claims that the Conservative party has changed considerably under her leadership, and that as a result it does not deserve to be tainted by the terrible reputation of the last…",
+   "published": "2026-10-07T08:17:45+00:00"
+  },
+  {
+   "id": "7e8d09d9523f",
+   "title": "Palestine: The Lost Team",
+   "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/7/palestine-the-lost-team?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The forgotten story of the football team that played as Palestine in 1934 — without Arab Palestinian players.",
+   "published": "2026-10-07T08:17:02+00:00"
+  },
+  {
+   "id": "679b83d72eb0",
+   "title": "Israeli troops seen smashing memorial in occupied West Bank",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-troops-seen-smashing-memorial-in-occupied-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An Israeli soldier was spotted smashing a memorial to Palestinians during raids in the occupied West Bank.",
+   "published": "2026-10-07T08:16:17+00:00"
+  },
+  {
+   "id": "d1f5417a3791",
+   "title": "Meta stock achieves a golden cross as shares thrive since Muse introduction",
+   "link": "https://www.marketwatch.com/story/meta-stock-achieves-a-golden-cross-as-shares-thrive-since-muse-introduction-5ba818d4?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Meta Platforms, whose stock has thrived after the introduction of an artificial-intelligence assistant, just got another piece of good news.",
+   "published": "2026-10-07T08:07:00+00:00"
+  },
+  {
+   "id": "e1cbfc800e3d",
+   "title": "A popular tech fund is now overbought. That’s no reason to sell, history shows.",
+   "link": "https://www.marketwatch.com/story/a-popular-tech-fund-is-now-overbought-thats-no-reason-to-sell-history-shows-d998aab3?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A surge to record highs for technology stocks has pushed them to what is considered by technical analysts to be overbought levels, but history shows investors should not use that as reason to cut their exposure.",
+   "published": "2026-10-07T08:01:00+00:00"
+  },
+  {
+   "id": "150dafb55494",
+   "title": "Americans’ water bills are growing faster than groceries, overall inflation",
+   "link": "https://indianacapitalchronicle.com/2026/10/07/repub/americans-water-bills-are-growing-faster-than-groceries-overall-inflation/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Household water bills are increasing faster than inflation and income, according to a new analysis. The environmental advocacy nonprofit Food and Water Watch analyzed water bill data among the nation’s 500 largest community water providers. Those systems serve a collective 155…",
+   "published": "2026-10-07T08:00:52+00:00"
+  },
+  {
+   "id": "d7daf8673d59",
+   "title": "What We’re Reading: California Joins the Balcony Solar Revolution",
+   "link": "https://reasonstobecheerful.world/what-were-reading-california-balcony-solar/",
+   "source": "Reasons to be Cheerful",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": true,
+   "summary": "Welcome back to our weekly behind-the-scenes glimpse at what’s getting our team talking. Tell us what you’ve been reading at info@reasonstobecheerful.world and we just might feature it here. Sunny outlook Last year, Contributing Editor Peter Yeung reported on the game-changing…",
+   "published": "2026-10-07T08:00:46+00:00"
+  },
+  {
+   "id": "862463512a4a",
+   "title": "Police routinely failing to investigate ‘revenge porn’ reports, research shows",
+   "link": "https://www.theguardian.com/society/2026/oct/07/police-routinely-failing-to-investigate-revenge-porn-reports-research-shows",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lawyers launch super-complaint after gathering evidence suggesting officers frequently dismiss image-based abuse Police forces are routinely failing to investigate complaints about the circulation of image-based abuse, previously known as “revenge pornography”, according to…",
+   "published": "2026-10-07T08:00:38+00:00"
+  },
+  {
+   "id": "9a5075a31599",
+   "title": "UK house prices flatline as rising mortgage costs weigh on market",
+   "link": "https://www.theguardian.com/business/2026/oct/07/uk-house-prices-flatline-as-rising-mortgage-costs-weigh-on-market",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Average cost of home in September was £298,441, says Lloyds – about the same as year earlier and in August Business live – latest updates UK house prices flatlined in September, according to a leading index, as rising mortgage costs started to weigh on the market. The average…",
+   "published": "2026-10-07T07:56:02+00:00"
+  },
+  {
+   "id": "7125aa8a44cd",
+   "title": "Myanmar’s Min Aung Hlaing visits Malaysia amid concerns over repatriations",
+   "link": "https://www.aljazeera.com/news/2026/10/7/myanmars-min-aung-hlaing-visits-malaysia-amid-concerns-over-repatriations?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Myanmar leader Min Aung Hlaing arrives in Malaysia on his first visit since the 2021 coup.",
+   "published": "2026-10-07T07:49:52+00:00"
+  },
+  {
+   "id": "8418cca8ce1a",
+   "title": "Nicolas Ghesquière takes us into the future for Louis Vuitton show in Paris",
+   "link": "https://www.theguardian.com/fashion/2026/oct/07/louis-vuitton-nicolas-ghesquiere-futuristic-show-paris-fashion-week",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Models walk runway at the Louvre with flying cars hovering above as designer envisions city life in a warming world In silk slip dresses, breezy vented tunics and gossamer layers of chiffon, the models on Louis Vuitton’s catwalk were perfectly dressed for an unseasonably warm…",
+   "published": "2026-10-07T07:49:35+00:00"
+  },
+  {
+   "id": "349146704d27",
+   "title": "India's opposition leader dragged onto bus as police break up protest",
+   "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party.",
+   "published": "2026-10-07T07:45:47+00:00"
+  },
+  {
+   "id": "b8ac21d3e857",
+   "title": "‘Lawyers should be running to courts’ to stop coal approvals after landmark ruling, NSW MP says",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/07/mount-pleasant-hunter-valley-coalmine-high-court-ruling-community-advocates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "High court finding in favour of Hunter Valley community group sets precedent other environmentalists should follow, advocate says Get our new political email , free app or daily news podcast A landmark decision in Australia’s first climate change high court case has been…",
+   "published": "2026-10-07T07:24:31+00:00"
+  },
+  {
    "id": "f06e88f92e43",
    "title": "How one trend-following fund outperformed rivals by bringing humans back into the decision-making process",
    "link": "https://www.marketwatch.com/story/how-one-trend-following-fund-outperformed-rivals-by-bringing-humans-back-into-the-decision-making-process-12285e18?mod=mw_rss_topstories",
@@ -149,17 +325,6 @@
    "flourishing_feed": false,
    "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
    "published": "2026-10-07T07:07:22+00:00"
-  },
-  {
-   "id": "736f0cf0f55f",
-   "title": "Badenoch expected to announce plan to cut inheritance tax and claim UK faces ‘battle of ideas’ over spending – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/07/kemi-badenoch-inheritance-tax-conservatives-tory-conference-labour-green-party-reform-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Conservative leader will deliver her keynote speech to Tory conference later Good morning. Kemi Badenoch is expected to announce cuts to inheritance tax (IHT) this morning in a keynote conference speech that will claim the next election will be a “battle of ideas” between a…",
-   "published": "2026-10-07T07:00:38+00:00"
   },
   {
    "id": "2d3f8a83306a",
@@ -4010,17 +4175,6 @@
    "flourishing_feed": false,
    "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
    "published": "2026-10-06T10:05:42+00:00"
-  },
-  {
-   "id": "349146704d27",
-   "title": "Indian opposition MPs detained in protest against election chief",
-   "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
-   "published": "2026-10-06T10:05:22+00:00"
   },
   {
    "id": "1deae0d14aff",
