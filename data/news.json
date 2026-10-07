@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T06:37:13.314969+00:00",
+ "generated": "2026-10-07T07:33:41.794341+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,6 +129,116 @@
  ],
  "items": [
   {
+   "id": "f06e88f92e43",
+   "title": "How one trend-following fund outperformed rivals by bringing humans back into the decision-making process",
+   "link": "https://www.marketwatch.com/story/how-one-trend-following-fund-outperformed-rivals-by-bringing-humans-back-into-the-decision-making-process-12285e18?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "One trend-following fund has outperformed rivals this year by deciding to take profits.",
+   "published": "2026-10-07T07:08:00+00:00"
+  },
+  {
+   "id": "f17b197cdb6a",
+   "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+   "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
+   "published": "2026-10-07T07:07:22+00:00"
+  },
+  {
+   "id": "736f0cf0f55f",
+   "title": "Badenoch expected to announce plan to cut inheritance tax and claim UK faces ‘battle of ideas’ over spending – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/07/kemi-badenoch-inheritance-tax-conservatives-tory-conference-labour-green-party-reform-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Conservative leader will deliver her keynote speech to Tory conference later Good morning. Kemi Badenoch is expected to announce cuts to inheritance tax (IHT) this morning in a keynote conference speech that will claim the next election will be a “battle of ideas” between a…",
+   "published": "2026-10-07T07:00:38+00:00"
+  },
+  {
+   "id": "2d3f8a83306a",
+   "title": "‘Friendship on the Knife’s Edge’ | Interview: Roger Berkowitz",
+   "link": "https://thedispatch.com/podcast/remnant/friendship-on-the-knifes-edge-interview-roger-berkowitz/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "People are worth more than their opinions.",
+   "published": "2026-10-07T07:00:00+00:00"
+  },
+  {
+   "id": "cff9ee583d65",
+   "title": "Coalition MPs concede immigration pledge not fully costed by independent watchdog",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/07/angus-taylor-coalition-immigration-policy-not-fully-costed-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Angus Taylor says opposition ‘worked closely’ with Parliamentary Budget Office but Liberal sources say it has not yet conducted a full analysis of the policy Get our new political email , free app or daily news podcast Coalition MPs concede the party’s newly released…",
+   "published": "2026-10-07T06:52:45+00:00"
+  },
+  {
+   "id": "355d700af97d",
+   "title": "Former CIA official accused of stealing $40M in gold bars pleads guilty",
+   "link": "https://www.npr.org/2026/10/07/nx-s1-5993468/cia-official-stealing-gold-bars-pleads-guilty",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A former senior CIA official pleaded guilty Tuesday to a charge that he abused his position to enrich himself by acquiring Florida real estate and hundreds of gold bars worth over $40 million.",
+   "published": "2026-10-07T06:52:18+00:00"
+  },
+  {
+   "id": "2e34d0daf116",
+   "title": "Yemen’s Houthis attack Aden airport; Saudi forces down missile near Riyadh",
+   "link": "https://www.aljazeera.com/news/2026/10/7/yemens-houthis-attack-aden-airport-saudi-forces-down-missile-near-riyadh?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Yemeni government says one of the missiles hit Aden airport's runway minutes before a flight from Cairo was due to land.",
+   "published": "2026-10-07T06:41:11+00:00"
+  },
+  {
+   "id": "dd371c2057ab",
+   "title": "Has Russia’s fuel crisis given Iranian oil an opening in Central Asia?",
+   "link": "https://www.aljazeera.com/news/2026/10/7/has-russias-fuel-crisis-given-iranian-oil-an-opening-in-central-asia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Iran's oil exports have struggled amid a US blockade. A Russian energy crisis because of Ukrainian attacks could help.",
+   "published": "2026-10-07T06:33:54+00:00"
+  },
+  {
+   "id": "a1e07ee47e97",
+   "title": "How has Israel’s genocide changed Gaza?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/how-has-israels-genocide-changed-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Gaza City’s port was a hub for fishing and tourism before the genocide. Al Jazeera’s Maram Humaid shows what’s left.",
+   "published": "2026-10-07T06:27:18+00:00"
+  },
+  {
+   "id": "af91b2fe15d3",
+   "title": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
+   "link": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Russia’s Defence Ministry says its forces carried out a 'massive strike' on Kyiv and other Ukrainian regions.",
+   "published": "2026-10-07T06:19:26+00:00"
+  },
+  {
    "id": "e0b5ad7f8254",
    "title": "Yemen’s displaced children dream of returning to school",
    "link": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
@@ -213,7 +323,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Uneeb Ullah, 28, from Logan, has been remanded in custody after his arrest on Tuesday evening for the alleged murder of the child Get our breaking news email , free app or daily news podcast A Queensland man has been charged with the murder of his three-month-old baby son,…",
+   "summary": "Uneeb Ullah, 28, from Ipswich, has been remanded in custody after his arrest on Tuesday evening for the alleged murder of the child Get our breaking news email , free app or daily news podcast A Queensland man has been charged with the murder of his three-month-old baby son,…",
    "published": "2026-10-07T05:39:57+00:00"
   },
   {
@@ -647,13 +757,13 @@
   },
   {
    "id": "869f80b2ed77",
-   "title": "Privacy watchdog launches probe into China-based company behind Kmart ‘pervert glasses’ app",
+   "title": "Privacy watchdog launches investigation into China-based company behind Kmart ‘pervert glasses’ app",
    "link": "https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Commissioner said Shenzhen Qingcheng, the app maker behind the HeyCyan app in the smartglasses, failed to respond to her inquiries Get our breaking news email , free app or daily news podcast The Australian privacy regulator has opened an investigation into the China-based…",
+   "summary": "Commissioner says Shenzhen Qingcheng, the app maker behind the HeyCyan app in the smartglasses, failed to respond to her inquiries Get our breaking news email , free app or daily news podcast The Australian privacy regulator has opened an investigation into the China-based…",
    "published": "2026-10-07T02:00:15+00:00"
   },
   {
@@ -776,17 +886,6 @@
    "flourishing_feed": false,
    "summary": "Three years after the October 7 attacks, the politics of Israeli society has shifted further right.",
    "published": "2026-10-07T00:58:21+00:00"
-  },
-  {
-   "id": "f17b197cdb6a",
-   "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-   "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
-   "published": "2026-10-07T00:56:59+00:00"
   },
   {
    "id": "c726a41945ac",
@@ -1516,7 +1615,7 @@
   },
   {
    "id": "34332c307e33",
-   "title": "How drunk is too drunk? Cornell rape allegations expose 'loopholes' in consent laws",
+   "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
    "link": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
