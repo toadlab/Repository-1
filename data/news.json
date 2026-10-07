@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T05:32:08.915530+00:00",
+ "generated": "2026-10-07T06:37:13.314969+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -44,7 +44,7 @@
   {
    "name": "Reason",
    "ok": false,
-   "error": "HTTPError: HTTP Error 500: Internal Server Error"
+   "error": "HTTPError: HTTP Error 504: Gateway Time-out"
   },
   {
    "name": "ProPublica",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 30
+   "count": 20
   },
   {
    "name": "The Guardian World",
@@ -128,6 +128,105 @@
   }
  ],
  "items": [
+  {
+   "id": "e0b5ad7f8254",
+   "title": "Yemen’s displaced children dream of returning to school",
+   "link": "https://www.aljazeera.com/news/2026/10/7/yemens-displaced-children-dream-of-returning-to-school?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 137,000 students in conflict zones lose access to education, deepening Yemen's already dire schooling crisis.",
+   "published": "2026-10-07T06:15:44+00:00"
+  },
+  {
+   "id": "9ad9595f0534",
+   "title": "Finland orders halt to work on Google data centre sites",
+   "link": "https://www.aljazeera.com/news/2026/10/7/finland-orders-halt-to-work-on-google-data-sites-over-environment-concerns?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Finnish opposition has called for measures to prevent power shortages, soaring energy prices caused by data centres.",
+   "published": "2026-10-07T06:10:21+00:00"
+  },
+  {
+   "id": "ac8ab54535b3",
+   "title": "Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked",
+   "link": "https://www.npr.org/2026/10/07/nx-s1-5993459/israelis-oct-7-palestinians-war",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israelis are gathering Wednesday to commemorate the Oct. 7, 2023, attack that killed 1,200 people, and sparked a devastating war in Gaza that Palestinians still grapple with.",
+   "published": "2026-10-07T06:02:57+00:00"
+  },
+  {
+   "id": "c8c191789f4f",
+   "title": "Scientists who put faith in technology less likely to take climate action",
+   "link": "https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "‘Techno-optimism’ may lead to reliance on unproven solutions at expense of societal changes needed Scientists who believe technology will largely solve the problems caused by the climate crisis are less likely to engage in civic action on the issue, according to a study. The…",
+   "published": "2026-10-07T06:00:36+00:00"
+  },
+  {
+   "id": "28f12e54dbaa",
+   "title": "Lionel Messi’s last game for Argentina ends in triumph and tears",
+   "link": "https://www.aljazeera.com/sports/2026/10/7/lionel-messis-last-game-for-argentina-ends-in-triumph-and-tears?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Messi scored a goal and created two others as Argentina bid farewell to its most decorated footballer with a 3-0 win.",
+   "published": "2026-10-07T05:54:10+00:00"
+  },
+  {
+   "id": "0991cdf5023f",
+   "title": "Detective breaks down in court as she recalls finding Beau Lamarre-Condon’s alleged murder victims",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/07/beau-lamarre-condon-trial-friend-nicole-harvell-no-mention-jesse-baird-before-alleged-murders-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lamarre-Condon has pleaded not guilty to murdering Jesse Baird and Luke Davies in Sydney in February 2024 Get our breaking news email , free app or daily news podcast A detective has broken down in court while describing the moment she found the bodies of two men allegedly…",
+   "published": "2026-10-07T05:47:03+00:00"
+  },
+  {
+   "id": "cafdf832a721",
+   "title": "How three years of Israel’s genocidal war have changed Gaza",
+   "link": "https://www.aljazeera.com/news/2026/10/7/how-three-years-of-israels-genocidal-war-have-changed-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "War has devastated Gaza’s economy, education, healthcare, infrastructure and public services, transforming life.",
+   "published": "2026-10-07T05:41:54+00:00"
+  },
+  {
+   "id": "8d3e558b766f",
+   "title": "Queensland man charged with murder after three-month-old son dies from ‘significant internal injuries’",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/07/queensland-man-charged-murder-three-month-old-baby-son-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Uneeb Ullah, 28, from Logan, has been remanded in custody after his arrest on Tuesday evening for the alleged murder of the child Get our breaking news email , free app or daily news podcast A Queensland man has been charged with the murder of his three-month-old baby son,…",
+   "published": "2026-10-07T05:39:57+00:00"
+  },
+  {
+   "id": "907b54c3573c",
+   "title": "Flydubai attack investigation widens as alleged hijacker’s training in New Zealand scrutinised",
+   "link": "https://www.theguardian.com/world/2026/oct/07/flydubai-attack-investigation-widens-as-alleged-hijackers-training-in-new-zealand-scrutinised-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hamam al-Hammami spent 175 days in New Zealand until May 2019, as Australian Jewish group calls for full investigation into his time in Melbourne New Zealand authorities have launched their own investigation into the flydubai co-pilot who allegedly tried to hijack an…",
+   "published": "2026-10-07T05:25:10+00:00"
+  },
   {
    "id": "d57fc4255795",
    "title": "Libya’s parliament removes Speaker Saleh after 12 years as discontent grows",
@@ -468,17 +567,6 @@
    "flourishing_feed": false,
    "summary": "Lionel Messi played his final game for Argentina in a friendly against Benin, ending a 21-year international career.",
    "published": "2026-10-07T03:03:16+00:00"
-  },
-  {
-   "id": "0991cdf5023f",
-   "title": "Beau Lamarre-Condon didn’t talk about Jesse Baird to friend in lead-up to alleged murders, court hears",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/07/beau-lamarre-condon-trial-friend-nicole-harvell-no-mention-jesse-baird-before-alleged-murders-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "NSW police officer has pleaded not guilty to murdering his ex and Luke Davies in a Sydney terrace in February 2024 Get our breaking news email , free app or daily news podcast Despite an alleged obsession with his ex, Beau Lamarre-Condon never spoke about him to a close friend…",
-   "published": "2026-10-07T02:45:59+00:00"
   },
   {
    "id": "7930570995a9",
@@ -1425,6 +1513,17 @@
    "flourishing_feed": false,
    "summary": "Progressive US representatives seek to bring attention to Israeli abuse and detention of Palestinian medical worker.",
    "published": "2026-10-06T20:42:42+00:00"
+  },
+  {
+   "id": "34332c307e33",
+   "title": "How drunk is too drunk? Cornell rape allegations expose 'loopholes' in consent laws",
+   "link": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims.",
+   "published": "2026-10-06T20:40:01+00:00"
   },
   {
    "id": "9064c44c5486",
@@ -2679,6 +2778,17 @@
    "flourishing_feed": false,
    "summary": "Tobias Rausch secures role of president in Saxony-Anhalt after AfD’s election breakthrough Europe live – latest updates Alternative für Deutschland has become Germany’s first far-right party to secure the position of speaker of a regional parliament since the second world war.…",
    "published": "2026-10-06T15:38:58+00:00"
+  },
+  {
+   "id": "fe50533add06",
+   "title": "What is pneumonic plague and how does it spread?",
+   "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The death of a worker from a Russian lab that researches plague has prompted questions about the disease.",
+   "published": "2026-10-06T15:35:22+00:00"
   },
   {
    "id": "49e1be46e84f",
