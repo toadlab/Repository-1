@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T18:36:33.933127+00:00",
+ "generated": "2026-10-07T19:31:36.443304+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -140,15 +140,48 @@
    "published": "2026-10-07T21:23:20+00:00"
   },
   {
-   "id": "69c4b52acbfb",
-   "title": "Trump says he has ‘no regrets’ about endorsing Texas Republican Ken Paxton amid leaked recordings – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
+   "id": "b7557525e2cd",
+   "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+   "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
+   "published": "2026-10-07T19:30:51+00:00"
+  },
+  {
+   "id": "86fc70929d31",
+   "title": "Merit Financial Snags 10th Commonwealth Advisor",
+   "link": "https://www.wealthmanagement.com/ria-news/merit-financial-snags-10th-commonwealth-advisor",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Atlanta-based RIA acquired Moldenhauer & Associates, a New York wealth management practice overseeing $1.1 billion in client assets across nearly 1,900 households.",
+   "published": "2026-10-07T19:29:21+00:00"
+  },
+  {
+   "id": "4bd00f24e507",
+   "title": "French police suspend use of stun grenades at school protests as minister rejects accusations of brutality",
+   "link": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The Republican candidate for Texas US Senate was heard complaining at a fundraiser that the Iran war and high gas prices were hurting his campaign Sign up for the Breaking News US email Tonight, we’ll have another set of midterm debates. In Iowa, we’ll see the Republican…",
-   "published": "2026-10-07T18:34:32+00:00"
+   "summary": "Minister says use of grenades has been stopped after a student lost a hand as protests across France continue How dilapidated are French schools and how bad is inequality in the education system? France’s interior minister has suspended the use of stun grenades by police at…",
+   "published": "2026-10-07T19:19:12+00:00"
+  },
+  {
+   "id": "08083d9fe3f2",
+   "title": "Fidelity: $100M Custody Minimum to Impact a Few Hundred Firms",
+   "link": "https://www.wealthmanagement.com/ria-news/fidelity-s-new-100m-custody-minimum-to-likely-impact-a-few-hundred-firms",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Fidelity pegs the number of advisors that will have to leave its platform by June 2027 as less than 1% of its total clearing and custody assets.",
+   "published": "2026-10-07T19:18:59+00:00"
   },
   {
    "id": "d3f6c1d07c6f",
@@ -159,7 +192,172 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Lawyer says Pike cannot move her arms or swallow, has a blot clot and pneumonia, adding that a request to unshackle her was refused; judge tells Tennessee officials to preserve all evidence from botched execution Christa Pike’s lawyers said that Pike remains shackled to her…",
-   "published": "2026-10-07T18:33:03+00:00"
+   "published": "2026-10-07T19:17:50+00:00"
+  },
+  {
+   "id": "e07dfe67978f",
+   "title": "Two men serving indefinite jail sentences freed after two decades",
+   "link": "https://www.theguardian.com/law/2026/oct/07/two-men-freed-indefinite-sentences-for-public-protection-ipp",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Convicted pair, plus third man released in August, have IPPs replaced after serving much longer than minimum terms Two men jailed with indefinite sentences for public protection (IPPs) have been freed after each serving about two decades in custody despite receiving minimum…",
+   "published": "2026-10-07T19:16:24+00:00"
+  },
+  {
+   "id": "c25a06dc9276",
+   "title": "Microsoft and Nvidia are teaming up on a supercharged AI laptop",
+   "link": "https://www.marketwatch.com/story/microsoft-and-nvidia-are-teaming-up-on-a-supercharged-ai-laptop-f58b28d8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Powered by Nvidia’s RTX Spark chip, the latest Windows laptop is designed to run AI models and workloads directly on the device.",
+   "published": "2026-10-07T19:12:00+00:00"
+  },
+  {
+   "id": "69c4b52acbfb",
+   "title": "Trump says he has ‘no regrets’ about endorsing Texas Republican Ken Paxton amid leaked recordings – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Republican candidate for Texas US Senate was heard complaining at a fundraiser that the Iran war and high gas prices were hurting his campaign Sign up for the Breaking News US email Tonight, we’ll have another set of midterm debates. In Iowa, we’ll see the Republican…",
+   "published": "2026-10-07T19:08:55+00:00"
+  },
+  {
+   "id": "0c686ef41233",
+   "title": "Trump approved the military's 1st firing squad execution since WWII. Why now?",
+   "link": "https://www.npr.org/2026/10/07/nx-s1-5993539/firing-squad-execution-nidal-hasan-fort-hood",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Pentagon says Nidal Hasan will be executed by firing squad in December at Fort Hood, where he killed 13 people in 2009. The announcement came days after a botched lethal injection in Tennessee.",
+   "published": "2026-10-07T19:08:48+00:00"
+  },
+  {
+   "id": "7049908f4079",
+   "title": "Canada to extend assisted dying exclusion for people whose sole condition is mental illness",
+   "link": "https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Legislation an effort by ruling Liberals to address growing clash over who has access to doctor-assisted death Canada’s federal government said Wednesday it would advance legislation to prevent people whose sole health condition is mental illness from accessing euthanasia, an…",
+   "published": "2026-10-07T19:00:44+00:00"
+  },
+  {
+   "id": "4e9c86fad16e",
+   "title": "Schwab Sells Forge Trust to Self-Directed IRA Platform Alto",
+   "link": "https://www.wealthmanagement.com/alternative-investments/schwab-sells-forge-trust-to-self-directed-ira-platform-alto",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The move comes about a year after Schwab bought parent Forge Global Holdings to expand its private market capabilities.",
+   "published": "2026-10-07T19:00:15+00:00"
+  },
+  {
+   "id": "ea6485bacb30",
+   "title": "Ultra-Orthodox rabbi’s anti-Zionist remarks stir Israel election row",
+   "link": "https://www.aljazeera.com/news/2026/10/7/ultra-orthodox-rabbis-anti-zionist-remarks-stir-israel-election-row?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rabbi Dov Lando's comments expose tensions over Zionism, conscription and Netanyahu's ultra-Orthodox allies.",
+   "published": "2026-10-07T18:57:18+00:00"
+  },
+  {
+   "id": "263d53d32d16",
+   "title": "Hill Air Force Base announces official rescheduled date for Warriors Over the Wasatch air show",
+   "link": "https://www.deseret.com/utah/2026/10/07/hill-air-force-base-announces-official-rescheduled-date-for-warriors-over-the-wasatch-air-show/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The biennial Warriors Over the Wasatch Air Show, postponed earlier this year from its original June date, will now officially take place in May 2027.",
+   "published": "2026-10-07T18:48:16+00:00"
+  },
+  {
+   "id": "e056b88bc1b6",
+   "title": "Opinion: Lessons learned from General MacArthur’s transformation of Japan",
+   "link": "https://www.deseret.com/opinion/2026/10/07/world-war-ii-pacific-outcome/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Last month we commemorated the 81st anniversary of Japan’s surrender, ending World War II. The occasion merits remembrance not merely for what it ended, but what it inaugurated: the liberation of the Japanese people, their renunciation of belligerence, their flourishing in a…",
+   "published": "2026-10-07T18:45:20+00:00"
+  },
+  {
+   "id": "ffc91f2a3f77",
+   "title": "Is Our Age of Mass Incarceration Collapsing?",
+   "link": "https://reason.com/2026/10/07/is-our-age-of-mass-incarceration-collapsing/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Researchers say low crime rates by Gen Zers and millennials could keep driving down the prison population for the next two decades.",
+   "published": "2026-10-07T18:45:08+00:00"
+  },
+  {
+   "id": "84066a038b6c",
+   "title": "Witnesses spot Eritrean troops inside northern Ethiopia as tensions flare",
+   "link": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Eritrea dismisses allegation as Ethiopia's pretext for more war.",
+   "published": "2026-10-07T18:43:47+00:00"
+  },
+  {
+   "id": "e3b968af18c4",
+   "title": "Global tipping point in a shipping chokepoint",
+   "link": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/1007/Global-tipping-point-in-a-shipping-chokepoint?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A number of countries that back “innocent passage\" for commercial ships have joined a war in Yemen over control of a vital strait between Asia and Europe.",
+   "published": "2026-10-07T18:43:11+00:00"
+  },
+  {
+   "id": "da2dca1225f0",
+   "title": "Utah homeless services board awards $1.8M to 3 cities for winter shelters",
+   "link": "https://www.deseret.com/lifestyle/2026/10/07/utah-homeless-services-board-awards-18m-to-3-cities-for-winter-shelters/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Utah's Homeless Services Board voted Tuesday to approve more than $1.8 million to three cities that host temporary winter shelter space.",
+   "published": "2026-10-07T18:38:41+00:00"
+  },
+  {
+   "id": "1beb10aac613",
+   "title": "At least 24 killed as Russia launches massive attack on Ukraine",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/at-least-24-killed-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine says Russia launched a massive overnight barrage of 130 drones, 48 cruise missiles and ballistic missiles",
+   "published": "2026-10-07T18:32:08+00:00"
+  },
+  {
+   "id": "8c81b4200951",
+   "title": "Kenya on high alert amid concern over screening after first Ebola death",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/kenya-on-high-alert-amid-concern-over-screening-after-first-ebola-death?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Kenya’s government has intensified Ebola preparedness efforts amid growing concern over lapses in border screening.",
+   "published": "2026-10-07T18:31:57+00:00"
   },
   {
    "id": "b5bcf3ffaec1",
@@ -180,7 +378,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Disney asked a federal court to end the FCC's investigation of its ABC broadcast licenses, which it has called \"pretextual\" and \"reliatory.\"",
+   "summary": "Disney asked a federal court to end the FCC's investigation of its ABC broadcast licenses, which it has called \"pretextual\" and \"retaliatory.\"",
    "published": "2026-10-07T18:30:46+00:00"
   },
   {
@@ -193,6 +391,17 @@
    "flourishing_feed": false,
    "summary": "Kansas is ready for a late kickoff in Salt Lake City. Saturday, the Jayhawks travel to Rice-Eccles Stadium for the first time since 1996, when the Utes, led by quarterback Mike Fouts and running back Chris Fuamatu-Ma’afala, defeated No. 20 Kansas 45-42. Fouts threw the…",
    "published": "2026-10-07T18:30:00+00:00"
+  },
+  {
+   "id": "89a9d3fa3351",
+   "title": "Saudi Arabia says Houthi attacks on airports killed three foreign nationals",
+   "link": "https://www.aljazeera.com/news/2026/10/7/saudi-arabia-says-three-foreign-nationals-killed-in-attacks-on-airports?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Moroccan, Algerian women killed in Abha, Sudanese national killed in Riyadh.",
+   "published": "2026-10-07T18:29:34+00:00"
   },
   {
    "id": "fbf4ce0884a6",
@@ -215,6 +424,39 @@
    "flourishing_feed": false,
    "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
    "published": "2026-10-07T18:27:40+00:00"
+  },
+  {
+   "id": "36476ba18597",
+   "title": "LSD – from counterculture to clinical trials",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/lsd-from-counterculture-to-clinical-trials?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "From psychiatric research to counterculture and secret CIA mind-control experiments, LSD makes its way back to the lab.",
+   "published": "2026-10-07T18:27:12+00:00"
+  },
+  {
+   "id": "eafdc5b07d12",
+   "title": "Most Americans oppose Trump’s taxpayer-funded ‘golden age’ ads: Poll",
+   "link": "https://www.aljazeera.com/news/2026/10/7/most-americans-oppose-trumps-taxpayer-funded-golden-age-ads-poll?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump says he will pay for future ads, but the White House says taxpayers will not be reimbursed for past ones.",
+   "published": "2026-10-07T18:27:09+00:00"
+  },
+  {
+   "id": "8cb494f04e9f",
+   "title": "In El Salvador’s mass trials, lawyers struggle to defend hundreds",
+   "link": "https://www.aljazeera.com/news/2026/10/7/in-el-salvadors-mass-trials-lawyers-struggle-to-defend-hundreds?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Human Rights Watch says defendants face proceedings where lawyers have struggled to access case files.",
+   "published": "2026-10-07T18:26:07+00:00"
   },
   {
    "id": "d003bcca741a",
@@ -281,17 +523,6 @@
    "flourishing_feed": false,
    "summary": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
    "published": "2026-10-07T18:12:58+00:00"
-  },
-  {
-   "id": "4bd00f24e507",
-   "title": "French police suspend use of stun grenades at school protests as minister rejects accusations of brutality",
-   "link": "https://www.theguardian.com/world/2026/oct/07/french-police-suspend-use-stun-grenades-high-school-protester-loses-hand",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Minister says use of grenades has been stopped after a student lost a hand as protests across France continue How dilapidated are French schools and how bad is inequality in the education system? France’s interior minister has suspended the use of stun grenades by police at…",
-   "published": "2026-10-07T18:09:11+00:00"
   },
   {
    "id": "44d42244348f",
@@ -536,17 +767,6 @@
    "published": "2026-10-07T17:32:00+00:00"
   },
   {
-   "id": "b7557525e2cd",
-   "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-   "link": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
-   "published": "2026-10-07T17:29:46+00:00"
-  },
-  {
    "id": "b29cd8ce684f",
    "title": "Over 100 arrested in Belgium student protests over education costs",
    "link": "https://www.aljazeera.com/news/2026/10/7/over-100-arrested-in-belgium-student-protests-over-education-costs?traffic_source=rss",
@@ -666,17 +886,6 @@
    "flourishing_feed": false,
    "summary": "TaxWatch contradicts claims about David Reuben’s departure and questions stories of super-rich exodus Apparent exodus of super-rich suggests UK is no longer billionaires’ playground When the Sunday Times broke the news that David Reuben, one of the richest men in the UK, had…",
    "published": "2026-10-07T17:00:00+00:00"
-  },
-  {
-   "id": "e07dfe67978f",
-   "title": "Two men jailed with indefinite sentences freed after two decades",
-   "link": "https://www.theguardian.com/law/2026/oct/07/two-men-freed-indefinite-sentences-for-public-protection-ipp",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Two, plus third man released in August, have IPPs replaced after serving much longer than minimum terms Two men jailed with indefinite sentences for public protection (IPPs) have been freed after each serving about two decades in custody despite receiving minimum terms of two…",
-   "published": "2026-10-07T16:56:06+00:00"
   },
   {
    "id": "afaacb2ed3bb",
@@ -1456,7 +1665,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "It isn’t hard to see a contradiction between the PM’s message in Fiji and his opposition to legal action to stop a NSW coalmine Get our new political email , free app or daily news podcast There are unlikely to be many bigger moments in Australian action on the climate crisis…",
+   "summary": "It isn’t hard to see a contradiction between the PM’s message in Fiji and his opposition to legal action to stop a NSW coalmine Get our new political email , free app or daily news podcast There are unlikely to be many bigger moments in Australian community action on the…",
    "published": "2026-10-07T14:00:52+00:00"
   },
   {
@@ -2286,7 +2495,7 @@
   },
   {
    "id": "d8a9ee221324",
-   "title": "How did Christa Pike survive two lethal injections - and what happens now?",
+   "title": "What happened in the failed execution of Christa Pike - and how did she survive?",
    "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -7007,6 +7216,17 @@
    "id": "186ebad6362b",
    "title": "A bestselling classicist embarks on a fresh odyssey",
    "link": "https://www.csmonitor.com/Arts-Culture/Books/2026/1006/A-bestselling-classicist-embarks-on-a-fresh-odyssey?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Emily Wilson, the first woman to translate Homer, offers a series of essays that examine modern interpretations of ancient literature.",
+   "published": "2026-10-06T09:00:11+00:00"
+  },
+  {
+   "id": "17fdb5a55575",
+   "title": "A bestselling classicist embarks on a fresh odyssey",
+   "link": "https://www.csmonitor.com/Arts-Culture/Books/2026/1006/emily-wilson-crossing-the-wine-dark-sea-homer-odyssey?icid=rss",
    "source": "Christian Science Monitor",
    "circle_hint": "national",
    "domain_feed": false,
