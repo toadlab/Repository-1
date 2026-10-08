@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T12:40:19.916390+00:00",
+ "generated": "2026-10-08T13:35:56.787343+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,149 @@
  ],
  "items": [
   {
+   "id": "b0dbc2538310",
+   "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
+   "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Bill Hench, of First Eagle, stepped away from the artificial-intelligence trade with small-capitalization bets on a recovery of the U.S. housing construction market.",
+   "published": "2026-10-08T13:34:00+00:00"
+  },
+  {
+   "id": "a439392f000c",
+   "title": "Texas Looks Competitive",
+   "link": "https://reason.com/2026/10/08/texas-looks-competitive/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: AI weirdness, Amazon algorithm data, bond markets, and more...",
+   "published": "2026-10-08T13:30:58+00:00"
+  },
+  {
+   "id": "813ddab03697",
+   "title": "The Diamond Podcast for Financial Advisors: The Wirehouse Talent Battle",
+   "link": "https://www.wealthmanagement.com/recruiting/the-diamond-podcast-for-financial-advisors-the-wirehouse-talent-battle",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Wirehouse advisor movement accelerated sharply in the first half of 2026. Louis and Jason Diamond unpack the numbers, the forces driving them, and what they reveal about an increasingly competitive advisor marketplace.",
+   "published": "2026-10-08T13:18:01+00:00"
+  },
+  {
+   "id": "721ce071533c",
+   "title": "Burnham committed to deeper EU cooperation, he tells Merz – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "UK PM is welcomed by German chancellor on his trip to Berlin in Athens Over in Athens, Marco Rubio, the US secretary of state, has been forced, yet again, to address allegations of misconduct by Kimberly Guilfoyle, America’s ambassador to Greece. Continue reading...",
+   "published": "2026-10-08T13:14:51+00:00"
+  },
+  {
+   "id": "ba728e26ae0f",
+   "title": "Three sisters who drowned in Brighton took their own lives, inquest finds",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/08/three-sisters-drowned-sea-brighton-inquest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jane Adetoro, Christina Walters and Rebecca Walters from London visited late mother’s former home shortly before their deaths in May Three sisters who drowned in the sea in Brighton collectively decided to end their own lives, a coroner has ruled. The bodies of Jane Adetoro,…",
+   "published": "2026-10-08T13:11:01+00:00"
+  },
+  {
+   "id": "049dc7d26696",
+   "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Voters choosing replacement for Keir Starmer, who announced he was standing down last month The UK’s military is too focused on global commitments at the expense of domestic defence, meaning the government’s planned increase in defence spending is likely to result in even…",
+   "published": "2026-10-08T13:10:57+00:00"
+  },
+  {
+   "id": "d4fe01966b88",
+   "title": "Trump’s attempt to ban CNN, Politico, and MS Now from White House to be heard in court – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Federal judge who issued temporary restraining order on the media ban will hold hearing at 11am ET Sign up for the US Breaking News email The federal judge who issued a temporary restraining order, pausing Donald Trump’s ban of CNN, MS Now and Politico from the White House, is…",
+   "published": "2026-10-08T13:04:22+00:00"
+  },
+  {
+   "id": "8acb4d9a4a2e",
+   "title": "Medium-term borrowing costs for UK government hit 19-year high",
+   "link": "https://www.theguardian.com/business/2026/oct/08/medium-term-borrowing-costs-uk-government-19-year-high",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Investors offload global bonds amid fears of rising inflation, increasing pressure on John Healey ahead of first budget Business live – latest updates Medium-term borrowing costs for the UK government hit a fresh 19-year high on Thursday, as investors continued to offload…",
+   "published": "2026-10-08T12:47:49+00:00"
+  },
+  {
+   "id": "53904c9961c6",
+   "title": "Who will benefit more from AI agents when it comes to spending – companies or you?",
+   "link": "https://www.marketwatch.com/story/who-will-benefit-more-from-ai-agents-when-it-comes-to-spending-companies-or-you-cec597ed?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "There’s an agent arms race unfolding, supercharging the battle for your wallet",
+   "published": "2026-10-08T12:47:00+00:00"
+  },
+  {
+   "id": "e7bbbe444e49",
+   "title": "Two killed after building partially collapses in Turkiye’s Istanbul",
+   "link": "https://www.aljazeera.com/news/2026/10/8/two-killed-after-building-partially-collapses-in-turkiye-capital?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Eight survivors rescued from the rubble as fears of further collapse slow operations in Istanbul’s Maltepe district.",
+   "published": "2026-10-08T12:44:52+00:00"
+  },
+  {
+   "id": "f61b610f3354",
+   "title": "South Korea to recall Ukraine envoy in diplomatic row over POWs",
+   "link": "https://www.aljazeera.com/news/2026/10/8/south-korea-recalls-envoy-to-kyiv-over-diplomatic-row-with-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "South Korea recalls envoy from Kyiv amid diplomatic tensions over alleged transfer of North Korean soldiers to Seoul.",
+   "published": "2026-10-08T12:44:31+00:00"
+  },
+  {
+   "id": "16c67f2bd64e",
+   "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+   "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine accused Russia of targeting the crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+   "published": "2026-10-08T12:43:56+00:00"
+  },
+  {
+   "id": "1bbee1153150",
+   "title": "Christa Pike is ‘up and walking’ for first time after failed execution, lawyer says",
+   "link": "https://www.theguardian.com/us-news/2026/oct/08/christa-pike-health-update",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Recovery marks a dramatic turnaround for Pike, who remains in hospital after a botched execution in Tennessee Christa Pike is “up and walking” in hospital, her lawyer said, just more than a week after she survived two lethal injections during a botched execution in Tennessee.…",
+   "published": "2026-10-08T12:32:46+00:00"
+  },
+  {
    "id": "4c64d76fc33d",
    "title": "Italy overhauls electoral system after fiercely contested debate",
    "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
@@ -162,37 +305,26 @@
    "published": "2026-10-08T12:30:00+00:00"
   },
   {
-   "id": "b0dbc2538310",
-   "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
-   "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Bill Hench, of First Eagle, stepped away from the artificial-intelligence trade with small-capitalization bets on a recovery of the U.S. housing construction market.",
-   "published": "2026-10-08T12:24:00+00:00"
-  },
-  {
-   "id": "ba728e26ae0f",
-   "title": "Three sisters who drowned in Brighton took their own lives, inquest finds",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/08/three-sisters-drowned-sea-brighton-inquest",
+   "id": "67360708a190",
+   "title": "First Thing: Trump endures protests in Texas as DNC sues over adverts",
+   "link": "https://www.theguardian.com/us-news/2026/oct/08/first-thing-trump-endures-protests-in-texas-dnc-sues-over-adverts",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Jane Adetoro, Christina Walters and Rebecca Walters from London visited late mother’s former home shortly before their deaths in May Three sisters who drowned in the sea in Brighton collectively decided to end their own lives, a coroner has ruled. The bodies of Jane Adetoro,…",
-   "published": "2026-10-08T12:20:54+00:00"
+   "summary": "The president was repeatedly interrupted at a rally, and faces a legal challenge over taxpayer-funded adverts. Plus Jonathan the giant tortoise, who may have the secret to longevity Good morning. Donald Trump suffered a torrid night at a rally in Texas that was rocked by…",
+   "published": "2026-10-08T12:28:54+00:00"
   },
   {
-   "id": "049dc7d26696",
-   "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates",
-   "source": "The Guardian World",
+   "id": "5a61ddcf51fe",
+   "title": "UK’s Burnham ‘open’ to Germany joining GCAP fighter jet programme",
+   "link": "https://www.aljazeera.com/news/2026/10/8/uks-burnham-open-to-germany-joining-gcap-fighter-jet-programme?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Voters choosing replacement for Keir Starmer, who announced he was standing down last month The UK’s military is too focused on global commitments at the expense of domestic defence, meaning the government’s planned increase in defence spending is likely to result in even…",
-   "published": "2026-10-08T12:20:24+00:00"
+   "summary": "GCAP pact between the UK, Italy and Japan to build a new fighter jet welcomed Canada as an ‘observer' in July",
+   "published": "2026-10-08T12:27:21+00:00"
   },
   {
    "id": "7475b2a66ac8",
@@ -202,19 +334,8 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Recent death of 87-year-old woman likely to focus attention on crisis in run-up to general election at end of November Europe live – latest updates Even before María del Carmen Abascal died on Wednesday night , a mere fortnight after her eviction from the Madrid flat where she…",
+   "summary": "Recent death of 87-year-old woman likely to focus attention on crisis in run-up to election at end of November Europe live – latest updates Even before María del Carmen Abascal died on Wednesday night , a mere fortnight after her eviction from the Madrid flat where she had…",
    "published": "2026-10-08T12:16:06+00:00"
-  },
-  {
-   "id": "721ce071533c",
-   "title": "Burnham committed to deeper EU cooperation, he tells Merz – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "UK PM is welcomed by German chancellor on his trip to Berlin in Athens Over in Athens, Marco Rubio, the US secretary of state, has been forced, yet again, to address allegations of misconduct by Kimberly Guilfoyle, America’s ambassador to Greece. Continue reading...",
-   "published": "2026-10-08T12:15:27+00:00"
   },
   {
    "id": "96721c2e8ff4",
@@ -272,26 +393,15 @@
    "published": "2026-10-08T12:10:32+00:00"
   },
   {
-   "id": "d4fe01966b88",
-   "title": "USS Lincoln carrier to return to port in San Diego after record-breaking deployment – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Vessel spent over 260 consecutive days at sea without a port call, a US navy record Sign up for the US Breaking News email Marco Rubio, the US Secretary of State, has been forced to yet again address allegations of misconduct by Kimberly Guilfoyle, America’s ambassador to…",
-   "published": "2026-10-08T12:08:26+00:00"
-  },
-  {
-   "id": "16c67f2bd64e",
-   "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
-   "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+   "id": "fdcfd2225324",
+   "title": "Teacher who sexually abused pupil back in Indonesia jail after BBC investigation",
+   "link": "https://www.bbc.co.uk/news/articles/ckgel9r341gdo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
-   "published": "2026-10-08T12:06:57+00:00"
+   "summary": "Mochamad Subchi Azal Tsani had been secretly released on parole in 2025, after serving less than half his sentence.",
+   "published": "2026-10-08T12:04:25+00:00"
   },
   {
    "id": "76b51d942209",
@@ -702,7 +812,7 @@
   },
   {
    "id": "4c1e2db570ac",
-   "title": "Russian attack on buses in Ukraine’s Kramatorsk kills at least 33 people",
+   "title": "Russian attack on buses in Ukraine’s Kramatorsk kills at least 30 people",
    "link": "https://www.aljazeera.com/news/2026/10/8/russia-attack-in-ukraines-kramatorsk-kills-12?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -3889,6 +3999,17 @@
    "flourishing_feed": false,
    "summary": "The 4A boys golf regular season came to a close this week with the final region tournaments of the season. The focus is now centers on the 4A state tournament at Palisade Golf Course in Sterling next Wednesday and Thursday. Uintah, Dixie, East and Ridgeline won their respective…",
    "published": "2026-10-07T16:07:14+00:00"
+  },
+  {
+   "id": "347f11e37129",
+   "title": "Report on September Meeting",
+   "link": "https://www.finra.org/about/governance/finra-board-governors/meetings/report-from-finra-board-of-governors-sept-2026-meeting",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Report on September Meeting K30658 Wed, 10/07/2026 - 12:05 October 8, 2026 The FINRA Board of Governors held its third quarterly meeting last week, and I am pleased to share several updates. Rulemaking The following rule proposals were among the items the Board approved for…",
+   "published": "2026-10-07T16:05:06+00:00"
   },
   {
    "id": "a65bd5765ad0",
