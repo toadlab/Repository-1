@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T05:31:42.364254+00:00",
+ "generated": "2026-10-08T06:39:25.392124+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,127 @@
  ],
  "items": [
   {
+   "id": "51f04690b77a",
+   "title": "Trump proposes Camp David-style presidential retreat at his private Florida golf club",
+   "link": "https://www.npr.org/2026/10/08/g-s1-147101/trump-presidential-retreat-golf-club",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Trump said he wants to develop one of his Florida golf courses into a presidential retreat where his successors can spend quiet weekends, describing it as \"sort of a Camp David.\"",
+   "published": "2026-10-08T06:27:50+00:00"
+  },
+  {
+   "id": "2a2e538c5b1a",
+   "title": "How October 7 redrew the map of the Middle East",
+   "link": "https://www.aljazeera.com/news/2026/10/8/how-october-7-redrew-the-map-of-the-middle-east?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three years of war have upended alliances, weakened US influence and reshaped the region’s power balance.",
+   "published": "2026-10-08T06:11:24+00:00"
+  },
+  {
+   "id": "995a2cbfc803",
+   "title": "What did Palestinians take when they fled after October 7?",
+   "link": "https://www.aljazeera.com/gallery/longform/2026/10/8/what-did-palestinians-take-when-they-fled-after-october-7?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Palestinians displaced by war chose cherished items, revealing poignant stories amid devastation in Gaza.",
+   "published": "2026-10-08T06:08:05+00:00"
+  },
+  {
+   "id": "f602afcc6807",
+   "title": "University students say procrastination is biggest threat to their academic performance",
+   "link": "https://www.theguardian.com/education/2026/oct/08/university-students-procrastination-biggest-threat-academic-performance",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than half of US students surveyed said the problem damaged their ability to do academic work, study finds Procrastination is the biggest problem that can harm students’ academic performance at university, according to a study of more than 65,000 young people who placed it…",
+   "published": "2026-10-08T06:00:12+00:00"
+  },
+  {
+   "id": "e8ce828986ed",
+   "title": "Voting opens in high-stakes Holborn and St Pancras byelection",
+   "link": "https://www.theguardian.com/politics/2026/oct/08/voting-opens-holborn-st-pancras-byelection-green-party-zack-polanksi-labour-sagal-abdi-wali",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Zack Polanski has led energetic campaign for the Greens, while Labour will hope to hold on to Starmer’s old seat Voting has opened in the Holborn and St Pancras byelection, a contest seen as a key gauge of Andy Burnham’s ability to energise voters and whether Zack Polanski’s…",
+   "published": "2026-10-08T06:00:12+00:00"
+  },
+  {
+   "id": "b40889d23d42",
+   "title": "UK’s military needs to focus spending on domestic defence, not overseas missions – report",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/08/uk-military-domestic-defence-overseas-missions-thinktank-report",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Thinktank says Britain’s drive towards global commitments is symptom of ‘outdated foreign policy’ The UK’s military is too focused on global commitments at the expense of domestic defence, meaning the government’s planned increase in defence spending is likely to…",
+   "published": "2026-10-08T06:00:11+00:00"
+  },
+  {
+   "id": "76b4ae2ece97",
+   "title": "Maricarmen, the 87-year-old woman whose eviction shook Spain, has died",
+   "link": "https://www.npr.org/2026/10/08/nx-s1-5994868/maricarmen-eviction-spain-dies",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "María del Carmen Abascal, the 87-year-old woman whose eviction from her Madrid home sparked nationwide protests across Spain and unleashed a political crisis, died on Wednesday while hospitalized.",
+   "published": "2026-10-08T05:56:02+00:00"
+  },
+  {
+   "id": "ee1e7b426d22",
+   "title": "3 takeaways from Utah basketball’s exhibition opener at UNLV",
+   "link": "https://www.deseret.com/sports/2026/10/07/utah-basketball-three-takeaways-exhibition-game-unlv/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A new group of Utah basketball players got its first taste of facing someone else Wednesday night, as the Runnin’ Utes opened exhibition play with a 79-69 win over UNLV in Las Vegas. Here are three takeaways from Utah’s victory at the Thomas & Mack Center. “The exhibition games…",
+   "published": "2026-10-08T05:49:21+00:00"
+  },
+  {
+   "id": "0f4f2c9ec20e",
+   "title": "Thursday briefing: Why young people are taking to the streets across France",
+   "link": "https://www.theguardian.com/world/2026/oct/08/thursday-briefing-why-young-people-are-taking-to-the-streets-across-france",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In today’s newsletter: A youth-led movement is protesting crumbling school buildings and teacher shortages while turning adult focus onto wider educational inequalities Good morning. In my experience, at any protest, the most memorable and encapsulating slogans are always the…",
+   "published": "2026-10-08T05:43:48+00:00"
+  },
+  {
+   "id": "3b444cda8e82",
+   "title": "Why single Ebola death in Kenya has prompted fears of wider African spread",
+   "link": "https://www.aljazeera.com/news/2026/10/8/why-single-ebola-death-in-kenya-has-sparked-fears-of-wider-african-spread?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "According to the WHO, the Kenyan patient first got sick in the DRC, where they had been living, and was treated there.",
+   "published": "2026-10-08T05:34:34+00:00"
+  },
+  {
+   "id": "24e6b9c3cb9c",
+   "title": "NSW police commissioner made last-minute bid to hold closed-door hearings into Sydney anti-Herzog protest",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/08/nsw-police-commissioner-lanyon-bid-stop-public-inquiry-sydney-anti-herzog-protest-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police watchdog says Mal Lanyon’s timing in raising the issue was ‘regrettable’ and led to delays Get our breaking news email , free app or daily news podcast The New South Wales police commissioner made a last-minute bid to hold hearings into Sydney’s anti-Herzog protest…",
+   "published": "2026-10-08T05:30:47+00:00"
+  },
+  {
    "id": "32826fa27eae",
    "title": "Isaias strengthens into the first hurricane of the Atlantic season",
    "link": "https://www.npr.org/2026/10/08/g-s1-147095/weather-hurricane-season",
@@ -138,6 +259,17 @@
    "flourishing_feed": false,
    "summary": "The National Hurricane Center said late Wednesday that the hurricane was on track to strike the U.S. Gulf Coast later in the week. It's expected to bring heavy rains and potentially flash flooding.",
    "published": "2026-10-08T05:22:15+00:00"
+  },
+  {
+   "id": "2ac7d1b928a8",
+   "title": "Margaret Hamilton, whose software helped land Apollo 11 on the Moon, dies at 90",
+   "link": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pioneering computer scientist led the development of the software for Nasa's Apollo mission and was awarded the Presidential Medal of Freedom.",
+   "published": "2026-10-08T05:10:40+00:00"
   },
   {
    "id": "733cd1b3cccd",
@@ -171,6 +303,17 @@
    "flourishing_feed": false,
    "summary": "Election officials using the federal SAVE database to verify voter rolls have encountered problems.",
    "published": "2026-10-08T05:01:00+00:00"
+  },
+  {
+   "id": "64542f3c2752",
+   "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+   "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information.",
+   "published": "2026-10-08T05:00:44+00:00"
   },
   {
    "id": "fd63a5032765",
@@ -317,7 +460,7 @@
   },
   {
    "id": "3354a51d9955",
-   "title": "France's school protests: what lies behind the anger",
+   "title": "France's school protests: What lies behind the anger",
    "link": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -636,7 +779,7 @@
   },
   {
    "id": "852aba6fb865",
-   "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
+   "title": "Spanish pensioner whose eviction sparked nationwide protests dies",
    "link": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -723,6 +866,17 @@
    "published": "2026-10-07T23:31:00+00:00"
   },
   {
+   "id": "6ee64cfd5fba",
+   "title": "Why Zimbabwe tycoon 'Sir Wicknell' was loved and hated in Africa",
+   "link": "https://www.bbc.co.uk/news/articles/c3x2wlplnelxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Wicknell Chivayo divided opinion in life and continues to do so in death.",
+   "published": "2026-10-07T23:29:15+00:00"
+  },
+  {
    "id": "7a8345602dde",
    "title": "Christa Pike was nearly taken off life support before waking, lawyers say",
    "link": "https://www.aljazeera.com/news/2026/10/7/christa-pike-was-nearly-taken-off-life-support-before-waking-lawyers-say?traffic_source=rss",
@@ -732,6 +886,17 @@
    "flourishing_feed": false,
    "summary": "Death row inmate who survived execution by lethal injection is said to be 'angry and confused' about what happened.",
    "published": "2026-10-07T23:20:01+00:00"
+  },
+  {
+   "id": "f17ae9a73257",
+   "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+   "link": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies.",
+   "published": "2026-10-07T23:18:40+00:00"
   },
   {
    "id": "0813b1d6af70",
