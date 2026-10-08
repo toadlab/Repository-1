@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T09:33:29.426427+00:00",
+ "generated": "2026-10-08T10:34:17.469930+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 24
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,83 @@
  ],
  "items": [
   {
+   "id": "08fc6bca13ab",
+   "title": "Can Europe Deter Putin?",
+   "link": "https://thedispatch.com/newsletter/morning/can-europe-deter-putin/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: Hormuz tanker attacks hit a wartime high, the U.S. presses Russia over a plague lab death, and fishing for cocaine.",
+   "published": "2026-10-08T10:32:43+00:00"
+  },
+  {
+   "id": "f82cfd52032a",
+   "title": "A true ‘nuclear renaissance’ is taking shape, and these stocks could be big winners",
+   "link": "https://www.marketwatch.com/story/a-true-nuclear-renaissance-is-taking-shape-and-these-stocks-could-be-big-winners-e04f7364?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The nuclear-energy industry has been having a moment, but analysts say some companies look better positioned than others to capitalize on a wave of AI-fueled demand.",
+   "published": "2026-10-08T10:30:00+00:00"
+  },
+  {
+   "id": "d4fe01966b88",
+   "title": "USS Lincoln carrier to return to port in San Diego after record-breaking deployment – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Vessel spent over 260 consecutive days at sea without a port call, a US navy record As Donald Trump struggled to end the war with Iran, and the Lincoln’s deployment dragged on, reports emerged over the summer of shortages of food and basic supplies, and deteriorating mental…",
+   "published": "2026-10-08T10:17:10+00:00"
+  },
+  {
+   "id": "16c67f2bd64e",
+   "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+   "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
+   "published": "2026-10-08T10:16:33+00:00"
+  },
+  {
+   "id": "39692cd67e3b",
+   "title": "Russian attack on two buses kills 30 near Ukraine frontline",
+   "link": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Authorities say 18 people also wounded after incident in Kramatorsk in country’s ‘fortess belt’ Europe live – latest updates Thirty people have been killed after Russia struck two passenger buses in Kramatorsk, near the frontline in eastern Ukraine, according to local…",
+   "published": "2026-10-08T10:16:13+00:00"
+  },
+  {
+   "id": "2d06b60c94ae",
+   "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+   "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“Both properties will be solely in his name.”",
+   "published": "2026-10-08T10:15:00+00:00"
+  },
+  {
+   "id": "5a9dcd933802",
+   "title": "ICE has quietly used this warehouse as a detention facility all summer, neighbors say",
+   "link": "https://www.npr.org/2026/10/08/nx-s1-5983441/ice-warehouses-new-jersey-roxbury",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Throughout the summer, rumors have been bubbling in North New Jersey that ICE has quietly been using a warehouse as a detention center. NPR investigated.",
+   "published": "2026-10-08T10:13:18+00:00"
+  },
+  {
    "id": "721ce071533c",
    "title": "French high school protests continue despite PM’s promise of action – Europe live",
    "link": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
@@ -136,8 +213,305 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Demonstrators have rejected a promise by Sébastien Lecornu to present a plan to fix the country’s education system by the end of the month We are getting reports of another knife attack at a school in Poland. The incident took place in Leszczydół-Nowiny, east-central Poland,…",
-   "published": "2026-10-08T09:18:05+00:00"
+   "summary": "Demonstrators have rejected a promise by Sébastien Lecornu to present a plan to fix the country’s education system by the end of the month The French protests are also spilling over the border to Belgium, particularly Brussels and Liège, Reuters and broadcaster RTBF reported.…",
+   "published": "2026-10-08T10:11:15+00:00"
+  },
+  {
+   "id": "be550bae64bd",
+   "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+   "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
+   "published": "2026-10-08T10:07:58+00:00"
+  },
+  {
+   "id": "049dc7d26696",
+   "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Voters choosing replacement for Keir Starmer, who announced he was standing down last month Ed Miliband is in Kyiv this morning. There’s scant information about what he’s actually doing there, other than “make clear the UK’s unwavering support for Ukraine”, as the Foreign…",
+   "published": "2026-10-08T10:07:04+00:00"
+  },
+  {
+   "id": "aa75e464d621",
+   "title": "The Democrats' Socialist Moment",
+   "link": "https://reason.com/2026/10/08/the-democrats-summer-of-socialism/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The DSA is set to grow its influence in government after the 2026 elections.",
+   "published": "2026-10-08T10:00:31+00:00"
+  },
+  {
+   "id": "79897685b6fc",
+   "title": "How much does France spend on education compared with the rest of Europe?",
+   "link": "https://www.aljazeera.com/news/2026/10/8/how-much-does-france-spend-on-education-compared-with-the-rest-of-europe?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Amid student protests, Al Jazeera visualises how French spending stacks up against defence and healthcare.",
+   "published": "2026-10-08T10:00:21+00:00"
+  },
+  {
+   "id": "9800e0d01fec",
+   "title": "USS Abraham Lincoln scheduled to dock in San Diego after harrowing stretch at sea",
+   "link": "https://www.theguardian.com/us-news/2026/oct/08/uss-abraham-lincoln-dock-san-diego",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Deployment for nearly a year was marked by reports of supply shortages, and deteriorating morale and mental health among crew The USS Abraham Lincoln, the US aircraft carrier that has been deployed for nearly a year and has spent months supporting US military operations against…",
+   "published": "2026-10-08T10:00:17+00:00"
+  },
+  {
+   "id": "7ab6a3f71792",
+   "title": "‘System is rigged’: Democrat Sherrod Brown puts datacenter danger at heart of populist Senate bid",
+   "link": "https://www.theguardian.com/us-news/2026/oct/08/sherrod-brown-ohio-senate",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ohio former senator attacks Republican rival as the ‘face of datacenters’ as he wraps AI concerns into pro-worker message Sherrod Brown, the Democratic former senator from Ohio hoping to return to office in November’s midterm elections, has spent the past year traveling across…",
+   "published": "2026-10-08T10:00:17+00:00"
+  },
+  {
+   "id": "06b0f3d223ce",
+   "title": "Supermarket shake-up: why Asda or Morrisons could vanish within a decade",
+   "link": "https://www.theguardian.com/business/2026/oct/08/supermarket-shakeup-big-brands-ripe-merger",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Talks between Sainsbury’s and Morrisons have set industry tongues wagging, with analysts saying the market is ripe for change Tesco lifts profit forecast and says shoppers are resilient Business live – latest updates They may be two of the most recognisable brands in Britain,…",
+   "published": "2026-10-08T10:00:16+00:00"
+  },
+  {
+   "id": "9582c19bc590",
+   "title": "Wirehouses Lost 517 Advisors in First Half of 2026",
+   "link": "https://www.wealthmanagement.com/wirehouse-news/wirehouses-lost-517-advisors-in-first-half-of-2026",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "But the headline numbers don’t capture the size of teams leaving the wirehouses and mask significant differences by firm, according to a Diamond Consultants report.",
+   "published": "2026-10-08T10:00:10+00:00"
+  },
+  {
+   "id": "b731ba41ac79",
+   "title": "Trump administration’s proposed price tag for international students in work program: $70K",
+   "link": "https://www.deseret.com/education/2026/10/08/homeland-security-international-students-colleges-fees/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Many American colleges and universities are feeling deep fiscal strains amid declining enrollments, public skepticism about the value of higher education, and federal research funding cuts. Now their operating costs could increase if a Trump administration proposal regarding…",
+   "published": "2026-10-08T10:00:01+00:00"
+  },
+  {
+   "id": "75d20c398a63",
+   "title": "Opinion: A sports hero worthy of the title",
+   "link": "https://www.deseret.com/opinion/2026/10/08/wembanyama-deserves-praise-for-standing-against-gambling/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At a time when gambling seems to saturate the U.S. sports market, when celebrity endorsements urge people to throw away hard-earned money, and when betting scandals that fix the outcomes of games have become commonplace, Victor Wembanyama should be celebrated. The French…",
+   "published": "2026-10-08T10:00:01+00:00"
+  },
+  {
+   "id": "20f694f28a8b",
+   "title": "‘A real spark for the West’: How Sen. Lummis wants to be remembered after decadeslong career",
+   "link": "https://www.deseret.com/politics/2026/10/08/how-cynthia-lummis-became-spark-from-west/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Wyoming Sen. Cynthia Lummis is no stranger to the world of politics. Her storied career has taken her across the country, spanning all levels of government — while making history along the way. She’s notched several victories, but there have been moments of defeat as well. In…",
+   "published": "2026-10-08T10:00:00+00:00"
+  },
+  {
+   "id": "67adab6d742b",
+   "title": "Kyle Whittingham’s ‘train wreck’ and Morgan Scalley’s seamless transition",
+   "link": "https://www.deseret.com/sports/2026/10/08/michigan-coach-kyle-whittingham-struggles-while-protege-morgan-scalley-thrives/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For better or worse, the fortunes of Utah’s new head coach Morgan Scalley and Michigan’s new head coach Kyle Whittingham are linked. It’s the mentor and the protege, the old man and the young(er) man, the former boss and the underling. Whittingham coached Scalley as a player,…",
+   "published": "2026-10-08T10:00:00+00:00"
+  },
+  {
+   "id": "3b2565fdb040",
+   "title": "Opinion: The rise of the casual criminal",
+   "link": "https://www.deseret.com/opinion/2026/10/08/rise-of-the-casual-criminal-dine-and-dash-shoplifting-microlooting/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A version of this article was first published in the Right to the Point newsletter. Sign up to receive the newsletter in your inbox every Wednesday morning and to vote in subscriber-only polls. Violent crime has declined in major cities across the U.S., and the Trump…",
+   "published": "2026-10-08T10:00:00+00:00"
+  },
+  {
+   "id": "6006f29ac466",
+   "title": "Club Med, a Disney Cruise and an Exploding Starship: SpaceX Used Bystander Videos to Track Falling Debris",
+   "link": "https://www.propublica.org/article/spacex-starship-caribbean-explosion-report",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post Club Med, a Disney Cruise and an Exploding Starship: SpaceX Used Bystander Videos to Track Falling Debris appeared first on ProPublica .",
+   "published": "2026-10-08T10:00:00+00:00"
+  },
+  {
+   "id": "1acba86a973b",
+   "title": "How My Church Revived Our Sunday School",
+   "link": "https://www.christianitytoday.com/2026/10/how-my-church-revived-our-sunday-school/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sunday school was nearly empty. Our teachers prepared lessons every week and announced them in the church newsletter. Yet three years after the pandemic, adult attendance averaged about 15 in a church with over 300 members. And sometimes, there were no children. “Zero kids?” I…",
+   "published": "2026-10-08T10:00:00+00:00"
+  },
+  {
+   "id": "b4dcf8984462",
+   "title": "Kenyan Churches Combat Abandonment, Suicide Among Older Men",
+   "link": "https://www.christianitytoday.com/2026/10/kenyan-churches-combat-abandonment-suicide-among-older-men/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "When Victor Wanjala lost his job in 2010, he lost everything, including his marriage and savings. The father of eight from Trans-Nzoia County, Kenya, worked nearly four decades as a customs officer. His job enabled him to pay for his children’s education, support relatives…",
+   "published": "2026-10-08T10:00:00+00:00"
+  },
+  {
+   "id": "043519eba838",
+   "title": "How Self-Employed Deductions Impact Your Mortgage",
+   "link": "https://www.kiplinger.com/taxes/tax-deductions/self-employed-deductions-could-sink-your-mortgage-application",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Your business deductions can play a complicated role in determining your qualifying income. But there are ways around this issue with the right strategy and the right lender.",
+   "published": "2026-10-08T10:00:00+00:00"
+  },
+  {
+   "id": "3d9a359c4b06",
+   "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+   "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
+   "published": "2026-10-08T09:56:02+00:00"
+  },
+  {
+   "id": "c0d2a86262dd",
+   "title": "Rethinking Humanitarianism | What Palestinians want for Gaza’s future",
+   "link": "https://www.thenewhumanitarian.org/podcasts/2026/10/08/rethinking-humanitarianism-what-palestinians-want-gazas-future",
+   "source": "The New Humanitarian",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As the US leads Gaza reconstruction talks amid an ongoing genocide, we ask Palestinians what they want for their future and how humanitarians should support them.",
+   "published": "2026-10-08T09:53:11+00:00"
+  },
+  {
+   "id": "777de511bff9",
+   "title": "Samsung just did something no tech company has ever done, and investors still aren’t satisfied",
+   "link": "https://www.marketwatch.com/story/samsung-just-did-something-no-tech-company-has-ever-done-and-investors-still-arent-satisfied-3ff5ecb2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Since the stock peaked in June, Samsung shareholders have been unimpressed with record profits and shareholder return programs.",
+   "published": "2026-10-08T09:50:00+00:00"
+  },
+  {
+   "id": "c1184bcdcfc7",
+   "title": "UK police charge Royal Navy member accused of working with foreign power",
+   "link": "https://www.aljazeera.com/news/2026/10/8/uk-police-charge-royal-navy-member-accused-of-working-with-foreign-power?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police say the incident is not connected to ongoing investigations at the RAF Fairford airbase.",
+   "published": "2026-10-08T09:40:10+00:00"
+  },
+  {
+   "id": "6f14a2f7856f",
+   "title": "New direct train services from London to Wrexham and Rochdale rejected",
+   "link": "https://www.theguardian.com/business/2026/oct/08/wrexham-rochdale-train-services-rejected-west-coast-line-blackpool-london",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Regulator also vetoes extra Blackpool service, citing lack of space on west coast mainline for new direct trains to capital Business live – latest updates Plans to run direct train services to Wrexham and Rochdale from London have been rejected by the rail regulator because of…",
+   "published": "2026-10-08T09:38:00+00:00"
+  },
+  {
+   "id": "9a9e4e4711b4",
+   "title": "Bosnia’s political future looks increasingly like its past",
+   "link": "https://www.aljazeera.com/opinions/2026/10/8/bosnias-political-future-looks-increasingly-like-its-past?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three nationalist parties are poised to dominate again, deepening fears of division and paralysis.",
+   "published": "2026-10-08T09:37:07+00:00"
+  },
+  {
+   "id": "072591cec517",
+   "title": "Oil prices are jumping again. How the S&P 500 has performed on days crude has seen big gains may be surprising.",
+   "link": "https://www.marketwatch.com/story/oil-prices-are-jumping-again-how-the-s-p-500-has-performed-on-days-crude-has-seen-big-gains-may-be-surprising-283555c1?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The S&P 500 moves on days oil prices have gained 3% may come as a surprise.",
+   "published": "2026-10-08T09:33:00+00:00"
+  },
+  {
+   "id": "936511148e66",
+   "title": "French bonds are suffering through their worst decade since 1803 — and investors are bracing for more pain",
+   "link": "https://www.marketwatch.com/story/french-bonds-are-suffering-through-its-worst-decade-since-1803-and-investors-are-bracing-for-more-pain-63df8fe7?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The spread between France’s 10-year government bond and Germany’s equivalent reached its widest last week in available Bloomberg data, dating back to 1990.",
+   "published": "2026-10-08T09:32:00+00:00"
+  },
+  {
+   "id": "d0f0b58b6073",
+   "title": "Royal Navy service member charged with spying",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/08/royal-navy-serviceman-arrested-under-national-security-act",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Teddy Young, 24, from Bedfordshire, charged under National Security Act after arrest by counter-terror police A serving member of the Royal Navy has been charged with spying, police have said. Teddy Young, 24, will appear today at Westminster magistrates’ court after he was…",
+   "published": "2026-10-08T09:24:47+00:00"
+  },
+  {
+   "id": "ed371d1ae05b",
+   "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
+   "link": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "UK and Israel back away from full diplomatic confrontation, though British presence in Palestine will be much reduced UK politics live – latest updates Israel and the UK have backed away from a full-scale diplomatic confrontation, with Britain announcing it is rebranding its…",
+   "published": "2026-10-08T09:20:59+00:00"
   },
   {
    "id": "6a4182a2783a",
@@ -149,17 +523,6 @@
    "flourishing_feed": false,
    "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
    "published": "2026-10-08T09:15:00+00:00"
-  },
-  {
-   "id": "049dc7d26696",
-   "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Voters choosing replacement for Keir Starmer, who announced he was standing down last month Labour’s flagship changes to special education in England are at risk of unravelling because parents are rushing to secure support for their children before the system changes, new…",
-   "published": "2026-10-08T09:13:47+00:00"
   },
   {
    "id": "90eeee9744f1",
@@ -193,6 +556,17 @@
    "flourishing_feed": false,
    "summary": "There’s a saying at the Indiana Department of Administration: One man’s trash is another man’s treasure. The stack of broken chairs in storage at the IDOA State Surplus Warehouse may be useless to the 30,000 state employees who once sat in them, but the chairs are a popular…",
    "published": "2026-10-08T09:00:36+00:00"
+  },
+  {
+   "id": "d65467aaa9a9",
+   "title": "Jon Rahm to quit LIV Golf tour over ‘unacceptable’ terms",
+   "link": "https://www.aljazeera.com/sports/2026/10/8/jon-rahm-to-quit-liv-golf-tour-over-unacceptable-terms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "'Rahm has reviewed the proposed terms of LIV 2.0 and has determined that they are unacceptable,' his lawyer said.",
+   "published": "2026-10-08T09:00:30+00:00"
   },
   {
    "id": "be8a72d4533a",
@@ -316,6 +690,17 @@
    "published": "2026-10-08T09:00:00+00:00"
   },
   {
+   "id": "4e775d7c7a32",
+   "title": "How 'Musk' director Alex Gibney became a critic",
+   "link": "https://www.npr.org/2026/10/07/nx-s1-5960380/musk-film-alex-gibney",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A trove of documents and interviews with people close to tech billionaire Elon Musk reveal a damning picture of his rise as one of the world's richest and most powerful men.",
+   "published": "2026-10-08T08:45:37+00:00"
+  },
+  {
    "id": "3f7fcaf242d7",
    "title": "Oil prices rise sharply on Middle East tensions and US hurricane threat",
    "link": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
@@ -339,7 +724,7 @@
   },
   {
    "id": "641f64b4c17d",
-   "title": "How Gaza war sped up India’s shift towards Israel under Modi",
+   "title": "Gaza war sped up India’s shift towards Israel under Modi",
    "link": "https://www.aljazeera.com/news/2026/10/8/how-gaza-war-sped-up-indias-shift-towards-israel-under-modi?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -378,7 +763,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Finance minister, Roland Lescure, welcomes Burnham’s pledge to explore closer ties with bloc The French finance minister has invited the UK to “come all the way back” to the European Union after Andy Burnham raised the prospect of a new referendum to reverse Brexit. Roland…",
+   "summary": "Finance minister, Roland Lescure, welcomes Burnham’s pledge to explore closer ties with bloc Europe live – latest updates The French finance minister has invited the UK to “come all the way back” to the European Union after Andy Burnham raised the prospect of a new referendum…",
    "published": "2026-10-08T08:24:00+00:00"
   },
   {
@@ -470,17 +855,6 @@
    "published": "2026-10-08T08:00:02+00:00"
   },
   {
-   "id": "d0f0b58b6073",
-   "title": "Royal Navy service member charged with spying",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/08/royal-navy-serviceman-arrested-under-national-security-act",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Teddy Young, 24, from Bedfordshire, charged under National Security Act after arrest by counter-terror police A serving member of the Royal Navy has been charged with spying, police have said. Teddy Young, 24, will appear today at Westminster magistrates’ court after he was…",
-   "published": "2026-10-08T07:52:39+00:00"
-  },
-  {
    "id": "8998e44320c9",
    "title": "Southampton manager Eckert can stay on despite role in ‘spygate’ scandal",
    "link": "https://www.aljazeera.com/sports/2026/10/8/southampton-manager-eckert-can-stay-on-despite-role-in-spygate-scandal?traffic_source=rss",
@@ -490,17 +864,6 @@
    "flourishing_feed": false,
    "summary": "Tonda Eckert let off with fine and reprimand but avoids ban and will continue in his role with the club.",
    "published": "2026-10-08T07:49:46+00:00"
-  },
-  {
-   "id": "ed371d1ae05b",
-   "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
-   "link": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "UK and Israel back away from full diplomatic confrontation, though British presence in city will be much reduced Israel and the UK have backed away from a full-scale diplomatic confrontation, with Britain announcing it is rebranding its consulate general ⁠building in ⁠East…",
-   "published": "2026-10-08T07:17:51+00:00"
   },
   {
    "id": "852aba6fb865",
@@ -647,13 +1010,13 @@
   },
   {
    "id": "4fd25e1ba3cb",
-   "title": "Bachelor star Sam Wood denied bail as police allege he choked woman until she ‘thought she would die’",
+   "title": "Bachelor star Sam Wood denied bail as police allege he choked wife until she ‘thought she would die’",
    "link": "https://www.theguardian.com/australia-news/2026/oct/08/sam-wood-bachelor-bail-court-custody-domestic-violence-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Court hears police attended Wood’s Victorian home over a similar allegation about three years ago, but the woman had not complained then out of ‘fear of retribution’ Get our breaking news email , free app or daily news podcast A woman who was allegedly choked and assaulted by…",
+   "summary": "Court hears police attended Wood’s Victorian home over a similar allegation about three years ago, but Snezana Wood had not complained then out of ‘fear of retribution’ Get our breaking news email , free app or daily news podcast The wife of former Bachelor star Sam Wood told…",
    "published": "2026-10-08T05:58:53+00:00"
   },
   {
@@ -774,7 +1137,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Bassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information.",
+   "summary": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
    "published": "2026-10-08T05:00:44+00:00"
   },
   {
@@ -1086,17 +1449,6 @@
    "published": "2026-10-08T02:05:33+00:00"
   },
   {
-   "id": "2d06b60c94ae",
-   "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-   "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“Both properties will be solely in his name.”",
-   "published": "2026-10-08T02:00:00+00:00"
-  },
-  {
    "id": "8ac121389085",
    "title": "Inside this 60-something couple’s bike ride across the United States",
    "link": "https://www.deseret.com/lifestyle/2026/10/07/bicycle-riding-across-united-states-utah-couple-cycling-coast-to-coast/",
@@ -1208,7 +1560,7 @@
   },
   {
    "id": "da6e1d45759f",
-   "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newsnight",
+   "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newshour",
    "link": "https://www.bbc.co.uk/news/videos/ckly0420q7ypo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
