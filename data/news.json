@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T19:33:01.034895+00:00",
+ "generated": "2026-10-08T20:34:11.954517+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -108,8 +108,8 @@
   },
   {
    "name": "WealthManagement.com",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "count": 50
   },
   {
    "name": "MarketWatch",
@@ -128,6 +128,259 @@
   }
  ],
  "items": [
+  {
+   "id": "4e333c57b6fd",
+   "title": "Should I put my nest egg in a 30-year Treasury bond?",
+   "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Risk comes in many forms, even with “safe” investments.",
+   "published": "2026-10-08T20:32:00+00:00"
+  },
+  {
+   "id": "e95750d1b741",
+   "title": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity…",
+   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm",
+   "source": "Federal Reserve",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
+   "published": "2026-10-08T20:30:00+00:00"
+  },
+  {
+   "id": "06c23aad3a31",
+   "title": "With mortgage rates soaring above 7.5%, the smart money rents in America",
+   "link": "https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "If buying a home right now is such a great idea, why doesn’t Wall Street want to do it?",
+   "published": "2026-10-08T20:30:00+00:00"
+  },
+  {
+   "id": "a1844fd54ec4",
+   "title": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably",
+   "link": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Don’t just focus on stock picks when you’re thinking of building retirement wealth",
+   "published": "2026-10-08T20:25:00+00:00"
+  },
+  {
+   "id": "42a83e7dfbda",
+   "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
+   "link": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has discovered that the once endangered species is thriving. A population of Aldabra giant…",
+   "published": "2026-10-08T20:20:31+00:00"
+  },
+  {
+   "id": "c4b052d20257",
+   "title": "Thousands turn out to welcome weary USS Lincoln sailors after fraught stretch at sea",
+   "link": "https://www.theguardian.com/us-news/2026/oct/08/uss-abraham-lincoln-return-san-diego",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Military families admit ‘mixed emotions’ as aircraft carrier finally returns to San Diego after grueling deployment that took severe toll USS Lincoln arrives at San Diego base – live updates By 4am on Thursday, the sky still pitch black, 19-year-old Pvt Grayden Monroe and his…",
+   "published": "2026-10-08T20:18:19+00:00"
+  },
+  {
+   "id": "d4fe01966b88",
+   "title": "USS Lincoln arrives at San Diego base after record-breaking deployment, with families gathered to greet crew – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Aircraft carrier decked out in blue, white and red made its way to port after 260 days at sea led to mental health crisis that made global headlines Sign up for the US Breaking News email Donald Trump has urged James Talarico , the Democratic nominee in the US Senate race in…",
+   "published": "2026-10-08T20:14:35+00:00"
+  },
+  {
+   "id": "c6d0f8504d29",
+   "title": "Thousands march in Madrid after death of evicted pensioner Maricarmen",
+   "link": "https://www.theguardian.com/world/2026/oct/08/thousands-to-march-in-madrid-after-death-of-evicted-pensioner-maricarmen",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rally to remember woman, 87, whose rent battle with investment firm triggered nationwide protests over housing crisis About 20,000 people took part in a march through the centre of Madrid on Thursday evening in memory of María del Carmen Abascal, the 87-year-old woman whose…",
+   "published": "2026-10-08T20:11:34+00:00"
+  },
+  {
+   "id": "560ecdec26ac",
+   "title": "Trump donor accuses ‘grifter’ Kimberly Guilfoyle of $100,000 quid pro quo",
+   "link": "https://www.theguardian.com/us-news/2026/oct/08/kimberly-guilfoyle-donor-wire-marco-rubio",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Eric Deters says US ambassador to Greece asked him to pay off American Express credit card bill in return for access A Trump donor accused Kimberly Guilfoyle, the US ambassador to Greece and Trump family ally, of engaging in a “quid pro quo” by asking him to pay off her…",
+   "published": "2026-10-08T20:10:25+00:00"
+  },
+  {
+   "id": "3e31556d5666",
+   "title": "OpenAI Revenue Woes Weigh on Tech Stocks: Stock Market Today",
+   "link": "https://www.kiplinger.com/investing/stocks/openai-revenue-woes-weigh-on-tech-stocks-stock-market-today",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Two of the three main indexes finished lower again Thursday as rising oil prices and sinking tech stocks weighed on sentiment.",
+   "published": "2026-10-08T20:10:20+00:00"
+  },
+  {
+   "id": "fb3b7193b0f2",
+   "title": "How much worse can Yemen’s humanitarian crisis become?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/10/8/how-much-worse-can-yemens-humanitarian-crisis-become?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "UN says fighting has displaced more than 200,000 people in five weeks.",
+   "published": "2026-10-08T20:06:08+00:00"
+  },
+  {
+   "id": "e37a77781834",
+   "title": "Hurricane Isaias forecast to bring dangerous storm surge, with millions under warnings in US",
+   "link": "https://www.theguardian.com/world/2026/oct/08/hurricane-isaias-gulf-coast",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Residents in areas from the mouth of the Mississippi River to Florida urged to ‘evacuate if told to do so’ Millions of people from Louisiana to Florida are under hurricane warnings on Thursday as Hurricane Isaias heads toward the US Gulf coast, with weather officials warning of…",
+   "published": "2026-10-08T20:02:47+00:00"
+  },
+  {
+   "id": "672921dabbbb",
+   "title": "‘His combination of athleticism and physicality are special’: Offensive lineman Kelvin Obot making early impact for Utes",
+   "link": "https://www.deseret.com/sports/2026/10/08/his-combination-of-athleticism-and-physicality-are-special-offensive-lineman-kelvin-obot-making-early-impact-for-utes/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This article was first published in the Ute Insiders newslett er . Sign up to receive the newsletter in your inbox each Wednesday night. Five-star Utah offensive tackle Kelvin Obot is in a very unique situation in his first collegiate season. It’s not often that a high school…",
+   "published": "2026-10-08T20:00:00+00:00"
+  },
+  {
+   "id": "17f07e7788af",
+   "title": "Is this the cure for Alzheimer’s?",
+   "link": "https://www.vox.com/good-medicine-newsletter/505678/alzheimers-disease-dementia-treatment-brain-surgery",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The videos are astonishing. In one scene, a senior Chinese woman appears lost in the wilderness of dementia, unable to answer basic questions; in the next, she seems to be lucidly chatting and shucking beans for dinner. By all appearances, years of cognitive decline had been…",
+   "published": "2026-10-08T20:00:00+00:00"
+  },
+  {
+   "id": "63b8c8381098",
+   "title": "Israeli settlers take Palestinian olives, and their harvest traditions",
+   "link": "https://www.aljazeera.com/features/2026/10/8/israeli-settlers-take-palestinian-olives-and-their-harvest-traditions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As Israeli settlers harvest olives on Palestinian land, farmers face growing violence and loss of an ancient tradition.",
+   "published": "2026-10-08T19:57:29+00:00"
+  },
+  {
+   "id": "9414a93b5ed1",
+   "title": "Kimberly Guilfoyle's Grift Is at Least as Offensive as Hunter Biden's",
+   "link": "https://reason.com/2026/10/08/kimberly-guilfoyles-grift-is-at-least-as-offensive-as-hunter-bidens/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The ex-girlfriend of Donald Trump Jr. asked a Republican fundraiser to pay off her credit card debt.",
+   "published": "2026-10-08T19:50:33+00:00"
+  },
+  {
+   "id": "c4267908aff1",
+   "title": "Israeli settlers systematically target the Palestinian olive harvest",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israeli-settlers-systematically-target-the-palestinian-olive-harvest?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli settlers in the occupied West Bank are destroying olive trees.",
+   "published": "2026-10-08T19:49:50+00:00"
+  },
+  {
+   "id": "c54bf29176a5",
+   "title": "India’s Cockroach movement says members detained as protests continue",
+   "link": "https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "India's opposition and student-led CJP movement demand election chief's resignation, plan mass demonstration Saturday.",
+   "published": "2026-10-08T19:49:03+00:00"
+  },
+  {
+   "id": "ce454a00f52f",
+   "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+   "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Seven tips for painlessly moving in retirement.",
+   "published": "2026-10-08T19:47:00+00:00"
+  },
+  {
+   "id": "0ded182bb444",
+   "title": "Prosecutors in Maradona death trial seek sentences up to 12 years",
+   "link": "https://www.aljazeera.com/sports/2026/10/8/prosecutors-in-maradona-death-trial-seek-sentences-up-to-12-years?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Seven medical professionals face calls for 12-year prison sentences in trial over Argentina icon Diego Maradona's death.",
+   "published": "2026-10-08T19:46:46+00:00"
+  },
+  {
+   "id": "e199c3b0f012",
+   "title": "At least 81 US aircraft worth up to $3.3bn lost or damaged in Iran war",
+   "link": "https://www.aljazeera.com/news/2026/10/8/at-least-81-us-aircraft-worth-up-to-3-3bn-lost-or-damaged-in-iran-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The damage, documented in a Congressional Budget Office report, comes as Trump faces criticism over war's cost.",
+   "published": "2026-10-08T19:43:39+00:00"
+  },
+  {
+   "id": "c88fd1b35b1c",
+   "title": "Florida is voting on whether to slash property taxes. Here’s who it would benefit — and hurt.",
+   "link": "https://www.marketwatch.com/story/florida-is-voting-on-whether-to-slash-property-taxes-heres-who-it-would-benefit-and-hurt-6c34b470?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Amendment 3’s passage could add momentum to other states’ efforts to slash property taxes",
+   "published": "2026-10-08T19:41:00+00:00"
+  },
+  {
+   "id": "feb67056ea85",
+   "title": "Instead of eliminating the filibuster, senators want to make the Senate faster with these rule changes",
+   "link": "https://www.deseret.com/politics/2026/10/08/bipartisan-senators-want-to-make-senate-more-efficient/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The arcane rules of the Senate have long been under scrutiny by lawmakers who lament just how long it takes to get one piece of legislation through the chamber. Now, some senators want to change that. A bipartisan duo is pushing for a change to Senate rules to expedite passage…",
+   "published": "2026-10-08T19:31:13+00:00"
+  },
   {
    "id": "e1f84a5113c3",
    "title": "Flood damage? Apply for FEMA assistance by Oct. 25",
@@ -193,17 +446,6 @@
    "flourishing_feed": false,
    "summary": "The offseason’s dream scenario of No. 8 BYU and No. 3 Notre Dame meeting on Oct. 17 in Provo as a pair of unbeaten teams is one game away from becoming a reality. The Cougars (4-0) host Iowa State on Friday night (8:15 p.m. MDT, ESPN). Notre Dame (5-0) is home against Stanford…",
    "published": "2026-10-08T19:15:00+00:00"
-  },
-  {
-   "id": "d4fe01966b88",
-   "title": "USS Lincoln arrives at San Diego base after record-breaking deployment, with families gathered to greet crew – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Aircraft carrier decked out in blue, white and red made its way to port after 260 days at sea led to mental health crisis that made global headlines Sign up for the US Breaking News email Donald Trump has urged James Talarico , the Democratic nominee in the US Senate race in…",
-   "published": "2026-10-08T19:13:41+00:00"
   },
   {
    "id": "abc0e8633e7a",
@@ -272,17 +514,6 @@
    "published": "2026-10-08T19:00:00+00:00"
   },
   {
-   "id": "e37a77781834",
-   "title": "Hurricane Isaias forecast to bring dangerous storm surge, with millions under warnings in US",
-   "link": "https://www.theguardian.com/world/2026/oct/08/hurricane-isaias-gulf-coast",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Residents in areas from the mouth of the Mississippi River to Florida urged to ‘evacuate if told to do so’ Millions of people from Louisiana to Florida are under hurricane warnings on Thursday as Hurricane Isaias heads toward the US Gulf coast , with weather officials warning…",
-   "published": "2026-10-08T18:53:03+00:00"
-  },
-  {
    "id": "f5abf010766b",
    "title": "The options market is reminding investors there’s a cure for rising bond yields — higher yields",
    "link": "https://www.marketwatch.com/story/the-options-market-is-reminding-investors-theres-a-cure-for-rising-bond-yields-higher-yields-2dcac640?mod=mw_rss_topstories",
@@ -303,6 +534,17 @@
    "flourishing_feed": false,
    "summary": "I’m a fiscal conservative, a business owner, and a past Utah Republican nominee for office — and I oppose Amendment B. Proponents of the ballot measure describe it as a straightforward way to keep your neighbors from raising your taxes. That pitch sounds appealing in theory.…",
    "published": "2026-10-08T18:50:49+00:00"
+  },
+  {
+   "id": "a9de853966cb",
+   "title": "People Moves: Cresset Hires Blackstone Alum Joe Zidle Chief Market Strategist",
+   "link": "https://www.wealthmanagement.com/career-moves/people-moves-cresset-appoints-blackstone-alum-joe-zidle-chief-market-strategist",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In other moves, custody and clearing firm Innovayte and RIA Arax name new COOs, and Mesirow hires an investment expert from Morningstar.",
+   "published": "2026-10-08T18:45:54+00:00"
   },
   {
    "id": "bee86df2881e",
@@ -578,17 +820,6 @@
    "flourishing_feed": false,
    "summary": "Lawyer for CNN, MS Now and Politico says Trump admitted he banned networks from White House over their coverage Donald Trump continues to be the strongest witness for the media companies arguing that they were unfairly barred from the White House at his direction, a lawyer…",
    "published": "2026-10-08T17:56:04+00:00"
-  },
-  {
-   "id": "560ecdec26ac",
-   "title": "Marco Rubio brushes off questions about Kimberly Guilfoyle pressing donor to pay credit card",
-   "link": "https://www.theguardian.com/us-news/2026/oct/08/kimberly-guilfoyle-donor-wire-marco-rubio",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "US ambassador to Greece allegedly asked Trump donor to pay $100,000 American Express bill Marco Rubio, the US secretary of state, brushed off reporters’ questions about recent reports that Kimberly Guilfoyle, the US ambassador to Greece and Trump family ally, used her position…",
-   "published": "2026-10-08T17:55:44+00:00"
   },
   {
    "id": "d7c5929f3bc0",
@@ -877,17 +1108,6 @@
    "published": "2026-10-08T17:07:18+00:00"
   },
   {
-   "id": "42a83e7dfbda",
-   "title": "Seychelles giant tortoise numbers hit record 180,000 in conservation triumph",
-   "link": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Free-roaming Aldabra population thrives on Indian Ocean atoll due to decades-long recovery programme A survey of the world’s largest free-roaming giant tortoise population has revealed that the once endangered species is thriving. A population of Aldabra giant tortoises lives…",
-   "published": "2026-10-08T17:03:42+00:00"
-  },
-  {
    "id": "2de60c3f2503",
    "title": "Ryan Smith launches survey in search for ‘strong local vibe’ at SLC entertainment district",
    "link": "https://www.deseret.com/utah/2026/10/08/ryan-smith-launches-survey-in-search-for-strong-local-vibe-at-slc-entertainment-district/",
@@ -1128,6 +1348,17 @@
    "flourishing_feed": false,
    "summary": "The Indianapolis Urban League is hosting a fair Oct. 14 to help with evictions and expungements. The post Get help with driver’s license reinstatement at resource fair appeared first on Mirror Indy .",
    "published": "2026-10-08T16:19:25+00:00"
+  },
+  {
+   "id": "2907b0d9b780",
+   "title": "The long-deployed USS Lincoln is returning home to San Diego",
+   "link": "https://www.npr.org/2026/10/08/g-s1-147195/uss-lincoln-returning-san-diego",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The USS Abraham Lincoln is returning home to San Diego Thursday after supporting the Iran war during a record long deployment of 265 uninterrupted days at sea that included reports of deteriorating conditions among its crew.",
+   "published": "2026-10-08T16:18:20+00:00"
   },
   {
    "id": "f25d5f4d7300",
@@ -1394,17 +1625,6 @@
    "published": "2026-10-08T15:18:36+00:00"
   },
   {
-   "id": "c6d0f8504d29",
-   "title": "Thousands to march in Madrid after death of evicted pensioner Maricarmen",
-   "link": "https://www.theguardian.com/world/2026/oct/08/thousands-to-march-in-madrid-after-death-of-evicted-pensioner-maricarmen",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Rally to remember woman, 87, whose rent battle with investment firm triggered nationwide protests over housing crisis Thousands of people are expected to march through the centre of Madrid on Thursday evening in memory of María del Carmen Abascal, the 87-year-old woman whose…",
-   "published": "2026-10-08T15:15:12+00:00"
-  },
-  {
    "id": "098396723312",
    "title": "$5B Trilogy Lands Colorado-based RIA Specializing in Aviation Workers",
    "link": "https://www.wealthmanagement.com/ria-news/hybrid-ria-trilogy-pens-largest-deal-of-year-with-1b-colorado-based-ria",
@@ -1632,7 +1852,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Most prestigious literature prize goes to Canadian known for genre-crossing works such as Autobiography of Red The Nobel prize in literature has been awarded to the Canadian poet and essayist Anne Carson, the Swedish Academy has announced. The academy cited the author’s “bold…",
+   "summary": "Most prestigious literature prize goes to Canadian known for genre-crossing works such as Autobiography of Red ‘Delights await!’: Margaret Atwood and other writers on Nobel winner Anne Carson Where to start with: Anne Carson The Nobel prize in literature has been awarded to the…",
    "published": "2026-10-08T14:03:29+00:00"
   },
   {
@@ -5970,17 +6190,6 @@
    "published": "2026-10-07T14:35:15+00:00"
   },
   {
-   "id": "4e333c57b6fd",
-   "title": "Should I put my nest egg in a 30-year Treasury bond?",
-   "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Risk comes in many forms, even with “safe” investments.",
-   "published": "2026-10-07T14:34:00+00:00"
-  },
-  {
    "id": "9f86f93e3609",
    "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
    "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
@@ -6221,17 +6430,6 @@
    "flourishing_feed": false,
    "summary": "South Korea signals cuts to military exemptions for gold medallists after backlash over athletes' Asian Games comments.",
    "published": "2026-10-07T13:38:14+00:00"
-  },
-  {
-   "id": "a1844fd54ec4",
-   "title": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably",
-   "link": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Don’t just focus on stock picks when you’re thinking of building retirement wealth",
-   "published": "2026-10-07T13:37:00+00:00"
   },
   {
    "id": "e56059c3859a",
