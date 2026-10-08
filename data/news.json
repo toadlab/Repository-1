@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T14:35:54.572067+00:00",
+ "generated": "2026-10-08T15:34:54.361880+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 32
+   "count": 34
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,292 @@
  ],
  "items": [
   {
+   "id": "96721c2e8ff4",
+   "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
+   "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
+   "published": "2026-10-08T15:30:00+00:00"
+  },
+  {
+   "id": "a9dc86e24a11",
+   "title": "White House correspondent April Ryan reflects on reporting while under attack",
+   "link": "https://www.npr.org/2026/10/08/nx-s1-5994416/white-house-correspondent-april-ryan-reflects-on-reporting-while-under-attack",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ryan has spent decades pressing presidents for answers. She talks about access, power, race and how asking questions put her in President Trump's crosshairs. Her new book is Notes on a Blacklash .",
+   "published": "2026-10-08T15:24:23+00:00"
+  },
+  {
+   "id": "bd668b32f6e1",
+   "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+   "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+   "published": "2026-10-08T15:21:46+00:00"
+  },
+  {
+   "id": "d5ddff5c36e8",
+   "title": "Venezuela’s Nicolas Maduro and his wife charged over torture allegations",
+   "link": "https://www.aljazeera.com/news/2026/10/8/venezuelas-nicolas-maduro-and-his-wife-charged-over-torture-allegations?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The new US charge adds to the existing drug trafficking case against Venezuela’s former president and first lady.",
+   "published": "2026-10-08T15:20:39+00:00"
+  },
+  {
+   "id": "f133b62d501b",
+   "title": "London voters go to polls for Holborn and St Pancras by-election",
+   "link": "https://www.aljazeera.com/news/2026/10/8/london-voters-go-to-polls-for-holborn-and-st-pancras-by-election?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The vote in London's Holborn and St Pancras parliamentary seat tests whether Burnham can restore faith in Labour.",
+   "published": "2026-10-08T15:19:46+00:00"
+  },
+  {
+   "id": "61991b57dfd3",
+   "title": "Mercer Advisors Completes $1.9B Debt Refinancing, Adds $340M Credit Facility",
+   "link": "https://www.wealthmanagement.com/ria-news/mercer-advisors-completes-19-billion-refinancing",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Denver-based RIA entered the syndicated loan market for the first time with the move, replacing its private debt with lower-interest-rate debt and extending its financing timeline.",
+   "published": "2026-10-08T15:18:36+00:00"
+  },
+  {
+   "id": "d4fe01966b88",
+   "title": "Trump’s attempt to ban CNN, Politico, and MS Now from White House to be heard in court – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Federal judge who issued temporary restraining order on the media ban will hold hearing at 11am ET Sign up for the US Breaking News email Donald Trump has urged James Talarico , the Democratic nominee in the US Senate race in Texas, to debate Ken Paxton – Republican attorney…",
+   "published": "2026-10-08T15:15:35+00:00"
+  },
+  {
+   "id": "c6d0f8504d29",
+   "title": "Thousands to march in Madrid after death of evicted pensioner Maricarmen",
+   "link": "https://www.theguardian.com/world/2026/oct/08/thousands-to-march-in-madrid-after-death-of-evicted-pensioner-maricarmen",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rally to remember woman, 87, whose rent battle with investment firm triggered nationwide protests over housing crisis Thousands of people are expected to march through the centre of Madrid on Thursday evening in memory of María del Carmen Abascal, the 87-year-old woman whose…",
+   "published": "2026-10-08T15:15:12+00:00"
+  },
+  {
+   "id": "098396723312",
+   "title": "$5B Trilogy Lands Colorado-based RIA Specializing in Aviation Workers",
+   "link": "https://www.wealthmanagement.com/ria-news/hybrid-ria-trilogy-pens-largest-deal-of-year-with-1b-colorado-based-ria",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Colorado-based RIA, founded by a former pilot, is Trilogy’s largest acquisition of the year.",
+   "published": "2026-10-08T15:13:24+00:00"
+  },
+  {
+   "id": "721ce071533c",
+   "title": "Two Latvian men arrested for trespass offences at RAF airbase – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two men arrested last night as security patrols near RAF Molesworth in Cambridgeshire found an abandoned vehicle and a breach in the fence in Athens Over in Athens, Marco Rubio, the US secretary of state, has been forced, yet again, to address allegations of misconduct by…",
+   "published": "2026-10-08T15:13:06+00:00"
+  },
+  {
+   "id": "cfa56270ca7d",
+   "title": "Ex-police chief who had affairs with two officers guilty of gross misconduct",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/08/former-police-chief-gross-misconduct-hampshire-uk",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Scott Chilton, who led Hampshire and the Isle of Wight police force, barred from becoming a police officer again A former chief constable showed a sense of entitlement, dishonesty and lack of integrity by having sexual relationships with two subordinate officers, including…",
+   "published": "2026-10-08T15:11:42+00:00"
+  },
+  {
+   "id": "722e8203d402",
+   "title": "Price Controls Don't Work. So Why Do So Many Democrats and Republicans Love Them?",
+   "link": "https://reason.com/2026/10/08/price-controls-dont-work-so-why-do-so-many-democrats-and-republicans-love-them/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Price controls are seductive because any benefits are highly and immediately visible, while their grave costs are often harder to spot.",
+   "published": "2026-10-08T15:10:16+00:00"
+  },
+  {
+   "id": "50c4b3f7c678",
+   "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+   "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+   "published": "2026-10-08T15:07:59+00:00"
+  },
+  {
+   "id": "b88bdb23fd75",
+   "title": "Search warrants used in Andrew Mountbatten-Windsor raids were unlawful, court rules",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/08/search-warrants-used-in-andrew-mountbatten-windsor-raids-were-unlawful-court-rules",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Judge makes ruling after former prince brought judicial review of operation linked to Jeffrey Epstein investigation Andrew Mountbatten-Windsor has won his legal challenge against Thames Valley police over search warrants that led to his arrest. The former prince brought a…",
+   "published": "2026-10-08T15:05:40+00:00"
+  },
+  {
+   "id": "256c32f63ade",
+   "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+   "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+   "published": "2026-10-08T15:02:32+00:00"
+  },
+  {
+   "id": "0e661858bcd0",
+   "title": "What were Trump operatives doing for pro-Russian politician Dodik in Bosnia?",
+   "link": "https://www.aljazeera.com/features/2026/10/8/what-were-trump-operatives-doing-for-pro-russian-politician-dodik-in-bosnia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Reports that Trump aides were paid to advise Bosnian Serb leader ahead of parliamentary election raise alarm.",
+   "published": "2026-10-08T15:01:18+00:00"
+  },
+  {
+   "id": "c329c15473bb",
+   "title": "French students vow to continue protests, saying ministers’ pledges not enough",
+   "link": "https://www.theguardian.com/world/2026/oct/08/france-student-protests-schools-vow-to-continue",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Schools blockaded again across country as teenagers and teachers demand more investment and ‘concrete measures’ to improve conditions Europe live – latest updates High school students have again blockaded schools and marched through cities across France, promising to continue…",
+   "published": "2026-10-08T15:00:03+00:00"
+  },
+  {
+   "id": "4fd19a9a271c",
+   "title": "Can a Chatbot Prompt Be a Punishable Threat?",
+   "link": "https://reason.com/volokh/2026/10/08/can-a-chatbot-prompt-be-a-punishable-threat/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "From Straight Arrow News (Devin Pavlou): One morning in late September, Carli Heller opened up an artificial intelligence chatbot and… The post Can a Chatbot Prompt Be a Punishable Threat? appeared first on Reason Magazine.",
+   "published": "2026-10-08T14:59:10+00:00"
+  },
+  {
+   "id": "e563d1f55328",
+   "title": "My Review of Ted Cruz's Biography of Justice Thomas",
+   "link": "https://reason.com/volokh/2026/10/08/my-review-of-ted-cruzs-biography-of-justice-thomas/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "\"Senator Ted Cruz’s new biography about Justice Clarence Thomas, Going Further, is a must-read contribution to this third genre of Supreme Court books.\"",
+   "published": "2026-10-08T14:55:26+00:00"
+  },
+  {
+   "id": "5518e42140be",
+   "title": "More killed in Kramatorsk as Russia targets Ukraine’s transportation system",
+   "link": "https://www.aljazeera.com/news/2026/10/8/more-killed-in-kramatorsk-as-russia-targets-ukraines-transportation-system?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Russia’s attacks on trains, buses and ports are paralysing Ukraine’s transport network and endangering civilians.",
+   "published": "2026-10-08T14:50:20+00:00"
+  },
+  {
+   "id": "9eb0a1f11ccd",
+   "title": "BBC axes long-running Radio 4 show You and Yours in push towards podcasts",
+   "link": "https://www.theguardian.com/media/2026/oct/08/bbc-axes-radio-4-shows-you-and-yours-podcasts",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thinking Allowed, The Artificial Human and Free Thinking among other programmes hit by £500m cuts BBC Radio 4’s consumer rights show You and Yours is to be axed after more than 50 years, becoming one of the latest victims of the corporation’s £500m cuts plan. The programme,…",
+   "published": "2026-10-08T14:48:33+00:00"
+  },
+  {
+   "id": "049dc7d26696",
+   "title": "UK politics: Polls open in Holborn and St Pancras byelection – as it happened",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Voters choosing replacement for Keir Starmer, who announced he was standing down last month The UK’s military is too focused on global commitments at the expense of domestic defence, meaning the government’s planned increase in defence spending is likely to result in even…",
+   "published": "2026-10-08T14:48:13+00:00"
+  },
+  {
+   "id": "8acb4d9a4a2e",
+   "title": "Bank governor urges John Healey to use budget to allay market fears amid bond turmoil",
+   "link": "https://www.theguardian.com/business/2026/oct/08/medium-term-borrowing-costs-uk-government-19-year-high",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Andrew Bailey tells chancellor ‘whatever the stance of fiscal policy, it must be credible and be seen as such by financial markets’ Business live – latest updates The Bank of England governor, Andrew Bailey, has urged the chancellor, John Healey, to agree a budget that…",
+   "published": "2026-10-08T14:45:46+00:00"
+  },
+  {
+   "id": "0d2e664a3127",
+   "title": "Saudi-led coalition says it intercepts three Houthi ballistic missiles",
+   "link": "https://www.aljazeera.com/news/2026/10/8/saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi Arabia says two of the missiles intercepted were headed towards the capital, Riyadh.",
+   "published": "2026-10-08T14:43:19+00:00"
+  },
+  {
+   "id": "873abd3098a6",
+   "title": "Layoffs haven’t been this low since the 1960s. It’s great if you have a job — but not if you don’t.",
+   "link": "https://www.marketwatch.com/story/layoffs-havent-been-this-low-since-the-1960s-its-great-if-you-have-a-job-but-not-if-you-dont-74cbdf55?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "It isn’t easy for anyone looking for work now to find a job. Yet people who already have jobs probably don’t have to worry much about losing them.",
+   "published": "2026-10-08T14:35:00+00:00"
+  },
+  {
+   "id": "648f4103d2a3",
+   "title": "Opinion: Vote yes on Amendment B — higher taxes should require broader agreement",
+   "link": "https://www.deseret.com/opinion/2026/10/08/amendment-b-high-taxes-need-broader-agreement/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "If you want to raise your neighbors’ taxes, you should have broad support from your neighbors. That is the principle behind Amendment B . Utah voters still have the final say. Amendment B protects the initiative process. It protects Utahns’ ability to put measures on the…",
+   "published": "2026-10-08T14:33:42+00:00"
+  },
+  {
    "id": "6a4182a2783a",
    "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
    "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
@@ -173,28 +459,6 @@
    "published": "2026-10-08T14:20:23+00:00"
   },
   {
-   "id": "d4fe01966b88",
-   "title": "Trump’s attempt to ban CNN, Politico, and MS Now from White House to be heard in court – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Federal judge who issued temporary restraining order on the media ban will hold hearing at 11am ET Sign up for the US Breaking News email Donald Trump has urged James Talarico , the Democratic nominee in the US Senate race in Texas, to debate Ken Paxton – Republican attorney…",
-   "published": "2026-10-08T14:18:48+00:00"
-  },
-  {
-   "id": "721ce071533c",
-   "title": "French protest leaders warn action will continue until education demands are met – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Protesters are gathering in Paris to rally against government policies on school and education in Athens Over in Athens, Marco Rubio, the US secretary of state, has been forced, yet again, to address allegations of misconduct by Kimberly Guilfoyle, America’s ambassador to…",
-   "published": "2026-10-08T14:15:50+00:00"
-  },
-  {
    "id": "cfba2f553700",
    "title": "High school cross country: 4A region championships recap",
    "link": "https://www.deseret.com/sports/2026/10/08/high-school-cross-country-4a-region-recaps/",
@@ -204,6 +468,17 @@
    "flourishing_feed": false,
    "summary": "Here’s a recap of the four 4A region cross country championships that were held this past week. On Wednesday, Oct. 14, teams and individuals will compete in the 4A Divisional meet at Lakeside Park in Orem to earn their spots in the 4A state championship meet on Wednesday, Oct.…",
    "published": "2026-10-08T14:13:30+00:00"
+  },
+  {
+   "id": "a4880280afea",
+   "title": "Arizona congressional candidate says she was raped while repairing campaign sign",
+   "link": "https://www.bbc.co.uk/news/articles/c65yndpnk5qdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bernadette Greene-Placentia says her memory of the attack is spotty and that she was knocked unconscious.",
+   "published": "2026-10-08T14:10:58+00:00"
   },
   {
    "id": "40cf422a16f8",
@@ -426,17 +701,6 @@
    "published": "2026-10-08T13:40:23+00:00"
   },
   {
-   "id": "b88bdb23fd75",
-   "title": "Search warrants used in Andrew Mountbatten-Windsor raids were unlawful, court rules",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/08/search-warrants-used-in-andrew-mountbatten-windsor-raids-were-unlawful-court-rules",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Judge makes ruling after former prince brought judicial review of operation linked to Jeffrey Epstein investigation Andrew Mountbatten-Windsor has won his legal challenge against Thames Valley police over search warrants that led to his arrest. The former prince brought a…",
-   "published": "2026-10-08T13:38:20+00:00"
-  },
-  {
    "id": "b38e5002c995",
    "title": "Rubio praises nationalism and ties ‘America First’ values to ancient Greece",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/rubio-praises-nationalism-and-ties-america-first-values-to-ancient-greece?traffic_source=rss",
@@ -492,17 +756,6 @@
    "published": "2026-10-08T13:29:47+00:00"
   },
   {
-   "id": "049dc7d26696",
-   "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Voters choosing replacement for Keir Starmer, who announced he was standing down last month The UK’s military is too focused on global commitments at the expense of domestic defence, meaning the government’s planned increase in defence spending is likely to result in even…",
-   "published": "2026-10-08T13:29:07+00:00"
-  },
-  {
    "id": "e9042d7c0973",
    "title": "US scientist’s children erupt in joy after hearing he won Nobel",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/us-scientists-children-erupt-in-joy-after-hearing-he-won-nobel?traffic_source=rss",
@@ -534,17 +787,6 @@
    "flourishing_feed": false,
    "summary": "Jane Adetoro, Christina Walters and Rebecca Walters from London visited late mother’s former home shortly before their deaths in May Three sisters who drowned in the sea in Brighton collectively decided to end their own lives, a coroner has ruled. The bodies of Jane Adetoro,…",
    "published": "2026-10-08T13:11:01+00:00"
-  },
-  {
-   "id": "8acb4d9a4a2e",
-   "title": "Medium-term borrowing costs for UK government hit 19-year high",
-   "link": "https://www.theguardian.com/business/2026/oct/08/medium-term-borrowing-costs-uk-government-19-year-high",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Investors offload global bonds amid fears of rising inflation, increasing pressure on John Healey ahead of first budget Business live – latest updates Medium-term borrowing costs for the UK government hit a fresh 19-year high on Thursday, as investors continued to offload…",
-   "published": "2026-10-08T12:47:49+00:00"
   },
   {
    "id": "53904c9961c6",
@@ -603,7 +845,7 @@
   },
   {
    "id": "4c64d76fc33d",
-   "title": "Italy overhauls electoral system after fiercely contested debate",
+   "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
    "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -666,17 +908,6 @@
    "flourishing_feed": false,
    "summary": "Recent death of 87-year-old woman likely to focus attention on crisis in run-up to election at end of November Europe live – latest updates Even before María del Carmen Abascal died on Wednesday night , a mere fortnight after her eviction from the Madrid flat where she had…",
    "published": "2026-10-08T12:16:06+00:00"
-  },
-  {
-   "id": "96721c2e8ff4",
-   "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
-   "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
-   "published": "2026-10-08T12:15:00+00:00"
   },
   {
    "id": "c4794f2e5dc6",
@@ -1219,7 +1450,7 @@
   },
   {
    "id": "b731ba41ac79",
-   "title": "Trump administration’s proposed price tag for international students in work program: $70K",
+   "title": "Trump administration wants universities to pay fees for international students",
    "link": "https://www.deseret.com/education/2026/10/08/homeland-security-international-students-colleges-fees/",
    "source": "Deseret News",
    "circle_hint": "national",
@@ -1636,17 +1867,6 @@
    "published": "2026-10-08T08:24:00+00:00"
   },
   {
-   "id": "bd668b32f6e1",
-   "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-   "link": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-   "published": "2026-10-08T08:18:36+00:00"
-  },
-  {
    "id": "877babf93af1",
    "title": "Why Israel loves skunk water",
    "link": "https://www.aljazeera.com/opinions/2026/10/8/why-israel-loves-skunk-water?traffic_source=rss",
@@ -1667,17 +1887,6 @@
    "flourishing_feed": false,
    "summary": "Musk has claimed unnamed entities are blocking Starlink's launch to maintain their monopoly.",
    "published": "2026-10-08T08:15:45+00:00"
-  },
-  {
-   "id": "256c32f63ade",
-   "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-   "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
-   "published": "2026-10-08T08:13:52+00:00"
   },
   {
    "id": "1ddb8f0c3547",
@@ -2655,7 +2864,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The new charges are expected to accuse Maduro and his wife of playing a role in the torture of Americans in Venezuelan prisons, US media reports.",
+   "summary": "Federal prosecutors in New York filed an updated indictment on Thursday",
    "published": "2026-10-07T22:50:00+00:00"
   },
   {
@@ -17208,7 +17417,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Wednesday, Oct. 7, 2026 TELEVISION BASKETBALL Preseason: Timberwolves vs. Pacers, NBA TV, 5 p.m. WNBA: Liberty at Dream, ESPN, 5:30 p.m. Preseason: Warriors at Trail Blazers, NBA TV, 8 p.m. FOOTBALL Jacksonville St. at Kennesaw St., CBSSN, 5 p.m. New Mexico St. at FIU, ESPN2,…",
+   "summary": "Thursday, Oct. 8, 2026 TELEVISION FOOTBALL Missouri St. at WKU, CBSSN, 5 p.m. Sam Houston at Liberty, ESPNU, 5 p.m. South Alabama at Arkansas St., ESPN2, 5:30 p.m. South Florida at UTSA, ESPN, 5:30 p.m. Corner Canyon at American Fork, KJZZ/KMYU, 7 p.m. GOLF Open de Espana,…",
    "published": "2026-10-04T06:00:00+00:00"
   },
   {
