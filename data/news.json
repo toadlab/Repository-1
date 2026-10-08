@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T11:32:33.833455+00:00",
+ "generated": "2026-10-08T12:40:19.916390+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 27
+   "count": 30
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,39 @@
  ],
  "items": [
   {
+   "id": "4c64d76fc33d",
+   "title": "Italy overhauls electoral system after fiercely contested debate",
+   "link": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
+   "published": "2026-10-08T12:32:12+00:00"
+  },
+  {
+   "id": "b3c3f2cc062c",
+   "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+   "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Surging Treasury yields have begun to hammer parts of the stock market that might easily be overlooked, especially with the spotlight once again shining brightly on a small group of glamorous tech companies.",
+   "published": "2026-10-08T12:32:00+00:00"
+  },
+  {
+   "id": "4fec08fd9d8b",
+   "title": "GLP-1s could offer unexpected relief from back and knee pain, but doctors urge caution",
+   "link": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Rapid weight loss can lead to issues with bone quality, particularly in older adults.",
+   "published": "2026-10-08T12:30:00+00:00"
+  },
+  {
    "id": "b0dbc2538310",
    "title": "After a 33% gain in the first half, this fund manager grew tired of the AI trade. Here’s where he’s looking now.",
    "link": "https://www.marketwatch.com/story/after-a-33-gain-in-the-first-half-this-fund-manager-grew-tired-of-the-ai-trade-heres-where-hes-looking-now-1783b3a4?mod=mw_rss_topstories",
@@ -137,7 +170,348 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "Bill Hench, of First Eagle, stepped away from the artificial-intelligence trade with small-capitalization bets on a recovery of the U.S. housing construction market.",
-   "published": "2026-10-08T11:31:00+00:00"
+   "published": "2026-10-08T12:24:00+00:00"
+  },
+  {
+   "id": "ba728e26ae0f",
+   "title": "Three sisters who drowned in Brighton took their own lives, inquest finds",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/08/three-sisters-drowned-sea-brighton-inquest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jane Adetoro, Christina Walters and Rebecca Walters from London visited late mother’s former home shortly before their deaths in May Three sisters who drowned in the sea in Brighton collectively decided to end their own lives, a coroner has ruled. The bodies of Jane Adetoro,…",
+   "published": "2026-10-08T12:20:54+00:00"
+  },
+  {
+   "id": "049dc7d26696",
+   "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Voters choosing replacement for Keir Starmer, who announced he was standing down last month The UK’s military is too focused on global commitments at the expense of domestic defence, meaning the government’s planned increase in defence spending is likely to result in even…",
+   "published": "2026-10-08T12:20:24+00:00"
+  },
+  {
+   "id": "7475b2a66ac8",
+   "title": "Can Sánchez convince Spanish voters he is their best hope for fairer housing?",
+   "link": "https://www.theguardian.com/world/2026/oct/08/pedro-sanchez-spanish-voters-housing-crisis-analysis",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Recent death of 87-year-old woman likely to focus attention on crisis in run-up to general election at end of November Europe live – latest updates Even before María del Carmen Abascal died on Wednesday night , a mere fortnight after her eviction from the Madrid flat where she…",
+   "published": "2026-10-08T12:16:06+00:00"
+  },
+  {
+   "id": "721ce071533c",
+   "title": "Burnham committed to deeper EU cooperation, he tells Merz – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "UK PM is welcomed by German chancellor on his trip to Berlin in Athens Over in Athens, Marco Rubio, the US secretary of state, has been forced, yet again, to address allegations of misconduct by Kimberly Guilfoyle, America’s ambassador to Greece. Continue reading...",
+   "published": "2026-10-08T12:15:27+00:00"
+  },
+  {
+   "id": "96721c2e8ff4",
+   "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
+   "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
+   "published": "2026-10-08T12:15:00+00:00"
+  },
+  {
+   "id": "c4794f2e5dc6",
+   "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
+   "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“People in the U.S. need to wake up.”",
+   "published": "2026-10-08T12:15:00+00:00"
+  },
+  {
+   "id": "f5b4199af589",
+   "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
+   "link": "https://www.npr.org/2026/10/08/g-s1-147115/south-korea-to-recall-its-ambassador-to-ukraine-over-north-korean-pow-dispute",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The South Korean announcement on Thursday came days after its President Lee Jae Myung threatened unspecified punitive steps if Ukraine refuses to apologize over the revelation.",
+   "published": "2026-10-08T12:13:54+00:00"
+  },
+  {
+   "id": "be550bae64bd",
+   "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+   "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
+   "published": "2026-10-08T12:11:31+00:00"
+  },
+  {
+   "id": "0b8663265d62",
+   "title": "Italian law to give election winners bonus seats: Why that’s controversial",
+   "link": "https://www.aljazeera.com/news/2026/10/8/italian-law-to-give-election-winners-bonus-seats-why-thats-controversial?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Critics say the proposed law is undemocratic, potentially granting a winning coalition outsized power in parliament.",
+   "published": "2026-10-08T12:10:32+00:00"
+  },
+  {
+   "id": "d4fe01966b88",
+   "title": "USS Lincoln carrier to return to port in San Diego after record-breaking deployment – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Vessel spent over 260 consecutive days at sea without a port call, a US navy record Sign up for the US Breaking News email Marco Rubio, the US Secretary of State, has been forced to yet again address allegations of misconduct by Kimberly Guilfoyle, America’s ambassador to…",
+   "published": "2026-10-08T12:08:26+00:00"
+  },
+  {
+   "id": "16c67f2bd64e",
+   "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
+   "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
+   "published": "2026-10-08T12:06:57+00:00"
+  },
+  {
+   "id": "76b51d942209",
+   "title": "Sri Lanka arrests ex-President Rajapaksa’s wife in graft case",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/sri-lanka-arrests-ex-president-rajapaksas-wife-in-graft-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sri Lanka’s former first lady Shiranthi Rajapaksa, wife of Mahinda Rajapaksa, has been arrested in a corruption case.",
+   "published": "2026-10-08T12:02:29+00:00"
+  },
+  {
+   "id": "a3f8892b8d65",
+   "title": "Racial and religious hate crimes at record high in England and Wales, data shows",
+   "link": "https://www.theguardian.com/society/2026/oct/08/racial-and-religious-hate-crimes-at-record-high-in-england-and-wales-data-shows",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Offences targeting Muslims increased most in 12 months to March – up 15% – while antisemitic hate crimes rose by 10% UK politics live – latest updates Racially and religiously motivated offences have reached record highs in the UK, as the government’s main Islamophobia partner…",
+   "published": "2026-10-08T12:02:07+00:00"
+  },
+  {
+   "id": "afdeb89ebe75",
+   "title": "Does Allowing Turning Point USA \"Two Genders: One Truth\" Event to Be Held and Promoted at Public School Violate Title IX?",
+   "link": "https://reason.com/volokh/2026/10/08/does-allowing-turning-point-usa-two-genders-one-truth-event-to-be-held-and-promoted-at-public-school-violate-title-ix/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An excerpt from a long opinion by Judge Jasmine Yoon (W.D. Va.) Monday in Doe v. Albemarle County School Bd.:… The post Does Allowing Turning Point USA \"Two Genders: One Truth\" Event to Be Held and Promoted at Public School Violate Title IX? appeared first on Reason Magazine.",
+   "published": "2026-10-08T12:01:48+00:00"
+  },
+  {
+   "id": "77d8b5054628",
+   "title": "South Korea test-flies its first domestically developed hypersonic weapon",
+   "link": "https://www.npr.org/2026/10/08/g-s1-147113/south-korea-test-flies-its-first-domestically-developed-hypersonic-weapon",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The test follows North Korea's recent hypersonic missile test. Tensions between the Koreas have increased after land mine explosions injured three South Korean soldiers near the border. North Korea denies responsibility.",
+   "published": "2026-10-08T12:01:34+00:00"
+  },
+  {
+   "id": "8e395d11eb27",
+   "title": "What if making your neighborhood safer means breaking the rules?",
+   "link": "https://www.vox.com/future-perfect/505575/tactical-urbanism-diy-benches",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jonathan Hale was ready to lay down his paint rollers. Hale, a law student turned viral road safety advocate, had run into legal trouble for painting his own DIY crosswalks across some of Los Angeles’s most dangerous intersections. In a meeting with LA Mayor Karen Bass earlier…",
+   "published": "2026-10-08T12:00:00+00:00"
+  },
+  {
+   "id": "dddf99def7b3",
+   "title": "Why Hospice Care Means Choosing Peace, Not Giving Up",
+   "link": "https://www.kiplinger.com/retirement/long-term-care/hospice-isnt-giving-up",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Hospice is often viewed as a surrender or a last resort for a loved one's final days. In fact, it can be taken up sooner, improving life when time is limited.",
+   "published": "2026-10-08T12:00:00+00:00"
+  },
+  {
+   "id": "828462a41632",
+   "title": "Why has Iraq devalued its currency, and why are some MPs against it?",
+   "link": "https://www.aljazeera.com/economy/2026/10/8/why-has-iraq-devalued-its-currency-and-why-are-some-mps-against-it?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "MPs oppose dinar devaluation, citing increased living costs and financial strain on Iraq’s most vulnerable populations.",
+   "published": "2026-10-08T11:59:21+00:00"
+  },
+  {
+   "id": "9b8fd2646ab4",
+   "title": "Can emergency reserves ease the diesel crisis?",
+   "link": "https://www.aljazeera.com/video/counting-the-cost/2026/10/8/can-emergency-reserves-ease-the-diesel-crisis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The G7 plans to release emergency fuel stocks as diesel shortages raise transport costs and squeeze household budgets.",
+   "published": "2026-10-08T11:56:18+00:00"
+  },
+  {
+   "id": "d0f0b58b6073",
+   "title": "Royal Navy member appears in court charged with spying for Russia",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/08/royal-navy-serviceman-arrested-under-national-security-act",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Teddy Young, 24, from Bedfordshire, accused of drafting a message in Russian containing classified information A serving member of the Royal Navy has appeared in court charged with spying for Russia. Teddy Young, 24, was accused of obtaining protected information that could…",
+   "published": "2026-10-08T11:53:56+00:00"
+  },
+  {
+   "id": "20dd83fd2c8e",
+   "title": "Hegseth address sailors in pushup apology and Trump impression",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/hegseth-address-sailors-in-pushup-apology-and-trump-impression?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US Secretary of Defense Pete Hegseth did a ‘two pushup’ forfeit after factual errors addressing US sailors.",
+   "published": "2026-10-08T11:53:53+00:00"
+  },
+  {
+   "id": "17e2c5d9935f",
+   "title": "Bear kills man in home attack near Mongolian capital",
+   "link": "https://www.bbc.co.uk/news/articles/ckvg79wz9v2yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police say the bear entered a traditional nomadic dwelling near Ulaanbaatar, killing a man and seriously injured a woman.",
+   "published": "2026-10-08T11:52:59+00:00"
+  },
+  {
+   "id": "b10e4a73034a",
+   "title": "India to Turkiye, can new proposals to broker Russia-Ukraine truce succeed?",
+   "link": "https://www.aljazeera.com/news/2026/10/8/india-to-turkiye-can-new-proposals-to-broker-russia-ukraine-truce-succeed?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "India, Turkiye, Egypt and the US have put forward proposals for ceasefires in bid to protect global energy and shipping.",
+   "published": "2026-10-08T11:45:17+00:00"
+  },
+  {
+   "id": "57e60d98d668",
+   "title": "Anne Carson wins Nobel prize in literature 2026",
+   "link": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "World’s most prestigious prize for literature goes to Canadian poet known for genre-crossing works including Autobiography of Red The Nobel prize in literature has been awarded to the Canadian poet and essayist Anne Carson, the Swedish Academy has announced. The academy cited…",
+   "published": "2026-10-08T11:44:31+00:00"
+  },
+  {
+   "id": "c4134d649618",
+   "title": "Asos customers’ names, search histories and contact details accessed in hack, says retailer",
+   "link": "https://www.theguardian.com/business/2026/oct/08/asos-customer-data-accessed-hacker-posing-impersonated",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hackers gained access to millions of users’ personal data, but not card details or passwords, Asos says Business live – live updates Asos hackers gained access to millions of customers’ recent search histories as well as names, addresses and phone numbers, the online fashion…",
+   "published": "2026-10-08T11:44:22+00:00"
+  },
+  {
+   "id": "fe2107355194",
+   "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
+   "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Technology is the only one of the S&P 500’s 11 sectors that gained since Sept. 1, as Treasury yields have climbed to multi-decade highs.",
+   "published": "2026-10-08T11:43:00+00:00"
+  },
+  {
+   "id": "4a127f582e37",
+   "title": "Isaias intensifies to hurricane. And, judge orders Pike execution evidence preserved",
+   "link": "https://www.npr.org/2026/10/08/g-s1-147105/up-first-newsletter-hurricane-isaias-house-elections-christa-pike-nidal-hasan-cnn-ms-now-politico",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "People in the Gulf are preparing for bad weather this weekend after Isaias intensified into a hurricane. And, a judge has ordered Christa Pike's failed execution evidence be preserved.",
+   "published": "2026-10-08T11:35:22+00:00"
+  },
+  {
+   "id": "8e01fcc1fec9",
+   "title": "Tesla’s big AI gamble puts its EV business under a microscope",
+   "link": "https://www.marketwatch.com/story/teslas-big-ai-gamble-puts-its-ev-business-under-a-microscope-0ea9b387?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Investors are left with unanswered questions as the company leans on car sales to help fund its expensive AI ventures.",
+   "published": "2026-10-08T11:33:00+00:00"
+  },
+  {
+   "id": "39692cd67e3b",
+   "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
+   "link": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Governor says Kremlin ‘deliberately targeting civilians’ after strike in Kramatorsk, which also wounded 18 and set second bus on fire Europe live – latest updates A Russian missile strike on a bus in the eastern city of Kramatorsk has killed at least 30 people, officials said…",
+   "published": "2026-10-08T11:32:51+00:00"
+  },
+  {
+   "id": "6444ad02661d",
+   "title": "A strategist who called the Asian financial crisis sees parallels with the AI boom",
+   "link": "https://www.marketwatch.com/story/a-strategist-who-called-the-asian-financial-crisis-sees-parallels-with-the-ai-boom-b45522ad?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Albert Edwards, well-known for his generally bearish views on equity markets, finds the economicbenefits of AI to be a promise rather than a reality at present.",
+   "published": "2026-10-08T11:32:00+00:00"
+  },
+  {
+   "id": "487e6c341d52",
+   "title": "Residents airlifted to safety after flooding in central Chile",
+   "link": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
+   "published": "2026-10-08T11:31:22+00:00"
   },
   {
    "id": "fb9e9b766001",
@@ -173,36 +547,25 @@
    "published": "2026-10-08T11:27:24+00:00"
   },
   {
-   "id": "049dc7d26696",
-   "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
+   "id": "ccf70c89ba01",
+   "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
+   "link": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
+   "source": "NPR News",
+   "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Voters choosing replacement for Keir Starmer, who announced he was standing down last month The UK’s military is too focused on global commitments at the expense of domestic defence, meaning the government’s planned increase in defence spending is likely to result in even…",
-   "published": "2026-10-08T11:16:23+00:00"
-  },
-  {
-   "id": "39692cd67e3b",
-   "title": "Russian attack on bus kills at least 30 people near Ukraine frontline",
-   "link": "https://www.theguardian.com/world/2026/oct/08/russian-attack-buses-ukraine-frontline-kramatorsk",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Governor says Kremlin ‘deliberately targeting civilians’ after strike in Kramatorsk, which also wounded 18 and set second bus on fire Europe live – latest updates A Russian missile strike on a bus in the eastern city of Kramatorsk has killed at least 30 people, officials said…",
-   "published": "2026-10-08T11:14:37+00:00"
+   "summary": "Russian strikes in eastern Ukraine have killed 30 people and injured at least 18, according to authorities. The attacks included a strike on a public bus and have worsened power outages in Kyiv.",
+   "published": "2026-10-08T11:25:28+00:00"
   },
   {
    "id": "3f7fcaf242d7",
-   "title": "Oil prices rise sharply on Middle East tensions and US hurricane threat",
+   "title": "Oil prices jump 5% on Middle East tensions and US hurricane threat",
    "link": "https://www.theguardian.com/business/2026/oct/08/oil-prices-rise-middle-east-tensions-us-hurricane-threat",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Global bond market sell-off continues and stocks fall amid another wave of potential strikes against Iran Business live – latest updates Oil prices have risen sharply amid fears about escalating tensions in the Middle East and a squeeze on production from the threat of a…",
+   "summary": "Global bond market sell-off continues and stocks fall amid reports White House has asked to see options for more strikes against Iran Business live – latest updates Oil prices have risen sharply amid fears about escalating tensions in the Middle East and a squeeze on production…",
    "published": "2026-10-08T11:11:47+00:00"
   },
   {
@@ -215,28 +578,6 @@
    "flourishing_feed": false,
    "summary": "Close to four million Tigrayans were already gripped by humanitarian disaster even before hostilities resumed last month.",
    "published": "2026-10-08T11:10:21+00:00"
-  },
-  {
-   "id": "721ce071533c",
-   "title": "French high school protests continue despite PM’s promise of action – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/08/france-protests-spain-housing-maria-del-carmen-abascal-burnham-merz-europe-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Demonstrators have rejected a promise by Sébastien Lecornu to present a plan to fix the country’s education system by the end of the month in Athens Over in Athens, Marco Rubio, the US secretary of state, has been forced, yet again, to address allegations of misconduct by…",
-   "published": "2026-10-08T11:09:40+00:00"
-  },
-  {
-   "id": "d0f0b58b6073",
-   "title": "Royal Navy service member charged with spying",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/08/royal-navy-serviceman-arrested-under-national-security-act",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Teddy Young, 24, from Bedfordshire, charged under National Security Act after arrest by counter-terror police A serving member of the Royal Navy has been charged with spying, police have said. Teddy Young, 24, will appear today at Westminster magistrates court after he was…",
-   "published": "2026-10-08T11:07:26+00:00"
   },
   {
    "id": "e469696ae94e",
@@ -294,39 +635,6 @@
    "published": "2026-10-08T11:00:17+00:00"
   },
   {
-   "id": "b3c3f2cc062c",
-   "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
-   "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Surging Treasury yields have begun to hammer parts of the stock market that might easily be overlooked, especially with the spotlight once again shining brightly on a small group of glamorous tech companies.",
-   "published": "2026-10-08T11:00:00+00:00"
-  },
-  {
-   "id": "d4fe01966b88",
-   "title": "USS Lincoln carrier to return to port in San Diego after record-breaking deployment – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Vessel spent over 260 consecutive days at sea without a port call, a US navy record Sign up for the US Breaking News email Worries around artificial intelligence cross party lines, with the vast majority of Americans saying the US government should prioritize keeping AI under…",
-   "published": "2026-10-08T10:55:25+00:00"
-  },
-  {
-   "id": "16c67f2bd64e",
-   "title": "Russian strike on buses kills 33, say officials, as deadly attacks on Ukraine surge",
-   "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
-   "published": "2026-10-08T10:52:50+00:00"
-  },
-  {
    "id": "9bdb418b6bfe",
    "title": "Photos: Protests erupt after 87-year-old evicted woman dies in Madrid",
    "link": "https://www.aljazeera.com/gallery/2026/10/8/photos-protests-erupt-after-87-year-old-evicted-woman-dies-in-madrid?traffic_source=rss",
@@ -358,17 +666,6 @@
    "flourishing_feed": false,
    "summary": "Most of America’s major cities have made little to no progress reducing racial segregation in their public schools over recent decades. Many have slid backward, and are more polarized today than they were at the turn of the century. These challenges were highlighted in Nikole…",
    "published": "2026-10-08T10:45:00+00:00"
-  },
-  {
-   "id": "c4134d649618",
-   "title": "Asos says customer data accessed by hacker posing as trusted contact",
-   "link": "https://www.theguardian.com/business/2026/oct/08/asos-customer-data-accessed-hacker-posing-impersonated",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Customers are told payment details and passwords were not compromised when employee account was breached Business live – live updates Hackers gained access to names and contact details of millions of Asos customers by impersonating a “trusted contact” to gain access to one of…",
-   "published": "2026-10-08T10:35:16+00:00"
   },
   {
    "id": "1055eeb41697",
@@ -411,7 +708,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Eighteen people were wounded in the Russian attack on city in eastern Ukraine's Donetsk region, local authorities say.",
+   "summary": "Eighteen people were wounded in strike on the city in eastern Donetsk region, local authorities say.",
    "published": "2026-10-08T10:31:42+00:00"
   },
   {
@@ -468,17 +765,6 @@
    "flourishing_feed": false,
    "summary": "Throughout the summer, rumors have been bubbling in North New Jersey that ICE has quietly been using a warehouse as a detention center. NPR investigated.",
    "published": "2026-10-08T10:13:18+00:00"
-  },
-  {
-   "id": "be550bae64bd",
-   "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
-   "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
-   "published": "2026-10-08T10:07:58+00:00"
   },
   {
    "id": "aa75e464d621",
@@ -1691,17 +1977,6 @@
    "published": "2026-10-08T01:49:11+00:00"
   },
   {
-   "id": "96721c2e8ff4",
-   "title": "‘He grew up wealthy’: My husband inherited $3 million. He wants a vacation home. I want to save for retirement. Who’s right?",
-   "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
-   "published": "2026-10-08T01:45:00+00:00"
-  },
-  {
    "id": "3a5ae6191a6a",
    "title": "Texas kills man in first US execution since botched lethal injection of Christa Pike",
    "link": "https://www.theguardian.com/us-news/2026/oct/07/texas-execution-jamaal-howard",
@@ -2327,17 +2602,6 @@
    "flourishing_feed": false,
    "summary": "Overhaul of special education in England could unravel, thinktank finds, because of ‘use it before you lose it’ dynamic Labour’s flagship changes to special education in England are at risk of unravelling because parents are rushing to secure support for their children before…",
    "published": "2026-10-07T21:00:00+00:00"
-  },
-  {
-   "id": "fe2107355194",
-   "title": "Higher yields are taking their toll on all areas of the stock market, except the one that matters",
-   "link": "https://www.marketwatch.com/story/higher-yields-are-taking-their-toll-on-all-areas-of-the-stock-market-except-the-one-that-matters-69a90322?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Technology is the only one of the S&P 500’s 11 sectors that gained since Sept. 1, as Treasury yields have climbed to multi-decade highs.",
-   "published": "2026-10-07T20:58:00+00:00"
   },
   {
    "id": "fff5d30fadbf",
@@ -4109,17 +4373,6 @@
    "flourishing_feed": false,
    "summary": "Medicare expects stand-alone Part D premiums to rise by less than $1 in 2027 as it phases out temporary insurer subsidies.",
    "published": "2026-10-07T14:30:00+00:00"
-  },
-  {
-   "id": "c4794f2e5dc6",
-   "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
-   "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“People in the U.S. need to wake up.”",
-   "published": "2026-10-07T14:29:00+00:00"
   },
   {
    "id": "e4555b04a121",
