@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T02:29:34.566579+00:00",
+ "generated": "2026-10-08T03:32:32.640590+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 22
+   "count": 23
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,61 @@
  ],
  "items": [
   {
+   "id": "8369764bb370",
+   "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+   "link": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
+   "published": "2026-10-08T03:02:06+00:00"
+  },
+  {
+   "id": "972c7b28bf25",
+   "title": "Trump wants a new Camp David retreat at his posh Florida golf club",
+   "link": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump's estate would stand in stark contrast to the rustic Camp David and mark another tradition transformed by Trump.",
+   "published": "2026-10-08T03:00:50+00:00"
+  },
+  {
+   "id": "fb78c47dcf69",
+   "title": "US bars Fiji-based man over corruption tied to China",
+   "link": "https://www.aljazeera.com/news/2026/10/8/us-bars-fiji-based-man-over-corruption-tied-to-china?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The State Department has accused the man of paying bribes to Fijian citizens to advance Chinese interests.",
+   "published": "2026-10-08T02:50:17+00:00"
+  },
+  {
+   "id": "df6d7062087a",
+   "title": "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+   "link": "https://www.aljazeera.com/news/2026/10/8/tanker-hit-by-multiple-projectiles-off-north-coast-of-qatar-ukmto-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The UK maritime agency has reported a rise in attacks on vessels in the vital Strait of Hormuz.",
+   "published": "2026-10-08T02:48:25+00:00"
+  },
+  {
+   "id": "6592b61b75c4",
+   "title": "Donald Trump’s Texas rally rocked by repeated protests",
+   "link": "https://www.theguardian.com/us-news/2026/oct/08/donald-trumps-texas-rally-rocked-by-repeated-protests",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump briefly stepped away from the microphone after one protester appeared to approach the stage Donald Trump’s latest campaign rally was rocked by repeated protests on Wednesday as the US president urged Texas voters to back embattled Senate candidate Ken Paxton. At least…",
+   "published": "2026-10-08T02:36:58+00:00"
+  },
+  {
    "id": "69c4b52acbfb",
    "title": "Trump repeats his false claim that Iran could destroy Los Angeles or San Diego – as it happened",
    "link": "https://www.theguardian.com/us-news/live/2026/oct/07/donald-trump-gavin-newsom-california-la-san-diego-iran-republicans-democrats-us-politics-latest-news-updates",
@@ -137,7 +192,18 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "This live blog is now closed. Sign up for the Breaking News US email Tonight, we’ll have another set of midterm debates. In Iowa, we’ll see the Republican nominee for US Senate, Ashley Hinson , face off against Democrat Josh Turek , a state representative and Paralympian at 8pm…",
-   "published": "2026-10-08T02:19:23+00:00"
+   "published": "2026-10-08T02:31:06+00:00"
+  },
+  {
+   "id": "68606c82ca93",
+   "title": "Sharp divides in Indiana secretary of state debate over noncitizen vote, spending audit",
+   "link": "https://indianacapitalchronicle.com/2026/10/07/sharp-divides-in-indiana-secretary-of-state-debate-over-noncitizen-vote-spending-audit/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Republican Max Engling leaned into blocking noncitizen voting as a top priority as he and the other three Indiana secretary of state candidates debated Wednesday night.",
+   "published": "2026-10-08T02:28:25+00:00"
   },
   {
    "id": "70a12f67f467",
@@ -305,6 +371,17 @@
    "published": "2026-10-08T00:47:32+00:00"
   },
   {
+   "id": "da6e1d45759f",
+   "title": "Cornell rape case accuser has received ‘threats’, attorney tells BBC Newsnight",
+   "link": "https://www.bbc.co.uk/news/videos/ckly0420q7ypo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thomas Giuffra is representing a woman, known in legal documents as Jane Doe, who alleges she was raped at a frat house on campus in 2024.",
+   "published": "2026-10-08T00:46:36+00:00"
+  },
+  {
    "id": "17af93929c64",
    "title": "Margaret Hamilton, trailblazer whose software powered Apollo 11 moon landing, dies at 90",
    "link": "https://www.theguardian.com/science/2026/oct/07/margaret-hamilton-moon-computer-software",
@@ -426,6 +503,17 @@
    "published": "2026-10-07T23:33:29+00:00"
   },
   {
+   "id": "ee1eadee3f97",
+   "title": "She made India fall in love with women's cricket - now her era as captain is over",
+   "link": "https://www.bbc.co.uk/news/articles/cm4g1pjrd5ewo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The skipper who led India to the historic 2025 World Cup win has stepped down from her role in all three formats.",
+   "published": "2026-10-07T23:31:00+00:00"
+  },
+  {
    "id": "7a8345602dde",
    "title": "Christa Pike was nearly taken off life support before waking, lawyers say",
    "link": "https://www.aljazeera.com/news/2026/10/7/christa-pike-was-nearly-taken-off-life-support-before-waking-lawyers-say?traffic_source=rss",
@@ -492,6 +580,17 @@
    "published": "2026-10-07T22:58:45+00:00"
   },
   {
+   "id": "24616613318a",
+   "title": "Former Venezuelan President Nicolás Maduro expected to face more charges this week",
+   "link": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The new charges are expected to accuse Maduro and his wife of playing a role in the torture of Americans in Venezuelan prisons, US media reports.",
+   "published": "2026-10-07T22:50:00+00:00"
+  },
+  {
    "id": "0849fd176add",
    "title": "Interviewing Justice Clint Bolick (Ariz.) at UCLA School of Law Monday, October 19 at 5:30 pm",
    "link": "https://reason.com/volokh/2026/10/07/interviewing-justice-clint-bolick-ariz-at-ucla-school-of-law-monday-october-19-at-530-pm/",
@@ -525,6 +624,17 @@
    "published": "2026-10-07T22:20:46+00:00"
   },
   {
+   "id": "bcbb4d2eaba5",
+   "title": "'House of Horrors': California couple accused of abusing surrogate-born children",
+   "link": "https://www.bbc.co.uk/news/videos/cmx236yd1nr6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The BBC's Madeline Gerber describes the conditions of the mansion where the children - some as young as two months old - were living.",
+   "published": "2026-10-07T22:20:03+00:00"
+  },
+  {
    "id": "f48e4f0430eb",
    "title": "‘No to the father, no to the son’: Thousands march in Rio against Bolsonaro",
    "link": "https://www.aljazeera.com/gallery/2026/10/7/no-to-the-father-no-to-the-son-thousands-march-in-rio-against-bolsonaro-2?traffic_source=rss",
@@ -534,6 +644,17 @@
    "flourishing_feed": false,
    "summary": "Students and other protesters marched against Flavio Bolsonaro after he advanced to Brazil's presidential run-off.",
    "published": "2026-10-07T22:14:58+00:00"
+  },
+  {
+   "id": "d6334e94c33e",
+   "title": "How toxic haze is causing Singapore’s landmarks to disappear",
+   "link": "https://www.bbc.co.uk/news/videos/cmp8g7gel3xlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The BBC’s Tessa Wong breaks down how one of Indonesia’s worst wildfire seasons is impacting countries around South East Asia.",
+   "published": "2026-10-07T22:10:20+00:00"
   },
   {
    "id": "fcd51ebc741e",
