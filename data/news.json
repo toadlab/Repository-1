@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T20:34:11.954517+00:00",
+ "generated": "2026-10-08T21:32:03.271430+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,6 +129,259 @@
  ],
  "items": [
   {
+   "id": "31c8d8f33482",
+   "title": "3 storms are approaching the U.S. Here’s where they could hit",
+   "link": "https://www.deseret.com/environment/2026/10/08/el-nino-strikes-again-three-incoming-storms-could-hit-us-coast/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What began as a sunny, predictable week of weather in the West could soon take a turbulent turn as Rachel, Simon and Isaias threaten parts of the U.S. with torrential rain, flash flooding and dangerous travel conditions. The three systems are developing in waters off both U.S.…",
+   "published": "2026-10-08T21:26:20+00:00"
+  },
+  {
+   "id": "7bb8a309fdba",
+   "title": "Police use tear gas and water cannons on student protestors in Paris",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/police-use-tear-gas-and-water-cannons-on-student-protestors-in-paris?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police fired tear gas and water cannons as demonstrators gathered in Paris to demand more funding and teachers.",
+   "published": "2026-10-08T21:17:05+00:00"
+  },
+  {
+   "id": "be4384e4e806",
+   "title": "Russian Plague, Superintelligence, and Tucker Carlson",
+   "link": "https://reason.com/podcast/2026/10/08/russian-plague-superintelligence-and-tucker-carlson/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Robby Soave and Christian Britschgi weigh in on the Russian plague, whether superintelligence is sentient, and Tucker Carlson's shaky grasp of history.",
+   "published": "2026-10-08T21:15:50+00:00"
+  },
+  {
+   "id": "6a4182a2783a",
+   "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+   "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+   "published": "2026-10-08T21:15:00+00:00"
+  },
+  {
+   "id": "5f6c0a4a0fa6",
+   "title": "Trump gives top US science awards to Elon Musk and other tech executives",
+   "link": "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The National Medal of Science is annually given to scientists and engineers for major contributions in their fields.",
+   "published": "2026-10-08T21:11:54+00:00"
+  },
+  {
+   "id": "4ab3d552572b",
+   "title": "I'm Italian American, but I Don't Celebrate Columbus Day.",
+   "link": "https://reason.com/2026/10/08/im-italian-american-but-i-dont-celebrate-columbus-day/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The holiday brings out many of the worst excesses of identity politics.",
+   "published": "2026-10-08T21:08:37+00:00"
+  },
+  {
+   "id": "51f9cd8816ec",
+   "title": "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+   "link": "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load.",
+   "published": "2026-10-08T21:07:00+00:00"
+  },
+  {
+   "id": "70506dd0291f",
+   "title": "What is the Mecca defence pact?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/what-is-the-mecca-defence-pact?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi Arabia, Turkiye and Pakistan are activating their defence pact to counter attacks from Yemen’s Houthis.",
+   "published": "2026-10-08T21:04:48+00:00"
+  },
+  {
+   "id": "6e73d2a1291e",
+   "title": "Polls close in Holborn and St Pancras byelection as Labour hopes to retain seat",
+   "link": "https://www.theguardian.com/politics/2026/oct/08/polls-close-holborn-st-pancras-byelection-labour-greens",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Contest seen as test of Andy Burnham’s ability to unite Labour voters amid threat from Green party’s Zack Polanski Polls have closed in the Holborn and St Pancras byelection , a contest seen as a test of Andy Burnham’s ability to unite Labour’s voters or whether Zack Polanski…",
+   "published": "2026-10-08T21:00:29+00:00"
+  },
+  {
+   "id": "7bc73c461641",
+   "title": "Utah State vs. Washington State: How to watch, listen to or stream the game",
+   "link": "https://www.deseret.com/sports/2026/10/08/utah-state-washington-state-how-to-watch/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Utah State (1-4, 0-1 Pac-12) vs. Washington State (1-4, 0-1 Pac-12) Kickoff: Friday, 7 p.m. MDT Venue: Maverik Stadium TV: The CW Radio: Aggie Sports Network (KZNS 1280 The Zone) Series: Utah State is 2-4 all-time against Washington State, dating back to 1949. The Aggies last…",
+   "published": "2026-10-08T20:59:44+00:00"
+  },
+  {
+   "id": "1b9dd5f85f18",
+   "title": "Historic homecoming: Sea-weary, battle-tested USS Lincoln arrives in San Diego",
+   "link": "https://www.deseret.com/u-s-world/2026/10/08/lincoln-navy-carrier-homecoming-iran-war/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "“Home is the sailor, home from sea.” Robert Louis Stevenson penned that line almost 150 years ago — but on Thursday, those words read sweet and new to thousands of sailors and Marines aboard the USS Abraham Lincoln. After an almost 11-month deployment to the Middle East, the…",
+   "published": "2026-10-08T20:56:37+00:00"
+  },
+  {
+   "id": "92708dd8babd",
+   "title": "What Americans say about repealing the Roadless Rule",
+   "link": "https://www.deseret.com/environment/2026/10/08/public-comments-oppose-repealing-roadless-rule-forest-service/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A review of comments submitted about the potential repeal of the 2001 Roadless Rule by the U.S. Forest Service found that more than 99% oppose the government’s proposal to do so. The published analysis done by the Center for Western Priorities, a conservation advocacy group,…",
+   "published": "2026-10-08T20:56:14+00:00"
+  },
+  {
+   "id": "4c6968db9d0c",
+   "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+   "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Parental controls aren’t just for kids anymore",
+   "published": "2026-10-08T20:55:00+00:00"
+  },
+  {
+   "id": "dfcb3ab8a2e2",
+   "title": "Cottonwood Fire and floods trigger disaster funds from Trump administration",
+   "link": "https://www.deseret.com/environment/2026/10/08/utah-receives-disaster-declaration-following-cottonwood-mudslides/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The state and local governments in Beaver and Piute counties identified at least $47 million in possible eligible damages. The Federal Emergency Management Agency’s public assistance funding will now be available to them. “These rural communities were hit with a one-two punch…",
+   "published": "2026-10-08T20:54:02+00:00"
+  },
+  {
+   "id": "082d11c74432",
+   "title": "US charges Venezuela’s Nicolas Maduro over torture allegations",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/us-charges-venezuelas-nicolas-maduro-over-torture-allegations?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former Venezuelan President Nicolas Maduro and his wife, Cilia Flores face a new US charge over alleged torture.",
+   "published": "2026-10-08T20:47:43+00:00"
+  },
+  {
+   "id": "d9cb27d7089c",
+   "title": "A big AI super PAC tried to follow crypto’s playbook to influence the midterms. Critics say it’s not working out.",
+   "link": "https://www.marketwatch.com/story/a-big-ai-super-pac-tried-to-follow-cryptos-playbook-to-influence-the-midterms-critics-say-its-not-working-out-d27911e6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The political action committee says it’s “continuing to build a durable coalition that wants America to remain the global leader in AI development.”",
+   "published": "2026-10-08T20:44:00+00:00"
+  },
+  {
+   "id": "149f8edff229",
+   "title": "South Africa protests turn violent amid rage over asylum ruling",
+   "link": "https://www.aljazeera.com/news/2026/10/8/south-africa-protests-turn-violent-amid-rage-over-asylum-ruling?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Several cars torched and foreign-run businesses forced to shut in Johannesburg's Soweto and coastal city of Durban.",
+   "published": "2026-10-08T20:43:34+00:00"
+  },
+  {
+   "id": "59b52a67d882",
+   "title": "Men accused of shooting Australian surfer brothers and US friend dead in Mexico to learn fate as trial concludes",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/09/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-trial-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Martin and Debra Robinson, the brothers’ parents, will address the court before a Mexican judge hands down the verdict A Mexican judge is expected to hand down his verdict on Thursday in the high-profile murder trial of three men accused of killing two Australian surfers and…",
+   "published": "2026-10-08T20:40:55+00:00"
+  },
+  {
+   "id": "a32775abe31a",
+   "title": "Wealthtech Vendors Scramble as Orion Introduces Data Access Fees",
+   "link": "https://www.wealthmanagement.com/advisor-support-platforms/wealthtech-vendors-scramble-as-orion-introduces-data-access-fees",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The monthly Connected Ecosystem Support Fee has sparked debate over transparency, pricing models and who ultimately bears the cost in an AI-driven advisory landscape.",
+   "published": "2026-10-08T20:38:46+00:00"
+  },
+  {
+   "id": "3cd56477a4ae",
+   "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
+   "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
+   "published": "2026-10-08T20:38:11+00:00"
+  },
+  {
+   "id": "d4fe01966b88",
+   "title": "USS Lincoln arrives at San Diego base after record-breaking deployment, with families gathered to greet crew – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Aircraft carrier decked out in blue, white and red made its way to port after 260 days at sea led to mental health crisis that made global headlines Thousands turn out to welcome weary USS Lincoln sailors Sign up for the US Breaking News email Donald Trump has urged James…",
+   "published": "2026-10-08T20:37:48+00:00"
+  },
+  {
+   "id": "1e0bd5bb7f6b",
+   "title": "D.C. Wants To Protect Ride-Share Jobs. Riders Could Pay the Price.",
+   "link": "https://reason.com/2026/10/08/d-c-wants-to-protect-ride-share-jobs-riders-could-pay-the-price/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Unions rallied against a D.C. robotaxi bill that already favors them. Riders would pay for their win in higher fares and more dangerous roads.",
+   "published": "2026-10-08T20:35:43+00:00"
+  },
+  {
+   "id": "75515f8018e0",
+   "title": "Israel shuts down British consulate in occupied East Jerusalem",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israel-shuts-down-british-consulate-in-occupied-east-jerusalem?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The British government says it will retain its presence in occupied East Jerusalem after Israel removed its consulate.",
+   "published": "2026-10-08T20:34:00+00:00"
+  },
+  {
    "id": "4e333c57b6fd",
    "title": "Should I put my nest egg in a 30-year Treasury bond?",
    "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
@@ -193,17 +446,6 @@
    "flourishing_feed": false,
    "summary": "Military families admit ‘mixed emotions’ as aircraft carrier finally returns to San Diego after grueling deployment that took severe toll USS Lincoln arrives at San Diego base – live updates By 4am on Thursday, the sky still pitch black, 19-year-old Pvt Grayden Monroe and his…",
    "published": "2026-10-08T20:18:19+00:00"
-  },
-  {
-   "id": "d4fe01966b88",
-   "title": "USS Lincoln arrives at San Diego base after record-breaking deployment, with families gathered to greet crew – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Aircraft carrier decked out in blue, white and red made its way to port after 260 days at sea led to mental health crisis that made global headlines Sign up for the US Breaking News email Donald Trump has urged James Talarico , the Democratic nominee in the US Senate race in…",
-   "published": "2026-10-08T20:14:35+00:00"
   },
   {
    "id": "c6d0f8504d29",
@@ -569,17 +811,6 @@
    "published": "2026-10-08T18:37:02+00:00"
   },
   {
-   "id": "6a4182a2783a",
-   "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-   "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
-   "published": "2026-10-08T18:30:00+00:00"
-  },
-  {
    "id": "f1e60fab812f",
    "title": "A Missouri School District Censored a Parent's Negative Facebook Emoji Because It Was 'Upsetting'",
    "link": "https://reason.com/2026/10/08/a-missouri-school-district-censored-a-parents-negative-emoji-on-facebook-because-it-was-upsetting/",
@@ -774,7 +1005,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Intense flash of radio waves is more than 10bn years old and has travelled through ‘approximately 80% of cosmic history’ A long time ago in a galaxy far, far away, a mysterious flash of energy was released into the universe. Astronomers have now detected that flash, a burst of…",
+   "summary": "Intense flash of radio waves is more than 10bn years old and has travelled through ‘approximately 80% of cosmic history’ A long time ago in a galaxy far, far away, a mysterious flash of energy was released into the universe. Astronomers have now detected that flash – a burst of…",
    "published": "2026-10-08T18:00:25+00:00"
   },
   {
@@ -1172,17 +1403,6 @@
    "flourishing_feed": false,
    "summary": "Taal Volcano near the Philippine capital briefly erupted, sending a dark grey ash plume 4,000 metres above its crater.",
    "published": "2026-10-08T16:55:38+00:00"
-  },
-  {
-   "id": "3cd56477a4ae",
-   "title": "Outspoken Indian actor Nana Patekar dies suddenly at 75",
-   "link": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
-   "published": "2026-10-08T16:54:37+00:00"
   },
   {
    "id": "dfaf7a93a014",
@@ -2644,7 +2864,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Lenora Thaker wins $30,000 prize for ‘a work of state significance’ for The Pearl of Tagai Town, which draws on her family’s history in Cairns-Malay Town A “stunning” debut novel described as “unambiguously and distinctively Queensland” has won the $30,000 top prize at the…",
+   "summary": "Lenora Thaker wins $30,000 prize for ‘a work of state significance’ for The Pearl of Tagai Town, which draws on her family’s history in Cairns-Malay Town Get our weekend culture and lifestyle email A “stunning” debut novel described as “unambiguously and distinctively…",
    "published": "2026-10-08T10:30:16+00:00"
   },
   {
@@ -5451,17 +5671,6 @@
    "flourishing_feed": false,
    "summary": "From HB2, which was enacted last month: Beginning October 1, 2026, all state and local entities and their employees shall… The post Alabama Public University Professors Must Now Call Gulf of Mexico \"Gulf of America\" (Except When Speaking on \"Historical\" Questions) appeared…",
    "published": "2026-10-07T17:28:22+00:00"
-  },
-  {
-   "id": "4c6968db9d0c",
-   "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-   "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Parental controls aren’t just for kids anymore",
-   "published": "2026-10-07T17:27:00+00:00"
   },
   {
    "id": "56a27d72918f",
