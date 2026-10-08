@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T18:36:10.839101+00:00",
+ "generated": "2026-10-08T19:33:01.034895+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -108,8 +108,8 @@
   },
   {
    "name": "WealthManagement.com",
-   "ok": true,
-   "count": 50
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "name": "MarketWatch",
@@ -128,6 +128,204 @@
   }
  ],
  "items": [
+  {
+   "id": "e1f84a5113c3",
+   "title": "Flood damage? Apply for FEMA assistance by Oct. 25",
+   "link": "https://mirrorindy.org/fema-emergency-assistance-deadline-indiana-flooding-2026/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Start or update your FEMA application online or over the phone before the deadline. The post Flood damage? Apply for FEMA assistance by Oct. 25 appeared first on Mirror Indy .",
+   "published": "2026-10-08T19:29:43+00:00"
+  },
+  {
+   "id": "341dbc58d45c",
+   "title": "Residents leave data center meeting with more questions than answers",
+   "link": "https://mirrorindy.org/martindale-brightwood-metrobloks-data-center-east-side-indianapolis-indy-economic-development/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Martindale Brightwood could see a $22.5M investment if tax breaks are approved, but residents are skeptical. The post Residents leave data center meeting with more questions than answers appeared first on Mirror Indy .",
+   "published": "2026-10-08T19:21:57+00:00"
+  },
+  {
+   "id": "e3c2ef53016b",
+   "title": "Blue skies for blue-collar work",
+   "link": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/1008/Blue-skies-for-blue-collar-work?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A stigma that holds back young people from choosing skilled trades may be melting as more countries appreciate what’s needed for crafts in today’s economy.",
+   "published": "2026-10-08T19:18:45+00:00"
+  },
+  {
+   "id": "8da82e65c611",
+   "title": "Man City charges: Maresca says players focused on Liverpool test",
+   "link": "https://www.aljazeera.com/sports/2026/10/8/man-city-charges-maresca-says-players-focused-on-liverpool-test?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Manchester City manager Enzo Maresca claims players unfazed by financial breaches verdict ahead of Liverpool showdown.",
+   "published": "2026-10-08T19:17:38+00:00"
+  },
+  {
+   "id": "2d06b60c94ae",
+   "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+   "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“Both properties will be solely in his name.”",
+   "published": "2026-10-08T19:15:00+00:00"
+  },
+  {
+   "id": "23a8ba4ae288",
+   "title": "Former Cougar cautions BYU to focus on Cyclones, not the Fighting Irish",
+   "link": "https://www.deseret.com/sports/2026/10/08/byu-legend-dermin-gray-offers-sage-advice-to-cougars/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The offseason’s dream scenario of No. 8 BYU and No. 3 Notre Dame meeting on Oct. 17 in Provo as a pair of unbeaten teams is one game away from becoming a reality. The Cougars (4-0) host Iowa State on Friday night (8:15 p.m. MDT, ESPN). Notre Dame (5-0) is home against Stanford…",
+   "published": "2026-10-08T19:15:00+00:00"
+  },
+  {
+   "id": "d4fe01966b88",
+   "title": "USS Lincoln arrives at San Diego base after record-breaking deployment, with families gathered to greet crew – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Aircraft carrier decked out in blue, white and red made its way to port after 260 days at sea led to mental health crisis that made global headlines Sign up for the US Breaking News email Donald Trump has urged James Talarico , the Democratic nominee in the US Senate race in…",
+   "published": "2026-10-08T19:13:41+00:00"
+  },
+  {
+   "id": "abc0e8633e7a",
+   "title": "‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award",
+   "link": "https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Honoured for his artistic resilience, Ali Abu Yasin continued writing for theatre amid the rubble.",
+   "published": "2026-10-08T19:12:33+00:00"
+  },
+  {
+   "id": "36da381167f3",
+   "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+   "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+   "published": "2026-10-08T19:10:06+00:00"
+  },
+  {
+   "id": "90d0da493344",
+   "title": "DoJ seeks to charge ex-Trump aide who gave key testimony on January 6 attack",
+   "link": "https://www.theguardian.com/us-news/2026/oct/08/cassidy-hutchinson-criminal-charges-doj",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Cassidy Hutchinson told panel she had been told Trump lunged for wheel of SUV to try to join mob at Capitol Prosecutors in the justice department’s civil rights division are seeking criminal charges against Cassidy Hutchinson, a former top Trump White House aide who gave…",
+   "published": "2026-10-08T19:06:20+00:00"
+  },
+  {
+   "id": "9b09abde0b94",
+   "title": "Philippines ex-President Duterte fit to stand trial, ICC rules",
+   "link": "https://www.aljazeera.com/news/2026/10/8/philippines-ex-president-duterte-fit-to-stand-trial-icc-rules?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The former president is able to understand the charges and follow the proceedings, panel of experts find.",
+   "published": "2026-10-08T19:06:08+00:00"
+  },
+  {
+   "id": "e543a60062cc",
+   "title": "The Pentagon Is Eating Silicon Valley",
+   "link": "https://reason.com/2026/10/08/the-pentagon-is-eating-silicon-valley/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An influx of military spending has been moving tech companies away from serving consumers and back toward chasing government contracts.",
+   "published": "2026-10-08T19:00:37+00:00"
+  },
+  {
+   "id": "96721c2e8ff4",
+   "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
+   "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
+   "published": "2026-10-08T19:00:00+00:00"
+  },
+  {
+   "id": "e37a77781834",
+   "title": "Hurricane Isaias forecast to bring dangerous storm surge, with millions under warnings in US",
+   "link": "https://www.theguardian.com/world/2026/oct/08/hurricane-isaias-gulf-coast",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Residents in areas from the mouth of the Mississippi River to Florida urged to ‘evacuate if told to do so’ Millions of people from Louisiana to Florida are under hurricane warnings on Thursday as Hurricane Isaias heads toward the US Gulf coast , with weather officials warning…",
+   "published": "2026-10-08T18:53:03+00:00"
+  },
+  {
+   "id": "f5abf010766b",
+   "title": "The options market is reminding investors there’s a cure for rising bond yields — higher yields",
+   "link": "https://www.marketwatch.com/story/the-options-market-is-reminding-investors-theres-a-cure-for-rising-bond-yields-higher-yields-2dcac640?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The MOVE Index — the Treasury market’s “fear gauge” — has reached heights that in the past suggested yields may have peaked, at least for now.",
+   "published": "2026-10-08T18:51:00+00:00"
+  },
+  {
+   "id": "093930924fe8",
+   "title": "Opinion: This fiscal conservative is voting no on Amendment B",
+   "link": "https://www.deseret.com/opinion/2026/10/08/this-fiscal-conservative-is-voting-no-on-amendment-b/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "I’m a fiscal conservative, a business owner, and a past Utah Republican nominee for office — and I oppose Amendment B. Proponents of the ballot measure describe it as a straightforward way to keep your neighbors from raising your taxes. That pitch sounds appealing in theory.…",
+   "published": "2026-10-08T18:50:49+00:00"
+  },
+  {
+   "id": "bee86df2881e",
+   "title": "North Carolina Woman Doesn't Have First Amendment Right to Publish Video of Cop Shooting Her Dogs, Court Rules",
+   "link": "https://reason.com/2026/10/08/north-carolina-woman-doesnt-have-first-amendment-right-to-publish-video-of-cop-shooting-her-dogs-court-rules/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A North Carolina state trooper shot Lydia Nikac's two dogs, but an appeals court ruled she doesn't have a right to publish body camera footage of the shooting under the state's restrictive public records laws.",
+   "published": "2026-10-08T18:43:14+00:00"
+  },
+  {
+   "id": "bc215a84a819",
+   "title": "Suicide is up among Black Americans. We need to talk about it.",
+   "link": "https://www.npr.org/2026/10/08/nx-s1-5963905/suicide-black-americans-discussion-analysis",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "NPR's Michel Martin hosted a panel conversation about mental health and suicide in the Black community, exploring a difficult subject in deeply personal conversations.",
+   "published": "2026-10-08T18:37:02+00:00"
+  },
   {
    "id": "6a4182a2783a",
    "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
@@ -173,17 +371,6 @@
    "published": "2026-10-08T18:23:17+00:00"
   },
   {
-   "id": "d4fe01966b88",
-   "title": "Trump claims US won’t strike Iran before November midterms – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President claims US won’t attack ‘at any time prior’ to elections after reports suggest White House asked Pentagon to develop strike options for before 3 November Send us your questions on how the US economy is shaping the midterm elections Sign up for the US Breaking News…",
-   "published": "2026-10-08T18:21:31+00:00"
-  },
-  {
    "id": "067991399451",
    "title": "S. 675, Theodore Roosevelt Presidential Library Act",
    "link": "https://www.cbo.gov/publication/62845",
@@ -196,14 +383,25 @@
   },
   {
    "id": "a3213942e76a",
-   "title": "Bond yields fell, as the Treasury market passed a crucial test of investor confidence",
+   "title": "Bond yields fall as the Treasury market passes a crucial test of investor confidence",
    "link": "https://www.marketwatch.com/story/the-treasury-market-is-facing-a-crucial-vote-of-investor-confidence-31fa8d41?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Higher bond yields aren’t only about inflation and the Iran war. But it means a higher cost of capital.",
+   "summary": "The 30-year Treasury bond still matters, as it can be a measure of trust in the U.S. government.",
    "published": "2026-10-08T18:19:00+00:00"
+  },
+  {
+   "id": "1ec9e5c40314",
+   "title": "Adidas sues Australian label White Fox over four stripes design",
+   "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+   "published": "2026-10-08T18:17:28+00:00"
   },
   {
    "id": "7927065e2797",
@@ -570,7 +768,7 @@
   },
   {
    "id": "cbdd158f459f",
-   "title": "A lake pilgrimage and a quiet car ride to beach: last hours of sisters who took own lives in Brighton",
+   "title": "A lake pilgrimage and a quiet car ride to the beach: last hours of sisters who took own lives in Brighton",
    "link": "https://www.theguardian.com/uk-news/2026/oct/08/last-hours-three-sisters-brighton-inquest",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -768,7 +966,7 @@
   },
   {
    "id": "dfaf7a93a014",
-   "title": "UEFA details FIFA presidential candidate criteria in bid to oust Infantino",
+   "title": "FIFA President Infantino’s crisis: UEFA details new candidate criteria",
    "link": "https://www.aljazeera.com/sports/2026/10/8/uefa-details-fifa-presidential-candidate-criteria-in-bid-to-oust-infantino?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -776,17 +974,6 @@
    "flourishing_feed": false,
    "summary": "UEFA draws up qualities required for a candidate to run against FIFA President Gianni Infantino in March's election.",
    "published": "2026-10-08T16:53:25+00:00"
-  },
-  {
-   "id": "e37a77781834",
-   "title": "Hurricane Isaias forecast to bring dangerous storm surge, with millions under warnings in US",
-   "link": "https://www.theguardian.com/world/2026/oct/08/hurricane-isaias-gulf-coast",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Residents in areas from the mouth of the Mississippi River to Florida urged to ‘evacuate if told to do so’ Millions of people from Louisiana to Florida are under hurricane warnings on Thursday as Hurricane Isaias heads toward the US Gulf coast with weather officials warning of…",
-   "published": "2026-10-08T16:53:12+00:00"
   },
   {
    "id": "a00ada54df1c",
@@ -1053,17 +1240,6 @@
    "published": "2026-10-08T16:00:23+00:00"
   },
   {
-   "id": "2d06b60c94ae",
-   "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-   "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“Both properties will be solely in his name.”",
-   "published": "2026-10-08T16:00:00+00:00"
-  },
-  {
    "id": "860e9a79657e",
    "title": "Name game: Why is BYU’s Bear Bachmeier quoting Mary Poppins?",
    "link": "https://www.deseret.com/sports/2026/10/08/byu-mary-poppins-bear-bachmeier-name-game-phrase-corn-on-the-cob/",
@@ -1150,17 +1326,6 @@
    "flourishing_feed": false,
    "summary": "Lincoln Party candidate Greg Ballard will soon make it three campaigns with television ads on the air in the Indiana secretary of state’s race.",
    "published": "2026-10-08T15:33:10+00:00"
-  },
-  {
-   "id": "96721c2e8ff4",
-   "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
-   "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
-   "published": "2026-10-08T15:30:00+00:00"
   },
   {
    "id": "a9dc86e24a11",
@@ -2088,13 +2253,13 @@
   },
   {
    "id": "ccf70c89ba01",
-   "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv",
+   "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv",
    "link": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war",
    "source": "NPR News",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Russian strikes in eastern Ukraine have killed 30 people and injured at least 18, according to authorities. The attacks included a strike on a public bus and have worsened power outages in Kyiv.",
+   "summary": "Russia and Ukraine are locked in a long-range aerial war while their armies remain largely deadlocked on the front line, more than 4 1/2 years since Moscow's full-scale invasion.",
    "published": "2026-10-08T11:25:28+00:00"
   },
   {
