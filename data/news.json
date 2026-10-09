@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T19:31:11.215135+00:00",
+ "generated": "2026-10-09T20:30:40.761789+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 29
+   "count": 31
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,279 @@
  ],
  "items": [
   {
+   "id": "803be9069729",
+   "title": "Will Mamdani Make Housing More Affordable?",
+   "link": "https://reason.com/podcast/2026/10/09/will-mamdani-make-housing-more-affordable/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Emily Eisner and Kenny Burgos debate Zohran Mamdani's housing policies.",
+   "published": "2026-10-09T20:20:29+00:00"
+  },
+  {
+   "id": "92a2058e35ce",
+   "title": "Register Now for FINRA’s Small Firm Conference",
+   "link": "https://www.finra.org/compliance-tools/weekly-archive/90302026",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Register Now for FINRA’s Small Firm Conference K34060 Fri, 10/09/2026 - 16:16 September 30, 2026 Features Register Now for FINRA’s Small Firm Conference Our annual Small Firm Conference is scheduled for Oct. 27-28 in Chicago. The conference will focus on small firms’ practices…",
+   "published": "2026-10-09T20:16:40+00:00"
+  },
+  {
+   "id": "4e18150c9776",
+   "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+   "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
+   "published": "2026-10-09T20:15:00+00:00"
+  },
+  {
+   "id": "bca5f986c611",
+   "title": "Is Hair on Your Head \"Personal Property\" for Purposes of Robbery Law?",
+   "link": "https://reason.com/volokh/2026/10/09/is-hair-on-your-head-personal-property-for-purposes-of-robbery-law/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "From the Sept. 30 decision in People v. Barraza by California Court of Appeal Justice Richard Huffman, joined by Justices… The post Is Hair on Your Head \"Personal Property\" for Purposes of Robbery Law? appeared first on Reason Magazine.",
+   "published": "2026-10-09T20:14:14+00:00"
+  },
+  {
    "id": "2b3762f9568b",
-   "title": "Trump announces deal with Putin to release Russian diesel",
+   "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Diesel prices in the US have doubled since the war with Iran began in February, putting pressure on Republicans ahead of the midterms.",
-   "published": "2026-10-09T19:24:38+00:00"
+   "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+   "published": "2026-10-09T20:13:23+00:00"
+  },
+  {
+   "id": "74c1d644b2a7",
+   "title": "Spotlight on World Investor Week",
+   "link": "https://www.finra.org/compliance-tools/weekly-archive/10072026",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Spotlight on World Investor Week K34060 Fri, 10/09/2026 - 16:12 October 7, 2026 Features Spotlight on World Investor Week FINRA is marking World Investor Week by inviting you to explore the following new research and investor content: A study, “ What Separates Sophisticated…",
+   "published": "2026-10-09T20:12:55+00:00"
+  },
+  {
+   "id": "468487cd8e10",
+   "title": "Stocks Climb a Wall of Worry Ahead of Earnings: Stock Market Today",
+   "link": "https://www.kiplinger.com/investing/stocks/stocks-climb-a-wall-of-worry-ahead-of-earnings-stock-market-today",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The stock market closed higher on Friday even as Treasury yields and oil prices rose and consumer sentiment declined.",
+   "published": "2026-10-09T20:11:11+00:00"
+  },
+  {
+   "id": "0923ed5a2dae",
+   "title": "Dignity defined in a Nobel Peace Prize",
+   "link": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/1009/Dignity-defined-in-a-Nobel-Peace-Prize?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This year’s award went to a South African jurist who not only reshaped international law but also says her inspiration came from survivors of atrocities who never gave up their dignity.",
+   "published": "2026-10-09T20:06:06+00:00"
+  },
+  {
+   "id": "e628dce73913",
+   "title": "Anthropic Is Banning 'Cruel Behavior' Toward Claude. Claude Is Still Not a Person.",
+   "link": "https://reason.com/2026/10/09/anthropic-is-banning-cruel-behavior-toward-claude-claude-is-still-not-a-person/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The AI company's decision might be a justifiable idea. But it appears it was made for the wrong reason.",
+   "published": "2026-10-09T20:05:10+00:00"
+  },
+  {
+   "id": "9ab476936bdf",
+   "title": "Here’s how Treasury yields could rise to 6% — even without market upheaval",
+   "link": "https://www.marketwatch.com/story/heres-how-treasury-yields-could-rise-to-6-even-without-market-upheaval-7d9fac9c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The bond market will be closed on Monday for Columbus Day, but the stock market will operate normally.",
+   "published": "2026-10-09T20:03:00+00:00"
+  },
+  {
+   "id": "e436fd9be388",
+   "title": "Commentator Katie Zacharia picked as new White House press secretary",
+   "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+   "published": "2026-10-09T19:58:27+00:00"
+  },
+  {
+   "id": "c6e4ef5316a4",
+   "title": "Pretty Little Liars’ Keegan Allen attacked by masked assailants in LA",
+   "link": "https://www.theguardian.com/us-news/2026/oct/09/keegan-allen-attacked",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Actor was robbed of his watch after being struck in the head by two attackers wielding a gun and a knife The Pretty Little Liars actor Keegan Allen was battered and robbed by attackers wielding a knife and gun in West Hollywood, he said on Thursday in a social media video…",
+   "published": "2026-10-09T19:53:35+00:00"
+  },
+  {
+   "id": "2f5768dcf748",
+   "title": "New York City’s Marble Hill residents furious after ICE shooting: ‘Why do this?’",
+   "link": "https://www.theguardian.com/us-news/2026/oct/09/marble-hill-new-york-city-ice-shooting-reaction",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Locals also express fear after man shot in the neck while his child was in the back of his car Residents of Manhattan’s Marble Hill neighborhood were furious at federal Immigration and Customs Enforcement (ICE) on Friday but also scared after an officer shot their neighbor who…",
+   "published": "2026-10-09T19:53:18+00:00"
+  },
+  {
+   "id": "d3bfc37a6fdb",
+   "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
+   "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hazardous waves are possible as far south as Ecuador and as far north as Mexico, as 13 aftershocks reported A powerful 7.6 magnitude earthquake has struck Panama and triggered tsunami warnings along the west coast of Central and South America, according to the US Geological…",
+   "published": "2026-10-09T19:52:48+00:00"
+  },
+  {
+   "id": "24421fd2544b",
+   "title": "Despite a Notable Victory in Oklahoma, Legal Challenges to Flock Cameras Still Face Long Odds",
+   "link": "https://reason.com/2026/10/09/despite-a-notable-victory-in-oklahoma-legal-challenges-to-flock-cameras-still-face-long-odds/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "State and federal courts have almost uniformly ruled that searches of ALPR databases do not implicate the Fourth Amendment.",
+   "published": "2026-10-09T19:50:20+00:00"
+  },
+  {
+   "id": "bcddbe8093a9",
+   "title": "Vance casts doubt on whether execution livestream ‘is actually going to happen’ as more Republicans join outcry – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Utah senator John Curtis says decision to broadcast execution of Nidal Hasan ‘risks feeding the appetite’ as Vance says he won’t watch if livestream goes ahead ‘Medieval’ and ‘disturbing’: US plan to livestream execution elicits global condemnation Sign up for the US Breaking…",
+   "published": "2026-10-09T19:49:14+00:00"
+  },
+  {
+   "id": "6b1925297f8b",
+   "title": "Thai Queen makes first solo flight in fighter jet",
+   "link": "https://www.bbc.co.uk/news/videos/cqm263x40y37o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thailand’s Queen Suthida made her first solo flight in a fighter jet, according to the Thai Royal Household.",
+   "published": "2026-10-09T19:48:26+00:00"
+  },
+  {
+   "id": "8048f3ea2915",
+   "title": "Country music star Zach Bryan buys $18 million, 40-acre Tennessee estate after getting married",
+   "link": "https://www.marketwatch.com/story/country-music-star-zach-bryan-buys-18-million-40-acre-tennessee-estate-after-getting-married-cb4d20eb?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Country star Zach Bryan has reportedly forked over $18.25 million for a sprawling estate in Franklin, Tenn.—months after tying the knot with Samantha Leonard.",
+   "published": "2026-10-09T19:48:00+00:00"
+  },
+  {
+   "id": "fdd7c37e58d1",
+   "title": "Trump announces Russian diesel deal amid soaring US fuel prices",
+   "link": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.",
+   "published": "2026-10-09T19:47:33+00:00"
+  },
+  {
+   "id": "7edba047f7fc",
+   "title": "AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say",
+   "link": "https://www.theguardian.com/world/2026/oct/09/flock-job-cuts",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Company, which grown rapidly in recent years, has been under scrutiny as privacy concerns grow Flock Safety plans to let go of about 18% of its employees, people with direct ⁠knowledge of the plans said on Thursday, as the maker of AI -powered surveillance cameras and…",
+   "published": "2026-10-09T19:46:53+00:00"
+  },
+  {
+   "id": "28e071abc818",
+   "title": "America’s good hurricane luck is about to run out",
+   "link": "https://www.vox.com/today-explained-newsletter/505981/hurricane-isaias-storm-forecast-disaster-relief-el-nino",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here. The first hurricane of the fall season is expected to strike the Gulf Coast overnight, marking the latest onset of hurricane…",
+   "published": "2026-10-09T19:45:00+00:00"
+  },
+  {
+   "id": "43c553fc6e2c",
+   "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+   "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+   "published": "2026-10-09T19:39:52+00:00"
+  },
+  {
+   "id": "925b6ffd4c7c",
+   "title": "2025088717701 Buddy Dean Mason CRD 1721391 AWC lp.pdf",
+   "link": "https://www.finra.org/node/390426",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "2025088717701 Buddy Dean Mason CRD 1721391 AWC lp.pdf Anonymous (not verified) Fri, 10/09/2026 - 15:35 Case ID 2025088717701 Document Number e6bd3970 Document Type AWCs (Letters of Acceptance, Waiver, and Consent) Individuals Buddy Dean Mason Action Date Fri, 10/09/2026 - 12:00…",
+   "published": "2026-10-09T19:35:02+00:00"
+  },
+  {
+   "id": "c83d12b7ddfc",
+   "title": "European states, Canada, Japan and UN back ICC against US sanctions",
+   "link": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Several US allies call to 'defend' and 'protect' the ICC following Washington's decision to sanction the judiciary body.",
+   "published": "2026-10-09T19:32:13+00:00"
+  },
+  {
+   "id": "035be49815d1",
+   "title": "Short Circuit: An inexhaustive weekly compendium of rulings from the federal courts of appeal",
+   "link": "https://reason.com/volokh/2026/10/09/short-circuit-an-inexhaustive-weekly-compendium-of-rulings-from-the-federal-courts-of-appeal-80/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prison phone calls, volcanic eruptions, and animal testing.",
+   "published": "2026-10-09T19:30:24+00:00"
   },
   {
    "id": "4b45028f4a9c",
@@ -149,17 +413,6 @@
    "flourishing_feed": false,
    "summary": "Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings after the quake.",
    "published": "2026-10-09T19:22:56+00:00"
-  },
-  {
-   "id": "e436fd9be388",
-   "title": "Commentator Katie Zacharia picked as new White House press secretary",
-   "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-   "published": "2026-10-09T19:22:33+00:00"
   },
   {
    "id": "d49a397bee12",
@@ -215,17 +468,6 @@
    "flourishing_feed": false,
    "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
    "published": "2026-10-09T19:00:00+00:00"
-  },
-  {
-   "id": "bcddbe8093a9",
-   "title": "Vance casts doubt on whether execution livestream ‘is actually going to happen’ as more Republicans join outcry – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Vice-president joins lawmakers expressing doubt about decision to broadcast execution of Nidal Hasan as Utah senator John Curtis says livestream ‘risks feeding the appetite’ ‘Medieval’ and ‘disturbing’: US plan to livestream execution elicits global condemnation Sign up for the…",
-   "published": "2026-10-09T18:57:36+00:00"
   },
   {
    "id": "728cfa4e8ac1",
@@ -347,17 +589,6 @@
    "flourishing_feed": false,
    "summary": "US immigration officer shot man in car where five-year-old child was sitting in the Bronx, sparking fierce protests Leading New York Democrats expressed anger and demanded curbs on Immigration and Customs Enforcement ( ICE ) violence after a federal officer shot a man driving a…",
    "published": "2026-10-09T18:29:56+00:00"
-  },
-  {
-   "id": "d3bfc37a6fdb",
-   "title": "Powerful 7.6-magnitude earthquake hits Panama and triggers tsunami warnings",
-   "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Hazardous waves are possible in Costa Rica, Ecuador, Peru, Nicaragua, Guatemala, El Salvador and Mexico A powerful 7.6 magnitude earthquake has struck Panama and triggered tsunami warnings along the west coast of Central and South America, according to the US Geological Survey…",
-   "published": "2026-10-09T18:29:26+00:00"
   },
   {
    "id": "40b492073a66",
@@ -598,7 +829,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+   "summary": "Oscar Bergal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
    "published": "2026-10-09T17:36:09+00:00"
   },
   {
@@ -680,7 +911,7 @@
   },
   {
    "id": "584aa1b4ae07",
-   "title": "Labour byelection win shows party starting to win back voters on left",
+   "title": "Labour hails byelection win as return of leftwing voters after Starmer era",
    "link": "https://www.theguardian.com/politics/2026/oct/09/labour-byelection-winning-back-voters-on-left-greens",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -908,17 +1139,6 @@
    "flourishing_feed": false,
    "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel…",
    "published": "2026-10-09T16:30:09+00:00"
-  },
-  {
-   "id": "4e18150c9776",
-   "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. She wants me to leave my home to her two children.",
-   "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
-   "published": "2026-10-09T16:30:00+00:00"
   },
   {
    "id": "7343e10e8dea",
@@ -2292,7 +2512,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "WEST PALM BEACH, Fla. — Sean Hannity has just finished recording a podcast with Karoline Leavitt , and after saying goodbye to her and her husband, settled back into his chair on a dimly lit set designed to look like a “man cave.” There are swords and footballs, athletic…",
+   "summary": "Sean Hannity has just finished recording a podcast with Karoline Leavitt , and after saying goodbye to her and her husband, settled back into his chair on a dimly lit set designed to look like a “man cave.” There are swords and footballs, athletic jerseys and a pool table, and…",
    "published": "2026-10-09T10:00:00+00:00"
   },
   {
