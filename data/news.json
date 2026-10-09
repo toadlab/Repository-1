@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T10:33:55.438201+00:00",
+ "generated": "2026-10-09T11:30:27.216928+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 36
+   "count": 34
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,237 @@
  ],
  "items": [
   {
+   "id": "1f36d06a3b96",
+   "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+   "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza Nobel peace prize – latest updates The Nobel Peace Prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN…",
+   "published": "2026-10-09T11:24:10+00:00"
+  },
+  {
+   "id": "d7c7a0654af4",
+   "title": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Nobel committee chair says the winner was ‘instrumental in ensuring war crimes, crimes against humanity and genocide are prosecuted’ You can watch along below, but I will bring you all the key lines here. Spoiler alert (not really). Continue reading...",
+   "published": "2026-10-09T11:22:12+00:00"
+  },
+  {
+   "id": "bcddbe8093a9",
+   "title": "Pentagon plan to livestream execution of Fort Hood shooter prompts fierce political backlash – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lawmakers branded the move as ‘disturbing’ and compared it to the actions of some terror groups and oppressive governments US voters are about to deliver their first national verdict on the second presidency of Donald Trump. On 3 November, millions of Americans will vote in…",
+   "published": "2026-10-09T11:15:17+00:00"
+  },
+  {
+   "id": "96721c2e8ff4",
+   "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
+   "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
+   "published": "2026-10-09T11:15:00+00:00"
+  },
+  {
+   "id": "95ec2385725b",
+   "title": "Polanski defends leadership of Greens and says he will not step down after byelection defeat by Labour – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sagal Abdi-Wali defeats Green party leader Zack Polanski to retain the Holborn and St Pancras seat for Labour Report: Labour wins Holborn and St Pancras byelection Analysis: defeat will disappoint Greens – but there may also be relief Activists in Camden have suggested the…",
+   "published": "2026-10-09T11:14:13+00:00"
+  },
+  {
+   "id": "c6ac841ce7ed",
+   "title": "Ask the Tax Editor: Questions on Estate Taxes",
+   "link": "https://www.kiplinger.com/taxes/tax-law/ask-the-tax-editor-october-9-questions-on-estate-taxes",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Joy Taylor answers questions from readers on federal and state estate taxes.",
+   "published": "2026-10-09T11:10:00+00:00"
+  },
+  {
+   "id": "6ac0e4fa5373",
+   "title": "‘Indentured servants’: US green card move will hit thousands of IT workers",
+   "link": "https://www.aljazeera.com/news/2026/10/9/indentured-servants-us-green-card-move-will-hit-thousands-of-it-workers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US is suspending top tech firms, including Microsoft, from a key programme to sponsor foreign workers’ green cards.",
+   "published": "2026-10-09T11:08:05+00:00"
+  },
+  {
+   "id": "3a003a98e9fd",
+   "title": "‘Is it April fool’s?’ Navi Pillay reacts to Nobel Peace Prize news",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "International judge Navi Pillay was applauded by colleagues as she gave her first public reaction to her Peace Prize.",
+   "published": "2026-10-09T11:07:52+00:00"
+  },
+  {
+   "id": "c4b25dc50d07",
+   "title": "Aging bull: Why the four-year old stock-market rally can still pack a punch",
+   "link": "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "History shows bull markets that get past their fourth year rarely throw in the towel, according to Truist Advisory Services.",
+   "published": "2026-10-09T11:02:00+00:00"
+  },
+  {
+   "id": "56a581fb26ba",
+   "title": "The Midterm Winner Will Be Whichever Party Americans Hate Less",
+   "link": "https://reason.com/2026/10/09/the-midterm-winner-will-be-whichever-party-americans-hate-less/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "U.S. voters continue to be motivated more by whom they loathe than whom they like.",
+   "published": "2026-10-09T11:00:34+00:00"
+  },
+  {
+   "id": "6b197b0d5d9a",
+   "title": "Today in Supreme Court History: October 9, 1954",
+   "link": "https://reason.com/volokh/2026/10/09/today-in-supreme-court-history-october-9-1954-8/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "10/9/1954: Justice Robert H. Jackson dies. The post Today in Supreme Court History: October 9, 1954 appeared first on Reason Magazine.",
+   "published": "2026-10-09T11:00:02+00:00"
+  },
+  {
+   "id": "e4e8da59f0ce",
+   "title": "Why American investors love European defense startups",
+   "link": "https://www.npr.org/sections/planet-money/2026/10/09/nx-s1-5995606/why-american-investors-love-european-defense-startups",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As European defense spending takes off, just about half of the funding in Europe's defense tech industry is coming from American investors this year. One reason why: European investment firms have restrictions on how they can invest.",
+   "published": "2026-10-09T11:00:00+00:00"
+  },
+  {
+   "id": "e49f0e45a344",
+   "title": "AI Boom Pushes Bond Yields Higher: What It Means to Investors",
+   "link": "https://www.kiplinger.com/investing/bonds/ai-boom-pushes-bond-yields-higher",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Tech companies are borrowing so heavily to fund the AI build-out that they're driving up interest rates and setting up a government-debt headache.",
+   "published": "2026-10-09T11:00:00+00:00"
+  },
+  {
+   "id": "0f4b08efef87",
+   "title": "Labour fends off the Green party in closely watched UK by-election",
+   "link": "https://www.aljazeera.com/news/2026/10/9/labour-fends-off-the-green-party-in-closely-watched-uk-by-election?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sagal Abdi-Wali won by 3,300 votes in the London seat of Holborn and St Pancras.",
+   "published": "2026-10-09T10:56:33+00:00"
+  },
+  {
+   "id": "b21ed3bfdc9c",
+   "title": "Crazy Rich Asians to return as TV show with original film's stars",
+   "link": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The show will pick up after the hit 2018 film, and will also star Michelle Yeoh and Ronny Chieng.",
+   "published": "2026-10-09T10:54:21+00:00"
+  },
+  {
+   "id": "2e965c93e7d0",
+   "title": "Hegseth promises execution live stream as Trump appears to ‘pause’ war on Iran | First Thing",
+   "link": "https://www.theguardian.com/us-news/2026/oct/09/first-thing-hegseth-promises-execution-live-stream-trump-pause-war-iran",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US president says US will not attack Iran before midterms, while defense secretary says Nidal Hasan will face a firing squad next month. Plus, Sofia Coppola looks back on her glittering directorial career Good morning. The defense secretary, Pete Hegseth, has said the execution…",
+   "published": "2026-10-09T10:49:55+00:00"
+  },
+  {
+   "id": "10c1dd1a4d88",
+   "title": "Leader of Jewish Greens calls for Zack Polanski to resign",
+   "link": "https://www.theguardian.com/politics/2026/oct/09/leader-of-jewish-greens-calls-for-zack-polanski-to-resign",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Vivien Lichtenstein says party leader should stand down over ‘Zionism is racism’ policy after losing byelection UK politics live – latest updates The leader of the Jewish Greens has called for Zack Polanski to step down as pressure increases on the Green leader to acknowledge…",
+   "published": "2026-10-09T10:48:50+00:00"
+  },
+  {
+   "id": "575dc4890141",
+   "title": "Antarctica’s penguins are sending us a distress signal",
+   "link": "https://www.vox.com/climate/505726/chinstrap-penguins-zavodovski-colony-collapse-ocean-warming",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This story was originally published by The Guardian and is reproduced here as part of the Climate Desk collaboration. The world’s largest penguin colony has declined by two-thirds since 2011, most likely because of the climate crisis, a study has revealed. Scientists said the…",
+   "published": "2026-10-09T10:45:00+00:00"
+  },
+  {
+   "id": "c5b26b56d8b2",
+   "title": "Is Trump signalling a return to war with Iran after the midterms?",
+   "link": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US media reports suggest he may be weighing strikes before the vote, but the president has ruled that out.",
+   "published": "2026-10-09T10:40:36+00:00"
+  },
+  {
+   "id": "9016d1f36749",
+   "title": "Ex-OpenAI staff say they were fired for raising safety concerns",
+   "link": "https://www.aljazeera.com/economy/2026/10/9/ex-openai-staff-say-they-were-fired-for-raising-safety-concerns?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three former researchers pen open letter warning of 'chilling' effect on company culture.",
+   "published": "2026-10-09T10:39:07+00:00"
+  },
+  {
+   "id": "c716ef335602",
+   "title": "Review: These Talking Dogs Give Children the Wrong Idea About Government",
+   "link": "https://reason.com/2026/10/09/shmoo-ozzie-go-to-washington/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Shmoo & Ozzie Go to Washington is supposed to be about bipartisanship, but it's really about wasteful spending.",
+   "published": "2026-10-09T10:30:54+00:00"
+  },
+  {
    "id": "36f51b25a527",
    "title": "Trump’s Diesel Price Problem",
    "link": "https://thedispatch.com/newsletter/morning/trumps-diesel-price-problem/",
@@ -140,26 +371,26 @@
    "published": "2026-10-09T10:29:41+00:00"
   },
   {
-   "id": "95ec2385725b",
-   "title": "Polanski defends leadership of Greens and says he will not step down after byelection defeat by Labour – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
-   "source": "The Guardian World",
+   "id": "34cd26663997",
+   "title": "The girls in the Gaza school photograph",
+   "link": "https://www.aljazeera.com/features/longform/2026/10/9/the-girls-in-the-gaza-school-photograph?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Sagal Abdi-Wali defeats Green party leader Zack Polanski to retain the Holborn and St Pancras seat for Labour Report: Labour wins Holborn and St Pancras byelection Analysis: defeat will disappoint Greens – but there may also be relief Activists in Camden have suggested the…",
-   "published": "2026-10-09T10:28:28+00:00"
+   "summary": "Just before the genocide, 15 Gaza schoolgirls posed for a photograph. Three years on, Al Jazeera went looking for them.",
+   "published": "2026-10-09T10:23:42+00:00"
   },
   {
-   "id": "d7c7a0654af4",
-   "title": "Navi Pillay named winner of 2026 Nobel peace prize for efforts to promote international law - live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "d8ae9ac2ecc3",
+   "title": "Nobel chair admits they haven’t reached Peace Prize winner Pillay",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/nobel-chair-admits-they-havent-reached-peace-prize-winner-pillay?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The Nobel committee chair says the winner was ‘instrumental in ensuring war crimes, crimes against humanity and genocide are prosecuted’ You can watch along below, but I will bring you all the key lines here. Spoiler alert (not really). Continue reading...",
-   "published": "2026-10-09T10:21:50+00:00"
+   "summary": "The Nobel Committee has admitted that it has been unable to reach the ICJ judge to tell her the news.",
+   "published": "2026-10-09T10:18:41+00:00"
   },
   {
    "id": "6a4182a2783a",
@@ -382,17 +613,6 @@
    "published": "2026-10-09T09:43:22+00:00"
   },
   {
-   "id": "1f36d06a3b96",
-   "title": "ICJ judge Navi Pillay wins Nobel peace prize for defending international law",
-   "link": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Norwegian committee recognises achievements of former UN rights chief who stood up against apartheid in South Africa Nobel peace prize – latest updates Former UN human rights chief Navanethem “Navi” Pillay, a judge on the international court of justice (ICJ), has won the Nobel…",
-   "published": "2026-10-09T09:32:14+00:00"
-  },
-  {
    "id": "8e250ba036a1",
    "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
    "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
@@ -488,7 +708,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Pillay has been instrumental in ensuring war crimes and genocide are prosecuted, says the Nobel committee.",
+   "summary": "Pillay has been instrumental in ensuring war crimes and genocide are prosecuted, Nobel committee says.",
    "published": "2026-10-09T09:06:43+00:00"
   },
   {
@@ -708,7 +928,7 @@
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "The artificial-intelligence build-out is most often associated with the dot-com boom at the end of the last century, but quants at one Wall Street giant identify another parallel: to the bell-bottomed, polyester suit, high-inflation era of the late 1970s.",
+   "summary": "The artificial-intelligence build-out is most often associated with the dot-com boom at the end of the last century, but quants at one Wall Street giant have identified another parallel: the bell-bottomed, polyester suit, high-inflation era of the late 1970s.",
    "published": "2026-10-09T08:49:00+00:00"
   },
   {
@@ -1876,17 +2096,6 @@
    "flourishing_feed": false,
    "summary": "OpenAI’s annualized revenue reportedly fell short of expectations — but analysts say that reflects differences in how the figure is reported, not weakness in AI demand.",
    "published": "2026-10-08T22:08:00+00:00"
-  },
-  {
-   "id": "96721c2e8ff4",
-   "title": "My husband inherited $3 million. He wants a vacation home, but I want to save for retirement. Who’s right?",
-   "link": "https://www.marketwatch.com/story/he-grew-up-wealthy-my-husband-inherited-3-million-he-wants-a-vacation-home-i-want-to-save-for-retirement-a240f0d8?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I keep thinking about giving each child $750,000 toward a house.”",
-   "published": "2026-10-08T22:00:00+00:00"
   },
   {
    "id": "e81b9d78db7d",
