@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T20:30:40.761789+00:00",
+ "generated": "2026-10-09T21:31:08.213445+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,325 @@
  ],
  "items": [
   {
+   "id": "7bf0a06fad68",
+   "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
+   "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A new report paints OpenAI’s financial picture in a more optimistic light.",
+   "published": "2026-10-09T21:27:00+00:00"
+  },
+  {
+   "id": "43c553fc6e2c",
+   "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
+   "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
+   "published": "2026-10-09T21:26:30+00:00"
+  },
+  {
+   "id": "8c1e4d4a5747",
+   "title": "Trump says U.S. to get diesel from Russia, relaxing pressure on Moscow to ease prices before midterms",
+   "link": "https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump says the U.S. will obtain diesel from Russia, relaxing years of U.S. pressure on Moscow, to combat prices before midterms. He said he struck the deal with Russian President Vladimir Putin in a phone call.",
+   "published": "2026-10-09T21:24:13+00:00"
+  },
+  {
+   "id": "f7481973a64e",
+   "title": "Microsoft is nearing a big milestone that solidifies its revival",
+   "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
+   "published": "2026-10-09T21:24:00+00:00"
+  },
+  {
+   "id": "2b3762f9568b",
+   "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+   "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+   "published": "2026-10-09T21:16:49+00:00"
+  },
+  {
+   "id": "7bb634f5f941",
+   "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
+   "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I presume these are sophisticated investors taking a profit.”",
+   "published": "2026-10-09T21:15:00+00:00"
+  },
+  {
+   "id": "bcddbe8093a9",
+   "title": "Vance casts doubt on whether execution livestream ‘is actually going to happen’ as more Republicans join outcry – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Utah senator John Curtis says decision to broadcast execution of Nidal Hasan ‘risks feeding the appetite’ as Vance says he won’t watch if livestream goes ahead ‘Medieval’ and ‘disturbing’: US plan to livestream execution elicits global condemnation Sign up for the US Breaking…",
+   "published": "2026-10-09T21:14:28+00:00"
+  },
+  {
+   "id": "1defd0d5935d",
+   "title": "Big Ten commissioner Tony Petitti shuts down expansion rumors",
+   "link": "https://www.deseret.com/sports/2026/10/09/big-ten-commissioner-tony-petitti-on-expansion-rumors/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Big Ten addressed the issue of conference expansion ahead of potential capping from the Protect College Sports Act, which has cleared the Senate and will be taken up by the House of Representatives. The conference could add two more members under the pending bill’s…",
+   "published": "2026-10-09T21:12:36+00:00"
+  },
+  {
+   "id": "2f5768dcf748",
+   "title": "New York City’s Marble Hill residents furious after ICE shooting: ‘Why do this?’",
+   "link": "https://www.theguardian.com/us-news/2026/oct/09/marble-hill-new-york-city-ice-shooting-reaction",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Locals also express fear after man shot in the neck while his child was in the back of his car Residents of Manhattan’s Marble Hill neighborhood were furious at federal Immigration and Customs Enforcement (ICE) on Friday but also scared after an officer shot their neighbor who…",
+   "published": "2026-10-09T21:08:53+00:00"
+  },
+  {
+   "id": "e436fd9be388",
+   "title": "Commentator Katie Zacharia picked as new White House press secretary",
+   "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
+   "published": "2026-10-09T21:08:04+00:00"
+  },
+  {
+   "id": "dd1eb901d543",
+   "title": "BYU announces ‘substantial investment in football facilities,’ additional NIL opportunities in landmark partnership with PV3 Enterprises",
+   "link": "https://www.deseret.com/sports/2026/10/09/byu-pv3-partnership-investment-football-facilities-name-image-likeness/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In what the school is calling “the largest philanthropic commitment in the history of BYU Athletics,” Brigham Young University announced Friday that it has entered into a partnership with Utah-based PV3 Enterprises that will bring a “substantial investment in football…",
+   "published": "2026-10-09T21:07:20+00:00"
+  },
+  {
+   "id": "cea1340d7b52",
+   "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
+   "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Telecommunications stocks saw their worst daily drops in over a decade.",
+   "published": "2026-10-09T21:07:00+00:00"
+  },
+  {
+   "id": "c3ee09490263",
+   "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+   "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found at the bottom of a well.",
+   "published": "2026-10-09T21:04:59+00:00"
+  },
+  {
+   "id": "fcdb799f9c56",
+   "title": "Manchester United vs Tottenham: Premier League – teams, prediction, lineups",
+   "link": "https://www.aljazeera.com/sports/2026/10/9/manchester-united-vs-tottenham-premier-league-teams-prediction-lineups?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Man United and Tottenham Hotspur managers under increasing pressure ahead of Premier League clash at Old Trafford.",
+   "published": "2026-10-09T21:04:00+00:00"
+  },
+  {
+   "id": "6a4182a2783a",
+   "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+   "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+   "published": "2026-10-09T21:00:00+00:00"
+  },
+  {
+   "id": "7f526f0a2b3f",
+   "title": "I Am Now \"THE ENEMY!\" (as Is Everyone Who Uses the Term \"Artificial Intelligence\")",
+   "link": "https://reason.com/volokh/2026/10/09/i-am-now-the-enemy-as-is-everyone-who-uses-the-term-artificial-intelligence/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What is this even supposed to mean? Is it just self-parody? The post I Am Now \"THE ENEMY!\" (as Is Everyone Who Uses the Term \"Artificial Intelligence\") appeared first on Reason Magazine.",
+   "published": "2026-10-09T20:59:15+00:00"
+  },
+  {
+   "id": "4326be131a10",
+   "title": "Northern Ireland secretary Chris Bryant bans Drumcree parade",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/09/northern-ireland-secretary-chris-bryant-bans-drumcree-parade",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prospect of contentious Orange Order march down Garvaghy Road has led to a two-week standoff in Portadown The Northern Ireland secretary, Chris Bryant, has announced he will ban the contentious Drumcree parade . Bryant said it had not been possible to find accommodation between…",
+   "published": "2026-10-09T20:58:00+00:00"
+  },
+  {
+   "id": "a2991d5718ad",
+   "title": "UN envoy warns Yemen has returned to ‘full-scale war’, urges dialogue",
+   "link": "https://www.aljazeera.com/news/2026/10/9/un-envoy-warns-yemen-has-returned-to-full-scale-war-urges-dialogue?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi Arabia and Yemen's internationally recognised gov't urge UN Security Council action amid Houthi escalation.",
+   "published": "2026-10-09T20:56:01+00:00"
+  },
+  {
+   "id": "38bae686039e",
+   "title": "Ammon Bundy arrested in southern Utah during traffic stop",
+   "link": "https://www.deseret.com/utah/2026/10/09/ammon-bundy-arrested-in-southern-utah-during-traffic-stop/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Conservative activist Ammon Bundy was arrested in southern Utah this week for allegedly driving without a valid license or registration and refusing to obey police commands.",
+   "published": "2026-10-09T20:54:59+00:00"
+  },
+  {
+   "id": "3ed9906e1180",
+   "title": "‘Abolish ICE’: Mamdani, AOC and other Democrats urge action after New York shooting",
+   "link": "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Immigration officer shot man in car where five-year-old child was sitting, sparking fierce protests Leading New York Democrats expressed anger and demanded curbs on Immigration and Customs Enforcement ( ICE ) violence after a federal officer shot a man driving a car in which…",
+   "published": "2026-10-09T20:51:42+00:00"
+  },
+  {
+   "id": "4e2184c9c884",
+   "title": "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
+   "link": "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
+   "published": "2026-10-09T20:51:00+00:00"
+  },
+  {
+   "id": "8a3b04ff1c16",
+   "title": "State audit dings Pike Township over pay, mileage logs",
+   "link": "https://mirrorindy.org/pike-township-audit-pay-increases-trustee-annette-johnson-indianapolis/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trustee Annette Johnson said she’s rectifying the issues. The post State audit dings Pike Township over pay, mileage logs appeared first on Mirror Indy .",
+   "published": "2026-10-09T20:49:04+00:00"
+  },
+  {
+   "id": "77c5ac675893",
+   "title": "H.R. 6652, U.S. Vets of the FAS Act",
+   "link": "https://www.cbo.gov/publication/62848",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As ordered reported by the House Committee on Veterans’ Affairs on May 14, 2026",
+   "published": "2026-10-09T20:43:00+00:00"
+  },
+  {
+   "id": "a382270f159b",
+   "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+   "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
+   "published": "2026-10-09T20:42:11+00:00"
+  },
+  {
+   "id": "06b14cf1f0fe",
+   "title": "H.R. 9642, Medicare Access to Rural Anesthesiology Act",
+   "link": "https://www.cbo.gov/publication/62846",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As ordered reported by the House Committee on Ways and Means on July 15, 2026",
+   "published": "2026-10-09T20:42:00+00:00"
+  },
+  {
+   "id": "939721d5fe45",
+   "title": "How will Spain’s housing crisis affect elections?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/10/9/how-will-spains-housing-crisis-impact-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Snap vote called after Parliament rejects measures to protect tenants and freeze rents.",
+   "published": "2026-10-09T20:39:11+00:00"
+  },
+  {
+   "id": "02814b85ab6f",
+   "title": "Flydubai co-pilot planned suicide attack on Israeli airport, UAE prosecutors say",
+   "link": "https://www.theguardian.com/world/2026/oct/09/flydubai-co-pilot-planned-suicide-attack-on-israeli-airport-uae-prosecutors-say",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hammam al-Hammami is believed to have been targeting the passenger terminal at Ben Gurion airport near Tel Aviv The co-pilot who tried to seize control of a passenger jet flying from Dubai to Tel Aviv last week was planning to launch a suicide attack targeting the passenger…",
+   "published": "2026-10-09T20:38:11+00:00"
+  },
+  {
+   "id": "6eae3968a7ac",
+   "title": "Human rights veteran Navi Pillay wins 2026 Nobel Peace Prize",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "South African jurist Navanethem Pillay has been awarded the 2026 Nobel Peace Prize for her work to promote peace.",
+   "published": "2026-10-09T20:29:30+00:00"
+  },
+  {
+   "id": "dedc7ce8406f",
+   "title": "Don't Blame AI Labs for What Hackers Do With Their Tools",
+   "link": "https://reason.com/2026/10/09/dont-blame-ai-labs-for-what-hackers-do-with-their-tools/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "AI executives are planning for a public revolt after a major attack. A federal power grab is the wrong response.",
+   "published": "2026-10-09T20:25:24+00:00"
+  },
+  {
    "id": "803be9069729",
    "title": "Will Mamdani Make Housing More Affordable?",
    "link": "https://reason.com/podcast/2026/10/09/will-mamdani-make-housing-more-affordable/",
@@ -138,6 +457,39 @@
    "flourishing_feed": false,
    "summary": "Emily Eisner and Kenny Burgos debate Zohran Mamdani's housing policies.",
    "published": "2026-10-09T20:20:29+00:00"
+  },
+  {
+   "id": "172a08ec6430",
+   "title": "Prosecutors oppose Luigi Mangione’s push for dismissal of state charges",
+   "link": "https://www.theguardian.com/us-news/2026/oct/09/luigi-mangione-state-charges-new-york",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Manhattan prosecutors say murder case over 2024 killing can proceed under ‘exception’ to state double jeopardy law Manhattan prosecutors filed paperwork on Friday opposing Luigi Mangione ’s arguments for dismissing his state-level case in the killing of the UnitedHealthcare…",
+   "published": "2026-10-09T20:18:18+00:00"
+  },
+  {
+   "id": "ab049856cf97",
+   "title": "Trump says he picked ‘devoted fan’ Katie Zacharia to be next press secretary",
+   "link": "https://www.theguardian.com/us-news/2026/oct/09/katie-zacharia-new-white-house-press-secretary-trump",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Zacharia will replace Karoline Leavitt, who left the role at the end of August after giving birth to her second child Donald Trump on Friday announced that he had picked Katie Zacharia to be the next White House press secretary, lining up a conservative commentator he called a…",
+   "published": "2026-10-09T20:18:14+00:00"
+  },
+  {
+   "id": "16f4b7678111",
+   "title": "Rising fuel costs slashed Delta’s profit outlook despite strong demand",
+   "link": "https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rising fuel prices push Delta's annual fuel expenses up by $6bn, affecting its profit outlook for 2026.",
+   "published": "2026-10-09T20:17:15+00:00"
   },
   {
    "id": "92a2058e35ce",
@@ -162,6 +514,17 @@
    "published": "2026-10-09T20:15:00+00:00"
   },
   {
+   "id": "7bea21ccda5f",
+   "title": "New York Plans Stronger Sports Betting Regulation to Curb Gambling Addiction",
+   "link": "https://www.propublica.org/article/new-york-gaming-commission-sports-betting-regulation",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post New York Plans Stronger Sports Betting Regulation to Curb Gambling Addiction appeared first on ProPublica .",
+   "published": "2026-10-09T20:14:42+00:00"
+  },
+  {
    "id": "bca5f986c611",
    "title": "Is Hair on Your Head \"Personal Property\" for Purposes of Robbery Law?",
    "link": "https://reason.com/volokh/2026/10/09/is-hair-on-your-head-personal-property-for-purposes-of-robbery-law/",
@@ -173,15 +536,15 @@
    "published": "2026-10-09T20:14:14+00:00"
   },
   {
-   "id": "2b3762f9568b",
-   "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-   "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "id": "5459bed49994",
+   "title": "Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says",
+   "link": "https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
-   "published": "2026-10-09T20:13:23+00:00"
+   "summary": "Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack.",
+   "published": "2026-10-09T20:13:24+00:00"
   },
   {
    "id": "74c1d644b2a7",
@@ -239,17 +602,6 @@
    "published": "2026-10-09T20:03:00+00:00"
   },
   {
-   "id": "e436fd9be388",
-   "title": "Commentator Katie Zacharia picked as new White House press secretary",
-   "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-   "published": "2026-10-09T19:58:27+00:00"
-  },
-  {
    "id": "c6e4ef5316a4",
    "title": "Pretty Little Liars’ Keegan Allen attacked by masked assailants in LA",
    "link": "https://www.theguardian.com/us-news/2026/oct/09/keegan-allen-attacked",
@@ -259,17 +611,6 @@
    "flourishing_feed": false,
    "summary": "Actor was robbed of his watch after being struck in the head by two attackers wielding a gun and a knife The Pretty Little Liars actor Keegan Allen was battered and robbed by attackers wielding a knife and gun in West Hollywood, he said on Thursday in a social media video…",
    "published": "2026-10-09T19:53:35+00:00"
-  },
-  {
-   "id": "2f5768dcf748",
-   "title": "New York City’s Marble Hill residents furious after ICE shooting: ‘Why do this?’",
-   "link": "https://www.theguardian.com/us-news/2026/oct/09/marble-hill-new-york-city-ice-shooting-reaction",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Locals also express fear after man shot in the neck while his child was in the back of his car Residents of Manhattan’s Marble Hill neighborhood were furious at federal Immigration and Customs Enforcement (ICE) on Friday but also scared after an officer shot their neighbor who…",
-   "published": "2026-10-09T19:53:18+00:00"
   },
   {
    "id": "d3bfc37a6fdb",
@@ -292,17 +633,6 @@
    "flourishing_feed": false,
    "summary": "State and federal courts have almost uniformly ruled that searches of ALPR databases do not implicate the Fourth Amendment.",
    "published": "2026-10-09T19:50:20+00:00"
-  },
-  {
-   "id": "bcddbe8093a9",
-   "title": "Vance casts doubt on whether execution livestream ‘is actually going to happen’ as more Republicans join outcry – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Utah senator John Curtis says decision to broadcast execution of Nidal Hasan ‘risks feeding the appetite’ as Vance says he won’t watch if livestream goes ahead ‘Medieval’ and ‘disturbing’: US plan to livestream execution elicits global condemnation Sign up for the US Breaking…",
-   "published": "2026-10-09T19:49:14+00:00"
   },
   {
    "id": "6b1925297f8b",
@@ -360,17 +690,6 @@
    "published": "2026-10-09T19:45:00+00:00"
   },
   {
-   "id": "43c553fc6e2c",
-   "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-   "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Tsunami warnings are issued for neighbouring countries as videos of destruction circulate online.",
-   "published": "2026-10-09T19:39:52+00:00"
-  },
-  {
    "id": "925b6ffd4c7c",
    "title": "2025088717701 Buddy Dean Mason CRD 1721391 AWC lp.pdf",
    "link": "https://www.finra.org/node/390426",
@@ -405,7 +724,7 @@
   },
   {
    "id": "4b45028f4a9c",
-   "title": "Tsunami warnings across Latin America after 7.7 magnitude earthquake hits",
+   "title": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
    "link": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -482,13 +801,13 @@
   },
   {
    "id": "a4f0136687cc",
-   "title": "Katie Zacharia ‘offered’ position as White House press secretary",
+   "title": "Katie Zacharia selected to be next White House press secretary",
    "link": "https://www.aljazeera.com/news/2026/10/9/katie-zacharia-offered-position-as-white-house-press-secretary?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The role has been vacant since former White House press secretary Karoline Leavitt left in August.",
+   "summary": "US President Donald Trump called the conservative commentator 'a devoted fan'.",
    "published": "2026-10-09T18:49:24+00:00"
   },
   {
@@ -525,17 +844,6 @@
    "published": "2026-10-09T18:40:10+00:00"
   },
   {
-   "id": "a382270f159b",
-   "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-   "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
-   "published": "2026-10-09T18:40:05+00:00"
-  },
-  {
    "id": "1ddbd6deea88",
    "title": "Opinion: Cutting student loans for social workers will hurt society’s most vulnerable",
    "link": "https://www.deseret.com/opinion/2026/10/09/loss-of-loans-for-social-workers-could-be-catastrophic/",
@@ -547,17 +855,6 @@
    "published": "2026-10-09T18:35:29+00:00"
   },
   {
-   "id": "ab049856cf97",
-   "title": "Trump picks conservative commentator Katie Zacharia to be next press secretary",
-   "link": "https://www.theguardian.com/us-news/2026/oct/09/katie-zacharia-new-white-house-press-secretary-trump",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Zacharia will replace Karoline Leavitt, who left the role at the end of August after giving birth to her second child Donald Trump has chosen the conservative commentator Katie Zacharia to be the next White House press secretary, according to a White House official. Zacharia…",
-   "published": "2026-10-09T18:31:16+00:00"
-  },
-  {
    "id": "f08a7964ac7d",
    "title": "‘Barbaric’: US lawmakers condemn plan to livestream Nidal Hasan’s execution",
    "link": "https://www.aljazeera.com/news/2026/10/9/barbaric-us-lawmakers-condemn-plan-to-livestream-nidal-hasans-execution?traffic_source=rss",
@@ -567,28 +864,6 @@
    "flourishing_feed": false,
    "summary": "Republican and Democratic lawmakers condemn Pentagon plan to livestream Fort Hood shooter's execution by firing squad.",
    "published": "2026-10-09T18:30:58+00:00"
-  },
-  {
-   "id": "7bb634f5f941",
-   "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
-   "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I presume these are sophisticated investors taking a profit.”",
-   "published": "2026-10-09T18:30:00+00:00"
-  },
-  {
-   "id": "3ed9906e1180",
-   "title": "‘Abolish ICE’: Mamdani, AOC and other Democrats urge action after New York shooting",
-   "link": "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "US immigration officer shot man in car where five-year-old child was sitting in the Bronx, sparking fierce protests Leading New York Democrats expressed anger and demanded curbs on Immigration and Customs Enforcement ( ICE ) violence after a federal officer shot a man driving a…",
-   "published": "2026-10-09T18:29:56+00:00"
   },
   {
    "id": "40b492073a66",
@@ -646,17 +921,6 @@
    "published": "2026-10-09T18:20:26+00:00"
   },
   {
-   "id": "cea1340d7b52",
-   "title": "As AT&T, Verizon and T-Mobile shares fall, Wall Street assesses the growing SpaceX threat",
-   "link": "https://www.marketwatch.com/story/as-at-t-verizon-and-t-mobile-shares-fall-wall-street-assesses-the-growing-spacex-threat-e869ef9e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Telecommunications stocks were seeing their worst daily drops in over a decade.",
-   "published": "2026-10-09T18:16:00+00:00"
-  },
-  {
    "id": "5f9c18e77679",
    "title": "Gaza ceasefire ‘exists in name only’, more than 100 NGOs say",
    "link": "https://www.aljazeera.com/news/2026/10/9/gaza-ceasefire-exists-in-name-only-more-than-100-ngos-say?traffic_source=rss",
@@ -679,17 +943,6 @@
    "published": "2026-10-09T18:06:48+00:00"
   },
   {
-   "id": "f7481973a64e",
-   "title": "Microsoft is nearing a big milestone that solidifies its revival",
-   "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Microsoft is close to reclaiming a $4 trillion market cap — and fresh records are also in sight.",
-   "published": "2026-10-09T18:06:00+00:00"
-  },
-  {
    "id": "d353a23bae34",
    "title": "Trump establishes committee to investigate Fed governor Lisa Cook",
    "link": "https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor",
@@ -710,17 +963,6 @@
    "flourishing_feed": false,
    "summary": "Also in Weekend Reads: A positive case for the bond market, how prediction markets can pull you in, and a warning to those who benefit from GLP-1s.",
    "published": "2026-10-09T18:04:00+00:00"
-  },
-  {
-   "id": "6a4182a2783a",
-   "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-   "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
-   "published": "2026-10-09T18:00:00+00:00"
   },
   {
    "id": "2d06b60c94ae",
@@ -829,19 +1071,8 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Oscar Bergal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
+   "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
    "published": "2026-10-09T17:36:09+00:00"
-  },
-  {
-   "id": "7bf0a06fad68",
-   "title": "AI chip stocks wobble even as investors get clarity on a key OpenAI issue",
-   "link": "https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "A new report paints OpenAI’s financial picture in a more optimistic light.",
-   "published": "2026-10-09T17:35:00+00:00"
   },
   {
    "id": "b8ffd67c1571",
@@ -1725,7 +1956,7 @@
   },
   {
    "id": "e6ecab59df0d",
-   "title": "Let Charter Schools be as Flexible as Microschools",
+   "title": "Let Charter Schools Be as Flexible as Microschools",
    "link": "https://reason.com/2026/10/09/let-charter-schools-be-as-flexible-as-microschools/",
    "source": "Reason",
    "circle_hint": "national",
