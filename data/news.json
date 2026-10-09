@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T04:33:19.498985+00:00",
+ "generated": "2026-10-09T05:32:38.313077+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -13,8 +13,8 @@
   },
   {
    "name": "Indianapolis Business Journal",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "name": "NPR News",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 31
+   "count": 33
   },
   {
    "name": "Congressional Budget Office",
@@ -129,6 +129,138 @@
  ],
  "items": [
   {
+   "id": "166fc165571f",
+   "title": "Isaias strengthens into Category 2 hurricane on collision course with the Gulf Coast",
+   "link": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The first hurricane of the Atlantic season was forecast to intensify rapidly and cause dangerous conditions in the Florida Panhandle, southern Alabama and southern Mississippi when it makes landfall late Friday or early Saturday.",
+   "published": "2026-10-09T05:20:03+00:00"
+  },
+  {
+   "id": "95ec2385725b",
+   "title": "Labour wins Holborn and St Pancras byelection; Polanski ‘absolutely’ intends to remain Green party leader – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sagal Abdi-Wali defeats Green party leader Zack Polanski to retain the Holborn and St Pancras seat for Labour Labour fends off Green party to win Holborn and St Pancras byelection Activists in Camden have suggested the Greens’ decision to back the anti-Zionism motion has cost…",
+   "published": "2026-10-09T05:17:04+00:00"
+  },
+  {
+   "id": "b7d06e544ba3",
+   "title": "What went right this week: the good news that matters",
+   "link": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
+   "source": "Positive News",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": true,
+   "summary": "A pivotal moment for climate justice in Australia, the Nobel prize, and a promising drug for Parkinson’s, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+   "published": "2026-10-09T05:09:55+00:00"
+  },
+  {
+   "id": "bdefd9bae8ad",
+   "title": "Turkey: A Land of Stunning Coastlines and Jailed Dissidents",
+   "link": "https://thedispatch.com/article/turkey-erdogan-izmir-human-rights-tourism/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Erdoğan hides his mounting human rights abuses behind a carefully crafted tourism campaign.",
+   "published": "2026-10-09T05:02:00+00:00"
+  },
+  {
+   "id": "65072ea0874d",
+   "title": "Welcome to the AI Workplace",
+   "link": "https://thedispatch.com/article/ai-workers-pastor-lawyer-radiologist/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "AI is already changing how Americans do their jobs, in good ways and in bad.",
+   "published": "2026-10-09T05:02:00+00:00"
+  },
+  {
+   "id": "ceb218d3f70e",
+   "title": "Second UK health body drops Israeli drug firm after activist pressure",
+   "link": "https://www.theguardian.com/society/2026/oct/09/royal-college-pharmacy-cuts-ties-teva-israel-palestine-campaigners",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Decision by Royal College of Pharmacy to end sponsorship comes after concerns over Teva Pharmaceuticals’ ‘activities’ A second major UK health body has cut ties with an Israeli drug firm after coming under pressure from pro-Palestine campaigners. The Royal College of Pharmacy…",
+   "published": "2026-10-09T05:00:39+00:00"
+  },
+  {
+   "id": "df0f29cbb2d1",
+   "title": "Revealed: the ‘black box’ wastewater trade that rakes in millions for UK utility companies",
+   "link": "https://www.theguardian.com/environment/2026/oct/09/uk-water-companies-industrial-commercial-wastewater-sewage-treatment",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Firms made more than £340m last year from processing industrial and commercial wastewater at sewage works that are unable to remove many chemical pollutants Water companies in the UK made more than £340m in revenue last year by pouring billions of litres of…",
+   "published": "2026-10-09T05:00:39+00:00"
+  },
+  {
+   "id": "d04b2bf6b7db",
+   "title": "Judging Requires Judgment, Says Justice Alito",
+   "link": "https://thedispatch.com/article/justice-alito-book-originalism-judgment/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The most interesting insight of Justice Samuel Alito’s new book may seem obvious, but it’s less obvious coming from an originalist.",
+   "published": "2026-10-09T05:00:00+00:00"
+  },
+  {
+   "id": "c0fb7be7db9e",
+   "title": "Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The $11-a-share offer would have been the biggest debut on the stock market since the telecommunication giant in 1997 Get our breaking news email , free app or daily news podcast Firmus Technologies has scrapped what was set to be Australia’s biggest company listing in decades…",
+   "published": "2026-10-09T04:37:55+00:00"
+  },
+  {
+   "id": "f46b9e191823",
+   "title": "High school football roundup for Thursday, Oct. 8 (Week 9)",
+   "link": "https://www.deseret.com/sports/2026/10/08/high-school-football-week-9-roundup-thursday/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Region 1 Syracuse 23, Farmington 16 Syracuse (5-4) edged Farmington (3-6) in a Region 1 matchup, winning 23-16 in overtime. Jack Benoit delivered the game-winning moment with a 10-yard overtime run after both teams fought to a regulation tie. Farmington looked poised to prevail…",
+   "published": "2026-10-09T04:29:20+00:00"
+  },
+  {
+   "id": "b28bd049b548",
+   "title": "Mexico prison clash in strife-torn Sinaloa state leaves 10 dead",
+   "link": "https://www.aljazeera.com/news/2026/10/9/mexico-prison-clash-in-strife-torn-sinaloa-state-leaves-10-dead?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Nine inmates and one visitor killed in Sinaloa prison riot, local authorities say.",
+   "published": "2026-10-09T04:26:55+00:00"
+  },
+  {
+   "id": "974c588107dc",
+   "title": "Uproar in NY after ICE shoots man with child in the car",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uproar-in-ny-after-ice-shoots-man-with-child-in-the-car?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "There are protests and outrage in New York after ICE agents shot a man after surrounding his vehicle.",
+   "published": "2026-10-09T04:26:50+00:00"
+  },
+  {
    "id": "0f653cd67a9f",
    "title": "Mike Kennedy and Jonny Larsen disagree on Iran war and gas prices in Utah’s 4th District debate",
    "link": "https://www.deseret.com/politics/2026/10/08/cd-4-debate-snow-college/",
@@ -138,17 +270,6 @@
    "flourishing_feed": false,
    "summary": "Two of the candidates for Utah’s new 4th Congressional District disagreed over policy solutions on issues like the cost of healthcare, housing affordability, data centers and gas prices at a debate Thursday night. Rep. Mike Kennedy, the Republican candidate, and Jonny Larsen,…",
    "published": "2026-10-09T04:17:30+00:00"
-  },
-  {
-   "id": "95ec2385725b",
-   "title": "Labour wins Holborn and St Pancras byelection; Polanski ‘absolutely’ intends to remain Greens leader – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Sagal Abdi-Wali defeats Green party leader Zack Polanski to retain the Holborn and St Pancras seat for Labour Labour fends off Green party to win Holborn and St Pancras byelection Activists in Camden have suggested the Greens’ decision to back the anti-Zionism motion has cost…",
-   "published": "2026-10-09T04:09:58+00:00"
   },
   {
    "id": "44f5d8d121a7",
@@ -171,6 +292,28 @@
    "flourishing_feed": false,
    "summary": "Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect it A chance social media encounter has led to the race-against-time discovery of a new species of giant waterlily that has until now been hidden in the…",
    "published": "2026-10-09T04:00:37+00:00"
+  },
+  {
+   "id": "94922a6cad2e",
+   "title": "Application of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 to the Refunded Portion of Certain Federal Refundable Tax Credits; Hearing Cancellation",
+   "link": "https://www.federalregister.gov/documents/2026/10/09/2026-20790/application-of-the-personal-responsibility-and-work-opportunity-reconciliation-act-of-1996-to-the",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "This document cancels a public hearing on proposed regulations (REG-119882-25) published in the Federal Register on August 20, 2026. The proposed regulations would provide that the refunded portion of certain refundable Federal income tax credits available to individuals is a…",
+   "published": "2026-10-09T04:00:00+00:00"
+  },
+  {
+   "id": "3fddef2006da",
+   "title": "Agency Information Collection Activities; Comment Request on Consent To Extend the Time To Assess Tax Under Section 367-Gain Recognition Agreement",
+   "link": "https://www.federalregister.gov/documents/2026/10/09/2026-20743/agency-information-collection-activities-comment-request-on-consent-to-extend-the-time-to-assess-tax",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+   "published": "2026-10-09T04:00:00+00:00"
   },
   {
    "id": "a48a55d8349d",
@@ -196,13 +339,13 @@
   },
   {
    "id": "7343e10e8dea",
-   "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+   "title": "Firing squad execution to be livestreamed, Pentagon says",
    "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+   "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
    "published": "2026-10-09T03:36:12+00:00"
   },
   {
@@ -226,17 +369,6 @@
    "flourishing_feed": false,
    "summary": "Mayor Zohran Mamdani says agents fired at a car with a child inside; DHS says it was conducting enforcement activity.",
    "published": "2026-10-09T03:25:33+00:00"
-  },
-  {
-   "id": "c0fb7be7db9e",
-   "title": "Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The $11-a-share offer would have been the biggest debut on the stock market since the telecommunication giant in 1997 Get our breaking news email , free app or daily news podcast Firmus Technologies has scrapped what was set to be Australia’s biggest company listing in decades…",
-   "published": "2026-10-09T02:39:15+00:00"
   },
   {
    "id": "5461ea696c34",
@@ -268,7 +400,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Victory by Sagal Abdi-Wali in north London seat will be a relief for Andy Burnham in high-stakes battle for the left of British politics Holborn and St Pancras byelection – live updates Labour has won the Holborn and St Pancras byelection in a high-stakes battle for the left of…",
+   "summary": "Victory by Sagal Abdi-Wali in north London seat will be a relief for Andy Burnham in high-stakes battle for the left of British politics Holborn and St Pancras byelection – live updates Labour has seen off the Greens to win the Holborn and St Pancras byelection in a result that…",
    "published": "2026-10-09T02:03:41+00:00"
   },
   {
