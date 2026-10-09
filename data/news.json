@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T05:32:38.313077+00:00",
+ "generated": "2026-10-09T06:39:27.016153+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -13,8 +13,8 @@
   },
   {
    "name": "Indianapolis Business Journal",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "count": 10
   },
   {
    "name": "NPR News",
@@ -129,15 +129,15 @@
  ],
  "items": [
   {
-   "id": "166fc165571f",
-   "title": "Isaias strengthens into Category 2 hurricane on collision course with the Gulf Coast",
-   "link": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates",
-   "source": "NPR News",
+   "id": "8b8c52ceec98",
+   "title": "High school football: Skyline gets big win over Highland in Region 10 clash",
+   "link": "https://www.deseret.com/sports/2026/10/09/high-school-football-skyline-highland/",
+   "source": "Deseret News",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The first hurricane of the Atlantic season was forecast to intensify rapidly and cause dangerous conditions in the Florida Panhandle, southern Alabama and southern Mississippi when it makes landfall late Friday or early Saturday.",
-   "published": "2026-10-09T05:20:03+00:00"
+   "summary": "Skyline football was favored to win the Region 10 title in the preseason coaches poll, a nod that surprised even its new coach Brandon Matich at the time because Matich felt that honor should go to Highland until someone knocked off the reigning champion. The first-year Eagles…",
+   "published": "2026-10-09T06:31:07+00:00"
   },
   {
    "id": "95ec2385725b",
@@ -148,7 +148,128 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Sagal Abdi-Wali defeats Green party leader Zack Polanski to retain the Holborn and St Pancras seat for Labour Labour fends off Green party to win Holborn and St Pancras byelection Activists in Camden have suggested the Greens’ decision to back the anti-Zionism motion has cost…",
-   "published": "2026-10-09T05:17:04+00:00"
+   "published": "2026-10-09T06:23:52+00:00"
+  },
+  {
+   "id": "7018e03ddc62",
+   "title": "Tories overstate net zero cost by nearly £500bn in apparent spreadsheet error",
+   "link": "https://www.theguardian.com/politics/2026/oct/09/tories-overstate-net-zero-cost-500bn-spreadsheet-error",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Badenoch’s flagship conference policy document cites £957bn estimate, twice the total in climate advisers’ data Kemi Badenoch’s flagship party conference policy document overestimated the cost of net zero by nearly £500bn, seemingly after someone accidentally…",
+   "published": "2026-10-09T06:00:41+00:00"
+  },
+  {
+   "id": "6a2cc2194dfc",
+   "title": "Virgin unveils its future cross-Channel train as it gears up to take on Eurostar",
+   "link": "https://www.theguardian.com/business/2026/oct/09/virgin-cross-channel-train-eurostar",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Group plans to launch services from London in 2030 and hopes to outshine competitor with design inspiration from its airline, cruise and hotel arms Flash interiors, fancy food and maybe even a bar: Virgin has unveiled a mock-up of its future cross-Channel train, with a pledge…",
+   "published": "2026-10-09T06:00:39+00:00"
+  },
+  {
+   "id": "41c57004f861",
+   "title": "Sydney trader sacked for working from Singapore without permission wins unfair dismissal case",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/09/sydney-currency-trader-sacked-for-working-from-singapore-without-permission-wins-unfair-dismissal-case",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Employee had also been in Bali when he told his manager he was working from home, Fair Work Commission hears Get our breaking news email , free app or daily news podcast A Sydney currency trader who was sacked for working from Singapore without approval has won an unfair…",
+   "published": "2026-10-09T05:55:27+00:00"
+  },
+  {
+   "id": "3c56765a7217",
+   "title": "From Aden to Sanaa, Yemenis struggle to deal with soaring living costs",
+   "link": "https://www.aljazeera.com/economy/2026/10/9/from-aden-to-sanaa-yemenis-struggle-to-deal-with-soaring-living-costs?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As fighting intensifies, Yemenis face a deepening economic crisis, with unpaid salaries and rising prices.",
+   "published": "2026-10-09T05:53:04+00:00"
+  },
+  {
+   "id": "d1ee1a924e16",
+   "title": "Christa Pike is walking with help and eating after failed execution attempt",
+   "link": "https://www.npr.org/2026/10/09/nx-s1-5996402/christa-pike-updates",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pike has begun walking and eating again at a hospital a week after surviving Tennessee's attempt to execute her with lethal drugs, her attorneys said Thursday.",
+   "published": "2026-10-09T05:52:50+00:00"
+  },
+  {
+   "id": "4a502054ff2a",
+   "title": "How October 7 changed Lebanon and Hezbollah’s political reality",
+   "link": "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Analysts say Hezbollah's decision on October 8 to join a 'war of support' for Gaza changed Lebanon's political reality.",
+   "published": "2026-10-09T05:52:49+00:00"
+  },
+  {
+   "id": "3ab6f56de152",
+   "title": "High school football: Dominant 1st quarter propels Corner Canyon past American Fork",
+   "link": "https://www.deseret.com/sports/2026/10/08/high-school-football-corner-canyon-american-fork/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In one of the marquee games of Week 9 in Utah high school football, the Corner Canyon Chargers proved to be too much for the American Fork Cavemen, putting up 41 first half points on their way to a comfortable 41-17 victory. Corner Canyon overwhelmed American Fork from the…",
+   "published": "2026-10-09T05:51:14+00:00"
+  },
+  {
+   "id": "4834e7ec8fed",
+   "title": "Pentagon says the firing squad execution of Fort Hood shooter will be livestreamed",
+   "link": "https://www.npr.org/2026/10/09/g-s1-147419/fort-hood-shooter-execution",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed after Defense Secretary Pete Hegseth said the execution would be \"public.",
+   "published": "2026-10-09T05:35:41+00:00"
+  },
+  {
+   "id": "dfd260fd50d8",
+   "title": "High school football: Springville builds momentum in win over Spanish Fork",
+   "link": "https://www.deseret.com/sports/2026/10/08/high-school-football-spanish-fork-springville/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A couple of long touchdowns made all the difference in Springville’s 28-14 win over Spanish Fork Thursday evening on the Red Devils’ senior night. After facing an early deficit, Springville seized control of the contest in the second quarter, taking the lead and keeping it…",
+   "published": "2026-10-09T05:33:01+00:00"
+  },
+  {
+   "id": "7bf9519124f2",
+   "title": "Photos: Gaza before and after – a city transformed by war",
+   "link": "https://www.aljazeera.com/gallery/2026/10/9/gaza-before-and-after-a-city-transformed-by-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Archive and recent photos show how three years of war left Gaza's streets, landmarks and public spaces unrecognisable.",
+   "published": "2026-10-09T05:22:16+00:00"
+  },
+  {
+   "id": "166fc165571f",
+   "title": "Isaias strengthens into Category 2 hurricane on collision course with the Gulf Coast",
+   "link": "https://www.npr.org/2026/10/09/nx-s1-5996396/hurricane-isaias-updates",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The first hurricane of the Atlantic season was forecast to intensify rapidly and cause dangerous conditions in the Florida Panhandle, southern Alabama and southern Mississippi when it makes landfall late Friday or early Saturday.",
+   "published": "2026-10-09T05:20:03+00:00"
   },
   {
    "id": "b7d06e544ba3",
@@ -217,6 +338,28 @@
    "published": "2026-10-09T05:00:00+00:00"
   },
   {
+   "id": "47d19a1698ba",
+   "title": "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
+   "link": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
+   "published": "2026-10-09T04:53:50+00:00"
+  },
+  {
+   "id": "153b71c672c5",
+   "title": "Cars torched and shops looted as anti-migrant violence erupts in South Africa",
+   "link": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "South Africa has experienced recurrent outbreaks of violence, often targeting migrants from neighbouring countries.",
+   "published": "2026-10-09T04:44:22+00:00"
+  },
+  {
    "id": "c0fb7be7db9e",
    "title": "Firmus pulls biggest ASX float since Telstra amid investor doubt about datacentre company",
    "link": "https://www.theguardian.com/australia-news/2026/oct/09/firmus-pulls-asx-float-datacentre-investor-doubt-australia",
@@ -259,6 +402,17 @@
    "flourishing_feed": false,
    "summary": "There are protests and outrage in New York after ICE agents shot a man after surrounding his vehicle.",
    "published": "2026-10-09T04:26:50+00:00"
+  },
+  {
+   "id": "4bdabecd8e9b",
+   "title": "ICE agent shoots man in New York City",
+   "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The mayor of New York expressed outrage at the shooting which the Department of Homeland Security said happened during the arrest of a \"criminal illegal alien\".",
+   "published": "2026-10-09T04:26:19+00:00"
   },
   {
    "id": "0f653cd67a9f",
@@ -713,7 +867,7 @@
   },
   {
    "id": "b63624d7ece6",
-   "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC from Ukrainian prison",
+   "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
    "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -820,6 +974,17 @@
    "flourishing_feed": false,
    "summary": "The Russian and Iranian presidents met in Turkmenistan ahead of regional summit.",
    "published": "2026-10-08T22:30:37+00:00"
+  },
+  {
+   "id": "5305591339e5",
+   "title": "​​USS Lincoln docks in San Diego after 10-month mission",
+   "link": "https://www.bbc.co.uk/news/videos/cwp8gnp14xr2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US aircraft carrier was set to return in May but the war with Iran has kept it at sea on one of the longest deployments ever.",
+   "published": "2026-10-08T22:26:10+00:00"
   },
   {
    "id": "c4b052d20257",
