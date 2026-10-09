@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T14:36:35.043252+00:00",
+ "generated": "2026-10-09T15:32:49.726278+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,259 @@
  ],
  "items": [
   {
+   "id": "7bb634f5f941",
+   "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
+   "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I presume these are sophisticated investors taking a profit.”",
+   "published": "2026-10-09T15:27:00+00:00"
+  },
+  {
+   "id": "9d41208b8446",
+   "title": "Ethiopia and Eritrea accuse each other of starting conflict after troops cross border",
+   "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
+   "published": "2026-10-09T15:24:43+00:00"
+  },
+  {
+   "id": "6a4182a2783a",
+   "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+   "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+   "published": "2026-10-09T15:19:00+00:00"
+  },
+  {
+   "id": "e87195ef4866",
+   "title": "The NIH Plan To Strengthen 'Replication and Reproducibility' Will Not Check Anything",
+   "link": "https://reason.com/2026/10/09/the-nih-plan-to-strengthen-replication-and-reproducibility-will-not-check-anything/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The world’s largest research funder asked its grantees whether it should audit them. Guess what they said.",
+   "published": "2026-10-09T15:15:11+00:00"
+  },
+  {
+   "id": "62a8af2401ec",
+   "title": "AI CEOs keep saying their companies might end the world. Is it just a marketing ploy?",
+   "link": "https://www.vox.com/politics/505834/ai-doom-anthropic-openai-pr",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Silicon Valley has long warned that its favorite technology might get us all killed. But chatter about AI’s apocalyptic potential has grown louder in recent weeks. In September, Anthropic researcher Jacob Coxon resigned from the company, accusing his former employer of…",
+   "published": "2026-10-09T15:15:00+00:00"
+  },
+  {
+   "id": "bcddbe8093a9",
+   "title": "UN says Pentagon plan to livestream execution of Fort Hood shooter would amount to torture – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Condemnation comes amid fierce backlash from US lawmakers who branded the move ‘grotesque’ and compared it to actions of some terror groups and oppressive governments Analysis: Plan to livestream execution puts US in dubious company Sign up for the US Breaking News email In a…",
+   "published": "2026-10-09T15:11:33+00:00"
+  },
+  {
+   "id": "c455f4a55eb1",
+   "title": "US imposes sanctions on international criminal court",
+   "link": "https://www.theguardian.com/us-news/2026/oct/09/sanctions-icc-trump",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump administration says US ‘doesn’t need’ ICC after accusing court of unfairly targeting Americans for war crime charges The United States imposed sanctions on the international criminal court (ICC), its latest escalation against an entity the Trump administration has accused…",
+   "published": "2026-10-09T15:11:33+00:00"
+  },
+  {
+   "id": "62858d9d678e",
+   "title": "Man City charges: How Premier League reacted – United, Arsenal, Liverpool",
+   "link": "https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "After Manchester City were found guilty of Premier League breaches, rival managers give their reaction as games resume.",
+   "published": "2026-10-09T15:09:51+00:00"
+  },
+  {
+   "id": "5ff2c6312e8f",
+   "title": "US sanctions International Criminal Court itself in latest escalation",
+   "link": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Latest action seeks to stem resources to international tribunal Trump administration has vowed to dismantle.",
+   "published": "2026-10-09T15:08:30+00:00"
+  },
+  {
+   "id": "d7c7a0654af4",
+   "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize - live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The ⁠ICC’s deputy prosecutor condemned the sanctions and said they would not halt the tribunal’s work You can watch along below, but I will bring you all the key lines here. Spoiler alert (not really). Continue reading...",
+   "published": "2026-10-09T15:07:00+00:00"
+  },
+  {
+   "id": "bd8fa6c9c0ac",
+   "title": "Hurricane Isaias barrels toward Gulf coast as category 3 storm",
+   "link": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "States of emergency declared in Alabama, Florida and Mississippi, where residents prepare for ‘long-duration power outages’ Isaias strengthened into a category 3 hurricane on Friday morning as it barreled toward the US Gulf coast, where states of emergency have been declared in…",
+   "published": "2026-10-09T15:06:16+00:00"
+  },
+  {
+   "id": "e827ed8ae5f6",
+   "title": "China agrees to ‘halve’ hybrid car exports to EU in landmark deal",
+   "link": "https://www.theguardian.com/business/2026/oct/09/china-agrees-to-curb-hybrid-car-exports-to-eu-in-landmark-deal",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Brussels says Beijing’s shipments could fall by more than half over four years, cutting millions of vehicles amid fears for European jobs The EU said it has reached a landmark deal with China to “halve” its sales of hybrid cars in the bloc amid fears surging sales could kill…",
+   "published": "2026-10-09T15:05:57+00:00"
+  },
+  {
+   "id": "a4e9d6502bb8",
+   "title": "Trump’s planned DC arch faces new lawsuit",
+   "link": "https://www.aljazeera.com/news/2026/10/9/trumps-planned-dc-arch-faces-new-lawsuit?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A Virginia county governing board filed the suit, claiming that planning for the monument near DC was rushed.",
+   "published": "2026-10-09T15:04:01+00:00"
+  },
+  {
+   "id": "c7df787b7e3e",
+   "title": "Here’s how much stocks could fall if the Democrats sweep Congress, according to BofA",
+   "link": "https://www.marketwatch.com/story/heres-how-much-stocks-could-fall-if-the-democrats-sweep-congress-as-expected-according-to-bofa-d1ed23f8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The rising probability of the Democratic Party taking control of both houses of Congress in the midterm elections poses a “meaningful” threat to risk appetite, said Michael Hartnett, Bank of America’s chief equity strategist.",
+   "published": "2026-10-09T15:02:00+00:00"
+  },
+  {
+   "id": "215622ff975d",
+   "title": "SEC Proposes Expanding Securities Eligible for Cross Trading by Registered Funds",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
+   "source": "SEC Press Releases",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Securities and Exchange Commission today proposed amendments to the Investment Company Act “cross-trading rule,” which permits transactions in securities between a registered fund and its affiliates under certain conditions. The proposed amendments…",
+   "published": "2026-10-09T14:59:00+00:00"
+  },
+  {
+   "id": "06c23aad3a31",
+   "title": "Mortgage rates are soaring. In America, the smart money rents.",
+   "link": "https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "If buying a home right now is such a great idea, why doesn’t Wall Street want to do it?",
+   "published": "2026-10-09T14:55:00+00:00"
+  },
+  {
+   "id": "95ec2385725b",
+   "title": "Green MP Siân Berry says opponents of Zionism motion were ‘persuaded’ not to fight it because of byelection – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The MP says that passing the motion has done ‘genuine damage; to the party’s reputation Report: Labour wins Holborn and St Pancras byelection Analysis: defeat will disappoint Greens – but there may also be relief Activists in Camden have suggested the Greens’ decision to back…",
+   "published": "2026-10-09T14:53:25+00:00"
+  },
+  {
+   "id": "845f1f4cf08c",
+   "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+   "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026.",
+   "published": "2026-10-09T14:50:00+00:00"
+  },
+  {
+   "id": "cee86b10e097",
+   "title": "High school boys golf: 6A final region recaps, Farmington, Bingham, Lehi win region titles",
+   "link": "https://www.deseret.com/sports/2026/10/09/high-school-boys-golf-6a-region-recaps/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 6A boys golf regular season came to a close this Wednesday with the final region tournaments of the season. The focus now shifts to the state tournament at Talons Cove in Saratoga Springs next Monday and Tuesday where Corner Canyon will be chasing a fourth straight state…",
+   "published": "2026-10-09T14:46:37+00:00"
+  },
+  {
+   "id": "28b50c83ea15",
+   "title": "Man City case causing ‘uncertainty’ for whole Premier League, says Iraola",
+   "link": "https://www.aljazeera.com/sports/2026/10/9/man-city-case-causing-uncertainty-for-whole-premier-league-says-iraola?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Liverpool's Andoni Iraola looks to Manchester City clash and rival's appeal over guilty verdict for financial breaches.",
+   "published": "2026-10-09T14:40:01+00:00"
+  },
+  {
+   "id": "4fec08fd9d8b",
+   "title": "GLP-1 drugs could ease back and knee pain, but doctors say there are risks for older adults",
+   "link": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Rapid weight loss can lead to issues with bone quality.",
+   "published": "2026-10-09T14:38:00+00:00"
+  },
+  {
+   "id": "2c4326004979",
+   "title": "US to livestream Fort Hood shooter’s execution: Is that legal?​",
+   "link": "https://www.aljazeera.com/news/2026/10/9/us-to-livestream-fort-hood-shooters-execution-is-that?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rights groups and legal experts say the move could endanger minors, who are usually barred from witnessing executions.",
+   "published": "2026-10-09T14:37:08+00:00"
+  },
+  {
+   "id": "89ae63a8b0da",
+   "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
+   "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "It doesn’t matter if you are a Republican or Democrat. Math is math.",
+   "published": "2026-10-09T14:36:00+00:00"
+  },
+  {
    "id": "e8aa90fdba81",
    "title": "Kalshi is coming for ‘Dancing with the Stars’ fans",
    "link": "https://www.marketwatch.com/story/prediction-markets-are-coming-for-pop-culture-f54e883e?mod=mw_rss_topstories",
@@ -162,6 +415,17 @@
    "published": "2026-10-09T14:30:00+00:00"
   },
   {
+   "id": "e9936e0dbaa8",
+   "title": "Man City face Liverpool after being found guilty of financial breaches",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/man-city-face-liverpool-after-being-found-guilty-of-financial-breaches?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Manchester City face Liverpool at Anfield after being found guilty of financial breaches.",
+   "published": "2026-10-09T14:29:06+00:00"
+  },
+  {
    "id": "20b4559303a7",
    "title": "Deseret News archives: Chilean miners’ underground stay came to a close",
    "link": "https://www.deseret.com/utah/2024/10/09/deseret-news-archives-chilean-miners-underground-stay-ends/",
@@ -193,6 +457,17 @@
    "flourishing_feed": false,
    "summary": "As Utah’s 20th attorney general, I learned to distinguish between policies that are politically popular and those that are lawful. That matters as lawmakers consider banning pharmacy benefit managers, or PBMs, from owning or operating pharmacies in Utah. This may seem like a…",
    "published": "2026-10-09T14:27:19+00:00"
+  },
+  {
+   "id": "4e45fd7f489c",
+   "title": "Driver films from inside vehicle as car swept away in Chile floods",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/driver-films-from-inside-vehicle-as-car-swept-away-in-chile-floods?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Driver films from inside vehicle as car swept away in Chile floods",
+   "published": "2026-10-09T14:27:03+00:00"
   },
   {
    "id": "354e2d6beeec",
@@ -239,17 +514,6 @@
    "published": "2026-10-09T14:09:16+00:00"
   },
   {
-   "id": "d7c7a0654af4",
-   "title": "ICJ judge Navi Pillay dedicates Nobel peace prize to ‘survivors of international crimes’ as Israel condemns award - live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Nobel committee chair says the winner was ‘instrumental in ensuring war crimes, crimes against humanity and genocide are prosecuted’ You can watch along below, but I will bring you all the key lines here. Spoiler alert (not really). Continue reading...",
-   "published": "2026-10-09T14:08:06+00:00"
-  },
-  {
    "id": "e98a8adbe555",
    "title": "Who is Navi Pillay, winner of the 2026 Nobel Peace Prize?",
    "link": "https://www.aljazeera.com/news/2026/10/9/who-is-navi-pillay-winner-of-the-2026-nobel-peace-prize?traffic_source=rss",
@@ -259,6 +523,17 @@
    "flourishing_feed": false,
    "summary": "The 85-year-old South African judge has spent decades fighting apartheid and genocide.",
    "published": "2026-10-09T14:02:58+00:00"
+  },
+  {
+   "id": "36dc6bd9a136",
+   "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+   "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+   "published": "2026-10-09T14:00:47+00:00"
   },
   {
    "id": "e6ecab59df0d",
@@ -349,17 +624,6 @@
    "published": "2026-10-09T13:55:07+00:00"
   },
   {
-   "id": "bcddbe8093a9",
-   "title": "UN says Pentagon plan to livestream execution of Fort Hood shooter would amount to torture – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Condemnation comes amid fierce backlash from US lawmakers who branded the move ‘grotesque’ and compared it to actions of some terror groups and oppressive governments Pentagon says execution of Fort Hood shooter will be livestreamed Sign up for the US Breaking News email In a…",
-   "published": "2026-10-09T13:54:38+00:00"
-  },
-  {
    "id": "4e333c57b6fd",
    "title": "Should I put my nest egg in a 30-year Treasury bond?",
    "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
@@ -382,17 +646,6 @@
    "published": "2026-10-09T13:50:25+00:00"
   },
   {
-   "id": "95ec2385725b",
-   "title": "Green MP Siân Berry says opponents of Zionism motion were ‘persuaded’ not to fight it because of byelection – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The MP says that passing the motion has done ‘genuine damage; to the party’s reputation Report: Labour wins Holborn and St Pancras byelection Analysis: defeat will disappoint Greens – but there may also be relief Activists in Camden have suggested the Greens’ decision to back…",
-   "published": "2026-10-09T13:50:08+00:00"
-  },
-  {
    "id": "506a54cbc08e",
    "title": "Democratic Senate candidate responds to anti-trans attacks pushed by Republicans",
    "link": "https://www.theguardian.com/us-news/2026/oct/09/democratic-senate-candidate-reponse-anti-trans-attacks",
@@ -400,7 +653,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Dr Annie Andrews voices opposition to ‘biological men ... in women’s sports’ in response to Republican attacks Dr Annie Andrews , a Democratic Senate candidate in South Carolina, has responded to persistent efforts by Republicans to make trans athletes in women’s sports a wedge…",
+   "summary": "Dr Annie Andrews voices opposition to ‘biological men … in women’s sports’ in response to Republican attacks Dr Annie Andrews , a Democratic Senate candidate in South Carolina, has responded to persistent efforts by Republicans to make trans athletes in women’s sports a wedge…",
    "published": "2026-10-09T13:50:03+00:00"
   },
   {
@@ -435,28 +688,6 @@
    "flourishing_feed": false,
    "summary": "Saber is expected to fetch at least $1m and is one of more than two dozen props that will be up for sale A lightsaber used by Darth Vader in the duel where he tells Luke Skywalker “I am your father” is going up for sale at Heritage Auctions next month. The Vader saber, also…",
    "published": "2026-10-09T13:36:05+00:00"
-  },
-  {
-   "id": "bd8fa6c9c0ac",
-   "title": "Hurricane Isaias barrels toward Gulf coast as category 3 storm",
-   "link": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-gulf-coast",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "States of emergency declared in Alabama, Florida and Mississippi, where residents prepare for ‘long-duration power outages’ Isaias strengthened into a category 3 hurricane on Friday morning as it barreled toward the US Gulf coast, where states of emergency have been declared in…",
-   "published": "2026-10-09T13:32:08+00:00"
-  },
-  {
-   "id": "9d41208b8446",
-   "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-   "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
-   "published": "2026-10-09T13:31:07+00:00"
   },
   {
    "id": "fe7026260662",
@@ -743,17 +974,6 @@
    "flourishing_feed": false,
    "summary": "“Both properties will be solely in his name.”",
    "published": "2026-10-09T12:16:00+00:00"
-  },
-  {
-   "id": "4fec08fd9d8b",
-   "title": "GLP-1 drugs could ease back and knee pain, but doctors say there are risks for older adults",
-   "link": "https://www.marketwatch.com/story/glp-1s-could-offer-unexpected-relief-from-back-and-knee-pain-but-doctors-urge-caution-b0de1609?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Rapid weight loss can lead to issues with bone quality.",
-   "published": "2026-10-09T12:15:00+00:00"
   },
   {
    "id": "51f9cd8816ec",
@@ -1119,17 +1339,6 @@
    "published": "2026-10-09T10:18:41+00:00"
   },
   {
-   "id": "6a4182a2783a",
-   "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-   "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
-   "published": "2026-10-09T10:15:00+00:00"
-  },
-  {
    "id": "22bf16f0e1b2",
    "title": "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
    "link": "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
@@ -1215,17 +1424,6 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "The headlines told the story back then in what was Kalani Sitake’s 100th game as Big 12 newcomer BYU’s head football coach. “BYU again shows it isn’t ready for Power Five football,” noted the Deseret News. “Embrace the nightmare: Iowa State embarrasses BYU 45-13 in Provo,”…",
-   "published": "2026-10-09T10:00:00+00:00"
-  },
-  {
-   "id": "62a8af2401ec",
-   "title": "Are the AI industry’s apocalyptic warnings just a marketing ploy?",
-   "link": "https://www.vox.com/politics/505834/ai-doom-anthropic-openai-pr",
-   "source": "Vox",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Silicon Valley has long warned that its favorite technology might get us all killed. But chatter about AI’s apocalyptic potential has grown louder in recent weeks. In September, Anthropic researcher Jacob Coxon resigned from the company, accusing his former employer of…",
    "published": "2026-10-09T10:00:00+00:00"
   },
   {
@@ -1381,17 +1579,6 @@
    "flourishing_feed": false,
    "summary": "Premier League club Everton open to selling controlling stake after 'safely' balancing historical financial troubles.",
    "published": "2026-10-09T09:26:58+00:00"
-  },
-  {
-   "id": "7bb634f5f941",
-   "title": "‘I feel like a loser’: My ETFs go up one day and crash the next. Is this a bad sign?",
-   "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I presume these are sophisticated investors taking a profit.”",
-   "published": "2026-10-09T09:15:00+00:00"
   },
   {
    "id": "29c1fe84bbb1",
@@ -2956,6 +3143,17 @@
    "published": "2026-10-08T21:15:50+00:00"
   },
   {
+   "id": "649fd6de112e",
+   "title": "WealthStack Roundup: Retirement Income Planning Tech Gains New Urgency",
+   "link": "https://www.wealthmanagement.com/advisor-support-platforms/retirement-income-planning-tech-gains-new-urgency",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "New research shows nearly 40% of investors want detailed, actionable retirement plans, pushing advisors toward specialized distribution-phase technology, plus news of the week from Bento Engine, Betterment, Asset-Map, SUBSCRIBE, and Flourish.",
+   "published": "2026-10-08T21:12:14+00:00"
+  },
+  {
    "id": "5f6c0a4a0fa6",
    "title": "Trump gives top US science awards to Elon Musk and other tech executives",
    "link": "https://www.aljazeera.com/news/2026/10/8/trump-gives-top-us-science-awards-to-elon-musk-and-other-tech-executives?traffic_source=rss",
@@ -3140,17 +3338,6 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
-   "published": "2026-10-08T20:30:00+00:00"
-  },
-  {
-   "id": "06c23aad3a31",
-   "title": "With mortgage rates soaring above 7.5%, the smart money rents in America",
-   "link": "https://www.marketwatch.com/story/with-mortgage-rates-soaring-above-7-5-the-smart-money-rents-in-america-ef0eb5aa?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "If buying a home right now is such a great idea, why doesn’t Wall Street want to do it?",
    "published": "2026-10-08T20:30:00+00:00"
   },
   {
@@ -3603,17 +3790,6 @@
    "flourishing_feed": false,
    "summary": "Utah kicked off a major step in its new effort to combat chronic homelessness Wednesday by launching a new program to help high-utilizers of the criminal justice and shelter systems get back on their feet.",
    "published": "2026-10-08T18:08:14+00:00"
-  },
-  {
-   "id": "89ae63a8b0da",
-   "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
-   "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "It doesn’t matter if you are a Republican or Democrat. Math is math.",
-   "published": "2026-10-08T18:08:00+00:00"
   },
   {
    "id": "a4dfada8d975",
@@ -21476,7 +21652,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Thursday, Oct. 8, 2026 TELEVISION FOOTBALL Missouri St. at WKU, CBSSN, 5 p.m. Sam Houston at Liberty, ESPNU, 5 p.m. South Alabama at Arkansas St., ESPN2, 5:30 p.m. South Florida at UTSA, ESPN, 5:30 p.m. Corner Canyon at American Fork, KJZZ/KMYU, 7 p.m. GOLF Open de Espana,…",
+   "summary": "Friday, Oct. 9, 2026 TELEVISION BASKETBALL Preseason: Rockets vs. Mavericks, NBA TV, 6 a.m. WNBA: Dream at Liberty, ESPN2, 5:30 p.m. Preseason: Grizzlies at Bulls, NBA TV, 6 p.m. FOOTBALL Florida St. at Louisville, ESPN, 5 p.m. Copper Hills at Herriman, KJZZ/KMYU, 7 p.m.…",
    "published": "2026-10-04T06:00:00+00:00"
   },
   {
