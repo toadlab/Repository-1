@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T03:32:54.704107+00:00",
+ "generated": "2026-10-09T04:33:19.498985+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "name": "Congressional Budget Office",
@@ -129,6 +129,17 @@
  ],
  "items": [
   {
+   "id": "0f653cd67a9f",
+   "title": "Mike Kennedy and Jonny Larsen disagree on Iran war and gas prices in Utah’s 4th District debate",
+   "link": "https://www.deseret.com/politics/2026/10/08/cd-4-debate-snow-college/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two of the candidates for Utah’s new 4th Congressional District disagreed over policy solutions on issues like the cost of healthcare, housing affordability, data centers and gas prices at a debate Thursday night. Rep. Mike Kennedy, the Republican candidate, and Jonny Larsen,…",
+   "published": "2026-10-09T04:17:30+00:00"
+  },
+  {
    "id": "95ec2385725b",
    "title": "Labour wins Holborn and St Pancras byelection; Polanski ‘absolutely’ intends to remain Greens leader – UK politics live",
    "link": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
@@ -136,8 +147,85 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Sagal Abdi-Wali defeats Green party leader Zack Polanski to retain the Holborn and St Pancras seat for Labour Activists in Camden have suggested the Greens’ decision to back the anti-Zionism motion has cost them votes in the byelection. Councillors for both Labour the Liberal…",
-   "published": "2026-10-09T03:29:40+00:00"
+   "summary": "Sagal Abdi-Wali defeats Green party leader Zack Polanski to retain the Holborn and St Pancras seat for Labour Labour fends off Green party to win Holborn and St Pancras byelection Activists in Camden have suggested the Greens’ decision to back the anti-Zionism motion has cost…",
+   "published": "2026-10-09T04:09:58+00:00"
+  },
+  {
+   "id": "44f5d8d121a7",
+   "title": "Egyptian journalists plan weekend protest over detention of six colleagues",
+   "link": "https://www.theguardian.com/global-development/2026/oct/09/egypt-six-journalists-matsadaash-protest-over-detentions",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Matsadaash staff allege torture and forced confessions after being held on charges of working for Muslim Brotherhood Egyptian journalists are planning a new protest in Cairo this weekend after six colleagues were charged with terrorism offences amid allegations they had been…",
+   "published": "2026-10-09T04:00:38+00:00"
+  },
+  {
+   "id": "d1cd3189c765",
+   "title": "How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find",
+   "link": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect it A chance social media encounter has led to the race-against-time discovery of a new species of giant waterlily that has until now been hidden in the…",
+   "published": "2026-10-09T04:00:37+00:00"
+  },
+  {
+   "id": "a48a55d8349d",
+   "title": "Northern Ireland’s Sinn Fein faces police probe as protest tensions fester",
+   "link": "https://www.aljazeera.com/news/2026/10/9/northern-irelands-sinn-fein-faces-police-probe-as-protest-tensions-fester?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Democratic Unionist Party calls for the prosecution of Sinn Fein lawmakers who participated in the protest.",
+   "published": "2026-10-09T03:47:41+00:00"
+  },
+  {
+   "id": "1ec9e5c40314",
+   "title": "Adidas sues Australian label White Fox over four stripes design",
+   "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
+   "published": "2026-10-09T03:36:41+00:00"
+  },
+  {
+   "id": "7343e10e8dea",
+   "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+   "published": "2026-10-09T03:36:12+00:00"
+  },
+  {
+   "id": "3d258fa2d5d5",
+   "title": "The Utah Mammoth are human after all",
+   "link": "https://www.deseret.com/sports/2026/10/08/utah-mammoth-lose-6-1-to-boston-bruins/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "If the Utah Mammoth are Superman, which their season was starting to suggest heading into Thursday night, the Boston Bruins have a big chunk of Kryptonite buried at center ice. The Mammoth just can’t get anything done at TD Garden. Thursday’s 6-1 loss for Utah, which came on…",
+   "published": "2026-10-09T03:32:06+00:00"
+  },
+  {
+   "id": "35fb1ffe4a61",
+   "title": "ICE agent shoots man in car with five-year-old child in New York: Mayor",
+   "link": "https://www.aljazeera.com/news/2026/10/9/ice-agent-shoots-man-in-car-with-five-year-old-child-in-new-york-mayor?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mayor Zohran Mamdani says agents fired at a car with a child inside; DHS says it was conducting enforcement activity.",
+   "published": "2026-10-09T03:25:33+00:00"
   },
   {
    "id": "c0fb7be7db9e",
@@ -180,7 +268,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Victory by Sagal Abdi-Wali in north London seat will be a relief for Andy Burnham in high-stakes battle for the left of British politics Labour has won the Holborn and St Pancras byelection in a high-stakes battle for the left of British politics. The byelection, called after…",
+   "summary": "Victory by Sagal Abdi-Wali in north London seat will be a relief for Andy Burnham in high-stakes battle for the left of British politics Holborn and St Pancras byelection – live updates Labour has won the Holborn and St Pancras byelection in a high-stakes battle for the left of…",
    "published": "2026-10-09T02:03:41+00:00"
   },
   {
@@ -248,17 +336,6 @@
    "flourishing_feed": false,
    "summary": "Police say man taken to hospital and mayor says child physically unharmed as he condemns ‘unconscionable’ act A US Immigration and Customs Enforcement (ICE) agent shot and injured a man in New York City on Thursday afternoon during an enforcement operation, federal officials…",
    "published": "2026-10-09T01:50:05+00:00"
-  },
-  {
-   "id": "7343e10e8dea",
-   "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-   "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-   "published": "2026-10-09T01:25:33+00:00"
   },
   {
    "id": "e37a77781834",
@@ -416,7 +493,7 @@
   },
   {
    "id": "70d971d71708",
-   "title": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
+   "title": "Iran war live: IRGC says it targets ‘violating’ ships nightly in Hormuz",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -1491,17 +1568,6 @@
    "flourishing_feed": false,
    "summary": "The 30-year Treasury bond still matters, as it can be a measure of trust in the U.S. government.",
    "published": "2026-10-08T18:19:00+00:00"
-  },
-  {
-   "id": "1ec9e5c40314",
-   "title": "Adidas sues Australian label White Fox over four stripes design",
-   "link": "https://www.bbc.co.uk/news/articles/c9e8ld448km8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The German sportswear brand wants the Sydney-based label to stop selling the clothes and pay damages.",
-   "published": "2026-10-08T18:17:28+00:00"
   },
   {
    "id": "7927065e2797",
