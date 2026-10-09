@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T00:44:29.951956+00:00",
+ "generated": "2026-10-09T01:33:05.763892+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,6 +129,105 @@
  ],
  "items": [
   {
+   "id": "7343e10e8dea",
+   "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+   "published": "2026-10-09T01:25:33+00:00"
+  },
+  {
+   "id": "95ec2385725b",
+   "title": "Counting under way in Holborn and St Pancras byelection – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Results are expected from 2.30am BST in the north London poll to choose a replacement for former PM Keir Starmer A quick reminder of the byelection candidates in Holborn and St Pancras: Labour – Sagal Abdi-Wali Green party – Zack Polanski Conservative party – Ewan Cameron…",
+   "published": "2026-10-09T01:18:46+00:00"
+  },
+  {
+   "id": "e37a77781834",
+   "title": "Hurricane Isaias forecast to bring dangerous storm surge, with millions under warnings in US",
+   "link": "https://www.theguardian.com/world/2026/oct/08/hurricane-isaias-gulf-coast",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Residents in areas from the mouth of the Mississippi River to Florida urged to ‘evacuate if told to do so’ Millions of people from Louisiana to Florida were under hurricane warnings on Thursday as Hurricane Isaias heads toward the US Gulf coast, with weather officials warning…",
+   "published": "2026-10-09T01:18:29+00:00"
+  },
+  {
+   "id": "61c5de176fdb",
+   "title": "Protests, debate follow death of Maricarmen, 87, Spain protest symbol",
+   "link": "https://www.aljazeera.com/news/2026/10/9/protests-debate-follow-death-of-maricarmen-87-spain-protest-symbol?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thousands of protesters honour Maricarmen Abascal's life, while tributes in Spanish parliament spark debate.",
+   "published": "2026-10-09T01:15:49+00:00"
+  },
+  {
+   "id": "a4b5c55c6112",
+   "title": "Sydney festival 2027: 11 international dance works to headline ‘once-in-a-lifetime’ program",
+   "link": "https://www.theguardian.com/culture/2026/oct/09/sydney-festival-2027-international-dance-headline-program",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Making its southern hemisphere debut, Dance Reflections will feature collaborators of Rosalía, Madonna and Beyoncé – and a high-wire takeover of the Cutaway Get our weekend culture and lifestyle email A “once-in-a-lifetime” program of dance works of scale will be coming to…",
+   "published": "2026-10-09T01:00:34+00:00"
+  },
+  {
+   "id": "3f1f0031b21f",
+   "title": "USS Abraham Lincoln returns after record-breaking deployment",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/uss-abraham-lincoln-returns-after-record-breaking-deployment?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Families embraced their loved ones as the USS Abraham Lincoln returned home to San Diego after more than 300 days at sea",
+   "published": "2026-10-09T00:57:45+00:00"
+  },
+  {
+   "id": "1ca53a6776c6",
+   "title": "SpaceX’s Starlink Mobile plans are pressuring AT&T and Verizon shares",
+   "link": "https://www.marketwatch.com/story/spacexs-starlink-mobile-plans-are-pressuring-at-t-and-verizon-shares-7cb56764?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "SpaceX plans to purchase Grain Management’s 800 MHz spectrum portfolio in a move to bolster its mobile ambitions. The news is lifting cell-tower stocks.",
+   "published": "2026-10-09T00:52:00+00:00"
+  },
+  {
+   "id": "ba7c7789eb3e",
+   "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
+   "link": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Russia and China block US efforts to expand the Darfur arms embargo to cover all of Sudan amid ongoing conflict.",
+   "published": "2026-10-09T00:50:38+00:00"
+  },
+  {
+   "id": "58387f2953e0",
+   "title": "Jim Chalmers delays ATO’s controversial ban on credit card payments following business outcry",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/09/chalmers-delays-controversial-credit-card-ban-business-tax",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Treasurer earmarks funds for year-long transition period for tax office, delaying ban’s 30 November start date A controversial credit card ban for payments on tax bills will be delayed by six months as extra funding is announced for the Australian Tax Office. Treasurer Jim…",
+   "published": "2026-10-09T00:45:19+00:00"
+  },
+  {
    "id": "d4fe01966b88",
    "title": "Hegseth falsely claims Obama called 2009 Fort Hood attack ‘workplace violence’ – US politics live",
    "link": "https://www.theguardian.com/us-news/live/2026/oct/08/uss-lincoln-san-diego-donald-trump-republicans-democrats-us-politics-latest-news",
@@ -137,7 +236,18 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Pentagon chief joins Trump in attempt to use deadly shooting at Texas base to attack former Democratic president Thousands turn out to welcome weary USS Lincoln sailors Sign up for the US Breaking News email Donald Trump has urged James Talarico , the Democratic nominee in the…",
-   "published": "2026-10-09T00:33:48+00:00"
+   "published": "2026-10-09T00:42:14+00:00"
+  },
+  {
+   "id": "86e783fdc508",
+   "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
+   "link": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Crew members express relief after a record 265 days at sea that strained conditions on board.",
+   "published": "2026-10-09T00:39:20+00:00"
   },
   {
    "id": "2b9eafdd54ec",
@@ -163,13 +273,13 @@
   },
   {
    "id": "55d90bdccc96",
-   "title": "ICE agent shoots man in New York City with five-year-old in car, mayor says",
+   "title": "ICE agent shoots man in New York City with five-year-old in car",
    "link": "https://www.theguardian.com/us-news/2026/oct/08/nyc-shooting-federal-agent",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Police say man taken to hospital and mayor says child physically unharmed as he condemns ‘unconscionable’ act A US Immigration and Customs Enforcement (ICE) agent shot a man in New York City on Thursday afternoon, according to the city’s mayor, Zohran Mamdani. Early reports…",
+   "summary": "Police say man taken to hospital and mayor says child physically unharmed as he condemns ‘unconscionable’ act A US Immigration and Customs Enforcement (ICE) agent shot a man in New York City on Thursday afternoon. Early reports indicated that agents had surrounded the man and a…",
    "published": "2026-10-09T00:13:55+00:00"
   },
   {
@@ -270,17 +380,6 @@
    "flourishing_feed": false,
    "summary": "An official at the Pentagon told Al Jazeera that former US Army Major Nidal Hasan's execution would be 'livestreamed'.",
    "published": "2026-10-08T23:36:44+00:00"
-  },
-  {
-   "id": "7343e10e8dea",
-   "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
-   "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
-   "published": "2026-10-08T23:35:57+00:00"
   },
   {
    "id": "a6b63becd633",
@@ -987,17 +1086,6 @@
    "published": "2026-10-08T20:06:08+00:00"
   },
   {
-   "id": "e37a77781834",
-   "title": "Hurricane Isaias forecast to bring dangerous storm surge, with millions under warnings in US",
-   "link": "https://www.theguardian.com/world/2026/oct/08/hurricane-isaias-gulf-coast",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Residents in areas from the mouth of the Mississippi River to Florida urged to ‘evacuate if told to do so’ Millions of people from Louisiana to Florida are under hurricane warnings on Thursday as Hurricane Isaias heads toward the US Gulf coast, with weather officials warning of…",
-   "published": "2026-10-08T20:02:47+00:00"
-  },
-  {
    "id": "672921dabbbb",
    "title": "‘His combination of athleticism and physicality are special’: Offensive lineman Kelvin Obot making early impact for Utes",
    "link": "https://www.deseret.com/sports/2026/10/08/his-combination-of-athleticism-and-physicality-are-special-offensive-lineman-kelvin-obot-making-early-impact-for-utes/",
@@ -1054,7 +1142,7 @@
   },
   {
    "id": "c54bf29176a5",
-   "title": "India’s Cockroach movement says members detained as protests continue",
+   "title": "India’s ‘cockroach’ movement says members detained as protests continue",
    "link": "https://www.aljazeera.com/news/2026/10/8/indias-cockroach-movement-says-members-detained-as-protests-continue?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
