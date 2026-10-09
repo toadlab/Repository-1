@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T15:32:49.726278+00:00",
+ "generated": "2026-10-09T16:33:06.330766+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 35
+   "count": 25
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,281 @@
  ],
  "items": [
   {
+   "id": "4e18150c9776",
+   "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. She wants me to leave my home to her two children.",
+   "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
+   "published": "2026-10-09T16:30:00+00:00"
+  },
+  {
+   "id": "7343e10e8dea",
+   "title": "Firing squad execution to be livestreamed, Pentagon says",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
+   "published": "2026-10-09T16:29:47+00:00"
+  },
+  {
+   "id": "e8456c9999d8",
+   "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+   "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
+   "published": "2026-10-09T16:22:00+00:00"
+  },
+  {
+   "id": "9fe7910625fc",
+   "title": "Three years of genocide in Gaza, Tigray escalation, and a murky race for the UN’s top job: The Cheat Sheet",
+   "link": "https://www.thenewhumanitarian.org/news/2026/10/09/three-years-genocide-gaza-tigray-escalation-murky-race-uns-top-job-cheat-sheet",
+   "source": "The New Humanitarian",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A weekly read to keep you in the loop on humanitarian issues.",
+   "published": "2026-10-09T16:19:48+00:00"
+  },
+  {
+   "id": "9f7f0e49e9cc",
+   "title": "‘The real deal’: Sagal Abdi-Wali’s journey from child refugee to Labour MP in former PM’s seat",
+   "link": "https://www.theguardian.com/politics/2026/oct/09/sagal-abdi-wali-journey-child-refugee-labour-mp-former-pms-seat-london",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Decades of volunteering combined with years of active local party politics, propels Abdi-Wali to victory over Green leader Zack Polanski For Sagal Abdi-Wali, the new MP for Holborn and St Pancras, being elected to replace Keir Starmer in the north London constituency is “deeply…",
+   "published": "2026-10-09T16:17:24+00:00"
+  },
+  {
+   "id": "36dc6bd9a136",
+   "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+   "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+   "published": "2026-10-09T16:15:09+00:00"
+  },
+  {
+   "id": "c455f4a55eb1",
+   "title": "US imposes new sanctions on international criminal court",
+   "link": "https://www.theguardian.com/us-news/2026/oct/09/sanctions-icc-trump",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump administration says US ‘doesn’t need’ ICC after accusing court of unfairly targeting Americans for war crime charges The United States was accused of launching “an assault” on the world’s legal order after imposing more sanctions on the international criminal court (ICC)…",
+   "published": "2026-10-09T16:13:13+00:00"
+  },
+  {
+   "id": "52abb189bcca",
+   "title": "Hurricane Isaias to ‘stress test’ oil markets already hobbled by tight fuel supplies",
+   "link": "https://www.marketwatch.com/story/hurricane-isaias-to-stress-test-oil-markets-already-hobbled-by-tight-fuel-supplies-ca90d4a5?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Supply disruptions during the Atlantic hurricane season usually end up being a blip. This year could be very different.",
+   "published": "2026-10-09T16:12:00+00:00"
+  },
+  {
+   "id": "ffeac62e54f0",
+   "title": "Pro-Kremlin Russian military blogger Mikhail Zvinchuk arrested in Montenegro",
+   "link": "https://www.theguardian.com/world/2026/oct/09/russian-military-blogger-mikhail-zvinchuk-rybar-arrested-montenegro",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Founder of influential Rybar blog detained after warnings of attempts to destabilise Balkan country, officials say A leading pro-Kremlin Russian military blogger with reported ties to Russia’s intelligence services has been arrested in Montenegro, after warnings of attempts to…",
+   "published": "2026-10-09T16:10:25+00:00"
+  },
+  {
+   "id": "097dcfaffde8",
+   "title": "UK coastguard agency chief faces calls to resign over use of unverified data to back up pay plan",
+   "link": "https://www.theguardian.com/society/2026/oct/09/maritime-coastguard-agency-uk-virginia-mcvea-faces-calls-to-resign",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Regulator says poll cited by Virginia McVea in move to strip rescue officers of pay did not sufficiently back up her claim The head of the UK coastguard agency is facing calls to resign after she was found to have used unverified data to back up her controversial plan to strip…",
+   "published": "2026-10-09T16:07:29+00:00"
+  },
+  {
+   "id": "9273d245da53",
+   "title": "Thousands rally for anti-austerity protest in Brussels amid clashes",
+   "link": "https://www.aljazeera.com/news/2026/10/9/thousands-rally-for-anti-austerity-protest-in-brussels-amid-clashes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Belgian police respond to 'troublemakers' on sidelines of main rally with tear gas, water cannon and baton charges.",
+   "published": "2026-10-09T16:07:29+00:00"
+  },
+  {
+   "id": "4a93d4d6cca3",
+   "title": "US imposes sanctions on International Criminal Court",
+   "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate.",
+   "published": "2026-10-09T16:06:59+00:00"
+  },
+  {
+   "id": "bcddbe8093a9",
+   "title": "UN says Pentagon plan to livestream execution of Fort Hood shooter would amount to torture – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Condemnation comes amid fierce backlash from US lawmakers who branded the move ‘grotesque’ and compared it to actions of some terror groups and oppressive governments Analysis: Plan to livestream execution puts US in dubious company Sign up for the US Breaking News email In a…",
+   "published": "2026-10-09T16:06:31+00:00"
+  },
+  {
+   "id": "3ed9906e1180",
+   "title": "‘Abolish ICE’: Mamdani, AOC and other Democrats urge action after New York shooting",
+   "link": "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US immigration officer shot man in car where five-year-old child was sitting in the Bronx, sparking fierce protests Leading New York Democrats expressed anger and demanded curbs on Immigration and Customs Enforcement ( ICE ) violence after a federal officer shot a man driving a…",
+   "published": "2026-10-09T16:06:08+00:00"
+  },
+  {
+   "id": "5b9e15974342",
+   "title": "How the oil industry is preparing for Hurricane Isaias",
+   "link": "https://www.npr.org/2026/10/09/nx-s1-5995417/hurricane-isaias-oil-refineries-diesel-gasoline-prices",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hurricane Isaias is this season's first Atlantic hurricane, and is on a path to hit the northern Gulf Coast. How is the oil industry preparing?",
+   "published": "2026-10-09T16:03:32+00:00"
+  },
+  {
+   "id": "d353a23bae34",
+   "title": "Trump establishes committee to investigate Fed governor Lisa Cook",
+   "link": "https://www.theguardian.com/business/2026/oct/09/trump-investigate-lisa-cook-fed-governor",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US president renews his efforts to oust Cook despite supreme court ruling that her firing was unconstitutional Donald Trump announced on Friday that he is establishing a committee to investigate Lisa Cook, the US Federal Reserve governor, over allegations that she committed…",
+   "published": "2026-10-09T16:02:12+00:00"
+  },
+  {
+   "id": "db4e372b141d",
+   "title": "Trump launches probe into Federal Reserve Governor Lisa Cook",
+   "link": "https://www.aljazeera.com/economy/2026/10/9/trump-launches-probe-into-federal-reserve-governor-lisa-cook?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump began efforts to remove Cook as one of the governors on the US Fed Reserve Board in 2025 and litigation is on.",
+   "published": "2026-10-09T16:01:37+00:00"
+  },
+  {
+   "id": "cd6a1497d29a",
+   "title": "In backroom ‘sewing’ classes, Afghan women stitch together an education in secret",
+   "link": "https://www.csmonitor.com/World/Asia-South-Central/2026/1009/afghanistan-women-secret-education?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It has been five years since the Taliban outlawed women’s education beyond sixth grade, forcing English and math lessons underground.",
+   "published": "2026-10-09T16:01:27+00:00"
+  },
+  {
+   "id": "5ac070a2883f",
+   "title": "A global view, from Canada and beyond",
+   "link": "https://www.csmonitor.com/Perspectives/From-the-Editors/2026/1009/canada-thunder-bay?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An expansive approach to covering news around the world is a hallmark of Monitor journalism. In this week's magazine, our international editor Sara Miller Llana applies this lens to Canada, where she is based.",
+   "published": "2026-10-09T16:00:10+00:00"
+  },
+  {
+   "id": "c4794f2e5dc6",
+   "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
+   "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“People in the U.S. need to wake up.”",
+   "published": "2026-10-09T16:00:00+00:00"
+  },
+  {
+   "id": "81cb1697e18c",
+   "title": "Christian Bittar has conviction for rigging interest rates quashed",
+   "link": "https://www.theguardian.com/business/2026/oct/09/christian-bittar-conviction-rigging-interest-rates-quashed-euribor",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former City banker becomes eighth to clear their name, just days after five others were acquitted Former City trader Christian Bittar has become the eighth person to have his conviction for rigging interest rates quashed, just days after five other former bankers also…",
+   "published": "2026-10-09T15:59:38+00:00"
+  },
+  {
+   "id": "c3da6cf3d840",
+   "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.",
+   "published": "2026-10-09T15:59:04+00:00"
+  },
+  {
+   "id": "786344a432f3",
+   "title": "Prince Harry turns grief into a MasterClass",
+   "link": "https://www.deseret.com/entertainment/2026/10/09/prince-harry-turns-grief-over-diana-into-new-masterclass/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In the nearly 30 years since losing his mother, Princess Diana, in a car crash, Prince Harry has spent much of his life learning about grief. “I consider myself a student of grief,” he says. With that experience, Prince Harry is now hosting a MasterClass on grief, titled “…",
+   "published": "2026-10-09T15:34:31+00:00"
+  },
+  {
+   "id": "2ad8e0a6278b",
+   "title": "Are mortgage rates going to keep heading up?",
+   "link": "https://www.deseret.com/u-s-world/2026/10/09/biggest-drop-in-daily-mortgage-rate-in-months-even-as-weekly-average-rate-jumps/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mortgage rates continued their ascent this week, but could the trend be shifting? After hitting a three-year high on Oct. 1, the weekly average mortgage rate in the U.S. was up again Thursday, to 7.4% for a 30-year, fixed-rate loan, according to the Federal Home Loan Mortgage…",
+   "published": "2026-10-09T15:28:59+00:00"
+  },
+  {
+   "id": "c1054c46a078",
+   "title": "Israeli settler attacks target Palestinian olive harvest in West Bank",
+   "link": "https://www.aljazeera.com/news/2026/10/9/israeli-settler-attacks-target-palestinian-olive-harvest-in-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least 19 settler attacks recorded across territory on Friday as Israeli forces separately detain 16 Palestinians.",
+   "published": "2026-10-09T15:28:10+00:00"
+  },
+  {
    "id": "7bb634f5f941",
    "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
    "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
@@ -140,8 +415,30 @@
    "published": "2026-10-09T15:27:00+00:00"
   },
   {
+   "id": "b307eeccf4e4",
+   "title": "Hurricane Isaias strengthens into Category 3 storm with US in its sights",
+   "link": "https://www.aljazeera.com/news/2026/10/9/hurricane-isaias-strengthens-into-category-3-storm-with-us-in-its-sights?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The major storm is expected to make landfall along the US Gulf Coast later on Friday or early Saturday.",
+   "published": "2026-10-09T15:25:27+00:00"
+  },
+  {
+   "id": "95ec2385725b",
+   "title": "UK politics: Green MP Siân Berry says opponents of Zionism motion were ‘persuaded’ not to fight it because of byelection – as it happened",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The MP says that passing the motion has done ‘genuine damage; to the party’s reputation Report: Labour wins Holborn and St Pancras byelection Analysis: defeat will disappoint Greens – but there may also be relief Activists in Camden have suggested the Greens’ decision to back…",
+   "published": "2026-10-09T15:25:07+00:00"
+  },
+  {
    "id": "9d41208b8446",
-   "title": "Ethiopia and Eritrea accuse each other of starting conflict after troops cross border",
+   "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
    "link": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -184,28 +481,6 @@
    "published": "2026-10-09T15:15:00+00:00"
   },
   {
-   "id": "bcddbe8093a9",
-   "title": "UN says Pentagon plan to livestream execution of Fort Hood shooter would amount to torture – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Condemnation comes amid fierce backlash from US lawmakers who branded the move ‘grotesque’ and compared it to actions of some terror groups and oppressive governments Analysis: Plan to livestream execution puts US in dubious company Sign up for the US Breaking News email In a…",
-   "published": "2026-10-09T15:11:33+00:00"
-  },
-  {
-   "id": "c455f4a55eb1",
-   "title": "US imposes sanctions on international criminal court",
-   "link": "https://www.theguardian.com/us-news/2026/oct/09/sanctions-icc-trump",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Trump administration says US ‘doesn’t need’ ICC after accusing court of unfairly targeting Americans for war crime charges The United States imposed sanctions on the international criminal court (ICC), its latest escalation against an entity the Trump administration has accused…",
-   "published": "2026-10-09T15:11:33+00:00"
-  },
-  {
    "id": "62858d9d678e",
    "title": "Man City charges: How Premier League reacted – United, Arsenal, Liverpool",
    "link": "https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss",
@@ -229,7 +504,7 @@
   },
   {
    "id": "d7c7a0654af4",
-   "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize - live",
+   "title": "US imposes sanctions on ICC, hours after former judge Pillay wins Nobel peace prize – as it happened",
    "link": "https://www.theguardian.com/world/live/2026/oct/09/2026-nobel-peace-prize-winner-russia-ukraine-sudan-war-france-protests-poland-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -246,7 +521,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "States of emergency declared in Alabama, Florida and Mississippi, where residents prepare for ‘long-duration power outages’ Isaias strengthened into a category 3 hurricane on Friday morning as it barreled toward the US Gulf coast, where states of emergency have been declared in…",
+   "summary": "Alabama, Florida and Mississippi declare emergencies, as residents prepare for ‘long-duration power outages’ Isaias strengthened into a category 3 hurricane on Friday morning as it barreled toward the US Gulf coast, where states of emergency have been declared in Alabama,…",
    "published": "2026-10-09T15:06:16+00:00"
   },
   {
@@ -303,17 +578,6 @@
    "flourishing_feed": false,
    "summary": "If buying a home right now is such a great idea, why doesn’t Wall Street want to do it?",
    "published": "2026-10-09T14:55:00+00:00"
-  },
-  {
-   "id": "95ec2385725b",
-   "title": "Green MP Siân Berry says opponents of Zionism motion were ‘persuaded’ not to fight it because of byelection – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The MP says that passing the motion has done ‘genuine damage; to the party’s reputation Report: Labour wins Holborn and St Pancras byelection Analysis: defeat will disappoint Greens – but there may also be relief Activists in Camden have suggested the Greens’ decision to back…",
-   "published": "2026-10-09T14:53:25+00:00"
   },
   {
    "id": "845f1f4cf08c",
@@ -523,17 +787,6 @@
    "flourishing_feed": false,
    "summary": "The 85-year-old South African judge has spent decades fighting apartheid and genocide.",
    "published": "2026-10-09T14:02:58+00:00"
-  },
-  {
-   "id": "36dc6bd9a136",
-   "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-   "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
-   "published": "2026-10-09T14:00:47+00:00"
   },
   {
    "id": "e6ecab59df0d",
@@ -767,6 +1020,17 @@
    "published": "2026-10-09T13:21:00+00:00"
   },
   {
+   "id": "7cccce887620",
+   "title": "RIA Edge 100: Pathstone’s Unusual Growth Engine Includes Skiing, Fly Fishing Trips",
+   "link": "https://www.wealthmanagement.com/ria-edge/ria-edge-100-pathstone-s-unusual-growth-engine-includes-skiing-fly-fishing-trips",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "CEO Matthew Fleissig attributes Pathstone’s growth to unconventional moves that range from widespread employee ownership to hosting backcountry ski trips with clients.",
+   "published": "2026-10-09T13:19:10+00:00"
+  },
+  {
    "id": "10f6cf3c8b47",
    "title": "Tory tax break for banks has cost UK public purse £6bn, says TUC",
    "link": "https://www.theguardian.com/money/2026/oct/09/tory-tax-break-banks-cost-uk-public-purse-tuc",
@@ -798,17 +1062,6 @@
    "flourishing_feed": false,
    "summary": "Ex-prince was granted £302,000 in compensation for early end of lease and king has reportedly contributed to costs Andrew Mountbatten-Windsor faced a £1.8m bill to cover repair and restoration of his former Royal Lodge home in Windsor after the lease was officially surrendered.…",
    "published": "2026-10-09T13:09:23+00:00"
-  },
-  {
-   "id": "3ed9906e1180",
-   "title": "‘Abolish ICE’: Mamdani, AOC and other Democrats urge action after New York shooting",
-   "link": "https://www.theguardian.com/us-news/2026/oct/09/abolish-ice-mamdani-aoc-new-york-shooting",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "US immigration officer shot man in car where five-year-old child was sitting in the Bronx, sparking fierce protests US politics live – latest updates Leading New York Democrats expressed anger and demanded curbs on Immigration and Customs Enforcement ( ICE ) violence after a…",
-   "published": "2026-10-09T13:09:15+00:00"
   },
   {
    "id": "8f0ad82fc4e9",
@@ -932,17 +1185,6 @@
    "published": "2026-10-09T12:37:49+00:00"
   },
   {
-   "id": "7343e10e8dea",
-   "title": "Firing squad execution to be livestreamed, Pentagon says",
-   "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
-   "published": "2026-10-09T12:24:58+00:00"
-  },
-  {
    "id": "4bdabecd8e9b",
    "title": "ICE agent shoots man in New York City",
    "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
@@ -1029,17 +1271,6 @@
    "flourishing_feed": false,
    "summary": "Gang breaks into cellar of Marchesi Antinori in Cortona and loads two trucks with 30,000 bottles before getaway Thousands of bottles of wine worth €5m (£4.2m) have been stolen from a prestigious winery in Tuscany in what is thought to be the biggest heist of its kind in Italy.…",
    "published": "2026-10-09T11:57:49+00:00"
-  },
-  {
-   "id": "ffeac62e54f0",
-   "title": "Pro-Kremlin Russian military blogger Mikhail Zvinchuk arrested in Montenegro",
-   "link": "https://www.theguardian.com/world/2026/oct/09/russian-military-blogger-mikhail-zvinchuk-rybar-arrested-montenegro",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Founder of influential Rybar blog detained after warnings of attempts to destabilise Balkan country, officials say A leading pro-Kremlin Russian military blogger with reported ties to Russia’s intelligence services has been arrested in Montenegro, after warnings of attempts to…",
-   "published": "2026-10-09T11:51:18+00:00"
   },
   {
    "id": "912618cfc703",
@@ -1137,7 +1368,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza Nobel peace prize – latest updates The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN…",
+   "summary": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel…",
    "published": "2026-10-09T11:24:10+00:00"
   },
   {
@@ -5231,17 +5462,6 @@
    "flourishing_feed": false,
    "summary": "Recent death of 87-year-old woman likely to focus attention on crisis in run-up to election at end of November Europe live – latest updates Even before María del Carmen Abascal died on Wednesday night , a mere fortnight after her eviction from the Madrid flat where she had…",
    "published": "2026-10-08T12:16:06+00:00"
-  },
-  {
-   "id": "c4794f2e5dc6",
-   "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected applications from wealthy couples. Here’s why.",
-   "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“People in the U.S. need to wake up.”",
-   "published": "2026-10-08T12:15:00+00:00"
   },
   {
    "id": "f5b4199af589",
