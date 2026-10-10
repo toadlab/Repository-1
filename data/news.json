@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T14:29:37.840208+00:00",
+ "generated": "2026-10-10T15:29:35.603220+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,204 @@
  ],
  "items": [
   {
+   "id": "5e378862759b",
+   "title": "Deseret News archives: Qing dynasty drew to a close in 1911 after revolt by groups who wanted modern governance",
+   "link": "https://www.deseret.com/utah/2024/10/10/deseret-news-archives-qing-dynasty-came-to-close-in-1911/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Editor’s note: This story was published on Oct. 10, 2024. A look back at local, national and world events through Deseret News archives. On Oct. 10, 1911, Chinese revolutionaries launched an uprising that led to the collapse of the Qing (or Manchu) Dynasty and the establishment…",
+   "published": "2026-10-10T15:24:58+00:00"
+  },
+  {
+   "id": "068525c293e6",
+   "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+   "link": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+   "published": "2026-10-10T15:23:47+00:00"
+  },
+  {
+   "id": "4e2a35bc1079",
+   "title": "With or without Hamas",
+   "link": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hamas’s fate will not profoundly shape Gaza’s future.",
+   "published": "2026-10-10T15:19:41+00:00"
+  },
+  {
+   "id": "a43937628602",
+   "title": "Three injured in third school attack in Poland in less than a week",
+   "link": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The attack comes after police announced the detention of 76 people across Poland in connection with previous incidents.",
+   "published": "2026-10-10T15:13:55+00:00"
+  },
+  {
+   "id": "fdf1501649ec",
+   "title": "Liverpool vs Man City: Premier League – teams, prediction, Haaland, charges",
+   "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Man City travel to Liverpool for their first game since being found guilty of serious EPL financial breaches.",
+   "published": "2026-10-10T15:11:22+00:00"
+  },
+  {
+   "id": "e4256e6327a7",
+   "title": "Saudi capital airport hit again, sparking evacuations, reports say",
+   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
+   "published": "2026-10-10T15:05:55+00:00"
+  },
+  {
+   "id": "7bb634f5f941",
+   "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+   "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I presume these are sophisticated investors taking a profit.”",
+   "published": "2026-10-10T15:05:00+00:00"
+  },
+  {
+   "id": "8f35e357f3b5",
+   "title": "Hurricane Isaias live updates: warning of ‘spinoff tornadoes’ as hundreds of thousands without power",
+   "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "First Atlantic hurricane of the 2026 season makes landfall in the US Full story: Hurricane Isaias hammers Gulf coast Sign up for the US Breaking News email Florida governor Ron DeSantis said no requests for search and rescue assistance had been received following Isaias, which…",
+   "published": "2026-10-10T15:04:52+00:00"
+  },
+  {
+   "id": "fd60d9941de8",
+   "title": "Camden council was warned about paedophile nursery worker years before arrest",
+   "link": "https://www.theguardian.com/society/2026/oct/10/vincent-chan-paedophile-nursery-worker-camden-council-warning-years-before-arrest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Vincent Chan went on to abuse children after being cleared of ‘significant concerns’ following council-overseen inquiry A paedophile nursery worker was cleared by an investigation overseen by a local authority three years before he was arrested. In February, Vincent Chan was…",
+   "published": "2026-10-10T15:00:01+00:00"
+  },
+  {
+   "id": "31d4fead0377",
+   "title": "Opinion: Is the art of looking things up obsolete?",
+   "link": "https://www.deseret.com/opinion/2026/10/10/is-the-art-looking-things-up-obsolete/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "I think Artificial Intelligence has become more of a crutch than a tool in its short lifetime. People today want everything to be as easy as possible, and I feel like it might be for the worst. I got my first phone in third grade; a Motorola Razr flip-phone. Part of the…",
+   "published": "2026-10-10T15:00:00+00:00"
+  },
+  {
+   "id": "0dced8a1f242",
+   "title": "My First $1 Million: Mechanical Engineer, 69, Los Angeles",
+   "link": "https://www.kiplinger.com/personal-finance/my-first-million-74-mechanical-engineer-los-angeles",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "\"I am the classic 'millionaire next door.' I started saving in the company saving plan with my first paycheck at age 22 and never stopped.\"",
+   "published": "2026-10-10T15:00:00+00:00"
+  },
+  {
+   "id": "66bd6aef8720",
+   "title": "Woman injures three people in third Poland school knife attack in a week",
+   "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+   "published": "2026-10-10T14:58:55+00:00"
+  },
+  {
+   "id": "57fdd6ba4cad",
+   "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+   "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+   "published": "2026-10-10T14:49:32+00:00"
+  },
+  {
+   "id": "495ff983bc7e",
+   "title": "Ukraine hit by deadly Russian strikes as ‘thanks’ for Trump diesel deal, Zelenskyy says",
+   "link": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukrainian president says money from fuel sales will intensify war as European leaders reiterate support for Kyiv Russia launched deadly strikes on civilians in Ukraine as “thanks” for a deal cut by Donald Trump with Vladimir Putin to buy large quantities of Russian diesel,…",
+   "published": "2026-10-10T14:45:15+00:00"
+  },
+  {
+   "id": "41a2e73a708e",
+   "title": "Arsenal beat Leeds 2-1 in comeback win to move level with Man City at top",
+   "link": "https://www.aljazeera.com/sports/2026/10/10/arsenal-beat-leeds-2-1-in-comeback-win-to-move-level-with-man-city-at-top?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Arsenal come from behind to beat Leeds United moving them joint top of the Premier League with Manchester City.",
+   "published": "2026-10-10T14:42:39+00:00"
+  },
+  {
+   "id": "9005e70b5574",
+   "title": "Jerusalem Daily: Israeli settlers attack olive farmers",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli settlers steal olives and attack Palestinian farmers during this year’s harvest.",
+   "published": "2026-10-10T14:39:53+00:00"
+  },
+  {
+   "id": "72a62a29e407",
+   "title": "Mexican judge sentences three men for murders of Australian, US surfers",
+   "link": "https://www.aljazeera.com/news/2026/10/10/mexican-judge-sentences-three-men-for-murders-of-australian-us-surfers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The trial in Baja California had revealed chilling details of the triple homicide of the surfers.",
+   "published": "2026-10-10T14:37:26+00:00"
+  },
+  {
+   "id": "7c2a1b22d32a",
+   "title": "Two dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
+   "link": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Deaths came from falling trees as nearly a million people are without power and rain and flooding remain a concern Two people have died amid Isaias after it made landfall late on Friday on Florida’s panhandle as a category 2 hurricane, according to authorities. Both of those…",
+   "published": "2026-10-10T14:34:15+00:00"
+  },
+  {
    "id": "2b3762f9568b",
    "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
@@ -138,6 +336,28 @@
    "flourishing_feed": false,
    "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
    "published": "2026-10-10T14:24:14+00:00"
+  },
+  {
+   "id": "f54d6af072fe",
+   "title": "Why is the US sanctioning the International Criminal Court?",
+   "link": "https://www.aljazeera.com/news/2026/10/10/why-is-the-us-sanctioning-the-international-criminal-court?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The sanctions targeting the ICC, which prosecutes humanitarian crimes, are the latest move by the US against the court.",
+   "published": "2026-10-10T14:19:43+00:00"
+  },
+  {
+   "id": "a755c80f5d01",
+   "title": "Abbas postpones Palestinian legislative elections to September 2027",
+   "link": "https://www.aljazeera.com/news/2026/10/10/abbas-postpones-palestinian-legislative-elections-to-september-2027?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "November 2026 vote delayed; joint presidential and legislative elections set for next year, president says in decree.",
+   "published": "2026-10-10T14:18:09+00:00"
   },
   {
    "id": "146f2c9cb8c7",
@@ -171,28 +391,6 @@
    "flourishing_feed": false,
    "summary": "Fighting is intensifying between Yemeni government forces and Houthi rebel group.",
    "published": "2026-10-10T14:10:24+00:00"
-  },
-  {
-   "id": "8f35e357f3b5",
-   "title": "Hurricane Isaias live updates: warning of ‘spinoff tornadoes’ as hundreds of thousands without power",
-   "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "First Atlantic hurricane of the 2026 season makes landfall in the US Full story: Hurricane Isaias hammers Gulf coast Sign up for the US Breaking News email Florida governor Ron DeSantis said no requests for search and rescue assistance had been received following Isaias, which…",
-   "published": "2026-10-10T14:08:29+00:00"
-  },
-  {
-   "id": "7c2a1b22d32a",
-   "title": "Isaias weakens to post-tropical cyclone after striking Florida panhandle",
-   "link": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Nearly a million people are without power in Florida, Alabama and Georgia as rain and flooding remain a concern Isaias weakened on Saturday to a post-tropical cyclone after striking Florida’s panhandle as a category 2 hurricane the previous night, though it still posed flooding…",
-   "published": "2026-10-10T14:07:09+00:00"
   },
   {
    "id": "058b5b851018",
@@ -400,7 +598,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration.",
+   "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
    "published": "2026-10-10T12:29:31+00:00"
   },
   {
@@ -710,17 +908,6 @@
    "flourishing_feed": false,
    "summary": "Don Draper’s story is a great watch. It’s also a great teacher.",
    "published": "2026-10-10T10:50:00+00:00"
-  },
-  {
-   "id": "7bb634f5f941",
-   "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
-   "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I presume these are sophisticated investors taking a profit.”",
-   "published": "2026-10-10T10:30:00+00:00"
   },
   {
    "id": "f91d8fc064e9",
@@ -1049,7 +1236,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Indian authorities have launched a major security crackdown in New Delhi, detaining thousands of protesters who intended to hold a mass demonstration against Prime Minister Narendra Modi's government.",
+   "summary": "The protests focus on the Election Commission's voter list revision, which the opposition claims disenfranchises millions. The government denies the allegations, saying the revision aims to eliminate duplicate entries.",
    "published": "2026-10-10T08:31:28+00:00"
   },
   {
