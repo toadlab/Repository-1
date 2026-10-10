@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T02:31:47.061263+00:00",
+ "generated": "2026-10-10T03:31:49.790471+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -128,6 +128,50 @@
   }
  ],
  "items": [
+  {
+   "id": "9165d624ff9a",
+   "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
+   "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
+   "published": "2026-10-10T03:29:50+00:00"
+  },
+  {
+   "id": "7bb634f5f941",
+   "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Should I be worried?",
+   "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I presume these are sophisticated investors taking a profit.”",
+   "published": "2026-10-10T03:15:00+00:00"
+  },
+  {
+   "id": "a5b0aecd44e9",
+   "title": "The kickoff time for the Utah-Kansas game has been significantly changed",
+   "link": "https://www.deseret.com/sports/2026/10/09/utah-utes-kansas-jayhawks-college-football-kickoff-time-changed/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The kickoff time for the college football game between the Utah Utes and Kansas Jayhawks at Rice-Eccles Stadium on Saturday has been changed. The Big 12 Conference announced Friday night that the game will now begin at 6 p.m. as opposed to 8:15 p.m. because of expected bad…",
+   "published": "2026-10-10T03:09:31+00:00"
+  },
+  {
+   "id": "6c89ddf790ec",
+   "title": "Elon Musk lashes out at Indian ‘Prime Minister’ Mukesh Ambani in Starlink",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/10-10-sv-india-denies-blocking-ambani-musk-adani-starlink-in?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of being India’s ‘real boss’ in over delays to Starlink's entry.",
+   "published": "2026-10-10T02:35:28+00:00"
+  },
   {
    "id": "f243354ed144",
    "title": "Live coverage: No. 8 BYU returns home for Friday night clash with Iowa State",
@@ -371,17 +415,6 @@
    "published": "2026-10-10T00:00:08+00:00"
   },
   {
-   "id": "7bb634f5f941",
-   "title": "‘I feel like a loser’: I check my ETFs every day. They’re up one minute, down the next. Should I be worried?",
-   "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I presume these are sophisticated investors taking a profit.”",
-   "published": "2026-10-10T00:00:00+00:00"
-  },
-  {
    "id": "e3512be2e7c5",
    "title": "Iran war live: Kremlin says Trump welcomed Russia’s effort in Iran deal",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/iran-war-live-kremlin-says-trump-welcomed-russia-effort-in-iran-deal?traffic_source=rss",
@@ -446,17 +479,6 @@
    "flourishing_feed": false,
    "summary": "“Both properties will be solely in his name.”",
    "published": "2026-10-09T23:15:00+00:00"
-  },
-  {
-   "id": "9165d624ff9a",
-   "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
-   "link": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering.",
-   "published": "2026-10-09T23:02:07+00:00"
   },
   {
    "id": "4d00c86dc84b",
