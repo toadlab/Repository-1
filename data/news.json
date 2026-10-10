@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T07:31:03.676627+00:00",
+ "generated": "2026-10-10T08:30:45.069021+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "name": "Congressional Budget Office",
@@ -128,6 +128,61 @@
   }
  ],
  "items": [
+  {
+   "id": "50c38b06fc65",
+   "title": "Hurricane Isaias downgraded after making landfall in Florida",
+   "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
+   "published": "2026-10-10T08:29:59+00:00"
+  },
+  {
+   "id": "bf8ddeebac79",
+   "title": "US lifts sanctions on daughter of military-linked Myanmar businessman",
+   "link": "https://www.aljazeera.com/news/2026/10/10/us-lifts-sanctions-on-daughter-of-military-linked-myanmar-tycoon?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Delisting comes days after Trump administration reportedly reopened talks with Myanmar's government.",
+   "published": "2026-10-10T07:50:59+00:00"
+  },
+  {
+   "id": "24f2e2e4bdf5",
+   "title": "Ronaldo returns after Portugal quarrel to score in Al-Nassr win",
+   "link": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-returns-after-portugal-quarrel-and-back-in-the-goals-in-al-nassr-wi?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Cristiano Ronaldo opened the scoring for Al-Nassr in their 3-0 win over Diriyah, his first game since Portugal walkout.",
+   "published": "2026-10-10T07:34:18+00:00"
+  },
+  {
+   "id": "e79e62780726",
+   "title": "Ireland Catholic residents react to UK ban on Protestant march",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/ireland-catholic-residents-react-to-uk-ban-on-protestant-march?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ireland Catholic residents react to UK ban on Protestant march",
+   "published": "2026-10-10T07:31:34+00:00"
+  },
+  {
+   "id": "c562cb81c544",
+   "title": "Saudi-led coalition says it’s carrying out operation in Yemen",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/saudi-led-coalition-says-its-carrying-out-operation-in-yemen?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Saudi-led coalition says it’s carrying out a wide-ranging operation, targeting Yemen’s Houthis.",
+   "published": "2026-10-10T07:19:36+00:00"
+  },
   {
    "id": "1e81c600521d",
    "title": "‘How can you stop these kids?’ Indian capital on lockdown before protests",
@@ -182,17 +237,6 @@
    "flourishing_feed": false,
    "summary": "What’s on your mind?",
    "published": "2026-10-10T07:00:00+00:00"
-  },
-  {
-   "id": "50c38b06fc65",
-   "title": "Hurricane Isaias downgraded after making landfall in Florida",
-   "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Isaias is continuing across the Southeastern US after being downgraded from a hurricane to a post-tropical cyclone.",
-   "published": "2026-10-10T06:54:16+00:00"
   },
   {
    "id": "d74770931066",
@@ -999,7 +1043,7 @@
   },
   {
    "id": "a382270f159b",
-   "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
+   "title": "JD Vance casts doubt on firing squad execution and says he would not watch it",
    "link": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
