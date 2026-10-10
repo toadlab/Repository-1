@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T09:30:34.189824+00:00",
+ "generated": "2026-10-10T10:29:31.748949+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 38
+   "count": 30
   },
   {
    "name": "The Guardian World",
@@ -128,6 +128,204 @@
   }
  ],
  "items": [
+  {
+   "id": "504e0e5c8170",
+   "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
+   "link": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US president says agreement needed to lower American fuel prices, but move likely to create fresh crisis with Ukraine and Nato allies Donald Trump was on a fresh collision course with the Ukrainian president, Volodymyr Zelenskyy, and European allies after a stunning agreement…",
+   "published": "2026-10-10T10:09:46+00:00"
+  },
+  {
+   "id": "a703ac68fcb4",
+   "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+   "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+   "published": "2026-10-10T10:06:23+00:00"
+  },
+  {
+   "id": "d23c327a72fb",
+   "title": "UK must not be beholden to foreign AI, says head of Alan Turing Institute",
+   "link": "https://www.theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "George Williamson says ‘national resilience’ is key focus of ATI amid US and China’s runaway leadership in field The UK must not become dependent on foreign AI systems that can be switched off at short notice and must develop its own versions of the technology, according to the…",
+   "published": "2026-10-10T10:00:55+00:00"
+  },
+  {
+   "id": "cf775934f0ae",
+   "title": "Suicide memorial in Chicago signals compassionate shift by Catholic church",
+   "link": "https://www.theguardian.com/us-news/2026/oct/10/suicide-memorial-chicago-catholic-church",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "First US memorial for suicide victims dedicated by Chicago archdiocese earlier this year at Queen of Heaven cemetery The Chicago archdiocese has recognized the Rev Charles Rubey’s work supporting families whose loved ones died by suicide this year by dedicating in his honor a…",
+   "published": "2026-10-10T10:00:53+00:00"
+  },
+  {
+   "id": "8f35e357f3b5",
+   "title": "Hurricane Isaias live updates: hundreds of thousands without power as storm batters US Gulf Coast",
+   "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "First Atlantic hurricane of the 2026 season makes landfall in the US Full story: Hurricane Isaias hammers Gulf coast Sign up for the US Breaking News email Our data visuals team has been keeping tabs on the path of hurricane Isaias. Here’s where we expect it to hit: The storm…",
+   "published": "2026-10-10T10:00:45+00:00"
+  },
+  {
+   "id": "d39cea74c8c2",
+   "title": "The Great British Exodus: Taxes, Housing Costs, and Terrible Healthcare Are Driving Young Brits Away",
+   "link": "https://reason.com/2026/10/10/the-great-british-exodus/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 1.2 million British nationals have left the United Kingdom since 2021.",
+   "published": "2026-10-10T10:00:12+00:00"
+  },
+  {
+   "id": "142d38ad45b7",
+   "title": "Utah Rep. Blake Moore acknowledges gas prices, Iran war complicate Republicans’ economic pitch in midterms",
+   "link": "https://www.deseret.com/politics/2026/10/10/blake-moore-dive-in-midterm-cycle/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "House Republican leaders have been stubbornly confident heading into the midterm elections that they can defend, or even grow, their slim majority. But they’ve begun to acknowledge election night may not work out that way. Utah Rep. Blake Moore, who holds the fifth-highest…",
+   "published": "2026-10-10T10:00:01+00:00"
+  },
+  {
+   "id": "52e9eeedf5bf",
+   "title": "What Iowa State coach Jimmy Rogers said after losing to BYU",
+   "link": "https://www.deseret.com/sports/2026/10/10/iowa-state-coach-jimmy-rogers-quotes-after-byu-loss/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Even if the final score didn’t appear too jarring, BYU just handed Iowa State its first truly lopsided loss of the Jimmy Rogers era. The Cougars defeated the Cyclones 24-10 Friday night in Provo, gaining 506 total yards to Iowa State’s 200 and controlling the contest from start…",
+   "published": "2026-10-10T10:00:01+00:00"
+  },
+  {
+   "id": "a41925808c0f",
+   "title": "Do you live in a ‘marriage desert’ or a ‘marriage garden’?",
+   "link": "https://www.deseret.com/family/2026/10/10/marriage-deserts-gardens-across-us-insitute-family-studies/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "America’s family divide has its own geography, with potential to impact family structure. A new report from the Institute for Family Studies uses Census data maps and rankings to demonstrate the country has distinct “marriage gardens” and “marriage deserts,” with implications…",
+   "published": "2026-10-10T10:00:01+00:00"
+  },
+  {
+   "id": "cd1ec3a7a51e",
+   "title": "Perspective: In the troubling case of Christa Pike, what could — or should — happen next?",
+   "link": "https://www.deseret.com/u-s-world/2026/10/10/christa-pike-condition-next-steps-colleen-slemmer-family/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The case of Christa Pike, who survived an execution attempt in Tennessee, has been called unprecedented. It’s not. Among other failed executions, there is the case of Willie Francis in Louisiana. In 1946, the state attempted to execute a 17-year-old who had been condemned to…",
+   "published": "2026-10-10T10:00:01+00:00"
+  },
+  {
+   "id": "4c27b927c6ff",
+   "title": "‘The Social Reckoning’ fails to reckon with anything",
+   "link": "https://www.deseret.com/entertainment/2026/10/10/the-social-reckoning-fails-to-reckon-with-anything/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "“The Social Network” is my favorite movie of all time. The 2010 film written by Aaron Sorkin and directed by David Fincher achieves, in my opinion, the perfect balance of story, performance and ambience, all backdropped by a Trent Reznor and Atticus Ross soundtrack that is so…",
+   "published": "2026-10-10T10:00:00+00:00"
+  },
+  {
+   "id": "c269a1600500",
+   "title": "Analysis: Injury-riddled BYU handles its business in win over Iowa State, sets up epic battle with Notre Dame",
+   "link": "https://www.deseret.com/sports/2026/10/10/analysis-byu-iowa-state-cougars-cyclones-notre-dame-provo-les-late-night-special/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "BYU’s defense held a high-scoring Iowa State offense to 200 yards and 10 points, nobody got seriously injured for once and Bear Bachmeier put up Heisman-like numbers in improving to 17-2 as a starting quarterback. Everybody dressed in blue or white at LaVell Edwards Stadium on…",
+   "published": "2026-10-10T10:00:00+00:00"
+  },
+  {
+   "id": "f5ee0b9d01e2",
+   "title": "Why Francesca Hong is still on the campaign trail",
+   "link": "https://www.vox.com/america-actually/506118/francesca-hong-wisconsin-loss-data-centers",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Wisconsin gubernatorial race was one of the most closely watched Democratic primaries in the country this year, pitting a democratic socialist, state Rep. Francesca Hong, against Milwaukee Democrat David Crowley, who received the endorsement of the state’s sitting…",
+   "published": "2026-10-10T10:00:00+00:00"
+  },
+  {
+   "id": "71e6ddfe4dc5",
+   "title": "As Trump’s Wall Closes in, DHS Intimidates a Border Tribe With Surveillance, Masked Agents and Drones",
+   "link": "https://www.propublica.org/article/tohono-oodham-nation-arizona-border-wall",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post As Trump’s Wall Closes in, DHS Intimidates a Border Tribe With Surveillance, Masked Agents and Drones appeared first on ProPublica .",
+   "published": "2026-10-10T10:00:00+00:00"
+  },
+  {
+   "id": "0f05677efffa",
+   "title": "How the Ultra-Rich Can Protect Mega-IRA Assets",
+   "link": "https://www.kiplinger.com/retirement/iras/mega-iras-large-growth-assets",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Accumulating tens of millions in a mega-retirement account is impressive, but preserving that wealth across generations requires moving beyond standard IRAs.",
+   "published": "2026-10-10T10:00:00+00:00"
+  },
+  {
+   "id": "7210ff2da355",
+   "title": "Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil",
+   "link": "https://www.aljazeera.com/news/2026/10/10/suspect-killed-after-13-kindergarteners-taken-hostage-beaten-in-brazil?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Man spreads flammable liquid in a room with 13 children while holding a lighter as police try to negotiate.",
+   "published": "2026-10-10T09:45:14+00:00"
+  },
+  {
+   "id": "490d1ffa61be",
+   "title": "A year after the ‘ceasefire’, Gaza’s healthcare is still collapsing",
+   "link": "https://www.aljazeera.com/opinions/2026/10/10/a-year-after-the-ceasefire-gazas-healthcare-is-still-collapsing?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Continuing attacks, restrictions on medical aid and delayed evacuations are still killing Palestinians.",
+   "published": "2026-10-10T09:30:14+00:00"
+  },
+  {
+   "id": "7d60f4262641",
+   "title": "Journalist Hamurabi Huesca Manzano killed in Mexico’s Oaxaca",
+   "link": "https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Conflicting reports emerge on the circumstances of the killing, prompting calls for justice from advocacy groups.",
+   "published": "2026-10-10T09:27:08+00:00"
+  },
   {
    "id": "d04c1567476d",
    "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
@@ -488,7 +686,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Cockroach Janta ​Party founder Abhijeet Dipke and other leaders detained before ​protest to demand election chief quit.",
+   "summary": "Cockroach Janta ​Party founder Abhijeet Dipke among hundreds detained before ​protest to demand the election chief quit.",
    "published": "2026-10-10T05:54:36+00:00"
   },
   {
@@ -543,7 +741,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "President William Lai Ching-te emphasises peace and freedom, promises not to tolerate aggression in Taiwan Strait.",
+   "summary": "China condemns Lai's speech, ​saying it 'disregards facts, ⁠distorts the truth, misleads ​the public'.",
    "published": "2026-10-10T05:08:49+00:00"
   },
   {
@@ -708,7 +906,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Governors of Mississippi, Alabama and Florida declare states of emergency as a downsized Fema faces first major test Hurricane Isaias crashed into the US Gulf coast on Friday as a dangerous category 2 storm, hammering communities in Alabama and the Florida panhandle with…",
+   "summary": "Governors of Mississippi, Alabama and Florida declare states of emergency as a downsized Fema faces first major test Hurricane Isaias - live updates Hurricane Isaias crashed into the US Gulf coast on Friday as a dangerous category 2 storm, hammering communities in Alabama and…",
    "published": "2026-10-10T03:56:50+00:00"
   },
   {
@@ -974,17 +1172,6 @@
    "flourishing_feed": false,
    "summary": "Trump says that he expects to soon “settle or win” the conflicts involving Iran and Russia-Ukraine.",
    "published": "2026-10-10T00:00:00+00:00"
-  },
-  {
-   "id": "504e0e5c8170",
-   "title": "Zelenskyy furious as Trump announces deal to buy Russian diesel",
-   "link": "https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President says deal essential to lower US fuel prices but move set to create fresh crisis with Ukraine and Nato allies Donald Trump was on a fresh collision course with the Ukrainian president, Volodymyr Zelenskyy, and European allies on Friday after a stunning agreement to buy…",
-   "published": "2026-10-09T23:39:31+00:00"
   },
   {
    "id": "61320082b9b6",
