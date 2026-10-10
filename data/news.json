@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T19:28:36.595528+00:00",
+ "generated": "2026-10-10T20:29:35.222536+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,6 +129,28 @@
  ],
  "items": [
   {
+   "id": "28bf8e7f2bcd",
+   "title": "Man with gun kills one Philadelphia police officer and injures another",
+   "link": "https://www.theguardian.com/us-news/2026/oct/10/philadelphia-police-officer-killed",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "10-year police veteran Shane Seiber was killed after responding to a report of a man with a gun A Philadelphia police officer was fatally shot and another was wounded on Saturday after responding to a report of a man with a gun, authorities said. Shane Seiber, 40, was killed…",
+   "published": "2026-10-10T20:12:34+00:00"
+  },
+  {
+   "id": "c9de2d7d829c",
+   "title": "Gen Z is feeling nostalgic. Experts say it might be a good thing",
+   "link": "https://www.deseret.com/lifestyle/2026/10/10/the-social-effects-of-growing-nostalgia/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An old song playing on the radio. The revival of a fashion trend from 30 years ago. The smell of a home-cooked meal. Each of these could lead to the same thought: “Ahh, that’s nostalgic.” And among Gen Z, many are feeling nostalgic for eras in which they weren’t even alive. In…",
+   "published": "2026-10-10T20:00:33+00:00"
+  },
+  {
    "id": "8f35e357f3b5",
    "title": "Hurricane Isaias latest updates: at least four people dead and hundreds of thousands without power",
    "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
@@ -137,7 +159,194 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "First Atlantic hurricane of the 2026 season makes landfall in the US as officials warn of ‘spinoff tornadoes’ Full story: Two dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle Key things to know about Hurricane Isaias as millions under evacuation…",
-   "published": "2026-10-10T19:22:48+00:00"
+   "published": "2026-10-10T20:00:14+00:00"
+  },
+  {
+   "id": "763b99995c9c",
+   "title": "Why is the Trump administration trying to dismantle the ICC?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US has imposed sweeping new sanctions on the International Criminal Court.",
+   "published": "2026-10-10T19:59:18+00:00"
+  },
+  {
+   "id": "fe081d8fc049",
+   "title": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
+   "link": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fresh off final game with Argentina, Messi leads Miami against DC United in Major League Soccer in the United States.",
+   "published": "2026-10-10T19:59:08+00:00"
+  },
+  {
+   "id": "2efde9dcfb6a",
+   "title": "Azerbaijan school pupils protest over reported hijab restrictions",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pupils have been protesting after the implementation of a new dress code restricting the hijab in Azerbaijan’s schools.",
+   "published": "2026-10-10T19:49:33+00:00"
+  },
+  {
+   "id": "7af800f72143",
+   "title": "Manchester United held by ten-man Tottenham as woes for both continue",
+   "link": "https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ten-man Tottenham fight back from a goal behind to draw 1-1 at Manchester United in the Premier League.",
+   "published": "2026-10-10T19:47:10+00:00"
+  },
+  {
+   "id": "e8456c9999d8",
+   "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+   "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
+   "published": "2026-10-10T19:44:00+00:00"
+  },
+  {
+   "id": "845f1f4cf08c",
+   "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+   "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026.",
+   "published": "2026-10-10T19:44:00+00:00"
+  },
+  {
+   "id": "89ae63a8b0da",
+   "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
+   "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "It doesn’t matter if you are a Republican or Democrat. Math is math.",
+   "published": "2026-10-10T19:44:00+00:00"
+  },
+  {
+   "id": "4e333c57b6fd",
+   "title": "Should I put my nest egg in a 30-year Treasury bond?",
+   "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Risk comes in many forms, even with “safe” investments.",
+   "published": "2026-10-10T19:44:00+00:00"
+  },
+  {
+   "id": "ce454a00f52f",
+   "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
+   "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Seven tips for painlessly moving in retirement.",
+   "published": "2026-10-10T19:44:00+00:00"
+  },
+  {
+   "id": "4c6968db9d0c",
+   "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
+   "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Parental controls aren’t just for kids anymore",
+   "published": "2026-10-10T19:44:00+00:00"
+  },
+  {
+   "id": "a1844fd54ec4",
+   "title": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably",
+   "link": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Don’t just focus on stock picks when you’re thinking of building retirement wealth",
+   "published": "2026-10-10T19:44:00+00:00"
+  },
+  {
+   "id": "cc1c21604267",
+   "title": "Rising interest rates: The good, the bad and the ugly for retirees",
+   "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
+   "published": "2026-10-10T19:44:00+00:00"
+  },
+  {
+   "id": "7f3150fcf9d1",
+   "title": "Trump says Ukraine needs a new president who will agree to end the war",
+   "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia.",
+   "published": "2026-10-10T19:32:37+00:00"
+  },
+  {
+   "id": "d2b0e3dea058",
+   "title": "It’s time for NFL officials to be flagged",
+   "link": "https://www.deseret.com/sports/2026/10/10/its-time-for-nfl-officials-to-be-flagged/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "If you tune in to football games every week hoping to watch old men in striped shirts throw yellow flags on the grass, then the NFL is for you! Talk about excitement. Forget Josh Allen and Bijan Robinson; the real MVP so far this season, by a runaway margin, is The Referee. In…",
+   "published": "2026-10-10T19:30:00+00:00"
+  },
+  {
+   "id": "8fd635139c0b",
+   "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+   "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+   "published": "2026-10-10T19:28:28+00:00"
+  },
+  {
+   "id": "35410633da75",
+   "title": "Barcelona beat Getafe as Gordon scores his first goal",
+   "link": "https://www.aljazeera.com/sports/2026/10/10/barcelona-beat-getafe-as-gordon-scores-his-first-goal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Barcelona make it six wins from six with a 3-0 win against Getafe as Anthony Gordon scores his first goal for club.",
+   "published": "2026-10-10T19:26:22+00:00"
+  },
+  {
+   "id": "2a451e3eb928",
+   "title": "Ronaldo suspended by Portugal FA after leaving camp and criticising coach",
+   "link": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Portugal star Cristiano Ronaldo suspended by his country's football association for walkout during Nations League games.",
+   "published": "2026-10-10T19:23:26+00:00"
   },
   {
    "id": "7c2a1b22d32a",
@@ -158,7 +367,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Isaias made landfall in Florida on late Friday before being downgraded to a post-tropical cyclone.",
+   "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
    "published": "2026-10-10T19:08:17+00:00"
   },
   {
@@ -259,17 +468,6 @@
    "flourishing_feed": false,
    "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
    "published": "2026-10-10T18:37:10+00:00"
-  },
-  {
-   "id": "8fd635139c0b",
-   "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-   "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-   "published": "2026-10-10T18:36:23+00:00"
   },
   {
    "id": "7bb634f5f941",
@@ -3737,17 +3935,6 @@
    "published": "2026-10-09T16:25:00+00:00"
   },
   {
-   "id": "e8456c9999d8",
-   "title": "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
-   "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
-   "published": "2026-10-09T16:22:00+00:00"
-  },
-  {
    "id": "9fe7910625fc",
    "title": "Three years of genocide in Gaza, Tigray escalation, and a murky race for the UN’s top job: The Cheat Sheet",
    "link": "https://www.thenewhumanitarian.org/news/2026/10/09/three-years-genocide-gaza-tigray-escalation-murky-race-uns-top-job-cheat-sheet",
@@ -4078,17 +4265,6 @@
    "published": "2026-10-09T14:55:00+00:00"
   },
   {
-   "id": "845f1f4cf08c",
-   "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-   "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026.",
-   "published": "2026-10-09T14:50:00+00:00"
-  },
-  {
    "id": "cee86b10e097",
    "title": "High school boys golf: 6A final region recaps, Farmington, Bingham, Lehi win region titles",
    "link": "https://www.deseret.com/sports/2026/10/09/high-school-boys-golf-6a-region-recaps/",
@@ -4131,17 +4307,6 @@
    "flourishing_feed": false,
    "summary": "Rights groups and legal experts say the move could endanger minors, who are usually barred from witnessing executions.",
    "published": "2026-10-09T14:37:08+00:00"
-  },
-  {
-   "id": "89ae63a8b0da",
-   "title": "Ken Paxton is right. Tax cuts will mean Social Security and Medicare cuts.",
-   "link": "https://www.marketwatch.com/story/ken-paxton-is-right-tax-cuts-will-mean-social-security-and-medicare-cuts-2befed72?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "It doesn’t matter if you are a Republican or Democrat. Math is math.",
-   "published": "2026-10-09T14:36:00+00:00"
   },
   {
    "id": "e8aa90fdba81",
@@ -4364,17 +4529,6 @@
    "published": "2026-10-09T13:55:07+00:00"
   },
   {
-   "id": "4e333c57b6fd",
-   "title": "Should I put my nest egg in a 30-year Treasury bond?",
-   "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Risk comes in many forms, even with “safe” investments.",
-   "published": "2026-10-09T13:51:00+00:00"
-  },
-  {
    "id": "96e0059faecd",
    "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
    "link": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
@@ -4395,17 +4549,6 @@
    "flourishing_feed": false,
    "summary": "Dr Annie Andrews voices opposition to ‘biological men … in women’s sports’ in response to Republican attacks Dr Annie Andrews , a Democratic Senate candidate in South Carolina, has responded to persistent efforts by Republicans to make trans athletes in women’s sports a wedge…",
    "published": "2026-10-09T13:50:03+00:00"
-  },
-  {
-   "id": "ce454a00f52f",
-   "title": "How to downsize like a pro — and free yourself from being a ‘prisoner of your possessions’",
-   "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Seven tips for painlessly moving in retirement.",
-   "published": "2026-10-09T13:47:00+00:00"
   },
   {
    "id": "0cf2e41a7003",
@@ -6872,17 +7015,6 @@
    "published": "2026-10-08T20:56:14+00:00"
   },
   {
-   "id": "4c6968db9d0c",
-   "title": "Worse than taking away your parents’ car keys? Taking away their cell phone. How to protect your aging parents.",
-   "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Parental controls aren’t just for kids anymore",
-   "published": "2026-10-08T20:55:00+00:00"
-  },
-  {
    "id": "dfcb3ab8a2e2",
    "title": "Cottonwood Fire and floods trigger disaster funds from Trump administration",
    "link": "https://www.deseret.com/environment/2026/10/08/utah-receives-disaster-declaration-following-cottonwood-mudslides/",
@@ -6991,17 +7123,6 @@
    "flourishing_feed": false,
    "summary": "Federal Reserve Board announces enforcement action against American Express Company to address, among other things, the firm’s failure to sufficiently detect and report certain suspicious activity related to money laundering",
    "published": "2026-10-08T20:30:00+00:00"
-  },
-  {
-   "id": "a1844fd54ec4",
-   "title": "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably",
-   "link": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Don’t just focus on stock picks when you’re thinking of building retirement wealth",
-   "published": "2026-10-08T20:25:00+00:00"
   },
   {
    "id": "42a83e7dfbda",
@@ -7574,17 +7695,6 @@
    "flourishing_feed": false,
    "summary": "After a last-minute sale in the spring of 2024, the former Arizona Coyotes suddenly found themselves planning a move to Salt Lake City. Years’ worth of coordination typically goes into this type of transaction, but time was not afforded to Smith Entertainment Group. Ready or…",
    "published": "2026-10-08T17:46:44+00:00"
-  },
-  {
-   "id": "cc1c21604267",
-   "title": "Rising interest rates: The good, the bad and the ugly for retirees",
-   "link": "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
-   "published": "2026-10-08T17:45:00+00:00"
   },
   {
    "id": "9043ef24fe5e",
