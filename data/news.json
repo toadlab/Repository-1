@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T22:29:26.013912+00:00",
+ "generated": "2026-10-10T23:28:17.709764+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,14 +129,80 @@
  ],
  "items": [
   {
+   "id": "b2308317d69b",
+   "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+   "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+   "published": "2026-10-10T23:19:55+00:00"
+  },
+  {
+   "id": "cb9d8d51feb3",
+   "title": "ESPN’s ‘College GameDay’ is headed to Provo for BYU-Notre Dame",
+   "link": "https://www.deseret.com/sports/2026/10/10/byu-cougars-hosting-espn-college-gameday-2026-provo-notre-dame/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For the first time in 17 years, ESPN is bringing “College GameDay” to Provo. ESPN’s popular college football pregame show has announced it will be broadcasting live from BYU this coming weekend for the Cougars’ clash with Notre Dame. Cougar fans, it’s been awhile 💭 We’re headed…",
+   "published": "2026-10-10T23:03:00+00:00"
+  },
+  {
+   "id": "ba1abc3684e9",
+   "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
+   "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Liverpool face Manchester City on Sunday in what has become a battle between the EPL's dominant teams in recent times.",
+   "published": "2026-10-10T22:43:08+00:00"
+  },
+  {
+   "id": "e4256e6327a7",
+   "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
+   "published": "2026-10-10T22:40:56+00:00"
+  },
+  {
+   "id": "d9c6e3b3cffe",
+   "title": "WHO says no plague case registered after Russian lab worker’s death",
+   "link": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission.",
+   "published": "2026-10-10T22:34:29+00:00"
+  },
+  {
+   "id": "bf9d87b2657c",
+   "title": "Skies across the UK illuminated by the northern lights",
+   "link": "https://www.theguardian.com/science/2026/oct/10/skies-across-the-uk-illuminated-by-the-northern-lights",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Though mostly visible near the Arctic Circle, the natural phenomenon dazzled sky-gazers as far south Devon, Hampshire and Kent The northern lights illuminated the skies across the UK on Friday and Saturday evening. Sky-gazers as far south as Devon, Hampshire and Kent were…",
+   "published": "2026-10-10T22:30:34+00:00"
+  },
+  {
    "id": "8f35e357f3b5",
-   "title": "Hurricane Isaias latest updates: at least four people dead and hundreds of thousands without power",
+   "title": "Hurricane Isaias updates: at least four people dead and hundreds of thousands without power – as it happened",
    "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "First Atlantic hurricane of the 2026 season has now weakened to post-tropical cyclone over central Alabama Full story: Four dead as Isaias weakens to post-tropical cyclone Key things to know about Hurricane Isaias Sign up for the US Breaking News email Florida’s governor, Ron…",
+   "summary": "This liveblog is now closed. Read the full story here Key things to know about Hurricane Isaias Sign up for the US Breaking News email Florida’s governor, Ron DeSantis , said no requests for search and rescue assistance had been received following Isaias, which he described as…",
    "published": "2026-10-10T22:18:05+00:00"
   },
   {
@@ -160,17 +226,6 @@
    "flourishing_feed": false,
    "summary": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.",
    "published": "2026-10-10T22:12:25+00:00"
-  },
-  {
-   "id": "b2308317d69b",
-   "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
-   "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
-   "published": "2026-10-10T22:02:07+00:00"
   },
   {
    "id": "739b758eb78c",
@@ -204,17 +259,6 @@
    "flourishing_feed": false,
    "summary": "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.",
    "published": "2026-10-10T21:32:53+00:00"
-  },
-  {
-   "id": "e4256e6327a7",
-   "title": "Several injured in attack on airport in Saudi capital Riyadh",
-   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-   "published": "2026-10-10T21:27:10+00:00"
   },
   {
    "id": "7e0c06cfc7ea",
@@ -576,7 +620,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Some of deaths came from falling trees as nearly a million people are without power and rain and flooding remain a concern At least four people were reported dead on Saturday amid Isaias after it made landfall late on Friday on Florida’s panhandle as a category 2 hurricane,…",
+   "summary": "Some of deaths came from falling trees as half a million people are without power and rain and flooding remain a concern At least four people were reported dead on Saturday amid Isaias after it made landfall late on Friday on Florida’s panhandle as a category 2 hurricane,…",
    "published": "2026-10-10T19:08:54+00:00"
   },
   {
@@ -592,13 +636,13 @@
   },
   {
    "id": "7ed078b4d560",
-   "title": "Hanson seems more and more like the de facto opposition leader. At CPAC, Angus Taylor warmed the seat for her",
+   "title": "Pauline Hanson seems more and more like the de facto opposition leader. At CPAC, Angus Taylor warmed the seat for her",
    "link": "https://www.theguardian.com/australia-news/2026/oct/11/cpac-conference-pauline-hanson-angus-taylor-one-nation-liberals-cooperation-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Cooperation between One Nation and the Liberals ‘up to Angus Taylor’, Pauline Hanson says at conservative conference. How would that work? Get our new political email , free app or daily news podcast The annual Conservative Political Action Conference billed itself as a chance…",
+   "summary": "Cooperation between One Nation and the Liberals ‘up to Angus Taylor’, Hanson says at conservative conference. How would that work? Get our new political email , free app or daily news podcast The annual Conservative Political Action Conference billed itself as a chance for the…",
    "published": "2026-10-10T19:00:09+00:00"
   },
   {
@@ -620,7 +664,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Immigration debate and visa uncertainty is putting students off and increasing pressure on budgets Get our breaking news email , free app or daily news podcast University leaders warn they’re struggling to fill international student places due to visa uncertainty and heated…",
+   "summary": "Immigration debate and visa uncertainty are putting students off and increasing pressure on budgets Get our breaking news email , free app or daily news podcast University leaders warn they’re struggling to fill international student places due to visa uncertainty and heated…",
    "published": "2026-10-10T19:00:05+00:00"
   },
   {
@@ -713,13 +757,13 @@
   },
   {
    "id": "aa33cfaddd04",
-   "title": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+   "title": "Attack on Riyadh airport kills 12, injures over 300, Saudi Arabia says",
    "link": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.",
+   "summary": "Aviation authority says death toll includes four Saudis and eight foreign nationals.",
    "published": "2026-10-10T18:08:46+00:00"
   },
   {
@@ -2479,7 +2523,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "President complains about not winning prize in year he started war with Iran and says: ‘We will not forget, Norway’ Donald Trump complained Friday about not winning the Nobel peace prize for 2026, a year in which he started a war with Iran. At what was supposed to be a rally…",
+   "summary": "President complains about not winning prize in year he started war with Iran and says: ‘We will not forget, Norway’ Donald Trump complained on Friday about not winning the Nobel peace prize for 2026, a year in which he started a war with Iran . At what was supposed to be a…",
    "published": "2026-10-10T01:57:03+00:00"
   },
   {
