@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T17:28:24.205944+00:00",
+ "generated": "2026-10-10T18:33:29.079043+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,116 @@
  ],
  "items": [
   {
+   "id": "7bb634f5f941",
+   "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+   "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I presume these are sophisticated investors taking a profit.”",
+   "published": "2026-10-10T18:31:00+00:00"
+  },
+  {
+   "id": "8fd635139c0b",
+   "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+   "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+   "published": "2026-10-10T18:24:03+00:00"
+  },
+  {
+   "id": "12ab42f20ce2",
+   "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+   "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.",
+   "published": "2026-10-10T18:22:29+00:00"
+  },
+  {
+   "id": "1735e75dd256",
+   "title": "The Kennedy Center names new artistic director, amid concerns",
+   "link": "https://www.npr.org/2026/10/10/nx-s1-5996934/kennedy-center-rick-canny-new-artistic-director",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The center's executive director has named an agent who has worked with ZZ Top and Motley Crue drummer Tommy Lee as the head of programming for the arts institution.",
+   "published": "2026-10-10T18:17:12+00:00"
+  },
+  {
+   "id": "aa33cfaddd04",
+   "title": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+   "link": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.",
+   "published": "2026-10-10T18:08:46+00:00"
+  },
+  {
+   "id": "8f35e357f3b5",
+   "title": "Hurricane Isaias live updates: warning of ‘spinoff tornadoes’ as hundreds of thousands without power",
+   "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "First Atlantic hurricane of the 2026 season makes landfall in the US Full story: Two dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle Key things to know about Hurricane Isaias as millions under evacuation orders Sign up for the US Breaking News…",
+   "published": "2026-10-10T18:01:35+00:00"
+  },
+  {
+   "id": "e4797a5c99f2",
+   "title": "Nine killed in shooting in US state of Pennsylvania, including two children",
+   "link": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The shooting in Erie, Pennsylvania happened on Friday, according to state officials. The attacker is among the dead.",
+   "published": "2026-10-10T17:48:45+00:00"
+  },
+  {
+   "id": "9010f2c29372",
+   "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+   "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+   "published": "2026-10-10T17:44:26+00:00"
+  },
+  {
+   "id": "38dd36986ad4",
+   "title": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
+   "link": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pope Leo XIV describes capital punishment as an 'attack on the inviolability and dignity of the person' in post on X.",
+   "published": "2026-10-10T17:38:18+00:00"
+  },
+  {
+   "id": "16446a81d184",
+   "title": "Video shows rare albino Asian black bear",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A rare albino Asian black bear was captured on camera in China’s Shennongjia National Park",
+   "published": "2026-10-10T17:37:37+00:00"
+  },
+  {
    "id": "0d223d1169c8",
    "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
    "link": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
@@ -136,7 +246,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Hurricane Isaias is blamed for at least two deaths, after the storm made landfall on the Florida coast and ran through Alabama. The are numerous reports of downed trees, with hundreds of thousands of people without power.",
+   "summary": "Hurricane Isaias is blamed for at least two deaths, after the storm made landfall on the Florida coast and ran through Alabama. There are numerous reports of downed trees, with hundreds of thousands of people without power.",
    "published": "2026-10-10T17:14:03+00:00"
   },
   {
@@ -206,17 +316,6 @@
    "published": "2026-10-10T16:56:32+00:00"
   },
   {
-   "id": "8f35e357f3b5",
-   "title": "Hurricane Isaias live updates: warning of ‘spinoff tornadoes’ as hundreds of thousands without power",
-   "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "First Atlantic hurricane of the 2026 season makes landfall in the US Full story: Hurricane Isaias hammers Gulf coast Sign up for the US Breaking News email Florida’s governor, Ron DeSantis , said no requests for search and rescue assistance had been received following Isaias,…",
-   "published": "2026-10-10T16:55:02+00:00"
-  },
-  {
    "id": "183516ffd03e",
    "title": "Celebrations in Ethiopian city after reported Eritrean ‘incursion’",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss",
@@ -259,17 +358,6 @@
    "flourishing_feed": false,
    "summary": "The neighbouring countries blame one another for starting war amid heightened tensions and fears of a wider conflict.",
    "published": "2026-10-10T16:41:25+00:00"
-  },
-  {
-   "id": "9010f2c29372",
-   "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-   "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
-   "published": "2026-10-10T16:30:21+00:00"
   },
   {
    "id": "9f86f93e3609",
@@ -391,17 +479,6 @@
    "flourishing_feed": false,
    "summary": "Man City travel to Liverpool for their first game since being found guilty of serious EPL financial breaches.",
    "published": "2026-10-10T15:11:22+00:00"
-  },
-  {
-   "id": "7bb634f5f941",
-   "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-   "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I presume these are sophisticated investors taking a profit.”",
-   "published": "2026-10-10T15:05:00+00:00"
   },
   {
    "id": "fd60d9941de8",
