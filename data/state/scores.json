@@ -82174,5 +82174,37 @@
   "decision": "exclude",
   "exclusion": "did not clear the international bar",
   "persistent": false
+ },
+ "01f7ae8a4c7e": {
+  "story_key": "india-deploys-police-restricts-transport",
+  "durability": 2,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 2.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "low durability",
+  "persistent": false
+ },
+ "14c8a3aee1c1": {
+  "story_key": "cctv-footage-shows-ice-shooting",
+  "durability": 2,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 2.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "low durability",
+  "persistent": false
  }
 }
