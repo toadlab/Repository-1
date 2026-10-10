@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T20:29:35.222536+00:00",
+ "generated": "2026-10-10T21:29:31.693788+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,149 @@
  ],
  "items": [
   {
+   "id": "e4256e6327a7",
+   "title": "Several injured in attack on airport in Saudi capital Riyadh",
+   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
+   "published": "2026-10-10T21:27:10+00:00"
+  },
+  {
+   "id": "8f35e357f3b5",
+   "title": "Hurricane Isaias latest updates: at least four people dead and hundreds of thousands without power",
+   "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "First Atlantic hurricane of the 2026 season makes landfall in the US as officials warn of ‘spinoff tornadoes’ Full story: Two dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle Key things to know about Hurricane Isaias as millions under evacuation…",
+   "published": "2026-10-10T21:12:00+00:00"
+  },
+  {
+   "id": "8932af01a83e",
+   "title": "Malawi motorists queue for days as fuel shortage bites",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/malawi-motorists-queue-for-days-as-fuel-shortage-bites?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Malawi’s fuel shortage has brought daily life in the capital Lilongwe to a halt.",
+   "published": "2026-10-10T21:10:38+00:00"
+  },
+  {
+   "id": "06728c974ddb",
+   "title": "Hurricane Simon strengthens to Category 4 off Mexico’s Pacific coast",
+   "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-simon-strengthens-to-category-4-off-mexicos-pacific-coast?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Puerto Vallarta businesses board up windows as Hurricane Simon threatens Mexico’s west-central coast.",
+   "published": "2026-10-10T21:10:06+00:00"
+  },
+  {
+   "id": "f14f76a3acf6",
+   "title": "Yemen’s Houthis release video of drone attacks on gov’t forces",
+   "link": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Yemen’s Houthis have released drone video said to show attacks on Saudi-backed Yemeni government forces.",
+   "published": "2026-10-10T21:02:49+00:00"
+  },
+  {
+   "id": "da2160384faf",
+   "title": "Watch: 3 plays that helped BYU storm past the Cyclones",
+   "link": "https://www.deseret.com/sports/2026/10/10/watch-3-plays-that-helped-byu-storm-past-the-cyclones/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A penalty, a collision and a bomb — three plays that set the tone, broke the game open and sealed a 24-10 victory for No. 8 BYU over Iowa State on Friday night. While the stat sheet showed a rout, the fight on the field was electric as the Cougars improved to 5-0 and won for…",
+   "published": "2026-10-10T21:00:00+00:00"
+  },
+  {
+   "id": "45b03a1f1db7",
+   "title": "Despair after 200-year-old ‘grandmother’ tree toppled for Trump’s border wall: ‘It crushes your heart’",
+   "link": "https://www.theguardian.com/us-news/2026/oct/10/cottonwood-tree-toppling-trump-mexico-border-wall-arizona",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Protesters spent months occupying an ancient cottonwood. Then a tense standoff with US border patrol came to a head A 200-year-old cottonwood tree near the US-Mexico border , known as the “grandmother”, has been destroyed to make way for the construction of Donald Trump ’s…",
+   "published": "2026-10-10T20:57:32+00:00"
+  },
+  {
+   "id": "146f2c9cb8c7",
+   "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+   "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+   "published": "2026-10-10T20:51:12+00:00"
+  },
+  {
+   "id": "9605d94a2b6a",
+   "title": "Damage seen inside Saudi airport after third attack this week",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Video shows damage inside King Khalid International Airport in Riyadh after the third attack in a week.",
+   "published": "2026-10-10T20:43:19+00:00"
+  },
+  {
+   "id": "495ff983bc7e",
+   "title": "Trump says Ukraine needs a new leader after diesel deal with Russia",
+   "link": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US president suggests Ukrainian president, Volodymyr Zelenskyy, has not done enough to end war Donald Trump has said Ukraine needs “a new leader”, a day after making a deal with Vladimir Putin to buy large quantities of Russian diesel. The US president suggested Volodymyr…",
+   "published": "2026-10-10T20:42:55+00:00"
+  },
+  {
+   "id": "82e3689a01de",
+   "title": "Philippines volcano erupts, creating 6km-high ash cloud",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mount Kanlaon volcano in central Philippines erupted on Saturday sending thick plumes of smoke and ash.",
+   "published": "2026-10-10T20:37:17+00:00"
+  },
+  {
+   "id": "5df43961cbf5",
+   "title": "Rubio pledges US cooperation in Marine-linked murder case",
+   "link": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A US Marine stationed on Okinawa has been arrested on suspicion of killing a 39-year-old woman.",
+   "published": "2026-10-10T20:30:36+00:00"
+  },
+  {
+   "id": "ac1901e0fe6c",
+   "title": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City.",
+   "published": "2026-10-10T20:14:01+00:00"
+  },
+  {
    "id": "28bf8e7f2bcd",
    "title": "Man with gun kills one Philadelphia police officer and injures another",
    "link": "https://www.theguardian.com/us-news/2026/oct/10/philadelphia-police-officer-killed",
@@ -149,17 +292,6 @@
    "flourishing_feed": false,
    "summary": "An old song playing on the radio. The revival of a fashion trend from 30 years ago. The smell of a home-cooked meal. Each of these could lead to the same thought: “Ahh, that’s nostalgic.” And among Gen Z, many are feeling nostalgic for eras in which they weren’t even alive. In…",
    "published": "2026-10-10T20:00:33+00:00"
-  },
-  {
-   "id": "8f35e357f3b5",
-   "title": "Hurricane Isaias latest updates: at least four people dead and hundreds of thousands without power",
-   "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "First Atlantic hurricane of the 2026 season makes landfall in the US as officials warn of ‘spinoff tornadoes’ Full story: Two dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle Key things to know about Hurricane Isaias as millions under evacuation…",
-   "published": "2026-10-10T20:00:14+00:00"
   },
   {
    "id": "763b99995c9c",
@@ -338,6 +470,17 @@
    "published": "2026-10-10T19:26:22+00:00"
   },
   {
+   "id": "bfb42042cd71",
+   "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+   "link": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\".",
+   "published": "2026-10-10T19:25:03+00:00"
+  },
+  {
    "id": "2a451e3eb928",
    "title": "Ronaldo suspended by Portugal FA after leaving camp and criticising coach",
    "link": "https://www.aljazeera.com/sports/2026/10/10/ronaldo-suspended-by-portugal-fa-after-leaving-camp-and-criticizing-coach?traffic_source=rss",
@@ -457,17 +600,6 @@
    "flourishing_feed": false,
    "summary": "One year to the day after the US-brokered ceasefire was agreed, more Israeli attacks killed Palestinians in Gaza.",
    "published": "2026-10-10T18:38:01+00:00"
-  },
-  {
-   "id": "e4256e6327a7",
-   "title": "Several injured in attack on airport in Saudi capital Riyadh",
-   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-   "published": "2026-10-10T18:37:10+00:00"
   },
   {
    "id": "7bb634f5f941",
@@ -691,13 +823,13 @@
   },
   {
    "id": "6c4b509c4c00",
-   "title": "Dozens reported injured in Yemeni Houthi attack at Riyadh airport",
+   "title": "Dozens reportedly injured in Yemeni Houthi attack at Riyadh airport",
    "link": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Saudi authorities yet to confirm strike as government-allied forces in Yemen claim successful offensive to retake Bab al-Mandab strait Yemen’s Houthis have launched a missile attack on Riyadh’s international airport in Saudi Arabia, with dozens reported wounded and a witness…",
+   "summary": "Donald Trump says he is evaluating whether the US should join Saudi strikes against the Iran-backed rebels Yemen’s Houthis have launched a missile attack on Riyadh’s international airport in Saudi Arabia, with dozens reported wounded and a witness describing panic in the…",
    "published": "2026-10-10T15:54:12+00:00"
   },
   {
@@ -713,7 +845,7 @@
   },
   {
    "id": "5321981e79c7",
-   "title": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
+   "title": "Hurricane Isaias: Four dead and thousands without power in US Southeast",
    "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -855,17 +987,6 @@
    "published": "2026-10-10T14:49:32+00:00"
   },
   {
-   "id": "495ff983bc7e",
-   "title": "Ukraine hit by deadly Russian strikes as ‘thanks’ for Trump diesel deal, Zelenskyy says",
-   "link": "https://www.theguardian.com/world/2026/oct/10/ukraine-russia-strikes-war-trump-diesel-deal-zelenskyy",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Ukrainian president says money from fuel sales will intensify war as European leaders reiterate support for Kyiv Russia launched deadly strikes on civilians in Ukraine as “thanks” for a deal cut by Donald Trump with Vladimir Putin to buy large quantities of Russian diesel,…",
-   "published": "2026-10-10T14:45:15+00:00"
-  },
-  {
    "id": "41a2e73a708e",
    "title": "Arsenal beat Leeds 2-1 in comeback win to move level with Man City at top",
    "link": "https://www.aljazeera.com/sports/2026/10/10/arsenal-beat-leeds-2-1-in-comeback-win-to-move-level-with-man-city-at-top?traffic_source=rss",
@@ -930,17 +1051,6 @@
    "flourishing_feed": false,
    "summary": "November 2026 vote delayed; joint presidential and legislative elections set for next year, president says in decree.",
    "published": "2026-10-10T14:18:09+00:00"
-  },
-  {
-   "id": "146f2c9cb8c7",
-   "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-   "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
-   "published": "2026-10-10T14:16:50+00:00"
   },
   {
    "id": "f7f45b107cfb",
