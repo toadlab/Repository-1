@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T15:29:35.603220+00:00",
+ "generated": "2026-10-10T16:30:04.510702+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,6 +129,105 @@
  ],
  "items": [
   {
+   "id": "8f35e357f3b5",
+   "title": "Hurricane Isaias live updates: warning of ‘spinoff tornadoes’ as hundreds of thousands without power",
+   "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "First Atlantic hurricane of the 2026 season makes landfall in the US Full story: Hurricane Isaias hammers Gulf coast Sign up for the US Breaking News email Florida governor Ron DeSantis said no requests for search and rescue assistance had been received following Isaias, which…",
+   "published": "2026-10-10T16:14:12+00:00"
+  },
+  {
+   "id": "e4256e6327a7",
+   "title": "Several injured as Saudi capital airport reportedly hit again",
+   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
+   "published": "2026-10-10T16:05:18+00:00"
+  },
+  {
+   "id": "9f86f93e3609",
+   "title": "A friend in her 80s fell down her basement stairs. Is this a hidden danger lurking in people’s home?",
+   "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
+   "published": "2026-10-10T16:00:00+00:00"
+  },
+  {
+   "id": "9010f2c29372",
+   "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+   "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The convicted murderer was left in a critical condition after she survived two lethal injections.",
+   "published": "2026-10-10T15:58:06+00:00"
+  },
+  {
+   "id": "6c4b509c4c00",
+   "title": "Dozens reported injured in Yemeni Houthi attack at Riyadh airport",
+   "link": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi authorities yet to confirm strike as government-allied forces in Yemen claim successful offensive to retake Bab al-Mandab strait Yemen’s Houthis have launched a missile attack on Riyadh’s international airport in Saudi Arabia, with dozens reported wounded and a witness…",
+   "published": "2026-10-10T15:54:12+00:00"
+  },
+  {
+   "id": "4047f7b49491",
+   "title": "Thousands gather in London to express support for Palestinians after three years of ‘genocide’",
+   "link": "https://www.theguardian.com/world/2026/oct/10/thousands-in-london-express-support-for-palestinians-after-three-years-genocide",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "March is first since Ed Miliband declared UK’s position was that Israel’s occupation of West Bank was unlawful Thousands of people have gathered in central London to express their support for Palestinians after three years of “genocide” carried out against them by Israel. The…",
+   "published": "2026-10-10T15:52:21+00:00"
+  },
+  {
+   "id": "12e9c2784fff",
+   "title": "Nine people, including children, dead after mass shooting in Pennsylvania",
+   "link": "https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Authorities say suspect among dead in house after standoff with police in Erie and there is no ongoing threat Nine people, including children, died in a mass murder on Friday in Erie, Pennsylvania , after a gun-wielding attacker opened fire outside a home and then entered the…",
+   "published": "2026-10-10T15:45:45+00:00"
+  },
+  {
+   "id": "5321981e79c7",
+   "title": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
+   "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Storm damage stretches across Florida and Alabama as officials warn of continued flooding and possible tornadoes.",
+   "published": "2026-10-10T15:45:36+00:00"
+  },
+  {
+   "id": "4e18150c9776",
+   "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+   "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
+   "published": "2026-10-10T15:30:00+00:00"
+  },
+  {
    "id": "5e378862759b",
    "title": "Deseret News archives: Qing dynasty drew to a close in 1911 after revolt by groups who wanted modern governance",
    "link": "https://www.deseret.com/utah/2024/10/10/deseret-news-archives-qing-dynasty-came-to-close-in-1911/",
@@ -149,6 +248,17 @@
    "flourishing_feed": false,
    "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
    "published": "2026-10-10T15:23:47+00:00"
+  },
+  {
+   "id": "fd34a71086fa",
+   "title": "Trump Accounts: Free money, but who gets a say?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump Accounts promise children a financial head start. Al Jazeera’s Emma Withrow spoke with one parent.",
+   "published": "2026-10-10T15:21:39+00:00"
   },
   {
    "id": "4e2a35bc1079",
@@ -184,17 +294,6 @@
    "published": "2026-10-10T15:11:22+00:00"
   },
   {
-   "id": "e4256e6327a7",
-   "title": "Saudi capital airport hit again, sparking evacuations, reports say",
-   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
-   "published": "2026-10-10T15:05:55+00:00"
-  },
-  {
    "id": "7bb634f5f941",
    "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
    "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
@@ -204,17 +303,6 @@
    "flourishing_feed": false,
    "summary": "“I presume these are sophisticated investors taking a profit.”",
    "published": "2026-10-10T15:05:00+00:00"
-  },
-  {
-   "id": "8f35e357f3b5",
-   "title": "Hurricane Isaias live updates: warning of ‘spinoff tornadoes’ as hundreds of thousands without power",
-   "link": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "First Atlantic hurricane of the 2026 season makes landfall in the US Full story: Hurricane Isaias hammers Gulf coast Sign up for the US Breaking News email Florida governor Ron DeSantis said no requests for search and rescue assistance had been received following Isaias, which…",
-   "published": "2026-10-10T15:04:52+00:00"
   },
   {
    "id": "fd60d9941de8",
@@ -470,17 +558,6 @@
    "published": "2026-10-10T13:15:00+00:00"
   },
   {
-   "id": "9f86f93e3609",
-   "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. What could we have done to prevent it?",
-   "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
-   "published": "2026-10-10T13:15:00+00:00"
-  },
-  {
    "id": "c706aa7d22c5",
    "title": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
    "link": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss",
@@ -548,7 +625,7 @@
   },
   {
    "id": "e9357441f3eb",
-   "title": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
+   "title": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
    "link": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -853,17 +930,6 @@
    "flourishing_feed": false,
    "summary": "The mayor characterized it as a victory against corporate greed. Meanwhile, 65 percent of affected drivers were underpaid by $1 or less, and the average underpayment was $7.70.",
    "published": "2026-10-10T11:00:17+00:00"
-  },
-  {
-   "id": "4e18150c9776",
-   "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-   "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
-   "published": "2026-10-10T11:00:00+00:00"
   },
   {
    "id": "70256265d711",
@@ -1186,7 +1252,7 @@
   },
   {
    "id": "d5c1cd5f0467",
-   "title": "A year of ceasefire in Gaza through the lens of NPR's reporter",
+   "title": "Photos: What a year of ceasefire in Gaza looks like",
    "link": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
    "source": "NPR News",
    "circle_hint": "national",
@@ -11944,13 +12010,13 @@
   },
   {
    "id": "c811916a8db4",
-   "title": "High school girls soccer: 2A state tournament bracket released by UHSAA",
+   "title": "High school girls soccer: 6A/5A/4A/3A/2A state tournament bracket released by UHSAA",
    "link": "https://www.deseret.com/sports/2026/10/07/high-school-girls-soccer-6a-5a-4a-3a-2a-state-tournament/",
    "source": "Deseret News",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "2A state tournament First round (Oct. 10) No. 17 South Sevier at No. 16 UMA Hill Field, 1 p.m. No. 18 North Summit at No. 15 UMA Camp Williams, 1 p.m. No. 19 Gunnison Valley at No. 14 Draper APA, 1 p.m. Second round (Oct. 14) No. 16/17 winner at No. 1 Maeser Prep, 4 p.m. No. 9…",
+   "summary": "6A state tournament First round (Oct. 13) No. 16 Skyridge at No. 1 Lone Peak, 4 p.m. No. 9 Mountain Ridge at No. 8 Layton, 4 p.m. No. 13 Riverton at No. 4 American Fork, 4 p.m. No. 12 Copper Hills at No. 5 Corner Canyon, 4 p.m. No. 15 Bingham at No. 2 Davis, 4 p.m. No. 10 Cedar…",
    "published": "2026-10-07T16:27:55+00:00"
   },
   {
