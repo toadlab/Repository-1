@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T05:29:50.915927+00:00",
+ "generated": "2026-10-10T06:36:25.495445+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 36
+   "count": 38
   },
   {
    "name": "The Guardian World",
@@ -128,6 +128,105 @@
   }
  ],
  "items": [
+  {
+   "id": "6f126be34238",
+   "title": "Asher Cunningham and Utah State’s defense will a win over Washington State",
+   "link": "https://www.deseret.com/sports/2026/10/10/utah-state-football-beats-washington-state/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Utah State Aggies played undisciplined and sloppy in Friday night’s Pac-12 game against the Washington State Cougars. Quarterback Grady Brosterhous played the entire game but struggled to drive the offense, finishing with just 150 yards on 42% completion. Additionally, Utah…",
+   "published": "2026-10-10T06:23:43+00:00"
+  },
+  {
+   "id": "07079819a9ad",
+   "title": "How the trial of murdered Australian brothers and US friend unfolded",
+   "link": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
+   "published": "2026-10-10T06:04:35+00:00"
+  },
+  {
+   "id": "a71d0ec30d6d",
+   "title": "‘If voters aren’t better off by the next election, we’re screwed’: Labour insiders voice fears over budget",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/10/labour-fears-budget-burnham-healey",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Some say party risks ‘looking twee’ by focusing on small fixes amid growing nervousness that budget lacks ambition In the days since Labour’s annual conference, party insiders have been sharing a word cloud produced by the pollsters More in Common, which shows the phrases…",
+   "published": "2026-10-10T06:00:51+00:00"
+  },
+  {
+   "id": "17ca108457a7",
+   "title": "UK accused of giving people of Gaza false hope over new refugee safe route",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/10/uk-gaza-refugee-resettlement-scheme-palestinians-home-office",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Only ‘very small number’ of people already in Lebanon or Jordan will be referred, says organisation running scheme The Home Office is facing claims it gave false hope to the people of Gaza after it emerged that a new safe route for Palestinian refugees will only be open to…",
+   "published": "2026-10-10T06:00:50+00:00"
+  },
+  {
+   "id": "c641241d4271",
+   "title": "UK savings: 5% interest rate deals may not last, say experts",
+   "link": "https://www.theguardian.com/money/2026/oct/10/uk-savings-interest-rate-deals-nsi-bonds",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Competition is hotting up, with National Savings & Investments lifting rates to the highest in years National Savings and Investments (NS&I) has increased the returns on some of its accounts, with many now paying more than 5% for the first time in nearly three years.…",
+   "published": "2026-10-10T06:00:50+00:00"
+  },
+  {
+   "id": "34959ab31cd5",
+   "title": "India protest live: Police detain Cockroach leaders, New Delhi in lockdown",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Cockroach Janta ​Party founder Abhijeet Dipke and other leaders detained before ​protest to demand election chief quit.",
+   "published": "2026-10-10T05:54:36+00:00"
+  },
+  {
+   "id": "d04c1567476d",
+   "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
+   "link": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong.",
+   "published": "2026-10-10T05:48:54+00:00"
+  },
+  {
+   "id": "22245f897c58",
+   "title": "US hosts ‘productive’ trilateral talks to end Russia-Ukraine war",
+   "link": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US envoy Steve Witkoff says renewed negotiations aim to ensure lasting peace before winter approaches.",
+   "published": "2026-10-10T05:43:33+00:00"
+  },
+  {
+   "id": "62b703239bbd",
+   "title": "Israel’s economy prospers despite years of war, but prices worry voters",
+   "link": "https://www.aljazeera.com/economy/2026/10/10/israels-economy-prospers-despite-years-of-war-but-prices-worry-voters?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tech is driving the economy, and investments are flowing in. But food costs are rising and debt is growing.",
+   "published": "2026-10-10T05:28:33+00:00"
+  },
   {
    "id": "9165d624ff9a",
    "title": "Thousands of security personnel deployed as Delhi braces for ‘cockroach’ protest",
@@ -317,13 +416,13 @@
   },
   {
    "id": "696d4de63b50",
-   "title": "Hurricane Isaias makes landfall in Florida with severe effects expected across several states",
+   "title": "Hurricane Isaias makes landfall in Florida and hammers Gulf coast",
    "link": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Governors of Mississippi, Alabama and Florida declared states of emergency as a downsized Fema faces first major test Hurricane Isaias crashed into the US Gulf coast on Friday as a dangerous category 2 storm, hammering communities in Alabama and the Florida panhandle with…",
+   "summary": "Governors of Mississippi, Alabama and Florida declare states of emergency as a downsized Fema faces first major test Hurricane Isaias crashed into the US Gulf coast on Friday as a dangerous category 2 storm, hammering communities in Alabama and the Florida panhandle with…",
    "published": "2026-10-10T03:56:50+00:00"
   },
   {
@@ -372,7 +471,7 @@
   },
   {
    "id": "f243354ed144",
-   "title": "Live coverage: No. 8 BYU returns home for Friday night clash with Iowa State",
+   "title": "Highlights, key plays and photos from No. 8 BYU’s win over Iowa State",
    "link": "https://www.deseret.com/sports/2026/10/09/byu-cougars-football-iowa-state-live-coverage-2026/",
    "source": "Deseret News",
    "circle_hint": "national",
@@ -380,17 +479,6 @@
    "flourishing_feed": false,
    "summary": "The Deseret News is providing live coverage of Friday’s game between BYU and Iowa State. Check back for updates throughout the game. How to watch the game BYU’s matchup with Iowa State will be broadcast on ESPN and can be streamed through Disney Plus. Pregame prep Here are a…",
    "published": "2026-10-10T02:25:07+00:00"
-  },
-  {
-   "id": "07079819a9ad",
-   "title": "How the trial of two murdered Australian surfers ended in a guilty verdict",
-   "link": "https://www.bbc.co.uk/news/videos/cr86z34vz95yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The mother of two Australian surfers murdered in Mexico two years ago with their American friend said \"accountability matters\".",
-   "published": "2026-10-10T02:21:10+00:00"
   },
   {
    "id": "f7f468c11c80",
@@ -620,7 +708,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "President says deal essential to lower US fuel prices but move set to create fresh crisis with Ukraine and Nato allies US politics – live updates Donald Trump was on a fresh collision course with the Ukrainian president, Volodymyr Zelenskyy, and European allies on Friday after…",
+   "summary": "President says deal essential to lower US fuel prices but move set to create fresh crisis with Ukraine and Nato allies Donald Trump was on a fresh collision course with the Ukrainian president, Volodymyr Zelenskyy, and European allies on Friday after a stunning agreement to buy…",
    "published": "2026-10-09T23:39:31+00:00"
   },
   {
@@ -801,13 +889,13 @@
   },
   {
    "id": "c3ee09490263",
-   "title": "Three men found guilty of murdering two Australian surfer brothers and US friend",
+   "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
    "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The bodies of Jake and Callum Robinson and their friend Carter Rhoad were found at the bottom of a well.",
+   "summary": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
    "published": "2026-10-09T21:55:51+00:00"
   },
   {
@@ -1227,6 +1315,17 @@
    "flourishing_feed": false,
    "summary": "Emily Eisner and Kenny Burgos debate Zohran Mamdani's housing policies.",
    "published": "2026-10-09T20:20:29+00:00"
+  },
+  {
+   "id": "df4c3b2942d9",
+   "title": "BBC breaks down video of the aftermath of New York City ICE shooting",
+   "link": "https://www.bbc.co.uk/news/videos/cm36905w7zl4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The BBC's Nada Tawfik goes through new dramatic body cam footage that shows the tense moments when police arrive on scene.",
+   "published": "2026-10-09T20:20:09+00:00"
   },
   {
    "id": "172a08ec6430",
