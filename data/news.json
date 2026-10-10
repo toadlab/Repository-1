@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T01:32:29.386445+00:00",
+ "generated": "2026-10-10T02:31:47.061263+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,103 @@
  ],
  "items": [
   {
+   "id": "f243354ed144",
+   "title": "Live coverage: No. 8 BYU returns home for Friday night clash with Iowa State",
+   "link": "https://www.deseret.com/sports/2026/10/09/byu-cougars-football-iowa-state-live-coverage-2026/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Deseret News is providing live coverage of Friday’s game between BYU and Iowa State. Check back for updates throughout the game. How to watch the game BYU’s matchup with Iowa State will be broadcast on ESPN and can be streamed through Disney Plus. Pregame prep Here are a…",
+   "published": "2026-10-10T02:25:07+00:00"
+  },
+  {
    "id": "bcddbe8093a9",
-   "title": "‘I want to thank President Putin’, Trump says after agreeing to lift sanctions on Russian diesel – US politics live",
+   "title": "‘I want to thank President Putin’, Trump says after agreeing to lift sanctions on Russian diesel – as it happened",
    "link": "https://www.theguardian.com/us-news/live/2026/oct/09/pentagon-fort-hood-livestream-firing-squad-execution-reaction-backlash-pete-hegseth-donald-trump-mussolini-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Prominent Republicans joined Democrats to condemn president for lifting sanctions on Russian diesel and administration’s plan to livestream execution of Fort Hood attacker Zelenskyy furious as Trump announces deal to buy Russian diesel Sign up for the US Breaking News email In…",
-   "published": "2026-10-10T01:03:39+00:00"
+   "summary": "This liveblog is now closed. Zelenskyy furious as Trump announces deal to buy Russian diesel Sign up for the US Breaking News email In a statement to the Guardian, Robin M Maher , the executive director of the Death Penalty Information Center, said that her group is “not aware…",
+   "published": "2026-10-10T02:02:45+00:00"
+  },
+  {
+   "id": "12f06e21f689",
+   "title": "Why a Utah senator says global health is facing uncertainty",
+   "link": "https://www.deseret.com/utah/2026/10/09/utah-global-health-congressional-event-with-sen-john-curtis-at-university-of-utah/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sen. John Curtis told global health advocates Friday at the University of Utah that Congress is “far more aligned” with their work than signals from the executive branch suggest, while urging them to make more targeted funding requests as the national debt grows. The 2026 Utah…",
+   "published": "2026-10-10T02:01:00+00:00"
+  },
+  {
+   "id": "50c38b06fc65",
+   "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+   "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
+   "published": "2026-10-10T01:58:56+00:00"
+  },
+  {
+   "id": "dc6a6a6ea2f9",
+   "title": "Trump fumes over Nobel peace prize snub and criticizes Norway",
+   "link": "https://www.theguardian.com/us-news/2026/oct/09/trump-nobel-peace-prize",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President complains about not winning prize in year he started war with Iran and says: ‘We will not forget, Norway’ Donald Trump complained Friday about not winning the Nobel peace prize for 2026, a year in which he started a war with Iran. At what was supposed to be a rally…",
+   "published": "2026-10-10T01:57:03+00:00"
+  },
+  {
+   "id": "11b3806d73f5",
+   "title": "Key things to know about Hurricane Isaias as millions under evacuation orders",
+   "link": "https://www.theguardian.com/global/2026/oct/09/hurricane-isaias-where-path-landfall-preparation",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The hurricane is first in the Atlantic in what has turned into a very late season. Here’s what forecasters are saying about where Isaias will hit and how hard Hurricane Isaias, which made landfall on the US Gulf coast Friday night, was forecast to bring a dangerous storm surge,…",
+   "published": "2026-10-10T01:50:32+00:00"
+  },
+  {
+   "id": "696d4de63b50",
+   "title": "Hurricane Isaias makes landfall in Florida with severe effects expected across several states",
+   "link": "https://www.theguardian.com/world/2026/oct/09/hurricane-isaias-makes-landfall",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Governors of Mississippi, Alabama and Florida declared states of emergency as a downsized Fema faces first major test Hurricane Isaias made landfall near Destin, Florida, on Friday evening, sweeping ashore from the northern Gulf of Mexico as the first Atlantic hurricane of the…",
+   "published": "2026-10-10T01:44:33+00:00"
+  },
+  {
+   "id": "4c08bc089216",
+   "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+   "link": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Drone attacks on Moscow during last month's election undermined trilateral peace negotiations, the Kremlin says.",
+   "published": "2026-10-10T01:40:51+00:00"
+  },
+  {
+   "id": "7b1cf2e4874a",
+   "title": "Two Renoir paintings recovered after France museum heist, mayor says",
+   "link": "https://www.aljazeera.com/news/2026/10/10/two-renoir-paintings-recovered-after-france-museum-heist-mayor-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The recovered Renoir paintings, valued at millions, were stolen in a daring heist at Cagnes-sur-Mer last month.",
+   "published": "2026-10-10T01:23:12+00:00"
   },
   {
    "id": "4f9084aa6473",
