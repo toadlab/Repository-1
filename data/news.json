@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T19:29:36.334679+00:00",
+ "generated": "2026-10-11T20:30:22.196623+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -128,6 +128,116 @@
   }
  ],
  "items": [
+  {
+   "id": "10b3b83c3448",
+   "title": "Fusionism in the Twenty-First Century",
+   "link": "https://reason.com/volokh/2026/10/11/fusionism-in-the-twenty-first-century/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A Civitas Symposium on Stephanie Slade's new book.",
+   "published": "2026-10-11T20:24:11+00:00"
+  },
+  {
+   "id": "562edc058b93",
+   "title": "Politics live: Greens call for US execution live stream to be blocked; Flydubai pilot’s Australia links ‘disturbing’",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Reserve Bank should ban point of sale charges for small business, says Labor minister Labor frontbencher Kristy McBain says the Reserve Bank should go a step further than its card surcharge…",
+   "published": "2026-10-11T20:23:11+00:00"
+  },
+  {
+   "id": "4e18150c9776",
+   "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+   "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
+   "published": "2026-10-11T20:15:00+00:00"
+  },
+  {
+   "id": "2679b8d25101",
+   "title": "Sixth Circuit Affirms Universal Injunction Against Tennessee \"Abortion Trafficking\" Law that Does Not Reach Plaintiffs Conduct",
+   "link": "https://reason.com/volokh/2026/10/11/sixth-circuit-affirms-universal-injunction-against-tennessee-abortion-trafficking-law-that-does-not-reach-plaintiffs-conduct/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This is a case in which Judge Sutton may agree that the decision is not merely wrong, but also en-banc-worthy.",
+   "published": "2026-10-11T20:07:22+00:00"
+  },
+  {
+   "id": "7bb634f5f941",
+   "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+   "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I presume these are sophisticated investors taking a profit.”",
+   "published": "2026-10-11T20:00:00+00:00"
+  },
+  {
+   "id": "a36c9291e24f",
+   "title": "Saudi health minister visits survivors of deadly Riyadh airport attack",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-health-minister-visits-survivors-of-deadly-riyadh-airport-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi Arabia’s health minister Fahad Aljalajel has paid a visit to survivors of Saturday’s deadly attack.",
+   "published": "2026-10-11T19:59:15+00:00"
+  },
+  {
+   "id": "c0618218c018",
+   "title": "Andy Burnham to publish all details of his dealings with Manchester City",
+   "link": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-publish-details-dealings-manchester-city",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Move comes after criticism of remarks in support of football club’s owners following financial regulations breach ruling Andy Burnham has said he will publish all details of his dealings with Manchester City in his previous mayoral role after his intervention in support of the…",
+   "published": "2026-10-11T19:49:28+00:00"
+  },
+  {
+   "id": "2d06b60c94ae",
+   "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
+   "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“Both properties will be solely in his name.”",
+   "published": "2026-10-11T19:32:00+00:00"
+  },
+  {
+   "id": "6a4182a2783a",
+   "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
+   "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
+   "published": "2026-10-11T19:32:00+00:00"
+  },
+  {
+   "id": "ef1b1c085a69",
+   "title": "Mexican president urges residents to shelter as Hurricane Simon approaches",
+   "link": "https://www.aljazeera.com/news/2026/10/11/mexican-president-urges-residents-to-shelter-as-hurricane-simon-approaches?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Mexican community of Cabo Corrientes faces the risk of a direct hit as the Category 4 storm churns off Jalisco.",
+   "published": "2026-10-11T19:31:36+00:00"
+  },
   {
    "id": "d72a69a7bdaf",
    "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
@@ -697,7 +807,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Exclusive: As William ‘Rob’ Gilfillan was about to go on trial for sex offences against two schoolgirls, his barrister told a judge his client’s history was easily discoverable online Sign up for Guardian Australia’s free weekly media newsletter here The Australian’s podcast…",
+   "summary": "Exclusive: As William ‘Rob’ Gilfillan was about to go on trial for sex offences against two schoolgirls, his barrister told a judge his client’s history was easily discoverable online Follow our Australia politics live blog for latest updates Sign up for Guardian Australia’s…",
    "published": "2026-10-11T14:00:29+00:00"
   },
   {
@@ -708,7 +818,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Australia does have a migration challenge – but it’s not what One Nation and the Coalition think it is Get our new political email , free app or daily news podcast Australia is flirting with the idea of something it has never done: deliberately driving net overseas migration…",
+   "summary": "Australia does have a migration challenge – but it’s not what One Nation and the Coalition think it is Follow our Australia politics live blog for latest updates Get our new political email , free app or daily news podcast Australia is flirting with the idea of something it has…",
    "published": "2026-10-11T14:00:28+00:00"
   },
   {
@@ -719,7 +829,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Minor party plans to drive a bargain in exchange for support for digital duty of care legislation Get our new political email , free app or daily news podcast The Greens will push Labor to dramatically change new laws designed to rein in big tech, calling for individuals to…",
+   "summary": "Minor party plans to drive a bargain in exchange for support for digital duty of care legislation Follow our Australia politics live blog for latest updates Get our new political email , free app or daily news podcast The Greens will push Labor to dramatically change new laws…",
    "published": "2026-10-11T14:00:28+00:00"
   },
   {
@@ -921,17 +1031,6 @@
    "published": "2026-10-11T12:36:35+00:00"
   },
   {
-   "id": "7bb634f5f941",
-   "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-   "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I presume these are sophisticated investors taking a profit.”",
-   "published": "2026-10-11T12:30:00+00:00"
-  },
-  {
    "id": "455a08de134c",
    "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
@@ -1084,17 +1183,6 @@
    "flourishing_feed": false,
    "summary": "As raw milk industry experiences record growth, experts say it might contain pathogens that can sicken people As raw milk becomes increasingly popular among Americans, there have been several recent disease outbreaks tied to the product, alarming public health officials. Last…",
    "published": "2026-10-11T12:00:26+00:00"
-  },
-  {
-   "id": "4e18150c9776",
-   "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-   "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
-   "published": "2026-10-11T12:00:00+00:00"
   },
   {
    "id": "c83b48114571",
@@ -1610,7 +1698,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Family and friends say Melbourne man should be remembered for ‘immense joy he brought to so many people’s lives’ Get our breaking news email , free app or daily news podcast An Australian trekker who was last seen on a remote South American hiking trail has been found dead, his…",
+   "summary": "Family and friends say Melbourne man should be remembered for ‘immense joy he brought to so many people’s lives’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast An Australian trekker who was last seen on a…",
    "published": "2026-10-11T07:45:31+00:00"
   },
   {
@@ -4771,17 +4859,6 @@
    "published": "2026-10-09T23:24:33+00:00"
   },
   {
-   "id": "2d06b60c94ae",
-   "title": "My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?",
-   "link": "https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“Both properties will be solely in his name.”",
-   "published": "2026-10-09T23:15:00+00:00"
-  },
-  {
    "id": "4d00c86dc84b",
    "title": "Headteachers threaten strike ballots after losing confidence in Ofsted",
    "link": "https://www.theguardian.com/education/2026/oct/10/ofsted-strikes-head-teachers-confidence",
@@ -5187,17 +5264,6 @@
    "flourishing_feed": false,
    "summary": "Man United and Tottenham Hotspur managers under increasing pressure ahead of Premier League clash at Old Trafford.",
    "published": "2026-10-09T21:04:00+00:00"
-  },
-  {
-   "id": "6a4182a2783a",
-   "title": "I’m a 68-year-old widow and give money to my two adult children. Am I putting my retirement at risk?",
-   "link": "https://www.marketwatch.com/story/im-a-68-year-old-widow-my-two-adult-children-keep-asking-me-for-money-are-they-taking-advantage-of-me-f725374e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I also have $310,000 in an IRA and $46,000 in savings. My house is paid off.”",
-   "published": "2026-10-09T21:00:00+00:00"
   },
   {
    "id": "7f526f0a2b3f",
