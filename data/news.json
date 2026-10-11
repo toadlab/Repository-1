@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T06:37:02.432436+00:00",
+ "generated": "2026-10-11T07:31:50.682276+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,61 @@
  ],
  "items": [
   {
+   "id": "fe7b9d6e4727",
+   "title": "Delhi braces for more protests as 'cockroach' group's leaders released",
+   "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police say they will keep restricting access to the city centre after 7,000 people were detained and released on Saturday.",
+   "published": "2026-10-11T07:10:49+00:00"
+  },
+  {
+   "id": "0d397cb982c2",
+   "title": "‘Halloweenmas’: how the spooky one-nighter turned into a month-long spectacular",
+   "link": "https://www.theguardian.com/business/2026/oct/11/halloween-from-one-night-to-month-long-celebration",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Welcome to Halloweenmas, weeks of themed fun and gifts – from costume parties to decorating trees – without the stress, rules or cost of Christmas The tree is up, the wreath is hanging on the front door and you’ve just opened your advent calendar . All told, it’s beginning to…",
+   "published": "2026-10-11T07:00:19+00:00"
+  },
+  {
+   "id": "63d33fef72ec",
+   "title": "Open Thread",
+   "link": "https://reason.com/volokh/2026/10/11/open-thread-354/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What’s on your mind?",
+   "published": "2026-10-11T07:00:00+00:00"
+  },
+  {
+   "id": "d2e328e4359d",
+   "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
+   "link": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 100 aftershocks as high as magnitude-5.8 recorded after two quakes toppled buildings and prompted evacuations Panama’s government has declared a state of emergency on Saturday as the aftershocks of two powerful earthquakes that roiled the country shook communities for…",
+   "published": "2026-10-11T06:56:08+00:00"
+  },
+  {
+   "id": "a01582f1b093",
+   "title": "A Trump impersonator and opera singers: CPAC was a spectacle, but the right still can’t agree how to take down Labor",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/11/a-trump-impersonator-and-opera-singers-cpac-was-a-spectacle-but-the-right-still-cant-agree-how-to-take-down-labor-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Preferences proved the sticking point at the conference as conservatives face the prospect of a third successive election defeat Get our new political email , free app or daily news podcast Many mainstream Australians would feel as if they’d been dropped in a foreign country at…",
+   "published": "2026-10-11T06:47:17+00:00"
+  },
+  {
    "id": "53ef4c91af64",
    "title": "Analysis: No. 12 Utah’s clutch 4th quarter sealed the win over Kansas, but the Utes have things to clean up",
    "link": "https://www.deseret.com/sports/2026/10/11/utah-utes-kansas-jayhawks-analysis/",
@@ -171,17 +226,6 @@
    "flourishing_feed": false,
    "summary": "Lately, I travel to Europe with my wife, who has a family home in Sweden, at least once a year. But Scandinavia, it turns out, doesn’t give me a true sense of the mess that is the center of the continent, or the British Isles. That means I may be missing a preview of the coming…",
    "published": "2026-10-11T06:02:44+00:00"
-  },
-  {
-   "id": "fe7b9d6e4727",
-   "title": "Delhi braces for more protests as 'cockroach' group's leaders released",
-   "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The leaders, including CJP founder Abhijeet Dipke, had been detained when they arrived in Delhi on Saturday.",
-   "published": "2026-10-11T06:02:25+00:00"
   },
   {
    "id": "bc709230a96f",
