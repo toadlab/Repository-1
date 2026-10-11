@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T10:30:25.514235+00:00",
+ "generated": "2026-10-11T11:29:41.431427+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,39 @@
  ],
  "items": [
   {
+   "id": "0db1cf89e89e",
+   "title": "Pope Leo to have surgery after lump found on lung",
+   "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+   "published": "2026-10-11T11:27:51+00:00"
+  },
+  {
+   "id": "a81b53d273aa",
+   "title": "Burnham faces questions over push to scrap photo ID voting requirement",
+   "link": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-faces-questions-electoral-system-changes-photo-id-voting",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ministers reportedly seeking to halve time for Lords scrutiny of voting and donations changes amid election speculation Andy Burnham is facing questions over plans to speed up sweeping changes to Britain’s electoral system amid speculation that some of his closest advisers are…",
+   "published": "2026-10-11T11:16:05+00:00"
+  },
+  {
+   "id": "fe7b9d6e4727",
+   "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+   "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
+   "published": "2026-10-11T11:11:42+00:00"
+  },
+  {
    "id": "930efb8254ec",
    "title": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
    "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
@@ -136,8 +169,140 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "US president Donald Trump says he is weighing whether the US will join Saudi strikes against the Iran-backed Houthis An American citizen was among the 12 killed in the airport attack yesterday. For weeks now there’s been speculation over whether the US will join Saudi Arabia in…",
-   "published": "2026-10-11T10:21:59+00:00"
+   "summary": "US president Donald Trump says he is weighing whether the US will join Saudi strikes against the Iran-backed Houthis The Houthi’s foreign ministry in Yemen has also put out a statement being carried by Houthi media. They threatened again that continued Saudi military action in…",
+   "published": "2026-10-11T11:02:59+00:00"
+  },
+  {
+   "id": "a3c105977d09",
+   "title": "‘Deeply concerning’: Democratic congressional candidate rebukes ICE’s presence in New York",
+   "link": "https://www.theguardian.com/us-news/2026/oct/11/darializa-avila-chevalier-nypd-ice-protests-shooting",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Darializa Avila Chevalier criticizes NYPD’s ‘inaction’ in protecting Marble Hill protesters after ICE shot a man Democratic congressional candidate Darializa Avila Chevalier believes that the New York police departments’ conduct towards protesters after an ICE agent shot and…",
+   "published": "2026-10-11T11:00:26+00:00"
+  },
+  {
+   "id": "7753610eb35c",
+   "title": "Today in Supreme Court History: October 11, 1972",
+   "link": "https://reason.com/volokh/2026/10/11/today-in-supreme-court-history-october-11-1972-8/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "10/11/1972: Roe v. Wade argued. The post Today in Supreme Court History: October 11, 1972 appeared first on Reason Magazine.",
+   "published": "2026-10-11T11:00:25+00:00"
+  },
+  {
+   "id": "b0236ab6fcc8",
+   "title": "Trump Has Been Trampling Free Speech for More Than 40 Years—and It Keeps Getting Worse",
+   "link": "https://reason.com/2026/10/11/trump-has-been-trampling-free-speech-for-more-than-40-years-and-it-keeps-getting-worse/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The president stands out from his modern predecessors by openly displaying his contempt for the First Amendment.",
+   "published": "2026-10-11T11:00:14+00:00"
+  },
+  {
+   "id": "cbe6a644e2c3",
+   "title": "Amid Cultural Turmoil, ‘Live Faithfully a Hidden Life’",
+   "link": "https://thedispatch.com/newsletter/dispatch-faith/christianity-book-of-common-prayer-eliot/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Down with the looksmaxxers, influencers, and bomb-throwers.",
+   "published": "2026-10-11T11:00:00+00:00"
+  },
+  {
+   "id": "92f9d1f3739a",
+   "title": "Retirement Planning Strategies for Women",
+   "link": "https://www.kiplinger.com/retirement/retirement-planning/retirement-planning-strategies-for-women",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Women can find it hard to take center stage in their own retirement plan. Here's how to take care of those you love while building a life you love, too.",
+   "published": "2026-10-11T11:00:00+00:00"
+  },
+  {
+   "id": "19ffbd0e6b44",
+   "title": "Mohamed Salah sets Turkish Super Lig record for Trabzonspor",
+   "link": "https://www.aljazeera.com/sports/2026/10/11/mohamed-salah-sets-turkish-super-lig-record-for-trabzonspor?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Salah becomes first player with 10 goal contributions, seven goals and three assists after Trabzonspor beat Samsunspor.",
+   "published": "2026-10-11T10:48:34+00:00"
+  },
+  {
+   "id": "341bb45df5bd",
+   "title": "Yemen fighting expands as Houthis attack Saudi airport: What to know",
+   "link": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi coalition blames Houthi group for the missile strike on the main international airport in Riyadh.",
+   "published": "2026-10-11T10:45:15+00:00"
+  },
+  {
+   "id": "6b010c10caac",
+   "title": "Fear and uncertainty for civilians as Yemen’s capital comes under attack",
+   "link": "https://www.aljazeera.com/news-analysis/2026/10/11/fear-and-uncertainty-for-civilians-as-yemens-capital-comes-under-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sanaa has faced intense bombing since the Yemeni government announced a campaign to take the capital from the Houthis.",
+   "published": "2026-10-11T10:42:35+00:00"
+  },
+  {
+   "id": "296f885c191a",
+   "title": "Modi is in trouble",
+   "link": "https://www.aljazeera.com/opinions/2026/10/11/modi-is-in-trouble?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The CJP protests sweeping through the country have exposed India’s hollowed-out democracy.",
+   "published": "2026-10-11T10:31:45+00:00"
+  },
+  {
+   "id": "6e7ec9e5ae30",
+   "title": "Canada's First Nations Are Using Their Land To Build Dense Housing",
+   "link": "https://reason.com/2026/10/11/vancouvers-first-nation-yimbyism/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exempt from Vancouver's building restrictions, Squamish Nation is constructing a 6,000-unit residential high-rise.",
+   "published": "2026-10-11T10:30:59+00:00"
+  },
+  {
+   "id": "2f783c0c0a53",
+   "title": "Marco Bezzecchi wins in Indonesia as Martin takes MotoGP lead",
+   "link": "https://www.aljazeera.com/sports/2026/10/11/indonesia-gp-motogp-bezzecchi-martin-world-championship?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bezzecchi's win, the 300th victory for an Italian in MotoGP, also kept his faint championship ​hopes alive.",
+   "published": "2026-10-11T10:28:08+00:00"
+  },
+  {
+   "id": "c64796ab7471",
+   "title": "Anti-ICE protests in New York after man shot in car with child",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/anti-ice-protests-in-new-york-after-man-shot-in-car-with-child?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Protesters in New York City are demanding the abolition of ICE after officers shot Oscar Belgal in the Bronx.",
+   "published": "2026-10-11T10:22:39+00:00"
   },
   {
    "id": "d7703b915525",
@@ -193,6 +358,17 @@
    "flourishing_feed": false,
    "summary": "Your financial plan may need to support you for 35 years of retirement, not 25. Here's how to redo the maths on withdrawals, inflation and lifetime income.",
    "published": "2026-10-11T10:00:00+00:00"
+  },
+  {
+   "id": "c652a412ccda",
+   "title": "Photos: Thousands detained in police crackdown on India’s youth protest",
+   "link": "https://www.aljazeera.com/gallery/2026/10/11/photos-thousands-detained-as-new-delhi-cracks-down-on-youth-protest?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Demonstrators intercepted and detained as authorities crack down on 'cockroach' movement rally in central New Delhi.",
+   "published": "2026-10-11T09:58:19+00:00"
   },
   {
    "id": "483d7eafaecc",
@@ -292,17 +468,6 @@
    "flourishing_feed": false,
    "summary": "People who lose their jobs in this economy are taking longer to find new work. Nearly four in ten people exhaust their unemployment benefits before they land a new job.",
    "published": "2026-10-11T09:00:00+00:00"
-  },
-  {
-   "id": "fe7b9d6e4727",
-   "title": "Delhi sees more protests as 'cockroach' group's leaders released",
-   "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Police say they will keep restricting access to the city centre after thousands of people were detained and released on Saturday.",
-   "published": "2026-10-11T08:50:21+00:00"
   },
   {
    "id": "ab72845fdaaf",
