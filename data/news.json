@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T04:32:07.365315+00:00",
+ "generated": "2026-10-11T05:30:27.443789+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "name": "Federal Register: IRS",
@@ -129,6 +129,94 @@
  ],
  "items": [
   {
+   "id": "a19c2aa7e406",
+   "title": "Two Carlton players treated in hospital after needing care for ‘separate circumstances’",
+   "link": "https://www.theguardian.com/sport/2026/oct/11/two-carlton-players-treated-in-hospital-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Club issues brief statement about Lachie Cowan and Will Hayward, saying latter suffered minor cut to head after a fall Carlton football club has said two of its players, Lachie Cowan and Will Hayward, required treatment in hospital on Sunday morning in “separate circumstances”.…",
+   "published": "2026-10-11T05:05:45+00:00"
+  },
+  {
+   "id": "9bbab7df3e5d",
+   "title": "‘Restore the authority’: the challenge for the BBC’s new director of news",
+   "link": "https://www.theguardian.com/media/2026/oct/11/challenge-bbc-director-of-news-rachel-jupp",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rachel Jupp takes role as corporation grapples with digital transformation, a cash crisis and its public service role With looming job cuts and an ongoing pay dispute, there has not been much to smile about for BBC journalists working in “the pit” – their pet name for the…",
+   "published": "2026-10-11T05:00:18+00:00"
+  },
+  {
+   "id": "4fdfdb3c980d",
+   "title": "Retrofit schools and consider moving exams to beat extreme heat, says teaching union leader",
+   "link": "https://www.theguardian.com/education/2026/oct/11/schools-exams-extreme-heat-neu-daniel-kebede",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "NEU’s Daniel Kebede says earlier start times and longer summer breaks may be needed to help pupils and teachers Schools should consider changing start and finish times, reordering holidays and moving exams from the summer months in an effort to adapt to the UK’s increasingly…",
+   "published": "2026-10-11T05:00:17+00:00"
+  },
+  {
+   "id": "5028b77c1e14",
+   "title": "Christian nationalism in Britain driven by people who seldom go to church, says report",
+   "link": "https://www.theguardian.com/world/2026/oct/11/christian-nationalism-uk-far-right-people-rarely-go-to-church-report",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Research challenges the notion that the growing visibility of crosses and other symbols reflects a revival of Christianity Christian nationalism in Britain is being driven largely by people who rarely attend church and are more concerned with defending the country’s Christian…",
+   "published": "2026-10-11T05:00:17+00:00"
+  },
+  {
+   "id": "701fb6328049",
+   "title": "Capital punishment is surging in the US – but after Christa Pike’s botched execution, what is its future?",
+   "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/11/executions-us-christa-pike",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump has used the full might of the presidency to supercharge executions, but an avalanche of mishaps has put the system’s flaws in the spotlight It took more than an hour to establish the two intravenous lines through which Christa Pike would be injected with a giant and…",
+   "published": "2026-10-11T05:00:16+00:00"
+  },
+  {
+   "id": "a9a01d613a33",
+   "title": "Blessed Is the Policymaker Who Quotes the Bible in Context",
+   "link": "https://thedispatch.com/article/blessed-is-the-policymaker-who-quotes-the-bible-in-context/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pete Hegseth is not that policymaker.",
+   "published": "2026-10-11T05:00:00+00:00"
+  },
+  {
+   "id": "d69958fb8dcf",
+   "title": "US opens antitrust probe into TV networks halting Trump coverage",
+   "link": "https://www.aljazeera.com/news/2026/10/11/us-opens-antitrust-probe-into-tv-networks-halting-trump-coverage?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Department of Justice says it's investigating whether the White House press pool's decision violated antitrust laws.",
+   "published": "2026-10-11T04:30:10+00:00"
+  },
+  {
+   "id": "0d14b45cb5d1",
+   "title": "Hurricane Isaias kills four, leaves 650,000 without power in Florida",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-isaias-is-here-us?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hurricane Isaias has killed four people and left more than 650,000 people without power.",
+   "published": "2026-10-11T04:28:51+00:00"
+  },
+  {
    "id": "3266b28067d0",
    "title": "ICE agent in New York shooting also involved in assault of pregnant woman",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ice-agent-in-new-york-shooting-also-involved-in-assault-of-pregnant-woman?traffic_source=rss",
@@ -147,7 +235,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Saudi and US officials blame the attack on Yemen's Houthis, who have not taken responsibility for the latest strike.",
+   "summary": "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
    "published": "2026-10-11T03:57:22+00:00"
   },
   {
