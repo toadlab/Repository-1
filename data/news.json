@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T08:31:57.579801+00:00",
+ "generated": "2026-10-11T09:31:27.225819+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,6 +129,39 @@
  ],
  "items": [
   {
+   "id": "2037f293971a",
+   "title": "Surgeon faces deportation as Home Office revokes refugee status for Syrians",
+   "link": "https://www.theguardian.com/politics/2026/oct/11/surgeon-faces-deportation-syria-uk-home-office-revokes-refugee-status-syrians",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "UK classifies Syria as safe to return to despite UN refugee body’s advice A Syrian plastic surgeon is facing deportation from the UK after the Home Office revoked his refugee status, declaring it is now safe for him and his family to return to their home country. Despite…",
+   "published": "2026-10-11T09:00:22+00:00"
+  },
+  {
+   "id": "1c9609423410",
+   "title": "Man accused of child rape set to become police chief in small Louisiana town",
+   "link": "https://www.theguardian.com/us-news/2026/oct/11/child-rape-police-chief-louisiana",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Republican Christopher Paul is running unopposed for seat despite allegations he raped two girls 20 years ago A candidate for police chief in a small Louisiana town candidate is on course to be elected unopposed despite two charges of child rape pending against him, leaving his…",
+   "published": "2026-10-11T09:00:22+00:00"
+  },
+  {
+   "id": "5e6e00377d9c",
+   "title": "After RAF Fairford incident, how big a threat to the UK is Iran?",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/11/after-raf-fairford-how-big-threat-uk-iran",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Although there is scepticism about Tehran’s capabilities, it has become clear it wants Britain to feel it poses a risk Britain may have been only peripherally involved in the bombing of Iran that Donald Trump and Benjamin Netanyahu started, but in the past fortnight it has…",
+   "published": "2026-10-11T09:00:21+00:00"
+  },
+  {
    "id": "930efb8254ec",
    "title": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
    "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
@@ -136,8 +169,85 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "US president Donald Trump says he is weighing whether the US will join Saudi strikes against the Iran-backed Houthis Saturday’s attack was the third launched on the Saudi capital’s main airport this week- with the missile making it past Saudi air defences to strike terminals 3…",
-   "published": "2026-10-11T08:25:08+00:00"
+   "summary": "US president Donald Trump says he is weighing whether the US will join Saudi strikes against the Iran-backed Houthis As you can expect, passengers have been avoiding Saudia Arabia’s main international airport since the major attack yesterday. King Khalid remains closed today.…",
+   "published": "2026-10-11T09:00:10+00:00"
+  },
+  {
+   "id": "65b45fff56cf",
+   "title": "In one of the country's most competitive districts, a Democrat tries to keep her seat",
+   "link": "https://www.npr.org/2026/10/11/nx-s1-5968691/midterm-elections-washington-congressional-district",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In a highly competitive Washington congressional race, the incumbent Democrat has angered part of her party base and the Trump-backed Republican challenger faces backlash against the party in power.",
+   "published": "2026-10-11T09:00:00+00:00"
+  },
+  {
+   "id": "b39b237aaaa4",
+   "title": "Reshaped civil rights mission at Justice Department transforms its work, workforce",
+   "link": "https://www.npr.org/2026/10/11/g-s1-145063/justice-department-civil-rights-transformed",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Harmeet Dhillon has pushed out hundreds of longtime attorneys, replaced many with inexperienced ideological allies, and used the division's enforcement powers to pursue the president's agenda.",
+   "published": "2026-10-11T09:00:00+00:00"
+  },
+  {
+   "id": "c87addfe04ff",
+   "title": "It's taking longer to find a new job after losing one",
+   "link": "https://www.npr.org/2026/10/11/nx-s1-5995238/jobs-employment-economy-unemployment-benefits",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "People who lose their jobs in this economy are taking longer to find new work. Nearly four in ten people exhaust their unemployment benefits before they land a new job.",
+   "published": "2026-10-11T09:00:00+00:00"
+  },
+  {
+   "id": "fe7b9d6e4727",
+   "title": "Delhi sees more protests as 'cockroach' group's leaders released",
+   "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police say they will keep restricting access to the city centre after thousands of people were detained and released on Saturday.",
+   "published": "2026-10-11T08:50:21+00:00"
+  },
+  {
+   "id": "ab72845fdaaf",
+   "title": "What can Man City expect against Liverpool at Anfield on Sunday?",
+   "link": "https://www.aljazeera.com/sports/2026/10/11/manchester-city-financial-breach-liverpool-fans-anfield?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Man City face Liverpool in their first game since being found guilty of serious EPL financial breaches.",
+   "published": "2026-10-11T08:46:10+00:00"
+  },
+  {
+   "id": "4b0e8d591653",
+   "title": "Trump calls for Ukraine election, says Zelenskyy failed to end war",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump has called for Ukraine to hold elections, implying Zelenskyy missed opportunities to end the war with Russia.",
+   "published": "2026-10-11T08:43:52+00:00"
+  },
+  {
+   "id": "4d515b3e8d97",
+   "title": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
+   "link": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "PM office says cabinet move follows 'provincial government’s deliberate disengagement from the fight against terrorism'.",
+   "published": "2026-10-11T08:32:06+00:00"
   },
   {
    "id": "7a366cd017a8",
@@ -193,17 +303,6 @@
    "flourishing_feed": false,
    "summary": "A US fighter jet bombed a commercial cargo ship in the Gulf of Oman, according to CENTCOM.",
    "published": "2026-10-11T07:39:16+00:00"
-  },
-  {
-   "id": "fe7b9d6e4727",
-   "title": "Delhi braces for more protests as 'cockroach' group's leaders released",
-   "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Police say they will keep restricting access to the city centre after 7,000 people were detained and released on Saturday.",
-   "published": "2026-10-11T07:10:49+00:00"
   },
   {
    "id": "0d397cb982c2",
@@ -653,7 +752,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Trump denounces 'terrible' attack and says the US is evaluating whether to join Saudi Arabia's attacks on the Houthis.",
+   "summary": "Trump denounces 'terrible' attack and says the US is evaluating whether to join Saudi Arabia's offensive on the Houthis.",
    "published": "2026-10-11T02:12:07+00:00"
   },
   {
@@ -61078,28 +61177,6 @@
    "flourishing_feed": false,
    "summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
    "published": "2026-08-27T15:00:00+00:00"
-  },
-  {
-   "id": "fd5329e73256",
-   "title": "Utility investment analysts ding Indiana amid ‘political intervention,’ potential profit cuts",
-   "link": "https://indianacapitalchronicle.com/2026/08/27/utility-investment-analysts-downgrade-indiana-amid-political-intervention-potential-profit-cuts/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Energy companies warn of the potential impacts of investor distrust as Gov. Mike Braun calls on them to \"deliver\" to earn higher profits.",
-   "published": "2026-08-27T09:00:54+00:00"
-  },
-  {
-   "id": "d912a781090f",
-   "title": "Indiana’s SNAP program soon to be at a crossroads",
-   "link": "https://indianacapitalchronicle.com/2026/08/27/snap-costs-to-rise/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Indiana’s budget surplus is impressive, but Congress has determined that our costs are about to go up. The One Big Beautiful Bill Act of 2025 changed how states and the federal government pay for food assistance, and for the first time in the history of the Supplemental…",
-   "published": "2026-08-27T09:00:15+00:00"
   }
  ]
 }
