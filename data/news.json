@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T18:34:16.411599+00:00",
+ "generated": "2026-10-11T19:29:36.334679+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,94 @@
  ],
  "items": [
   {
+   "id": "d72a69a7bdaf",
+   "title": "Republican senator says Trump diesel agreement with Russia may be illegal",
+   "link": "https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US President Trump's bid to bring down diesel prices by easing sanctions on Russia prompts rare Republican criticism.",
+   "published": "2026-10-11T19:19:50+00:00"
+  },
+  {
+   "id": "7a7e4dd6e3ec",
+   "title": "Orangutans released back into Borneo forest after devastating fires",
+   "link": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+   "published": "2026-10-11T19:08:04+00:00"
+  },
+  {
+   "id": "5d80a7e1bb28",
+   "title": "Latter-day Saints for Life conference urges members to ‘stand for life with love’",
+   "link": "https://www.deseret.com/politics/2026/10/11/latter-day-saints-for-life-conference-stand-for-life-love/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Dozens of members of The Church of Jesus Christ of Latter-day Saints gathered Saturday in Provo, Utah, to discuss the value of life, the importance of motherhood, and the “war strategy” for the pro-life movement . The gathering marked the third annual conference for Latter-day…",
+   "published": "2026-10-11T19:07:19+00:00"
+  },
+  {
+   "id": "e65586eb752b",
+   "title": "Opinion: Utah’s $1.4 billion choice — the Great Salt Lake or a gondola?",
+   "link": "https://www.deseret.com/opinion/2026/10/11/the-great-salt-lake-or-a-gondola/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Utah faces two very different challenges competing for public attention and resources. One is traffic in a single mountain canyon, largely driven by skiers traveling to private ski resorts. The other is a shrinking Great Salt Lake, posing threats to Utah’s air quality, economy,…",
+   "published": "2026-10-11T19:00:00+00:00"
+  },
+  {
+   "id": "bab66b952bee",
+   "title": "Match Review: RSL unable to earn second road win, falls to Philadelphia",
+   "link": "https://www.deseret.com/sports/2026/10/11/match-review-rsl-unable-to-earn-second-road-win-against-philadelphia/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Real Salt Lake fell 2-1 against the surging Eastern Conference Philadelphia Union at Subaru Park in Chester, Pennsylvania on Saturday night. While RSL was unable to secure a victory, the late goal by the visitors emphasized the grit and “never give up” attitude of the Utah…",
+   "published": "2026-10-11T18:59:44+00:00"
+  },
+  {
+   "id": "28ed58df5538",
+   "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+   "link": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US-Israel war on Iran and its inflationary impact will dominate the agenda.",
+   "published": "2026-10-11T18:47:57+00:00"
+  },
+  {
+   "id": "77550788912f",
+   "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – live updates",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine’s president reportedly says Kyiv would accept a deal if Moscow does after US president posts announcement with no detail on social media Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’ Sign up for the US Breaking News email The…",
+   "published": "2026-10-11T18:36:54+00:00"
+  },
+  {
+   "id": "2738f5d126ba",
+   "title": "Trump and Rubio weigh firing Kimberly Guilfoyle after reports of improper conduct",
+   "link": "https://www.theguardian.com/us-news/2026/oct/11/trump-rubio-weigh-firing-kimberly-guilfoyle",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Senior official says president and US secretary of state are ‘extremely pissed off’ by conduct of US envoy to Greece Donald Trump and Marco Rubio, the secretary of state, are considering firing US ambassador to Greece Kimberly Guilfoyle after a series of reports alleging she…",
+   "published": "2026-10-11T18:34:10+00:00"
+  },
+  {
    "id": "c4b2b4962a41",
    "title": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
@@ -171,17 +259,6 @@
    "flourishing_feed": false,
    "summary": "This live blog is now closed. You can read our latest full report here: Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say Some more Gulf reaction to Houthi’s deadly airport attack and continued threats to target Saudi airspace. In a significant…",
    "published": "2026-10-11T18:03:22+00:00"
-  },
-  {
-   "id": "77550788912f",
-   "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – live updates",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Ukraine’s president reportedly says Kyiv would accept a deal if Moscow does after US president posts announcement with no detail on social media Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’ Sign up for the US Breaking News email The…",
-   "published": "2026-10-11T18:02:44+00:00"
   },
   {
    "id": "06edc94db6a2",
@@ -268,7 +345,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Ukrainian president earlier rejected US call for Kyiv to stop bombing oil refineries, saying Moscow must first end attacks on energy infrastructure US politics – live updates Donald Trump has announced an energy ceasefire between Ukraine and Russia, apparently without…",
+   "summary": "Ukrainian president earlier rejected US call for Kyiv to stop bombing oil refineries, saying Moscow must first end attacks on energy infrastructure Donald Trump has announced an energy ceasefire between Ukraine and Russia, apparently without consulting Volodymyr Zelenskyy, who…",
    "published": "2026-10-11T17:21:39+00:00"
   },
   {
@@ -625,7 +702,7 @@
   },
   {
    "id": "ae34210f38bd",
-   "title": "Australia has never driven migration into reverse by design. Would slamming the brakes on be calamitous?",
+   "title": "Australia has never driven migration into reverse by design. Would slamming on the brakes be calamitous?",
    "link": "https://www.theguardian.com/australia-news/2026/oct/12/australia-has-never-driven-migration-into-reverse-by-design-would-slamming-the-brakes-on-be-calamitous",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -642,7 +719,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Minor party plans to drive a tough bargain in exchange for support for digital duty of care legislation Get our new political email , free app or daily news podcast The Greens will push Labor to dramatically toughen new laws designed to rein in big tech, calling for individuals…",
+   "summary": "Minor party plans to drive a bargain in exchange for support for digital duty of care legislation Get our new political email , free app or daily news podcast The Greens will push Labor to dramatically change new laws designed to rein in big tech, calling for individuals to…",
    "published": "2026-10-11T14:00:28+00:00"
   },
   {
@@ -62354,17 +62431,6 @@
    "flourishing_feed": false,
    "summary": "Residents in more Indiana counties could become eligible for federal disaster assistance as officials said Thursday that damage assessments were continuing from this month’s severe storms and flooding.",
    "published": "2026-08-27T21:20:50+00:00"
-  },
-  {
-   "id": "47725e429823",
-   "title": "State approves funding to kickstart 122nd Fighter Wing modernization",
-   "link": "https://indianacapitalchronicle.com/2026/08/27/state-approves-funding-to-kickstart-122nd-fighter-wing-modernization/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The State Budget Committee on Thursday approved $1 million to help the Indiana Air National Guard’s 122nd Fighter Wing in Fort Wayne land a future F35-A base. Indiana Brigadier Gen. Matt Brown told the panel of lawmakers the 122nd is “locked in a fierce multi-state competition…",
-   "published": "2026-08-27T19:24:05+00:00"
   }
  ]
 }
