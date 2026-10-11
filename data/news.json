@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T12:36:48.907260+00:00",
+ "generated": "2026-10-11T13:31:08.003892+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,83 @@
  ],
  "items": [
   {
+   "id": "adbc6606e5d1",
+   "title": "Houthi attack on Riyadh airport will force rethink of Donald Trump’s strategy",
+   "link": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US president’s plan to park the conflicts in Iran and Yemen, while blaming Ukraine for high diesel prices, has unravelled Middle East crisis live - latest updates The reckless missile attack on King Khalid international airport in Riyadh on Saturday did not just export the…",
+   "published": "2026-10-11T13:23:02+00:00"
+  },
+  {
+   "id": "930efb8254ec",
+   "title": "Middle East crisis live: Houthi foreign ministry says ‘worse yet to come’ if Saudi strikes continue",
+   "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US president Donald Trump says he is weighing whether the US will join Saudi strikes against the Iran-backed Houthis Some more Gulf reaction to Houthi’s deadly airport attack and continued threats to target Saudi airspace. In a significant message, the United Arab Emirates has…",
+   "published": "2026-10-11T13:23:01+00:00"
+  },
+  {
+   "id": "2ef8da9dd1ba",
+   "title": "Older Homeowners Are Cutting Their Property Tax Bills by Volunteering",
+   "link": "https://www.kiplinger.com/taxes/older-homeowners-lowering-property-taxes-by-volunteering",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Want to save up to $1,500 on your property taxes? Here's how giving back can lower your bill in retirement.",
+   "published": "2026-10-11T13:17:00+00:00"
+  },
+  {
+   "id": "1f492724bc83",
+   "title": "India’s crackdown on youth protesters: What next?",
+   "link": "https://www.aljazeera.com/news/2026/10/11/indias-crackdown-on-youth-protesters-what-next?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "India's 'cockroach' movement and student groups have said protests will continue despite detentions.",
+   "published": "2026-10-11T13:06:00+00:00"
+  },
+  {
+   "id": "b93dfb17a273",
+   "title": "Campaign launched to safeguard site of first home of Scotland’s national football team",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/11/first-hampden-campaign-glasgow-scotland-football",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Part of site of First Hampden in Glasgow is up for rent and campaigners want to turn it into a community hub Fans of Scotland’s national football team may not have had many reasons to celebrate in recent years, but that hasn’t always been the case. Almost 150 years ago, in…",
+   "published": "2026-10-11T13:00:27+00:00"
+  },
+  {
+   "id": "3ee16ec8b2be",
+   "title": "The bull market is turning 4 years old — but yields could crash the party",
+   "link": "https://www.marketwatch.com/story/the-bull-market-is-turning-4-years-old-but-yields-could-crash-the-party-1305fe6c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "For four years, tech has been the answer to almost every question about this bull market.",
+   "published": "2026-10-11T13:00:00+00:00"
+  },
+  {
+   "id": "9eb37f9ea69b",
+   "title": "Pope Leo XIV to undergo lung surgery this week",
+   "link": "https://www.npr.org/2026/10/11/nx-s1-5998027/pope-leo-xiv-to-undergo-lung-surgery-this-week",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pope Leo XIV said he would undergo surgery after doctors found a \"localized nodule\" in his lung.",
+   "published": "2026-10-11T12:54:25+00:00"
+  },
+  {
    "id": "0db1cf89e89e",
    "title": "Pope Leo to have surgery after lump found on lung",
    "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
@@ -137,7 +214,51 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-   "published": "2026-10-11T12:32:23+00:00"
+   "published": "2026-10-11T12:52:38+00:00"
+  },
+  {
+   "id": "56c1dab03b8f",
+   "title": "Ukraine strikes Russian data centre again despite Trump warning",
+   "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+   "published": "2026-10-11T12:50:46+00:00"
+  },
+  {
+   "id": "58211d972acc",
+   "title": "Ceuta migrants allege beatings as camps cleared ahead of royal visit",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ceuta-migrants-allege-beatings-as-camps-cleared-ahead-of-royal-visit?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "People in Ceuta allege they were mistreated by Spanish soldiers after authorities cleared migrant camps.",
+   "published": "2026-10-11T12:40:35+00:00"
+  },
+  {
+   "id": "1cba9a8063d1",
+   "title": "Police in Poland ‘learn of possible plot to attack prime minister Donald Tusk’",
+   "link": "https://www.theguardian.com/world/2026/oct/11/poland-possible-plot-attack-prime-minister-donald-tusk",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Government spokesperson says defence minister also mentioned in ‘exceptionally concerning’ threat Poland’s police said on Sunday that they had received information about a possible plot to attack the country’s prime minister, Donald Tusk, and the defence minister, Władysław…",
+   "published": "2026-10-11T12:37:32+00:00"
+  },
+  {
+   "id": "bd9b9a1aee5c",
+   "title": "Meet the man helping India’s detained protesters get home",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Al Jazeera spoke to the 25-year-old man who built an AI-powered app to help India’s detained protesters get home safely.",
+   "published": "2026-10-11T12:36:35+00:00"
   },
   {
    "id": "7bb634f5f941",
@@ -149,6 +270,39 @@
    "flourishing_feed": false,
    "summary": "“I presume these are sophisticated investors taking a profit.”",
    "published": "2026-10-11T12:30:00+00:00"
+  },
+  {
+   "id": "455a08de134c",
+   "title": "Saudi Arabia vows response over Houthi ‘war crime’ attack on Riyadh airport",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/saudi-arabia-vows-response-over-houthi-war-crime-attack-on-riyadh-airport?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A Houthi attack on Riyadh airport killed at least 12 people and injured more than 300.",
+   "published": "2026-10-11T12:28:11+00:00"
+  },
+  {
+   "id": "53c47d124d18",
+   "title": "Sweet protein brazzein shows promise in reducing blood sugar spikes: Study",
+   "link": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Russian research reveals that the protein brazzein could help reduce blood sugar spikes.",
+   "published": "2026-10-11T12:23:37+00:00"
+  },
+  {
+   "id": "bb38e5b6ba75",
+   "title": "Liverpool vs Man City live: Premier League",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/11/live-liverpool-vs-manchester-city-premier-league-football?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow updates from the clash at Anfield, including the build-up, analysis and live text commentary of the game.",
+   "published": "2026-10-11T12:20:30+00:00"
   },
   {
    "id": "7ca7696e2a86",
@@ -338,17 +492,6 @@
    "published": "2026-10-11T12:00:00+00:00"
   },
   {
-   "id": "bb38e5b6ba75",
-   "title": "Liverpool vs Man City live: Premier League",
-   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/11/live-liverpool-vs-manchester-city-premier-league-football?traffic_source=rss",
-   "source": "Al Jazeera",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow updates from the clash at Anfield, including the build-up, analysis and live text commentary of the game.",
-   "published": "2026-10-11T11:58:30+00:00"
-  },
-  {
    "id": "76c5306a56ec",
    "title": "Pope Leo to have surgery to remove nodule on his lung",
    "link": "https://www.theguardian.com/world/2026/oct/11/pope-leo-surgery-remove-nodule-lung",
@@ -380,17 +523,6 @@
    "flourishing_feed": false,
    "summary": "Search and rescue operations conducted after vessel carrying more than 300 people capsizes near Guhere.",
    "published": "2026-10-11T11:34:40+00:00"
-  },
-  {
-   "id": "930efb8254ec",
-   "title": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
-   "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "US president Donald Trump says he is weighing whether the US will join Saudi strikes against the Iran-backed Houthis The Guardian’s diplomatic correspondent Patrick Wintour has offered some context on the latest between the Houthis and the Saudi kingdom. Saturday’s incident…",
-   "published": "2026-10-11T11:34:25+00:00"
   },
   {
    "id": "e66dbca8e8f5",
@@ -534,6 +666,17 @@
    "flourishing_feed": false,
    "summary": "Sanaa has faced intense bombing since the Yemeni government announced a campaign to take the capital from the Houthis.",
    "published": "2026-10-11T10:42:35+00:00"
+  },
+  {
+   "id": "a4f0e346f2d3",
+   "title": "Buildings swept away as flash floods hit central Nepal",
+   "link": "https://www.bbc.co.uk/news/videos/cwzrdnljedx0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A flash flood at the Budhi Gandaki River has swept away several buildings and bridges, two months after catastrophic floods hit the country.",
+   "published": "2026-10-11T10:34:02+00:00"
   },
   {
    "id": "296f885c191a",
