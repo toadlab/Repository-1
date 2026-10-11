@@ -88478,5 +88478,37 @@
   "decision": "exclude",
   "exclusion": "did not clear the international bar",
   "persistent": false
+ },
+ "551382d9bff4": {
+  "story_key": "trump-s-energy-ceasefire-claim",
+  "durability": 7,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 7.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
+ },
+ "64af34442eac": {
+  "story_key": "watch-s-behind-trump-s",
+  "durability": 2,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 2.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "low durability",
+  "persistent": false
  }
 }

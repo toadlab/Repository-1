@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T21:30:36.671173+00:00",
+ "generated": "2026-10-11T22:30:37.562758+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,28 @@
  ],
  "items": [
   {
+   "id": "562edc058b93",
+   "title": "Politics live: Monique Ryan ‘not bothered’ by Josh Frydenberg comeback speculation",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Labor not watering down trust tax bill, says Mulino The assistant treasurer, Daniel Mulino , says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary…",
+   "published": "2026-10-11T22:18:31+00:00"
+  },
+  {
+   "id": "551382d9bff4",
+   "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+   "link": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Zelensky says Kyiv would support such a truce. Moscow has yet to comment.",
+   "published": "2026-10-11T21:36:40+00:00"
+  },
+  {
    "id": "a4f40d791855",
    "title": "Saudi capital airport hit by second Houthi strike in two days",
    "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
@@ -138,17 +160,6 @@
    "flourishing_feed": false,
    "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
    "published": "2026-10-11T21:30:11+00:00"
-  },
-  {
-   "id": "562edc058b93",
-   "title": "Politics live: Greens call for US execution live stream to be blocked; Frydenberg doesn’t rule out politics return",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Labor not watering down trust tax bill, says Mulino The assistant treasurer, Daniel Mulino , says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary…",
-   "published": "2026-10-11T21:19:10+00:00"
   },
   {
    "id": "8fc810011682",
@@ -182,6 +193,17 @@
    "flourishing_feed": false,
    "summary": "Zack Polanski calls for internal rule reforms to give party leaders greater control over policy after Zionism vote.",
    "published": "2026-10-11T20:57:48+00:00"
+  },
+  {
+   "id": "64af34442eac",
+   "title": "Watch: What's behind Trump's energy ceasefire claim?",
+   "link": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment.",
+   "published": "2026-10-11T20:55:02+00:00"
   },
   {
    "id": "4dd4779052a4",
