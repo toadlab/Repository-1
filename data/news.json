@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T13:31:08.003892+00:00",
+ "generated": "2026-10-11T14:30:39.099232+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,26 +129,213 @@
  ],
  "items": [
   {
-   "id": "adbc6606e5d1",
-   "title": "Houthi attack on Riyadh airport will force rethink of Donald Trump’s strategy",
-   "link": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "US president’s plan to park the conflicts in Iran and Yemen, while blaming Ukraine for high diesel prices, has unravelled Middle East crisis live - latest updates The reckless missile attack on King Khalid international airport in Riyadh on Saturday did not just export the…",
-   "published": "2026-10-11T13:23:02+00:00"
-  },
-  {
    "id": "930efb8254ec",
-   "title": "Middle East crisis live: Houthi foreign ministry says ‘worse yet to come’ if Saudi strikes continue",
+   "title": "Middle East crisis live: Houthi media reports strike on airport in Sana’a after deadly Riyadh attack",
    "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "US president Donald Trump says he is weighing whether the US will join Saudi strikes against the Iran-backed Houthis Some more Gulf reaction to Houthi’s deadly airport attack and continued threats to target Saudi airspace. In a significant message, the United Arab Emirates has…",
-   "published": "2026-10-11T13:23:01+00:00"
+   "summary": "Saudi-backed government forces earlier said they would ‘respond decisively’ to the attack on Riyadh airport terminals Some more Gulf reaction to Houthi’s deadly airport attack and continued threats to target Saudi airspace. In a significant message, the United Arab Emirates has…",
+   "published": "2026-10-11T14:16:11+00:00"
+  },
+  {
+   "id": "a092eb37edbd",
+   "title": "ICE agent strikes man with vehicle during pursuit in Texas, officials say",
+   "link": "https://www.theguardian.com/us-news/2026/oct/11/ice-agent-strikes-man-with-car-texas",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Parra-Hernandez suffered a broken leg and taken to a hospital after being hit by car during an ICE operation An Immigration and Customs Enforcement ( ICE ) agent driving a vehicle struck a man on Saturday while trying to pursue him and someone else in the Houston area,…",
+   "published": "2026-10-11T14:13:55+00:00"
+  },
+  {
+   "id": "471efb0fbe6f",
+   "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+   "link": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Allegations of Eritrean troop incursions into Tigray deepen the rift with Ethiopia, threatening fragile peace in the region.",
+   "published": "2026-10-11T14:09:12+00:00"
+  },
+  {
+   "id": "bd2461cb3a29",
+   "title": "The Mafia Football Murders | True Crime Reports",
+   "link": "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A lifelong Inter Milan fan shot in Milan exposes a shocking alliance between football's ultras and the mafia.",
+   "published": "2026-10-11T14:05:14+00:00"
+  },
+  {
+   "id": "1165f3f06810",
+   "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+   "link": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "IRGC warns against ignoring waterway's 'security and rules' as CENTCOM says US disabled vessel trying to run blockade.",
+   "published": "2026-10-11T14:04:32+00:00"
+  },
+  {
+   "id": "1d90136c5b8a",
+   "title": "The Australian’s Shadow of Doubt podcast delayed ‘sadistic’ paedophile’s trial, court documents reveal",
+   "link": "https://www.theguardian.com/media/2026/oct/12/shadow-of-doubt-podcast-the-australian-victoria-schoolgirls-trial-delay-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: As William ‘Rob’ Gilfillan was about to go on trial for sex offences against two schoolgirls, his barrister told a judge his client’s history was easily discoverable online Sign up for Guardian Australia’s free weekly media newsletter here The Australian’s podcast…",
+   "published": "2026-10-11T14:00:29+00:00"
+  },
+  {
+   "id": "ae34210f38bd",
+   "title": "Australia has never driven migration into reverse by design. Would slamming the brakes on be calamitous?",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/12/australia-has-never-driven-migration-into-reverse-by-design-would-slamming-the-brakes-on-be-calamitous",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Australia does have a migration challenge – but it’s not what One Nation and the Coalition think it is Get our new political email , free app or daily news podcast Australia is flirting with the idea of something it has never done: deliberately driving net overseas migration…",
+   "published": "2026-10-11T14:00:28+00:00"
+  },
+  {
+   "id": "647e853830a7",
+   "title": "Greens gear up for fight with Labor as Sarah Hanson-Young pushes to strengthen laws to rein in big tech",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/12/greens-sarah-hanson-young-big-tech-digital-duty-of-care-labor",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Minor party plans to drive a tough bargain in exchange for support for digital duty of care legislation Get our new political email , free app or daily news podcast The Greens will push Labor to dramatically toughen new laws designed to rein in big tech, calling for individuals…",
+   "published": "2026-10-11T14:00:28+00:00"
+  },
+  {
+   "id": "e7696e01286f",
+   "title": "How to Turn Your RMD Into a Smart Tax Strategy",
+   "link": "https://www.kiplinger.com/retirement/retirement-plans/required-minimum-distributions-rmds/smart-ways-to-handle-rmds",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Required minimum distributions can be used as a tool to help lower your tax bill, smarten your charitable giving and keep your retirement strategy on track.",
+   "published": "2026-10-11T14:00:00+00:00"
+  },
+  {
+   "id": "1123dc865867",
+   "title": "How to Fact-Check AI Financial Advice in 7 Steps",
+   "link": "https://www.kiplinger.com/retirement/retirement-planning/how-to-fact-check-ai-retirement-advice",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "AI chatbots can offer quick retirement insights, but can also provide outdated figures. Always double-check their advice before making financial decisions.",
+   "published": "2026-10-11T14:00:00+00:00"
+  },
+  {
+   "id": "0372427ba048",
+   "title": "We’re about to get a huge read on whether earnings can keep propping up the stock market",
+   "link": "https://www.marketwatch.com/story/were-about-to-get-a-huge-read-on-whether-earnings-can-keep-propping-up-the-stock-market-459b565b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "High hopes for third-quarter earnings are outweighing concerns around interest rates and oil prices — but one expert warns markets have gotten “extremely complacent.”",
+   "published": "2026-10-11T14:00:00+00:00"
+  },
+  {
+   "id": "90a40996ae2a",
+   "title": "Wildlife park confirms tiger will not be euthanised after man mauled to death",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/11/tiger-will-not-be-euthanised-after-man-mauled-to-death-yorkshire-zoo",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ed Miliband offers ‘deepest condolences’ to family of the visitor who entered animal enclosure on Saturday A wildlife park in Yorkshire has confirmed the tiger that mauled to death a man who entered its enclosure will not be euthanised. A man, who has not yet been named, was…",
+   "published": "2026-10-11T13:48:21+00:00"
+  },
+  {
+   "id": "5479666f23f9",
+   "title": "Thousands without power in Florida and Alabama as Isaias moves north",
+   "link": "https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least four deaths linked to storm amid warnings of flash flooding that could stretch into Appalachians Nearly 396,000 customers across the Florida Panhandle and southern Alabama remained without power early Sunday as remnants of Hurricane Isaias moved north, where widespread…",
+   "published": "2026-10-11T13:45:27+00:00"
+  },
+  {
+   "id": "baf41274c711",
+   "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
+   "link": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal.",
+   "published": "2026-10-11T13:41:57+00:00"
+  },
+  {
+   "id": "0db1cf89e89e",
+   "title": "Pope Leo to have surgery after lump found on lung",
+   "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
+   "published": "2026-10-11T13:38:55+00:00"
+  },
+  {
+   "id": "553cb2354e26",
+   "title": "Cockroach Janta Party accuses Modi of ‘waging war’ on Indians",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/cockroach-janta-party-accuses-modi-of-waging-war-on-indians?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "India’s Cockroach Janta Party leaders say the Modi government is ‘waging war’ on its own citizens.",
+   "published": "2026-10-11T13:34:07+00:00"
+  },
+  {
+   "id": "9d436d7c1447",
+   "title": "Flu cases higher than usual in England during September, experts say",
+   "link": "https://www.theguardian.com/society/2026/oct/11/flu-season-early-rise-september-england-vaccination-jab-ukhsa",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "UK Health Security Agency notes above-average activity and urges at-risk groups to get vaccinated Flu is striking earlier than usual in England, experts have said, insisting that vaccination is the best way to blunt its impact. According to the UK Health Security Agency…",
+   "published": "2026-10-11T13:32:58+00:00"
+  },
+  {
+   "id": "1e2e3ed0f2f8",
+   "title": "Trump urges John Fetterman to switch parties: ‘I’d love to see him as a Republican’",
+   "link": "https://www.theguardian.com/us-news/2026/oct/11/trump-john-fetterman",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Comments were among the most direct overtures by Trump to woo Democratic senator into his Republican party Donald Trump on Saturday openly encouraged Democratic US senator John Fetterman to switch parties and become a Republican just weeks before the federal midterm elections…",
+   "published": "2026-10-11T13:25:44+00:00"
+  },
+  {
+   "id": "adbc6606e5d1",
+   "title": "Houthi attack on Riyadh airport forces swift rethink of Trump’s new strategy",
+   "link": "https://www.theguardian.com/world/2026/oct/11/houthi-attack-riyadh-airport-donald-trump-strategy",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US president’s plan to park the wars in Iran and Yemen, while blaming Ukraine for high diesel prices, looks unsustainable Middle East crisis live - latest updates The reckless missile attack on King Khalid international airport in Riyadh on Saturday did not just export the…",
+   "published": "2026-10-11T13:23:02+00:00"
   },
   {
    "id": "2ef8da9dd1ba",
@@ -206,19 +393,8 @@
    "published": "2026-10-11T12:54:25+00:00"
   },
   {
-   "id": "0db1cf89e89e",
-   "title": "Pope Leo to have surgery after lump found on lung",
-   "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-   "published": "2026-10-11T12:52:38+00:00"
-  },
-  {
    "id": "56c1dab03b8f",
-   "title": "Ukraine strikes Russian data centre again despite Trump warning",
+   "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
    "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
