@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T16:31:00.630497+00:00",
+ "generated": "2026-10-11T17:29:44.713697+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 37
+   "count": 25
   },
   {
    "name": "The Guardian World",
@@ -129,37 +129,136 @@
  ],
  "items": [
   {
-   "id": "77550788912f",
-   "title": "Zelenskyy signals support for Russia-Ukraine ‘energy ceasefire’ after surprise Trump announcement – live updates",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
+   "id": "3566ee1decd0",
+   "title": "Poland detains man suspected of planning assassination of PM Tusk",
+   "link": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
+   "published": "2026-10-11T17:27:24+00:00"
+  },
+  {
+   "id": "68542c94dd65",
+   "title": "Abdul El-Sayed: Democrats must ‘win by massive numbers’ to fend off Trump election denial",
+   "link": "https://www.theguardian.com/us-news/2026/oct/11/abdul-el-sayed-democrats-must-win-by-massive-numbers",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Ukraine’s president reportedly says Kyiv would accept a deal if Moscow does after US president posts announcement with no detail on social media Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’ Sign up for the US Breaking News email The…",
-   "published": "2026-10-11T16:22:50+00:00"
+   "summary": "Democratic Senate candidate’s remarks come as Trump has long baselessly claimed his 2020 election loss was stolen Democrats must “win by massive numbers” during November’s federal midterm elections because Donald Trump and his Republican allies are bound to try to sow doubt…",
+   "published": "2026-10-11T17:23:28+00:00"
+  },
+  {
+   "id": "a49756c40c1d",
+   "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
+   "link": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukrainian president earlier rejected US call for Kyiv to stop bombing oil refineries, saying Moscow must first end attacks on energy infrastructure US politics – live updates Donald Trump has announced an energy ceasefire between Ukraine and Russia, apparently without…",
+   "published": "2026-10-11T17:21:39+00:00"
+  },
+  {
+   "id": "c35dc86ebe75",
+   "title": "‘Who will represent us?’ Palestinians react to election delay",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Palestinians have reacted to President Mahmoud Abbas’ decision to postpone the Palestinian legislative elections.",
+   "published": "2026-10-11T17:09:19+00:00"
+  },
+  {
+   "id": "f93d8903bd91",
+   "title": "Turkiye highway crash kills 11, injures 27 after tour bus hits truck",
+   "link": "https://www.aljazeera.com/news/2026/10/11/turkiye-highway-crash-kills-11-injures-27-after-tour-bus-hits-truck?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police detain tour bus driver after highway collision in western Turkiye leaves 11 dead and 27 injured.",
+   "published": "2026-10-11T17:06:09+00:00"
   },
   {
    "id": "930efb8254ec",
-   "title": "Middle East crisis live: Riyadh airport hit again as Houthis claim responsibility for attack that killed 12",
+   "title": "Middle East crisis live: Riyadh airport hit again as Houthis claim attacks, including strike that killed 12",
    "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Statement claims strikes against Dammam airport and Saudi Aramco facilities but it is unclear if group also claims today’s reported attack Some more Gulf reaction to Houthi’s deadly airport attack and continued threats to target Saudi airspace. In a significant message, the…",
-   "published": "2026-10-11T16:18:45+00:00"
+   "summary": "Houthi military spokesman says Iran-backed group carried out several targeted attacks Some more Gulf reaction to Houthi’s deadly airport attack and continued threats to target Saudi airspace. In a significant message, the United Arab Emirates has issued a statement in…",
+   "published": "2026-10-11T17:02:17+00:00"
+  },
+  {
+   "id": "2a5d507a8652",
+   "title": "Volkswagen boss backs EU plan to bolster domestic European industry",
+   "link": "https://www.theguardian.com/business/2026/oct/11/volkswagen-boss-backs-eu-plan-to-boost-domestic-european-industry",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Oliver Blume says ‘Made in Europe’ rules to counter rapid rise of lower-price Chinese brands ‘must reward real value creation’ The boss of Volkswagen has backed EU proposals to boost its domestic industry, arguing European carmakers need to be able to “compete under comparable…",
+   "published": "2026-10-11T16:53:01+00:00"
   },
   {
    "id": "1b0d7222026b",
-   "title": "Riyadh airport hit for second time after deadly Houthi missile attack, Saudi-led coalition says",
+   "title": "Riyadh airport hit again after deadly Houthi missile attack, Saudi authorities say",
    "link": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Unidentified projectile strikes King Khalid airport as escalating attacks threaten to draw more countries into Yemen conflict Middle East crisis live – latest updates Analysis: attack will force rethink of Trump strategy A projectile hit a passenger terminal at the airport in…",
-   "published": "2026-10-11T16:11:14+00:00"
+   "published": "2026-10-11T16:49:05+00:00"
+  },
+  {
+   "id": "77550788912f",
+   "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine ‘energy ceasefire’ but would back it if Moscow does – live updates",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine’s president reportedly says Kyiv would accept a deal if Moscow does after US president posts announcement with no detail on social media Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’ Sign up for the US Breaking News email The…",
+   "published": "2026-10-11T16:46:55+00:00"
+  },
+  {
+   "id": "a4f40d791855",
+   "title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
+   "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Yemeni group says it carried out attacks that killed 13 people over the weekend and targeted two airports and oil facilities.",
+   "published": "2026-10-11T16:41:37+00:00"
+  },
+  {
+   "id": "845f1f4cf08c",
+   "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
+   "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026.",
+   "published": "2026-10-11T16:35:00+00:00"
+  },
+  {
+   "id": "70e77269e4d9",
+   "title": "Football fans speak about City’s charges as they face Liverpool",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/football-fans-speak-about-citys-charges-as-they-face-liverpool?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fans have been speaking to Al Jazeera as Liverpool face Manchester City at Anfield.",
+   "published": "2026-10-11T16:18:45+00:00"
   },
   {
    "id": "1cba9a8063d1",
@@ -173,15 +272,15 @@
    "published": "2026-10-11T16:01:25+00:00"
   },
   {
-   "id": "a49756c40c1d",
-   "title": "Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’",
-   "link": "https://www.theguardian.com/world/2026/oct/11/zelenskyy-trump-ukraine-russia-energy-ceasefire",
-   "source": "The Guardian World",
+   "id": "420ab431d349",
+   "title": "At least five people missing as flash floods in Nepal sweep away houses",
+   "link": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Ukrainian president earlier rejected US call for Kyiv to stop bombing oil refineries, saying Moscow must first end attacks on energy infrastructure US politics – live updates Donald Trump has announced an energy ceasefire between Ukraine and Russia, apparently without…",
-   "published": "2026-10-11T15:56:29+00:00"
+   "summary": "Authorities urge villagers to move to safer places after a river in the central part of the country bursts its banks.",
+   "published": "2026-10-11T16:00:48+00:00"
   },
   {
    "id": "425a28bdae88",
@@ -191,7 +290,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Analysts say fuel will take weeks to ship and quantity is too small to affect prices, while full deal is unlikely to be met given damage to Russian refineries Zelenskyy rejects Trump claim of Ukraine-Russia ‘energy ceasefire’ Donald Trump’s deal with Vladimir Putin to…",
+   "summary": "Analysts say fuel will take weeks to ship and quantity is too small to affect prices, while full deal is unlikely to be met given damage to Russian refineries Trump announces partial ceasefire but Zelenskyy says deal is ‘news to me’ Donald Trump’s deal with Vladimir Putin to…",
    "published": "2026-10-11T15:56:25+00:00"
   },
   {
@@ -218,13 +317,13 @@
   },
   {
    "id": "e66dbca8e8f5",
-   "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+   "title": "Riyadh airport attacks another dangerous moment in already tense conflict",
    "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+   "summary": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering.",
    "published": "2026-10-11T15:32:32+00:00"
   },
   {
@@ -743,6 +842,17 @@
    "flourishing_feed": false,
    "summary": "Kipchoge is attempting ⁠⁠to run a marathon on all seven ​continents over two years as part of his 'World Tour' campaign.",
    "published": "2026-10-11T12:04:54+00:00"
+  },
+  {
+   "id": "1998a0d8bfbe",
+   "title": "Justice Department investigates TV networks, citing possible anti-trust violations",
+   "link": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House.",
+   "published": "2026-10-11T12:04:00+00:00"
   },
   {
    "id": "a76b56ec58c6",
@@ -1901,13 +2011,13 @@
   },
   {
    "id": "3581328646f8",
-   "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+   "title": "Passenger terminal at Riyadh airport is struck again, a day after 12 were killed",
    "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
    "source": "NPR News",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300. Their statement says the dead on Saturday included four Saudi citizens as well as two Bangladeshi nationals, a Palestinian, a U.S. citizen, an…",
+   "summary": "A projectile struck a passenger terminal at the international airport in Riyadh on Sunday, a day after a missile hit the same terminal and killed 12 people, officials said.",
    "published": "2026-10-10T23:44:15+00:00"
   },
   {
@@ -2304,17 +2414,6 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
-   "published": "2026-10-10T19:44:00+00:00"
-  },
-  {
-   "id": "845f1f4cf08c",
-   "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
-   "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "There will be no Medicare Advantage plans in 181 counties in 2027, up from 67 in 2026.",
    "published": "2026-10-10T19:44:00+00:00"
   },
   {
