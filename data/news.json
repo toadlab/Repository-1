@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T14:30:39.099232+00:00",
+ "generated": "2026-10-11T15:30:30.016700+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,81 @@
  ],
  "items": [
   {
+   "id": "77550788912f",
+   "title": "Zelenskyy rejects Trump claim of Ukraine and Russia ‘energy ceasefire’ – live updates",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine’s president says Kyiv would accept a deal if Moscow does after US president posts announcement with no detail on social media Donald Trump’s call for Zelenskyy to make way for a new Ukrainian leader drew criticism from his own party. Don Bacon , a Republican Nebraska…",
+   "published": "2026-10-11T15:22:06+00:00"
+  },
+  {
+   "id": "14570dd0460a",
+   "title": "Poland stabbings driven by online glorification of violence, Tusk says",
+   "link": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The PM was speaking after violent attacks at Polish schools this week left one dead and others injured.",
+   "published": "2026-10-11T15:18:52+00:00"
+  },
+  {
+   "id": "873785e53782",
+   "title": "Andy Burnham says it is clear Russia interfered in Brexit vote",
+   "link": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "PM says he asked question upon entering No 10 but does not reveal who gave him ‘clear answer’ that Russia meddled Andy Burnham has said it is clear Russia interfered in the Brexit referendum, after seeking answers on the Kremlin’s involvement in the 2016 vote when he entered…",
+   "published": "2026-10-11T15:15:43+00:00"
+  },
+  {
    "id": "930efb8254ec",
-   "title": "Middle East crisis live: Houthi media reports strike on airport in Sana’a after deadly Riyadh attack",
+   "title": "Middle East crisis live: Riyadh airport reportedly hit again, day after deadly attack that killed 12",
    "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Saudi-backed government forces earlier said they would ‘respond decisively’ to the attack on Riyadh airport terminals Some more Gulf reaction to Houthi’s deadly airport attack and continued threats to target Saudi airspace. In a significant message, the United Arab Emirates has…",
-   "published": "2026-10-11T14:16:11+00:00"
+   "summary": "A Saudi-led coalition spokesperson said that a projectile hit a passenger terminal building, causing a fire Some more Gulf reaction to Houthi’s deadly airport attack and continued threats to target Saudi airspace. In a significant message, the United Arab Emirates has issued a…",
+   "published": "2026-10-11T15:09:05+00:00"
+  },
+  {
+   "id": "bc1a0218272b",
+   "title": "Zack Polanski signals Green party overhaul after row over Zionism vote",
+   "link": "https://www.theguardian.com/politics/2026/oct/11/zack-polanski-signals-green-party-overhaul-after-row-over-zionism-vote",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rapid growth means structures need to change and give leaders greater control, Polanski says in Guardian article Zack Polanski: How we’re transforming British politics Zack Polanski has signalled a potential overhaul of the Green party’s cherished grassroots democracy, calling…",
+   "published": "2026-10-11T15:00:29+00:00"
+  },
+  {
+   "id": "ff1c46ac8c48",
+   "title": "Opinion: Bad information about SNAP leads to bad policy",
+   "link": "https://www.deseret.com/opinion/2026/10/11/snap-bad-information-leads-to-bad-policy/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Supplemental Nutrition Assistance Program (SNAP) is the nation’s largest anti-hunger program that helps tens of millions of people — including 142,000 in Utah — afford to keep food on the table. In addition to reducing food insecurity, it also improves health outcomes,…",
+   "published": "2026-10-11T15:00:00+00:00"
+  },
+  {
+   "id": "5249fedfd7eb",
+   "title": "Pope Leo to undergo surgery to remove lung nodule",
+   "link": "https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 71-year-old spiritual leader informed pilgrims during his weekly Sunday blessing at St Peter's Square.",
+   "published": "2026-10-11T14:59:38+00:00"
   },
   {
    "id": "a092eb37edbd",
@@ -148,7 +214,62 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Parra-Hernandez suffered a broken leg and taken to a hospital after being hit by car during an ICE operation An Immigration and Customs Enforcement ( ICE ) agent driving a vehicle struck a man on Saturday while trying to pursue him and someone else in the Houston area,…",
-   "published": "2026-10-11T14:13:55+00:00"
+   "published": "2026-10-11T14:54:52+00:00"
+  },
+  {
+   "id": "513ca2cce09f",
+   "title": "Houthis, Saudis exchange strikes on airports as Mideast conflict intensifies",
+   "link": "https://www.csmonitor.com/World/Middle-East/2026/1011/houthis-saudi-arabia-yemen-airport-attack-iran?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Iran-backed Houthis in Yemen accuse Saudi Arabia of striking the rebel-held airport in Sanaa. This accusation comes amid escalating clashes between the Houthis and Saudi-backed forces.",
+   "published": "2026-10-11T14:51:46+00:00"
+  },
+  {
+   "id": "56c1dab03b8f",
+   "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+   "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
+   "published": "2026-10-11T14:38:10+00:00"
+  },
+  {
+   "id": "1d73f868c5c4",
+   "title": "Oval Office spat to public rebukes: A timeline of Trump-Zelenskyy ties",
+   "link": "https://www.aljazeera.com/news/2026/10/11/oval-office-spat-to-public-rebukes-a-timeline-of-trump-zelenskyy-ties?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump has long criticised US military support for Ukraine and has lambasted Zelenskyy since his first term.",
+   "published": "2026-10-11T14:34:15+00:00"
+  },
+  {
+   "id": "283e7fd84c69",
+   "title": "Why are Houthi missiles breaking through Saudi Arabia’s air defences?",
+   "link": "https://www.aljazeera.com/news/2026/10/11/why-are-houthi-missiles-breaking-through-saudi-arabias-air-defences?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Repeated Houthi attacks on Saudi Arabia's King Khalid Airport reveal the limitations of even high-tech air defences.",
+   "published": "2026-10-11T14:25:03+00:00"
+  },
+  {
+   "id": "1b0d7222026b",
+   "title": "Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport",
+   "link": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Official says coalition will ‘respond firmly’ as Houthis warn people to avoid Saudi airports and US considers intervening Middle East crisis live – latest updates Analysis: attack will force rethink of Trump strategy The Saudi-led coalition in Yemen has vowed to retaliate after…",
+   "published": "2026-10-11T14:23:34+00:00"
   },
   {
    "id": "471efb0fbe6f",
@@ -257,7 +378,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Ed Miliband offers ‘deepest condolences’ to family of the visitor who entered animal enclosure on Saturday A wildlife park in Yorkshire has confirmed the tiger that mauled to death a man who entered its enclosure will not be euthanised. A man, who has not yet been named, was…",
+   "summary": "Ed Miliband, whose constituency includes the park, offers ‘deepest condolences’ to family of visitor who entered enclosure on Saturday A wildlife park in Yorkshire has confirmed the tiger that mauled to death a man who entered its enclosure will not be euthanised. A man, who…",
    "published": "2026-10-11T13:48:21+00:00"
   },
   {
@@ -334,7 +455,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "US president’s plan to park the wars in Iran and Yemen, while blaming Ukraine for high diesel prices, looks unsustainable Middle East crisis live - latest updates The reckless missile attack on King Khalid international airport in Riyadh on Saturday did not just export the…",
+   "summary": "US president’s plan to park the wars in Iran and Yemen, while blaming Ukraine for diesel prices, looks unsustainable Middle East crisis live - latest updates The reckless missile attack on King Khalid international airport in Riyadh on Saturday did not just export the death and…",
    "published": "2026-10-11T13:23:02+00:00"
   },
   {
@@ -391,17 +512,6 @@
    "flourishing_feed": false,
    "summary": "Pope Leo XIV said he would undergo surgery after doctors found a \"localized nodule\" in his lung.",
    "published": "2026-10-11T12:54:25+00:00"
-  },
-  {
-   "id": "56c1dab03b8f",
-   "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
-   "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.",
-   "published": "2026-10-11T12:50:46+00:00"
   },
   {
    "id": "58211d972acc",
@@ -61991,17 +62101,6 @@
    "flourishing_feed": false,
    "summary": "Indiana students will continue competing in National History Day under a new statewide sponsor after the Indiana Historical Society abruptly dropped the longstanding program in July. Indiana Humanities announced Thursday that it will become the state affiliate for the national…",
    "published": "2026-08-27T16:00:07+00:00"
-  },
-  {
-   "id": "9a8c879e2973",
-   "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
-   "source": "Federal Reserve",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
-   "published": "2026-08-27T15:00:00+00:00"
   }
  ]
 }
