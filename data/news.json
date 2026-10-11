@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T11:29:41.431427+00:00",
+ "generated": "2026-10-11T12:36:48.907260+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 33
+   "count": 35
   },
   {
    "name": "The Guardian World",
@@ -137,7 +137,293 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
-   "published": "2026-10-11T11:27:51+00:00"
+   "published": "2026-10-11T12:32:23+00:00"
+  },
+  {
+   "id": "7bb634f5f941",
+   "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
+   "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I presume these are sophisticated investors taking a profit.”",
+   "published": "2026-10-11T12:30:00+00:00"
+  },
+  {
+   "id": "7ca7696e2a86",
+   "title": "Richard E Grant admits Traitors mistakes: ‘I never thought they would take me seriously’",
+   "link": "https://www.theguardian.com/tv-and-radio/2026/oct/11/richard-e-grant-celebrity-traitors-mistakes",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Actor says he should have made a joke of his admission, he felt institutionalised there and he is not watching the series Richard E Grant has said his early exit from The Celebrity Traitors was due to his failure to realise his fellow contestants would take him seriously. The…",
+   "published": "2026-10-11T12:15:32+00:00"
+  },
+  {
+   "id": "4b42eb412218",
+   "title": "Hurricane Simon nears Mexico with 155 mph winds and flooding fears",
+   "link": "https://www.npr.org/2026/10/11/nx-s1-5998022/hurricane-simon-nears-mexico-155-mph-winds-flooding-fears",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The eye of Hurricane Simon was just off the Pacific coast of Mexico early Sunday and was expected to move inland later in the day as an extremely powerful storm.",
+   "published": "2026-10-11T12:10:54+00:00"
+  },
+  {
+   "id": "7539fc2ab1d7",
+   "title": "Polish police probe alleged plot to assassinate PM Tusk, defence minister",
+   "link": "https://www.aljazeera.com/news/2026/10/11/poland-police-probe-alleged-plot-to-assassinate-pm-tusk-defence-minister?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Security officials hold emergency meeting after police receive information about potential attack.",
+   "published": "2026-10-11T12:09:54+00:00"
+  },
+  {
+   "id": "75b455dbe9e5",
+   "title": "Children among 109 dead after boat capsizes off Djibouti, UN says",
+   "link": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The boat was travelling from Djibouti to Yemen with 350 people on board, when it capsized near the port town of Obock on Thursday night.",
+   "published": "2026-10-11T12:08:20+00:00"
+  },
+  {
+   "id": "c53e506b7397",
+   "title": "Your kid wants to go vegan. Should you let them?",
+   "link": "https://www.vox.com/future-perfect/505747/kid-moral-choices-vegan-parenting",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hi readers! Shayla Love here, science journalist and longtime fan of Your Mileage May Vary. I’m honored to be subbing for Sigal Samuel while she’s out on parental leave. I’m diving into your questions as a way to help understand human nature and our choices through multiple…",
+   "published": "2026-10-11T12:05:52+00:00"
+  },
+  {
+   "id": "6fc2f67d9c11",
+   "title": "Kenya’s Eliud Kipchoge wins his first marathon in three years in Melbourne",
+   "link": "https://www.aljazeera.com/sports/2026/10/11/kenyas-eliud-kipchoge-wins-his-first-marathon-in-three-years-in-melbourne?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Kipchoge is attempting ⁠⁠to run a marathon on all seven ​continents over two years as part of his 'World Tour' campaign.",
+   "published": "2026-10-11T12:04:54+00:00"
+  },
+  {
+   "id": "a76b56ec58c6",
+   "title": "Homes and bridges swept away as fresh floods hit Nepal",
+   "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+   "published": "2026-10-11T12:03:52+00:00"
+  },
+  {
+   "id": "2b47e42b4e51",
+   "title": "People smugglers are still profiting from small boats. Can the UK fix the crisis?",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/11/people-smugglers-profit-small-boats-can-uk-fix-crisis",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As ‘one in, one out’ scheme ends, refugees still want to cross the Channel despite French police aggression and hostile welcomes The smuggler works quickly. Using a small shovel, he digs up a dinghy buried in a sand dune on a beach not far from Boulogne-sur-Mer, assembles it…",
+   "published": "2026-10-11T12:00:27+00:00"
+  },
+  {
+   "id": "e11359f5fd29",
+   "title": "There’s more to our music than Oasis, says Manchester mayor",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/11/bev-craig-manchester-music-oasis",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bev Craig pledges £2m in funding to nurture local artists by improving access to rehearsal and production space The Manchester mayor, Bev Craig, has said the city’s music scene is about more than just Oasis, as she announced funding to nurture a diverse range of local artists,…",
+   "published": "2026-10-11T12:00:27+00:00"
+  },
+  {
+   "id": "18c89880fbcc",
+   "title": "US maternity wards face wave of closures as Medicaid cuts kick in",
+   "link": "https://www.theguardian.com/us-news/2026/oct/11/medicaid-cuts-maternity-wards",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump’s ‘big, beautiful bill’ spending cuts will be fully felt next year, but hospitals are already feeling the squeeze Maternity wards across the United States are facing a wave of closures as cuts to federal Medicaid funding take effect, experts have warned. According to…",
+   "published": "2026-10-11T12:00:26+00:00"
+  },
+  {
+   "id": "be2d6d26c155",
+   "title": "Physicians’ group calls for ban on raw milk – as it’s becoming increasingly popular in the US",
+   "link": "https://www.theguardian.com/world/2026/oct/11/physicians-group-raw-milk-ban",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As raw milk industry experiences record growth, experts say it might contain pathogens that can sicken people As raw milk becomes increasingly popular among Americans, there have been several recent disease outbreaks tied to the product, alarming public health officials. Last…",
+   "published": "2026-10-11T12:00:26+00:00"
+  },
+  {
+   "id": "4e18150c9776",
+   "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+   "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
+   "published": "2026-10-11T12:00:00+00:00"
+  },
+  {
+   "id": "c83b48114571",
+   "title": "Don't be scared: Being afraid is outright fun, and maybe useful",
+   "link": "https://www.npr.org/2026/10/11/nx-s1-5973128/dont-be-scared-being-afraid-is-outright-fun-and-maybe-useful",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Listeners of NPR's Weekend Edition Sunday may already know that host Ayesha Rascoe loves horror. But why do scream queens (and kings) like her like what's frightening? The answer may surprise you.",
+   "published": "2026-10-11T12:00:00+00:00"
+  },
+  {
+   "id": "2138cfa7621d",
+   "title": "The company behind Skittles might be to blame for your big vet bills",
+   "link": "https://www.vox.com/explain-it-to-me/505163/pet-insurance-veterinary-care-expensive-private-equity",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Whenever I have dinner with friends, the conversation always ends up on one of three topics: how hard dating is, the hunt for affordable housing, or an update on everyone’s pets. The last on that list includes cute photos and veterinarian updates. I love hearing about my…",
+   "published": "2026-10-11T12:00:00+00:00"
+  },
+  {
+   "id": "b03d7520d841",
+   "title": "Retiring Abroad Sounded Good — Until I Realized What I’d Be Giving Up",
+   "link": "https://www.kiplinger.com/retirement/retirement-planning/why-i-decided-to-age-in-place",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "From healthcare logistics to social ties, here's why staying in my longtime home won out over a tropical move.",
+   "published": "2026-10-11T12:00:00+00:00"
+  },
+  {
+   "id": "c66c960894b2",
+   "title": "Rate Hikes Are Back: What It Means for Retirees",
+   "link": "https://www.kiplinger.com/retirement/retirement-planning/what-rate-hike-means-for-retirees",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Retirees could take advantage of better yields on cash and annuities while paying down variable debt and navigating a tougher housing market.",
+   "published": "2026-10-11T12:00:00+00:00"
+  },
+  {
+   "id": "ff597524c5fb",
+   "title": "Bank earnings to shed the first light on how higher yields are affecting the economy",
+   "link": "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The big banks kick off earnings season on Tuesday, to provide a first read on the health of the economy in a rising-yield environment.",
+   "published": "2026-10-11T12:00:00+00:00"
+  },
+  {
+   "id": "bb38e5b6ba75",
+   "title": "Liverpool vs Man City live: Premier League",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/11/live-liverpool-vs-manchester-city-premier-league-football?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow updates from the clash at Anfield, including the build-up, analysis and live text commentary of the game.",
+   "published": "2026-10-11T11:58:30+00:00"
+  },
+  {
+   "id": "76c5306a56ec",
+   "title": "Pope Leo to have surgery to remove nodule on his lung",
+   "link": "https://www.theguardian.com/world/2026/oct/11/pope-leo-surgery-remove-nodule-lung",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pontiff says it was detected at an early stage and procedure will take place in the coming days Pope Leo XIV has said he will undergo surgery in the coming days to remove a nodular lesion on his lung that was recently discovered during medical checks. The 71-year-old said the…",
+   "published": "2026-10-11T11:55:26+00:00"
+  },
+  {
+   "id": "660b0e50d16a",
+   "title": "Trump’s brash remarks entertain crowd at election rally in Tennessee",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/trumps-brash-remarks-entertain-crowd-at-election-rally-in-tennessee?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US President Donald Trump told his supporters they would applaud anything he says.",
+   "published": "2026-10-11T11:42:50+00:00"
+  },
+  {
+   "id": "a58de102d4aa",
+   "title": "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
+   "link": "https://www.aljazeera.com/news/2026/10/11/at-least-109-dead-over-100-missing-as-migrant-boat-capsizes-off-djibouti?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Search and rescue operations conducted after vessel carrying more than 300 people capsizes near Guhere.",
+   "published": "2026-10-11T11:34:40+00:00"
+  },
+  {
+   "id": "930efb8254ec",
+   "title": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
+   "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US president Donald Trump says he is weighing whether the US will join Saudi strikes against the Iran-backed Houthis The Guardian’s diplomatic correspondent Patrick Wintour has offered some context on the latest between the Houthis and the Saudi kingdom. Saturday’s incident…",
+   "published": "2026-10-11T11:34:25+00:00"
+  },
+  {
+   "id": "e66dbca8e8f5",
+   "title": "Riyadh airport attack another dangerous moment in already tense conflict",
+   "link": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Houthis have stepped up their attacks on Saudi Arabian soil, and while the physical damage can be quickly repaired, its reputation for stability is taking a battering.",
+   "published": "2026-10-11T11:32:50+00:00"
+  },
+  {
+   "id": "de7e19594aaf",
+   "title": "The scramble to rewrite Biden’s record on Gaza",
+   "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/11/the-scramble-to-rewrite-bidens-record-on-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former Biden officials are offering their accounts of the Gaza war. Is this a coming clean or revisionism?",
+   "published": "2026-10-11T11:29:48+00:00"
+  },
+  {
+   "id": "4b3e66090cf9",
+   "title": "A heroic, 7-day bike ride made this teen a global star. Where is she now?",
+   "link": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Her epic ride — carrying her injured dad on her $20 hot pink bicycle — made headlines. Promises were made — financial help, training for a cycling career, even a movie deal. Were any of them kept?",
+   "published": "2026-10-11T11:28:15+00:00"
   },
   {
    "id": "a81b53d273aa",
@@ -160,17 +446,6 @@
    "flourishing_feed": false,
    "summary": "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.",
    "published": "2026-10-11T11:11:42+00:00"
-  },
-  {
-   "id": "930efb8254ec",
-   "title": "Middle East crisis live: Houthis warn passengers against using Saudi airport after deadly attack on Riyadh",
-   "link": "https://www.theguardian.com/world/live/2026/oct/11/saudi-arabia-riyadh-airport-houthis-yemen-attack-blockade-trump-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "US president Donald Trump says he is weighing whether the US will join Saudi strikes against the Iran-backed Houthis The Houthi’s foreign ministry in Yemen has also put out a statement being carried by Houthi media. They threatened again that continued Saudi military action in…",
-   "published": "2026-10-11T11:02:59+00:00"
   },
   {
    "id": "a3c105977d09",
@@ -246,7 +521,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Saudi coalition blames Houthi group for the missile strike on the main international airport in Riyadh.",
+   "summary": "Saudi coalition blames Houthi group for the missile attack on the main international airport in Riyadh.",
    "published": "2026-10-11T10:45:15+00:00"
   },
   {
@@ -603,7 +878,7 @@
   },
   {
    "id": "53ef4c91af64",
-   "title": "Analysis: No. 12 Utah’s clutch 4th quarter sealed the win over Kansas, but the Utes have things to clean up",
+   "title": "Analysis: No. 12 Utah’s clutch 4th quarter sealed win over Kansas, but Utes have things to clean up",
    "link": "https://www.deseret.com/sports/2026/10/11/utah-utes-kansas-jayhawks-analysis/",
    "source": "Deseret News",
    "circle_hint": "national",
@@ -1746,17 +2021,6 @@
    "published": "2026-10-10T18:38:01+00:00"
   },
   {
-   "id": "7bb634f5f941",
-   "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-   "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I presume these are sophisticated investors taking a profit.”",
-   "published": "2026-10-10T18:31:00+00:00"
-  },
-  {
    "id": "a4faeadd3ce0",
    "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
    "link": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
@@ -1975,17 +2239,6 @@
    "flourishing_feed": false,
    "summary": "Storm damage stretches across Florida and Alabama as officials warn of continued flooding and possible tornadoes.",
    "published": "2026-10-10T15:45:36+00:00"
-  },
-  {
-   "id": "4e18150c9776",
-   "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-   "link": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
-   "published": "2026-10-10T15:30:00+00:00"
   },
   {
    "id": "5e378862759b",
