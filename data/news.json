@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-10T23:28:17.709764+00:00",
+ "generated": "2026-10-11T00:41:26.783104+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 30
+   "count": 32
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,116 @@
  ],
  "items": [
   {
+   "id": "e4256e6327a7",
+   "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
+   "published": "2026-10-11T00:21:52+00:00"
+  },
+  {
+   "id": "6cb06e860cb6",
+   "title": "Five people shot and killed in apparent murder-suicide, Georgia police say",
+   "link": "https://www.theguardian.com/us-news/2026/oct/10/douglas-georgia-shooting-deaths",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Deceased were all members of the same family, officials say, and one of victims placed the initial emergency call Five people were shot and killed in an apparent murder-suicide at a residence in Georgia on Friday, authorities say. The deceased were family members who lived at…",
+   "published": "2026-10-11T00:01:55+00:00"
+  },
+  {
+   "id": "4e38db94c214",
+   "title": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
+   "published": "2026-10-11T00:00:13+00:00"
+  },
+  {
+   "id": "59ab3831823f",
+   "title": "Written for a grandson, new hymn ‘Close as a Quiet Prayer’ teaches truth to all children",
+   "link": "https://www.deseret.com/faith/2026/10/10/church-news-close-as-a-quiet-prayer-new-hymn/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "When Sally DeFord’s son was young, he received a poster in Primary that said something like: “I am a child of God. I know Heavenly Father loves me, and I love Him. I can pray to Heavenly Father anytime, anywhere. I am trying to remember and follow Jesus Christ.” DeFord said her…",
+   "published": "2026-10-10T23:53:00+00:00"
+  },
+  {
+   "id": "3581328646f8",
+   "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+   "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300. Their statement says the dead on Saturday included four Saudi citizens as well as two Bangladeshi nationals, a Palestinian, a U.S. citizen, an…",
+   "published": "2026-10-10T23:44:15+00:00"
+  },
+  {
+   "id": "a9e39812979f",
+   "title": "No. 12 Utah vs. Kansas live coverage",
+   "link": "https://www.deseret.com/sports/2026/10/10/utah-vs-kansas-live-coverage/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "How to watch the game Utah’s matchup with Iowa State will be televised on ESPNews and streamed on the ESPN app . The game kicks off at 6:00 p.m. MDT. Pregame prep Here are a few stories to get you ready for the game between the Utes and Jayhawks. No. 12 Utes, Morgan Scalley…",
+   "published": "2026-10-10T23:37:42+00:00"
+  },
+  {
+   "id": "6c4b509c4c00",
+   "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
+   "link": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Donald Trump evaluating whether US should join Saudi strikes against the Iran-backed Yemeni rebels Yemen’s Houthis have launched a missile attack on Riyadh’s international airport in Saudi Arabia, killing at least 12 people and leaving hundreds wounded, the Saudi Civil Aviation…",
+   "published": "2026-10-10T23:37:27+00:00"
+  },
+  {
+   "id": "54db47b12e2b",
+   "title": "Inside the room: What it was like to be with Blackpink's Lisa as race scandal erupted",
+   "link": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Film-maker Sue Kim talks about having unprecedented access to K-Pop idol Lisa Manobal at her most candid.",
+   "published": "2026-10-10T23:31:35+00:00"
+  },
+  {
+   "id": "12e9c2784fff",
+   "title": "Nine people, including children, dead after mass shooting in Pennsylvania",
+   "link": "https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Authorities say suspect among dead in house after standoff with police in Erie and there is no ongoing threat A man fatally shot eight people, including a pregnant woman and children, at a Pennsylvania residence on Friday before killing himself, police say. The victims have not…",
+   "published": "2026-10-10T23:24:52+00:00"
+  },
+  {
+   "id": "7c2a1b22d32a",
+   "title": "Four dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
+   "link": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Some of deaths came from falling trees as half a million people without power and rain and flooding still a concern At least four people were reported dead on Saturday amid Isaias after it made landfall late on Friday on Florida’s panhandle as a category 2 hurricane, according…",
+   "published": "2026-10-10T23:20:32+00:00"
+  },
+  {
    "id": "b2308317d69b",
    "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
    "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
@@ -160,17 +270,6 @@
    "flourishing_feed": false,
    "summary": "Liverpool face Manchester City on Sunday in what has become a battle between the EPL's dominant teams in recent times.",
    "published": "2026-10-10T22:43:08+00:00"
-  },
-  {
-   "id": "e4256e6327a7",
-   "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-   "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
-   "published": "2026-10-10T22:40:56+00:00"
   },
   {
    "id": "d9c6e3b3cffe",
@@ -215,6 +314,17 @@
    "flourishing_feed": false,
    "summary": "Pike's attorneys say she is grateful for the care of first responders and her medical team.",
    "published": "2026-10-10T22:15:04+00:00"
+  },
+  {
+   "id": "a81bcb82f0c3",
+   "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+   "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+   "published": "2026-10-10T22:13:08+00:00"
   },
   {
    "id": "cedd4f8e5f1a",
@@ -613,17 +723,6 @@
    "published": "2026-10-10T19:23:26+00:00"
   },
   {
-   "id": "7c2a1b22d32a",
-   "title": "Four dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
-   "link": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Some of deaths came from falling trees as half a million people are without power and rain and flooding remain a concern At least four people were reported dead on Saturday amid Isaias after it made landfall late on Friday on Florida’s panhandle as a category 2 hurricane,…",
-   "published": "2026-10-10T19:08:54+00:00"
-  },
-  {
    "id": "4c9922ef77c9",
    "title": "US man shoots off-duty ICE agent who allegedly attacked him and daughter",
    "link": "https://www.theguardian.com/us-news/2026/oct/10/california-man-72-shoots-ice-officer-fresno-off-duty",
@@ -653,7 +752,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Labor is running out of time to make its case to Australian families about how they are going to make childcare accessible and affordable for all Get our new political email , free app or daily news podcast Rachel Hill, a mother of two from Sydney, explains the maths of family…",
+   "summary": "Labor is running out of time to make its case to Australian families about how it is going to make childcare accessible and affordable for all Get our new political email , free app or daily news podcast Rachel Hill, a mother of two from Sydney, explains the maths of family…",
    "published": "2026-10-10T19:00:07+00:00"
   },
   {
@@ -932,28 +1031,6 @@
    "published": "2026-10-10T16:00:00+00:00"
   },
   {
-   "id": "6c4b509c4c00",
-   "title": "Twelve killed and hundreds injured in Houthi attack at Riyadh airport",
-   "link": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Donald Trump says he is evaluating whether the US should join Saudi strikes against the Iran-backed Yemeni rebels Yemen’s Houthis have launched a missile attack on Riyadh’s international airport in Saudi Arabia, killing at least 12 people and leaving hundreds wounded, the Saudi…",
-   "published": "2026-10-10T15:54:12+00:00"
-  },
-  {
-   "id": "12e9c2784fff",
-   "title": "Nine people, including children, dead after mass shooting in Pennsylvania",
-   "link": "https://www.theguardian.com/us-news/2026/oct/10/nine-people-mass-shooting-pennsylvania",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Authorities say suspect among dead in house after standoff with police in Erie and there is no ongoing threat Nine people, including children, died in a mass murder on Friday in Erie, Pennsylvania , after a gun-wielding attacker opened fire outside a home and then entered the…",
-   "published": "2026-10-10T15:45:45+00:00"
-  },
-  {
    "id": "5321981e79c7",
    "title": "Hurricane Isaias: Four dead and thousands without power in US Southeast",
    "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss",
@@ -1172,6 +1249,17 @@
    "flourishing_feed": false,
    "summary": "You don't need a million dollars to transform your finances and set yourself up for retirement.",
    "published": "2026-10-10T14:15:00+00:00"
+  },
+  {
+   "id": "049bdfe4b56e",
+   "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
+   "link": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms.",
+   "published": "2026-10-10T14:13:13+00:00"
   },
   {
    "id": "355b8be77575",
