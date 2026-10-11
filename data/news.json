@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T20:30:22.196623+00:00",
+ "generated": "2026-10-11T21:30:36.671173+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,116 @@
  ],
  "items": [
   {
+   "id": "a4f40d791855",
+   "title": "Saudi capital airport hit by second Houthi strike in two days",
+   "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+   "published": "2026-10-11T21:30:11+00:00"
+  },
+  {
+   "id": "562edc058b93",
+   "title": "Politics live: Greens call for US execution live stream to be blocked; Frydenberg doesn’t rule out politics return",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Labor not watering down trust tax bill, says Mulino The assistant treasurer, Daniel Mulino , says Labor is not watering down proposed changes to put a minimum 30% tax on discretionary…",
+   "published": "2026-10-11T21:19:10+00:00"
+  },
+  {
+   "id": "8fc810011682",
+   "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+   "link": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
+   "published": "2026-10-11T21:12:44+00:00"
+  },
+  {
+   "id": "6b893681dde5",
+   "title": "Waves crash into homes as excavators try to protect California properties",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/waves-crash-into-homes-as-excavators-try-to-protect-california-properties?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Construction crews were seen trying to block waves entering homes along California's coast",
+   "published": "2026-10-11T21:03:41+00:00"
+  },
+  {
+   "id": "969661c31484",
+   "title": "UK Greens leader seeks rule change after party declares Zionism is racism",
+   "link": "https://www.aljazeera.com/news/2026/10/11/uk-greens-leader-seeks-rule-change-after-party-declares-zionism-is-racism?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Zack Polanski calls for internal rule reforms to give party leaders greater control over policy after Zionism vote.",
+   "published": "2026-10-11T20:57:48+00:00"
+  },
+  {
+   "id": "4dd4779052a4",
+   "title": "Two killed near Israeli-occupied area in south Lebanon",
+   "link": "https://www.aljazeera.com/news/2026/10/11/two-killed-near-israeli-occupied-area-in-south-lebanon?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Despite ceasefire reached between Israel and Lebanon in June, Israeli attacks continue.",
+   "published": "2026-10-11T20:46:45+00:00"
+  },
+  {
+   "id": "3471c18fd6ed",
+   "title": "Deadly air strike kills dozens at Sudan gold mine near Egypt border",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/deadly-air-strike-kills-dozens-at-sudan-gold-mine-near-egypt-border?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An air strike hit a gold mine near Sudan’s border with Egypt, killing at least 72 people and injuring more than 50.",
+   "published": "2026-10-11T20:44:17+00:00"
+  },
+  {
+   "id": "b28a1a3b8c3c",
+   "title": "How Man City beat Liverpool after guilty verdict",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/how-man-city-beat-liverpool-after-guilty-verdict?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Al Jazeera’s Rahul Pathak was at Anfield, where fans reminded City of their guilty verdict after the match.",
+   "published": "2026-10-11T20:41:09+00:00"
+  },
+  {
+   "id": "ada84783ba62",
+   "title": "Zelenskyy welcomes US-announced energy ceasefire",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/zelenskyy-welcomes-us-announced-energy-ceasefire?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Zelenskyy has responded to Donald Trump’s announcement that Russia and Ukraine agreed to an energy ceasefire",
+   "published": "2026-10-11T20:28:46+00:00"
+  },
+  {
+   "id": "831349c9fabe",
+   "title": "Syrian families demand release of detainees held by Israel",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/syrian-families-demand-release-of-detainees-held-by-israel?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Syrian families demand release of detainees held by Israel",
+   "published": "2026-10-11T20:24:19+00:00"
+  },
+  {
    "id": "10b3b83c3448",
    "title": "Fusionism in the Twenty-First Century",
    "link": "https://reason.com/volokh/2026/10/11/fusionism-in-the-twenty-first-century/",
@@ -140,15 +250,15 @@
    "published": "2026-10-11T20:24:11+00:00"
   },
   {
-   "id": "562edc058b93",
-   "title": "Politics live: Greens call for US execution live stream to be blocked; Flydubai pilot’s Australia links ‘disturbing’",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
-   "source": "The Guardian World",
+   "id": "b6171be1e6be",
+   "title": "Pakistan suspends Imran Khan’s party-led provincial government",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pakistan-suspends-imran-khans-party-led-provincial-government?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Reserve Bank should ban point of sale charges for small business, says Labor minister Labor frontbencher Kristy McBain says the Reserve Bank should go a step further than its card surcharge…",
-   "published": "2026-10-11T20:23:11+00:00"
+   "summary": "Pakistan has suspended Khyber Pakhtunkhwa's PTI-led government after declaring a state of emergency in the province.",
+   "published": "2026-10-11T20:21:13+00:00"
   },
   {
    "id": "4e18150c9776",
@@ -163,7 +273,7 @@
   },
   {
    "id": "2679b8d25101",
-   "title": "Sixth Circuit Affirms Universal Injunction Against Tennessee \"Abortion Trafficking\" Law that Does Not Reach Plaintiffs Conduct",
+   "title": "Sixth Circuit Affirms Universal Injunction Against Tennessee \"Abortion Trafficking\" Law that Does Not Reach Plaintiffs' Conduct",
    "link": "https://reason.com/volokh/2026/10/11/sixth-circuit-affirms-universal-injunction-against-tennessee-abortion-trafficking-law-that-does-not-reach-plaintiffs-conduct/",
    "source": "Reason",
    "circle_hint": "national",
@@ -514,17 +624,6 @@
    "published": "2026-10-11T16:49:05+00:00"
   },
   {
-   "id": "a4f40d791855",
-   "title": "Saudi capital airport hit by second Houthi strike in two days",
-   "link": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
-   "published": "2026-10-11T16:41:37+00:00"
-  },
-  {
    "id": "845f1f4cf08c",
    "title": "Millions of Americans will have fewer options during Medicare open enrollment this year",
    "link": "https://www.marketwatch.com/story/millions-of-americans-will-have-fewer-options-during-medicare-open-enrollment-this-year-6b56698b?mod=mw_rss_topstories",
@@ -598,7 +697,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "PM says he asked question upon entering No 10 but does not reveal who gave him ‘clear answer’ that Russia meddled Andy Burnham has said it is clear Russia interfered in the Brexit referendum, after seeking answers on the Kremlin’s involvement in the 2016 vote when he entered…",
+   "summary": "PM says he asked question upon entering No 10 but does not reveal who gave him ‘clear answer’ Russia meddled Andy Burnham has said it is clear Russia interfered in the Brexit referendum, after seeking answers on the Kremlin’s involvement in the 2016 vote when he entered Downing…",
    "published": "2026-10-11T15:33:15+00:00"
   },
   {
@@ -823,7 +922,7 @@
   },
   {
    "id": "647e853830a7",
-   "title": "Greens gear up for fight with Labor as Sarah Hanson-Young pushes to strengthen laws to rein in big tech",
+   "title": "Greens prepare for fight with Labor over social media algorithm reform, with ‘pervert glasses’ in its sights",
    "link": "https://www.theguardian.com/australia-news/2026/oct/12/greens-sarah-hanson-young-big-tech-digital-duty-of-care-labor",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -62475,28 +62574,6 @@
    "flourishing_feed": false,
    "summary": "This document corrects typographical errors and omissions in the final rule that appeared in the June 4, 2026, Federal Register titled \"Federal Independent Dispute Resolution Operations\" (referred to hereafter as the \"IDR final rule\"). The effective date of the IDR final rule…",
    "published": "2026-08-28T04:00:00+00:00"
-  },
-  {
-   "id": "3adca12d5611",
-   "title": "SEC: 38 Entities Feigned Legitimacy as U.S. Advisers Through False Filings to Lure Retail Investors",
-   "link": "https://www.sec.gov/newsroom/press-releases/2026-78-sec-38-entities-feigned-legitimacy-us-advisers-through-false-filings-lure-retail-investors",
-   "source": "SEC Press Releases",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "The Securities and Exchange Commission today charged 38 entities alleging that they made material misrepresentations in Forms ADV filed with the Commission between 2025 and 2026 to falsely portray themselves as legitimate advisory firms to U.S. investors…",
-   "published": "2026-08-27T21:30:00+00:00"
-  },
-  {
-   "id": "8c17314eec35",
-   "title": "Review continues for 30-plus Indiana counties in federal disaster aid request",
-   "link": "https://indianacapitalchronicle.com/2026/08/27/review-continues-for-30-plus-indiana-counties-in-federal-disaster-aid-request/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Residents in more Indiana counties could become eligible for federal disaster assistance as officials said Thursday that damage assessments were continuing from this month’s severe storms and flooding.",
-   "published": "2026-08-27T21:20:50+00:00"
   }
  ]
 }
