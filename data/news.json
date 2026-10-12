@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T03:36:34.584818+00:00",
+ "generated": "2026-10-12T04:35:14.662450+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 29
+   "count": 27
   },
   {
    "name": "Congressional Budget Office",
@@ -130,25 +130,91 @@
  "items": [
   {
    "id": "562edc058b93",
-   "title": "Australian politics live: Joyce likens US public execution to ‘Roman amphitheatre’; Pocock backs efforts to save swift parrot",
+   "title": "Australian politics live: Joyce likens US public execution to ‘Roman amphitheatre’; Coalition targets small business minister over credit card ban",
    "link": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Labor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino , says Labor is not watering down proposed changes to put a minimum…",
-   "published": "2026-10-12T03:23:55+00:00"
+   "published": "2026-10-12T04:18:19+00:00"
+  },
+  {
+   "id": "68d10e97df90",
+   "title": "Ethiopian troops enter Adigrat in Tigray, near the Eritrean border",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/11-10-reported-ethiopia-hamza-mohammad-report-abiy-ahmed-ep?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ethiopian government forces entered Adigrat in northern Tigray after rebel fighters withdrew.",
+   "published": "2026-10-12T04:00:56+00:00"
+  },
+  {
+   "id": "edf5e3e9dfb9",
+   "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK spending pressures",
+   "link": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thinktank’s influential pre-budget report urges key decisions to be made now and not put off until next year John Healey has been warned by Britain’s leading tax and spending experts that his budget risks being a “work of fiction” unless he sets out plans to cover £35bn in…",
+   "published": "2026-10-12T04:00:44+00:00"
   },
   {
    "id": "c83b0f14b501",
-   "title": "Robert Pether was detained in Iraq in 2021 and his family feared he would die in jail. Now he’s coming home",
+   "title": "Detained Australian engineer Robert Pether has left Iraq after being jailed in 2021",
    "link": "https://www.theguardian.com/australia-news/2026/oct/12/australian-engineer-robert-pether-released-iraq-baghdad-prison",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Australian foreign minister welcomes Iraqi government’s decision to allow engineer to leave Baghdad Follow our Australia politics live blog for latest updates Get our new political email , free app or daily news podcast Australian engineer Robert Pether has been allowed to…",
-   "published": "2026-10-12T03:23:40+00:00"
+   "published": "2026-10-12T03:46:09+00:00"
+  },
+  {
+   "id": "ed2293fa726b",
+   "title": "‘Absolutely senseless’: Boy, 13, charged with murder after man stabbed to death in Sydney’s west",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 36-year-old victim had withdrawn cash to give to some young people when he was allegedly stabbed, according to police Get our breaking news email , free app or daily news podcast A 13-year-old boy has been charged with murder after a man was stabbed to death in Sydney’s…",
+   "published": "2026-10-12T03:45:30+00:00"
+  },
+  {
+   "id": "94b811781f37",
+   "title": "North Korea fires multiple ballistic missiles towards the sea",
+   "link": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Latest missile launch appears to be a show of force since South Korea's hypersonic missile test-fire, Seoul says.",
+   "published": "2026-10-12T03:37:12+00:00"
+  },
+  {
+   "id": "1d23bfaa0651",
+   "title": "Utah football’s successful weekend included snagging another verbal commit",
+   "link": "https://www.deseret.com/sports/2026/10/11/utah-football-commit-brandon-richards-texas-athlete/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A busy recruiting weekend for the University of Utah resulted in a quick commitment. On Sunday, Texas athlete Brandon Richards made his pledge to Morgan Scalley’s program, becoming the first in-season verbal commitment added to Utah’s 2027 recruiting class. 1000% committed…",
+   "published": "2026-10-12T03:33:03+00:00"
+  },
+  {
+   "id": "03dceda66b73",
+   "title": "Australian Greens call for ‘barbaric’ US execution live stream to be blocked",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/12/australian-greens-us-firing-squad-execution-nidal-hasan-live-stream-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Federal government urged to prevent Australians from viewing planned broadcast of Fort Hood mass murderer Nidal Hasan’s execution Get our new political email , free app or daily news podcast Follow our Australia politics live blog for latest updates The Australian government…",
+   "published": "2026-10-12T03:27:55+00:00"
   },
   {
    "id": "6d75dc402005",
@@ -424,17 +490,6 @@
    "flourishing_feed": false,
    "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
    "published": "2026-10-11T22:45:58+00:00"
-  },
-  {
-   "id": "ed2293fa726b",
-   "title": "‘Absolutely senseless’: boy, 13, charged with murder after man stabbed to death in Sydney’s west",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/12/boy-13-charged-mt-druitt-stabbing-death-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The 36-year-old victim had withdrawn cash to give to some young people when he was allegedly stabbed, according to police Get our breaking news email , free app or daily news podcast A 13-year-old boy has been charged with murder after a man was stabbed to death in Sydney’s…",
-   "published": "2026-10-11T22:39:10+00:00"
   },
   {
    "id": "1b0d7222026b",
@@ -62893,17 +62948,6 @@
    "flourishing_feed": false,
    "summary": "WASHINGTON — A developing trade war with Canada could bite Republicans ahead of the upcoming midterm elections as voters worry about rising prices and industries in states with competitive races could suffer. Maine’s lobster industry dodged what officials had warned could be…",
    "published": "2026-08-28T08:00:47+00:00"
-  },
-  {
-   "id": "0900dc350623",
-   "title": "Federal Independent Dispute Resolution Operations; Correction",
-   "link": "https://www.federalregister.gov/documents/2026/08/28/2026-17622/federal-independent-dispute-resolution-operations-correction",
-   "source": "Federal Register: IRS",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "This document corrects typographical errors and omissions in the final rule that appeared in the June 4, 2026, Federal Register titled \"Federal Independent Dispute Resolution Operations\" (referred to hereafter as the \"IDR final rule\"). The effective date of the IDR final rule…",
-   "published": "2026-08-28T04:00:00+00:00"
   }
  ]
 }
