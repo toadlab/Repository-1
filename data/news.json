@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T20:34:19.773586+00:00",
+ "generated": "2026-10-12T21:30:59.744020+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "name": "The Guardian World",
@@ -140,6 +140,292 @@
    "published": "2026-10-13T04:00:00+00:00"
   },
   {
+   "id": "8b17ea744b93",
+   "title": "26-01399.pdf",
+   "link": "https://www.finra.org/node/390496",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "26-01399.pdf Anonymous (not verified) Mon, 10/12/2026 - 17:25 Case ID 26-01399 Forum FINRA Document Type Award Claimants Wells Fargo Clearing Services, LLC Respondents James Cole Neutrals Tracy L. Allen Hearing Site Detroit, MI Award Document 26-01399.pdf Documentum DocID…",
+   "published": "2026-10-12T21:25:01+00:00"
+  },
+  {
+   "id": "6f4f63ed21e1",
+   "title": "26-01020.pdf",
+   "link": "https://www.finra.org/node/390491",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "26-01020.pdf Anonymous (not verified) Mon, 10/12/2026 - 17:25 Case ID 26-01020 Forum FINRA Document Type Award Claimants Lia Vanella Respondents Robinhood Financial, LLC Neutrals Steven Gerard Goerke Hearing Site Boca Raton, FL Award Document 26-01020.pdf Documentum DocID…",
+   "published": "2026-10-12T21:25:01+00:00"
+  },
+  {
+   "id": "2bbbf34e878c",
+   "title": "Australia politics live: Greens urge Albanese to call Trump over execution livestream; Robert Pether speaks after Iraq prison release",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Robert Pether has stressed his innocence and recalled his brush with death in his first comments since the Australian engineer departed Iraq after serving more than five years in jail.…",
+   "published": "2026-10-12T21:24:39+00:00"
+  },
+  {
+   "id": "410eece1f601",
+   "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+   "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
+   "published": "2026-10-12T21:20:51+00:00"
+  },
+  {
+   "id": "62be37dae76c",
+   "title": "Australia may risk a diplomatic spat with the Trump administration if it limits the viewing of a US execution",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/13/australia-us-execution-livestream-julie-inman-grant-esafety",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A history of tech giant legal challenges and US political criticism shows there’s no easy solution for the eSafety commissioner Get our new political email , free app or daily news podcast Australia’s online safety regulator has a few levers to limit the public seeing the US’s…",
+   "published": "2026-10-12T21:19:46+00:00"
+  },
+  {
+   "id": "a6850709d5cb",
+   "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors",
+   "link": "https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The chip makers introduced hardware and software designs for future AI data centers, but the revenue potential is still far out, an analyst says.",
+   "published": "2026-10-12T21:19:00+00:00"
+  },
+  {
+   "id": "c7fc57f2f680",
+   "title": "Why do Iran’s oil ‘intermediaries’ owe the government billions?",
+   "link": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Iran says intermediaries handling its oil sales owe it billions of dollars, but how did the debts accumulate?",
+   "published": "2026-10-12T21:16:58+00:00"
+  },
+  {
+   "id": "daef34140f71",
+   "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+   "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+   "published": "2026-10-12T21:16:00+00:00"
+  },
+  {
+   "id": "637c77cea068",
+   "title": "FBI Foils Plot To Attack Mall of America With FBI-Provided AK-47",
+   "link": "https://reason.com/2026/10/12/fbi-foils-plot-to-attack-mall-of-america-with-fbi-provided-ak-47/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Remember, it's (almost) always the feds.",
+   "published": "2026-10-12T21:15:49+00:00"
+  },
+  {
+   "id": "98294fa14707",
+   "title": "RJ Mitte, actor best known for Breaking Bad role, dies aged 34",
+   "link": "https://www.theguardian.com/culture/2026/oct/12/rj-mitte-breaking-bad-actor-death",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mitte, who played Walter White Jr on acclaimed show, had cerebral palsy and advocated for disability representation The Breaking Bad actor RJ Mitte has died aged 34, his representatives confirmed on Monday. “It is with profound sadness that we share the tragic passing of…",
+   "published": "2026-10-12T21:10:44+00:00"
+  },
+  {
+   "id": "0cb15d52dac1",
+   "title": "A tropical storm continues to batter the West — including Utah",
+   "link": "https://www.deseret.com/environment/2026/10/12/a-tropical-storm-continues-to-batter-the-west-including-utah/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Post-tropical storm Rachel brought heavy rainfall, forceful winds and coastal flooding to California over the weekend. Now, the storm is moving inland and threatening dangerous conditions across the Great Basin, with flash flooding possible all the way from Southern California…",
+   "published": "2026-10-12T21:10:22+00:00"
+  },
+  {
+   "id": "8b08db86a57d",
+   "title": "Abdi-Wali makes history as first Somali-born refugee in UK Parliament",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/abdi-wali-makes-history-as-first-somali-born-refugee-in-uk-parliament?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Newly sworn-in Labour MP Sagal Abdi-Wali has become the first Somali-born refugee woman elected to UK Parliament.",
+   "published": "2026-10-12T21:08:08+00:00"
+  },
+  {
+   "id": "c9f82ed9d46e",
+   "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US President Donald Trump has had a whirlwind weekend, announcing a diesel deal with Russia and an energy ceasefire between Russia and Ukraine. With the midterms coming up, it looks like Trump is turning overseas for help.",
+   "published": "2026-10-12T21:07:25+00:00"
+  },
+  {
+   "id": "f0c7bbd98629",
+   "title": "Qantas flight grounded after bedbug outbreak",
+   "link": "https://www.bbc.co.uk/news/articles/cr62yzypnw7no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The flight from Italy to Australia was cancelled after passengers on the plane's previous journey complained of bug bites.",
+   "published": "2026-10-12T21:01:45+00:00"
+  },
+  {
+   "id": "59f8f65c0029",
+   "title": "Pupil arrested after two teachers shot at French school",
+   "link": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A 14-year-old was detained after the middle-school principal and teacher were injured.",
+   "published": "2026-10-12T21:01:28+00:00"
+  },
+  {
+   "id": "e832f0597955",
+   "title": "Christ is ‘the heart of the temple’: Latter-day Saint apostle dedicates new temple in Guatemala",
+   "link": "https://www.deseret.com/faith/2026/10/12/elder-gong-dedicates-miraflores-guatemala-city-guatemala-temple/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "GUATEMALA CITY, Guatemala — The ceiba , Guatemala’s national tree, was held sacred in Mayan culture with the belief it connected the living and the dead. And now in Guatemala City, the Miraflores Guatemala City Guatemala Temple of The Church of Jesus Christ of Latter-day Saints…",
+   "published": "2026-10-12T21:00:34+00:00"
+  },
+  {
+   "id": "575d2787ac38",
+   "title": "J.D. Vance Is Playing Dumb About Socialism",
+   "link": "https://reason.com/podcast/2026/10/12/j-d-vance-is-playing-dumb-about-socialism/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: America's growing deficit, youth protests in France, and Kimberly Guilfoyle's corruption scandal",
+   "published": "2026-10-12T21:00:06+00:00"
+  },
+  {
+   "id": "c146a77e72f0",
+   "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+   "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+   "published": "2026-10-12T20:54:09+00:00"
+  },
+  {
+   "id": "c33c83b916e8",
+   "title": "Here is the uniform combo BYU will wear against Notre Dame",
+   "link": "https://www.deseret.com/sports/2026/10/12/byu-football-uniforms-notre-dame/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For a while now, there has been talk on social media about which jerseys No. 8 BYU will wear for its marquee game this weekend against No. 2 Notre Dame. Will the Cougars wear a classic look? A unique one? Maybe bust out retro uniforms? No. 8 BYU and No. 2 Notre Dame are both…",
+   "published": "2026-10-12T20:52:04+00:00"
+  },
+  {
+   "id": "ead35e9c322a",
+   "title": "Israel demolitions in Negev displace 400 Palestinians",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/israel-demolitions-in-negev-displace-400-palestinians?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli authorities have demolished 80 structures in Al-Dahiya village in Israel’s Negev Desert",
+   "published": "2026-10-12T20:50:37+00:00"
+  },
+  {
+   "id": "b9136a1faaee",
+   "title": "Why Ciena, Lumentum and other optical stocks were among the market’s biggest losers on Monday",
+   "link": "https://www.marketwatch.com/story/why-ciena-lumentum-and-other-optical-stocks-were-among-the-markets-biggest-losers-on-monday-b3e53f6a?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The sharp moves could partly be a reaction to recent cautious commentary on AI spending.",
+   "published": "2026-10-12T20:46:00+00:00"
+  },
+  {
+   "id": "1d7f84b32da5",
+   "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+   "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I’m in my 60s, recently retired and living my best life.”",
+   "published": "2026-10-12T20:45:00+00:00"
+  },
+  {
+   "id": "f0490cced328",
+   "title": "South Africa deputy police chief resigns amid sex offence charges",
+   "link": "https://www.aljazeera.com/news/2026/10/12/south-africa-deputy-police-chief-resigns-amid-sex-offence-charges?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Shadrack Sibiya, who is in prison after his arrest last month, denies corruption, rape and child grooming allegations.",
+   "published": "2026-10-12T20:43:33+00:00"
+  },
+  {
+   "id": "9fc393349031",
+   "title": "Thinking of Sending a Nude Shrek Pic to an Ohio Official? You Could Be Found Guilty of Harassment.",
+   "link": "https://reason.com/2026/10/12/thinking-of-sending-a-nude-shrek-pic-to-an-ohio-official-you-could-be-found-guilty-of-harassment/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "D.J. Byrnes was found guilty of telecommunications harassment after sending a risqué ogre image to a public official.",
+   "published": "2026-10-12T20:40:31+00:00"
+  },
+  {
+   "id": "f7481973a64e",
+   "title": "Microsoft hits a big milestone that solidifies its revival",
+   "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Microsoft has reclaimed a $4 trillion market cap on Monday — and fresh records are in sight.",
+   "published": "2026-10-12T20:40:00+00:00"
+  },
+  {
+   "id": "0326aba6e104",
+   "title": "Archbishop of US military condemns Pentagon plans to livestream execution",
+   "link": "https://www.theguardian.com/us-news/2026/oct/12/archbishop-timothy-broglio-military-pentagon-livestreamed-execution",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Timothy Broglio says Catholics on army firing squad should ask to be excused since it clashes with church teachings The archbishop who oversees the spiritual care of Catholics serving in the US military condemned the Pentagon’s proposed plans to livestream the firing squad…",
+   "published": "2026-10-12T20:33:21+00:00"
+  },
+  {
    "id": "f5483d779a86",
    "title": "Bringing on the FLAVA!",
    "link": "https://mirrorindy.org/flava-fresh-annual-juried-exhibition-d-del-reverda-jennings-interview/",
@@ -160,17 +446,6 @@
    "flourishing_feed": false,
    "summary": "Storms that wreaked havoc across Utah this past weekend dusted ski resorts in the state with the first snowfall of the season. And there could be more on the way. “Now the focus shifts to a storm tracking across the central Rockies, which will bring colder air and the first…",
    "published": "2026-10-12T20:22:41+00:00"
-  },
-  {
-   "id": "2bbbf34e878c",
-   "title": "Australia politics live: Labor’s $630m funding boost for charities; Greens at odds about Ukraine weapons",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Greens say big tech has been ‘laughing all the way to the bank’ and ‘we need proper regulations’ Sarah Hanson-Young is leading the Greens’ negotiations with the government over legislation…",
-   "published": "2026-10-12T20:20:00+00:00"
   },
   {
    "id": "b7a10f869037",
@@ -690,17 +965,6 @@
    "published": "2026-10-12T17:33:51+00:00"
   },
   {
-   "id": "410eece1f601",
-   "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-   "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says.",
-   "published": "2026-10-12T17:32:13+00:00"
-  },
-  {
    "id": "540cd56f1b9c",
    "title": "VOTER GUIDE: Court of Appeals and Tax Court judges are on the ballot for retention",
    "link": "https://mirrorindy.org/voter-guide-court-of-appeals-and-tax-court-judges-are-on-the-ballot-for-retention/",
@@ -756,17 +1020,6 @@
    "published": "2026-10-12T17:16:25+00:00"
   },
   {
-   "id": "1d7f84b32da5",
-   "title": "‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-   "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I’m in my 60s, recently retired and living my best life.”",
-   "published": "2026-10-12T17:15:00+00:00"
-  },
-  {
    "id": "52f05262c8b6",
    "title": "Who should be BYU’s ‘College GameDay’ guest picker?",
    "link": "https://www.deseret.com/sports/2026/10/12/byu-football-college-football-gameday-espn-potential-guest-pickers/",
@@ -776,17 +1029,6 @@
    "flourishing_feed": false,
    "summary": "The eyes of the college football world will be upon Provo this weekend. Hours before No. 8 BYU hosts No. 2 Notre Dame on Saturday in one of the most anticipated matchups of the college football season, ESPN will broadcast its “College GameDay” pregame show live from the BYU…",
    "published": "2026-10-12T17:15:00+00:00"
-  },
-  {
-   "id": "59f8f65c0029",
-   "title": "Pupil arrested after two teachers shot at French school",
-   "link": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "A 14-year-old was detained after the middle-school principal and teacher were injured.",
-   "published": "2026-10-12T17:13:31+00:00"
   },
   {
    "id": "d7320b9b78a9",
@@ -952,17 +1194,6 @@
    "flourishing_feed": false,
    "summary": "Google Cloud is growing fast, but several chip makers and networking providers could be better ways to capitalize on that trend, according to Melius Research.",
    "published": "2026-10-12T16:31:00+00:00"
-  },
-  {
-   "id": "daef34140f71",
-   "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-   "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-   "published": "2026-10-12T16:30:00+00:00"
   },
   {
    "id": "7bb634f5f941",
@@ -1438,17 +1669,6 @@
    "published": "2026-10-12T14:20:53+00:00"
   },
   {
-   "id": "f7481973a64e",
-   "title": "Microsoft hits a big milestone that solidifies its revival",
-   "link": "https://www.marketwatch.com/story/microsoft-is-nearing-a-big-milestone-that-solidifies-its-revival-580d1ba8?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Microsoft has reclaimed a $4 trillion market cap in intraday action Monday — and fresh records are in sight.",
-   "published": "2026-10-12T14:18:00+00:00"
-  },
-  {
    "id": "ae46e69832f1",
    "title": "Bergs stuns Alcaraz in Shanghai as Zverev claims year’s top tennis ranking",
    "link": "https://www.aljazeera.com/sports/2026/10/12/zizou-bergs-stuns-alcaraz-in-shanghai-as-zverev-claims-year-end-top-ranking?traffic_source=rss",
@@ -1515,17 +1735,6 @@
    "published": "2026-10-12T14:00:58+00:00"
   },
   {
-   "id": "62be37dae76c",
-   "title": "Australia may risk a diplomatic spat with the Trump administration if it limits the viewing of a US execution",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/13/australia-us-execution-livestream-julie-inman-grant-esafety",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "A history of tech giant legal challenges and US political criticism shows there’s no easy solution for the eSafety commissioner Get our new political email , free app or daily news podcast Australia’s online safety regulator has a few levers to limit the public seeing the US’s…",
-   "published": "2026-10-12T14:00:57+00:00"
-  },
-  {
    "id": "719f6dcda7b9",
    "title": "‘We always do everything together’: Chloe has no way to contact her husband, a democracy campaigner detained in Vietnam",
    "link": "https://www.theguardian.com/australia-news/2026/oct/12/australian-democracy-campaigner-detained-in-vietnam-on-alleged-terrorism-offences-uncontactable-wife-says",
@@ -1557,17 +1766,6 @@
    "flourishing_feed": false,
    "summary": "France’s education crisis and Spain’s housing shortage will not be solved with yet more government intervention.",
    "published": "2026-10-12T14:00:43+00:00"
-  },
-  {
-   "id": "c146a77e72f0",
-   "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-   "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-   "published": "2026-10-12T14:00:03+00:00"
   },
   {
    "id": "00d3b28d25ae",
