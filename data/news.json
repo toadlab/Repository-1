@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T04:35:14.662450+00:00",
+ "generated": "2026-10-12T05:34:04.004501+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 25
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,147 @@
  ],
  "items": [
   {
+   "id": "ca6c7e1eb738",
+   "title": "Clashes reported in Yemen as Houthis advance towards Taiz",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/clashes-reported-in-yemen-as-houthis-advance-towards-taiz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Heavy clashes have been reported between Houthi fighters and Yemeni- forces near the strategic southern city of Taiz.",
+   "published": "2026-10-12T05:27:22+00:00"
+  },
+  {
+   "id": "a76b56ec58c6",
+   "title": "Homes and bridges swept away as fresh floods hit Nepal",
+   "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
+   "published": "2026-10-12T05:26:47+00:00"
+  },
+  {
+   "id": "9c4b3f76f523",
+   "title": "Should Christa Pike Live?",
+   "link": "https://thedispatch.com/article/christa-pike-tennessee-execution-constitution/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A second execution attempt strains legal and ethical standards.",
+   "published": "2026-10-12T05:02:00+00:00"
+  },
+  {
+   "id": "f55d23bf00b1",
+   "title": "Documents falsified to evade tax on Abramovich's wealth",
+   "link": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Backdated paperwork also made the Russian oligarch’s yachts and mansions disappear from accounts, BBC finds.",
+   "published": "2026-10-12T05:00:52+00:00"
+  },
+  {
+   "id": "a0be79c793ea",
+   "title": "Met chief says ‘toxicity’ around DEI will not stop him recruiting more black and Asian officers",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/12/met-police-mark-rowley-dei-culture-wars-black-asian-officers",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mark Rowley says inclusivity is crucial for the force and he refuses to be ‘blown off course’ by critics Sir Mark Rowley: I will have more police officers of colour in the UK capital – and the culture wars won’t stop me doing it Mark Rowley has said the Metropolitan police must…",
+   "published": "2026-10-12T05:00:47+00:00"
+  },
+  {
+   "id": "ef25b116d8d6",
+   "title": "Ministers preparing to slash heat pump subsidies to fund defence spending",
+   "link": "https://www.theguardian.com/environment/2026/oct/12/ministers-plan-slash-heat-pump-subsidies-fund-defence-spending",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Some of £2bn savings needed from energy budget expected to come from boiler upgrade scheme, sources say Ministers are preparing to slash the amount of money available to subsidise heat pumps as they look for ways to fund higher defence spending, sources have told the…",
+   "published": "2026-10-12T05:00:47+00:00"
+  },
+  {
+   "id": "892540aa2558",
+   "title": "Burnham to urge MPs to embrace closer ties with EU",
+   "link": "https://www.theguardian.com/politics/2026/oct/12/burnham-urge-mps-embrace-closer-ties-with-eu",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Post-recess statement will focus on damage caused by Brexit and the need to cooperate on immigration and trade Andy Burnham will put Brexit back on the Commons agenda as MPs return from recess, warning that failing to pursue a better deal with the EU would be a “major…",
+   "published": "2026-10-12T05:00:46+00:00"
+  },
+  {
+   "id": "a5eac1d5f249",
+   "title": "Feminism’s Next Wave",
+   "link": "https://thedispatch.com/article/feminisms-sex-women-bodies-declaration/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In upstate New York, women gathered to declare a new movement based on the truth of male-female difference.",
+   "published": "2026-10-12T05:00:00+00:00"
+  },
+  {
+   "id": "c689170425a4",
+   "title": "China sanctions Paraguay, Belize ministers over Taiwan ties",
+   "link": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Chinese Foreign Ministry cites national sovereignty and Taiwan separatist activities as reasons behind the measures.",
+   "published": "2026-10-12T04:58:01+00:00"
+  },
+  {
    "id": "562edc058b93",
-   "title": "Australian politics live: Joyce likens US public execution to ‘Roman amphitheatre’; Coalition targets small business minister over credit card ban",
+   "title": "Joyce likens US public execution to ‘Roman amphitheatre’ – as it happened",
    "link": "https://www.theguardian.com/australia-news/live/2026/oct/12/labor-anthony-albanese-greens-digital-duty-of-care-coalition-angus-taylor-one-nation-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Labor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino , says Labor is not watering down proposed changes to put a minimum…",
-   "published": "2026-10-12T04:18:19+00:00"
+   "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Labor not watering down 30% tax on discretionary trusts, says assistant treasurer The assistant treasurer, Daniel Mulino , says Labor is not watering down proposed changes to put a minimum 30%…",
+   "published": "2026-10-12T04:57:52+00:00"
+  },
+  {
+   "id": "78bbd4b4601b",
+   "title": "Melbourne Islamic leader silent on centre’s alleged Flydubai hijacker links in Facebook video",
+   "link": "https://www.theguardian.com/world/2026/oct/12/melbourne-mycentre-mosque-flydubai-hijacker-facebook-video-post-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "MyCentre leader Samir Mohtadi, who also goes by Abu Hamza, refers to Islamic texts on the virtues of staying silent Get our breaking news email , free app or daily news podcast A leader of a Melbourne Islamic centre allegedly linked to the accused Flydubai hijacker has released…",
+   "published": "2026-10-12T04:55:40+00:00"
+  },
+  {
+   "id": "6d12d3e01e51",
+   "title": "Tyler Huntley leads Ravens to comeback win in his first start of the season",
+   "link": "https://www.deseret.com/sports/2026/10/11/tyler-huntley-first-start-of-2026-season-baltimore-ravens-atlanta-falcons/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Going into Sunday night’s matchup between the Baltimore Ravens and Atlanta Falcons, Tyler Huntley had 16 career regular-season starts for the Ravens in relief of Lamar Jackson, who’s often been injured throughout his pro career. Baltimore’s 30-23 overtime victory over Atlanta,…",
+   "published": "2026-10-12T04:46:54+00:00"
+  },
+  {
+   "id": "a3b4ebd015cb",
+   "title": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+   "link": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Documentary draws on 24 anonymous Israeli sources accusing military of killing Palestinians in Gaza using AI systems.",
+   "published": "2026-10-12T04:24:18+00:00"
   },
   {
    "id": "68d10e97df90",
@@ -393,6 +525,17 @@
    "published": "2026-10-11T23:54:21+00:00"
   },
   {
+   "id": "118483e2da7b",
+   "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+   "link": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
+   "published": "2026-10-11T23:48:25+00:00"
+  },
+  {
    "id": "125fe6cb9d00",
    "title": "Pennsylvania shooter who killed eight was a grandfather, says slain child’s dad",
    "link": "https://www.theguardian.com/us-news/2026/oct/11/erie-pennsylvania-mass-shooting-grandfather",
@@ -413,6 +556,17 @@
    "flourishing_feed": false,
    "summary": "Hours after No. 8 BYU improved to 5-0 with a workmanlike 24-10 win over Iowa State on Friday night, football coach Kalani Sitake celebrated his 51st birthday on Saturday by eating a lot, in his own words, and watching his next opponent bury another overmatched foe. What Sitake…",
    "published": "2026-10-11T23:48:08+00:00"
+  },
+  {
+   "id": "e4882cb6c187",
+   "title": "Iconic Australian band Powderfinger announce first tour in 17 years",
+   "link": "https://www.bbc.co.uk/news/articles/c680zyx8gkkjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The band, who announced their reunion last week, say they are \"absolutely ecstatic\" to be playing together again.",
+   "published": "2026-10-11T23:33:24+00:00"
   },
   {
    "id": "bc4518c76198",
@@ -437,6 +591,17 @@
    "published": "2026-10-11T23:20:46+00:00"
   },
   {
+   "id": "fc4dcfb7709b",
+   "title": "Trump faces growing backlash over plans to import diesel from Russia",
+   "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+   "published": "2026-10-11T23:18:45+00:00"
+  },
+  {
    "id": "0a02dab2c2a6",
    "title": "US Homeland Security secretary sees no ‘risk’ from livestreamed execution",
    "link": "https://www.aljazeera.com/news/2026/10/11/us-homeland-security-secretary-sees-no-risk-from-livestreamed-execution?traffic_source=rss",
@@ -446,6 +611,28 @@
    "flourishing_feed": false,
    "summary": "Decision to livestream Nidal Hasan execution has led to harsh criticism and warnings that it could encourage violence.",
    "published": "2026-10-11T23:17:05+00:00"
+  },
+  {
+   "id": "09d644374a11",
+   "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+   "link": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
+   "published": "2026-10-11T23:13:51+00:00"
+  },
+  {
+   "id": "09c43dafb20e",
+   "title": "Mourners killed by Kenya police at ex-PM's national farewell not part of violence, BBC finds",
+   "link": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
+   "published": "2026-10-11T23:13:20+00:00"
   },
   {
    "id": "bd54737b8d3a",
@@ -1434,7 +1621,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "US president’s plan to park the wars in Iran and Yemen, while blaming Ukraine for diesel prices, looks unsustainable Middle East crisis live - latest updates The reckless missile attack on King Khalid international airport in Riyadh on Saturday did not just export the death and…",
+   "summary": "US president’s plan to park the wars in Iran and Yemen, while blaming Ukraine for diesel prices, looks unsustainable The reckless missile attack on King Khalid international airport in Riyadh on Saturday did not just export the death and misery inside Yemen to Saudi Arabia, it…",
    "published": "2026-10-11T13:23:02+00:00"
   },
   {
@@ -1612,17 +1799,6 @@
    "flourishing_feed": false,
    "summary": "The move escalates Trump's fight with the press amid court battle over barring CNN, Politico and MS NOW from the White House.",
    "published": "2026-10-11T12:04:00+00:00"
-  },
-  {
-   "id": "a76b56ec58c6",
-   "title": "Homes and bridges swept away as fresh floods hit Nepal",
-   "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.",
-   "published": "2026-10-11T12:03:52+00:00"
   },
   {
    "id": "2b47e42b4e51",
