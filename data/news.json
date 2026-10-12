@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T14:40:04.071960+00:00",
+ "generated": "2026-10-12T15:35:35.130867+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 24
+   "count": 26
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,215 @@
  ],
  "items": [
   {
+   "id": "b946a3a23f98",
+   "title": "Goldman’s $2.3 Billion Deal Puts Tax-Smart ETFs Under Scrutiny",
+   "link": "https://www.wealthmanagement.com/etfs/goldman-s-2-3-billion-deal-puts-tax-smart-etfs-under-scrutiny",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In corners of the $195 billion market for derivative-income products, the Neos funds are seen as pushing the boundaries of tax rules.",
+   "published": "2026-10-12T15:26:05+00:00"
+  },
+  {
+   "id": "8760f769669e",
+   "title": "Cyber-attack defrosts refrigerators in two French supermarket chains",
+   "link": "https://www.theguardian.com/world/2026/oct/12/cyber-attack-defrosts-refrigerators-france-supermarket-chains-intermarche-cooperative-u",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An estimated 150-200 Intermarché shops were targeted, along with almost 100 Cooperative U outlets French supermarket chains Intermarché and Cooperative U have been hit by an “unprecedented” cyber-attack that caused their refrigerators to defrost, the two retailers have said. An…",
+   "published": "2026-10-12T15:24:17+00:00"
+  },
+  {
+   "id": "3de2e7c79bb3",
+   "title": "‘This is sacred ground’: Latter-day Saint apostle dedicates new temple in Ephraim, Utah",
+   "link": "https://www.deseret.com/faith/2026/10/12/sacred-ground-elder-rasband-dedicates-ephraim-utah-temple/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "EPHRAIM, Utah — Elder Ronald A. Rasband of the Quorum of the Twelve Apostles dedicated the Ephraim Utah Temple of The Church of Jesus Christ of Latter-day Saints on Sunday. “This is sacred ground,” he said. “The community of Ephraim and those in this temple district will never…",
+   "published": "2026-10-12T15:21:26+00:00"
+  },
+  {
+   "id": "37f7a7a40e7d",
+   "title": "Thousands march to Indian Supreme Court to demand election chief resign",
+   "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.",
+   "published": "2026-10-12T15:19:17+00:00"
+  },
+  {
+   "id": "cf12391aacbc",
+   "title": "Burnham claims EU summit could boost growth and help control illegal migration – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The prime minister tells MPs the next summit with the EU will be held on 20 November Burnham to urge MPs to embrace closer ties with EU Zia Yusuf , Reform UK’s home affairs spokesperson, is speaking now. He started his speech with an account of a 73-year-old woman dying in…",
+   "published": "2026-10-12T15:17:56+00:00"
+  },
+  {
+   "id": "50233f661069",
+   "title": "Micron makes a statement with the latest clue about its cash windfall",
+   "link": "https://www.marketwatch.com/story/micron-makes-a-statement-with-the-latest-clue-about-its-cash-windfall-c9e33f7d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A new disclosure about Micron’s buyback plans appears meant to show shareholders that Micron is more generous with cash than one of its key rivals, an analyst said.",
+   "published": "2026-10-12T15:06:00+00:00"
+  },
+  {
+   "id": "be0d2d4ff193",
+   "title": "‘American Idol’ winner Iam Tongi sings national anthem at BYU game: ‘Go Cougs!’",
+   "link": "https://www.deseret.com/entertainment/2026/10/12/american-idol-winner-iam-tongi-national-anthem-byu-game/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three years after winning “ American Idol ,” Iam Tongi is continuing to sing on big stages — including a performance of the national anthem at the BYU vs. Iowa State football game. This ‘American Idol’ winner had a late night in Utah. Then he got a message from ‘The Rock’…",
+   "published": "2026-10-12T15:04:13+00:00"
+  },
+  {
+   "id": "4e54a05ea318",
+   "title": "Will Ukraine survive the winter?",
+   "link": "https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Washington's position on Ukraine remains ambivalent while losses mount and an energy crisis deepens.",
+   "published": "2026-10-12T15:04:08+00:00"
+  },
+  {
+   "id": "6a782cefe71e",
+   "title": "Mamdani says ICE agents who shot man in New York looked like ‘mass shooters’",
+   "link": "https://www.theguardian.com/us-news/2026/oct/12/mamdani-ice-new-york-shooting",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mayor calls for end to agency’s operations in city after agents shot and wounded man with five-year-old in car The New York mayor, Zohran Mamdani , on Sunday compared US Immigration and Customs Enforcement ( ICE )’s recent shooting of a man in the Manhattan enclave of Marble…",
+   "published": "2026-10-12T15:03:07+00:00"
+  },
+  {
+   "id": "d7320b9b78a9",
+   "title": "Immigration agents search Congresswoman Ilhan Omar's home",
+   "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump.",
+   "published": "2026-10-12T15:02:41+00:00"
+  },
+  {
+   "id": "107e2754842a",
+   "title": "Duel in the desert: US marine veteran aims to win back working-class voters for Democrats",
+   "link": "https://www.theguardian.com/us-news/2026/oct/12/regina-romero-arizona-democrats-house-midterms",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Regina Romero draws on unique biography to connect with voters in Arizona battleground – can she flip a key swing seat? On a recent morning, Tucson mayor Regina Romero knocked on a yellow door above a mat emblazoned with a cat’s silhouette and the words “go away, peasants”. A…",
+   "published": "2026-10-12T15:00:57+00:00"
+  },
+  {
+   "id": "d5b343d73827",
+   "title": "The Anti-Government Rebel Who Turned Against MAGA",
+   "link": "https://reason.com/video/2026/10/12/the-anti-government-rebel-who-turned-against-maga/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Once a leading figure in the anti-government militia movement, Ammon Bundy is now speaking out against President Donald Trump's immigration crackdown, arguing that the same federal overreach he spent years fighting is now being directed at immigrants.",
+   "published": "2026-10-12T15:00:56+00:00"
+  },
+  {
+   "id": "59aaef262083",
+   "title": "Trump critic Democratic Rep. Ilhan Omar’s home searched by federal agents",
+   "link": "https://www.aljazeera.com/news/2026/10/12/trump-critic-democratic-rep-ilhan-omars-home-searched-by-federal-agents?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US authorities searched the Democratic congresswoman’s home as part of a criminal investigation.",
+   "published": "2026-10-12T14:59:53+00:00"
+  },
+  {
+   "id": "53fa14e4e856",
+   "title": "Zelenskyy says ‘increasingly clear’ Russia does not want energy ceasefire after strikes on energy facilities – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Zelenskyy had proposed a 60-day total ceasefire to allow Ukraine to hold presidential elections Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’ Addressing the conference virtually, Ukrainian president Volodymyr Zelenskyy commented on…",
+   "published": "2026-10-12T14:57:07+00:00"
+  },
+  {
+   "id": "25a098fcd5f4",
+   "title": "Why the US is bringing back firing squads",
+   "link": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Medical experts and those who study the death penalty say each method can go wrong and cause severe pain.",
+   "published": "2026-10-12T14:56:43+00:00"
+  },
+  {
+   "id": "f3ea112b90f7",
+   "title": "Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue",
+   "link": "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukrainian leader says he was surprised by Trump’s ‘energy ceasefire’ announcement, which was posted as Russian drones hit Kyiv Europe live – latest updates Volodymyr Zelenskyy has vowed to respond to Russia’s continuing attacks on the Ukrainian power grid as European leaders…",
+   "published": "2026-10-12T14:53:41+00:00"
+  },
+  {
+   "id": "95258f99b65f",
+   "title": "How significant are Burnham’s remarks on Kremlin interference in Brexit vote?",
+   "link": "https://www.theguardian.com/politics/2026/oct/12/andy-burnham-kremlin-eu-referendum-brexit",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prime minister has reopened the debate over whether Russia did seek to influence the 2016 referendum Andy Burnham unexpectedly reopened an old Brexit debate when he said he had been told after becoming prime minister that Russia had interfered in the 2016 EU referendum. It was…",
+   "published": "2026-10-12T14:48:51+00:00"
+  },
+  {
+   "id": "993702dfd5d4",
+   "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
+   "link": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
+   "published": "2026-10-12T14:40:15+00:00"
+  },
+  {
+   "id": "e31b9c541856",
+   "title": "Alex Gibney says Universal ‘wavered’ over releasing Elon Musk documentary",
+   "link": "https://www.theguardian.com/film/2026/oct/12/alex-gibney-universal-wavered-releasing-elon-musk-documentary",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The revelation comes after the four-hour film’s Venice premiere drew a string of criticisms and insults from the founder of SpaceXAI Alex Gibney, director of the new four-hour documentary about Elon Musk, said that Universal, owners of the film’s international distribution…",
+   "published": "2026-10-12T14:38:44+00:00"
+  },
+  {
    "id": "533072e87571",
    "title": "22-01537(6).pdf",
    "link": "https://www.finra.org/node/390456",
@@ -162,6 +371,39 @@
    "published": "2026-10-12T14:35:01+00:00"
   },
   {
+   "id": "1fae22144c3f",
+   "title": "Fridges in French supermarkets hit by cyber attack",
+   "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.",
+   "published": "2026-10-12T14:30:09+00:00"
+  },
+  {
+   "id": "0231337cfb67",
+   "title": "Iran-Saudi talks on Yemen’s Houthis: What’s in it for Tehran?",
+   "link": "https://www.aljazeera.com/news/2026/10/12/iran-saudi-talks-on-yemens-houthis-whats-in-it-for-tehran?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tehran seeks dialogue in Yemen conflict, warning a military solution risks complicating the volatile regional situation.",
+   "published": "2026-10-12T14:27:49+00:00"
+  },
+  {
+   "id": "f7a9b83a89b9",
+   "title": "Iran sets crosshairs on ‘US-UAE’ oil shuttle out of Strait of Hormuz",
+   "link": "https://www.aljazeera.com/economy/2026/10/12/iran-sets-crosshairs-on-us-uae-oil-shuttle-out-of-strait-of-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The IRGC is hitting more ships allegedly part of a shuttle operation to move crude oil beyond the Strait of Hormuz.",
+   "published": "2026-10-12T14:25:55+00:00"
+  },
+  {
    "id": "d358b1225dec",
    "title": "Children and mothers included in Reform plan to immediately deport 90,000 asylum seekers",
    "link": "https://www.theguardian.com/politics/2026/oct/12/children-mothers-included-reform-immediately-deport-asylum-seekers",
@@ -184,6 +426,17 @@
    "published": "2026-10-12T14:23:59+00:00"
   },
   {
+   "id": "c22beff5f49e",
+   "title": "Why are the Houthis striking Saudi airports?",
+   "link": "https://www.aljazeera.com/news/2026/10/12/why-are-the-houthis-striking-saudi-airports?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The attacks mark the deadliest assault on Saudi soil in more than a decade.",
+   "published": "2026-10-12T14:23:20+00:00"
+  },
+  {
    "id": "03ca3f1ff781",
    "title": "Nobel Prize for economics awarded to Hall and Woodford for work on ‘smoothing’ crises",
    "link": "https://www.theguardian.com/world/2026/oct/12/nobel-prize-for-economics-hall-woodford-new-keynesian-models",
@@ -193,28 +446,6 @@
    "flourishing_feed": false,
    "summary": "US economists developed models that help central bankers and finance ministers to stabilise their economies Business live – latest updates Two US economists have won the 2026 Nobel economics prize for their work developing models that help central bankers and finance ministers…",
    "published": "2026-10-12T14:20:53+00:00"
-  },
-  {
-   "id": "cf12391aacbc",
-   "title": "Burnham accepts Brexit result ‘legitimate’ despite Russian interference, says No 10 – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/12/uk-politics-live-tories-andy-burnham-russian-interference-brexit-eu-latest",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "PM ‘absolutely accepts referendum result’, says spokesperson Burnham to urge MPs to embrace closer ties with EU Zia Yusuf , Reform UK’s home affairs spokesperson, is speaking now. He started his speech with an account of a 73-year-old woman dying in North Wales after having to…",
-   "published": "2026-10-12T14:20:08+00:00"
-  },
-  {
-   "id": "993702dfd5d4",
-   "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
-   "link": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.",
-   "published": "2026-10-12T14:18:50+00:00"
   },
   {
    "id": "f7481973a64e",
@@ -240,7 +471,7 @@
   },
   {
    "id": "ae46e69832f1",
-   "title": "Zizou Bergs stuns Alcaraz in Shanghai as Zverev claims year-end top ranking",
+   "title": "Bergs stuns Alcaraz in Shanghai as Zverev claims year’s top tennis ranking",
    "link": "https://www.aljazeera.com/sports/2026/10/12/zizou-bergs-stuns-alcaraz-in-shanghai-as-zverev-claims-year-end-top-ranking?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -290,19 +521,8 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Zack Coughlan is accused of murdering Jamie Collins, who he studied with at the University of the West of England A university student lay in wait for his housemate to return home before stabbing him 30 times, a murder trial has been told. Zack Coughlan, 23, dressed all in…",
+   "summary": "Zack Coughlan is accused of murdering Jamie Collins, who he studied with at the University of the West of England A university student lay in wait for his housemate to return home before stabbing him 30 times, a murder trial has been told. Zack Coughlan, 23, dressed in black…",
    "published": "2026-10-12T14:04:19+00:00"
-  },
-  {
-   "id": "53fa14e4e856",
-   "title": "Kremlin rejects 60-day truce offer and refuses to comment on Trump’s ‘energy ceasefire’ – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Zelenskyy had proposed a 60-day total ceasefire to allow Ukraine to hold presidential elections Trump announces partial ceasefire in Ukraine war as Zelenskyy says deal is ‘news to me’ Addressing the conference virtually, Ukrainian president Volodymyr Zelenskyy commented on…",
-   "published": "2026-10-12T14:04:00+00:00"
   },
   {
    "id": "fb123a01f9b5",
@@ -525,6 +745,17 @@
    "published": "2026-10-12T13:26:28+00:00"
   },
   {
+   "id": "fca103ad839a",
+   "title": "Prime Capital: Private Equity-Backed But Advisor-Controlled",
+   "link": "https://www.wealthmanagement.com/ria-news/prime-capital-grows-to-52b-with-advisor-ownership",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Prime Capital, which has about 170 advisor-owners, can provide liquidity to its shareholders without a controlled transaction.",
+   "published": "2026-10-12T13:25:42+00:00"
+  },
+  {
    "id": "099948486cd5",
    "title": "German minister quits after death of stepdaughter and political attacks",
    "link": "https://www.theguardian.com/world/2026/oct/12/german-labour-minister-co-leader-spd-social-democrats-barbel-bas-quits-death-stepdaughter-political-attacks",
@@ -713,7 +944,7 @@
   },
   {
    "id": "b4b201bc61a0",
-   "title": "Far right surges as crises threaten Sanchez: Could Vox lead Spain?",
+   "title": "Vox rises as Sanchez battles political turmoil: Could Spain swing right?",
    "link": "https://www.aljazeera.com/news/2026/10/12/far-right-surges-as-crises-threaten-sanchez-could-vox-lead-spain?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -987,17 +1218,6 @@
    "published": "2026-10-12T10:44:50+00:00"
   },
   {
-   "id": "f3ea112b90f7",
-   "title": "Zelenskyy vows to retaliate if Russian strikes on Ukraine’s power grid continue",
-   "link": "https://www.theguardian.com/world/2026/oct/12/zelenskyy-vows-retaliate-russia-strikes-ukraine-power-grid",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Ukrainian leader says he was surprised by Trump’s ‘energy ceasefire’ announcement, which was posted as Russian drones hit Kyiv Europe live – latest updates Volodymyr Zelenskyy has vowed to respond to Russia’s continuing attacks on the Ukrainian power grid as European leaders…",
-   "published": "2026-10-12T10:41:55+00:00"
-  },
-  {
    "id": "d265918c0fd8",
    "title": "Ukraine’s Zelenskyy accuses Russia of violating Trump’s ‘energy ceasefire’",
    "link": "https://www.aljazeera.com/news/2026/10/12/ukraines-zelenskyy-accuses-russia-of-violating-trumps-energy-ceasefire?traffic_source=rss",
@@ -1160,6 +1380,17 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "Don't surprise adult kids with a complex estate plan. Prepare them to handle family wealth by teaching them smart financial habits from an early age.",
+   "published": "2026-10-12T10:00:00+00:00"
+  },
+  {
+   "id": "345d27a4d74a",
+   "title": "The ‘invisible’ hunger problem of older Americans",
+   "link": "https://www.deseret.com/family/2026/10/12/old-people-hungry-us-utah-food-insecurity-among-seniors/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The last few years have been tricky for Patricia and Rick Earl, a Magna, Utah, couple who married 52 years ago when both were 16. Until recently, they were very self-sufficient. But Rick has pancreatic cancer. She beat colon cancer, but has seizures that keep her from working…",
    "published": "2026-10-12T10:00:00+00:00"
   },
   {
@@ -1416,6 +1647,17 @@
    "published": "2026-10-12T08:38:03+00:00"
   },
   {
+   "id": "cc06db2e4138",
+   "title": "Texas' 15th Congressional District provides clues to state's Latino vote",
+   "link": "https://www.npr.org/2026/10/12/nx-s1-5986126/texas-15th-congressional-district-provides-clues-to-states-latino-vote",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 15th Congressional District runs from the east of San Antonio all the way down into the Rio Grande Valley. This majority-Latino district provides a window into the Latino vote in Texas.",
+   "published": "2026-10-12T08:37:01+00:00"
+  },
+  {
    "id": "e1c091e5cdf3",
    "title": "2 Americans win Nobel Prize in economics for work on boom-bust cycles",
    "link": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
@@ -1590,17 +1832,6 @@
    "flourishing_feed": false,
    "summary": "Former student says nothing untoward happened to her during stays but tells NSW parliamentary inquiry culture of Redeemer Baptist School left much to ‘untangle’ as an adult Get our breaking news email , free app or daily news podcast Teens at a private religious school were…",
    "published": "2026-10-12T06:50:21+00:00"
-  },
-  {
-   "id": "37f7a7a40e7d",
-   "title": "Indian opposition leaders march to top court to demand election chief resign",
-   "link": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters being detained by police.",
-   "published": "2026-10-12T06:42:35+00:00"
   },
   {
    "id": "6c99ff2bdf59",
@@ -4008,7 +4239,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Sunday, Oct. 11, 2026 TELEVISION GOLF Open de Espana, GOLF, 5 a.m. Korn Ferry Tour Championship, GOLF, 11 a.m. Constellation Furyk & Friends, GOLF, 2 p.m. HORSE RACING America’s Day at the Races, FS1, 11 a.m. MLB Dodgers at Brewers, Fox, 6 p.m. MOTOR SPORTS Bank of America 400,…",
+   "summary": "Monday, Oct. 12, 2026 TELEVISION FOOTBALL Roughriders at Alouettes, CBSSN, 11 a.m. Bills at Rams, ABC/ESPN, 6:15 p.m. GOLF St. Andrews Links Collegiate, GOLF, 7 a.m. MLB Dodgers at Brewers, Fox, 3 p.m. Guardians at Rays, TBS, 6 p.m. NBA Preseason: Timberwolves at Knicks, NBA…",
    "published": "2026-10-11T06:00:00+00:00"
   },
   {
