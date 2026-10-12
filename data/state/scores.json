@@ -88782,5 +88782,37 @@
   "decision": "exclude",
   "exclusion": "did not clear the international bar",
   "persistent": false
+ },
+ "db83c9162dc6": {
+  "story_key": "all-pieces-just-fit-tyler",
+  "durability": 7,
+  "circle": "national",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 7.0,
+  "bar": 8.0,
+  "decision": "borderline",
+  "exclusion": "did not clear the national bar",
+  "persistent": false
+ },
+ "747cc4ee8e81": {
+  "story_key": "iran-s-fm-urges-diplomacy",
+  "durability": 4,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
  }
 }
