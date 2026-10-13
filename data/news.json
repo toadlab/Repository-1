@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T01:34:48.473622+00:00",
+ "generated": "2026-10-13T02:34:31.284174+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -83,8 +83,8 @@
   },
   {
    "name": "FINRA",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "count": 10
   },
   {
    "name": "Federal Reserve",
@@ -140,15 +140,15 @@
    "published": "2026-10-13T04:00:00+00:00"
   },
   {
-   "id": "c146a77e72f0",
-   "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-   "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
+   "id": "5e630283ac29",
+   "title": "High school boys golf: 5A state tournament Day 1 to conclude Tuesday",
+   "link": "https://www.deseret.com/sports/2026/10/12/high-school-boys-golf-5a-state-tournament-day-1/",
+   "source": "Deseret News",
+   "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-   "published": "2026-10-13T01:26:02+00:00"
+   "summary": "Weather and visibility issues Monday cut day 1 of the 5A state golf tournament short. It will resume early Tuesday morning. Day 2 will still be played immediately after Day 1 golfers finish. Olympus, Fremont, Northridge, Brighton, Salem Hills, Maple Mountain, Clearfield and Box…",
+   "published": "2026-10-13T02:17:37+00:00"
   },
   {
    "id": "2bbbf34e878c",
@@ -159,7 +159,84 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Robert Pether has stressed his innocence and recalled his brush with death in his first comments since the Australian engineer departed Iraq after serving more than five years in jail.…",
-   "published": "2026-10-13T01:23:16+00:00"
+   "published": "2026-10-13T02:15:28+00:00"
+  },
+  {
+   "id": "daadc10e08b7",
+   "title": "‘Clear and present danger’: fuel prices could rise by 30c a litre across Australia under IMF scenario",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/13/australia-fuel-prices-rise-imf-rba-us-oil-interest-rates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "IMF’s World Economic Outlook shows how a worsening Middle East crisis could affect global growth and inflation An International Monetary Fund scenario where global oil prices jump to US$130 a barrel over coming months could push Australian petrol prices up by another 30 cents…",
+   "published": "2026-10-13T02:00:49+00:00"
+  },
+  {
+   "id": "cba5d058e152",
+   "title": "IMF warns global economy ‘could soon test the limits of resilience’",
+   "link": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026 Developing nations face triple shock, UN warns The global economy “could soon test the limits of resilience”, as emergency oil stocks run low and…",
+   "published": "2026-10-13T02:00:11+00:00"
+  },
+  {
+   "id": "1cd65f485db2",
+   "title": "How X Games League’s Park City team plans to make its mark in Utah",
+   "link": "https://www.deseret.com/sports/2026/10/12/how-x-games-leagues-park-city-team-plans-to-make-its-mark-in-utah/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As many general managers know, there’s a lot that goes into building a team. For Sharalee Hazen, general manager of both the X Games League’s XC Park City and Los Angeles teams , a lot of it starts with coffee. Preferably, an oat milk latte or an Americano. But building a team…",
+   "published": "2026-10-13T02:00:00+00:00"
+  },
+  {
+   "id": "bbed8acc3e45",
+   "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+   "link": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "IMF sees a split global economy, with countries less exposed to the oil shock and benefiting from AI demand pulling ahead",
+   "published": "2026-10-13T02:00:00+00:00"
+  },
+  {
+   "id": "26b1fa18f046",
+   "title": "Ethiopia’s Tigray war: Where do the UAE and Saudi Arabia stand?",
+   "link": "https://www.aljazeera.com/news/2026/10/13/ethiopias-tigray-war-where-do-the-uae-and-saudi-arabia-stand?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Tigray conflict puts the UAE’s backing of Ethiopia and Saudi Arabia’s diplomatic role under scrutiny.",
+   "published": "2026-10-13T01:46:25+00:00"
+  },
+  {
+   "id": "b8e45489e66f",
+   "title": "President Henry B. Eyring will dedicate this Idaho temple",
+   "link": "https://www.deseret.com/faith/2026/10/12/president-eyring-will-dedicate-montpelier-idaho-temple/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Henry B. Eyring will dedicate the Montpelier Idaho Temple of The Church of Jesus Christ of Latter-day Saints this Sunday, according to a release on ChurchofJesusChrist.org . The first counselor in the faith’s First Presidency will dedicate the Montpelier Idaho Temple…",
+   "published": "2026-10-13T01:30:59+00:00"
+  },
+  {
+   "id": "c146a77e72f0",
+   "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+   "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+   "published": "2026-10-13T01:26:02+00:00"
   },
   {
    "id": "a43848d6259b",
@@ -994,7 +1071,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Iran’s ambassador tells UK officials Tehran willing to assist in investigation, reiterates denial of involvement.",
+   "summary": "Tehran 'categorically denies' UK allegation, says it's willing to assist in probe into suspected plot at RAF Fairford.",
    "published": "2026-10-12T18:51:18+00:00"
   },
   {
