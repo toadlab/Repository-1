@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T10:36:02.806877+00:00",
+ "generated": "2026-10-13T11:35:04.249439+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,347 @@
  ],
  "items": [
   {
+   "id": "349e893ac2dd",
+   "title": "Six Flags’ stock slumps near 52-week lows after fatal accident",
+   "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A fatal accident on a Six Flags Entertainment roller coaster sent shares of the amusement-park operator near the lowest level of the year.",
+   "published": "2026-10-13T11:31:00+00:00"
+  },
+  {
+   "id": "fa243dd70cce",
+   "title": "U.S. wealth has shifted to stocks from homes. There are big reasons to worry.",
+   "link": "https://www.marketwatch.com/story/u-s-wealth-has-shifted-to-stocks-from-homes-there-are-big-reasons-to-worry-aa05864d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The four-year bull market in stocks is riding high because of the AI boom. But it’s also increasing the cost of money.",
+   "published": "2026-10-13T11:30:00+00:00"
+  },
+  {
+   "id": "de75db705d1e",
+   "title": "Trump targets Ilhan Omar at rally following raid on her home – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President says Somalia, birthplace of the Minnesota Democratic congresswoman, is ‘one of the worst countries on the planet’ Sign up for the US Breaking News email There is a manic quality to Donald Trump ’s desperate dash to do something, anything, ahead of November’s midterm…",
+   "published": "2026-10-13T11:29:54+00:00"
+  },
+  {
+   "id": "895c8cf54a19",
+   "title": "Jury sworn in for Russell Brand trial on rape and sexual assault charges",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/13/russell-brand-trial-jury-sworn-in",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prosecution expected to open its case on Wednesday after eight men and four women selected as jurors Russell Brand has attended court for the second day of his rape and sexual assault trial and a jury has been selected in the case. The 51-year-old comedian faces three charges…",
+   "published": "2026-10-13T11:29:06+00:00"
+  },
+  {
+   "id": "03c0ff7cea1f",
+   "title": "Why the world’s No. 1 fund manager has just changed its mind on bonds for the first time in six years",
+   "link": "https://www.marketwatch.com/story/why-the-worlds-number-one-fund-manager-has-just-changed-its-mind-on-bonds-for-the-first-time-in-six-years-4b1b5490?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "After six years, BlackRock finds opportunities in government bonds.",
+   "published": "2026-10-13T11:28:00+00:00"
+  },
+  {
+   "id": "2743ea2faa76",
+   "title": "Pope Leo admitted to hospital for operation to remove growth on lung",
+   "link": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Leo arrived at hospital on Tuesday for the surgery, which is deemed low risk and could take place this afternoon Pope Leo has been admitted to hospital in Rome for an operation to remove a small growth from his lung, a discovery a top Vatican cardinal said had come “like a bolt…",
+   "published": "2026-10-13T11:27:01+00:00"
+  },
+  {
+   "id": "6d14e3f899ed",
+   "title": "Ex-president named leader of new DR Congo rebel coalition",
+   "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
+   "published": "2026-10-13T11:23:55+00:00"
+  },
+  {
+   "id": "07c9add22549",
+   "title": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
+   "link": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "El Niño has continued to strengthen, with several key measures now in record territory. Simon King explores how it compares to previous events.",
+   "published": "2026-10-13T11:18:44+00:00"
+  },
+  {
+   "id": "025a1df7a48e",
+   "title": "‘My son was killed’ France faces backlash over proposed police firearms law",
+   "link": "https://www.aljazeera.com/news/2026/10/13/my-son-was-killed-france-faces-backlash-over-proposed-police-firearms-law?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As protests nationwide protests rage, activists warn proposed law could lead to more impunity.",
+   "published": "2026-10-13T11:17:54+00:00"
+  },
+  {
+   "id": "daef34140f71",
+   "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
+   "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+   "published": "2026-10-13T11:15:00+00:00"
+  },
+  {
+   "id": "c191b5454773",
+   "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine’s president says his country has halted strikes on Russian oil refineries for two days after Trump’s energy ceasefire announcement On frozen Russian assets, Poland’s Sikorski says the use of frozen Russian assets is “a complicated issue,” but takes a very clear stance…",
+   "published": "2026-10-13T11:14:06+00:00"
+  },
+  {
+   "id": "7962cc899f18",
+   "title": "Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home",
+   "link": "https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The government is using millions of taxpayers' dollars on pro-Trump ads, even after the president said this would not happen. And, federal agents search Rep. Ilhan Omar's D.C. home.",
+   "published": "2026-10-13T11:08:14+00:00"
+  },
+  {
+   "id": "ebf253523800",
+   "title": "Andy Burnham will take Britain back into European Union, Neil Kinnock claims – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former Labour leader says he believes the prime minister has an ‘authentic commitment’ to taking the UK back into the EU Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU Zia Yusuf , Reform UK’s home affairs spokesperson, has said he does not agree with…",
+   "published": "2026-10-13T11:06:20+00:00"
+  },
+  {
+   "id": "3fcea5da0df2",
+   "title": "A SpaceX launch shortage is fueling a $100 billion investing spree",
+   "link": "https://www.marketwatch.com/story/a-spacex-launch-shortage-is-fueling-a-100-billion-investing-spree-25b7d043?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A commercial-launch bottleneck has spurred an unprecedented wave of investment in space infrastructure and applications",
+   "published": "2026-10-13T11:06:00+00:00"
+  },
+  {
+   "id": "dbb1b3cedfe2",
+   "title": "Is punishing the poor Trump’s last hand to play?",
+   "link": "https://www.theguardian.com/us-news/2026/oct/13/trump-aca-healthcare-politics-midterms",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The pre-midterm defenestration of ACA enrollees looks like political madness – but the president appears to believe hitting poor people might work for him There is a manic quality to Donald Trump ’s desperate dash to do something, anything, ahead of November’s midterm elections…",
+   "published": "2026-10-13T11:00:56+00:00"
+  },
+  {
+   "id": "e3998d4ca2d8",
+   "title": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Caution urged over Javier Milei government’s ‘red notice’ requests for arrest of individuals linked to oil project Britain has appealed to Interpol to reject Argentina’s requests for the arrest of individuals involved in a large oil project off the Falkland Islands.…",
+   "published": "2026-10-13T11:00:55+00:00"
+  },
+  {
+   "id": "48205d775f4f",
+   "title": "Ian McKellen to star in UK premiere of ‘mixed reality’ play – but not in person",
+   "link": "https://www.theguardian.com/stage/2026/oct/13/mixed-reality-play-an-ark-ian-mckellen-manchester",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Audiences in Manchester will be asked to wear smart glasses for An Ark, which debuted in New York this year Ian McKellen will star in a groundbreaking new play that gets its UK premiere in Manchester next spring. But the veteran actor will not set foot on stage. The Lord of the…",
+   "published": "2026-10-13T11:00:55+00:00"
+  },
+  {
+   "id": "49f8d6668113",
+   "title": "A New Supreme Court Case Tests the Limits of Judicial Deference to Federal Agencies",
+   "link": "https://reason.com/2026/10/13/a-new-supreme-court-case-tests-the-limits-of-judicial-deference-to-federal-agencies/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What’s at stake in Beaird v. United States.",
+   "published": "2026-10-13T11:00:51+00:00"
+  },
+  {
+   "id": "e36d412af630",
+   "title": "Today in Supreme Court History: October 13, 1890",
+   "link": "https://reason.com/volokh/2026/10/13/today-in-supreme-court-history-october-13-1890-8/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "10/13/1890: Justice Samuel Miller dies. The post Today in Supreme Court History: October 13, 1890 appeared first on Reason Magazine.",
+   "published": "2026-10-13T11:00:11+00:00"
+  },
+  {
+   "id": "b850ecd29035",
+   "title": "Two US cities could soon ban one of the world’s most controversial foods",
+   "link": "https://www.vox.com/future-perfect/505974/foie-gras-ban-dc-denver-election",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In November, voters in Washington, DC, and Denver will cast their ballots to decide whether their cities’ restaurants and grocery stores can continue to sell one of the world’s more controversial foods: foie gras. French for “fatty liver,” foie gras is made by briefly…",
+   "published": "2026-10-13T11:00:00+00:00"
+  },
+  {
+   "id": "52f45f333f39",
+   "title": "Options traders expect wild stock-market swings beginning later this month. Here are 4 things to watch.",
+   "link": "https://www.marketwatch.com/story/options-traders-expect-wild-stock-market-swings-beginning-later-this-month-here-are-4-things-to-watch-e4931b02?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "After an eventful summer, U.S. stocks appear to have hit a pocket of calm. Over the past few sessions, trading volume has dwindled, while major indexes have mostly drifted sideways.",
+   "published": "2026-10-13T11:00:00+00:00"
+  },
+  {
+   "id": "8669f2494bbb",
+   "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+   "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Eleven crew members are missing after a merchant ship was sunk overnight, local officials say.",
+   "published": "2026-10-13T10:57:17+00:00"
+  },
+  {
+   "id": "3707d79ae1c6",
+   "title": "First Thing: Democratic leaders condemn federal raid on Ilhan Omar as she vows not to be silenced",
+   "link": "https://www.theguardian.com/us-news/2026/oct/13/first-thing-democratic-leaders-condemn-federal-raid-ilhan-omar",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Minnesota congresswoman criticized raid as attempt by Trump administration ‘to target political enemies and weaponize law enforcement’. Plus what is to be done about the world record in the women’s marathon? Good morning. Ilhan Omar has said she will not be silenced after…",
+   "published": "2026-10-13T10:55:22+00:00"
+  },
+  {
+   "id": "3218583c877f",
+   "title": "SEC Paves the Way for Blockchain Stock Trading in Landmark Shift",
+   "link": "https://www.kiplinger.com/investing/cryptocurrency/sec-paves-the-way-for-blockchain-trading",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The U.S. Securities and Exchange Commission has launched a five-year exemption for tokenized equities, bridging traditional stock markets with blockchain.",
+   "published": "2026-10-13T10:54:26+00:00"
+  },
+  {
+   "id": "de3997d64cd7",
+   "title": "Israel’s military raids NGO offices in Ramallah",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Al Jazeera’s Nida Ibrahim reports from Ramallah in the occupied West Bank where Israeli forces raided several NGOs.",
+   "published": "2026-10-13T10:53:16+00:00"
+  },
+  {
+   "id": "852ecd3807b1",
+   "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
+   "link": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan.",
+   "published": "2026-10-13T10:51:33+00:00"
+  },
+  {
+   "id": "46706315fd7c",
+   "title": "UnitedHealth keeps medical costs under control — and raises its outlook again",
+   "link": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The health-insurance giant said its medical-cost ratio was 88.4% in the third quarter of this year as the company tries to rein in spending on medical care.",
+   "published": "2026-10-13T10:45:00+00:00"
+  },
+  {
+   "id": "bcced84231c6",
+   "title": "Is Trump’s Diesel Deal Legal?",
+   "link": "https://thedispatch.com/newsletter/morning/is-trumps-diesel-deal-legal/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: Rep. Ilhan Omar’s home is searched in a federal criminal probe, Britain’s prime minister blames Iran for a suspected terror plot, and all hail the mega pumpkin.",
+   "published": "2026-10-13T10:43:18+00:00"
+  },
+  {
+   "id": "c74be975d44c",
+   "title": "A look at Qatar’s local, regional and global autism initiatives",
+   "link": "https://www.aljazeera.com/video/centre-stage/2026/10/13/a-look-at-the-countrys-local-regional-and-global-initiatives?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In 2025, the Qatar Foundation launched a 10-year autism strategy to provide lifelong support for individuals with autism",
+   "published": "2026-10-13T10:42:30+00:00"
+  },
+  {
+   "id": "d7320b9b78a9",
+   "title": "Immigration agents search congresswoman Ilhan Omar's home",
+   "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
+   "published": "2026-10-13T10:37:39+00:00"
+  },
+  {
+   "id": "ea9ba7da399d",
+   "title": "UK shoppers seek deals as grocery price inflation rises again",
+   "link": "https://www.theguardian.com/business/2026/oct/13/uk-shoppers-deals-grocery-price-inflation-supermarkets-prices-halloween",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Price of chocolates falls in run-up to Halloween, while supermarkets use special offers to draw in sales Business live – latest updates Grocery price inflation in the UK has picked up further, prompting shoppers to turn to special offers to keep their bills down – while the…",
+   "published": "2026-10-13T10:37:00+00:00"
+  },
+  {
    "id": "75becf5f9e49",
    "title": "How housing victories in San Diego, Austin, and Atlanta could spread nationwide",
    "link": "https://www.vox.com/policy/505745/housing-mayors-bloomberg-philanthropy-affordability-adu-strikeforce-permitting",
@@ -137,6 +478,17 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "As rents and homelessness climbed in San Diego over the last decade, leaders watched in frustration as affordable housing projects took months to get approved. The longer a project dragged on, the more expensive it became. Housing in America is notoriously slow and complicated…",
+   "published": "2026-10-13T10:30:00+00:00"
+  },
+  {
+   "id": "4b819e7f9ef3",
+   "title": "What ice cream has to do with this year's Nobel Prize in economics",
+   "link": "https://www.npr.org/sections/planet-money/2026/10/13/g-s1-147816/what-ice-cream-has-to-do-with-this-years-nobel-prize-in-economics",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prices can get sticky. That helps explain why recessions hurt so much — and what policymakers can do about them.",
    "published": "2026-10-13T10:30:00+00:00"
   },
   {
@@ -149,28 +501,6 @@
    "flourishing_feed": false,
    "summary": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
    "published": "2026-10-13T10:28:07+00:00"
-  },
-  {
-   "id": "de75db705d1e",
-   "title": "Trump targets Ilhan Omar at rally following raid on her home – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President says Somalia, birthplace of the Minnesota Democratic congresswoman, is ‘one of the worst countries on the planet’ Sign up for the US Breaking News email Donald Trump on Monday tried to boost senator Jon Husted’s reelection campaign by attacking two groups of…",
-   "published": "2026-10-13T10:24:42+00:00"
-  },
-  {
-   "id": "c191b5454773",
-   "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for energy ceasefire and gave ‘no early warning’ before strikes on Kyiv – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Ukraine’s president says his country has halted strikes on Russian oil refineries for two days after Trump’s ceasefire announcement On frozen Russian assets, Poland’s Sikorski says the use of frozen Russian assets is “a complicated issue,” but takes a very clear stance in…",
-   "published": "2026-10-13T10:24:38+00:00"
   },
   {
    "id": "1d7f84b32da5",
@@ -191,19 +521,8 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Cyber-attack on TFG London comes less than a week after online fashion seller Asos was hit by hackers Business live – latest updates The owner of Phase Eight, Hobbs and Whistles has warned that its websites and IT systems have been hit by a cyber-attack that may have…",
+   "summary": "Cyber-attack on TFG London comes less than a week after online fashion seller Asos was hit by hackers Business live – latest updates The owner of Phase Eight, Hobbs and Whistles has said its websites and IT systems have been hit by a cyber-attack that may have compromised…",
    "published": "2026-10-13T10:11:46+00:00"
-  },
-  {
-   "id": "ebf253523800",
-   "title": "Andy Burnham will take Britain back into European Union, Neil Kinnock claims – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Former Labour leader says he believes the prime minister has an ‘authentic commitment’ to taking the UK back into the EU Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU Ed Miliband has also admitted that Donald Trump’s decision to buy Russian diesel, and…",
-   "published": "2026-10-13T10:06:09+00:00"
   },
   {
    "id": "c7de842a1d17",
@@ -215,17 +534,6 @@
    "flourishing_feed": false,
    "summary": "Swedish activist stands alongside French teenagers calling for investment to fix teacher shortages and crumbling schools The Swedish climate activist Greta Thunberg has joined demonstrating high school students in France as the country braced for another day of nationwide…",
    "published": "2026-10-13T10:03:01+00:00"
-  },
-  {
-   "id": "46706315fd7c",
-   "title": "UnitedHealth keeps medical costs under control — and raises its outlook again",
-   "link": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "The health-insurance giant said its medical-cost ratio was 88.4% in the third quarter of this year as the company tries to rein in spending on medical care.",
-   "published": "2026-10-13T10:03:00+00:00"
   },
   {
    "id": "f7a648e7be3d",
@@ -378,7 +686,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Snipers have been deployed outside entrances to the Palestine Medical Complex, WAFA reported.",
+   "summary": "Snipers have been deployed outside entrances to the Palestine Medical Complex, Wafa reported.",
    "published": "2026-10-13T09:47:05+00:00"
   },
   {
@@ -411,7 +719,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Spain remains most popular destination as Britons book later in hope of better deals, Abta report finds Business live – latest updates The UK’s cost of living squeeze means fewer people plan to ringfence money for holiday abroad next year, the travel industry warned on Tuesday.…",
+   "summary": "Spain remains most popular destination as Britons book later in hope of better deals, Abta report finds Business live – latest updates The UK’s cost of living squeeze means fewer people plan to ringfence money for holidays abroad next year, the travel industry has warned.…",
    "published": "2026-10-13T09:30:20+00:00"
   },
   {
@@ -690,19 +998,8 @@
    "published": "2026-10-13T08:53:56+00:00"
   },
   {
-   "id": "8669f2494bbb",
-   "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
-   "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Bulgaria's prime minister says two merchant ships were hit by drones and he suspects Russia was behind the attacks.",
-   "published": "2026-10-13T08:52:48+00:00"
-  },
-  {
    "id": "73704e7c4cef",
-   "title": "Former DR Congo president Kabila joins M23 rebels in a new coalition",
+   "title": "Former DR Congo President Kabila joins M23 rebels in a new coalition",
    "link": "https://www.aljazeera.com/news/2026/10/13/former-dr-congo-president-kabila-joins-m23-rebels-in-a-new-coalition?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -787,17 +1084,6 @@
    "flourishing_feed": false,
    "summary": "Africa is rich in energy, yet hundreds of millions Africans still live without electricity, most of the world's total.",
    "published": "2026-10-13T08:25:54+00:00"
-  },
-  {
-   "id": "ea9ba7da399d",
-   "title": "UK shoppers seek deals as grocery price inflation rises again",
-   "link": "https://www.theguardian.com/business/2026/oct/13/uk-shoppers-deals-grocery-price-inflation-supermarkets-prices-halloween",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Supermarkets use special offers to draw in sales, while more people buy Halloween products early this year Business live – latest updates Grocery price inflation in the UK has picked up further, prompting shoppers to turn to special offers to keep their bills down – while the…",
-   "published": "2026-10-13T08:21:13+00:00"
   },
   {
    "id": "1f36888f6b47",
@@ -1658,17 +1944,6 @@
    "published": "2026-10-12T23:54:05+00:00"
   },
   {
-   "id": "daef34140f71",
-   "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
-   "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-   "published": "2026-10-12T23:31:00+00:00"
-  },
-  {
    "id": "0355f54a6216",
    "title": "Invitations President Oaks has given since he became President of the Church",
    "link": "https://www.deseret.com/faith/2026/10/12/church-news-president-oaks-invitations-trust-in-the-lord-be-a-peacemaker/",
@@ -1843,17 +2118,6 @@
    "flourishing_feed": false,
    "summary": "Nearly $22 million in taxpayers funds has been spent to air the ads, with nearly half spent after Trump promised to fund what the White House calls public service announcements through his super PAC.",
    "published": "2026-10-12T22:16:47+00:00"
-  },
-  {
-   "id": "d7320b9b78a9",
-   "title": "Immigration agents search congresswoman Ilhan Omar's home",
-   "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Omar, an outspoken Trump critic, said the search was \"an attempt to target political enemies\" and she \"will not be silenced\".",
-   "published": "2026-10-12T22:05:31+00:00"
   },
   {
    "id": "4e18150c9776",
