@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T20:47:26.107290+00:00",
+ "generated": "2026-10-13T21:43:00.224061+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -33,8 +33,8 @@
   },
   {
    "name": "Deseret News",
-   "ok": false,
-   "error": "ParseError: no element found: line 1, column 38"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Vox",
@@ -129,6 +129,204 @@
  ],
  "items": [
   {
+   "id": "5adf3de958a6",
+   "title": "Australian politics live: Chalmers says ATO surcharge was joint intervention with PM; Nationals MP defends ‘shamed and stoned’ remark",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Australia missing out on $45bn of revenue from resources: Greens As Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being…",
+   "published": "2026-10-13T21:29:59+00:00"
+  },
+  {
+   "id": "4daa8ce28f61",
+   "title": "General election ballots to be mailed out this week",
+   "link": "https://www.deseret.com/utah/2026/10/13/general-election-ballots-to-be-mailed-out-this-week/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ballots for the November general election are expected to be mailed out to voters starting on Tuesday.",
+   "published": "2026-10-13T21:29:46+00:00"
+  },
+  {
+   "id": "a5ce35ef2b5c",
+   "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
+   "link": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that overtook city streets and intense waves…",
+   "published": "2026-10-13T21:29:08+00:00"
+  },
+  {
+   "id": "8c0840275ccc",
+   "title": "Florida officials say six people dead from Hurricane Isaias",
+   "link": "https://www.theguardian.com/us-news/2026/oct/13/hurricane-isaias-death-toll-florida",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Governor Ron DeSantis says death toll ‘sad’ but praises work of local officials for helping to minimize storm’s impact Six deaths have been confirmed in Florida in the aftermath of Hurricane Isaias. In a press conference on Tuesday, Florida governor Ron DeSantis praised the…",
+   "published": "2026-10-13T21:25:37+00:00"
+  },
+  {
+   "id": "8d58d58e9019",
+   "title": "The Supreme Court may be about to make America’s prisons much crueler",
+   "link": "https://www.vox.com/politics/506261/supreme-court-trump-kingdom-prisons-cruel-unusual-transgender",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "On the first day of his second term, President Donald Trump issued an executive order requiring the Bureau of Prisons to “ensure that no Federal funds are expended for any medical procedure, treatment, or drug for the purpose of conforming an inmate’s appearance to that of the…",
+   "published": "2026-10-13T21:25:00+00:00"
+  },
+  {
+   "id": "6e65d45502f1",
+   "title": "Trump’s revenge campaign comes for Ilhan Omar",
+   "link": "https://www.vox.com/today-explained-newsletter/505820/ilhan-omar-investigat",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here. When life gives you lemons, make it rain. Or…something like that! On Tuesday morning, Minnesota Rep. Ilhan Omar launched a…",
+   "published": "2026-10-13T21:15:00+00:00"
+  },
+  {
+   "id": "f25c43f91e77",
+   "title": "Man charged with murder over shooting death of boy, 12, in Sydney last month",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/14/man-charged-murder-alleged-shooting-boy-12-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A 19-year-old man was arrested and charged at Silverwater correctional facility on Tuesday Get our breaking news email , free app or daily news podcast A man has been charged with murder over the shooting death of a boy, 12, in Sydney’s north in September. Police were called to…",
+   "published": "2026-10-13T21:09:19+00:00"
+  },
+  {
+   "id": "7f6ce28eeb6a",
+   "title": "Episode 316: ‘Dedicate’ series shows young adults building faith",
+   "link": "https://www.deseret.com/faith/2026/10/13/church-news-podcast-episode-316-dedicate-series-shows-young-adults-building-faith/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Church of Jesus Christ of Latter-day Saints has begun releasing episodes in a six-part video series called “ Dedicate .” In this series, seven young adults from different countries tour the Salt Lake Temple to see its renovations. They share how they have worked to build…",
+   "published": "2026-10-13T21:07:32+00:00"
+  },
+  {
+   "id": "862d9276667f",
+   "title": "Vatican confirms Pope Leo’s surgery was successful",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/vatican-confirms-pope-leos-surgery-was-successful?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Vatican says Pope Leo XIV’s surgery to remove a small lung growth went well and as expected",
+   "published": "2026-10-13T21:05:07+00:00"
+  },
+  {
+   "id": "1a5e98fc6b21",
+   "title": "Food shortages in Yemen’s Taiz as Houthi siege hits supplies",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Yemeni government forces are encircled by the Houthis in Taiz, where blockades on road routes have worsened shortages.",
+   "published": "2026-10-13T21:04:44+00:00"
+  },
+  {
+   "id": "cb927c562cdd",
+   "title": "Surveillance video shows moment ICE vehicle strikes man in Houston",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/surveillance-video-shows-moment-ice-vehicle-strikes-man-in-houston?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "New footage shows the moment 48-year-old Miguel Parra-Hernandez was hit by an ICE officer’s car in Houston, Texas.",
+   "published": "2026-10-13T21:03:40+00:00"
+  },
+  {
+   "id": "0f85904ac248",
+   "title": "Chip stocks suffer worst stretch in 16 months as AI fatigue grips the market",
+   "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anticipation is building for Anthropic’s investor day, as Wall Street grows less patient with heavy AI spending.",
+   "published": "2026-10-13T21:02:00+00:00"
+  },
+  {
+   "id": "1d7f84b32da5",
+   "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
+   "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
+   "published": "2026-10-13T21:01:00+00:00"
+  },
+  {
+   "id": "6e6c393ae52a",
+   "title": "23-03653.pdf",
+   "link": "https://www.finra.org/node/390541",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "23-03653.pdf Anonymous (not verified) Tue, 10/13/2026 - 17:00 Case ID 23-03653 Forum FINRA Document Type Award Claimants Wendy Veale Respondents Fidelity Brokerage Services LLC Neutrals Michael P. Breton Thomas M. Madden Marjorie Ann Butler Hearing Site Boston, MA Award…",
+   "published": "2026-10-13T21:00:02+00:00"
+  },
+  {
+   "id": "9332552f4611",
+   "title": "Will Pennsylvania's Vape Ban Create More Cigarette Smokers?",
+   "link": "https://reason.com/2026/10/13/will-pennsylvanias-vape-ban-create-more-cigarette-smokers/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Starting next week, retailers will face steep fines for selling unapproved e-cigarettes, potentially pushing consumers back toward smoking or into illicit markets.",
+   "published": "2026-10-13T20:51:31+00:00"
+  },
+  {
+   "id": "19bd5b08563f",
+   "title": "H.R. 9530, Quiet Skies Act",
+   "link": "https://www.cbo.gov/publication/62851",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As ordered reported by the House Committee on Transportation and Infrastructure on September 15, 2026",
+   "published": "2026-10-13T20:47:00+00:00"
+  },
+  {
+   "id": "b0d9dfc4625c",
+   "title": "H.R. 9772, Foreign Funding Transparency Act",
+   "link": "https://www.cbo.gov/publication/62852",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As reported by the House Committee on Ways and Means on August 27, 2026",
+   "published": "2026-10-13T20:47:00+00:00"
+  },
+  {
+   "id": "3096662cd7bc",
+   "title": "Tupac Shakur killer sentenced to 40 years in prison",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/tupac-shakur-killer-sentenced-to-40-years-in-prison?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Duane ‘Keffe D’ Davis was sentenced to 40 years to life in prison over the 1996 murder of rap icon Tupac Shakur.",
+   "published": "2026-10-13T20:46:22+00:00"
+  },
+  {
    "id": "3ba9283bc735",
    "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
    "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
@@ -151,6 +349,17 @@
    "published": "2026-10-13T20:46:00+00:00"
   },
   {
+   "id": "de75db705d1e",
+   "title": "Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Guilfoyle has been under immense scrutiny after the Wall Street Journal reported on a series of questionable acts prior to securing her role in Athens Sign up for the US Breaking News email Ahead of her White House podium debut, Katie Zacharia reportedly monitored Donald…",
+   "published": "2026-10-13T20:45:46+00:00"
+  },
+  {
    "id": "d76002589bae",
    "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
    "link": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
@@ -171,17 +380,6 @@
    "flourishing_feed": false,
    "summary": "A fatal accident on a Six Flags Entertainment roller coaster sent shares of the amusement-park operator tumbling.",
    "published": "2026-10-13T20:41:00+00:00"
-  },
-  {
-   "id": "5adf3de958a6",
-   "title": "Australian politics live: Chalmers urges against mocking, cancelling or talking down to One Nation supporters",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast PM has a ‘fetish for humiliating his treasurer’, says Wilson The shadow treasurer, Tim Wilson , says the prime minister’s intervention to delay the ATO banning credit card payments shows a…",
-   "published": "2026-10-13T20:34:19+00:00"
   },
   {
    "id": "98d684a3e628",
@@ -283,17 +481,6 @@
    "published": "2026-10-13T20:25:00+00:00"
   },
   {
-   "id": "f25c43f91e77",
-   "title": "Man charged with murder over shooting death of boy, 12, in Sydney last month",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/14/man-charged-murder-alleged-shooting-boy-12-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "A 19-year-old man was arrested and charged at Silverwater correctional facility on Tuesday Get our breaking news email , free app or daily news podcast A man has been charged with murder over the shooting death of a boy, 12, in Sydney’s north in September. Police were called to…",
-   "published": "2026-10-13T20:19:46+00:00"
-  },
-  {
    "id": "fae5d7a77357",
    "title": "The Shane Gillis SNL Backlash Is Really Stupid",
    "link": "https://reason.com/2026/10/13/the-shane-gillis-snl-backlash-is-really-stupid/",
@@ -347,6 +534,28 @@
    "flourishing_feed": false,
    "summary": "Stocks closed lower Tuesday as earnings season started with a whimper. Will tomorrow's inflation data provide a positive catalyst?",
    "published": "2026-10-13T20:08:50+00:00"
+  },
+  {
+   "id": "25d9c639d9a9",
+   "title": "Rice-Eccles Stadium’s ‘suite-en up’ project approved by University of Utah trustees",
+   "link": "https://www.deseret.com/education/2026/10/13/utah-rice-eccles-stadium-enhancements-football/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Even while the 2026 Utah Utes football team is hovering on the cusp of top-10 rankings, school officials are preparing for a stadium mini-makeover in time for the 2027 season. The University of Utah Board of Trustees on Tuesday approved plans to move forward on design and…",
+   "published": "2026-10-13T20:06:52+00:00"
+  },
+  {
+   "id": "9a6601fe2cc4",
+   "title": "What an economics Nobel Prize winner knows about pricing",
+   "link": "https://www.npr.org/2026/10/13/nx-s1-5998849/what-an-economics-nobel-prize-winner-knows-about-pricing",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "NPR's Ailsa Chang chats with Michael Woodford of Columbia University, who was one of two Americans awarded the Nobel Prize in Economics.",
+   "published": "2026-10-13T20:03:35+00:00"
   },
   {
    "id": "a8608ca9a0bb",
@@ -424,17 +633,6 @@
    "flourishing_feed": false,
    "summary": "Davis was found guilty last month over his role in the late rap superstar's death in a drive-by shooting in 1996.",
    "published": "2026-10-13T19:51:14+00:00"
-  },
-  {
-   "id": "de75db705d1e",
-   "title": "Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Guilfoyle has been under immense scrutiny after the Wall Street Journal reported on a series of questionable acts prior to securing her role in Athens Sign up for the US Breaking News email Ahead of her White House podium debut, Katie Zacharia reportedly monitored Donald…",
-   "published": "2026-10-13T19:50:30+00:00"
   },
   {
    "id": "b930d36a0ec4",
@@ -602,6 +800,28 @@
    "published": "2026-10-13T19:11:09+00:00"
   },
   {
+   "id": "3de2e7c79bb3",
+   "title": "‘This is sacred ground’: Latter-day Saint apostle dedicates new temple in Ephraim, Utah",
+   "link": "https://www.deseret.com/faith/2026/10/12/sacred-ground-elder-rasband-dedicates-ephraim-utah-temple/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "EPHRAIM, Utah — Elder Ronald A. Rasband of the Quorum of the Twelve Apostles dedicated the Ephraim Utah Temple of The Church of Jesus Christ of Latter-day Saints on Sunday. “This is sacred ground,” he said. “The community of Ephraim and those in this temple district will never…",
+   "published": "2026-10-13T19:02:11+00:00"
+  },
+  {
+   "id": "8a9c99882b32",
+   "title": "‘Art is essential to the human experience:’ John Green’s book tour comes to Utah",
+   "link": "https://www.deseret.com/entertainment/2026/10/13/john-green-hollywood-ending-book-tour/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "John Green’s newest novel is a “love letter to movies,” but also highlights his concerns over the commodification of creative projects and the way private experiences of the humans in the spotlight are turned into public discourse. “Hollywood, Ending” released in September and…",
+   "published": "2026-10-13T18:58:58+00:00"
+  },
+  {
    "id": "d47f38a9e143",
    "title": "Wealth Enhancement Sues Ex-Advisor Who Left for RFG",
    "link": "https://www.wealthmanagement.com/ria-news/wealth-enhancement-sues-ex-advisor-over-client-solicitation",
@@ -655,6 +875,17 @@
    "flourishing_feed": false,
    "summary": "The six-person Rosenwald Private Wealth team, led by Beth Rosenwald, joins John Thiel’s advisor-owned growth partnership.",
    "published": "2026-10-13T18:47:55+00:00"
+  },
+  {
+   "id": "d03b9715b9e3",
+   "title": "Atlanta Dream secure State Farm Arena for WNBA Finals after scheduling scramble",
+   "link": "https://www.deseret.com/sports/2026/10/13/atlanta-dream-secure-state-farm-arena-for-wnba-finals-after-scheduling-scramble/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Atlanta Dream have secured a bigger stage for their first WNBA Finals appearance in more than a decade after a scheduling conflict threatened to send the team to a much smaller arena for its home games. The league announced Tuesday morning that the Dream will host Games 3…",
+   "published": "2026-10-13T18:46:59+00:00"
   },
   {
    "id": "03311c3d3c4b",
@@ -734,6 +965,17 @@
    "published": "2026-10-13T18:30:33+00:00"
   },
   {
+   "id": "4832a0a0fe6f",
+   "title": "Good things appear afoot for Utah State in 2026-27 — and beyond",
+   "link": "https://www.deseret.com/sports/2026/10/13/good-things-appear-afoot-for-utah-state-in-2026-27-and-beyond/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "LOGAN — It’s certainly not that unusual to see members of the Utah State basketball team celebrate in the locker room. But in a short video that was circulated on social media last week, the current crop of Aggies is shown watching a large television, completely enthralled like…",
+   "published": "2026-10-13T18:30:00+00:00"
+  },
+  {
    "id": "da927edfb908",
    "title": "Cornell bans all fraternity parties over gang sex assault allegations",
    "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
@@ -745,15 +987,15 @@
    "published": "2026-10-13T18:25:28+00:00"
   },
   {
-   "id": "a5ce35ef2b5c",
-   "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
-   "link": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
-   "source": "The Guardian World",
-   "circle_hint": "international",
+   "id": "67fa472ab3d9",
+   "title": "Adam Silver’s NBA tech push could change officiating. Will the players buy in?",
+   "link": "https://www.deseret.com/sports/2026/10/13/adam-silvers-nba-tech-push-could-change-officiating/",
+   "source": "Deseret News",
+   "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that overtook city streets and intense waves…",
-   "published": "2026-10-13T18:25:06+00:00"
+   "summary": "The next big NBA technology development could be hiding inside the basketball itself. The league announced Oct. 5 it will be experimenting with two pieces of technology before the beginning of the regular season. That announcement came into conversations over the weekend at the…",
+   "published": "2026-10-13T18:24:37+00:00"
   },
   {
    "id": "3a6b92c38f7e",
@@ -1064,14 +1306,14 @@
    "published": "2026-10-13T17:36:43+00:00"
   },
   {
-   "id": "1d7f84b32da5",
-   "title": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?",
-   "link": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
+   "id": "c38ebb3c05a4",
+   "title": "Bear Bachmeier is Catholic, but Notre Dame wasn’t his favorite team growing up",
+   "link": "https://www.deseret.com/sports/2026/10/13/byu-football-bear-bachmeier-catholic-smoke-provo-boise-state-quarterback/",
+   "source": "Deseret News",
    "circle_hint": "national",
-   "domain_feed": true,
+   "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
+   "summary": "BYU quarterback Bear Bachmeier was raised in the Catholic faith , and his grandfather was a “diehard Notre Dame fan” who would have loved to have seen his grandsons play for the Irish. However, Bear grew up cheering not for his grandpa’s favorite team, or for BYU, a school he…",
    "published": "2026-10-13T17:30:00+00:00"
   },
   {
@@ -1229,17 +1471,6 @@
    "published": "2026-10-13T16:52:53+00:00"
   },
   {
-   "id": "0f85904ac248",
-   "title": "AI fatigue is gripping the market and driving chip stocks toward their worst stretch in 16 months",
-   "link": "https://www.marketwatch.com/story/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks-toward-their-worst-stretch-in-16-months-6dc78ece?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Anticipation is building for Anthropic’s investor day as Wall Street grows less patient with heavy AI spending.",
-   "published": "2026-10-13T16:52:00+00:00"
-  },
-  {
    "id": "2f6e6fdbb40f",
    "title": "2023077066101 American Veterans Group, PBC CRD 291933 AWC kc.pdf",
    "link": "https://www.finra.org/node/390521",
@@ -1350,6 +1581,17 @@
    "published": "2026-10-13T16:17:54+00:00"
   },
   {
+   "id": "b4c73aa93218",
+   "title": "This ‘Monday Night Football’ announcer will be joining the ‘Dancing with the Stars’ judges table",
+   "link": "https://www.deseret.com/entertainment/2026/10/13/dwts-super-bowl-night-preview/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The NFL will be colliding with the ballroom this week during “Dancing with the Stars” Super Bowl Night, which will feature songs from iconic halftime shows, guest appearances — including NFL stars — and even a guest judge. Joe Buck, ESPN’s “Monday Night Football” announcer will…",
+   "published": "2026-10-13T16:12:51+00:00"
+  },
+  {
    "id": "695d9f422b7f",
    "title": "Texas man run over by ICE has never met the person agents were allegedly chasing",
    "link": "https://www.theguardian.com/us-news/2026/oct/13/texas-man-struck-ice-vehicle",
@@ -1370,6 +1612,17 @@
    "flourishing_feed": false,
    "summary": "",
    "published": "2026-10-13T16:10:10+00:00"
+  },
+  {
+   "id": "7628a30d7a55",
+   "title": "White House confirms it asked Greece Ambassador Kimberly Guilfoyle to resign amid misconduct allegations",
+   "link": "https://www.deseret.com/politics/2026/10/13/white-house-confirms-asked-greek-ambassador-kimberly-guilfoyle-to-resign-amid-misconduct-allegations/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The White House confirmed Tuesday it had asked U.S. Ambassador to Greece Kimberly Guilfoyle to resign amid allegations of misconduct. White House press secretary Katie Zacharia confirmed during her first press briefing the administration asked Guilfoyle to step down. “She has…",
+   "published": "2026-10-13T16:09:04+00:00"
   },
   {
    "id": "1d294abab649",
@@ -1592,6 +1845,17 @@
    "published": "2026-10-13T15:08:25+00:00"
   },
   {
+   "id": "1807c3a704b3",
+   "title": "Opinion: What Instagram got wrong about my cancer treatment",
+   "link": "https://www.deseret.com/opinion/2026/10/13/what-instagram-got-wrong-about-my-cancer-treatment/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Every October for Breast Cancer Awareness Month, pink ribbons remind us to get screened. This year, they’re personal. In April, a routine mammogram caught my early-stage breast cancer. Utah ranks 44th in the country for screening, so let this be your nudge. After my diagnosis,…",
+   "published": "2026-10-13T15:02:31+00:00"
+  },
+  {
    "id": "a9fd93822637",
    "title": "Houthis threaten Saudi Aramco facilities, airports amid escalating conflict",
    "link": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports?traffic_source=rss",
@@ -1623,6 +1887,17 @@
    "flourishing_feed": false,
    "summary": "Follow updates from the league stage clash, including the build-up, analysis and live text commentary of the game.",
    "published": "2026-10-13T15:00:00+00:00"
+  },
+  {
+   "id": "7e039b3ed967",
+   "title": "Puka Nacua’s latest career night foiled as Rams fall to Bills in overtime thriller",
+   "link": "https://www.deseret.com/sports/2026/10/13/puka-nacua-receptions-record-los-angeles-rams-loss-buffalo-bills-monday-night-football/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Puka Nacua has made a habit out of having career games, and that happened again Monday night when his Los Angeles Rams faced the Buffalo Bills in primetime. Unfortunately for Nacua and the Rams, their efforts came up short as the Bills won a thriller in overtime, 37-34, after…",
+   "published": "2026-10-13T14:59:32+00:00"
   },
   {
    "id": "c20491bf3bd3",
@@ -1680,6 +1955,17 @@
    "published": "2026-10-13T14:41:11+00:00"
   },
   {
+   "id": "343e5861501d",
+   "title": "Deseret News archives: In 1960, Mazeroski, Law gave Pirates the World Series title",
+   "link": "https://www.deseret.com/utah/2024/10/13/deseret-news-archives-mazeroski-law-gave-pirates-world-series-title/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Editor’s note: This story was originally published on Oct. 13, 2024. A look back at local, national and world events through Deseret News archives. Even as some Americans were watching the plane carrying the volatile Soviet Premier Nikita Khrushchev exit out of U.S. airspace —…",
+   "published": "2026-10-13T14:26:07+00:00"
+  },
+  {
    "id": "c700ce0faa63",
    "title": "144 Million Standard Deduction Filers Get a New Charitable Tax Break",
    "link": "https://www.kiplinger.com/taxes/standard-deduction-filers-get-a-new-charitable-tax-break",
@@ -1700,6 +1986,17 @@
    "flourishing_feed": false,
    "summary": "U.S. stocks could face a serious test in 2027 as a tsunami of new equity issuance threatens to upend the artificial-intelligence-driven bull market, according to hedge-fund billionaire Paul Tudor Jones.",
    "published": "2026-10-13T14:10:00+00:00"
+  },
+  {
+   "id": "7eb436bcd1c5",
+   "title": "2026 Parry’s Power Guide: Predicting Week 10 of the high school football season",
+   "link": "https://www.deseret.com/sports/2026/10/13/high-school-football-parrys-power-guide-week-10/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Wednesday’s games Favored Team Rating Diff. Rating Underdog Edward’s Edge Alta 97.9 13.3 84.6 BRIGHTON Alta Bountiful 102.6 10.5 92.1 OLYMPUS Bountiful CORNER CANYON 141.0 22.9 118.1 Lehi Corner canyon Crimson Cliffs 97.3 19.7 77.6 PINE VIEW Crimson Cliffs Davis 115.2 25.4 89.8…",
+   "published": "2026-10-13T14:06:24+00:00"
   },
   {
    "id": "a91b1bef4ad7",
@@ -2579,6 +2876,17 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "The new holding company brings Beacon Capital Management, NorthRock Partners and Wealthcare under one umbrella as Sammons looks to streamline operations and accelerate RIA acquisitions.",
+   "published": "2026-10-13T10:00:00+00:00"
+  },
+  {
+   "id": "33bc8e6f4237",
+   "title": "This unique solution is making a difference when fighting poverty — education is not enough",
+   "link": "https://www.deseret.com/faith/2026/10/13/faith-religious-liberty-london/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Kiribati, an island country in the central Pacific Ocean, has nearly 130,000 citizens, roughly the population of a small American city. Most people are Christian, including members of The Church of Jesus Christ of Latter-day Saints. The country is also ravaged by severe poverty…",
    "published": "2026-10-13T10:00:00+00:00"
   },
   {
@@ -5253,17 +5561,6 @@
    "flourishing_feed": false,
    "summary": "In corners of the $195 billion market for derivative-income products, the Neos funds are seen as pushing the boundaries of tax rules.",
    "published": "2026-10-12T15:26:05+00:00"
-  },
-  {
-   "id": "3de2e7c79bb3",
-   "title": "‘This is sacred ground’: Latter-day Saint apostle dedicates new temple in Ephraim, Utah",
-   "link": "https://www.deseret.com/faith/2026/10/12/sacred-ground-elder-rasband-dedicates-ephraim-utah-temple/",
-   "source": "Deseret News",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "EPHRAIM, Utah — Elder Ronald A. Rasband of the Quorum of the Twelve Apostles dedicated the Ephraim Utah Temple of The Church of Jesus Christ of Latter-day Saints on Sunday. “This is sacred ground,” he said. “The community of Ephraim and those in this temple district will never…",
-   "published": "2026-10-12T15:21:26+00:00"
   },
   {
    "id": "f9fc8442fe0b",
@@ -9178,7 +9475,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Monday, Oct. 12, 2026 TELEVISION FOOTBALL Roughriders at Alouettes, CBSSN, 11 a.m. Bills at Rams, ABC/ESPN, 6:15 p.m. GOLF St. Andrews Links Collegiate, GOLF, 7 a.m. MLB Dodgers at Brewers, Fox, 3 p.m. Guardians at Rays, TBS, 6 p.m. NBA Preseason: Timberwolves at Knicks, NBA…",
+   "summary": "Tuesday, Oct. 13, 2026 TELEVISION FOOTBALL Delaware at MTSU, CBSSN, 5 p.m. FIU at Jacksonville St., ESPNU, 6 p.m. GOLF St. Andrews Links Collegiate, GOLF, 7 a.m. MLB Guardians at Rays, TBS, 6 p.m. NBA Preseason: Warriors vs. Lakers, NBA TV, 8 p.m. NHL Devils at Red Wings, ESPN,…",
    "published": "2026-10-11T06:00:00+00:00"
   },
   {
