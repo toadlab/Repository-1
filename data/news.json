@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T00:46:08.065434+00:00",
+ "generated": "2026-10-13T01:34:48.473622+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -83,8 +83,8 @@
   },
   {
    "name": "FINRA",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "Federal Reserve",
@@ -140,6 +140,28 @@
    "published": "2026-10-13T04:00:00+00:00"
   },
   {
+   "id": "c146a77e72f0",
+   "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+   "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+   "published": "2026-10-13T01:26:02+00:00"
+  },
+  {
+   "id": "2bbbf34e878c",
+   "title": "Australian politics live: businesses increasing prices under cover of surcharge ban, UBS economists warn; fire ants in Sydney’s inner west",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Robert Pether has stressed his innocence and recalled his brush with death in his first comments since the Australian engineer departed Iraq after serving more than five years in jail.…",
+   "published": "2026-10-13T01:23:16+00:00"
+  },
+  {
    "id": "a43848d6259b",
    "title": "High school boys golf: Lehi dominates day 1 of 6A state tournament",
    "link": "https://www.deseret.com/sports/2026/10/12/high-school-boys-golf-6a-state-tournament-day-1/",
@@ -149,17 +171,6 @@
    "flourishing_feed": false,
    "summary": "A three-year Corner Canyon reign seems to be coming to a close as Lehi is in prime position to not only win its first-ever state championship, but also to produce its first-ever medalist. The Pioneers, who don’t have a senior on their state championship team, hit 276 through…",
    "published": "2026-10-13T00:32:57+00:00"
-  },
-  {
-   "id": "2bbbf34e878c",
-   "title": "Australian politics live: Hanson-Young says she won’t run for Greens leadership again; fire ants found in Sydney’s inner west",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Robert Pether has stressed his innocence and recalled his brush with death in his first comments since the Australian engineer departed Iraq after serving more than five years in jail.…",
-   "published": "2026-10-13T00:27:52+00:00"
   },
   {
    "id": "d76002589bae",
@@ -224,7 +235,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Saudi Arabia says it intercepted a ballistic missile fired towards Riyadh, as Houthis say they targeted the airport.",
+   "summary": "Saudi Arabia claims it downed a ballistic missile fired at Riyadh, as the Houthis say they targeted King Khalid airport.",
    "published": "2026-10-12T23:54:05+00:00"
   },
   {
@@ -317,7 +328,7 @@
   },
   {
    "id": "ae029075bcb5",
-   "title": "Queensland prison where children self-harm to get transferred ‘more suitable’ than police watch-houses: ombudsman",
+   "title": "Queensland prison where children self-harm to get transferred ‘more suitable’ than police watch houses: ombudsman",
    "link": "https://www.theguardian.com/australia-news/2026/oct/13/queensland-ombudsman-backs-away-from-calls-to-close-youth-prison-so-unsuitable-some-children-self-harm-to-get-transferred-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -677,17 +688,6 @@
    "flourishing_feed": false,
    "summary": "Plus: America's growing deficit, youth protests in France, and Kimberly Guilfoyle's corruption scandal",
    "published": "2026-10-12T21:00:06+00:00"
-  },
-  {
-   "id": "c146a77e72f0",
-   "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-   "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-   "published": "2026-10-12T20:54:09+00:00"
   },
   {
    "id": "c33c83b916e8",
