@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T15:36:44.041967+00:00",
+ "generated": "2026-10-13T16:36:01.346987+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 23
+   "count": 25
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,237 @@
  ],
  "items": [
   {
+   "id": "ff9d638c0445",
+   "title": "Calm Markets, Crowded Risks",
+   "link": "https://www.wealthmanagement.com/investing-strategies/calm-markets-crowded-risks",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Now's the time to prove your value.",
+   "published": "2026-10-13T16:30:59+00:00"
+  },
+  {
+   "id": "ebf253523800",
+   "title": "MI5 chief Ken McCallum confirms Russia did interfere in Brexit referendum but says it had little impact – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "He argued there was no evidence to suggest the result of the Brexit vote had been swayed as a result of the effort Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU Zia Yusuf , Reform UK’s home affairs spokesperson, has said he does not agree with his…",
+   "published": "2026-10-13T16:23:21+00:00"
+  },
+  {
+   "id": "3ba9283bc735",
+   "title": "Pope admitted to hospital for surgery to remove lump on his lung",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pope Leo has said the growth is \"contained\" and had been found \"at a very early stage\".",
+   "published": "2026-10-13T16:21:15+00:00"
+  },
+  {
+   "id": "53c139b20f93",
+   "title": "‘Superintelligence’ may never arrive, Deutsche Bank says. What that could mean for the U.S. economy.",
+   "link": "https://www.marketwatch.com/story/superintelligence-may-never-arrive-deutsche-bank-says-what-that-could-mean-for-the-u-s-economy-765b89a8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Deutsche Bank’s Jim Reid said he sees productivity gains from artificial-intelligence adoption as having the potential to create new jobs.",
+   "published": "2026-10-13T16:21:00+00:00"
+  },
+  {
+   "id": "56cdb9f14ee5",
+   "title": "British and Irish governments ‘should negotiate paramilitary disbandment in Northern Ireland’",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/13/british-irish-negotiate-paramilitary-disbandment-northern-ireland",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Report finds ‘window of opportunity’ for formal process involving loyalist and republican groups The British and Irish governments should engage with paramilitary groups in Northern Ireland to negotiate their disbandment, according to a report. A “window of opportunity” exists…",
+   "published": "2026-10-13T16:17:54+00:00"
+  },
+  {
+   "id": "695d9f422b7f",
+   "title": "Texas man run over by ICE has never met the person agents were allegedly chasing",
+   "link": "https://www.theguardian.com/us-news/2026/oct/13/texas-man-struck-ice-vehicle",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Miguel Parra-Hernandez suffers from serious hip and leg injuries in Houston and remains in ICE custody, according to his representatives US man shoots off-duty ICE agent who allegedly attacked him and daughter A Texas man whose leg was broken in multiple places after being…",
+   "published": "2026-10-13T16:12:08+00:00"
+  },
+  {
+   "id": "c49c93c6d8a3",
+   "title": "Yiyun Li reveals life lessons in her new symphonic novel",
+   "link": "https://www.csmonitor.com/Arts-Culture/Books/2026/1013/Yiyun-Li-reveals-life-lessons-in-her-new-symphonic-novel?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "",
+   "published": "2026-10-13T16:10:10+00:00"
+  },
+  {
+   "id": "1d294abab649",
+   "title": "Majority in US say Trump prioritises personal wealth over all else: Poll",
+   "link": "https://www.aljazeera.com/news/2026/10/13/majority-in-us-say-trump-prioritises-personal-wealth-over-all-else-poll?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A majority of US adults say President Trump and his family have inappropriately profited from presidency.",
+   "published": "2026-10-13T16:07:26+00:00"
+  },
+  {
+   "id": "efb072b3aef3",
+   "title": "UK spy chief says Iran is stepping up targeting of military bases",
+   "link": "https://www.aljazeera.com/news/2026/10/13/uk-spy-chief-says-iran-is-stepping-up-targeting-of-military-bases?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "MI5 chief says 50 arrests were made in past year to disrupt Iran-led operations.",
+   "published": "2026-10-13T16:06:56+00:00"
+  },
+  {
+   "id": "3a6f302032e5",
+   "title": "Hundreds of early-release prisoners in England and Wales not being tagged, say MPs",
+   "link": "https://www.theguardian.com/society/2026/oct/13/early-release-prisoners-england-wales-tags-serco",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Clive Efford says Serco has failed to source enough tags, as police and probation struggle with influx of newly released offenders UK politics live – latest updates Hundreds of prisoners released early across England and Wales, including stalkers and violent offenders, are not…",
+   "published": "2026-10-13T16:03:20+00:00"
+  },
+  {
+   "id": "00c89c1e424c",
+   "title": "H.R. 7257, SECURE Grid Act",
+   "link": "https://www.cbo.gov/publication/62849",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As ordered reported by the Senate Committee on Energy and Natural Resources on September 30, 2026",
+   "published": "2026-10-13T15:59:00+00:00"
+  },
+  {
+   "id": "de75db705d1e",
+   "title": "White House says it has asked Kimberly Guilfoyle to resign as US ambassador to Greece – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Guilfoyle has been under immense scrutiny after the Wall Street Journal reported on a series of questionable acts prior to securing her role in Athens Sign up for the US Breaking News email Ahead of her White House podium debut, Katie Zacharia reportedly monitored Donald…",
+   "published": "2026-10-13T15:58:38+00:00"
+  },
+  {
+   "id": "13470da159b4",
+   "title": "MLB's Salary Cap Fight Isn't About Competitive Balance, It's About Limiting Labor Costs",
+   "link": "https://reason.com/2026/10/13/mlbs-salary-cap-fight-isnt-about-competitive-balance-its-about-limiting-labor-costs/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Even if a small market team wins the World Series, it won’t stop the owners from wanting a salary cap.",
+   "published": "2026-10-13T15:55:21+00:00"
+  },
+  {
+   "id": "c191b5454773",
+   "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
+   "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine’s president says his country has halted strikes on Russian oil refineries for two days after Trump’s energy ceasefire announcement On frozen Russian assets, Poland’s Sikorski says the use of frozen Russian assets is “a complicated issue,” but takes a very clear stance…",
+   "published": "2026-10-13T15:54:55+00:00"
+  },
+  {
+   "id": "d8dc2b2f1289",
+   "title": "Kimberly Guilfoyle steps down as US ambassador to Greece after alleged misconduct",
+   "link": "https://www.theguardian.com/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "White House asked Guilfoyle, who is alleged to have sought a bill payment from a Trump donor, to resign from post US politics live – latest updates Kimberly Guilfoyle is stepping down as US ambassador to Greece after weeks of reports that she sought payment from a Trump donor…",
+   "published": "2026-10-13T15:50:28+00:00"
+  },
+  {
+   "id": "f94ebcaa6f2b",
+   "title": "France seizes tanker suspected of belonging to Russia’s shadow fleet",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/france-seizes-tanker-suspected-of-belonging-to-russias-shadow-fleet?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "France seizes tanker suspected of belonging to Russia’s shadow fleet",
+   "published": "2026-10-13T15:44:44+00:00"
+  },
+  {
+   "id": "ab0ae5421fa0",
+   "title": "Aaron Sorkin's New Anti-Facebook Movie Is a Stunning Act of Self-Satisfied Cowardice",
+   "link": "https://reason.com/2026/10/13/aaron-sorkins-new-anti-facebook-movie-is-a-stunning-act-of-self-satisfied-cowardice/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This smug, simplistic film blames Facebook for all that's wrong with the world, ignoring the messy reality of humans and politics.",
+   "published": "2026-10-13T15:40:55+00:00"
+  },
+  {
+   "id": "0558a3375b30",
+   "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
+   "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "One person is dead and others were injured after an incident at the amusement park in the US state of Georgia.",
+   "published": "2026-10-13T15:38:03+00:00"
+  },
+  {
+   "id": "5e23db6834e6",
+   "title": "US ambassador to Greece resigns amid misconduct allegations",
+   "link": "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Kimberly Guilfoyle denies allegations that she offered access to Trump administration officials in exchange for money.",
+   "published": "2026-10-13T15:37:32+00:00"
+  },
+  {
+   "id": "9c539107d186",
+   "title": "Sweden’s centre-left leader fails in second bid to form government",
+   "link": "https://www.aljazeera.com/news/2026/10/13/swedens-centre-left-leader-fails-in-second-bid-to-form-government?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Social Democratic leader Magdalena Andersson says 'conditions not in place' to form government, prolonging deadlock.",
+   "published": "2026-10-13T15:37:18+00:00"
+  },
+  {
+   "id": "eec0b6cdaf31",
+   "title": "‘Pharma Bro’ Martin Shkreli is in trouble with regulators again, this time for influencing biopharma stocks",
+   "link": "https://www.marketwatch.com/story/pharma-bro-martin-shkreli-is-in-trouble-with-regulators-again-this-time-for-influencing-biopharma-stocks-7356c3bb?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Federal Trade Commission and seven states say Shkreli should be held in contempt",
+   "published": "2026-10-13T15:37:00+00:00"
+  },
+  {
    "id": "4afbe6d0e9a1",
    "title": "September CPI Report: What the Inflation Data Is Expected to Show",
    "link": "https://www.kiplinger.com/investing/economy/cpi-report-september-2026-what-to-expect",
@@ -138,17 +369,6 @@
    "flourishing_feed": false,
    "summary": "The September CPI report is a key inflation update the Fed will see before its next policy meeting. Here's what economists are saying about the data.",
    "published": "2026-10-13T15:34:18+00:00"
-  },
-  {
-   "id": "c191b5454773",
-   "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Ukraine’s president says his country has halted strikes on Russian oil refineries for two days after Trump’s energy ceasefire announcement On frozen Russian assets, Poland’s Sikorski says the use of frozen Russian assets is “a complicated issue,” but takes a very clear stance…",
-   "published": "2026-10-13T15:22:59+00:00"
   },
   {
    "id": "e8456c9999d8",
@@ -162,48 +382,15 @@
    "published": "2026-10-13T15:22:00+00:00"
   },
   {
-   "id": "0558a3375b30",
-   "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-   "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "One person is dead and others were injured after an incident at the amusement park in the US state of Georgia.",
-   "published": "2026-10-13T15:21:04+00:00"
-  },
-  {
    "id": "6ad11c64c72b",
-   "title": "Britons travelling to Europe told not to apply for delayed Etias visa waiver",
+   "title": "Britons travelling to EU countries told not to apply for delayed Etias visa waiver",
    "link": "https://www.theguardian.com/world/2026/oct/13/britons-travelling-to-europe-told-not-to-apply-for-delayed-etias-visa-waiver",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Abta advice comes as more than more than 150 websites offer service of securing entry to Schengen zone Britons travelling to Europe have told not to apply for an Etias visa waiver, with more than 150 websites touting the service despite its introduction being delayed. Non-EU…",
+   "summary": "Abta advice comes as more than more than 150 websites offer service of securing entry to Schengen zone Britons travelling to EU countries have told not to apply for an Etias visa waiver, with more than 150 websites touting the service despite its introduction being delayed.…",
    "published": "2026-10-13T15:21:04+00:00"
-  },
-  {
-   "id": "ebf253523800",
-   "title": "MI5 chief Ken McCallum confirms Russia did interfere in Brexit referendum but says it had little impact – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "He argued there was no evidence to suggest the result of the Brexit vote had been swayed as a result of the effort Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU Zia Yusuf , Reform UK’s home affairs spokesperson, has said he does not agree with his…",
-   "published": "2026-10-13T15:17:50+00:00"
-  },
-  {
-   "id": "eec0b6cdaf31",
-   "title": "‘Pharma Bro’ Martin Shkreli is in trouble with regulators again, this time for influencing biopharma stocks",
-   "link": "https://www.marketwatch.com/story/pharma-bro-martin-shkreli-is-in-trouble-with-regulators-again-this-time-for-influencing-biopharma-stocks-7356c3bb?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "The controversial investor has been weighing in on biopharma stocks even though he’s banned from doing so.",
-   "published": "2026-10-13T15:17:00+00:00"
   },
   {
    "id": "7de84b58d89f",
@@ -213,7 +400,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Spy chief Ken McCallum said Kremlin had attempted to influence 2016 vote through social media and TV reports Russia did try to interfere in the Brexit referendum through social media and television reports, the head of MI5 said today, but he added that did not mean the Kremlin…",
+   "summary": "Ken McCallum says Kremlin attempted to influence vote through social media and TV reports but had little impact Russia did try to interfere in the Brexit referendum through social media and television reports, the head of MI5 said on Tuesday, but he added that did not mean the…",
    "published": "2026-10-13T15:15:45+00:00"
   },
   {
@@ -235,19 +422,8 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Nearly half of species are in decline, with farmland birds and seabirds the worst hit, conservation bodies have said Wild bird populations in the UK have fallen to their lowest level since records began, figures show, with nearly half of species in decline. Figures produced by…",
+   "summary": "Nearly half of species are in decline, with farmland birds and seabirds the worst hit, conservation bodies say Wild bird populations in the UK have fallen to their lowest level since records began, figures show, with nearly half of species in decline. Figures produced by…",
    "published": "2026-10-13T15:08:25+00:00"
-  },
-  {
-   "id": "de75db705d1e",
-   "title": "White House says it has asked Kimberly Guilfoyle to resign as US ambassador to Greece – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Guilfoyle has been under immense scrutiny after the Wall Street Journal reported on a series of questionable acts prior to securing her role in Athens Sign up for the US Breaking News email Ahead of her White House podium debut, Katie Zacharia reportedly monitored Donald…",
-   "published": "2026-10-13T15:02:56+00:00"
   },
   {
    "id": "a9fd93822637",
@@ -369,17 +545,6 @@
    "flourishing_feed": false,
    "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
    "published": "2026-10-13T14:31:00+00:00"
-  },
-  {
-   "id": "d8dc2b2f1289",
-   "title": "Kimberly Guilfoyle asked to resign as ambassador after reports she asked Trump donor to pay bill",
-   "link": "https://www.theguardian.com/us-news/2026/oct/13/kimberly-guilfoyle-ambassador-greece-step-down",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Decision about US ambassador to Greece announced by White House after Trump and Rubio were reportedly furious over allegations US politics live – latest updates Kimberly Guilfoyle has been asked to step down as US ambassador to Greece, after weeks of reports that she sought…",
-   "published": "2026-10-13T14:23:41+00:00"
   },
   {
    "id": "c700ce0faa63",
@@ -864,6 +1029,17 @@
    "flourishing_feed": false,
    "summary": "Trial could see white supremacist who killed 10 people in New York state store get the death penalty Jury selection is set to begin on Tuesday in the trial that could see the white supremacist who killed 10 people in a 2022 Buffalo supermarket get the death penalty. The attack…",
    "published": "2026-10-13T12:14:28+00:00"
+  },
+  {
+   "id": "ec34ed93ce4b",
+   "title": "BBC FM radio transmissions suspended in Afghanistan",
+   "link": "https://www.bbc.co.uk/news/articles/cm8ezp4g7p6po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "BBC programming is still reaching audiences on shortwave, medium wave, via satellite and online.",
+   "published": "2026-10-13T12:13:57+00:00"
   },
   {
    "id": "03c0ff7cea1f",
