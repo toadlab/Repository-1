@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T04:36:12.902532+00:00",
+ "generated": "2026-10-13T05:34:40.170385+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 30
+   "count": 36
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,149 @@
  ],
  "items": [
   {
+   "id": "2bbbf34e878c",
+   "title": "Australian politics live: Climate protester restrained after interrupting NSW parliament; Liberal says PM should be ‘stoned in the square’ over ATO credit card ban",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Robert Pether has stressed his innocence and recalled his brush with death in his first comments since the Australian engineer departed Iraq after serving more than five years in jail.…",
+   "published": "2026-10-13T05:24:49+00:00"
+  },
+  {
+   "id": "b508a36d5e63",
+   "title": "Ace Bailey’s defense shines — and 2 other takeaways in final Jazz preseason home game",
+   "link": "https://www.deseret.com/sports/2026/10/12/utah-jazz-takeaways-preseason-game-against-san-antonio-spurs/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Utah Jazz played their third preseason game Monday, beating the San Antonio Spurs 119-109. Here are three takeaways from the game. Sharing is caring — but stealing is nice, too While head coach Will Hardy wasn’t happy with what he described as “sloppy fouling” in the second…",
+   "published": "2026-10-13T05:20:03+00:00"
+  },
+  {
+   "id": "c8af05b0ccf7",
+   "title": "Card surcharge ban used as ‘cover’ for larger price increases by Australian businesses, experts say",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/13/australia-surcharge-ban-credit-card-price-increases-business",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "‘Round-up’ pricing in items such as coffee suggests increases are exceeding the typical 1.5% surcharge fee Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Businesses are using the recent ban on credit card…",
+   "published": "2026-10-13T05:13:19+00:00"
+  },
+  {
+   "id": "fab0e62ee2ab",
+   "title": "Polls Aren’t the Problem. It’s How We Use Them.",
+   "link": "https://thedispatch.com/article/political-polling-2026-midterms-confusion/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "How to interpret polling for the midterms.",
+   "published": "2026-10-13T05:03:00+00:00"
+  },
+  {
+   "id": "e8483d5f6e73",
+   "title": "Death threats and isolation - the cost of fighting sexual violence in Iraq",
+   "link": "https://www.bbc.co.uk/news/articles/cqd089r55vp3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Women say they share stories of abuse to highlight the issue, despite social pressure and safety fears.",
+   "published": "2026-10-13T05:02:57+00:00"
+  },
+  {
+   "id": "6c0e5653903c",
+   "title": "Where the US midterm elections will be won and lost",
+   "link": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump’s final two years as president.",
+   "published": "2026-10-13T05:02:44+00:00"
+  },
+  {
+   "id": "532349d2019f",
+   "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+   "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
+   "published": "2026-10-13T05:02:34+00:00"
+  },
+  {
+   "id": "aa18191b8904",
+   "title": "Can John Sununu Overcome Political Gravity?",
+   "link": "https://thedispatch.com/article/new-hampshire-senate-midterms-sununu/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Being a scion of New Hampshire’s best-known political dynasty may not be enough in a tough electoral year.",
+   "published": "2026-10-13T05:02:00+00:00"
+  },
+  {
+   "id": "da7a5216ff5d",
+   "title": "More than 100 foreign trekkers stranded by floods in Nepal’s Gorkha region",
+   "link": "https://www.aljazeera.com/news/2026/10/13/more-than-100-foreign-trekkers-stranded-by-floods-in-nepals-gorkha-region?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rescue operation underway after flash floods swept away home, bridges and parts of the Manaslu trekking trail.",
+   "published": "2026-10-13T05:01:14+00:00"
+  },
+  {
+   "id": "95bf7c9fcd3f",
+   "title": "There’s No Good Reason to Make a Spectacle of Nidal Hasan",
+   "link": "https://thedispatch.com/article/nidal-hasan-execution-fort-hood-livestream/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "And there are plenty of reasons not to stream his execution.",
+   "published": "2026-10-13T05:01:00+00:00"
+  },
+  {
+   "id": "c0e66be66d6d",
+   "title": "Fractured Realities",
+   "link": "https://thedispatch.com/article/cornell-talarico-left-right-alternate-realities/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The age of micro-balkanization is going to become increasingly unpleasant.",
+   "published": "2026-10-13T05:01:00+00:00"
+  },
+  {
+   "id": "5e528a5db18a",
+   "title": "Man dies after fall from Six Flags rollercoaster in Georgia",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/man-dies-after-fall-from-six-flags-rollercoaster-in-georgia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "One person has died and several others were injured in an incident at Six Flags ‘Over Georgia’ theme park near Atlanta.",
+   "published": "2026-10-13T04:48:29+00:00"
+  },
+  {
+   "id": "88a2d9069c9c",
+   "title": "AI could self-replicate on home devices within ‘months’, Anthropic says",
+   "link": "https://www.aljazeera.com/economy/2026/10/13/ai-could-self-replicate-on-home-devices-within-months-anthropic-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US tech giant says small AI models may soon be capable of self-replication without access to a data centre.",
+   "published": "2026-10-13T04:47:00+00:00"
+  },
+  {
    "id": "c146a77e72f0",
    "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
    "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
@@ -140,15 +283,37 @@
    "published": "2026-10-13T04:30:09+00:00"
   },
   {
-   "id": "2bbbf34e878c",
-   "title": "Australian politics live: Climate protester restrained after interrupting NSW parliament; Shoebridge calls AI committee a ‘farce’ after letter ‘vetted’ by PM’s staffer",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/13/labor-anthony-albanese-charity-boost-greens-ukraine-coalition-one-nation-ntwnfb",
+   "id": "2d0da4ea9994",
+   "title": "Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast",
+   "link": "https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Robert Pether has stressed his innocence and recalled his brush with death in his first comments since the Australian engineer departed Iraq after serving more than five years in jail.…",
-   "published": "2026-10-13T04:24:16+00:00"
+   "summary": "Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast, causing flooding that downed trees and…",
+   "published": "2026-10-13T04:29:46+00:00"
+  },
+  {
+   "id": "4c89bc8d36c4",
+   "title": "Death on Six Flags rollercoaster in US triggers ride closures across six states",
+   "link": "https://www.theguardian.com/us-news/2026/oct/13/six-flags-georgia-death-rollercoaster",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Six Flags says nine rollercoasters across six amusement parks temporarily closed after reported fatal incident on Goliath ride in Georgia Theme park company Six Flags temporarily closed nine rollercoasters across six amusement parks on Monday after one person died and several…",
+   "published": "2026-10-13T04:27:38+00:00"
+  },
+  {
+   "id": "f0ba6cd7635a",
+   "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
+   "link": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Orla Guerin travelled through Yemen, with forces loyal to its internationally recognised government, to a remote desert battlefield where Houthi rebels were dislodged just days ago.",
+   "published": "2026-10-13T04:27:22+00:00"
   },
   {
    "id": "f1c8c44c2a8c",
@@ -171,6 +336,17 @@
    "flourishing_feed": false,
    "summary": "Portuguese superstar Cristiano Ronaldo waved a scarf with the Saudi flag after Al Nassr’s victory.",
    "published": "2026-10-13T04:09:52+00:00"
+  },
+  {
+   "id": "fc9ba88f88a5",
+   "title": "Watch: US man eyes pumpkin world record after fifth contest win",
+   "link": "https://www.bbc.co.uk/news/videos/c80405zkgyqvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Horticulture teacher Travis Gienger hauled his pumpkin from Minnesota to Half Moon Bay, California where he won the annual event.",
+   "published": "2026-10-13T04:04:57+00:00"
   },
   {
    "id": "067131977e99",
@@ -338,6 +514,17 @@
    "published": "2026-10-13T02:34:15+00:00"
   },
   {
+   "id": "0558a3375b30",
+   "title": "One dead and several hurt after rollercoaster incident at Six Flags",
+   "link": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Aerial footage at the park after the incident shows a stuck rollercoaster with riders being helped off.",
+   "published": "2026-10-13T02:26:21+00:00"
+  },
+  {
    "id": "5e630283ac29",
    "title": "High school boys golf: 5A state tournament Day 1 to conclude Tuesday",
    "link": "https://www.deseret.com/sports/2026/10/12/high-school-boys-golf-5a-state-tournament-day-1/",
@@ -391,6 +578,17 @@
    "flourishing_feed": false,
    "summary": "IMF sees a split global economy, with countries less exposed to the oil shock and benefiting from AI demand pulling ahead",
    "published": "2026-10-13T02:00:00+00:00"
+  },
+  {
+   "id": "f89ae431d317",
+   "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+   "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+   "published": "2026-10-13T01:50:47+00:00"
   },
   {
    "id": "26b1fa18f046",
@@ -481,17 +679,6 @@
    "published": "2026-10-12T23:54:05+00:00"
   },
   {
-   "id": "4c89bc8d36c4",
-   "title": "Death on Six Flags rollercoaster in US triggers ride closures across six states",
-   "link": "https://www.theguardian.com/us-news/2026/oct/13/six-flags-georgia-death-rollercoaster",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Six Flags says nine rollercoasters across six amusement parks temporarily closed after reported fatal incident on Goliath ride in Georgia Theme park company Six Flags temporarily closed nine rollercoasters across six amusement parks on Monday after one person died and several…",
-   "published": "2026-10-12T23:51:55+00:00"
-  },
-  {
    "id": "daef34140f71",
    "title": "‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?",
    "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
@@ -534,6 +721,17 @@
    "flourishing_feed": false,
    "summary": "“I’m in my 60s, recently retired and living my best life.”",
    "published": "2026-10-12T23:15:00+00:00"
+  },
+  {
+   "id": "a55388e6f0aa",
+   "title": "Boardroom feud tests trusted Indian business empire",
+   "link": "https://www.bbc.co.uk/news/articles/c54g1mp7lz7zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The dispute raises questions about the Indian conglomerate's governance, succession plans and future.",
+   "published": "2026-10-12T23:10:32+00:00"
   },
   {
    "id": "c386aa5c26bd",
@@ -622,6 +820,17 @@
    "flourishing_feed": false,
    "summary": "Warsaw says the 2 suspects held in Germany will face sabotage charges.",
    "published": "2026-10-12T22:44:00+00:00"
+  },
+  {
+   "id": "a6e1c7214981",
+   "title": "The island where locals say data centres are taking their water",
+   "link": "https://www.bbc.co.uk/news/articles/cqj6j7wlxd5eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "\"Not a single drop has come through our taps for the last three months,\" a local tells the BBC.",
+   "published": "2026-10-12T22:30:55+00:00"
   },
   {
    "id": "6b310e344d49",
@@ -851,7 +1060,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Actor who played Walter White Jr on the acclaimed show and advocated for disability representation remembered by Bryan Cranston as ‘my sweet son’ The Breaking Bad actor RJ Mitte died on Monday aged 34, his representatives confirmed. Mitte died in Brownsville, Texas . No cause…",
+   "summary": "Actor who played Walter White Jr on the acclaimed show and advocated for disability representation remembered by Bryan Cranston as ‘my sweet son’ RJ Mitte – a life in pictures The Breaking Bad actor RJ Mitte died on Monday aged 34, his representatives confirmed. Mitte died in…",
    "published": "2026-10-12T21:10:44+00:00"
   },
   {
