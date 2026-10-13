@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T12:43:44.775292+00:00",
+ "generated": "2026-10-13T13:41:19.344701+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 40
+   "count": 23
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,237 @@
  ],
  "items": [
   {
+   "id": "6d14e3f899ed",
+   "title": "Ex-president named leader of new DR Congo rebel coalition",
+   "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
+   "published": "2026-10-13T13:40:45+00:00"
+  },
+  {
+   "id": "f9938bf893d5",
+   "title": "This one move will save $20,000 on our wedding",
+   "link": "https://www.marketwatch.com/story/this-one-move-will-save-20-000-on-our-wedding-d22e4d24?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Plus: Where we’re cutting back to free up space in our wedding budget for the things we really want on our big day",
+   "published": "2026-10-13T13:35:00+00:00"
+  },
+  {
+   "id": "a27bd834b95c",
+   "title": "Settling the School Wars",
+   "link": "https://reason.com/2026/10/13/settling-the-school-wars/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: Objecting to the execution livestream, Ilhan Omar's house gets searched, Bulgarian attack, and more...",
+   "published": "2026-10-13T13:31:05+00:00"
+  },
+  {
+   "id": "58e51483f130",
+   "title": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
+   "link": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "LGBTQ and human rights activists warmly welcomed the move, but call for changes to other Orbán-era laws.",
+   "published": "2026-10-13T13:23:45+00:00"
+  },
+  {
+   "id": "c191b5454773",
+   "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine’s president says his country has halted strikes on Russian oil refineries for two days after Trump’s energy ceasefire announcement On frozen Russian assets, Poland’s Sikorski says the use of frozen Russian assets is “a complicated issue,” but takes a very clear stance…",
+   "published": "2026-10-13T13:23:37+00:00"
+  },
+  {
+   "id": "de75db705d1e",
+   "title": "Katie Zacharia to address media in first briefing as White House press secretary – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Zacharia – who recently served as a communications adviser to parent company of Truth Social – has replaced Karoline Leavitt Sign up for the US Breaking News email Ahead of her White House podium debut, Katie Zacharia reportedly monitored Donald Trump’s public schedule every…",
+   "published": "2026-10-13T13:23:11+00:00"
+  },
+  {
+   "id": "be181cb4e7a9",
+   "title": "Micron’s stock extends declines as China competition heats up",
+   "link": "https://www.marketwatch.com/story/microns-stock-extends-declines-as-china-competition-heats-up-b8ec25f0?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Even Elon Musk says Chinese memory-chip makers are catching up.",
+   "published": "2026-10-13T13:21:00+00:00"
+  },
+  {
+   "id": "8669f2494bbb",
+   "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+   "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Eleven crew members are missing after a merchant ship was sunk overnight, local officials say.",
+   "published": "2026-10-13T13:17:58+00:00"
+  },
+  {
+   "id": "ebf253523800",
+   "title": "MI5 chief Ken McCallum confirms Russia did interfere in Brexit referendum but says it had little impact – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "He argued there was no evidence to suggest the result of the Brexit vote had been swayed as a result of the effort Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU Zia Yusuf , Reform UK’s home affairs spokesperson, has said he does not agree with his…",
+   "published": "2026-10-13T13:11:11+00:00"
+  },
+  {
+   "id": "263e0df0d68f",
+   "title": "French fridge fright: Why supermarkets have become target for hackers",
+   "link": "https://www.aljazeera.com/economy/2026/10/13/french-fridge-fright-why-supermarkets-have-become-target-for-hackers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 500 shops across France were hit in a major cyberattack on freezers, which caused tonnes of food to perish.",
+   "published": "2026-10-13T13:08:46+00:00"
+  },
+  {
+   "id": "815cfa57c534",
+   "title": "Trump’s diesel deal opens a new rift with Europe over Ukraine",
+   "link": "https://www.aljazeera.com/news/2026/10/13/trumps-diesel-deal-opens-a-new-rift-with-europe-over-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump calls for Zelenskyy to be replaced, while Europe devotes summit to funding Ukraine.",
+   "published": "2026-10-13T13:06:42+00:00"
+  },
+  {
+   "id": "ac2baf6b4717",
+   "title": "Iran sees ‘false flag’ operations after UK blames IRGC for airbase incident",
+   "link": "https://www.aljazeera.com/news/2026/10/13/iran-sees-false-flag-operations-after-uk-blames-irgc-for-airbase-incident?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Iran has been accused of being behind a plot against an airbase in the UK.",
+   "published": "2026-10-13T13:03:56+00:00"
+  },
+  {
+   "id": "e99b64893210",
+   "title": "Iran threatens Gulf data centres: How exposed is the region’s internet?",
+   "link": "https://www.aljazeera.com/news/2026/10/13/iran-threatens-gulf-data-centres-how-exposed-is-the-regions-internet?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Iran has warned that cables and data centres in the region could be attacked, as Houthi allies hold internet chokepoint.",
+   "published": "2026-10-13T13:03:33+00:00"
+  },
+  {
+   "id": "77c37d7fdcbe",
+   "title": "Pennsylvania announces sixth death in measles outbreak as case numbers rise",
+   "link": "https://www.theguardian.com/us-news/2026/oct/13/pennsylvania-measles-sixth-death",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Latest fatality is unvaccinated woman, 39, with ‘underlying conditions’ but CDC still lists only two deaths nationwide A sixth death has been announced in Pennsylvania ’s measles outbreak, as new figures show cases in the state have risen above 1,100. The most recent fatality…",
+   "published": "2026-10-13T13:02:48+00:00"
+  },
+  {
+   "id": "9f02b9bc2925",
+   "title": "New Essay: \"The Establishment Clause At The Second Founding\"",
+   "link": "https://reason.com/volokh/2026/10/13/new-essay-the-establishment-clause-at-the-second-founding/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "\"The relevant time frame to understand the Establishment Clause for state cases is 1868, and not 1791.\"",
+   "published": "2026-10-13T13:01:31+00:00"
+  },
+  {
+   "id": "bccc9008cf90",
+   "title": "Rwanda to host a Grand Prix in 2030s as Formula One returns to Africa",
+   "link": "https://www.aljazeera.com/sports/2026/10/13/rwanda-to-host-a-grand-prix-in-2030s-as-formula-one-returns-to-africa?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rwanda has secured a 10-year deal to host F1 races at a purpose-built race track on the outskirts of the capital, Kigali.",
+   "published": "2026-10-13T12:59:27+00:00"
+  },
+  {
+   "id": "048c66e767e7",
+   "title": "Deadly Houthi attacks in Yemen’s Taiz as government forces advance in Marib",
+   "link": "https://www.aljazeera.com/news/2026/10/13/deadly-houthi-attacks-in-yemens-taiz-as-government-forces-advance-in-marib?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Government forces engage in intense clashes as Houthi shelling targets residential areas and hospitals in Taiz.",
+   "published": "2026-10-13T12:57:33+00:00"
+  },
+  {
+   "id": "8603fe098237",
+   "title": "Greta Thunberg says French students are being “robbed” amid nationwide prot",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/greta-thunberg-says-french-students-are-being-robbed-amid-nationwide-prot?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Climate activist Greta Thunberg has joined demonstrating high school students in France as protests continue to grow.",
+   "published": "2026-10-13T12:48:06+00:00"
+  },
+  {
+   "id": "6954fc1f0933",
+   "title": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
+   "link": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hundreds of people displaced in Bangka Belitung province as shift in wind direction drove blaze towards settlement A forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official said on Tuesday as…",
+   "published": "2026-10-13T12:44:44+00:00"
+  },
+  {
+   "id": "fa243dd70cce",
+   "title": "U.S. wealth has shifted to stocks from homes. There are big reasons to worry.",
+   "link": "https://www.marketwatch.com/story/u-s-wealth-has-shifted-to-stocks-from-homes-there-are-big-reasons-to-worry-aa05864d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The four-year bull market in stocks is riding high because of the AI boom. But it’s also increasing the cost of money.",
+   "published": "2026-10-13T12:44:00+00:00"
+  },
+  {
+   "id": "f9ef75734084",
+   "title": "African Union holds Kigali talks as fighting continues in eastern DRC",
+   "link": "https://www.aljazeera.com/news/2026/10/13/african-union-holds-kigali-talks-as-fighting-continues-in-eastern-drc?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three former African presidents discussed security commitments, refugee protection and regional cooperation.",
+   "published": "2026-10-13T12:40:26+00:00"
+  },
+  {
    "id": "16ef83427375",
    "title": "Fund managers retain surprising optimism in the face of stagnant stock market and tumultuous bond market",
    "link": "https://www.marketwatch.com/story/fund-managers-retain-surprising-optimism-in-the-face-of-stagnant-stock-market-and-tumultuous-bond-market-3d9763dd?mod=mw_rss_topstories",
@@ -174,7 +405,7 @@
   },
   {
    "id": "035035a6543a",
-   "title": "Australia bowl out South Africa to win first Test in Durban",
+   "title": "Australia bowl out South Africa to win first cricket Test in Durban",
    "link": "https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -182,17 +413,6 @@
    "flourishing_feed": false,
    "summary": "Hazlewood's 6-49 ⁠⁠helped the visitors clean up the South African batting, securing the win before tea on day five.",
    "published": "2026-10-13T12:28:13+00:00"
-  },
-  {
-   "id": "c191b5454773",
-   "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Ukraine’s president says his country has halted strikes on Russian oil refineries for two days after Trump’s energy ceasefire announcement On frozen Russian assets, Poland’s Sikorski says the use of frozen Russian assets is “a complicated issue,” but takes a very clear stance…",
-   "published": "2026-10-13T12:25:52+00:00"
   },
   {
    "id": "4f5defe2f547",
@@ -206,17 +426,6 @@
    "published": "2026-10-13T12:25:00+00:00"
   },
   {
-   "id": "ebf253523800",
-   "title": "MI5 chief Ken McCallum confirms Russia did interfere in Brexit referendum but says it had little impact – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/13/andy-burnham-brexit-eu-europe-neil-kinnock-lobby-wes-streeting-labour-prisoner-early-release-uk-politics-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "He argued there was no evidence to suggest the result of the Brexit vote had been swayed as a result of the effort Andy Burnham promises ‘serious dialogue’ over UK’s relationship with EU Zia Yusuf , Reform UK’s home affairs spokesperson, has said he does not agree with his…",
-   "published": "2026-10-13T12:19:18+00:00"
-  },
-  {
    "id": "fbec5216e857",
    "title": "Jury selection begins in hate crimes trial for Buffalo supermarket gunman",
    "link": "https://www.theguardian.com/us-news/2026/oct/13/jury-selection-buffalo-supermarket-shooting",
@@ -224,30 +433,8 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Trial could see white supremacist who killed 10 people in New York state store get the death penalty Jury selection is set to begin Tuesday in the trial that could see the white supremacist who killed 10 people in a 2022 Buffalo supermarket get the death penalty. The attack is…",
+   "summary": "Trial could see white supremacist who killed 10 people in New York state store get the death penalty Jury selection is set to begin on Tuesday in the trial that could see the white supremacist who killed 10 people in a 2022 Buffalo supermarket get the death penalty. The attack…",
    "published": "2026-10-13T12:14:28+00:00"
-  },
-  {
-   "id": "8669f2494bbb",
-   "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-   "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Eleven crew members are missing after a merchant ship was sunk overnight, local officials say.",
-   "published": "2026-10-13T12:10:54+00:00"
-  },
-  {
-   "id": "de75db705d1e",
-   "title": "Trump targets Ilhan Omar at rally after raid on progressive congresswoman’s home – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Minnesota Democrat says she will ‘not be silenced’ and called a search of her Washington home part of Trump’s ‘intimidation’ campaign Sign up for the US Breaking News email Donald Trump will begin his day in Washington before traveling to Alaska to campaign ahead of the…",
-   "published": "2026-10-13T12:09:57+00:00"
   },
   {
    "id": "03c0ff7cea1f",
@@ -259,6 +446,17 @@
    "flourishing_feed": false,
    "summary": "After six years, BlackRock finds opportunities in government bonds.",
    "published": "2026-10-13T12:04:00+00:00"
+  },
+  {
+   "id": "1f36888f6b47",
+   "title": "Watch: What newly released emergency calls tell us about Christa Pike's botched execution",
+   "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
+   "published": "2026-10-13T12:03:51+00:00"
   },
   {
    "id": "ef587c0ccbae",
@@ -339,7 +537,7 @@
   },
   {
    "id": "349e893ac2dd",
-   "title": "Six Flags’ stock slumps near 52-week lows after fatal accident",
+   "title": "Six Flags’ stock slumps toward 52-week low after fatal incident",
    "link": "https://www.marketwatch.com/story/six-flags-stock-slumps-near-52-week-lows-after-fatal-accident-3f938112?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
@@ -358,17 +556,6 @@
    "flourishing_feed": false,
    "summary": "Villagers in India say they would rather die than leave their homes as they protest a billion dollar government project",
    "published": "2026-10-13T11:30:55+00:00"
-  },
-  {
-   "id": "fa243dd70cce",
-   "title": "U.S. wealth has shifted to stocks from homes. There are big reasons to worry.",
-   "link": "https://www.marketwatch.com/story/u-s-wealth-has-shifted-to-stocks-from-homes-there-are-big-reasons-to-worry-aa05864d?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "The four-year bull market in stocks is riding high because of the AI boom. But it’s also increasing the cost of money.",
-   "published": "2026-10-13T11:30:00+00:00"
   },
   {
    "id": "895c8cf54a19",
@@ -391,17 +578,6 @@
    "flourishing_feed": false,
    "summary": "Leo arrived at hospital on Tuesday for the surgery, which is deemed low risk and could take place this afternoon Pope Leo has been admitted to hospital in Rome for an operation to remove a small growth from his lung, a discovery a top Vatican cardinal said had come “like a bolt…",
    "published": "2026-10-13T11:27:01+00:00"
-  },
-  {
-   "id": "6d14e3f899ed",
-   "title": "Ex-president named leader of new DR Congo rebel coalition",
-   "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
-   "published": "2026-10-13T11:23:55+00:00"
   },
   {
    "id": "07c9add22549",
@@ -1249,17 +1425,6 @@
    "flourishing_feed": false,
    "summary": "Africa is rich in energy, yet hundreds of millions Africans still live without electricity, most of the world's total.",
    "published": "2026-10-13T08:25:54+00:00"
-  },
-  {
-   "id": "1f36888f6b47",
-   "title": "Emergency calls from botched Christa Pike execution released to US media",
-   "link": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
-   "published": "2026-10-13T08:20:07+00:00"
   },
   {
    "id": "8ad12ff08570",
@@ -3463,7 +3628,7 @@
   },
   {
    "id": "18a7416e9037",
-   "title": "Watch: What could Trump's energy ceasefire mean for Ukraine?",
+   "title": "What could Trump's energy ceasefire mean for Ukraine?",
    "link": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
