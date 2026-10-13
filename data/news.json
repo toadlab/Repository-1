@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T18:41:13.660632+00:00",
+ "generated": "2026-10-13T19:45:58.570204+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,248 @@
  ],
  "items": [
   {
+   "id": "fcb8d3d501f8",
+   "title": "Europe’s intrinsic strengths in innovation",
+   "link": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/1013/Europe-s-intrinsic-strengths-in-innovation?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than half of the top 25 countries in a world index on innovation are in Europe. A few big factors: social and institutional trust, collaborative research, and policy consistency.",
+   "published": "2026-10-13T19:34:45+00:00"
+  },
+  {
+   "id": "5f33161d221b",
+   "title": "Submit Your Articles to the Journal of Free Speech Law, Before You Circulate Them to the Law Reviews",
+   "link": "https://reason.com/volokh/2026/10/13/submit-your-articles-to-the-journal-of-free-speech-law-before-you-circulate-them-to-the-law-reviews-6/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "We'll give you an answer within 14 days, and we can publish them within a few months, if you'd like.",
+   "published": "2026-10-13T19:30:40+00:00"
+  },
+  {
+   "id": "edb8d8f85418",
+   "title": "Cornell University bans frat parties, vows to address 'disturbing' campus culture",
+   "link": "https://www.npr.org/2026/10/13/nx-s1-6000347/cornell-rape-ban-fraternity-parties",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In a letter, Cornell's president apologized for what happened to the student who alleges she was raped by several men at a fraternity house in 2024 and promised 'meaningful action.'",
+   "published": "2026-10-13T19:23:57+00:00"
+  },
+  {
+   "id": "b91386fcbef1",
+   "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+   "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\".",
+   "published": "2026-10-13T19:23:28+00:00"
+  },
+  {
+   "id": "376ca9d9325f",
+   "title": "Enter the Zachbot: Trump’s new press secretary malfunctions on podium debut",
+   "link": "https://www.theguardian.com/us-news/2026/oct/13/katie-zacharia-trump-press-briefing",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Katie Zacharia’s maiden briefing was excruciating – at least her predecessor had delivered her propaganda hot Well, that was weird. Katie Zacharia , the new White House press secretary, made her debut on the podium on Tuesday with all the warmth, wisdom and political dexterity…",
+   "published": "2026-10-13T19:22:02+00:00"
+  },
+  {
+   "id": "de75db705d1e",
+   "title": "Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Guilfoyle has been under immense scrutiny after the Wall Street Journal reported on a series of questionable acts prior to securing her role in Athens Sign up for the US Breaking News email Ahead of her White House podium debut, Katie Zacharia reportedly monitored Donald…",
+   "published": "2026-10-13T19:21:30+00:00"
+  },
+  {
+   "id": "2743ea2faa76",
+   "title": "Pope Leo undergoes surgery to remove growth on lung",
+   "link": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Vatican says operation concluded ‘successfully, on schedule and as planned’ at hospital in Rome Pope Leo underwent an operation on Tuesday to remove a small growth from his lung, which the Vatican said concluded “successfully, on schedule and as planned”. In a rare moment of…",
+   "published": "2026-10-13T19:18:23+00:00"
+  },
+  {
+   "id": "dc1d67beddc9",
+   "title": "EU watchdog urges smart glasses to clearly signal when recording",
+   "link": "https://www.aljazeera.com/news/2026/10/13/eu-watchdog-urges-smart-glasses-to-clearly-signal-when?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Advisory comes amid growing concern about the devices being used to secretly record girls and women.",
+   "published": "2026-10-13T19:11:09+00:00"
+  },
+  {
+   "id": "216c07639113",
+   "title": "Duane ‘Keffe D’ Davis sentenced to 40 years to life over murder of Tupac Shakur",
+   "link": "https://www.theguardian.com/music/2026/oct/13/duane-davis-sentencing-tupac-shakur-murder",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "‘You don’t get to take a man from his family … and just walk away from it,’ judge says as former gang leader sentenced Tupac trial spotlights decades of US police failures in solving the case Duane “Keffe D” Davis, the former California gang leader convicted of murder for…",
+   "published": "2026-10-13T19:03:19+00:00"
+  },
+  {
+   "id": "a8608ca9a0bb",
+   "title": "Saudi coalition strikes fuel depot near Yemen's capital",
+   "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Houthis have warned Saudi Arabia that they will retaliate by targeting the Saudi cities of Riyadh and Dammam.",
+   "published": "2026-10-13T18:55:50+00:00"
+  },
+  {
+   "id": "8cd415cc4ee6",
+   "title": "Ex-gang boss sentenced to 40 years for orchestrating Tupac Shakur's murder",
+   "link": "https://www.bbc.co.uk/news/articles/c60rln2jvv2zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The sentence marks an end to the mystery around Tupac's cold case, which has intrigued hip-hop fans for nearly 30 years.",
+   "published": "2026-10-13T18:54:17+00:00"
+  },
+  {
+   "id": "130ee83d3473",
+   "title": "Zelenskyy tells NPR Ukraine wants peace but will hit Russia until it follows ceasefire",
+   "link": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In an interview with NPR, Ukrainian President Volodymyr Zelenskyy said he was informed the U.S. warned it could cut off access to U.S. weapons and intelligence, but that it hasn't happened yet.",
+   "published": "2026-10-13T18:51:55+00:00"
+  },
+  {
+   "id": "99c71d2d1232",
+   "title": "Judge orders Trump administration to halt work on historic DC golf course",
+   "link": "https://www.theguardian.com/us-news/2026/oct/13/judge-orders-halt-dc-golf-course",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "District judge Ana Reyes halts tree-cutting at the East Potomac golf course until 26 October, and now requires advance notice before making course changes US district judge Ana Reyes on Tuesday ordered a halt to tree-cutting at the East Potomac golf course until 26 October,…",
+   "published": "2026-10-13T18:50:19+00:00"
+  },
+  {
+   "id": "933b93ab21d3",
+   "title": "Russia arrests Japanese reporter for alleged espionage",
+   "link": "https://www.aljazeera.com/news/2026/10/13/russia-arrests-japanese-reporter-for-alleged?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Suspect was arrested on Russia's far-eastern Sakhalin Island before being transferred to Moscow, says Russia's FSB.",
+   "published": "2026-10-13T18:49:26+00:00"
+  },
+  {
+   "id": "d50b5b4f705b",
+   "title": "Indivisible Partners Adds $1.1B Baltimore Team From RBC Wealth Management",
+   "link": "https://www.wealthmanagement.com/ria-news/indivisible-partners-adds-11b-baltimore-team-from-rbc-wealth-management",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The six-person Rosenwald Private Wealth team, led by Beth Rosenwald, joins John Thiel’s advisor-owned growth partnership.",
+   "published": "2026-10-13T18:47:55+00:00"
+  },
+  {
+   "id": "03311c3d3c4b",
+   "title": "Cornell suspends fraternity parties after alleged campus gang rape case",
+   "link": "https://www.aljazeera.com/news/2026/10/13/cornell-suspends-fraternity-parties-after-alleged-campus-gang-rape-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fraternities face immediate emergency suspensions for violations amid sweeping ban tackling parties at US university.",
+   "published": "2026-10-13T18:45:51+00:00"
+  },
+  {
+   "id": "f5b82f8a5cff",
+   "title": "Trump Fired Kimberly Guilfoyle for Influence Peddling That Pales Next to His Presidential Profiteering",
+   "link": "https://reason.com/2026/10/13/trump-fired-kimberly-guilfoyle-for-influence-peddling-that-pales-next-to-his-presidential-profiteering/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "If the former ambassador tried to use her office for personal gain, she was only imitating her boss.",
+   "published": "2026-10-13T18:45:28+00:00"
+  },
+  {
+   "id": "2bdb92242455",
+   "title": "Who killed Tupac?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/who-killed-tupac?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For decades, Tupac Shakur’s murder remained unsolved. Now, Keffe D is being sentenced for his killing.",
+   "published": "2026-10-13T18:44:11+00:00"
+  },
+  {
+   "id": "23b2e695c9f7",
+   "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
+   "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Fintech companies are catching on to how Americans are altering their financial habits, and they’ve created new products to try to meet the moment.",
+   "published": "2026-10-13T18:44:00+00:00"
+  },
+  {
+   "id": "8b178f423c96",
+   "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go",
+   "link": "https://www.aljazeera.com/news/2026/10/13/gazas-yellow-line-advances-leaving-displaced-families-with-nowhere-to-go?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As Israel moves Gaza’s Yellow Line westward, displaced families in Shujayea face renewed danger.",
+   "published": "2026-10-13T18:42:52+00:00"
+  },
+  {
+   "id": "e27f85ad82a7",
+   "title": "‘There was a chance to stop him’: Parents react with fury to paedophile nursery worker revelations",
+   "link": "https://www.theguardian.com/society/2026/oct/13/there-was-a-chance-to-stop-him-parents-react-with-fury-to-paedophile-nursery-worker-revelations",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 50 families call for investigation into how Vincent Chan was allowed to return to job after inquiry by nursery The parents of the victims of paedophile nursery worker Vincent Chan have reacted with fury to the news that he was cleared to return to work after…",
+   "published": "2026-10-13T18:41:46+00:00"
+  },
+  {
+   "id": "3b13e2489adb",
+   "title": "RIA Edge Podcast: Building an RIA on a Family Office Foundation with Andy Busser",
+   "link": "https://www.wealthmanagement.com/ria-edge/ria-edge-podcast-building-an-ria-on-a-family-office-foundation-with-andy-busser",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Pitcairn's Andy Busser discusses the firm's evolution from single-family office to $12B RIA.",
+   "published": "2026-10-13T18:30:33+00:00"
+  },
+  {
    "id": "da927edfb908",
    "title": "Cornell bans all fraternity parties over gang sex assault allegations",
    "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
@@ -138,6 +380,17 @@
    "flourishing_feed": false,
    "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
    "published": "2026-10-13T18:25:28+00:00"
+  },
+  {
+   "id": "a5ce35ef2b5c",
+   "title": "California coastal homes battered and bruised after weekend of intense waves and flooding",
+   "link": "https://www.theguardian.com/us-news/2026/oct/13/california-storm-floods",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Boardwalk destroyed in Long Beach and homes damaged, while Baja California in Mexico and Las Vegas also affected Southern California coastal communities are picking up the pieces after a weekend of extreme weather brought flooding that overtook city streets and intense waves…",
+   "published": "2026-10-13T18:25:06+00:00"
   },
   {
    "id": "3ba9283bc735",
@@ -217,17 +470,6 @@
    "published": "2026-10-13T18:16:17+00:00"
   },
   {
-   "id": "de75db705d1e",
-   "title": "Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Guilfoyle has been under immense scrutiny after the Wall Street Journal reported on a series of questionable acts prior to securing her role in Athens Sign up for the US Breaking News email Ahead of her White House podium debut, Katie Zacharia reportedly monitored Donald…",
-   "published": "2026-10-13T18:16:08+00:00"
-  },
-  {
    "id": "63b610851330",
    "title": "Code Games 2.0",
    "link": "https://reason.com/2026/10/13/code-games-2-0/",
@@ -281,6 +523,17 @@
    "flourishing_feed": false,
    "summary": "The US and Europe can’t agree on how to end Russia’s war on Ukraine.",
    "published": "2026-10-13T18:07:05+00:00"
+  },
+  {
+   "id": "91ba992a7300",
+   "title": "Dalia Powers",
+   "link": "https://www.finra.org/about/governance/executives/dalia-powers",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Dalia Powers Executive Vice President and Chief Technology Engineering Officer Dalia Powers has more than 25 years of experience leading enterprise-scale engineering, digital, data, AI, cybersecurity, and technology organizations across healthcare, financial services,…",
+   "published": "2026-10-13T18:06:29+00:00"
   },
   {
    "id": "19d09da2f7ee",
@@ -449,7 +702,7 @@
   },
   {
    "id": "238c1ba2b0eb",
-   "title": "Argentina lodges legal claim against UK's Falklands oil exploration",
+   "title": "Argentina targets UK in legal claim over Falklands oil exploration",
    "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -482,13 +735,13 @@
   },
   {
    "id": "3da26f09f6ff",
-   "title": "Saudi Arabia strikes oil depots in Yemen as conflict with Houthis escalates",
+   "title": "Saudi Arabia strikes oil depots in Yemen and says missiles launched toward location of Saudi Aramco HQ",
    "link": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Civilians warned to leave target area near Sana’a before attacks following deadly strike on Riyadh airport Saudi Arabia has launched a series of strikes on a strategic oil depot on the outskirts of Yemen’s capital Sana’a, in a fresh escalation of the conflict between Riyadh and…",
+   "summary": "Civilians warned to leave target area near Sana’a before attacks as conflict between Riyadh and Houthi forces escalates Saudi Arabia has launched a series of strikes on a strategic oil depot on the outskirts of Yemen’s capital, Sana’a, while later on Tuesday it said it had…",
    "published": "2026-10-13T17:26:08+00:00"
   },
   {
@@ -1038,7 +1291,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Study authors say increase cannot be attributed to any one factor and list income inequality and growing awareness as other likely reasons Get our breaking news email , free app or daily news podcast The sexual assault of Australian children has accelerated sharply since the…",
+   "summary": "Study authors say increase cannot be attributed to any one factor and list income inequality and reporting increases due to growing awareness as other likely reasons Get our breaking news email , free app or daily news podcast The sexual assault of Australian children has…",
    "published": "2026-10-13T15:00:00+00:00"
   },
   {
@@ -1315,17 +1568,6 @@
    "flourishing_feed": false,
    "summary": "Formula One has signed a 10-year agreement with Rwanda to bring the sport back to Africa for the first time since 1993.",
    "published": "2026-10-13T13:29:10+00:00"
-  },
-  {
-   "id": "2743ea2faa76",
-   "title": "Pope Leo admitted to hospital for operation to remove growth on lung",
-   "link": "https://www.theguardian.com/world/2026/oct/13/pope-leo-hospital-operation-growth-lung",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Vatican says surgery that will determine whether the nodule is malignant will take place on Tuesday afternoon Pope Leo has been admitted to hospital in Rome for an operation to remove a small growth from his lung, a discovery a top Vatican cardinal said had come “like a bolt…",
-   "published": "2026-10-13T13:28:39+00:00"
   },
   {
    "id": "e30f04b59ac1",
