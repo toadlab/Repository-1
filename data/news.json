@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T21:43:00.224061+00:00",
+ "generated": "2026-10-13T22:44:01.669977+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 23
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,268 @@
  ],
  "items": [
   {
+   "id": "a8608ca9a0bb",
+   "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+   "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+   "published": "2026-10-13T22:29:55+00:00"
+  },
+  {
+   "id": "6f007dcc00c9",
+   "title": "Pope Leo has lung cancer, the Vatican announces after surgery",
+   "link": "https://www.npr.org/2026/10/13/g-s1-147968/pope-leo-has-lung-cancer-vatican-announces",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pope Leo XIV had surgery on Tuesday to remove a cancerous growth in his lung, the Vatican announced.",
+   "published": "2026-10-13T22:29:26+00:00"
+  },
+  {
    "id": "5adf3de958a6",
-   "title": "Australian politics live: Chalmers says ATO surcharge was joint intervention with PM; Nationals MP defends ‘shamed and stoned’ remark",
+   "title": "Australian politics live: Hanson dismisses ‘shamed and stoned’ remark as ‘heat of moment’; PM extends ‘thoughts and prayers’ to pope",
    "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Australia missing out on $45bn of revenue from resources: Greens As Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being…",
-   "published": "2026-10-13T21:29:59+00:00"
+   "published": "2026-10-13T22:28:55+00:00"
+  },
+  {
+   "id": "61ad266a2dfc",
+   "title": "Man City vs PSG: Champions League – teams, predictions, line ups",
+   "link": "https://www.aljazeera.com/sports/2026/10/13/manchester-city-psg-champions-league-haaland-torres-predictions-teams?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Man City host PSG in their first UCL match since being found guilty of serious Premier League financial breaches.",
+   "published": "2026-10-13T22:17:26+00:00"
+  },
+  {
+   "id": "4a08e89951b6",
+   "title": "As Houthi attacks undermine Saudi security, a cautious kingdom recalibrates",
+   "link": "https://www.csmonitor.com/World/Middle-East/2026/1013/saudi-security-houthi-airport-attacks-iran-yemen?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Weekend attacks by Yemen’s Houthi militia have largely cut Saudi Arabia off from the world. The normally cautious kingdom is accepting defensive assistance from its allies as it intensifies strikes against the Houthis.",
+   "published": "2026-10-13T22:16:44+00:00"
+  },
+  {
+   "id": "721c474d655c",
+   "title": "US trial begins for Rwandan-American accused of role in genocide",
+   "link": "https://www.aljazeera.com/news/2026/10/13/us-trial-begins-for-rwandan-american-accused-of-role-in-genocide?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Eric Nshimiye, a US citizen, says the evidence against him consists of unreliable eyewitness accounts.",
+   "published": "2026-10-13T22:15:44+00:00"
+  },
+  {
+   "id": "e921f09fa318",
+   "title": "Pope Leo has been diagnosed with lung cancer, Vatican reports",
+   "link": "https://www.deseret.com/faith/2026/10/13/pope-leo-diagnosed-with-lung-cancer/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pope Leo XIV underwent a successful surgery Tuesday to remove the lower lobe of his right lung. A tissue examination also confirmed a lung adenocarcinoma diagnosis, the Vatican reported. Doctors had suspected lung cancer prior to the operation, according to Vatican News . Pope…",
+   "published": "2026-10-13T22:11:45+00:00"
+  },
+  {
+   "id": "75cbb46a277e",
+   "title": "Fake But Accurate",
+   "link": "https://thedispatch.com/newsletter/boilingfrogs/james-talarico-ken-paxton-mental-health-hoax-texas/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Citizen journalism and the James Talarico ‘scandal.’",
+   "published": "2026-10-13T22:08:22+00:00"
+  },
+  {
+   "id": "df0dfb8f3f73",
+   "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+   "link": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less.",
+   "published": "2026-10-13T22:07:40+00:00"
+  },
+  {
+   "id": "de75db705d1e",
+   "title": "Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Guilfoyle has been under immense scrutiny after the Wall Street Journal reported on a series of questionable acts prior to securing her role in Athens Sign up for the US Breaking News email Ahead of her White House podium debut, Katie Zacharia reportedly monitored Donald…",
+   "published": "2026-10-13T22:07:18+00:00"
+  },
+  {
+   "id": "413bbd644d8d",
+   "title": "Agent who helped inspire ‘Jerry Maguire’ sounds warning about sports gambling",
+   "link": "https://www.deseret.com/sports/2026/10/13/sport-betting-athlete-endorsement-prediction-market-sportsbook-leigh-steinberg-nfl-nba/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A growing list of professional athletes, including some of the biggest names in sports, have endorsement or investment deals with prediction markets. PGA golfer Bryson DeChambeau became Kalshi’s first individual athlete partner in January. Miami Heat center Giannis…",
+   "published": "2026-10-13T22:02:55+00:00"
+  },
+  {
+   "id": "d214a3470037",
+   "title": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
+   "link": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
+   "published": "2026-10-13T22:02:09+00:00"
+  },
+  {
+   "id": "b211db9580d2",
+   "title": "Who's to blame for the toxic smog choking South East Asia?",
+   "link": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Anger is mounting at the companies accused of burning land in Indonesia and the authorities who have failed to stop them.",
+   "published": "2026-10-13T22:01:43+00:00"
+  },
+  {
+   "id": "1dc15906aba5",
+   "title": "Why the lonely in China are hiring 'temporary children'",
+   "link": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A new industry being dubbed the “loneliness economy” has emerged in China, with people hiring themselves out as companions to help the elderly.",
+   "published": "2026-10-13T22:00:20+00:00"
+  },
+  {
+   "id": "b46efb87f224",
+   "title": "Arsenal beat Lille 3-0 as perfect Champions League start continues",
+   "link": "https://www.aljazeera.com/sports/2026/10/13/arsenal-beat-lille-3-0-as-perfect-champions-league-start-continues?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jurrien Timber, Eberechi Eze and Bukayo Saka score as Arsenal overcome Lille in UEFA Champions League.",
+   "published": "2026-10-13T21:59:39+00:00"
+  },
+  {
+   "id": "b7d73ea077f7",
+   "title": "Opinion: Make sure your vote counts — plan ahead",
+   "link": "https://www.deseret.com/opinion/2026/10/13/make-a-plan-to-vote/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Voting is the core of our democracy. Don’t let anything deter you from casting your ballot. There is a lot of noise about election security and confusion about who can vote. Make a plan, know the rules and make sure your vote counts. The mail-in ballot system that Utah has used…",
+   "published": "2026-10-13T21:58:08+00:00"
+  },
+  {
+   "id": "1d7bf81ab30e",
+   "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
+   "link": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukrainian president’s comments on ‘particularly vile’ strikes come after US threatened to halt intelligence sharing Ukraine received no early warning from its partners about a second night of Russian ballistic missile strikes on civilian infrastructure in Kyiv, including a…",
+   "published": "2026-10-13T21:54:12+00:00"
+  },
+  {
+   "id": "185b2df3050e",
+   "title": "No Immunity for Judge Who Locked Children in Holding Cells in Custody Case",
+   "link": "https://reason.com/volokh/2026/10/13/no-immunity-for-judge-who-locked-children-in-holding-cells-in-custody-case/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "From Rockett v. Eighmy, decided today by Eighth Circuit Judge David Stras, joined by Judges Bobby Shepherd and Jane Kelly:… The post No Immunity for Judge Who Locked Children in Holding Cells in Custody Case appeared first on Reason Magazine.",
+   "published": "2026-10-13T21:53:43+00:00"
+  },
+  {
+   "id": "467c89c8ced0",
+   "title": "The rise and fall of a MAGA princess",
+   "link": "https://www.vox.com/the-logoff-newsletter-trump/506270/kimberly-guilfoyle-ambassador-greece-corruption-don-jr",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here. Welcome to The Logoff: Donald Trump’s ambassador to Greece, Kimberly Guilfoyle, is out of a job…",
+   "published": "2026-10-13T21:50:00+00:00"
+  },
+  {
+   "id": "d56545201673",
+   "title": "Basketball season is back at BYU. Here are 5 games you won’t want to miss",
+   "link": "https://www.deseret.com/sports/2026/10/13/byu-basketball-memorable-games-upcoming-2026-27-season/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "BYU is just three days away from returning to the Marriott Center hardwood. The Cougars will host Nebraska in an exhibition on Friday, offering the world its first glimpse of Kevin Young’s new-look roster of 3-point sharpshooters. BYU’s road back to the NCAA Tournament will…",
+   "published": "2026-10-13T21:45:00+00:00"
+  },
+  {
+   "id": "aa337c25492c",
+   "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+   "link": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+   "published": "2026-10-13T21:42:49+00:00"
+  },
+  {
+   "id": "0ec8260f3fe3",
+   "title": "In France, student protests bring echoes of the past",
+   "link": "https://www.csmonitor.com/World/Europe/2026/1013/students-protest-france-politics-1968?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Demonstrations about the country’s education system are drawing parallels with the country’s pivotal May 1968 student revolution.",
+   "published": "2026-10-13T21:41:01+00:00"
+  },
+  {
+   "id": "7d36c12a5446",
+   "title": "Lady A and Boyz II Men team up for a song about the healing power of Jesus",
+   "link": "https://www.deseret.com/entertainment/2026/10/13/lady-a-and-boyz-ii-men-release-song-inspired-by-the-chosen/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The first album Hillary Scott bought with her own money was by Boyz II Men. She remembers listening to it in her childhood bedroom and spending hours rewinding the songs, trying to understand how the harmonies fit together. When she had the opportunity to record with the group,…",
+   "published": "2026-10-13T21:39:34+00:00"
+  },
+  {
+   "id": "357b50510a71",
+   "title": "Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support",
+   "link": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prime minister reiterates UK backing after the Ukrainian president’s latest round of difficulties with Donald Trump Andy Burnham will host Volodymyr Zelenskyy at Downing Street on Wednesday as the UK seeks to further underline its support for the Ukrainian president, in…",
+   "published": "2026-10-13T21:30:35+00:00"
   },
   {
    "id": "4daa8ce28f61",
@@ -173,6 +426,17 @@
    "published": "2026-10-13T21:25:37+00:00"
   },
   {
+   "id": "ad64157b67ee",
+   "title": "Pope Leo diagnosed with cancer after surgery to remove part of lung",
+   "link": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 71-year-old is recovering in Rome's Gemelli hospital after surgery to remove a cancerous growth on his lung.",
+   "published": "2026-10-13T21:25:04+00:00"
+  },
+  {
    "id": "8d58d58e9019",
    "title": "The Supreme Court may be about to make America’s prisons much crueler",
    "link": "https://www.vox.com/politics/506261/supreme-court-trump-kingdom-prisons-cruel-unusual-transgender",
@@ -182,6 +446,17 @@
    "flourishing_feed": false,
    "summary": "On the first day of his second term, President Donald Trump issued an executive order requiring the Bureau of Prisons to “ensure that no Federal funds are expended for any medical procedure, treatment, or drug for the purpose of conforming an inmate’s appearance to that of the…",
    "published": "2026-10-13T21:25:00+00:00"
+  },
+  {
+   "id": "47ae0e2d3ba7",
+   "title": "Atletico Madrid beat Manchester United 2-0 as winless run continues",
+   "link": "https://www.aljazeera.com/sports/2026/10/13/atletico-madrid-beat-manchester-united-2-0-as-winless-run-continues?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Michael Carrick's Man Utd continue to search for a win as Atletico win 2-0 in UEFA Champions League.",
+   "published": "2026-10-13T21:24:19+00:00"
   },
   {
    "id": "6e65d45502f1",
@@ -347,17 +622,6 @@
    "flourishing_feed": false,
    "summary": "As ordered reported by the House Committee on Transportation and Infrastructure on September 15, 2026",
    "published": "2026-10-13T20:46:00+00:00"
-  },
-  {
-   "id": "de75db705d1e",
-   "title": "Kimberly Guilfoyle denies allegations of misconduct as she resigns as US ambassador to Greece – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/13/donald-trump-ilhan-omar-katie-zacharia-alaska-midterms-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Guilfoyle has been under immense scrutiny after the Wall Street Journal reported on a series of questionable acts prior to securing her role in Athens Sign up for the US Breaking News email Ahead of her White House podium debut, Katie Zacharia reportedly monitored Donald…",
-   "published": "2026-10-13T20:45:46+00:00"
   },
   {
    "id": "d76002589bae",
@@ -556,17 +820,6 @@
    "flourishing_feed": false,
    "summary": "NPR's Ailsa Chang chats with Michael Woodford of Columbia University, who was one of two Americans awarded the Nobel Prize in Economics.",
    "published": "2026-10-13T20:03:35+00:00"
-  },
-  {
-   "id": "a8608ca9a0bb",
-   "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-   "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-   "published": "2026-10-13T20:02:15+00:00"
   },
   {
    "id": "a3bf3e982fff",
@@ -774,7 +1027,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Guilfoyle the allegations of improper conduct are \"false\" and being ambassador was the \"honour of a lifetime\".",
+   "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
    "published": "2026-10-13T19:23:28+00:00"
   },
   {
@@ -1348,17 +1601,6 @@
    "flourishing_feed": false,
    "summary": "Yemen has reported 8,034 suspected cases and 27 deaths this year, with a quarter of the total coming in last four weeks.",
    "published": "2026-10-13T17:18:45+00:00"
-  },
-  {
-   "id": "1d7bf81ab30e",
-   "title": "Allies did not warn Kyiv of Russian ballistic missile strikes, says Zelenskyy",
-   "link": "https://www.theguardian.com/world/2026/oct/13/allies-did-not-warn-kyiv-of-russian-ballistic-missile-strikes-says-zelenskyy",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Ukrainian president’s comments on ‘particularly vile’ strikes come after US threatened to halt intelligence sharing Ukraine received no early warning from its partners about a Russian ballistic missile strike on Kyiv in which five missiles hit civilian infrastructure, Volodymyr…",
-   "published": "2026-10-13T17:17:13+00:00"
   },
   {
    "id": "0f78cffd7483",
