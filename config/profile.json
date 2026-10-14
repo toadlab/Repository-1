@@ -61,6 +61,20 @@
     "The Arctic and Canada"
   ],
 
+  "review": {
+    "_comment": "Stage 2: after the headline filter, each surviving article is read in full and kept or cut using config/article_review.md. Add your own topics and authorities to these lists. Your state comes from home.state above.",
+    "expert_topics": [
+      "retirement tax planning",
+      "estate planning"
+    ],
+    "trusted_authorities": [
+      "Michael Kitces",
+      "Jeff Levine"
+    ],
+    "max_article_tokens": 7000,
+    "max_reviews_per_section": 8
+  },
+
   "claude": {
     "model": "claude-opus-5",
     "scoring_effort": "medium",

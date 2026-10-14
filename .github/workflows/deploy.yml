@@ -33,6 +33,15 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      # Full article text for the stage-2 review is cached by URL between runs.
+      # It lives outside the repo so it is never committed or published.
+      - name: Restore article cache
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/news-digest/articles
+          key: articles-${{ github.run_id }}
+          restore-keys: articles-
+
       - name: Fetch feeds
         run: python scripts/fetch_news.py
 

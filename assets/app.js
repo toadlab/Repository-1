@@ -162,15 +162,20 @@
   function toggleFlag(item) {
     if (isFlagged(item.id)) store.flags = store.flags.filter((f) => f.id !== item.id);
     else store.flags.push({ id: item.id, title: item.title, link: item.link, source: item.source,
-                            blurb: item.blurb || item.summary || "", flaggedAt: new Date().toISOString() });
+                            blurb: ourSummary(item), flaggedAt: new Date().toISOString() });
     save();
     updateFlagCount();
   }
   function updateFlagCount() { $("flag-count").textContent = store.flags.length ? String(store.flags.length) : ""; }
 
+  // Only summaries written by the stage-2 review from the full article are shown; never a feed's blurb.
+  const ourSummary = (item) => (item.review_status === "reviewed" ? item.summary : "");
+
+  const firstSentence = (text) => (text.match(/^.+?[.!?](?=\s+[A-Z0-9"“]|$)/) || [text])[0];
+
   function newsCtx(item) {
     return { kind: "news", title: item.title, url: item.link,
-             body: [item.ai_summary || item.summary, item.why_it_matters].filter(Boolean).join("\n\n") };
+             body: [ourSummary(item), item.why_it_matters].filter(Boolean).join("\n\n") };
   }
 
   function storyEl(item, { weekly } = {}) {
@@ -180,8 +185,11 @@
     const dd = item.deep_dive;
     const body = h("div", { class: "story-body", hidden: true },
       h("p", { class: "meta small muted" }, ext(item.link, `${item.source} ↗`), " · ", fmt(new Date(item.published), { month: "short", day: "numeric" })),
-      item.ai_summary && h("div", { class: "ai-summary" }, h("span", { class: "tag" }, "AI summary"), h("p", {}, item.ai_summary)),
-      !item.ai_summary && item.summary && h("p", {}, item.summary),
+      ourSummary(item) && h("div", { class: "ai-summary" }, h("span", { class: "tag" }, "Summary of the full article"), h("p", {}, ourSummary(item)),
+        item.review_reason && h("p", { class: "small muted" }, "Kept because: ", item.review_reason)),
+      item.label && h("p", { class: "small muted" }, item.review_status === "unverified"
+        ? "The full article couldn't be fetched, so it hasn't been checked or summarized. Read it at the source."
+        : "This article hasn't been read and reviewed yet (the review needs a Claude API key)."),
       weekly && item.why_it_matters && h("div", { class: "why" }, h("h4", {}, "Why it matters to you"), ...para(item.why_it_matters)),
       item.talk_to && h("p", { class: "talk-to" }, "☎ ", item.talk_to),
       dd && h("div", { class: "deep-dive" },
@@ -204,8 +212,9 @@
         talkBtn("Ask…", newsCtx(item))));
     const head = h("div", { class: "story-head", role: "button", tabindex: 0, "aria-expanded": "false" },
       h("div", { class: "story-text" },
-        h("h3", {}, item.title, item.borderline && h("span", { class: "badge" }, "borderline"), dd && h("span", { class: "badge deep" }, "deep dive")),
-        h("p", { class: "blurb" }, item.blurb || item.summary)),
+        h("h3", {}, item.title, item.borderline && h("span", { class: "badge" }, "borderline"), dd && h("span", { class: "badge deep" }, "deep dive"),
+          item.label && h("span", { class: "badge unverified" }, item.label)),
+        ourSummary(item) && h("p", { class: "blurb" }, firstSentence(ourSummary(item)))),
       flagBtn);
     const toggle = () => { body.hidden = !body.hidden; head.setAttribute("aria-expanded", String(!body.hidden)); };
     head.addEventListener("click", toggle);
@@ -223,6 +232,9 @@
       h("ul", {}, (m.notes || []).map((n) => h("li", {}, n))),
       m.borderline?.length > 0 && [h("h4", {}, "Borderline calls, not included"),
         h("ul", {}, m.borderline.map((b) => h("li", {}, ext(b.link, b.title), h("span", { class: "muted" }, ` · ${b.source}. ${b.note}`))))],
+      m.review_cuts?.length > 0 && [h("h4", {}, `Cut after reading the full article (${m.review_cuts.length})`),
+        h("ul", { class: "review-cuts" }, m.review_cuts.map((c) => h("li", {}, ext(c.link, c.title),
+          h("span", { class: "muted" }, ` · ${c.source}${c.author ? `, ${c.author}` : ""}`), h("br"), h("span", {}, c.reason))))],
       m.excluded?.length > 0 && h("button", { class: "link-btn", onclick: (e) => { excluded.hidden = !excluded.hidden;
         e.target.textContent = excluded.hidden ? `Show all ${m.excluded.length} excluded headlines` : "Hide excluded headlines"; } },
         `Show all ${m.excluded.length} excluded headlines`),
@@ -332,7 +344,7 @@
           onclick: () => { store.praying[key] = o.id; save(); render(); } }, o.label))),
         chosen && h("div", { class: "card-actions" },
           talkBtn("Pray it through with Claude", { kind: "reflection", title: options.find((o) => o.id === chosen)?.label || "",
-            body: chosen === "prayer" ? pr.text : chosen === "passage" ? `${f.ref}: ${f.text}` : chosen === "story" ? (story.blurb || story.summary) : "" }))));
+            body: chosen === "prayer" ? pr.text : chosen === "passage" ? `${f.ref}: ${f.text}` : chosen === "story" ? ourSummary(story) : "" }))));
   }
 
   const weeklyDates = () => index.filter((d) => d.type === "weekly").map((d) => d.date);

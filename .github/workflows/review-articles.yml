@@ -1,0 +1,38 @@
+name: Review articles (test)
+
+# Run the stage-2 article review on specific articles and show the verdicts.
+# Actions tab → "Review articles (test)" → Run workflow. Needs the ANTHROPIC_API_KEY secret.
+on:
+  workflow_dispatch:
+    inputs:
+      search:
+        description: "Headlines to look up, separated by | (or paste article URLs)"
+        required: true
+        default: "RMD smart tax strategy | older homeowners property tax volunteering | essential estate planning documents"
+
+permissions:
+  contents: read
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Review
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SEARCH: ${{ inputs.search }}
+        run: |
+          args=()
+          IFS='|' read -ra parts <<< "$SEARCH"
+          for part in "${parts[@]}"; do
+            part="$(echo "$part" | xargs)"
+            [ -z "$part" ] && continue
+            if [[ "$part" == http* ]]; then args+=("$part"); else args+=(--search "$part"); fi
+          done
+          python scripts/review_articles.py "${args[@]}" | tee verdicts.txt
+          { echo '## Verdicts'; echo '```'; cat verdicts.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"

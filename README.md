@@ -38,6 +38,8 @@ A genuine **emergency** overrides the rhythm on any day. Every digest ends with 
 fetch_news.py  → data/news.json            raw feed history (~45 days), each feed tagged with a circle hint
 score.py       → data/state/scores.json    Claude rates durability, circle, domain, flourishing, emergency, story_key
 build_digest.py→ data/digests/DATE.json    today's pulse / reflection / weekly digest + methodology
+  review.py    → data/state/reviews.json   stage 2: full-article verdicts and summaries, cached by URL
+                 data/state/review_cuts.jsonl  every cut, with its reason
                  data/state/coverage.json  what has been covered, for story fatigue
                  data/state/regions/*.json running log per region
 ```
@@ -46,7 +48,12 @@ build_digest.py→ data/digests/DATE.json    today's pulse / reflection / weekly
 - **Composite and bars:** computed in Python from `config/profile.json`, so the editorial math is visible and tunable: `durability + 0.35·domain + 0.25·flourishing`, compared against a bar that rises with distance (local 4, state 6, national 8, international 9). Stories within 1 point of the bar are *borderline*.
 - **Story fatigue:** a story key already covered is skipped unless Claude marks the item as a genuine new development.
 - **Silence as signal:** stories covered on 3 or more separate days get a small persistence bonus. A borderline story that recurs on 3 or more days is promoted into the weekly digest.
-- Without an API key, a keyword heuristic stands in so the pipeline still runs. Those scores are redone by Claude once a key is added.
+- **Stage 2, the article review** (`scripts/review.py`, rubric in `config/article_review.md`). Each article that survives the headline filter is fetched and read in full: the main text is extracted, readability-style, and truncated to about 7,000 tokens. Claude then returns `{decision: keep|cut, reason, summary}`. Articles are reviewed in rank order until each section has enough keepers, so a cut is replaced by the next candidate. An article is cut if it is (a) an introductory explainer on one of your expert topics without a trusted author or new rules or data, (b) limited to jurisdictions that exclude your state, (c) impossible to summarize with concrete specifics, or (d) clickbait. Kept articles get a summary written from the full text (what it is, who and where it applies, the numbers and dates, what's new, caveats); the publisher's blurb is never shown. If the text can't be fetched, the story appears as **"headline only, unverified"**. Every cut is logged to `data/state/review_cuts.jsonl` and listed, with its reason, in the digest's "How this was filtered" section.
+  - Edit your expert topics and trusted authorities in `config/profile.json` → `review`. Your state comes from `home.state`.
+  - Full article text is cached by URL outside the repo (in CI, via `actions/cache`), because the site is public and the text belongs to its publishers. Only verdicts and our own summaries are committed.
+  - To test the review on particular articles: Actions → **Review articles (test)** → Run workflow, or `python3 scripts/review_articles.py --search "headline words"` locally.
+  - Some sites block automated reading (for example SEC.gov and MarketWatch), so their stories show as unverified.
+- Without an API key, a keyword heuristic stands in for scoring so the pipeline still runs, and stories show as "headline only, not reviewed". Scores are redone by Claude once a key is added.
 
 The GitHub Actions workflow runs hourly. The digest is built once the local time passes `digest_hour` (5 am), emergencies are checked every run, the updated `data/` is committed back, and the site is deployed to GitHub Pages.
 
@@ -57,7 +64,7 @@ The GitHub Actions workflow runs hourly. The digest is built once the local time
 3. **Answer the open questions** in `config/profile.json` (fields marked `OPEN`: your town and county). Add local feeds (the town paper, county government agendas) to `config/feeds.json` with `"circle": "local"`. Until then the daily pulse can only surface domain-critical stories.
 4. Optionally adjust the `cadence` (which day maps to which circle), the `regions` rotation, and the scoring bars.
 
-**Model and cost:** the pipeline uses `claude-opus-5` (set in `config/profile.json` → `claude.model`), with server-side refusal fallbacks enabled. At roughly 400 new headlines a day, a rough estimate is **$1-2 a day**. Scoring takes most of that; the weekly deep dives and monthly region research add a little. Switching `model` to `claude-sonnet-5` would cut that substantially, at some cost in judgment.
+**Model and cost:** the pipeline uses `claude-opus-5` (set in `config/profile.json` → `claude.model`), with server-side refusal fallbacks enabled. At roughly 400 new headlines a day, a rough estimate is **$1-2 a day**. Scoring takes most of that; the weekly deep dives and monthly region research add a little. The article review adds about 5-10 cents per article read, roughly 5-20 articles a day, and each article is only reviewed once. Switching `model` to `claude-sonnet-5` would cut that substantially, at some cost in judgment.
 
 ## Run locally
 
