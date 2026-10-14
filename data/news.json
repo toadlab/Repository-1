@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T13:48:31.097790+00:00",
+ "generated": "2026-10-14T14:46:13.473544+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,281 @@
  ],
  "items": [
   {
+   "id": "901bdd4b0040",
+   "title": "Trump heads to rallies in Arizona and Montana after campaign stop-off in Alaska – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump has taken to campaigning in conservative-leaning ​parts of competitive states, rather than in more politically diverse areas Sign up for the Breaking News US email Donald Trump has yet to weigh in on the late night ruling from a federal judge that blocks him from barring…",
+   "published": "2026-10-14T14:44:38+00:00"
+  },
+  {
+   "id": "7fd0b81af464",
+   "title": "Russell Brand was ‘ruthless and calculated’, prosecutors tell jury as rape and sexual assault trial begins – live",
+   "link": "https://www.theguardian.com/uk-news/live/2026/oct/14/russell-brand-trial-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Brand is in Southwark crown court today where his rape and sexual assault trial begins Taking jurors through the third allegation, Karmy-Jones said Brand pulled another woman into a toilet during an incident at a bar in Soho in 2004. The third complainant was “not so lucky as…",
+   "published": "2026-10-14T14:43:52+00:00"
+  },
+  {
+   "id": "61bffc41844e",
+   "title": "The culture wars came for J.K. Rowling. Now the BBC is telling her story",
+   "link": "https://www.deseret.com/entertainment/2026/10/14/bbc-announces-jk-rowling-documentary/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The BBC announced Tuesday that it is making a two-part documentary on J.K. Rowling’s life and career, exploring her shift from beloved children’s author to polarizing commentator on gender and politics. The series, which has no official title or release date, aims to trace…",
+   "published": "2026-10-14T14:43:28+00:00"
+  },
+  {
+   "id": "ddb7184c1960",
+   "title": "Burnham rules out deal with Greens as he condemns ‘Zionism is racism’ policy as ‘antisemitic’– UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prime minister tells PMQs that the Green party motion was ‘wrong’ and says no way Labour would make a deal PMQs is about to start. Here is the list of MPs down to ask a question. After @genevieve_holl reported this last night, various sources in the Trump administration who are…",
+   "published": "2026-10-14T14:42:28+00:00"
+  },
+  {
+   "id": "a4476c22281c",
+   "title": "Mental Illness Doesn't Cancel Your Right to Say No",
+   "link": "https://reason.com/2026/10/14/mental-illness-doesnt-cancel-your-right-to-say-no/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Informed consent applies to psychiatry too.",
+   "published": "2026-10-14T14:36:55+00:00"
+  },
+  {
+   "id": "e575e1160616",
+   "title": "Deseret News archives: Chuck Yeager broke the sound barrier in 1947. 65 years later, he did it again",
+   "link": "https://www.deseret.com/utah/2024/10/14/deseret-news-archives-chuck-yeager-broke-sound-barrier-in-1947/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Editor’s note: This story was originally published on Oct. 14, 2024. A look back at local, national and world events through Deseret News archives. On Oct. 14, 1947, U.S. Air Force Capt. Chuck Yeager became the first test pilot to break the sound barrier as he flew the…",
+   "published": "2026-10-14T14:30:45+00:00"
+  },
+  {
+   "id": "de1130e6e1d2",
+   "title": "Russell Brand was ruthless, calculated and manipulative sexual predator, court told",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/14/russell-brand-was-ruthless-calculated-and-manipulative-sexual-predator-court-told",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Comedian faces three charges of rape, three of sexual assault and one of indecent assault against six women Russell Brand rape and sexual assault trial – latest updates Russell Brand was a ruthless, calculated and manipulative sexual predator who boasted about wanting to have…",
+   "published": "2026-10-14T14:30:35+00:00"
+  },
+  {
+   "id": "3421d517a0dd",
+   "title": "US inflation rose to 3.7% in September in blow to Republicans before midterms",
+   "link": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Final inflation report before voters go to polls comes amid widespread anger over cost of living under Trump Send us your questions on how the US economy is shaping the midterm elections Republicans are entering the midterm elections with the highest rate of inflation since the…",
+   "published": "2026-10-14T14:29:42+00:00"
+  },
+  {
+   "id": "e7415c964eef",
+   "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "European Commission declined to comment on reported disruption to Starlink’s services in Ukraine Ukrainian soldiers have access to Starlink satellite internet restricted Rutte gets asked “is Russia foolish enough to consider attacking any of Nato countries?” He says “we don’t…",
+   "published": "2026-10-14T14:29:34+00:00"
+  },
+  {
+   "id": "73ad32eb7406",
+   "title": "France’s students are angry about more than crumbling classrooms and missing teachers",
+   "link": "https://www.theguardian.com/world/2026/oct/14/french-students-are-not-just-protesting-for-better-schools-but-for-their-future",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Beneath a wave of school protests in France lies a more existential worry: the future prospects of an entire generation • Don’t get This Is Europe delivered to your inbox? Sign up here Say what you will about France’s high schools, they still produce world-class slogan writers.…",
+   "published": "2026-10-14T14:29:13+00:00"
+  },
+  {
+   "id": "cdd111f5c2a4",
+   "title": "Unsealed Brian Flores memo raises questions about racial bias in NFL hiring",
+   "link": "https://www.deseret.com/sports/2026/10/14/unsealed-brian-flores-memo-raises-questions-about-racial-bias-in-nfl-hiring/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A newly unsealed memo describing Brian Flores has put the former Miami Dolphins head coach back in the spotlight, this time over how an NFL team evaluated him as a potential head coaching candidate. The memo, prepared by executive search firm Korn Ferry for the Las Vegas…",
+   "published": "2026-10-14T14:28:28+00:00"
+  },
+  {
+   "id": "8a2abc9a5276",
+   "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
+   "link": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
+   "published": "2026-10-14T14:18:18+00:00"
+  },
+  {
+   "id": "d96a84468433",
+   "title": "Ukrainian military’s access to Starlink satellite internet suddenly restricted",
+   "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Launch of Russian ballistic missiles on Ukraine, with no US warning, coincides with outage of Starlink managed by Musk’s SpaceX Europe live – latest updates Ukraine’s military has suddenly had its access to Starlink satellite internet terminals restricted as the Trump…",
+   "published": "2026-10-14T14:17:59+00:00"
+  },
+  {
+   "id": "b4b6fdb29611",
+   "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
+   "link": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.",
+   "published": "2026-10-14T14:17:00+00:00"
+  },
+  {
+   "id": "73bca7219e95",
+   "title": "How Iran’s $2 trillion threat puts your AI stocks at risk",
+   "link": "https://www.marketwatch.com/story/how-irans-2-trillion-threat-puts-your-ai-stocks-at-risk-2721af43?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Fed admits it can’t cool Big Tech’s spending spree. Tehran says it can, and it just named the targets.",
+   "published": "2026-10-14T14:17:00+00:00"
+  },
+  {
+   "id": "859c53a1720c",
+   "title": "New York City moves to ban horse-drawn carriages",
+   "link": "https://www.theguardian.com/us-news/2026/oct/14/new-york-city-horse-drawn-carriages-ban",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mamdani and city council leader agree on ban that would make it illegal to operate horse-drawn carriages in the city Mayor Zohran Mamdani and the leader of the New York City council have agreed to ban horse-drawn carriages from the city, a popular tourist attraction that has…",
+   "published": "2026-10-14T14:14:20+00:00"
+  },
+  {
+   "id": "85d8b7da1d49",
+   "title": "Colombia inaugurates embassy to Israel in Jerusalem",
+   "link": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Move by Colombia's new right-wing government marks a major shift after former President Petro severed ties with Israel.",
+   "published": "2026-10-14T14:08:45+00:00"
+  },
+  {
+   "id": "2d553ecc27e8",
+   "title": "‘English nationalist’ content creators film themselves in asylum seekers’ house",
+   "link": "https://www.theguardian.com/media/2026/oct/14/content-creators-described-as-english-nationalist-film-themselves-in-asylum-seekers-house",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Video posted online shows men entering home through unlocked door and claiming to be looking for paperwork A Home Office accommodation provider has launched an investigation after “English nationalist” content creators posing as contractors filmed themselves entering a property…",
+   "published": "2026-10-14T14:08:24+00:00"
+  },
+  {
+   "id": "0059d49a58dd",
+   "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+   "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
+   "published": "2026-10-14T14:08:00+00:00"
+  },
+  {
+   "id": "7e8777e79d46",
+   "title": "Social Security’s COLA will be 3.6% in 2027 as inflation persists",
+   "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The increase is aimed at helping about 68 million beneficiaries keep pace with inflation.",
+   "published": "2026-10-14T14:07:00+00:00"
+  },
+  {
+   "id": "c9c32062e159",
+   "title": "Merry squishmas: £10 squeezy banana on list of top festive season toys",
+   "link": "https://www.theguardian.com/business/2026/oct/14/best-christmas-season-toys-list-hamleys-squeezy-banana-squishies",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Social media-driven craze puts ‘squishies’ up there with evergreen favourites such as Lego and Barbie, Hamleys says A cartoonish banana so addictively squidgy that it is “really difficult to put down” is tipped to be among the must-have toys this Christmas , according to expert…",
+   "published": "2026-10-14T14:03:08+00:00"
+  },
+  {
+   "id": "3e7d4f7b20aa",
+   "title": "A 7-Point Checklist for Retiring With a Pension",
+   "link": "https://www.kiplinger.com/retirement/retirement-planning/retirement-checklist-for-retiring-with-a-pension",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Disciplined savers may need to learn how to confidently use the wealth they've accumulated. Here's how you can maximize your money in retirement.",
+   "published": "2026-10-14T14:00:00+00:00"
+  },
+  {
+   "id": "7ac941dfe1ec",
+   "title": "Closer EU trade ties greater prize for UK than making separate deals, minister says",
+   "link": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Douglas Alexander, on trade delegation to India, talks up economic benefits of joint trading arrangements with Europe UK politics live – latest updates Britain will benefit from much closer trading relations with the EU even if that means giving up its ability to…",
+   "published": "2026-10-14T13:58:39+00:00"
+  },
+  {
+   "id": "e07bcc7bc0b6",
+   "title": "Excluding UK from ‘Made in Europe’ law will hurt entire EU car industry, Mercedes boss warns",
+   "link": "https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ola Källenius says it will ‘weaken the industry on both sides’ ahead of act intended to counter non-EU competition Locking the UK out of the EU’s flagship industrial “Made in Europe” legislation would amount to a “deliberate choice” by EU leaders to “hurt” the car industry…",
+   "published": "2026-10-14T13:57:03+00:00"
+  },
+  {
+   "id": "4478915e52f0",
+   "title": "Two scenarios for the Yemen war",
+   "link": "https://www.aljazeera.com/opinions/2026/10/14/two-scenarios-for-the-yemen-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What comes next is either a retreat for the Houthis or a war of attrition.",
+   "published": "2026-10-14T13:50:28+00:00"
+  },
+  {
    "id": "5ecd864c616c",
    "title": "BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth",
    "link": "https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories",
@@ -195,28 +470,6 @@
    "published": "2026-10-14T13:45:00+00:00"
   },
   {
-   "id": "901bdd4b0040",
-   "title": "Trump heads to rallies in Arizona and Montana after campaign stop-off in Alaska – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Trump has taken to campaigning in conservative-leaning ​parts of competitive states, rather than in more politically diverse areas Sign up for the Breaking News US email Donald Trump has yet to weigh in on the late night ruling from a federal judge that blocks him from barring…",
-   "published": "2026-10-14T13:44:25+00:00"
-  },
-  {
-   "id": "7fd0b81af464",
-   "title": "Russell Brand was ‘ruthless and calculated’, prosecutors tell jury as rape and sexual assault trial begins – live",
-   "link": "https://www.theguardian.com/uk-news/live/2026/oct/14/russell-brand-trial-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Brand is in Southwark crown court today where his rape and sexual assault trial begins Taking jurors through the third allegation, Karmy-Jones said Brand pulled another woman into a toilet during an incident at a bar in Soho in 2004. The third complainant was “not so lucky as…",
-   "published": "2026-10-14T13:42:39+00:00"
-  },
-  {
    "id": "881c1b6b7738",
    "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
    "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
@@ -235,7 +488,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "A conviction on the possible charge of aggravated assault with a deadly weapon could mean up to 20 years in prison A Texas prosecutor said he is considering felony assault charges for an Immigration and Customs Enforcement (ICE) officer who ran over a man following an attempted…",
+   "summary": "A conviction on the possible charge of aggravated assault with a deadly weapon could mean up to 20 years in prison A Texas prosecutor said he was considering felony assault charges for an Immigration and Customs Enforcement (ICE) officer who ran over a man following an…",
    "published": "2026-10-14T13:40:57+00:00"
   },
   {
@@ -250,41 +503,19 @@
    "published": "2026-10-14T13:40:36+00:00"
   },
   {
-   "id": "e7415c964eef",
-   "title": "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "European Commission declined to comment on reported disruption to Starlink’s services in Ukraine Ukrainian soldiers have access to Starlink satellite internet restricted Rutte gets asked “is Russia foolish enough to consider attacking any of Nato countries?” He says “we don’t…",
-   "published": "2026-10-14T13:40:28+00:00"
-  },
-  {
-   "id": "b4b6fdb29611",
-   "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
-   "link": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
-   "source": "MarketWatch",
+   "id": "9e6f6299ee2a",
+   "title": "Convergence, AI Top Broker/Dealers’ Biggest Concerns",
+   "link": "https://www.wealthmanagement.com/rpa-news/convergence-ai-top-broker-dealers-biggest-concerns",
+   "source": "WealthManagement.com",
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.",
-   "published": "2026-10-14T13:36:00+00:00"
-  },
-  {
-   "id": "d96a84468433",
-   "title": "Ukrainian military’s access to Starlink satellite internet suddenly restricted",
-   "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Outage of terminals managed by Elon Musk’s SpaceX comes as Russia launches ballistic missiles at Ukraine without any advance warning from US Ukraine’s military has suddenly had its access to Starlink satellite internet terminals restricted as the Trump administration has…",
-   "published": "2026-10-14T13:33:56+00:00"
+   "summary": "What keeps them up at night?",
+   "published": "2026-10-14T13:39:46+00:00"
   },
   {
    "id": "ff0a810e278d",
-   "title": "Inflation sizzled in September -- and Social Security benefits will get a boost",
+   "title": "Inflation sizzled in September — and Social Security benefits will get a boost",
    "link": "https://www.npr.org/2026/10/14/nx-s1-6000593/inflation-consumer-prices-cpi-social-security-benefits",
    "source": "NPR News",
    "circle_hint": "national",
@@ -292,17 +523,6 @@
    "flourishing_feed": false,
    "summary": "Consumer prices in September jumped 3.7% from a year ago. The Social Security Administration said benefits will increase next year to help keep pace with the rising cost of living.",
    "published": "2026-10-14T13:33:44+00:00"
-  },
-  {
-   "id": "7ac941dfe1ec",
-   "title": "Closer EU trade ties greater prize for UK than making separate deals, minister says",
-   "link": "https://www.theguardian.com/politics/2026/oct/14/closer-eu-trade-ties-uk-europe-douglas-alexander",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Exclusive: Douglas Alexander, on trade delegation to India, talks up economic benefits of joint trading arrangements with Europe UK politics live – latest updates Britain will benefit from much closer trading relations with the EU even if that means giving up its ability to…",
-   "published": "2026-10-14T13:31:55+00:00"
   },
   {
    "id": "23b2e695c9f7",
@@ -349,28 +569,6 @@
    "published": "2026-10-14T13:28:00+00:00"
   },
   {
-   "id": "7e8777e79d46",
-   "title": "Social Security’s COLA will be 3.6% in 2027 as inflation persists",
-   "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "The increase is aimed at helping about 68 million beneficiaries keep pace with inflation.",
-   "published": "2026-10-14T13:27:00+00:00"
-  },
-  {
-   "id": "e07bcc7bc0b6",
-   "title": "Locking UK out of ‘Made in Europe’ law will ‘hurt’ carmaking across EU, says Mercedes-Benz boss",
-   "link": "https://www.theguardian.com/world/2026/oct/14/uk-made-in-europe-law-hurt-carmaking-eu-mercedes-benz-boss-ola-kallenius",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Ola Källenius says it will ‘weaken the industry on both sides’ ahead of act intended to counter non-EU competition Locking the UK out of the EU’s flagship industrial “Made in Europe” legislation would amount to a “deliberate choice” by EU leaders to “hurt” the car industry…",
-   "published": "2026-10-14T13:26:42+00:00"
-  },
-  {
    "id": "90aa64af1e6b",
    "title": "How AI apps are offering free substitutes for Big Tech software",
    "link": "https://www.aljazeera.com/news/2026/10/14/how-ai-apps-are-offering-free-substitutes-for-big-tech-software?traffic_source=rss",
@@ -413,17 +611,6 @@
    "flourishing_feed": false,
    "summary": "Tema ETFs’ Paisley Nardini discusses how calm index-level markets are masking volatility and concentration risk in both equities and bonds.",
    "published": "2026-10-14T13:22:33+00:00"
-  },
-  {
-   "id": "ddb7184c1960",
-   "title": "Burnham rules out deal with Greens as he condemns ‘Zionism is racism’ policy as ‘antisemitic’– UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Prime minister tells PMQs that the Green party motion was ‘wrong’ and says no way Labour would make a deal PMQs is about to start. Here is the list of MPs down to ask a question. After @genevieve_holl reported this last night, various sources in the Trump administration who are…",
-   "published": "2026-10-14T13:21:41+00:00"
   },
   {
    "id": "adab0e1c4175",
@@ -493,7 +680,7 @@
   },
   {
    "id": "191e7f6ed1f6",
-   "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+   "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
    "link": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -512,17 +699,6 @@
    "flourishing_feed": false,
    "summary": "It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street.",
    "published": "2026-10-14T13:09:51+00:00"
-  },
-  {
-   "id": "3421d517a0dd",
-   "title": "US inflation rose to 3.7% in September in blow to Republicans before midterms",
-   "link": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Final inflation report before voters go to polls comes amid widespread anger over cost of living under Trump Send us your questions on how the US economy is shaping the midterm elections Republicans are entering the midterm elections with the highest rate of inflation since the…",
-   "published": "2026-10-14T13:08:28+00:00"
   },
   {
    "id": "d9cc36c69109",
@@ -554,7 +730,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "We got to play the The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
+   "summary": "We got to play The Legend of Zelda: Ocarina of Time early. Here are our impressions of the remake and its elaborate new style.",
    "published": "2026-10-14T13:00:00+00:00"
   },
   {
@@ -600,17 +776,6 @@
    "flourishing_feed": false,
    "summary": "Relatives of William Chapman say footage of attack shared online ‘deeply offensive’ and causing them ‘severe distress’ The family of a man killed by a tiger at a wildlife park in the UK have spoken about their “severe distress” at the circulation of online media after Donald…",
    "published": "2026-10-14T12:48:51+00:00"
-  },
-  {
-   "id": "0059d49a58dd",
-   "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-   "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
-   "published": "2026-10-14T12:45:00+00:00"
   },
   {
    "id": "f0d528e672d0",
@@ -2076,6 +2241,17 @@
    "published": "2026-10-14T04:22:19+00:00"
   },
   {
+   "id": "b8af8fcaffbb",
+   "title": "Watch: Hong Kong crowds queue to see Van Gogh painting unveiled for first time in 60 years",
+   "link": "https://www.bbc.co.uk/news/videos/ck0e0l3le555o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Châtaigniers en fleurs, also known as Chestnut Trees in Blossom, is expected to receive record bids at auction this weekend.",
+   "published": "2026-10-14T04:21:25+00:00"
+  },
+  {
    "id": "ff2b083afcc8",
    "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
@@ -2536,6 +2712,17 @@
    "flourishing_feed": false,
    "summary": "Simbarashe Kundizeza was responding to an accusation that has caused an uproar on social media.",
    "published": "2026-10-13T23:31:10+00:00"
+  },
+  {
+   "id": "a35224805f46",
+   "title": "Pictured: Winning entries for Wildlife Photographer of the Year 2026",
+   "link": "https://www.bbc.co.uk/news/articles/cw5y4nv05rp8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Striking images including an urban coyote and an elephant carrying a dead calf are among this year's winners.",
+   "published": "2026-10-13T23:26:54+00:00"
   },
   {
    "id": "c2dd3e84ab9a",
@@ -8094,7 +8281,7 @@
   },
   {
    "id": "baf8a81c3a51",
-   "title": "Why TPAs are Suddenly Sexy",
+   "title": "Why TPAs Are Suddenly Sexy",
    "link": "https://www.wealthmanagement.com/rpa-news/why-tpas-are-suddenly-sexy",
    "source": "WealthManagement.com",
    "circle_hint": "national",
