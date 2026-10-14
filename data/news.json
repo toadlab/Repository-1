@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T18:54:33.574845+00:00",
+ "generated": "2026-10-14T19:45:05.813478+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,6 +129,281 @@
  ],
  "items": [
   {
+   "id": "1df5c4897a47",
+   "title": "2022075203301 Vistia Capital, LLC CRD 311342 AWC lp.pdf",
+   "link": "https://www.finra.org/node/390571",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "2022075203301 Vistia Capital, LLC CRD 311342 AWC lp.pdf Anonymous (not verified) Wed, 10/14/2026 - 15:40 Case ID 2022075203301 Document Number d6489aa6 Document Type AWCs (Letters of Acceptance, Waiver, and Consent) Action Date Wed, 10/14/2026 - 12:00 Related Content Off…",
+   "published": "2026-10-14T19:40:01+00:00"
+  },
+  {
+   "id": "72b3d5abacc6",
+   "title": "Your flu shot can’t wait",
+   "link": "https://www.vox.com/today-explained-newsletter/506241/early-flu-season-2026",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here. Flu season is starting earlier than usual this year, which I know from reviewing federal data. But I also know it because I…",
+   "published": "2026-10-14T19:35:00+00:00"
+  },
+  {
+   "id": "2d63366bf522",
+   "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+   "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+   "published": "2026-10-14T19:30:00+00:00"
+  },
+  {
+   "id": "1c64c196d3f7",
+   "title": "The problem with the US surrogacy system",
+   "link": "https://www.vox.com/podcasts/506188/us-surrogacy-system-ivf-regulation-problems",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For some couples, surrogacy is a miracle: an opportunity to have a child even if they’re unable to conceive one naturally. But it’s also big business. Not only is surrogacy expensive — think six figures — but it’s also largely unregulated. And that last part is becoming a…",
+   "published": "2026-10-14T19:30:00+00:00"
+  },
+  {
+   "id": "6c8195d137ce",
+   "title": "New York considers changing its sexual assault law. Minnesota could serve as an example.",
+   "link": "https://www.csmonitor.com/USA/Justice/2026/1014/cornell-sexual-assault-law?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "New York could look to other states as it considers changes to its sexual assault statutes in the wake of the Cornell University case.",
+   "published": "2026-10-14T19:26:22+00:00"
+  },
+  {
+   "id": "ef75424417ae",
+   "title": "Sally Rooney’s books pulled from UK over Palestine Action support",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/sally-rooneys-books-pulled-from-uk-over-palestine-action-support?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Award-winning author Sally Rooney’s books are being withdrawn from the UK over her support for Palestine Action",
+   "published": "2026-10-14T19:23:27+00:00"
+  },
+  {
+   "id": "6ed5dfa99ce3",
+   "title": "The Org Chart Nobody Draws",
+   "link": "https://www.wealthmanagement.com/business-planning/the-org-chart-nobody-draws",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Workflow shouldn't be “whoever happens to see it first.”",
+   "published": "2026-10-14T19:20:41+00:00"
+  },
+  {
+   "id": "975931c92c2c",
+   "title": "Israel blocks construction of key Gaza base created by Trump peace board",
+   "link": "https://www.theguardian.com/us-news/2026/oct/14/israel-trump-peace-board-gaza-base",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Source tells Guardian Israel has not permitted US-led project to house 150 international troops to move forward Israel is refusing to allow a key military outpost project for Donald Trump’s Board of Peace to proceed in Gaza, the Guardian has learned. In early August, the Board…",
+   "published": "2026-10-14T19:19:52+00:00"
+  },
+  {
+   "id": "82f09b5fc801",
+   "title": "S. 4166, SECURE Grid Act",
+   "link": "https://www.cbo.gov/publication/62854",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As ordered reported by the Senate Committee on Energy and Natural Resources on September 30, 2026",
+   "published": "2026-10-14T19:19:00+00:00"
+  },
+  {
+   "id": "28abf38d6651",
+   "title": "H.R. 941, Small LENDER Act",
+   "link": "https://www.cbo.gov/publication/62853",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As reported by the House Committee on Financial Services on June 18, 2026",
+   "published": "2026-10-14T19:18:00+00:00"
+  },
+  {
+   "id": "a2da7c798ef7",
+   "title": "World’s oldest known shipwreck found in Turkiye",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/worlds-oldest-known-shipwreck-found-in-turkiye?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The world’s oldest known shipwreck has been discovered off Turkiye’s coast, dating back nearly 5,000 years.",
+   "published": "2026-10-14T19:17:48+00:00"
+  },
+  {
+   "id": "5fa3c89560e6",
+   "title": "BYU unveils renderings for new School of Medicine building",
+   "link": "https://www.deseret.com/education/2026/10/14/byu-reveals-renderings-new-school-of-medicine-building/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The BYU School of Medicine received preliminary accreditation this week and the first students will arrive in June, so now it needs a temporary home and a future permanent one. Both will be located on the property of the former Provo High School, which the university bought for…",
+   "published": "2026-10-14T19:16:30+00:00"
+  },
+  {
+   "id": "901bdd4b0040",
+   "title": "Trump tries to rally support for Republican candidates as top Super Pac for Senate Democrats pours millions into key races – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump will rally in Arizona and Montana this afternoon; The Senate Majority Pac puts millions of dollars toward competitive races in Michigan and Maine Sign up for the Breaking News US email Donald Trump has yet to weigh in on the late night ruling from a federal judge that…",
+   "published": "2026-10-14T19:16:22+00:00"
+  },
+  {
+   "id": "0241406a5cdf",
+   "title": "OpenAI’s London staff receive average of £2.3m per person annually",
+   "link": "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Accounts for the Westminster-based company behind ChatGPT show that 110 staff shared £87m in salaries and £168m in shares last year OpenAI’s London staff each received £2,318,181 on average last year, as the ChatGPT-maker poured Premier League football salaries into its bid to…",
+   "published": "2026-10-14T19:15:14+00:00"
+  },
+  {
+   "id": "a8be9d22dcfc",
+   "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+   "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "”I earn $110,000 a year.”",
+   "published": "2026-10-14T19:15:00+00:00"
+  },
+  {
+   "id": "98f5f5d66c67",
+   "title": "Fan-favorite Guillermo Rodriguez eliminated from ‘Dancing with the Stars’",
+   "link": "https://www.deseret.com/entertainment/2026/10/14/dancing-with-the-stars-super-bowl-night-recap/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "After consistently falling to the bottom of the leaderboard and being saved by audience votes each week, “Jimmy Kimmel Live!” star Guillermo Rodriguez was eliminated from “Dancing with the Stars” last night. The elimination came during Week 5 of Season 35, which was themed…",
+   "published": "2026-10-14T19:13:19+00:00"
+  },
+  {
+   "id": "6c91316fdd53",
+   "title": "Indiana lawmakers punt on high school NIL regulations",
+   "link": "https://indianacapitalchronicle.com/2026/10/14/lawmakers-punt-on-high-school-nil-regulations/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The name, image and likeness brand deals prevalent in collegiate athletics are trickling down to high school athletes, but Indiana lawmakers appear unlikely to regulate the practice for now. The Indiana High School Athletic Association in May authorized its own version of the…",
+   "published": "2026-10-14T19:11:31+00:00"
+  },
+  {
+   "id": "dd6ef79d9057",
+   "title": "High school cross country: 2A divisional recap, North Summit girls, San Juan boys post top qualifying performances",
+   "link": "https://www.deseret.com/sports/2026/10/14/high-school-cross-country-2a-divisional-meet/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Here’s a look at the results from the 2A cross country divisional meets that were held at Lakeside Park in Orem on Wednesday. The meet is a state qualifying meet that narrows the field for the 2A state meet that will be held on Wednesday, Oct. 28 at Sugar House Park. Teams from…",
+   "published": "2026-10-14T19:09:12+00:00"
+  },
+  {
+   "id": "b774a0a690b6",
+   "title": "America: Democracy or Republic?",
+   "link": "https://reason.com/volokh/2026/10/14/america-democracy-or-republic/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "I'm interviewed about this roughly at about 3:15 to 6:30 of this episode of PBS's Civics Made Easy series. Unfortunately,… The post America: Democracy or Republic? appeared first on Reason Magazine.",
+   "published": "2026-10-14T19:07:59+00:00"
+  },
+  {
+   "id": "e0da83a2e077",
+   "title": "This homegrown business sector might be Utah’s best-kept secret",
+   "link": "https://www.deseret.com/business/2026/10/13/utah-life-sciences-health-innovation-biotech-economic-impacts-university-of-utah-biodefense/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The rise of Silicon Slopes and the success of Utah’s software development industry has garnered plenty of attention in the last decade or so and the proceeds of those successes have fundamentally reshaped the state’s fiscal landscape. One need look no further than Ryan Smith’s…",
+   "published": "2026-10-14T19:04:56+00:00"
+  },
+  {
+   "id": "74c085b82c64",
+   "title": "What to expect at the next Fed meeting now that rate-hike odds are rising",
+   "link": "https://www.marketwatch.com/story/heres-what-the-fed-might-do-at-this-months-meeting-after-todays-hot-inflation-reading-087511b6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Market participants and economists are split on the question of whether or not the Federal Reserve will raise interest rates by another quarter-point in two weeks.",
+   "published": "2026-10-14T19:04:00+00:00"
+  },
+  {
+   "id": "d0581cf1d808",
+   "title": "New license plate aims to chip away at Utah’s school lunch debt",
+   "link": "https://www.deseret.com/utah/2026/10/14/new-license-plate-aims-to-chip-away-at-utahs-school-lunch-debt/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The \"Feed Utah Kids\" license place is being sold by the Department of Motor Vehicles to chip away at Utah's school lunch debt.",
+   "published": "2026-10-14T19:03:27+00:00"
+  },
+  {
+   "id": "5306fb4c1219",
+   "title": "Bangladesh arrests two for luring locals to fight for Russia in Ukraine",
+   "link": "https://www.aljazeera.com/news/2026/10/14/bangladesh-arrests-two-for-luring-locals-to-fight-for-russia-in-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Twenty Bangladeshi citizens have been killed after being used by Russia as 'bait' to locate enemy positions, police say.",
+   "published": "2026-10-14T19:02:51+00:00"
+  },
+  {
+   "id": "1c06cb477f7a",
+   "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
+   "link": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writers The Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an article in the Atlantic said software had…",
+   "published": "2026-10-14T19:01:29+00:00"
+  },
+  {
+   "id": "72473a987e6d",
+   "title": "In Ukraine, civilian casualties were already rising. Restrictions on Starlink will only worsen the death toll",
+   "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-starlink-civilian-casualties-death-toll",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Throttling of mobile internet system will affect Kyiv’s air defences more than its strikes on oil refineries. Now Zelenskyy must be hoping that US intel holds In Ukraine the situation was already jittery enough. Donald Trump has been inventing ceasefires and buying Russian…",
+   "published": "2026-10-14T18:54:34+00:00"
+  },
+  {
    "id": "ea5e76901c06",
    "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
    "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
@@ -138,17 +413,6 @@
    "flourishing_feed": false,
    "summary": "The cost-of-living adjustment for 2027 will be 3.6%, which will give Social Security recipients an average of $75 more per month.",
    "published": "2026-10-14T18:53:00+00:00"
-  },
-  {
-   "id": "901bdd4b0040",
-   "title": "DoJ threatens California over alleged noncitizen voting as Trump tries to rally support for Republicans – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Justice department gives state officials 48 hours to review list of ‘likely noncitizens’ as president heads to campaign rallies in Arizona and Montana Sign up for the Breaking News US email Donald Trump has yet to weigh in on the late night ruling from a federal judge that…",
-   "published": "2026-10-14T18:41:39+00:00"
   },
   {
    "id": "ad9550fe021e",
@@ -730,7 +994,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The first 60 students for BYU’s new School of Medicine may start lining up now. BYU President Shane Reese announced Wednesday that the BYU School of Medicine has received preliminary accreditation. The school is now authorized to recruit an inaugural class of students and…",
+   "summary": "The first students for BYU’s new School of Medicine may start lining up now. BYU President Shane Reese announced Wednesday that the BYU School of Medicine has received preliminary accreditation, clearing the way for the first class. The Liaison Committee on Medical Education…",
    "published": "2026-10-14T16:47:30+00:00"
   },
   {
@@ -862,7 +1126,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Launch of Russian ballistic missiles on Ukraine, with no US warning, coincides with outage of Starlink managed by Musk’s SpaceX Europe live – latest updates Ukraine’s military has suddenly had its access to Starlink satellite internet terminals restricted as the Trump…",
+   "summary": "Launch of Russian ballistic missiles on Ukraine, with no US warning, coincides with outage of Starlink managed by Musk’s SpaceX Ukraine’s military has suddenly had its access to Starlink satellite internet terminals restricted as the Trump administration has increased pressure…",
    "published": "2026-10-14T16:18:46+00:00"
   },
   {
@@ -1216,17 +1480,6 @@
    "flourishing_feed": false,
    "summary": "The GOP has entered its post-embarrassment era.",
    "published": "2026-10-14T15:21:41+00:00"
-  },
-  {
-   "id": "2d63366bf522",
-   "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-   "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-   "published": "2026-10-14T15:18:00+00:00"
   },
   {
    "id": "4459b7c2b1ba",
@@ -1722,17 +1975,6 @@
    "flourishing_feed": false,
    "summary": "25-02221.pdf Anonymous (not verified) Wed, 10/14/2026 - 09:45 Case ID 25-02221 Forum FINRA Document Type Award Claimants Donald J. Mahoney Respondents UBS Financial Services Inc. Neutrals Robert J. Kheel Lawrence R. Maxwell Fern M. Laethem Hearing Site Philadelphia, PA Award…",
    "published": "2026-10-14T13:45:02+00:00"
-  },
-  {
-   "id": "a8be9d22dcfc",
-   "title": "I lost my home in the Great Recession. I still rent in my 50s. Why is that judged as failure?",
-   "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "”I earn $110,000 a year.”",
-   "published": "2026-10-14T13:45:00+00:00"
   },
   {
    "id": "881c1b6b7738",
@@ -2502,6 +2744,17 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "The money from Willow Tree Credit Partners will fund VestGen’s mergers and acquisitions activity.",
+   "published": "2026-10-14T10:00:01+00:00"
+  },
+  {
+   "id": "71ec68660fea",
+   "title": "VestGen Receives Growth Capital From Private Credit Firms",
+   "link": "https://www.wealthmanagement.com/ria-news/vestgen-receives-growth-capital-from-private-credit-firms",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The money from Willow Tree Credit Partners and nFleXion Capital Partners will fund VestGen’s mergers and acquisitions activity.",
    "published": "2026-10-14T10:00:01+00:00"
   },
   {
