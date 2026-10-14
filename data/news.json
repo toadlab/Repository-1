@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T16:09:52.609435+00:00",
+ "generated": "2026-10-14T16:48:47.939688+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 24
+   "count": 26
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,226 @@
  ],
  "items": [
   {
+   "id": "fad774142212",
+   "title": "Netflix to lay off 1,000 staff in steepest cuts since 2022",
+   "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+   "published": "2026-10-14T16:47:32+00:00"
+  },
+  {
+   "id": "5d50be72e425",
+   "title": "T. Rowe Price Beefs Up its Advisor Distribution Efforts",
+   "link": "https://www.wealthmanagement.com/smas/t-rowe-price-beefs-up-its-advisor-distribution-efforts",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The firm hired two new executives and is adding over 50 new client-facing roles in broker/dealer and RIA field sales.",
+   "published": "2026-10-14T16:47:22+00:00"
+  },
+  {
+   "id": "901bdd4b0040",
+   "title": "Trump heads to rallies in Arizona and Montana after campaign stop-off in Alaska – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump has taken to campaigning in conservative-leaning ​parts of competitive states, rather than in more politically diverse areas Sign up for the Breaking News US email Donald Trump has yet to weigh in on the late night ruling from a federal judge that blocks him from barring…",
+   "published": "2026-10-14T16:40:01+00:00"
+  },
+  {
+   "id": "58cc21731054",
+   "title": "Utah Builds the Technologies That Defend the Nation and Power the Economy",
+   "link": "https://www.deseret.com/brandview/2026/10/14/utah-builds-the-technologies-that-defend-the-nation-and-power-the-economy/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Today, a growing number of those problems are converging around aerospace, defense and other hard tech industries — fields that require significant engineering, advanced manufacturing, specialized talent and long development timelines. At the same time, advances in these…",
+   "published": "2026-10-14T16:35:07+00:00"
+  },
+  {
+   "id": "43563c1cd3bc",
+   "title": "Container ship sinks near strait of Hormuz amid surge in Iranian attacks",
+   "link": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Second vessel also reportedly sinking as rise in strikes suggests Iran trying to close waterway before US elections A container ship has ⁠sunk near the strait of Hormuz and a second cargo vessel was reportedly sinking amid the sharpest rise in Iranian attacks on shipping since…",
+   "published": "2026-10-14T16:33:45+00:00"
+  },
+  {
+   "id": "ddb7184c1960",
+   "title": "Burnham tells Zelenskyy’s UK’s support for Ukraine ‘will not change’ – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Zelenskyy says he will be discussing intelligence sharing ‘difficulties’ and Starlink access with Burnham PMQs is about to start. Here is the list of MPs down to ask a question. After @genevieve_holl reported this last night, various sources in the Trump administration who are…",
+   "published": "2026-10-14T16:31:34+00:00"
+  },
+  {
+   "id": "ca37c308bee2",
+   "title": "Cornell president acknowledges he knew about fraternity sexual assault but didn’t follow up",
+   "link": "https://www.theguardian.com/us-news/2026/oct/14/cornell-president-fraternity-sexual-assault-interview",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Michael Kotlikoff addressed his administration’s handling of the 2024 allegations as the faces calls for his resignation Michael Kotlikoff, the president of Cornell University, spoke to the New York Times about sexual assault allegations at the school, acknowledging for the…",
+   "published": "2026-10-14T16:30:10+00:00"
+  },
+  {
+   "id": "22cc6bb5d9b9",
+   "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
+   "link": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "There isn’t any way to spin Wednesday’s hot consumer-price index report as good, especially when looking at the bond market’s reaction.",
+   "published": "2026-10-14T16:27:00+00:00"
+  },
+  {
+   "id": "ba8c90cbcaee",
+   "title": "Kenya confirms second Ebola case as relative of country's first victim",
+   "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+   "published": "2026-10-14T16:23:40+00:00"
+  },
+  {
+   "id": "d3b20c24d63f",
+   "title": "Fire erupts at Albania’s Education Ministry as protests enter third day",
+   "link": "https://www.aljazeera.com/news/2026/10/14/fire-erupts-at-albanias-education-ministry-as-protests-enter-third-day?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least 16 additional protesters have been arrested after clashing with riot police.",
+   "published": "2026-10-14T16:23:20+00:00"
+  },
+  {
+   "id": "d563a776c161",
+   "title": "At least two security officials killed near Iran’s critical Chabahar port",
+   "link": "https://www.aljazeera.com/news/2026/10/14/at-least-two-security-officials-killed-near-irans-critical-chabahar-port?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Iran says 'terrorist groups' supported from outside the country are targeting security forces.",
+   "published": "2026-10-14T16:22:04+00:00"
+  },
+  {
+   "id": "7e8777e79d46",
+   "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+   "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The 3.6% COLA for 2027 is aimed at helping more than 68 million beneficiaries keep pace with the cost of living",
+   "published": "2026-10-14T16:20:00+00:00"
+  },
+  {
+   "id": "529fc83d3e13",
+   "title": "BYU’s other injured running back ‘has a chance’ to play against Notre Dame",
+   "link": "https://www.deseret.com/sports/2026/10/14/byu-football-notre-dame-injury-sione-moa-cougars-sitake-roderick-martin/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Help could be on the way in BYU’s depleted running backs room. After practice Tuesday night, BYU offensive coordinator Aaron Roderick said sophomore RB Sione Moa has been cleared to play against Notre Dame on Saturday (5:30 p.m. MDT, ABC) and practiced fully for the first time…",
+   "published": "2026-10-14T16:19:14+00:00"
+  },
+  {
+   "id": "6a030f91bddf",
+   "title": "BYU’s School of Medicine takes major step forward, receives preliminary accreditation",
+   "link": "https://www.deseret.com/education/2026/10/14/byus-school-of-medicine-takes-major-step-forward-receives-preliminary-accreditation/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The first 60 students for BYU’s new School of Medicine may start lining up now. BYU President Shane Reese announced Wednesday that the BYU School of Medicine has received preliminary accreditation. The school is now authorized to recruit an inaugural class of students and…",
+   "published": "2026-10-14T16:18:56+00:00"
+  },
+  {
+   "id": "d96a84468433",
+   "title": "Ukrainian military’s access to Starlink satellite internet suddenly restricted",
+   "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Launch of Russian ballistic missiles on Ukraine, with no US warning, coincides with outage of Starlink managed by Musk’s SpaceX Europe live – latest updates Ukraine’s military has suddenly had its access to Starlink satellite internet terminals restricted as the Trump…",
+   "published": "2026-10-14T16:18:46+00:00"
+  },
+  {
+   "id": "abdd6d2c83b4",
+   "title": "Posting About This 'Robot Sexual Assault' in Germany Could Be a Crime",
+   "link": "https://reason.com/2026/10/14/posting-about-this-robot-sexual-assault-in-germany-could-be-a-crime/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Let's unpack the latest dystopian tech news—and German cops' dystopian response.",
+   "published": "2026-10-14T16:15:24+00:00"
+  },
+  {
+   "id": "6fb2558e9ca5",
+   "title": "UK’s ‘incoherent’ approach to China plagued by a lack of expertise, report says",
+   "link": "https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "International grouping of China-sceptic legislators warns of risks inherent in misjudging bilateral relationship The UK’s approach to China is “beset by incoherence” and plagued by a lack of senior expertise, according to a report warning of the risks inherent in misjudging the…",
+   "published": "2026-10-14T16:13:49+00:00"
+  },
+  {
+   "id": "caaa3fda31f8",
+   "title": "US Social Security benefits to rise by 3.6 percent in 2027",
+   "link": "https://www.aljazeera.com/news/2026/10/14/us-social-security-benefits-to-rise-by-3-6-percent-in-2027?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Retired Americans will see a $75 boost in monthly cheques as benefits rise amid widespread inflation challenges.",
+   "published": "2026-10-14T16:10:39+00:00"
+  },
+  {
+   "id": "bf23a233435d",
+   "title": "Trump administration promises social security recipients 3.6% increase in 2027",
+   "link": "https://www.theguardian.com/us-news/2026/oct/14/social-security-increase-cost-of-living",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "‘Seniors have spent years watching their expenses outpacing their benefits’ advocate says Social security recipients will see a 3.6% cost-of-living adjustment (Cola) in 2027, increasing retirement benefits by an average of $75 per month as millions of Americans continue to…",
+   "published": "2026-10-14T16:08:35+00:00"
+  },
+  {
+   "id": "3cb6a3f2e813",
+   "title": "UN official warns of looming food crisis as Hormuz fertiliser plan stalls",
+   "link": "https://www.aljazeera.com/news/2026/10/14/un-official-warns-of-looming-food-crisis-as-hormuz-fertiliser-plan-stalls?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Without a quick deal to move fertiliser through the strait, agricultural productivity would 'significantly drop'.",
+   "published": "2026-10-14T16:08:09+00:00"
+  },
+  {
    "id": "00c6d76841a4",
    "title": "Rising diesel prices have helped fuel inflation — and we’re about to see how much worse it could get",
    "link": "https://www.marketwatch.com/story/rising-diesel-prices-have-helped-fuel-inflation-and-were-about-to-see-how-much-worse-it-could-get-430f36d1?mod=mw_rss_topstories",
@@ -140,6 +360,17 @@
    "published": "2026-10-14T16:07:00+00:00"
   },
   {
+   "id": "adab0e1c4175",
+   "title": "Sally Rooney says she can no longer sell books in UK due to Palestine Action support",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Irish writer of Normal People says she can no longer receive royalties from British sales and she cancelled UK trip due to fear of arrest Sally Rooney has said she is being forced to withdraw her books from sale in the UK because of her support for the banned organisation…",
+   "published": "2026-10-14T16:06:42+00:00"
+  },
+  {
    "id": "71093b3bb341",
    "title": "Meeting With a Financial Adviser for the First Time? Here's How to Prepare",
    "link": "https://www.kiplinger.com/investing/wealth-creation/meeting-with-a-financial-adviser-for-the-first-time-how-to-prepare",
@@ -149,6 +380,17 @@
    "flourishing_feed": false,
    "summary": "From the documents to bring to the questions to ask, a little preparation can help you get more out of your first meeting.",
    "published": "2026-10-14T16:05:44+00:00"
+  },
+  {
+   "id": "8e82fce38941",
+   "title": "Palantir and Sadiq Khan drop legal battle over Met contract",
+   "link": "https://www.theguardian.com/technology/2026/oct/14/palantir-and-sadiq-khan-drop-legal-battle-over-met-contract",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Dispute related to claims London mayor blocked US tech firm from £50m police deal because of concerns over its values Palantir and the London mayor, Sadiq Khan, have called off their legal fight over claims the Labour mayor was blocking the US tech company from signing a…",
+   "published": "2026-10-14T16:05:22+00:00"
   },
   {
    "id": "2a4e82bcb4eb",
@@ -239,28 +481,6 @@
    "published": "2026-10-14T16:00:00+00:00"
   },
   {
-   "id": "ddb7184c1960",
-   "title": "Burnham tells Zelenskyy’s UK’s support for Ukraine ‘will not change’ – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Burnham said Zelenskyy was ‘prepared to sit down and discuss’ the energy ceasefire proposed by Trump PMQs is about to start. Here is the list of MPs down to ask a question. After @genevieve_holl reported this last night, various sources in the Trump administration who are…",
-   "published": "2026-10-14T15:59:40+00:00"
-  },
-  {
-   "id": "901bdd4b0040",
-   "title": "Trump heads to rallies in Arizona and Montana after campaign stop-off in Alaska – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Trump has taken to campaigning in conservative-leaning ​parts of competitive states, rather than in more politically diverse areas Sign up for the Breaking News US email Donald Trump has yet to weigh in on the late night ruling from a federal judge that blocks him from barring…",
-   "published": "2026-10-14T15:57:20+00:00"
-  },
-  {
    "id": "779a1c17bfdc",
    "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
    "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
@@ -283,15 +503,37 @@
    "published": "2026-10-14T15:55:28+00:00"
   },
   {
-   "id": "adab0e1c4175",
-   "title": "Sally Rooney says she can no longer sell books in UK due to Palestine Action support",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/14/sally-rooney-says-she-can-no-longer-sell-books-in-the-uk-because-of-palestine-action-support",
-   "source": "The Guardian World",
+   "id": "32f880d6d58b",
+   "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
+   "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Irish writer of Normal People says she can no longer receive royalties from British sales and she cancelled UK trip due to fear of arrest Sally Rooney has said she is being forced to withdraw her books from sale in the UK because of her support for the banned organisation…",
-   "published": "2026-10-14T15:50:17+00:00"
+   "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
+   "published": "2026-10-14T15:54:04+00:00"
+  },
+  {
+   "id": "074b5d008d23",
+   "title": "Jerusalem Daily: UN demands Israel do more to stop settler violence",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/jerusalem-daily-un-demands-israel-do-more-to-stop-settler-violence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Netanyahu warns again of Israel’s ‘enemies’ planning an attack before elections.",
+   "published": "2026-10-14T15:49:54+00:00"
+  },
+  {
+   "id": "c08e0934d4c3",
+   "title": "Ronaldo’s among three Saudi Arabia games postponed due to Houthi attacks",
+   "link": "https://www.aljazeera.com/sports/2026/10/14/ronaldos-among-three-saudi-arabia-games-postponed-due-to-houthi-attacks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi Pro League postpones three matches after Houthi attacks, including one involving Cristiano Ronaldo's Al Nassr.",
+   "published": "2026-10-14T15:49:47+00:00"
   },
   {
    "id": "755ea41b3cb0",
@@ -349,15 +591,15 @@
    "published": "2026-10-14T15:35:51+00:00"
   },
   {
-   "id": "43563c1cd3bc",
-   "title": "Container ship sinks near strait of Hormuz amid surge in Iranian attacks",
-   "link": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
-   "source": "The Guardian World",
+   "id": "316f0a74f5e9",
+   "title": "Container ship hit by projectile sinks in Strait of Hormuz, Singapore says",
+   "link": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Second vessel also reportedly sinking as uptick in strikes suggests Iran trying to close waterway before US elections A container ship has ⁠sunk near the strait of Hormuz and a second cargo vessel was reportedly sinking amid the sharpest uptick in Iranian attacks on shipping…",
-   "published": "2026-10-14T15:35:33+00:00"
+   "summary": "All 21 sailors on the Singapore-flagged GFS Pride were evacuated safely after it was hit by an projectile on Tuesday, maritime authorities say.",
+   "published": "2026-10-14T15:34:19+00:00"
   },
   {
    "id": "2475e17c2b93",
@@ -369,17 +611,6 @@
    "flourishing_feed": false,
    "summary": "Peak of French mountain now 4,807 metres high and fluctuates year by year due to changes in Alpine climate Europe’s highest mountain shrank by more than a metre last year. The peak of Mont Blanc in France now stands 4,807.47 metres above sea level, a team of surveyors said on…",
    "published": "2026-10-14T15:33:52+00:00"
-  },
-  {
-   "id": "7e8777e79d46",
-   "title": "Your Social Security check will rise 3.6% next year, but will it be able to keep up with inflation?",
-   "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "The COLA is aimed at helping about 68 million beneficiaries keep pace with inflation.",
-   "published": "2026-10-14T15:33:00+00:00"
   },
   {
    "id": "e3615cfd970f",
@@ -580,6 +811,17 @@
    "published": "2026-10-14T14:58:22+00:00"
   },
   {
+   "id": "861d822610c8",
+   "title": "NYC-Based Tax Firm CohnReznick to Add $8B West Coast Wealth Practice",
+   "link": "https://www.wealthmanagement.com/ria-news/nyc-based-tax-firm-cohnreznick-to-add-8b-west-coast-based-wealth-practice",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "CohnReznick will look to grow its client base by adding fee-based Aldrich Wealth’s individual wealth management and corporate retirement plan consulting.",
+   "published": "2026-10-14T14:55:20+00:00"
+  },
+  {
    "id": "7cf64b74350e",
    "title": "Boy, 17, accidentally shot dead with air rifle at Hampshire house party, inquest told",
    "link": "https://www.theguardian.com/uk-news/2026/oct/14/boy-17-connor-bell-accident-shot-dead-air-rifle-hampshire-basingstoke-house-party-inquest",
@@ -754,17 +996,6 @@
    "flourishing_feed": false,
    "summary": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
    "published": "2026-10-14T14:18:18+00:00"
-  },
-  {
-   "id": "d96a84468433",
-   "title": "Ukrainian military’s access to Starlink satellite internet suddenly restricted",
-   "link": "https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Launch of Russian ballistic missiles on Ukraine, with no US warning, coincides with outage of Starlink managed by Musk’s SpaceX Europe live – latest updates Ukraine’s military has suddenly had its access to Starlink satellite internet terminals restricted as the Trump…",
-   "published": "2026-10-14T14:17:59+00:00"
   },
   {
    "id": "b4b6fdb29611",
@@ -1051,6 +1282,17 @@
    "flourishing_feed": false,
    "summary": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
    "published": "2026-10-14T13:28:00+00:00"
+  },
+  {
+   "id": "815a874ecea6",
+   "title": "Are the European Women's World Cup play-offs working?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The ease in which England saw off Greece in round one of the Women's World Cup qualifying play-offs showed just how inefficient the structure currently is.",
+   "published": "2026-10-14T13:25:56+00:00"
   },
   {
    "id": "90aa64af1e6b",
