@@ -5,8 +5,6 @@
   const STORE_KEY = "pnd.v1";
   const MS_DAY = 86400000;
   const VERSIONS = ["ESV", "NIV", "NASB"];
-  const ESV_NOTICE = "Scripture quotations marked ESV are from the ESV® Bible (The Holy Bible, English Standard Version®), " +
-    "© 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.";
 
   // ---------- per-browser storage (never allowed to break rendering) ----------
   function loadStore() {
@@ -90,10 +88,11 @@
       h("blockquote", {}, verse, cite),
       f.prompt && h("p", { class: "prompt" }, f.prompt)));
     // The day's line is stored in the KJV (public domain); swap in the ESV when a key is set.
-    if (useEsv() && f.verse) {
-      esvPassage(f.verse).then((t) => {
+    if (useEsv() && f.verse && Esv.allowed([f.verse])) {
+      Esv.passage(f.verse, store.esvKey, ymd(date)).then((t) => {
+        // Keep the API's "(ESV)" mark with the quotation, as the guidelines require.
         verse.textContent = t.replace(/\[\d+\]\s*/g, "").replace(/\s+/g, " ").trim();
-        cite.replaceChildren(ext(gateway(f.verse), `${f.verse} ESV`));
+        cite.replaceChildren(ext(gateway(f.verse), f.verse));
       }).catch(() => { /* keep the KJV line */ });
     }
 
@@ -118,47 +117,38 @@
       h("div", { class: "card-actions" },
         ext(gateway(passage), `Read in the ${store.version} on BibleGateway ↗`, useEsv() ? "btn-link subtle" : "btn-link"),
         talkBtn("Ask about this passage", { kind: "reading", title: passage, body: `${n.unit.period}: ${n.unit.title}` }))));
-    if (useEsv()) loadScripture(passage, textBox);
-    else if (store.version === "ESV") {
+    if (useEsv() && Esv.allowed(n.chapters)) loadScripture(n.chapters, date, textBox);
+    else if (useEsv()) {
+      textBox.append(h("p", { class: "muted small" },
+        "This passage is more than half of a short book, which is more than the ESV's guidelines allow on one page. Read it on BibleGateway instead."));
+    } else if (store.version === "ESV") {
       textBox.append(h("p", { class: "muted small" },
         "To read the full ESV text right here, add a free ESV key in Settings (⚙)."));
     }
     return wrap;
   }
 
-  // ---------- ESV text (free key from api.esv.org, stored only in this browser) ----------
+  // ---------- ESV text (see assets/esv.js for how the API guidelines are kept) ----------
   const useEsv = () => store.version === "ESV" && !!store.esvKey;
-  const esvCache = new Map();
-  function esvPassage(ref) {
-    if (!esvCache.has(ref)) {
-      const q = new URLSearchParams({
-        q: ref, "include-passage-references": "false", "include-footnotes": "false",
-        "include-headings": "false", "include-short-copyright": "false", "include-copyright": "false",
-        "indent-paragraphs": "0", "indent-poetry": "false",
-      });
-      const p = fetch(`https://api.esv.org/v3/passage/text/?${q}`, { headers: { Authorization: `Token ${store.esvKey}` } })
-        .then((res) => { if (!res.ok) throw new Error(String(res.status)); return res.json(); })
-        .then((d) => d.passages.join("\n\n"))
-        .catch((e) => { esvCache.delete(ref); throw e; });
-      esvCache.set(ref, p);
-    }
-    return esvCache.get(ref);
-  }
 
-  async function loadScripture(passage, box) {
+  async function loadScripture(refs, date, box) {
     box.replaceChildren(h("p", { class: "muted small" }, "Loading the text…"));
     try {
-      const parts = await Promise.all(passage.split("; ").map(async (ref) => [ref, await esvPassage(ref)]));
+      const fetched = await Promise.all(refs.map(async (ref) => [ref, await Esv.passage(ref, store.esvKey, ymd(date))]));
+      const { parts, trimmed } = Esv.cap(fetched);
       box.replaceChildren(...parts.flatMap(([ref, text]) => [
         h("h4", {}, ref),
         ...text.split(/\n\s*\n/).filter((t) => t.trim()).map((block) =>
           h("p", {}, block.split(/\[(\d+)\]/).map((piece, i) =>
             i % 2 ? h("sup", {}, piece) : piece.replace(/\s+/g, " ")))),
-      ]), h("p", { class: "copyright" }, ESV_NOTICE));
+      ]), ...(trimmed ? [h("p", { class: "muted small" }, `Stopped at ${Esv.MAX_VERSES} verses, the most the ESV allows on one page. Continue on BibleGateway.`)] : []),
+      h("p", { class: "copyright" }, h("a", { href: "copyright.html" }, "ESV copyright notice")));
     } catch (e) {
       box.replaceChildren(h("p", { class: "muted small" }, e.message === "401" || e.message === "403"
         ? "The ESV key was rejected. Check it in Settings (⚙), or use the link below."
-        : "Couldn't load the text here. Use the link below."));
+        : e.message === "rate" || e.message === "429"
+          ? "Paused to stay within the ESV's request limits. Try again in a minute, or use the link below."
+          : "Couldn't load the text here. Use the link below."));
     }
   }
 
@@ -172,15 +162,20 @@
   function toggleFlag(item) {
     if (isFlagged(item.id)) store.flags = store.flags.filter((f) => f.id !== item.id);
     else store.flags.push({ id: item.id, title: item.title, link: item.link, source: item.source,
-                            blurb: item.blurb || item.summary || "", flaggedAt: new Date().toISOString() });
+                            blurb: ourSummary(item), flaggedAt: new Date().toISOString() });
     save();
     updateFlagCount();
   }
   function updateFlagCount() { $("flag-count").textContent = store.flags.length ? String(store.flags.length) : ""; }
 
+  // Only summaries written by the stage-2 review from the full article are shown; never a feed's blurb.
+  const ourSummary = (item) => (item.review_status === "reviewed" ? item.summary : "");
+
+  const firstSentence = (text) => (text.match(/^.+?[.!?](?=\s+[A-Z0-9"“]|$)/) || [text])[0];
+
   function newsCtx(item) {
     return { kind: "news", title: item.title, url: item.link,
-             body: [item.ai_summary || item.summary, item.why_it_matters].filter(Boolean).join("\n\n") };
+             body: [ourSummary(item), item.why_it_matters].filter(Boolean).join("\n\n") };
   }
 
   function storyEl(item, { weekly } = {}) {
@@ -190,8 +185,11 @@
     const dd = item.deep_dive;
     const body = h("div", { class: "story-body", hidden: true },
       h("p", { class: "meta small muted" }, ext(item.link, `${item.source} ↗`), " · ", fmt(new Date(item.published), { month: "short", day: "numeric" })),
-      item.ai_summary && h("div", { class: "ai-summary" }, h("span", { class: "tag" }, "AI summary"), h("p", {}, item.ai_summary)),
-      !item.ai_summary && item.summary && h("p", {}, item.summary),
+      ourSummary(item) && h("div", { class: "ai-summary" }, h("span", { class: "tag" }, "Summary of the full article"), h("p", {}, ourSummary(item)),
+        item.review_reason && h("p", { class: "small muted" }, "Kept because: ", item.review_reason)),
+      item.label && h("p", { class: "small muted" }, item.review_status === "unverified"
+        ? "The full article couldn't be fetched, so it hasn't been checked or summarized. Read it at the source."
+        : "This article hasn't been read and reviewed yet (the review needs a Claude API key)."),
       weekly && item.why_it_matters && h("div", { class: "why" }, h("h4", {}, "Why it matters to you"), ...para(item.why_it_matters)),
       item.talk_to && h("p", { class: "talk-to" }, "☎ ", item.talk_to),
       dd && h("div", { class: "deep-dive" },
@@ -214,8 +212,9 @@
         talkBtn("Ask…", newsCtx(item))));
     const head = h("div", { class: "story-head", role: "button", tabindex: 0, "aria-expanded": "false" },
       h("div", { class: "story-text" },
-        h("h3", {}, item.title, item.borderline && h("span", { class: "badge" }, "borderline"), dd && h("span", { class: "badge deep" }, "deep dive")),
-        h("p", { class: "blurb" }, item.blurb || item.summary)),
+        h("h3", {}, item.title, item.borderline && h("span", { class: "badge" }, "borderline"), dd && h("span", { class: "badge deep" }, "deep dive"),
+          item.label && h("span", { class: "badge unverified" }, item.label)),
+        ourSummary(item) && h("p", { class: "blurb" }, firstSentence(ourSummary(item)))),
       flagBtn);
     const toggle = () => { body.hidden = !body.hidden; head.setAttribute("aria-expanded", String(!body.hidden)); };
     head.addEventListener("click", toggle);
@@ -233,6 +232,9 @@
       h("ul", {}, (m.notes || []).map((n) => h("li", {}, n))),
       m.borderline?.length > 0 && [h("h4", {}, "Borderline calls, not included"),
         h("ul", {}, m.borderline.map((b) => h("li", {}, ext(b.link, b.title), h("span", { class: "muted" }, ` · ${b.source}. ${b.note}`))))],
+      m.review_cuts?.length > 0 && [h("h4", {}, `Cut after reading the full article (${m.review_cuts.length})`),
+        h("ul", { class: "review-cuts" }, m.review_cuts.map((c) => h("li", {}, ext(c.link, c.title),
+          h("span", { class: "muted" }, ` · ${c.source}${c.author ? `, ${c.author}` : ""}`), h("br"), h("span", {}, c.reason))))],
       m.excluded?.length > 0 && h("button", { class: "link-btn", onclick: (e) => { excluded.hidden = !excluded.hidden;
         e.target.textContent = excluded.hidden ? `Show all ${m.excluded.length} excluded headlines` : "Hide excluded headlines"; } },
         `Show all ${m.excluded.length} excluded headlines`),
@@ -342,7 +344,7 @@
           onclick: () => { store.praying[key] = o.id; save(); render(); } }, o.label))),
         chosen && h("div", { class: "card-actions" },
           talkBtn("Pray it through with Claude", { kind: "reflection", title: options.find((o) => o.id === chosen)?.label || "",
-            body: chosen === "prayer" ? pr.text : chosen === "passage" ? `${f.ref}: ${f.text}` : chosen === "story" ? (story.blurb || story.summary) : "" }))));
+            body: chosen === "prayer" ? pr.text : chosen === "passage" ? `${f.ref}: ${f.text}` : chosen === "story" ? ourSummary(story) : "" }))));
   }
 
   const weeklyDates = () => index.filter((d) => d.type === "weekly").map((d) => d.date);

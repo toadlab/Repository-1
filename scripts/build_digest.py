@@ -20,6 +20,7 @@ from datetime import datetime, time, timedelta
 from zoneinfo import ZoneInfo
 
 import llm
+import review
 from common import DIGESTS, NEWS, STATE, load_json, local_now, parse_ts, profile, rubric, save_json
 
 WEEKDAYS = ["mon", "tue", "wed", "thu", "fri", "sat", "sun"]
@@ -29,7 +30,7 @@ WEEKDAYS = ["mon", "tue", "wed", "thu", "fri", "sat", "sun"]
 def story(item: dict, s: dict, **extra) -> dict:
     return {
         "id": item["id"], "title": item["title"], "link": item["link"], "source": item["source"],
-        "published": item["published"], "summary": item.get("summary", ""), "circle": s["circle"],
+        "published": item["published"], "summary": "", "circle": s["circle"],
         "story_key": s["story_key"], "composite": s["composite"], "bar": s["bar"],
         "decision": s["decision"], "reason": s["reason"], "flourishing": s["flourishing"],
         "domain": s["domain"], "durability": s["durability"], **extra,
@@ -107,9 +108,8 @@ BLURB_SCHEMA = {
     "properties": {
         "items": {"type": "array", "items": {
             "type": "object",
-            "properties": {"id": {"type": "string"}, "blurb": {"type": "string"}, "summary": {"type": "string"},
-                           "why_it_matters": {"type": "string"}, "talk_to": {"type": "string"}},
-            "required": ["id", "blurb", "summary", "why_it_matters", "talk_to"],
+            "properties": {"id": {"type": "string"}, "why_it_matters": {"type": "string"}, "talk_to": {"type": "string"}},
+            "required": ["id", "why_it_matters", "talk_to"],
             "additionalProperties": False}},
         "skew_note": {"type": "string"},
     },
@@ -146,34 +146,34 @@ REGION_SCHEMA = {
 }
 
 
-def write_items(p: dict, items: list[dict], kind: str) -> None:
-    """Fill blurb/summary/why_it_matters/talk_to for each item, in place."""
-    for i in items:  # sensible defaults when Claude is unavailable
-        i.setdefault("blurb", i["summary"][:220])
-        i.setdefault("ai_summary", "")
+def write_items(p: dict, items: list[dict], kind: str) -> str | None:
+    """Add why_it_matters and talk_to to reviewed items, in place, and return a skew note.
+
+    Summaries come from the stage-2 review of the full article (review.py), never the feed's blurb.
+    """
+    for i in items:
         i.setdefault("why_it_matters", "")
         i.setdefault("talk_to", "")
-    if not items or not llm.available():
-        return
-    detail = ("For each story write: blurb (one or two plain sentences on what happened, a few lines at most); "
-              "summary (2-3 neutral sentences); why_it_matters (for the weekly digest, a short paragraph of context "
+    reviewed = [i for i in items if i.get("review_status") == "reviewed"]
+    if not reviewed or not llm.available():
+        return None
+    detail = ("For each story write: why_it_matters (for the weekly digest, a short paragraph of context "
               f"on why this matters to {p['reader']} as a citizen, {p['profession']}, or neighbor; "
               "empty string for a daily pulse); talk_to (occasionally, when it would genuinely help, one sentence "
               "suggesting who he might call or talk with about this, a client, colleague, neighbor, pastor, or "
               "family member; otherwise empty string). Also write skew_note: one sentence if the set is lopsided "
               "by circle or topic because of real-world events, else empty string. No hype, no alarm.")
-    lines = "\n".join(f"[{i['id']}] {i['title']} | {i['source']} | circle={i['circle']} | {i['summary']}" for i in items)
+    lines = "\n".join(f"[{i['id']}] {i['title']} | {i['source']} | circle={i['circle']} | {i['summary']}" for i in reviewed)
     result = llm.ask_json(model=p["claude"]["model"], system=rubric(p),
                           prompt=f"These stories cleared the bar for the {kind}.\n{detail}\n\n{lines}",
                           schema=BLURB_SCHEMA)
     if not result:
-        return
+        return None
     by_id = {r["id"]: r for r in result["items"]}
-    for i in items:
+    for i in reviewed:
         r = by_id.get(i["id"])
         if r:
-            i.update(blurb=r["blurb"], ai_summary=r["summary"], why_it_matters=r["why_it_matters"],
-                     talk_to=r["talk_to"])
+            i.update(why_it_matters=r["why_it_matters"], talk_to=r["talk_to"])
     return result.get("skew_note") or None
 
 
@@ -264,8 +264,19 @@ def main() -> int:
     }
     fresh = digest is not existing
     newly_covered: list[dict] = []
+    reviews = review.load_reviews()
+    cuts: list[dict] = []
+
+    def cut_ids() -> set[str]:  # cut articles are listed separately, not counted as "didn't fit"
+        links = {c["link"] for c in cuts}
+        return {i["id"] for i, _ in rows if i["link"] in links}
+
+    def keep(candidates: list[dict], want: int, section: str) -> list[dict]:
+        """Stage 2: read the full articles in rank order and keep up to `want`."""
+        return review.select(p, candidates, want, day.isoformat(), section, cuts, reviews)
 
     if emergencies:
+        emergencies = keep(emergencies, len(emergencies), "emergency")
         write_items(p, emergencies, "emergency alert")
         digest["emergencies"] = digest.get("emergencies", []) + emergencies
         newly_covered += [{**e, "kind": "emergency"} for e in emergencies]
@@ -291,15 +302,16 @@ def main() -> int:
                     fatigue_ids.add(i["id"])
                     continue
                 cand.append(story(i, s))
-            pulse = cand[: p["pulse_max_items"]]
+            pulse = keep(cand, p["pulse_max_items"], "daily pulse")
             circle = digest["circle"]
             spotlight = None
             if circle in ("local", "state"):
                 taken = {x["story_key"] for x in pulse}
-                spot = [story(i, s) for i, s in best_per_key(window(7))
-                        if s["circle"] == circle and s["decision"] in ("include", "borderline")
-                        and s["story_key"] not in taken
-                        and not fatigued(i, s, coverage, {"pulse", "weekly", "spotlight"}, pulse_since)][:3]
+                spot = keep([story(i, s) for i, s in best_per_key(window(7))
+                             if s["circle"] == circle and s["decision"] in ("include", "borderline")
+                             and s["story_key"] not in taken
+                             and not fatigued(i, s, coverage, {"pulse", "weekly", "spotlight"}, pulse_since)],
+                            3, f"{circle} spotlight")
                 spotlight = {"circle": circle, "items": spot}
                 newly_covered += [{**x, "kind": "spotlight"} for x in spot]
             elif circle == "global":
@@ -309,15 +321,16 @@ def main() -> int:
             note = write_items(p, pulse + (spotlight or {}).get("items", []), "daily pulse")
             digest["pulse"] = pulse
             digest["spotlight"] = spotlight
-            chosen = {x["id"] for x in pulse}
+            chosen = {x["id"] for x in pulse + (spotlight or {}).get("items", [])} | cut_ids()
             digest["methodology"] = methodology(window(lookback), chosen, fatigue_ids, "from today's pulse")
+            digest["methodology"]["included"] = len(pulse)
             digest["methodology"]["skew_note"] = note or skew(pulse)
             newly_covered += [{**x, "kind": "pulse"} for x in pulse]
 
         elif kind == "reflection":
-            inspiring = [story(i, s) for i, s in best_per_key(window(7))
-                         if s["flourishing"] >= 6 and s["decision"] in ("include", "borderline")
-                         and i["id"] not in covered_ids][:1]
+            inspiring = keep([story(i, s) for i, s in best_per_key(window(7))
+                              if s["flourishing"] >= 6 and s["decision"] in ("include", "borderline")
+                              and i["id"] not in covered_ids], 1, "inspiring story")
             write_items(p, inspiring, "reflection day's inspiring story")
             digest["inspiring"] = inspiring
             newly_covered += [{**x, "kind": "inspiring"} for x in inspiring]
@@ -341,9 +354,9 @@ def main() -> int:
                     persisted = len(border_days[s["story_key"]]) >= p["scoring"]["tally_promote_days"]
                     (cand if persisted else fill).append(
                         story(i, s, borderline=True, promoted=persisted))
-            items = cand[: p["weekly_max_items"]]
+            items = keep(cand, p["weekly_max_items"], "weekly digest")
             if len(items) < p["weekly_min_items"]:
-                items += fill[: p["weekly_min_items"] - len(items)]
+                items += keep(fill, p["weekly_min_items"] - len(items), "weekly digest")
             note = write_items(p, items, "weekly digest")
             for item in items[: p["deep_dives_per_week"]]:
                 dd = deep_dive(p, item)
@@ -351,11 +364,19 @@ def main() -> int:
                     item["deep_dive"] = dd
             digest["items"] = items
             digest["first_weekend"] = day.day <= 7
-            digest["methodology"] = methodology(week, {x["id"] for x in items}, fatigue_ids, "this week")
+            digest["methodology"] = methodology(week, {x["id"] for x in items} | cut_ids(), fatigue_ids, "this week")
+            digest["methodology"]["included"] = len(items)
             digest["methodology"]["skew_note"] = note or skew(items)
             newly_covered += [{**x, "kind": "weekly"} for x in items]
 
         digest["scored_by"] = sorted({scores[i]["scored_by"] for i in scores}) if scores else []
+
+    if cuts:  # surface stage-2 cuts in the editorial-choices footer
+        m = digest.setdefault("methodology", {"considered": 0, "included": 0, "notes": [], "borderline": [], "excluded": []})
+        known = {c["link"] for c in m.get("review_cuts", [])}
+        m["review_cuts"] = m.get("review_cuts", []) + [c for c in cuts if c["link"] not in known]
+    review.log_cuts(cuts)
+    review.save_reviews(reviews, keep_urls={i["link"] for i in news["items"]})
 
     for c in newly_covered:
         coverage.setdefault(c["story_key"], []).append(
