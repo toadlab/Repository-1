@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T17:44:55.776669+00:00",
+ "generated": "2026-10-14T18:54:33.574845+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -13,8 +13,8 @@
   },
   {
    "name": "Indianapolis Business Journal",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "count": 10
   },
   {
    "name": "NPR News",
@@ -129,6 +129,248 @@
  ],
  "items": [
   {
+   "id": "ea5e76901c06",
+   "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
+   "link": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The cost-of-living adjustment for 2027 will be 3.6%, which will give Social Security recipients an average of $75 more per month.",
+   "published": "2026-10-14T18:53:00+00:00"
+  },
+  {
+   "id": "901bdd4b0040",
+   "title": "DoJ threatens California over alleged noncitizen voting as Trump tries to rally support for Republicans – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Justice department gives state officials 48 hours to review list of ‘likely noncitizens’ as president heads to campaign rallies in Arizona and Montana Sign up for the Breaking News US email Donald Trump has yet to weigh in on the late night ruling from a federal judge that…",
+   "published": "2026-10-14T18:41:39+00:00"
+  },
+  {
+   "id": "ad9550fe021e",
+   "title": "Israel’s former security chief sues Netanyahu for October 7 defamation",
+   "link": "https://www.aljazeera.com/news/2026/10/14/israels-former-security-chief-sues-netanyahu-for-october-7-defamation?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bar and Netanyahu have traded blame over the Hamas-led attack, as elections in Israel loom.",
+   "published": "2026-10-14T18:39:03+00:00"
+  },
+  {
+   "id": "df28bcf0a17a",
+   "title": "'East of Eden' Stars Explain the 'Wake-Up Call' of Inheriting Wealth",
+   "link": "https://www.kiplinger.com/retirement/inheritance/east-of-eden-stars-explain-the-wake-up-call-of-inheriting-wealth",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "\"East of Eden\" is ultimately a story about what we do and do not inherit from our parents. We asked the Netflix show's actors how their characters would handle a gift from their parents.",
+   "published": "2026-10-14T18:30:00+00:00"
+  },
+  {
+   "id": "6975d28d552e",
+   "title": "Wealth Revenues Climb at Morgan Stanley, Merrill Lynch",
+   "link": "https://www.wealthmanagement.com/wirehouse-news/wealth-revenues-climb-at-morgan-stanley-merrill-lynch",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In Morgan Stanley's case, net new assets jumped 187% year-over-year, largely due to IPO-related flows.",
+   "published": "2026-10-14T18:28:11+00:00"
+  },
+  {
+   "id": "22cc6bb5d9b9",
+   "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
+   "link": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "‘I don’t think you should jack up rates into this environment right now,’ says head of fixed-income at Aptus Capital Advisors",
+   "published": "2026-10-14T18:27:00+00:00"
+  },
+  {
+   "id": "a690c2675b6b",
+   "title": "A Trump Appointee Says the President Likely Violated the First Amendment by Banishing Disfavored Journalists",
+   "link": "https://reason.com/2026/10/14/a-trump-appointee-says-the-president-likely-violated-the-first-amendment-by-banishing-disfavored-journalists/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "U.S. District Judge Timothy J. Kelly granted a preliminary injunction to CNN, MS NOW, and Politico, which Trump banned from the White House because of their \"purposely negative stories.\"",
+   "published": "2026-10-14T18:20:45+00:00"
+  },
+  {
+   "id": "a8ce422e68b7",
+   "title": "Inflation rose higher than expected in last report before midterm elections",
+   "link": "https://www.deseret.com/politics/2026/10/14/inflation-rates-rise-before-midterms/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Inflation rates rose faster than expected last month, with high gas prices accounting for much of the spike — a bad sign for congressional Republicans campaigning back home with the hopes of keeping their majorities in Congress. Overall prices rose by 0.6% in September compared…",
+   "published": "2026-10-14T18:20:24+00:00"
+  },
+  {
+   "id": "64ae739787bb",
+   "title": "SpaceX rocket launch causes stunning ‘jellyfish cloud’ visible off US east coast",
+   "link": "https://www.theguardian.com/us-news/2026/oct/14/jellyfish-cloud-spacex-rocket-launch",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Expanding plume of fuel exhaust crystalized in the sky and reflected sunlight off frozen particles after Florida launch A SpaceX rocket provided a stunning pre-dawn display over Florida as a massive, luminescent “jellyfish cloud” spread for miles, caused by an expanding plume…",
+   "published": "2026-10-14T18:15:25+00:00"
+  },
+  {
+   "id": "e74e66910de6",
+   "title": "Big 12 power rankings: This week has plenty of ramifications for the conference",
+   "link": "https://www.deseret.com/sports/2026/10/14/big-12-power-rankings-2026-season-after-week-6-utah-byu/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Editor’s note: There won’t be a Big 12 power rankings next week as the author heads on vacation for the week. They will return to the Deseret News on Oct. 28, following Week 8 of the college football season. For another week, things went largely chalk around the Big 12 — Utah…",
+   "published": "2026-10-14T18:14:09+00:00"
+  },
+  {
+   "id": "dfd8e6366d2f",
+   "title": "How does a country defend itself without a military?",
+   "link": "https://www.csmonitor.com/World/Europe/2026/1014/iceland-military-us-arctic-trump-denmark-greenland?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As more nations look to the Arctic for resources, Iceland becomes increasingly vital as a strategic base. But it relies wholly on allies like the U.S. for its security.",
+   "published": "2026-10-14T18:10:45+00:00"
+  },
+  {
+   "id": "e8456c9999d8",
+   "title": "These unpopular solutions could rescue Social Security’s finances. Here’s who could pay the most.",
+   "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
+   "published": "2026-10-14T18:06:00+00:00"
+  },
+  {
+   "id": "a753f62be69c",
+   "title": "Real Madrid’s Vinicius banned for Clasico after hair-pull red card",
+   "link": "https://www.aljazeera.com/sports/2026/10/14/real-madrids-vinicius-banned-for-clasico-after-hair-pull-red-card?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Vinicius will miss El Clasico on October 25 in his four-match ban for pulling Saliba's hair in La Liga.",
+   "published": "2026-10-14T18:03:46+00:00"
+  },
+  {
+   "id": "de1130e6e1d2",
+   "title": "Russell Brand was ruthless, calculated and manipulative sexual predator, court told",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/14/russell-brand-was-ruthless-calculated-and-manipulative-sexual-predator-court-told",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Comedian faces three charges of rape, three of sexual assault and one of indecent assault against six women Russell Brand was a ruthless, calculated and manipulative sexual predator who boasted about wanting to have sex with 5,000 women, a court has heard. The 51-year-old…",
+   "published": "2026-10-14T18:01:35+00:00"
+  },
+  {
+   "id": "8b35c40ae0eb",
+   "title": "Will mortgage rates stay above 7% in 2027?",
+   "link": "https://www.marketwatch.com/story/will-mortgage-rates-stay-above-7-in-2027-437873bd?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Two new forecasts spell bad news for home buyers and sellers",
+   "published": "2026-10-14T18:01:00+00:00"
+  },
+  {
+   "id": "19370bf04b57",
+   "title": "What if you could turn off your algorithm? Australia is about to try",
+   "link": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
+   "published": "2026-10-14T18:00:54+00:00"
+  },
+  {
+   "id": "4b0b2eb0ae4f",
+   "title": "How six Ukrainian divers could have blown up Russia’s $20bn pipelines",
+   "link": "https://www.aljazeera.com/video/2026/10/14/aje-onl-pp-nord-stream-141125?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A Ukrainian military officer is on trial in Germany over an act of sabotage that remained unsolved for years.",
+   "published": "2026-10-14T18:00:44+00:00"
+  },
+  {
+   "id": "d0f11d9cf54c",
+   "title": "CBO's Recent Publications and Work in Progress as of September 30, 2026",
+   "link": "https://www.cbo.gov/publication/62777",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In this report, the latest in a quarterly series, CBO highlights its recent publications and summarizes its work in progress.",
+   "published": "2026-10-14T18:00:00+00:00"
+  },
+  {
+   "id": "760302fc59b9",
+   "title": "What questions do you have about the Indianapolis school referendum?",
+   "link": "https://mirrorindy.org/indianapolis-school-officials-answer-questions-ips-referendum-fall-2026-elections/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Let Mirror Indy know and our K-12 reporter will look into it. The post What questions do you have about the Indianapolis school referendum? appeared first on Mirror Indy .",
+   "published": "2026-10-14T17:56:01+00:00"
+  },
+  {
+   "id": "5259fa813f10",
+   "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
+   "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
+   "published": "2026-10-14T17:54:00+00:00"
+  },
+  {
+   "id": "3da20475f54b",
+   "title": "LPL Draws $1B Northwestern Mutual Team to RIA Channel",
+   "link": "https://www.wealthmanagement.com/ibd-news/lpl-draws-1b-northwestern-mutual-team-to-ria-channel",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Seattle-based team said it has joined LPL’s RIA channel and custodial platform for its technology, advisor service model and investments in innovation.",
+   "published": "2026-10-14T17:51:48+00:00"
+  },
+  {
+   "id": "84117d94ed75",
+   "title": "Second Amendment Rights Not Forfeited by Past Drunk Driving Conviction",
+   "link": "https://reason.com/volokh/2026/10/14/second-amendment-rights-not-forfeited-by-past-drunk-driving-conviction/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "From yesterday's Third Circuit en banc opinion in Williams v. Attorney General, written by Judge Paul Matey (and citing, among… The post Second Amendment Rights Not Forfeited by Past Drunk Driving Conviction appeared first on Reason Magazine.",
+   "published": "2026-10-14T17:51:20+00:00"
+  },
+  {
    "id": "ed1ebb995f02",
    "title": "A former Republican hopes to flip Lauren Boebert’s seat to blue in Colorado’s most red district",
    "link": "https://www.deseret.com/politics/2026/10/14/lauren-boebert-faces-former-republican-veteran-eileen-laubacher-in-states-most-red-congressional-district/",
@@ -149,6 +391,28 @@
    "flourishing_feed": false,
    "summary": "6A quarterfinals No. 8 Layton at No. 1 Lone Peak Layton has made a habit of toppling the state’s best this season, and now the Lancers will try to add another signature scalp when they travel to face No. 1 Lone Peak in Wednesday’s 6A quarterfinals. Lone Peak (15-3) needed a…",
    "published": "2026-10-14T17:42:19+00:00"
+  },
+  {
+   "id": "276902f96718",
+   "title": "Southern California beach closes after sighting of great white shark ‘exhibiting aggressive behavior’",
+   "link": "https://www.theguardian.com/us-news/2026/oct/14/great-white-shark-huntington-beach",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two-mile stretch of Huntington Beach closed after sighting at location popular with surfers and swimmers A popular southern California beach was closed after a great white shark was reportedly spotted “exhibiting aggressive behavior” on Tuesday afternoon. The Huntington Beach…",
+   "published": "2026-10-14T17:40:07+00:00"
+  },
+  {
+   "id": "16fd90a3720a",
+   "title": "India’s cockroach protesters defy Modi’s crackdown – The Latest",
+   "link": "https://www.theguardian.com/news/audio/2026/oct/14/indias-cockroach-protesters-defy-modis-crackdown-the-latest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A fresh wave of protests by India’s youth-led Cockroach movement has been met with a brutal crackdown by Narendra Modi’s government and the closure of a historic protest site in Delhi. Two of the movement’s leaders have been imprisoned for five days for violating suppression…",
+   "published": "2026-10-14T17:40:05+00:00"
   },
   {
    "id": "e833813a6d9b",
@@ -272,17 +536,6 @@
    "published": "2026-10-14T17:26:38+00:00"
   },
   {
-   "id": "901bdd4b0040",
-   "title": "DoJ threatens California over alleged noncitizen voting as Trump tries to rally support for Republicans – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Justice department gives state officials 48 hours to review list of ‘likely noncitizens’ as president heads to campaign rallies in Arizona and Montana Sign up for the Breaking News US email Donald Trump has yet to weigh in on the late night ruling from a federal judge that…",
-   "published": "2026-10-14T17:23:18+00:00"
-  },
-  {
    "id": "ba8c90cbcaee",
    "title": "Kenya confirms second Ebola case - a relative of the first victim",
    "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
@@ -372,7 +625,7 @@
   },
   {
    "id": "7e1f6522c486",
-   "title": "Kenya’s health ministry confirms second Ebola case",
+   "title": "Kenya’s Health Ministry confirms second Ebola case",
    "link": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -460,7 +713,7 @@
   },
   {
    "id": "fad774142212",
-   "title": "Netflix to lay off 1,000 staff in steepest cuts since 2022",
+   "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
    "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -547,17 +800,6 @@
    "published": "2026-10-14T16:30:10+00:00"
   },
   {
-   "id": "22cc6bb5d9b9",
-   "title": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
-   "link": "https://www.marketwatch.com/story/rising-bond-yields-and-higher-inflation-leave-the-fed-trapped-in-a-rate-hike-dilemma-d34ba326?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "There isn’t any way to spin Wednesday’s hot consumer-price index report as good, especially when looking at the bond market’s reaction.",
-   "published": "2026-10-14T16:27:00+00:00"
-  },
-  {
    "id": "d3b20c24d63f",
    "title": "Fire erupts at Albania’s Education Ministry as protests enter third day",
    "link": "https://www.aljazeera.com/news/2026/10/14/fire-erupts-at-albanias-education-ministry-as-protests-enter-third-day?traffic_source=rss",
@@ -581,7 +823,7 @@
   },
   {
    "id": "cd109a06d30f",
-   "title": "Sir Trevor Phillips encouraged CBS News colleagues to tell critics to ‘fuck off’",
+   "title": "Sir Trevor Phillips urges CBS News colleagues to give critics blunt riposte",
    "link": "https://www.theguardian.com/media/2026/oct/14/sir-trevor-phillips-london-cbs-news",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -1251,17 +1493,6 @@
    "published": "2026-10-14T14:30:45+00:00"
   },
   {
-   "id": "de1130e6e1d2",
-   "title": "Russell Brand was ruthless, calculated and manipulative sexual predator, court told",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/14/russell-brand-was-ruthless-calculated-and-manipulative-sexual-predator-court-told",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Comedian faces three charges of rape, three of sexual assault and one of indecent assault against six women Russell Brand rape and sexual assault trial – latest updates Russell Brand was a ruthless, calculated and manipulative sexual predator who boasted about wanting to have…",
-   "published": "2026-10-14T14:30:35+00:00"
-  },
-  {
    "id": "d7a4ab810966",
    "title": "When Are DAFs the Right Choice?",
    "link": "https://www.wealthmanagement.com/philanthropy/when-are-dafs-the-right-choice-",
@@ -1590,17 +1821,6 @@
    "flourishing_feed": false,
    "summary": "A UK restaurateur is claiming losses, weeks after posting a video appearing to urge Israel to destroy buildings in Gaza.",
    "published": "2026-10-14T13:28:21+00:00"
-  },
-  {
-   "id": "5259fa813f10",
-   "title": "Gen Z renters are the only group more likely to feel successful by investing than buying a house",
-   "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
-   "published": "2026-10-14T13:28:00+00:00"
   },
   {
    "id": "815a874ecea6",
@@ -5572,17 +5792,6 @@
    "flourishing_feed": false,
    "summary": "The September CPI report keeps a rate hike in play for the next Fed meeting later this month. Here's what economists are saying about the inflation data.",
    "published": "2026-10-13T15:34:18+00:00"
-  },
-  {
-   "id": "e8456c9999d8",
-   "title": "Raising taxes on investments, estates and benefits could keep Social Security from running out of money. Here’s who could pay the most.",
-   "link": "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
-   "published": "2026-10-13T15:22:00+00:00"
   },
   {
    "id": "6ad11c64c72b",
