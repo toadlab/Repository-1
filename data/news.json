@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T06:57:25.717955+00:00",
+ "generated": "2026-10-14T07:50:10.731450+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,6 +129,182 @@
  ],
  "items": [
   {
+   "id": "fb8be759a679",
+   "title": "John Healey ‘targets tax crackdown on online marketplaces’ in first budget",
+   "link": "https://www.theguardian.com/business/2026/oct/14/john-healey-tax-crackdown-online-marketplaces-amazon-ebay-budget",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Firms such as Amazon and eBay would be responsible for collecting tax owed by retailers selling on their platforms A tax crackdown on online marketplaces such as Amazon and eBay that could raise up to £1bn more for the Treasury is reportedly being drawn up for John Healey’s…",
+   "published": "2026-10-14T07:42:48+00:00"
+  },
+  {
+   "id": "d3391e46319b",
+   "title": "Ex-DRC President Joseph Kabila joins hands with M23 rebels: Why it matters",
+   "link": "https://www.aljazeera.com/news/2026/10/14/ex-drc-president-joseph-kabila-joins-hands-with-m23-rebels-why-it-matters?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Kabila's move confirms numerous accusations from the government in Kinshasa of his ties to armed rebels.",
+   "published": "2026-10-14T07:32:24+00:00"
+  },
+  {
+   "id": "1be2613f6da5",
+   "title": "Why Sri Lanka’s Rajapaksas are being investigated for corruption and crimes",
+   "link": "https://www.aljazeera.com/news/2026/10/14/why-sri-lankas-rajapaksas-are-being-investigated-for-corruption-and-crimes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Several members and allies of once-powerful dynasty, including the wife of ex-President Mahinda Rajapaksa, are under arrest.",
+   "published": "2026-10-14T07:31:34+00:00"
+  },
+  {
+   "id": "3ba9283bc735",
+   "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+   "published": "2026-10-14T07:23:46+00:00"
+  },
+  {
+   "id": "2a880433efea",
+   "title": "Video recording device found in cabin of HMAS Leeuwin navy ship in Cairns",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/14/video-recording-device-found-in-cabin-of-hmas-leeuwin-navy-ship-in-cairns",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Defence announcement comes after Jacqui Lambie tells parliament a camera had been found concealed in a women’s shower on board Get our breaking news email , free app or daily news podcast A “video recording device” was found in the cabin of a Royal Australian Navy ship in…",
+   "published": "2026-10-14T07:19:06+00:00"
+  },
+  {
+   "id": "00916d0586d4",
+   "title": "CNN, MS NOW and Politico prevail against White House — for now",
+   "link": "https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A federal judge ruled late Tuesday that President Trump cannot ban news organizations from covering him at the White House because he does not like the nature of their coverage - at least, not until the matter goes to a formal trial.",
+   "published": "2026-10-14T07:16:02+00:00"
+  },
+  {
+   "id": "1a6169736035",
+   "title": "Russia arrests Japanese journalist on spying charges",
+   "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
+   "published": "2026-10-14T07:12:37+00:00"
+  },
+  {
+   "id": "86c5f436db9c",
+   "title": "‘Massive’ Russian attack on Ukraine kills at least six, cuts power in Kyiv",
+   "link": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least six people have been killed in overnight Russian attacks across Ukraine.",
+   "published": "2026-10-14T07:08:32+00:00"
+  },
+  {
+   "id": "b35be29755b2",
+   "title": "‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote",
+   "link": "https://www.aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Palestinians in the occupied West Bank see little prospect Israel’s election will change their lives under occupation.",
+   "published": "2026-10-14T07:05:31+00:00"
+  },
+  {
+   "id": "5adf3de958a6",
+   "title": "Trade minister says Coalition MPs walked out of meeting on EU trade deal – as it happened",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This blog is now closed Get our breaking news email , free app or daily news podcast Australia missing out on $45bn of revenue from resources: Greens As Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being…",
+   "published": "2026-10-14T07:01:02+00:00"
+  },
+  {
+   "id": "179e6a513d81",
+   "title": "Wildlife photographer of the year 2026, the winning images",
+   "link": "https://www.positive.news/society/wildlife-photographer-of-the-year-2026-the-winning-images/",
+   "source": "Positive News",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": true,
+   "summary": "This year’s competition has attracted a record-breaking number of entries The post Wildlife photographer of the year 2026, the winning images appeared first on Positive News .",
+   "published": "2026-10-14T07:00:50+00:00"
+  },
+  {
+   "id": "8356e0c80b35",
+   "title": "Scale back on hake and coley, seafood charity tells shoppers",
+   "link": "https://www.theguardian.com/environment/2026/oct/14/scale-back-on-hake-and-coley-seafood-charity-tells-shoppers",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Declining stocks and increased fishing pressure have led to lower sustainability ratings for two popular cod alternatives UK shoppers have previously been urged to avoid UK-caught cod and to buy European hake or coley instead – but now these fish are in trouble, too. The Marine…",
+   "published": "2026-10-14T07:00:48+00:00"
+  },
+  {
+   "id": "744555107f79",
+   "title": "Pollinating insects flock to plants gardeners might think of as ‘weeds’",
+   "link": "https://www.theguardian.com/environment/2026/oct/14/pollinating-insects-flock-plants-weeds",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Citizen scientists on UK Pollinator Monitoring Scheme recorded insect visits to flowers during 10-minute surveys Ubiquitous urban plants often derided as “weeds” are the most attractive to pollinating insects. The autumn blooms of common ivy, rich in pollen and nectar, are the…",
+   "published": "2026-10-14T07:00:47+00:00"
+  },
+  {
+   "id": "924127cffdbd",
+   "title": "What’s Wrong With Kids These Days? | Interview: Daniel A. Cox",
+   "link": "https://thedispatch.com/podcast/remnant/whats-wrong-with-kids-these-days-interview-daniel-a-cox/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Give people a wave.",
+   "published": "2026-10-14T07:00:00+00:00"
+  },
+  {
+   "id": "d78e3f4844ea",
+   "title": "Open Thread",
+   "link": "https://reason.com/volokh/2026/10/14/open-thread-357/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What’s on your mind?",
+   "published": "2026-10-14T07:00:00+00:00"
+  },
+  {
+   "id": "fe2f8f745472",
+   "title": "Photos: Student protest in Albania prompts violent clashes with police",
+   "link": "https://www.aljazeera.com/gallery/2026/10/14/photos-student-protest-in-albania-spark-violent-clashes-with-police-forces?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Protesters in Tirana throw bricks at the Education Ministry building as police respond with tear gas and water cannon.",
+   "published": "2026-10-14T06:46:31+00:00"
+  },
+  {
    "id": "abed68806a0e",
    "title": "Turkey police raid opposition TV station, halting live broadcasts",
    "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
@@ -136,19 +312,8 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Halk TV says its staff are unable to enter the building in Istanbul, and a new manager was appointed to run the channel.",
+   "summary": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed.",
    "published": "2026-10-14T06:32:02+00:00"
-  },
-  {
-   "id": "5adf3de958a6",
-   "title": "Australian politics live: Trade minister says Coalition MPs walked out of meeting on EU trade deal; RBA warns staff to accept pay deal or miss out",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Australia missing out on $45bn of revenue from resources: Greens As Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being…",
-   "published": "2026-10-14T06:30:27+00:00"
   },
   {
    "id": "c81935944d54",
@@ -413,17 +578,6 @@
    "flourishing_feed": false,
    "summary": "OpenAI says it discovered a hidden recording device in one of its offices, wrapped in toilet paper behind a television.",
    "published": "2026-10-14T04:16:13+00:00"
-  },
-  {
-   "id": "1a6169736035",
-   "title": "Russia arrests Japanese journalist on alleged espionage",
-   "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
-   "published": "2026-10-14T04:10:49+00:00"
   },
   {
    "id": "12cb263bad6b",
@@ -833,17 +987,6 @@
    "published": "2026-10-14T00:27:52+00:00"
   },
   {
-   "id": "3ba9283bc735",
-   "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.",
-   "published": "2026-10-14T00:17:00+00:00"
-  },
-  {
    "id": "a9d9fe557d3e",
    "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
@@ -1131,7 +1274,7 @@
   },
   {
    "id": "b211db9580d2",
-   "title": "Who's to blame for the toxic smog choking South East Asia?",
+   "title": "Who's to blame for the toxic haze choking South East Asia?",
    "link": "https://www.bbc.co.uk/news/articles/ckreyq9re0n0o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
