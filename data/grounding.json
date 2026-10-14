@@ -182,35 +182,43 @@
    "items": [
     {
      "text": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
-     "prompt": "Where do I need to stop pretending to be self-sufficient?"
+     "prompt": "Where do I need to stop pretending to be self-sufficient?",
+     "verse": "Matthew 5:3"
     },
     {
      "text": "Blessed are they that mourn: for they shall be comforted.",
-     "prompt": "What loss, mine or someone else's, can I bring honestly before God today?"
+     "prompt": "What loss, mine or someone else's, can I bring honestly before God today?",
+     "verse": "Matthew 5:4"
     },
     {
      "text": "Blessed are the meek: for they shall inherit the earth.",
-     "prompt": "Where can I hold my strength with gentleness today?"
+     "prompt": "Where can I hold my strength with gentleness today?",
+     "verse": "Matthew 5:5"
     },
     {
      "text": "Blessed are they which do hunger and thirst after righteousness: for they shall be filled.",
-     "prompt": "What do I actually hunger for? What would it look like to hunger for what is right?"
+     "prompt": "What do I actually hunger for? What would it look like to hunger for what is right?",
+     "verse": "Matthew 5:6"
     },
     {
      "text": "Blessed are the merciful: for they shall obtain mercy.",
-     "prompt": "Who needs mercy from me that I have been withholding?"
+     "prompt": "Who needs mercy from me that I have been withholding?",
+     "verse": "Matthew 5:7"
     },
     {
      "text": "Blessed are the pure in heart: for they shall see God.",
-     "prompt": "What is dividing my heart right now?"
+     "prompt": "What is dividing my heart right now?",
+     "verse": "Matthew 5:8"
     },
     {
      "text": "Blessed are the peacemakers: for they shall be called the children of God.",
-     "prompt": "Where is one small place I could make peace this week?"
+     "prompt": "Where is one small place I could make peace this week?",
+     "verse": "Matthew 5:9"
     },
     {
      "text": "Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.",
-     "prompt": "Where does doing right cost me something, and am I willing to pay it?"
+     "prompt": "Where does doing right cost me something, and am I willing to pay it?",
+     "verse": "Matthew 5:10"
     }
    ]
   },
@@ -278,11 +286,13 @@
     },
     {
      "text": "Give us this day our daily bread.",
-     "prompt": "What is enough for today? Can I trust God with tomorrow?"
+     "prompt": "What is enough for today? Can I trust God with tomorrow?",
+     "verse": "Matthew 6:11"
     },
     {
      "text": "And forgive us our debts, as we forgive our debtors.",
-     "prompt": "Whom do I need to forgive, and what do I need to confess?"
+     "prompt": "Whom do I need to forgive, and what do I need to confess?",
+     "verse": "Matthew 6:12"
     },
     {
      "text": "And lead us not into temptation, but deliver us from evil:",
@@ -300,7 +310,8 @@
    "items": [
     {
      "text": "Thou shalt have no other gods before me.",
-     "prompt": "What competes with God for first place in my attention?"
+     "prompt": "What competes with God for first place in my attention?",
+     "verse": "Exodus 20:3"
     },
     {
      "text": "Thou shalt not make unto thee any graven image,",
@@ -312,7 +323,8 @@
     },
     {
      "text": "Remember the sabbath day, to keep it holy.",
-     "prompt": "Where is rest in my week, and do I protect it?"
+     "prompt": "Where is rest in my week, and do I protect it?",
+     "verse": "Exodus 20:8"
     },
     {
      "text": "Honour thy father and thy mother:",
@@ -320,19 +332,23 @@
     },
     {
      "text": "Thou shalt not kill.",
-     "prompt": "Where does contempt or anger live in me?"
+     "prompt": "Where does contempt or anger live in me?",
+     "verse": "Exodus 20:13"
     },
     {
      "text": "Thou shalt not commit adultery.",
-     "prompt": "How can I guard and strengthen faithfulness in my closest relationships?"
+     "prompt": "How can I guard and strengthen faithfulness in my closest relationships?",
+     "verse": "Exodus 20:14"
     },
     {
      "text": "Thou shalt not steal.",
-     "prompt": "Am I giving full value in my work, my time and my dealings?"
+     "prompt": "Am I giving full value in my work, my time and my dealings?",
+     "verse": "Exodus 20:15"
     },
     {
      "text": "Thou shalt not bear false witness against thy neighbour.",
-     "prompt": "Do I speak about others, including people in the news, truthfully and fairly?"
+     "prompt": "Do I speak about others, including people in the news, truthfully and fairly?",
+     "verse": "Exodus 20:16"
     },
     {
      "text": "Thou shalt not covet",
@@ -581,32 +597,6 @@
    }
   ]
  },
- "trial_sources": [
-  {
-   "id": "catholic",
-   "name": "Catholic daily lectionary",
-   "length": "about 2-3 minutes",
-   "about": "The Mass readings for the day: usually a first reading, a psalm and a Gospel."
-  },
-  {
-   "id": "orthodox",
-   "name": "Eastern Orthodox daily readings",
-   "length": "about 4-6 minutes, plus a saint's life",
-   "about": "The Epistle and Gospel for the day, with the lives of the saints commemorated."
-  },
-  {
-   "id": "coptic",
-   "name": "Coptic Orthodox daily readings (Katameros)",
-   "length": "10 minutes or more",
-   "about": "The full stack of Vespers, Matins and Liturgy passages, plus the Synaxarium."
-  },
-  {
-   "id": "biy",
-   "name": "Bible in a Year (Fr. Mike Schmitz)",
-   "length": "a 20-25 minute podcast episode",
-   "about": "Scripture read in narrative order following the Great Adventure Bible Timeline, with a short reflection and prayer."
-  }
- ],
  "reflection_prompts": [
   "Sit with today's passage for two minutes before doing anything else.",
   "Name one thing you are grateful for that you did nothing to earn.",

@@ -1,5 +1,5 @@
 /* Grounding: liturgical season, Ordinary Time constants, prayer of the week,
-   the lectionary trial, and the narrative read-through track. All of it is
+   and the narrative read-through track. All of it is
    computed from the calendar alone and never from the day's news. */
 (function () {
   "use strict";
@@ -8,7 +8,6 @@
   const addDays = (d, n) => new Date(d.getFullYear(), d.getMonth(), d.getDate() + n);
   const diff = (a, b) => Math.round((Date.UTC(b.getFullYear(), b.getMonth(), b.getDate()) -
                                      Date.UTC(a.getFullYear(), a.getMonth(), a.getDate())) / MS_DAY);
-  const pad = (n) => String(n).padStart(2, "0");
 
   // Anonymous Gregorian computus.
   function easter(y) {
@@ -58,13 +57,14 @@
         season: info, seasonKey: s.key,
         label: `${c.name} · week ${Math.floor(inBlock / 7) + 1} of ${Math.ceil(g.constant_block_days / 7)}`,
         title: c.name, ref: c.ref, text: item.text, prompt: item.prompt,
+        verse: item.verse || null, // set only when the line is a complete verse
       };
     }
     const w = info.weeks[Math.min(s.week, info.weeks.length - 1) % info.weeks.length];
     return {
       season: info, seasonKey: s.key,
       label: s.key === "advent" ? `Week ${s.week + 1} of Advent` : info.theme,
-      title: w.title, ref: w.ref, text: w.text, prompt: info.about,
+      title: w.title, ref: w.ref, text: w.text, prompt: info.about, verse: w.ref,
     };
   }
 
@@ -74,35 +74,6 @@
     const week = Math.floor(diff(PRAYER_EPOCH, date) / 7);
     const i = ((week % g.prayers.length) + g.prayers.length) % g.prayers.length;
     return { ...g.prayers[i], number: i + 1, of: g.prayers.length };
-  }
-
-  function sourceLink(id, date) {
-    const y = date.getFullYear(), m = pad(date.getMonth() + 1), d = pad(date.getDate());
-    if (id === "catholic") return { url: `https://bible.usccb.org/bible/readings/${m}${d}${String(y).slice(2)}.cfm`, label: "Open today's Mass readings (USCCB)" };
-    if (id === "orthodox") return { url: `https://www.oca.org/readings/daily/${y}/${m}/${d}`, label: "Open today's readings (OCA)" };
-    if (id === "coptic") return { url: `https://www.copticchurch.net/readings?g_year=${y}&g_month=${m}&g_day=${d}`, label: "Open today's Katameros readings" };
-    const n = Math.min(diff(day(y, 0, 1), date) + 1, 365);
-    return {
-      url: `https://www.youtube.com/results?search_query=${encodeURIComponent(`Bible in a Year Day ${n} Fr Mike Schmitz`)}`,
-      label: `Listen to Day ${n}`,
-      alt: { url: "https://open.spotify.com/show/4Pppt42NPK2XzKwNIoW7BR", label: "Podcast on Spotify" },
-      day: n,
-    };
-  }
-
-  /** The day's reading source: trial rotation (one per week) until a choice is made. */
-  function reading(g, date, settings) {
-    const start = settings.trialStart ? new Date(settings.trialStart + "T00:00") : date;
-    const week = Math.floor(diff(start, date) / 7);
-    const sources = g.trial_sources;
-    let id = settings.source, trial = null;
-    if (!id || id === "trial") {
-      const idx = ((week % sources.length) + sources.length) % sources.length;
-      id = sources[idx].id;
-      trial = { week: week + 1, of: sources.length, complete: week >= sources.length, before: week < 0 };
-    }
-    const src = sources.find((s) => s.id === id) || sources[0];
-    return { ...src, link: sourceLink(src.id, date), trial };
   }
 
   function narrative(g, date) {
@@ -115,5 +86,5 @@
     return { unit, chapters: chapters.slice(start, end), total: chapters.length };
   }
 
-  window.Grounding = { season, focus, prayer, reading, narrative, easter, advent1 };
+  window.Grounding = { season, focus, prayer, narrative, easter, advent1 };
 })();
