@@ -134,13 +134,15 @@
   async function loadScripture(refs, date, box) {
     box.replaceChildren(h("p", { class: "muted small" }, "Loading the text…"));
     try {
-      const parts = await Promise.all(refs.map(async (ref) => [ref, await Esv.passage(ref, store.esvKey, ymd(date))]));
+      const fetched = await Promise.all(refs.map(async (ref) => [ref, await Esv.passage(ref, store.esvKey, ymd(date))]));
+      const { parts, trimmed } = Esv.cap(fetched);
       box.replaceChildren(...parts.flatMap(([ref, text]) => [
         h("h4", {}, ref),
         ...text.split(/\n\s*\n/).filter((t) => t.trim()).map((block) =>
           h("p", {}, block.split(/\[(\d+)\]/).map((piece, i) =>
             i % 2 ? h("sup", {}, piece) : piece.replace(/\s+/g, " ")))),
-      ]), h("p", { class: "copyright" }, h("a", { href: "copyright.html" }, "ESV copyright notice")));
+      ]), trimmed && h("p", { class: "muted small" }, `Stopped at ${Esv.MAX_VERSES} verses, the most the ESV allows on one page. Continue on BibleGateway.`),
+      h("p", { class: "copyright" }, h("a", { href: "copyright.html" }, "ESV copyright notice")));
     } catch (e) {
       box.replaceChildren(h("p", { class: "muted small" }, e.message === "401" || e.message === "403"
         ? "The ESV key was rejected. Check it in Settings (⚙), or use the link below."

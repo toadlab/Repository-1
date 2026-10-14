@@ -1,6 +1,7 @@
 /* ESV text via the ESV API v3, within Crossway's guidelines (https://api.esv.org/#conditions):
    - Each quotation keeps the "(ESV)" mark the API sends; the full notice is on copyright.html.
-   - No query or page exceeds 500 verses or half of a book (single-chapter books excepted).
+   - No query or page exceeds 500 verses or half of a book (single-chapter books excepted),
+     checked before requesting; a 500-verse trim after arrival is a backup.
    - Text is never written to disk: fetches bypass the HTTP cache, and the in-memory copy
      holds only the passages on screen for the current day.
    - Requests are capped below the 60/minute, 1,000/hour and 5,000/day limits.
@@ -80,5 +81,26 @@
     return p;
   }
 
-  window.Esv = { allowed, passage };
+  /** Backup limit: trim [[ref, text], ...] so the page never shows more than 500 verses. */
+  function cap(parts) {
+    let shown = 0, trimmed = false;
+    const out = [];
+    for (const [ref, text] of parts) {
+      if (shown >= MAX_VERSES) { trimmed = true; break; }
+      const pieces = text.split(/(?=\[\d+\])/);
+      const verses = pieces.filter((x) => /^\[\d+\]/.test(x)).length;
+      if (shown + verses <= MAX_VERSES) { out.push([ref, text]); shown += verses; continue; }
+      let keep = MAX_VERSES - shown, kept = "";
+      for (const piece of pieces) {
+        if (/^\[\d+\]/.test(piece) && keep-- <= 0) break;
+        kept += piece;
+      }
+      out.push([ref, kept.trim() + " (ESV)"]);
+      shown = MAX_VERSES;
+      trimmed = true;
+    }
+    return { parts: out, trimmed };
+  }
+
+  window.Esv = { allowed, passage, cap, MAX_VERSES };
 })();
