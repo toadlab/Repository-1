@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T11:46:11.507902+00:00",
+ "generated": "2026-10-14T12:55:32.759420+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 24
+   "count": 26
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,48 @@
  ],
  "items": [
   {
-   "id": "bbc5fe16d1b3",
-   "title": "What analysts are watching with key semiconductor maker TSMC set to report results",
-   "link": "https://www.marketwatch.com/story/what-analysts-are-watching-with-key-semiconductor-maker-tsmc-set-to-report-results-c161e86b?mod=mw_rss_topstories",
+   "id": "0059d49a58dd",
+   "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+   "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Analysts at JPMorgan and Citigroup see further revenue growth for the semiconductor foundry, even after already posting a record-breaking figure for the third quarter.",
-   "published": "2026-10-14T11:36:00+00:00"
+   "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
+   "published": "2026-10-14T12:45:00+00:00"
+  },
+  {
+   "id": "b4b6fdb29611",
+   "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
+   "link": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.",
+   "published": "2026-10-14T12:45:00+00:00"
+  },
+  {
+   "id": "f0d528e672d0",
+   "title": "‘A big responsibility’: Clifton Suspension Bridge master hails £7.6m renovation",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/14/clifton-suspension-bridge-master-hails-refurbishment-bristol",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Engineer Tristan Ralph describes task of maintaining and running Bristol structure without public money The job does not give the holder age-old perks such as the right to drive sheep across the great structure, but the title “bridge master” does have a certain ring to it. “I…",
+   "published": "2026-10-14T12:44:10+00:00"
+  },
+  {
+   "id": "160f779b7db1",
+   "title": "French minister accuses Elon Musk of ‘online harassment campaigns’ against European leaders",
+   "link": "https://www.theguardian.com/world/2026/oct/14/french-minister-elon-musk-x-social-media-presidential-election",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jean-Noël Barrot criticises X owner in speech attacking foreign efforts to destabilise country before 2027 election France’s foreign minister has accused Elon Musk of using his social media platform to orchestrate “massive online harassment campaigns” against European leaders,…",
+   "published": "2026-10-14T12:39:22+00:00"
   },
   {
    "id": "e7415c964eef",
@@ -148,18 +181,106 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "European Commission declined to comment on reported disruption to Starlink’s services in Ukraine Ukrainian soldiers have access to Starlink satellite internet restricted Rutte gets asked “is Russia foolish enough to consider attacking any of Nato countries?” He says “we don’t…",
-   "published": "2026-10-14T11:34:16+00:00"
+   "published": "2026-10-14T12:37:54+00:00"
+  },
+  {
+   "id": "3421d517a0dd",
+   "title": "US inflation rose to 3.7% in September, figures show",
+   "link": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Final inflation report before midterms comes as polls show widespread anger over cost of living under Trump Republicans are entering the midterm elections with the highest rate of inflation since the spring, according to a government report released on Wednesday. US price…",
+   "published": "2026-10-14T12:36:35+00:00"
+  },
+  {
+   "id": "779a1c17bfdc",
+   "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+   "link": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street.",
+   "published": "2026-10-14T12:36:24+00:00"
+  },
+  {
+   "id": "602ab6d420c2",
+   "title": "TV Station News Managers Fired for Allegedly Anti-Gay Memo Win >$4M from Nexstar Media",
+   "link": "https://reason.com/volokh/2026/10/14/tv-station-news-managers-fired-for-allegedly-anti-gay-memo-win-4m-from-nexstar-media/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The verdict came Friday; here's the backstory, from a decision in March in Fox v. Nexstar Media Group, Inc. by… The post TV Station News Managers Fired for Allegedly Anti-Gay Memo Win >$4M from Nexstar Media appeared first on Reason Magazine.",
+   "published": "2026-10-14T12:33:18+00:00"
+  },
+  {
+   "id": "1782f8890e05",
+   "title": "Trump’s bizarre new transit plan could hurt the families who need it most",
+   "link": "https://www.vox.com/future-perfect/506206/transit-trump-birth-marriage-rates",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "“We should look for love!” Transportation Secretary Sean Duffy bellowed while flanked by his nine children at the Great American State Fair in June: “Get married, and have lots of kids!” In a brazen attempt to make Duffy’s ethos a matter of policy, the Trump administration…",
+   "published": "2026-10-14T12:30:00+00:00"
+  },
+  {
+   "id": "901bdd4b0040",
+   "title": "Trump heads to rallies in Arizona and Montana after campaign stop-off in Alaska – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump has taken to campaigning in conservative-leaning ​parts of competitive states, rather than in more politically diverse areas Sign up for the Breaking News US email Donald Trump begins the day in Las Vegas, following his rally in Wasilla, Alaska on Tuesday. He’ll then…",
+   "published": "2026-10-14T12:27:14+00:00"
+  },
+  {
+   "id": "881c1b6b7738",
+   "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+   "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+   "published": "2026-10-14T12:27:00+00:00"
   },
   {
    "id": "a8608ca9a0bb",
-   "title": "Houthi missile hits Aramco building after Saudi-led coalition hits Yemen fuel depot",
+   "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
    "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
-   "published": "2026-10-14T11:33:24+00:00"
+   "published": "2026-10-14T12:26:13+00:00"
+  },
+  {
+   "id": "01e64b80ae93",
+   "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
+   "link": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK Jr Guinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s…",
+   "published": "2026-10-14T12:21:16+00:00"
+  },
+  {
+   "id": "daef34140f71",
+   "title": "My sister moved in with our mother, 78, and now says she deserves the $925,000 family home. Is she right?",
+   "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+   "published": "2026-10-14T12:15:00+00:00"
   },
   {
    "id": "7fd0b81af464",
@@ -169,8 +290,162 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Russell Brand back in Southwark crown court today where his rape and sexual assault trial begins Taking jurors through the third allegation, Karmy-Jones said Brand pulled another woman into a toilet during an incident at a bar in Soho in 2004. The third complainant was “not so…",
-   "published": "2026-10-14T11:32:37+00:00"
+   "summary": "Brand is in Southwark crown court today where his rape and sexual assault trial begins Taking jurors through the third allegation, Karmy-Jones said Brand pulled another woman into a toilet during an incident at a bar in Soho in 2004. The third complainant was “not so lucky as…",
+   "published": "2026-10-14T12:11:27+00:00"
+  },
+  {
+   "id": "9c31c41d2e64",
+   "title": "Fulham manager Arbeloa fined for Man Utd refereeing outburst",
+   "link": "https://www.aljazeera.com/sports/2026/10/14/fulham-manager-arbeloa-fined-for-man-utd-refereeing-outburst?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Alvaro Arbeloa fined $33,000 for remarks made after Fulham's 1-1 draw against Manchester United in September.",
+   "published": "2026-10-14T12:03:55+00:00"
+  },
+  {
+   "id": "4af34358aa5c",
+   "title": "\"Fortunately for Society, Plaintiff's Framework for Retrospectively Punishing News Outlets Is Not the Law\"",
+   "link": "https://reason.com/volokh/2026/10/14/fortunately-for-society-plaintiffs-framework-for-retrospectively-punishing-news-outlets-is-not-the-law/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "From Tate v. Fox News Network, LLC, decided yesterday by Judge Gregory Presnell (M.D. Fla.): Plaintiff has been a licensed… The post \"Fortunately for Society, Plaintiff's Framework for Retrospectively Punishing News Outlets Is Not the Law\" appeared first on Reason Magazine.",
+   "published": "2026-10-14T12:01:59+00:00"
+  },
+  {
+   "id": "836b59817132",
+   "title": "Ken Paxton stirs vaccine skepticism to ingratiate himself with Maha movement",
+   "link": "https://www.theguardian.com/us-news/2026/oct/14/ken-paxton-texas-maha-vaccines",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Texas AG and US Senate hopeful announced inquiry into alleged conspiracy between pediatricians, vaccine makers and insurance firms Ken Paxton, the attorney general of Texas and the Republican candidate for the US Senate, is aligning himself with the Make America Healthy Again…",
+   "published": "2026-10-14T12:00:02+00:00"
+  },
+  {
+   "id": "a4220136d1c0",
+   "title": "How to read your body’s warning signs years before you get sick",
+   "link": "https://www.marketwatch.com/story/how-to-read-your-bodys-warning-signs-years-before-you-get-sick-3fb8c82d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Most of us don’t just want to live longer lives. We want to live longer and healthier lives.",
+   "published": "2026-10-14T12:00:00+00:00"
+  },
+  {
+   "id": "31731af078a4",
+   "title": "The Biggest Social Security Mistake Isn’t Claiming Too Early",
+   "link": "https://www.kiplinger.com/retirement/social-security/when-the-biggest-social-security-check-is-not-the-best-choice",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "An accountant's plan to return to Mexico shows why a Social Security claiming decision should begin with the life the money needs to support.",
+   "published": "2026-10-14T12:00:00+00:00"
+  },
+  {
+   "id": "7df82f852fff",
+   "title": "Tinie Tempah says he will finally visit Scunthorpe after campaign by fans",
+   "link": "https://www.theguardian.com/music/2026/oct/14/tinie-tempah-visit-scunthorpe-campaign-fans-pass-out",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rapper to visit Lincolnshire town 16 years after saying he had never been there in his hit Pass Out The rapper Tinie Tempah has said he will finally visit Scunthorpe – 16 years after he announced to the world that he had never been to the town in his number one hit Pass Out .…",
+   "published": "2026-10-14T11:59:01+00:00"
+  },
+  {
+   "id": "ddb7184c1960",
+   "title": "Burnham rules out deal with Greens as he condemns ‘Zionism is racism’ policy as ‘antisemitic’– UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prime minister tells PMQs that the Green party motion was ‘wrong’ and says no way Labour would make a deal PMQs is about to start. Here is the list of MPs down to ask a question. After @genevieve_holl reported this last night, various sources in the Trump administration who are…",
+   "published": "2026-10-14T11:57:25+00:00"
+  },
+  {
+   "id": "672bd0946134",
+   "title": "Bank of America fined $1.2bn for money laundering failures",
+   "link": "https://www.theguardian.com/business/2026/oct/14/bank-of-america-fined-money-laundering",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Third largest fine in US treasury’s history, due to failure to report suspicious activity, may affect third-quarter earnings Bank of America (BAC.N), has been fined $1.21bn by US regulators for widespread failures to detect ‌potential money laundering and other illicit…",
+   "published": "2026-10-14T11:54:29+00:00"
+  },
+  {
+   "id": "e79ac17083df",
+   "title": "Do any of these Israeli candidates support a Palestinian state?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Do any of these Israeli candidates support a Palestinian state?",
+   "published": "2026-10-14T11:43:29+00:00"
+  },
+  {
+   "id": "1a22ac9e45eb",
+   "title": "These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead.",
+   "link": "https://www.propublica.org/article/domestic-violence-immigrant-victims-ice-detention",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post These Women Were Trying to Escape Domestic Abuse. ICE Detained Them Instead. appeared first on ProPublica .",
+   "published": "2026-10-14T11:42:43+00:00"
+  },
+  {
+   "id": "dba85754580b",
+   "title": "UK government apologises for past burials of stillborn babies in mass graves",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/14/uk-government-apologises-stillborn-babies-mass-graves",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Yvette Cooper acknowledges ‘unthinkable pain’ caused by practice between 1930s and 1980s after campaign by Wirral woman and others The health secretary, Yvette Cooper, has issued a “profound apology” for the “unthinkable pain” caused to parents whose stillborn babies were…",
+   "published": "2026-10-14T11:42:22+00:00"
+  },
+  {
+   "id": "4a6ee6b30614",
+   "title": "Saudi-led coalition intercepts Houthi missile launched towards Riyadh",
+   "link": "https://www.aljazeera.com/news/2026/10/14/saudi-led-coalition-intercepts-houthi-missile-launched-towards-riyadh?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi civil defence authority says danger passed after it issued alerts via its national early warning platform.",
+   "published": "2026-10-14T11:39:06+00:00"
+  },
+  {
+   "id": "e877a5cc587a",
+   "title": "Zelenskyy sits down with NPR. And, Pope Leo diagnosed with lung cancer",
+   "link": "https://www.npr.org/2026/10/14/g-s1-148040/up-first-newsletter-volodymyr-zelenskyy-pope-leo-kimberly-guilfoyle-media-free-speech",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukrainian President Volodymyr Zelenskyy has a sit-down interview with NPR as Russia's full-scale invasion nears the 5-year mark. And, Pope Leo XIV has been diagnosed with lung cancer.",
+   "published": "2026-10-14T11:38:51+00:00"
+  },
+  {
+   "id": "bbc5fe16d1b3",
+   "title": "What analysts are watching with key semiconductor maker TSMC set to report results",
+   "link": "https://www.marketwatch.com/story/what-analysts-are-watching-with-key-semiconductor-maker-tsmc-set-to-report-results-c161e86b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Analysts at JPMorgan and Citigroup see further revenue growth for the semiconductor foundry, even after already posting a record-breaking figure for the third quarter.",
+   "published": "2026-10-14T11:36:00+00:00"
   },
   {
    "id": "191e7f6ed1f6",
@@ -184,15 +459,15 @@
    "published": "2026-10-14T11:32:07+00:00"
   },
   {
-   "id": "ddb7184c1960",
-   "title": "Manchester City did not raise Premier League charges with me, Burnham tells PMQs – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
+   "id": "f1fce658ce5a",
+   "title": "Bill Proposes Unlimited Roth IRA Rollovers From Unused 529 Plans",
+   "link": "https://www.kiplinger.com/retirement/roth-iras/a-blank-check-for-529s-senate-bill-proposes-unlimited-roth-ira-rollovers",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Prime minister is taking questions from leader of the opposition and other MPs at PMQs PMQs is about to start. Here is the list of MPs down to ask a question. After @genevieve_holl reported this last night, various sources in the Trump administration who are supportive of…",
-   "published": "2026-10-14T11:30:03+00:00"
+   "summary": "A Senate bill would allow savers to transfer all unused 529 college savings to a Roth IRA, giving them greater flexibility — and their children a head start on retirement savings.",
+   "published": "2026-10-14T11:30:00+00:00"
   },
   {
    "id": "0ead4240c6a9",
@@ -206,26 +481,15 @@
    "published": "2026-10-14T11:29:48+00:00"
   },
   {
-   "id": "0059d49a58dd",
-   "title": "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
-   "link": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
-   "published": "2026-10-14T11:28:00+00:00"
-  },
-  {
-   "id": "901bdd4b0040",
-   "title": "Trump heads to rallies in Arizona and Montana after campaign stop-off in Alaska – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "1de581585af6",
+   "title": "Mauritius reels from worst riots in decades after woman shot by police",
+   "link": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Trump has taken to campaigning in conservative-leaning ​parts of competitive states, rather than in more politically diverse areas Sign up for the Breaking News US email Italian prime minister Giorgia Meloni has said that president Donald Trump’s deal to buy Russian diesel was…",
-   "published": "2026-10-14T11:21:52+00:00"
+   "summary": "Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages.",
+   "published": "2026-10-14T11:24:25+00:00"
   },
   {
    "id": "8d0c58acd861",
@@ -240,13 +504,13 @@
   },
   {
    "id": "95ca1c7fbea4",
-   "title": "Here’s how much the AI boom is contributing to inflation, according to Goldman Sachs calculations",
+   "title": "Here’s how much the AI boom is really contributing to inflation, according to Goldman Sachs calculations",
    "link": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Goldman Sachs economists have calculated how much the AI boom has contributed to inflation.",
+   "summary": "Goldman believes the core inflation rate will revert toward the Fed’s 2% target in 2027.",
    "published": "2026-10-14T11:18:00+00:00"
   },
   {
@@ -283,17 +547,6 @@
    "published": "2026-10-14T11:16:00+00:00"
   },
   {
-   "id": "b4b6fdb29611",
-   "title": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the market higher",
-   "link": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.",
-   "published": "2026-10-14T11:16:00+00:00"
-  },
-  {
    "id": "da927edfb908",
    "title": "Cornell bans all fraternity parties over gang sex assault allegations",
    "link": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o?at_medium=RSS&at_campaign=rss",
@@ -303,17 +556,6 @@
    "flourishing_feed": false,
    "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
    "published": "2026-10-14T11:08:47+00:00"
-  },
-  {
-   "id": "dba85754580b",
-   "title": "UK government apologises for past burials of stillborn babies in mass graves",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/14/uk-government-apologises-stillborn-babies-mass-graves",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Yvette Cooper acknowledges ‘unthinkable pain’ caused by practice between 1930s and 1980s after campaign by Wirral woman and others The health secretary, Yvette Cooper, has issued a “profound apology” for the “unthinkable pain” caused to parents whose stillborn babies were…",
-   "published": "2026-10-14T11:05:44+00:00"
   },
   {
    "id": "d28a33b02b64",
@@ -701,17 +943,6 @@
    "published": "2026-10-14T09:40:20+00:00"
   },
   {
-   "id": "881c1b6b7738",
-   "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-   "link": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-   "published": "2026-10-14T09:32:54+00:00"
-  },
-  {
    "id": "1c83089b2ed1",
    "title": "Beyond the humanitarian reset: Learning from pastoralists to rethink aid",
    "link": "https://www.thenewhumanitarian.org/analysis/2026/10/14/beyond-humanitarian-reset-learning-pastoralists-rethink-aid",
@@ -746,7 +977,7 @@
   },
   {
    "id": "66d1e76cc30c",
-   "title": "What we know about Russia's overnight strikes on Ukraine",
+   "title": "Watch: Block of flats destroyed in Russian strikes on Ukraine",
    "link": "https://www.bbc.co.uk/news/videos/cmx280x092x7o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -889,7 +1120,7 @@
   },
   {
    "id": "c4631de94171",
-   "title": "The skincare sample is free. What happens next can cost thousands",
+   "title": "VIDEO: The skincare sample is free. What happens next can cost thousands",
    "link": "https://www.npr.org/2026/10/14/nx-s1-6000621/mazal-group-investigation-documentary",
    "source": "NPR News",
    "circle_hint": "national",
@@ -906,7 +1137,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Free samples, high-pressure pitches and $50,000 bills: An NPR investigation reveals how a network of mall skincare stores systematically targeted older adults and people with disabilities across the U.S..",
+   "summary": "Free samples, high-pressure pitches and $50,000 bills: An NPR investigation reveals how a network of mall skincare stores systematically targeted older adults and people with disabilities across the U.S.",
    "published": "2026-10-14T09:00:00+00:00"
   },
   {
@@ -1186,7 +1417,7 @@
   },
   {
    "id": "86c5f436db9c",
-   "title": "‘Massive’ Russian attack on Ukraine kills at least six, damages power sites",
+   "title": "‘Massive’ Russian attack on Ukraine kills at least 9, damages power sites",
    "link": "https://www.aljazeera.com/news/2026/10/14/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -1425,6 +1656,17 @@
    "flourishing_feed": false,
    "summary": "Exclusive: Investigation finds racial inequality in live music industry rife and many genres labelled ‘high risk’ despite lack of evidence Black and south Asian music events in London face disproportionate cancellations, restrictions and licensing barriers compared with white…",
    "published": "2026-10-14T05:00:46+00:00"
+  },
+  {
+   "id": "f69e12669fd7",
+   "title": "World's oldest shipwreck found off coast of Turkey",
+   "link": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+   "published": "2026-10-14T05:00:35+00:00"
   },
   {
    "id": "566f444d3455",
@@ -2648,17 +2890,6 @@
    "published": "2026-10-13T20:18:31+00:00"
   },
   {
-   "id": "daef34140f71",
-   "title": "My sister moved in with our mother, 78, and now says she deserves the $925,000 family home. Is she right?",
-   "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-   "published": "2026-10-13T20:16:00+00:00"
-  },
-  {
    "id": "36980efd7253",
    "title": "How you can prepare for 6% bond yields",
    "link": "https://www.marketwatch.com/story/how-you-can-prepare-for-6-bond-yields-b45723c8?mod=mw_rss_topstories",
@@ -3451,17 +3682,6 @@
    "published": "2026-10-13T17:26:08+00:00"
   },
   {
-   "id": "a4220136d1c0",
-   "title": "How to read your body’s warning signs years before you get sick",
-   "link": "https://www.marketwatch.com/story/how-to-read-your-bodys-warning-signs-years-before-you-get-sick-3fb8c82d?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Most of us don’t just want to live longer lives. We want to live longer and healthier lives.",
-   "published": "2026-10-13T17:22:00+00:00"
-  },
-  {
    "id": "d811980c542f",
    "title": "Cholera cases surge in Yemen as conflict intensifies, WHO says",
    "link": "https://www.aljazeera.com/news/2026/10/13/cholera-cases-surge-in-yemen-as-conflict-intensifies-who-says?traffic_source=rss",
@@ -3892,7 +4112,7 @@
   },
   {
    "id": "4afbe6d0e9a1",
-   "title": "September CPI Report: What the Inflation Data Is Expected to Show",
+   "title": "September CPI Report Shows Inflation Is on the Rise",
    "link": "https://www.kiplinger.com/investing/economy/cpi-report-september-2026-what-to-expect",
    "source": "Kiplinger",
    "circle_hint": "national",
