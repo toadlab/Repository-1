@@ -48,24 +48,23 @@
   </main>
 
   <footer class="wrap narrow site-footer muted small">
-    Scripture quotations are from the King James Version (public domain). Headlines link to their original publishers.
+    Scripture quotations without a version mark are from the King James Version (public domain). Headlines link to their original publishers.
   </footer>
 
   <dialog id="settings">
     <form method="dialog" class="settings-form">
       <h2>Settings</h2>
-      <label>Daily reading source
-        <select id="set-source">
-          <option value="trial">Four-week trial (one tradition per week)</option>
-          <option value="catholic">Catholic daily lectionary</option>
-          <option value="orthodox">Eastern Orthodox daily readings</option>
-          <option value="coptic">Coptic Orthodox daily readings</option>
-          <option value="biy">Bible in a Year (Fr. Mike Schmitz)</option>
+      <label>Bible version
+        <select id="set-version">
+          <option value="ESV">ESV (English Standard Version)</option>
+          <option value="NIV">NIV (New International Version)</option>
+          <option value="NASB">NASB (New American Standard Bible)</option>
         </select>
       </label>
-      <label>Trial start date
-        <input type="date" id="set-trial-start">
+      <label>ESV key, to show the full ESV text on this page (optional, free)
+        <input type="password" id="set-esv-key" autocomplete="off" placeholder="Paste your key from api.esv.org">
       </label>
+      <p class="muted small">Get a free key for personal use at <a href="https://api.esv.org/account/create-application/" target="_blank" rel="noopener">api.esv.org</a>. NIV and NASB open on BibleGateway instead, because their publishers don't offer a free way to show the text here.</p>
       <label>Claude API key for the chat and one-tap actions
         <input type="password" id="set-key" autocomplete="off" placeholder="sk-ant-…">
       </label>

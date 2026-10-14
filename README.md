@@ -11,8 +11,7 @@ The design goals and philosophy are in **[docs/project-goals.md](docs/project-go
 - **Liturgical season.** Advent, Christmas, Epiphany, Lent, Holy Week, Easter, Pentecost and Ordinary Time are computed from the calendar, including Easter.
 - **Thematic constants.** Through Ordinary Time the focus rotates in three-week blocks: the Beatitudes, the Fruit of the Spirit, the Lord's Prayer and the Ten Commandments. Each day holds one line and a question.
 - **Prayer of the week.** One dense, classic prayer, repeated every day for a week. These are the 11 from the goals doc.
-- **Reading trial.** A four-week trial of daily lectionaries, one per week: Catholic, Eastern Orthodox, Coptic Orthodox, then Bible in a Year. Each week has a notes box. At the end, you pick the one you found most nourishing.
-- **Narrative track.** Less-visited books in salvation-history order, one unit per month (Job, Leviticus, Proverbs, the minor prophets, the Pastoral Epistles, and so on). The full KJV text is shown inline.
+- **Today's reading (narrative track).** Less-visited books in salvation-history order, one unit per month (Job, Leviticus, Proverbs, the minor prophets, Mark, the Pastoral Epistles, and so on). Choose ESV, NIV or NASB in Settings. With a free ESV key from [api.esv.org](https://api.esv.org/account/create-application/), stored only in your browser, the full ESV text appears on the page and the day's focus verse switches to the ESV too. Without a key, or for NIV and NASB, the reading opens on BibleGateway, because those publishers offer no free way to show their text here.
 
 After the grounding, the day's content follows a weekly rhythm (`config/profile.json` → `cadence`):
 
@@ -79,4 +78,4 @@ These are from the goals doc's later phases and open questions:
 - A year-in-review tab with star and remove overrides.
 - Manual override to mark a story important even when it fails the durability test. Flags cover "dig into later" only.
 - Delivery as a message or doc. For now the digest is the web page.
-- Lectionary readings open on their publishers' sites rather than inline, because the texts are copyrighted. The narrative track shows the full KJV text inline.
+- The built-in lines (seasonal verses, Beatitudes, commandments) are stored in the public-domain KJV. Whole-verse lines switch to the ESV when a key is set; partial-verse lines, like the Fruit of the Spirit list, stay in the KJV.

@@ -4,13 +4,16 @@
 
   const STORE_KEY = "pnd.v1";
   const MS_DAY = 86400000;
+  const VERSIONS = ["ESV", "NIV", "NASB"];
+  const ESV_NOTICE = "Scripture quotations marked ESV are from the ESV® Bible (The Holy Bible, English Standard Version®), " +
+    "© 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.";
 
   // ---------- per-browser storage (never allowed to break rendering) ----------
   function loadStore() {
     let s = {};
     try { s = JSON.parse(localStorage.getItem(STORE_KEY)) || {}; } catch (_) { /* unavailable */ }
-    return { trialStart: s.trialStart || null, source: s.source || "trial", flags: s.flags || [],
-             journal: s.journal || {}, trialNotes: s.trialNotes || {}, praying: s.praying || {} };
+    return { version: VERSIONS.includes(s.version) ? s.version : "ESV", esvKey: s.esvKey || "", flags: s.flags || [],
+             journal: s.journal || {}, praying: s.praying || {} };
   }
   const store = loadStore();
   function save() { try { localStorage.setItem(STORE_KEY, JSON.stringify(store)); } catch (_) { /* ignore */ } }
@@ -21,8 +24,6 @@
   const ymd = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
   const parseYmd = (s) => { const [y, m, d] = s.split("-").map(Number); return new Date(y, m - 1, d); };
   const fmt = (d, o) => d.toLocaleDateString(undefined, o);
-  const startOfWeek = (d) => addDays(d, -((d.getDay() + 6) % 7));
-  if (!store.trialStart) { store.trialStart = ymd(startOfWeek(today())); save(); }
 
   // ---------- state & data ----------
   const state = {
@@ -66,7 +67,7 @@
   }
   const safeUrl = (u) => (/^https?:\/\//i.test(u || "") ? u : null);
   const ext = (href, label, cls) => h("a", { href: safeUrl(href), target: "_blank", rel: "noopener", class: cls }, label);
-  const gateway = (ref) => `https://www.biblegateway.com/passage/?search=${encodeURIComponent(ref)}&version=KJV`;
+  const gateway = (ref) => `https://www.biblegateway.com/passage/?search=${encodeURIComponent(ref)}&version=${store.version}`;
   const para = (text) => (text || "").split(/\n{2,}/).filter(Boolean).map((t) => h("p", {}, t));
 
   function talk(ctx, prompt) {
@@ -82,11 +83,19 @@
     const pr = Grounding.prayer(grounding, date);
     const wrap = h("section", { class: "grounding", "aria-label": "Grounding" });
 
+    const verse = h("p", {}, f.text);
+    const cite = h("cite", {}, ext(gateway(f.ref), `${f.ref} ${grounding.translation}`));
     wrap.append(h("div", { class: `card focus season-${f.seasonKey}` },
       h("p", { class: "eyebrow" }, `${f.season.name} · ${f.label}`),
-      h("blockquote", {}, h("p", {}, f.text),
-        h("cite", {}, ext(gateway(f.ref), `${f.ref} ${grounding.translation}`))),
+      h("blockquote", {}, verse, cite),
       f.prompt && h("p", { class: "prompt" }, f.prompt)));
+    // The day's line is stored in the KJV (public domain); swap in the ESV when a key is set.
+    if (useEsv() && f.verse) {
+      esvPassage(f.verse).then((t) => {
+        verse.textContent = t.replace(/\[\d+\]\s*/g, "").replace(/\s+/g, " ").trim();
+        cite.replaceChildren(ext(gateway(f.verse), `${f.verse} ESV`));
+      }).catch(() => { /* keep the KJV line */ });
+    }
 
     wrap.append(h("div", { class: "card prayer-card" },
       h("p", { class: "eyebrow" }, `Prayer of the week · ${pr.number} of ${pr.of}`),
@@ -98,66 +107,59 @@
 
     if (compact) return wrap;
 
-    const r = Grounding.reading(grounding, date, store);
-    const trial = r.trial;
-    const readingCard = h("div", { class: "card reading-card" },
-      h("p", { class: "eyebrow" }, trial
-        ? (trial.before ? "Trial starts soon" : trial.complete ? "Trial complete. Keep rotating until you choose." : `Reading trial · week ${trial.week} of ${trial.of}`)
-        : "Today's reading"),
-      h("h3", {}, r.name),
-      h("p", { class: "muted small" }, `${r.length}. ${r.about}`),
-      h("div", { class: "card-actions" },
-        ext(r.link.url, r.link.label + " ↗", "btn-link"),
-        r.link.alt && ext(r.link.alt.url, r.link.alt.label + " ↗", "btn-link subtle"),
-        talkBtn("Ask about this passage", { kind: "reading", title: `${r.name}, ${fmt(date, { month: "long", day: "numeric", year: "numeric" })}`,
-          body: `Today's readings: ${r.link.url}`, url: r.link.url })));
-    if (trial) {
-      const noteKey = r.id;
-      const ta = h("textarea", { rows: 2, placeholder: `How did ${r.name.split(" (")[0]} sit with you this week?` });
-      ta.value = store.trialNotes[noteKey] || "";
-      ta.addEventListener("input", () => { store.trialNotes[noteKey] = ta.value; save(); });
-      readingCard.append(h("label", { class: "small muted trial-note" }, "Trial notes", ta));
-      if (trial.complete) readingCard.append(trialChooser());
-    }
-    wrap.append(readingCard);
-
     const n = Grounding.narrative(grounding, date);
     const passage = n.chapters.join("; ");
     const textBox = h("div", { class: "scripture" });
-    const details = h("details", { class: "card narrative" },
-      h("summary", {},
-        h("span", { class: "eyebrow" }, `Narrative track · ${n.unit.period}`),
-        h("span", { class: "narrative-title" }, `${n.unit.title}: ${passage}`)),
+    wrap.append(h("div", { class: "card reading-card" },
+      h("p", { class: "eyebrow" }, `Today's reading · ${n.unit.period}`),
+      h("h3", {}, passage),
+      h("p", { class: "muted small" }, `This month: ${n.unit.title}`),
       textBox,
-      h("div", { class: "card-actions" }, ext(gateway(passage), "Read on BibleGateway ↗", "btn-link subtle"),
-        talkBtn("Ask about this passage", { kind: "reading", title: passage, body: `${n.unit.period}: ${n.unit.title}` })));
-    details.addEventListener("toggle", () => { if (details.open && !textBox.childElementCount) loadScripture(passage, textBox); }, { once: false });
-    wrap.append(details);
+      h("div", { class: "card-actions" },
+        ext(gateway(passage), `Read in the ${store.version} on BibleGateway ↗`, useEsv() ? "btn-link subtle" : "btn-link"),
+        talkBtn("Ask about this passage", { kind: "reading", title: passage, body: `${n.unit.period}: ${n.unit.title}` }))));
+    if (useEsv()) loadScripture(passage, textBox);
+    else if (store.version === "ESV") {
+      textBox.append(h("p", { class: "muted small" },
+        "To read the full ESV text right here, add a free ESV key in Settings (⚙)."));
+    }
     return wrap;
+  }
+
+  // ---------- ESV text (free key from api.esv.org, stored only in this browser) ----------
+  const useEsv = () => store.version === "ESV" && !!store.esvKey;
+  const esvCache = new Map();
+  function esvPassage(ref) {
+    if (!esvCache.has(ref)) {
+      const q = new URLSearchParams({
+        q: ref, "include-passage-references": "false", "include-footnotes": "false",
+        "include-headings": "false", "include-short-copyright": "false", "include-copyright": "false",
+        "indent-paragraphs": "0", "indent-poetry": "false",
+      });
+      const p = fetch(`https://api.esv.org/v3/passage/text/?${q}`, { headers: { Authorization: `Token ${store.esvKey}` } })
+        .then((res) => { if (!res.ok) throw new Error(String(res.status)); return res.json(); })
+        .then((d) => d.passages.join("\n\n"))
+        .catch((e) => { esvCache.delete(ref); throw e; });
+      esvCache.set(ref, p);
+    }
+    return esvCache.get(ref);
   }
 
   async function loadScripture(passage, box) {
     box.replaceChildren(h("p", { class: "muted small" }, "Loading the text…"));
     try {
-      const parts = await Promise.all(passage.split("; ").map((p) =>
-        getJson(`https://bible-api.com/${encodeURIComponent(p)}?translation=kjv`)));
-      box.replaceChildren(...parts.flatMap((d) => [
-        h("h4", {}, d.reference),
-        h("p", {}, d.verses.flatMap((v) => [h("sup", {}, v.verse), `${v.text.replace(/\s+/g, " ").trim()} `]))]));
-    } catch (_) {
-      box.replaceChildren(h("p", { class: "muted small" }, "Couldn't load the text here. Use the link below."));
+      const parts = await Promise.all(passage.split("; ").map(async (ref) => [ref, await esvPassage(ref)]));
+      box.replaceChildren(...parts.flatMap(([ref, text]) => [
+        h("h4", {}, ref),
+        ...text.split(/\n\s*\n/).filter((t) => t.trim()).map((block) =>
+          h("p", {}, block.split(/\[(\d+)\]/).map((piece, i) =>
+            i % 2 ? h("sup", {}, piece) : piece.replace(/\s+/g, " ")))),
+      ]), h("p", { class: "copyright" }, ESV_NOTICE));
+    } catch (e) {
+      box.replaceChildren(h("p", { class: "muted small" }, e.message === "401" || e.message === "403"
+        ? "The ESV key was rejected. Check it in Settings (⚙), or use the link below."
+        : "Couldn't load the text here. Use the link below."));
     }
-  }
-
-  function trialChooser() {
-    const box = h("div", { class: "chooser" },
-      h("p", {}, h("strong", {}, "Which one did you find most nourishing to return to? "),
-        "Not the most efficient or the most popular, just the one that fed you."));
-    for (const s of grounding.trial_sources) {
-      box.append(h("button", { class: "chip", onclick: () => { store.source = s.id; save(); render(); } },
-        s.name, store.trialNotes[s.id] ? h("span", { class: "chip-count" }, " · has notes") : null));
-    }
-    return box;
   }
 
   function closing(date) {
@@ -457,15 +459,15 @@
 
   const settings = $("settings");
   $("settings-btn").addEventListener("click", () => {
-    $("set-source").value = store.source;
-    $("set-trial-start").value = store.trialStart;
+    $("set-version").value = store.version;
+    $("set-esv-key").value = store.esvKey;
     $("set-key").value = window.chatSettings?.key || "";
     $("set-model").value = window.chatSettings?.model || "claude-opus-5";
     settings.showModal();
   });
   settings.addEventListener("close", () => {
-    store.source = $("set-source").value;
-    if (/^\d{4}-\d{2}-\d{2}$/.test($("set-trial-start").value)) store.trialStart = $("set-trial-start").value;
+    store.version = $("set-version").value;
+    store.esvKey = $("set-esv-key").value.trim();
     if (window.chatSettings) { window.chatSettings.key = $("set-key").value; window.chatSettings.model = $("set-model").value; }
     save();
     render();
