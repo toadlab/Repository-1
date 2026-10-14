@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T05:43:52.369027+00:00",
+ "generated": "2026-10-14T06:57:25.717955+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "name": "The Guardian World",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 27
+   "count": 29
   },
   {
    "name": "Congressional Budget Office",
@@ -129,6 +129,105 @@
  ],
  "items": [
   {
+   "id": "abed68806a0e",
+   "title": "Turkey police raid opposition TV station, halting live broadcasts",
+   "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Halk TV says its staff are unable to enter the building in Istanbul, and a new manager was appointed to run the channel.",
+   "published": "2026-10-14T06:32:02+00:00"
+  },
+  {
+   "id": "5adf3de958a6",
+   "title": "Australian politics live: Trade minister says Coalition MPs walked out of meeting on EU trade deal; RBA warns staff to accept pay deal or miss out",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Australia missing out on $45bn of revenue from resources: Greens As Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being…",
+   "published": "2026-10-14T06:30:27+00:00"
+  },
+  {
+   "id": "c81935944d54",
+   "title": "Businesses could be barred from non-essential water use amid supply threat",
+   "link": "https://www.theguardian.com/environment/2026/oct/14/businesses-barred-water-use-drought-england-supply-threat",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Golf clubs, private schools and car washes may face tighter rules from water companies as England’s drought continues Three water companies are seeking to impose severe restrictions on businesses as the drought continues across most of England, putting rivers and wildlife under…",
+   "published": "2026-10-14T06:00:48+00:00"
+  },
+  {
+   "id": "bf00b3bfc8b5",
+   "title": "Ukrainian soldier to go on trial over sabotage of Nord Stream gas pipelines",
+   "link": "https://www.theguardian.com/business/2026/oct/14/ukrainian-soldier-to-go-on-trial-over-sabotage-of-nord-stream-gas-pipelines",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Special forces officer Serhii Kuznetsov denies involvement in the 2022 blasts that left pipelines badly damaged A Ukrainian soldier is to go on trial in Hamburg accused of taking part in one of the most brazen acts of sabotage in postwar European history – the 2022 attack on…",
+   "published": "2026-10-14T06:00:47+00:00"
+  },
+  {
+   "id": "aadc9f5e3afe",
+   "title": "Australian industry reliant on gas for ‘foreseeable future’, resources minister tells press club",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/14/australia-reliant-on-gas-for-foreseeable-future-madeleine-king-press-club",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Madeleine King says national gas reservation scheme, expected to come into effect from 2028, will reduce power prices Follow our Australian politics live blog for latest updates Get our new political email , free app or daily news podcast The resources minister, Madeleine King,…",
+   "published": "2026-10-14T05:52:22+00:00"
+  },
+  {
+   "id": "055e4756b207",
+   "title": "Sudan cannot afford to dismiss a chance for dialogue",
+   "link": "https://www.aljazeera.com/opinions/2026/10/14/sudan-cannot-afford-to-dismiss-a-chance-for-dialogue?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A new initiative faces serious questions about military influence, but its critics should not write it off prematurely.",
+   "published": "2026-10-14T05:51:09+00:00"
+  },
+  {
+   "id": "85023fb46365",
+   "title": "Wednesday briefing: ​Why small boat crossings are here to stay ​",
+   "link": "https://www.theguardian.com/world/2026/oct/14/wednesday-briefing-why-small-boat-crossings-are-here-to-stay",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In today’s newsletter: The ​collapse of the UK’s ‘one in, one out’ asylum deal with France exposes the limits of border enforcement that did little to stop crossings, and only made them more dangerous Good morning. You’d be forgiven for missing it. Earlier this month, the…",
+   "published": "2026-10-14T05:44:34+00:00"
+  },
+  {
+   "id": "00ee91edb846",
+   "title": "From Cairo to Tokyo: Can you guess these twin cities?",
+   "link": "https://www.aljazeera.com/news/2026/10/14/from-cairo-to-tokyo-can-you-guess-these-twin-cities?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As a London borough moves to cut ties with Haifa, test your knowledge of the world's twin cities.",
+   "published": "2026-10-14T05:40:18+00:00"
+  },
+  {
+   "id": "5df638e75107",
+   "title": "Man City deserve to keep trophies despite charges, says PSG’s Luis Enrique",
+   "link": "https://www.aljazeera.com/sports/2026/10/14/man-city-deserve-to-keep-trophies-despite-charges-says-psgs-luis-enrique?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Enrique, a friend of former Man City boss Guardiola, hopes the club can avoid the sanction of losing its titles.",
+   "published": "2026-10-14T05:39:48+00:00"
+  },
+  {
    "id": "daf46d593479",
    "title": "Utah’s 2nd District candidates both want data center transparency after Stratos — but differ on MIDA",
    "link": "https://www.deseret.com/politics/2026/10/13/utah-2nd-district-candidates-debate-data-centers-stratos-and-water/",
@@ -160,17 +259,6 @@
    "flourishing_feed": false,
    "summary": "Ashutosh Ranka and Saurav Das will spend spend five days in prison for entering Delhi’s Jantar Mantar – a historic protest site that has been closed by authorities Two leaders of India’s youth-led Cockroach movement have been sent to jail for five days for violating a ban on…",
    "published": "2026-10-14T05:29:23+00:00"
-  },
-  {
-   "id": "5adf3de958a6",
-   "title": "Australian politics live: Albanese says ‘completely wrong’ he ‘cleaned up’ after Chalmers on credit card ban; Coalition continues to target Aly",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Australia missing out on $45bn of revenue from resources: Greens As Labor prepares to introduce its bill for a gas reserve, the Greens are pointing out that there are tens of billions being…",
-   "published": "2026-10-14T05:22:42+00:00"
   },
   {
    "id": "d992e756920b",
@@ -382,6 +470,28 @@
    "published": "2026-10-14T04:00:43+00:00"
   },
   {
+   "id": "92346a63b8b0",
+   "title": "Agency Information Collection Activities; Comment Request for Qualifying Advanced Energy Project Credit-Notice 2023-18",
+   "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20966/agency-information-collection-activities-comment-request-for-qualifying-advanced-energy-project",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+   "published": "2026-10-14T04:00:00+00:00"
+  },
+  {
+   "id": "fcfd67dc6c9f",
+   "title": "Agency Information Collection Activities; Comment Request on Application for United States Residency Certification",
+   "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20962/agency-information-collection-activities-comment-request-on-application-for-united-states-residency",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+   "published": "2026-10-14T04:00:00+00:00"
+  },
+  {
    "id": "2a3d483406f5",
    "title": "UN official says ‘window of opportunity’ for peace in DR Congo",
    "link": "https://www.aljazeera.com/news/2026/10/14/un-official-says-window-of-opportunity-for-peace-in-dr-congo?traffic_source=rss",
@@ -407,6 +517,17 @@
    "id": "65bbb3b0658b",
    "title": "Court Issues Preliminary Injunction Requiring CNN, MS NOW, and Politico to Be Readmitted to White House Briefings",
    "link": "https://reason.com/volokh/2026/10/13/court-issues-preliminary-injunction-requiring-cnn-ms-now-and-politico-to-be-readmitted-to-white-house-briefings/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "\"[T]he Court is 'not required to exhibit a naiveté from which ordinary citizens are free.'\"",
+   "published": "2026-10-14T03:36:38+00:00"
+  },
+  {
+   "id": "acb36b6ed9ea",
+   "title": "Court Issues Preliminary Injunction Requiring CNN, MS NOW, and Politico to Be Readmitted to White House",
+   "link": "https://reason.com/volokh/2026/10/13/court-issues-preliminary-injunction-requiring-cnn-ms-now-and-politico-to-be-readmitted-to-white-house/",
    "source": "Reason",
    "circle_hint": "national",
    "domain_feed": false,
