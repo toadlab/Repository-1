@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T16:48:47.939688+00:00",
+ "generated": "2026-10-14T17:44:55.776669+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -13,8 +13,8 @@
   },
   {
    "name": "Indianapolis Business Journal",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "name": "NPR News",
@@ -129,6 +129,336 @@
  ],
  "items": [
   {
+   "id": "ed1ebb995f02",
+   "title": "A former Republican hopes to flip Lauren Boebert’s seat to blue in Colorado’s most red district",
+   "link": "https://www.deseret.com/politics/2026/10/14/lauren-boebert-faces-former-republican-veteran-eileen-laubacher-in-states-most-red-congressional-district/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "After leaving the GOP to briefly register as unaffiliated before launching her run as a Democratic congressional candidate, Eileen Laubacher secured a path to the general election against Rep. Lauren Boebert in Colorado’s 4th Congressional District, the reddest in the state.…",
+   "published": "2026-10-14T17:42:52+00:00"
+  },
+  {
+   "id": "bf7856b04539",
+   "title": "High school girls soccer: Thursday’s 5A/5A/4A quarterfinal previews",
+   "link": "https://www.deseret.com/sports/2026/10/14/high-school-girls-soccer-6a-5a-4a-quarterfinal-recap/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "6A quarterfinals No. 8 Layton at No. 1 Lone Peak Layton has made a habit of toppling the state’s best this season, and now the Lancers will try to add another signature scalp when they travel to face No. 1 Lone Peak in Wednesday’s 6A quarterfinals. Lone Peak (15-3) needed a…",
+   "published": "2026-10-14T17:42:19+00:00"
+  },
+  {
+   "id": "e833813a6d9b",
+   "title": "High school cross country: 5A divisional recap, Viewmont boys and Springville girls post top times",
+   "link": "https://www.deseret.com/sports/2026/10/14/high-school-cross-country-5a-divisional-recap/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Here’s a look at the results from the 5A cross-country divisional meets that were held at Lakeside Park in Orem on Wednesday. The meet is a state qualifying meet that narrows the field for the 5A state meet that will be held on Tuesday, Oct. 27 at Sugar House Park. Teams from…",
+   "published": "2026-10-14T17:39:10+00:00"
+  },
+  {
+   "id": "126b5cf031d5",
+   "title": "Ex-UK army chef jailed for ‘terror’-related offence",
+   "link": "https://www.aljazeera.com/news/2026/10/14/ex-uk-army-chef-jailed-for-terror-related-offence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The former British Army member harboured 'extreme right-wing' views and was ordering explosives components, say police.",
+   "published": "2026-10-14T17:32:09+00:00"
+  },
+  {
+   "id": "d3e4bac9516d",
+   "title": "Why the courts are siding with religious liberty",
+   "link": "https://www.deseret.com/magazine/2026/10/14/why-the-courts-are-siding-with-religious-liberty/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Can the state require public school students to read Bible passages? Should the Amish have to install electric lights on their horse-drawn buggies? Can missionaries go door-to-door to proselytize? Those are just some of the difficult questions posed by religious freedom…",
+   "published": "2026-10-14T17:30:26+00:00"
+  },
+  {
+   "id": "19b6651fbbd4",
+   "title": "The concrete city that brought the art world to the Nevada desert",
+   "link": "https://www.deseret.com/magazine/2026/10/14/michael-heizer-the-city/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The white Chevrolet Tahoe jerked onto the unpaved road to Garden Valley, kicking up clouds of dirt in its wake. Ed Higbee gripped the worn leather steering wheel with calloused hands that occasionally gestured out toward the odd rattlesnake or pronghorn antelope. Dust devils…",
+   "published": "2026-10-14T17:30:02+00:00"
+  },
+  {
+   "id": "745b293198c0",
+   "title": "Biohacking raises new questions about how we age",
+   "link": "https://www.deseret.com/lifestyle/2026/10/14/biohacking-can-shape-how-we-age-but-how-far-should-we-go/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Every passing year, the inner workings of our bodies become more legible, and we are offered new and better technologies to care for them. A watch tracks the heart, a ring grades sleep, a blood panel previews the years ahead, exercise regimens optimize muscle mass, and a…",
+   "published": "2026-10-14T17:29:36+00:00"
+  },
+  {
+   "id": "270a338f08f0",
+   "title": "Where I learned to belong",
+   "link": "https://www.deseret.com/magazine/2026/10/14/an-ode-to-the-quad/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Eighteen years passed before I returned to my prep school campus. It’s a few hours away from the nearest city, deep in western New England. Pulling in, the surrounding hills’ fresh green shoots of spring shimmered in the breeze, welcoming me right back to my beginnings. This is…",
+   "published": "2026-10-14T17:29:08+00:00"
+  },
+  {
+   "id": "bb85cffa8d48",
+   "title": "The 1,000-year photograph",
+   "link": "https://www.deseret.com/magazine/2026/10/14/learning-from-a-1000-year-photograph/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The artist Jonathon Keats is standing on a bluff overlooking a remote valley in the Arizona desert, about 40 miles from the United States-Mexico border . In his hands, and aiming toward the mountainous horizon, is a camera-esque contraption that looks like something out of…",
+   "published": "2026-10-14T17:28:50+00:00"
+  },
+  {
+   "id": "dc42509a9716",
+   "title": "Poem: But not now",
+   "link": "https://www.deseret.com/magazine/2026/10/14/poem-but-not-now/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "I’ve stared at the sun too long and shrink (it’s like every other time I’ve stared at the sun too long) and I’m in all those places/times at once (blinded and warm) at the edge of danger which suits this frantic search for something to unlock since I’m not humble enough to…",
+   "published": "2026-10-14T17:28:19+00:00"
+  },
+  {
+   "id": "a5f1acd5a9ba",
+   "title": "I was born in a small town",
+   "link": "https://www.deseret.com/magazine/2026/10/14/past-meets-future-in-wyoming/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "From the Great Basin to the Ohio River Valley to the Florida Panhandle, the rituals and rhythms of small-town life in America are remarkably similar. High school football on Friday nights . Church on Sunday mornings. And if you’re lucky, some connection to a spit of land that’s…",
+   "published": "2026-10-14T17:28:06+00:00"
+  },
+  {
+   "id": "d7ac929109b7",
+   "title": "The Deseret 50",
+   "link": "https://www.deseret.com/magazine/2026/10/14/fifty-groups-changing-philanthropy/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Last year, we debuted our first Philanthropy Issue and something we called the Deseret 50. The idea was to celebrate the 50 people, organizations and ideas transforming the world of giving. This year, we’re bringing back both the Philanthropy Issue and the Deseret 50. This…",
+   "published": "2026-10-14T17:27:46+00:00"
+  },
+  {
+   "id": "fbd05d682233",
+   "title": "SEG, Salt Lake leaders unveil vision for multibillion-dollar downtown makeover",
+   "link": "https://www.deseret.com/business/2026/10/14/ryan-smith-downtown-salt-lake-city-renovation-project-seg-release-renderings/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Smith Entertainment Group released a video Wednesday showing what downtown Salt Lake City would look like after it undergoes a planned multibillion-dollar makeover in the next few years. The five-minute video features SEG chairman and CEO Ryan Smith, Salt Lake City Mayor Erin…",
+   "published": "2026-10-14T17:26:38+00:00"
+  },
+  {
+   "id": "901bdd4b0040",
+   "title": "DoJ threatens California over alleged noncitizen voting as Trump tries to rally support for Republicans – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Justice department gives state officials 48 hours to review list of ‘likely noncitizens’ as president heads to campaign rallies in Arizona and Montana Sign up for the Breaking News US email Donald Trump has yet to weigh in on the late night ruling from a federal judge that…",
+   "published": "2026-10-14T17:23:18+00:00"
+  },
+  {
+   "id": "ba8c90cbcaee",
+   "title": "Kenya confirms second Ebola case - a relative of the first victim",
+   "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+   "published": "2026-10-14T17:23:01+00:00"
+  },
+  {
+   "id": "927202b861f3",
+   "title": "Student protests in Albania turn violent as demonstrators clash with police",
+   "link": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Government building and two banks set on fire as tens of thousands take to streets over education costs and corruption Tens of thousands of students have taken to the streets of Tirana, the Albanian capital, setting alight a government building and two banks and hurling stones…",
+   "published": "2026-10-14T17:21:21+00:00"
+  },
+  {
+   "id": "9bb791d81b7c",
+   "title": "The Archers cast ‘angry’ at BBC decision to scrap new Birmingham studio",
+   "link": "https://www.theguardian.com/media/2026/oct/14/the-archers-cast-radio-bbc-decision-new-studio-birmingham",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ben Norris says cost-cutting measure that means show will be recorded outside its home city risks ‘extraordinary burden’ for crew A cast member of The Archers has said its actors have been angered by the BBC’s decision to axe the show’s new studio, in a move that could lead to…",
+   "published": "2026-10-14T17:12:39+00:00"
+  },
+  {
+   "id": "c31ed7febf0e",
+   "title": "Saudi tennis ‘slam’ with Alcaraz, Djokovic postponed amid Houthi attacks",
+   "link": "https://www.aljazeera.com/sports/2026/10/14/saudi-tennis-slam-with-alcaraz-djokovic-postponed-amid-houthi-attacks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Six Kings Slam exhibition tournament has been pushed from October to December by Saudi organisers.",
+   "published": "2026-10-14T17:11:57+00:00"
+  },
+  {
+   "id": "44cf080a2383",
+   "title": "Palestinian collective uses art to connect Gaza and the West Bank",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A Palestinian exhibition opening simultaneously in Bethlehem and Gaza is challenging Israeli restrictions.",
+   "published": "2026-10-14T17:11:20+00:00"
+  },
+  {
+   "id": "ddb7184c1960",
+   "title": "Burnham tells Zelenskyy’s UK’s support for Ukraine ‘will not change’ – as it happened",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Zelenskyy says he will be discussing intelligence sharing ‘difficulties’ and Starlink access with Burnham PMQs is about to start. Here is the list of MPs down to ask a question. After @genevieve_holl reported this last night, various sources in the Trump administration who are…",
+   "published": "2026-10-14T17:06:58+00:00"
+  },
+  {
+   "id": "43563c1cd3bc",
+   "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
+   "link": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Vessels were hit by missiles as rise in strikes suggests Iran is trying to close waterway before US midterm elections Two container ships near the strait of Hormuz have ⁠sunk after being struck by missiles, amid the sharpest rise in Iranian attacks on shipping since the start…",
+   "published": "2026-10-14T17:05:42+00:00"
+  },
+  {
+   "id": "e4c47e483d39",
+   "title": "Settlers attack Palestinian mosque near occupied East Jerusalem",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Settlers attack Palestinian mosque near occupied East Jerusalem",
+   "published": "2026-10-14T17:05:01+00:00"
+  },
+  {
+   "id": "7e1f6522c486",
+   "title": "Kenya’s health ministry confirms second Ebola case",
+   "link": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A relative of the first case, 39-year-old man's infection raises concerns of a cross-border spread.",
+   "published": "2026-10-14T17:03:19+00:00"
+  },
+  {
+   "id": "c2507f076606",
+   "title": "Ukraine accuses Elon Musk’s SpaceX of throttling Starlink terminals",
+   "link": "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Officials say ability to block Russian drones restricted as Kyiv reels from second night of ballistic missile attacks.",
+   "published": "2026-10-14T17:02:31+00:00"
+  },
+  {
+   "id": "6fb2558e9ca5",
+   "title": "UK’s ‘incoherent’ approach to China plagued by lack of expertise, report says",
+   "link": "https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "International alliance of China-sceptic legislators warns of risks inherent in misjudging bilateral relationship The UK’s approach to China is “beset by incoherence” and plagued by a lack of senior expertise, according to a report warning of the risks inherent in misjudging the…",
+   "published": "2026-10-14T17:00:14+00:00"
+  },
+  {
+   "id": "5f43dc60af4f",
+   "title": "Manchester City staff invited on government trade trip to India",
+   "link": "https://www.theguardian.com/football/2026/oct/14/bev-craig-manchester-city-trade-trip-india-to-promote-uk-tourism",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Greater Manchester mayor Bev Craig invited City representative on trade trip organised by business secretary A club representative from Manchester City was invited on a government-backed trade delegation to India this week, despite the club being found guilty of 114…",
+   "published": "2026-10-14T17:00:08+00:00"
+  },
+  {
+   "id": "f6897a77380f",
+   "title": "New UK sanctions powers will enable action against supporters of illegal Israeli settlements",
+   "link": "https://www.theguardian.com/politics/2026/oct/14/uk-sanctions-powers-action-supporters-israeli-settlements",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Global human rights commitments adopted by government extend reach to enablers of unlawful activity The UK is expanding its sanctions powers to freeze assets and target entities enabling illegal Israeli settlements, obstructing humanitarian aid or unlawfully holding prisoners.…",
+   "published": "2026-10-14T16:51:25+00:00"
+  },
+  {
+   "id": "1e9022598cb7",
+   "title": "Suspected Israeli online operations cause alarm in Iran and Lebanon",
+   "link": "https://www.aljazeera.com/news/2026/10/14/suspected-israeli-online-operations-cause-alarm-in-iran-and-lebanon?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Suspected online espionage triggers intense security crackdowns and counter-intelligence measures in Iran and Lebanon.",
+   "published": "2026-10-14T16:51:12+00:00"
+  },
+  {
+   "id": "b9fe28f0d597",
+   "title": "3 things that are driving inflation higher",
+   "link": "https://www.marketwatch.com/story/3-things-that-are-driving-inflation-higher-26bda9a9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Struggling with elevated prices? You don’t have to look much further than your local gas station.",
+   "published": "2026-10-14T16:50:00+00:00"
+  },
+  {
+   "id": "314f227cf7e5",
+   "title": "Plan unveiled to increase share of land farmed organically in England to 10%",
+   "link": "https://www.theguardian.com/environment/2026/oct/14/land-farmed-organically-england-share-10-pc-2036-plan-food-climate",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Government says ambition for 2036 will be good for food and climate resilience, but concerns remain over funding The government has set an ambition to increase the share of English land farmed organically to 10% by 2036, but concerns remain over how the transition will be…",
+   "published": "2026-10-14T16:49:15+00:00"
+  },
+  {
    "id": "fad774142212",
    "title": "Netflix to lay off 1,000 staff in steepest cuts since 2022",
    "link": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
@@ -138,6 +468,17 @@
    "flourishing_feed": false,
    "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
    "published": "2026-10-14T16:47:32+00:00"
+  },
+  {
+   "id": "6a030f91bddf",
+   "title": "BYU’s School of Medicine takes major step forward, receives preliminary accreditation",
+   "link": "https://www.deseret.com/education/2026/10/14/byus-school-of-medicine-takes-major-step-forward-receives-preliminary-accreditation/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The first 60 students for BYU’s new School of Medicine may start lining up now. BYU President Shane Reese announced Wednesday that the BYU School of Medicine has received preliminary accreditation. The school is now authorized to recruit an inaugural class of students and…",
+   "published": "2026-10-14T16:47:30+00:00"
   },
   {
    "id": "5d50be72e425",
@@ -151,15 +492,37 @@
    "published": "2026-10-14T16:47:22+00:00"
   },
   {
-   "id": "901bdd4b0040",
-   "title": "Trump heads to rallies in Arizona and Montana after campaign stop-off in Alaska – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
+   "id": "264b635c0983",
+   "title": "AI in politics: Is Albania the EU’s testing ground?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/ai-in-politics-is-albania-the-eus-testing-ground?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Albania is experimenting with artificial intelligence in politics.",
+   "published": "2026-10-14T16:46:41+00:00"
+  },
+  {
+   "id": "bc509c7979d6",
+   "title": "The eyes have it: Reform politician’s ‘smart glasses’ prompt calls for ban in Westminster",
+   "link": "https://www.theguardian.com/technology/2026/oct/14/smart-glasses-ai-technology-reform-senedd-westminster-ban",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Trump has taken to campaigning in conservative-leaning ​parts of competitive states, rather than in more politically diverse areas Sign up for the Breaking News US email Donald Trump has yet to weigh in on the late night ruling from a federal judge that blocks him from barring…",
-   "published": "2026-10-14T16:40:01+00:00"
+   "summary": "Jason O’Connell’s suspected use of the specs to aid his speech in Senedd reignites debate over AI-enabled devices It was a flowing speech packed full of precise statistics – but Jason O’Connell, a Reform UK Senedd member, was not quite the gifted orator he had first appeared.…",
+   "published": "2026-10-14T16:43:27+00:00"
+  },
+  {
+   "id": "15f1eccf93d9",
+   "title": "Tehran municipality accused of ‘overstep’ after launching welfare projects",
+   "link": "https://www.aljazeera.com/economy/2026/10/14/tehran-municipality-accused-of-overstep-after-launching-welfare-projects?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tehran's new municipal welfare projects face intense criticism over funding sources, transparency, and inflation claims.",
+   "published": "2026-10-14T16:41:42+00:00"
   },
   {
    "id": "58cc21731054",
@@ -173,28 +536,6 @@
    "published": "2026-10-14T16:35:07+00:00"
   },
   {
-   "id": "43563c1cd3bc",
-   "title": "Container ship sinks near strait of Hormuz amid surge in Iranian attacks",
-   "link": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Second vessel also reportedly sinking as rise in strikes suggests Iran trying to close waterway before US elections A container ship has ⁠sunk near the strait of Hormuz and a second cargo vessel was reportedly sinking amid the sharpest rise in Iranian attacks on shipping since…",
-   "published": "2026-10-14T16:33:45+00:00"
-  },
-  {
-   "id": "ddb7184c1960",
-   "title": "Burnham tells Zelenskyy’s UK’s support for Ukraine ‘will not change’ – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Zelenskyy says he will be discussing intelligence sharing ‘difficulties’ and Starlink access with Burnham PMQs is about to start. Here is the list of MPs down to ask a question. After @genevieve_holl reported this last night, various sources in the Trump administration who are…",
-   "published": "2026-10-14T16:31:34+00:00"
-  },
-  {
    "id": "ca37c308bee2",
    "title": "Cornell president acknowledges he knew about fraternity sexual assault but didn’t follow up",
    "link": "https://www.theguardian.com/us-news/2026/oct/14/cornell-president-fraternity-sexual-assault-interview",
@@ -202,7 +543,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Michael Kotlikoff addressed his administration’s handling of the 2024 allegations as the faces calls for his resignation Michael Kotlikoff, the president of Cornell University, spoke to the New York Times about sexual assault allegations at the school, acknowledging for the…",
+   "summary": "Michael Kotlikoff addressed his administration’s handling of the 2024 allegations as he faces calls for his resignation Michael Kotlikoff, the president of Cornell University, has spoken to the New York Times about sexual assault allegations at the school, acknowledging for the…",
    "published": "2026-10-14T16:30:10+00:00"
   },
   {
@@ -215,17 +556,6 @@
    "flourishing_feed": false,
    "summary": "There isn’t any way to spin Wednesday’s hot consumer-price index report as good, especially when looking at the bond market’s reaction.",
    "published": "2026-10-14T16:27:00+00:00"
-  },
-  {
-   "id": "ba8c90cbcaee",
-   "title": "Kenya confirms second Ebola case as relative of country's first victim",
-   "link": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
-   "published": "2026-10-14T16:23:40+00:00"
   },
   {
    "id": "d3b20c24d63f",
@@ -250,6 +580,17 @@
    "published": "2026-10-14T16:22:04+00:00"
   },
   {
+   "id": "cd109a06d30f",
+   "title": "Sir Trevor Phillips encouraged CBS News colleagues to tell critics to ‘fuck off’",
+   "link": "https://www.theguardian.com/media/2026/oct/14/sir-trevor-phillips-london-cbs-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Phillips sought to buck up his fellow London bureau colleagues during a contentious staff meeting on Tuesday The veteran British broadcaster Sir Trevor Phillips had some strong words of advice for his CBS News colleagues when facing off against critics who question the…",
+   "published": "2026-10-14T16:20:59+00:00"
+  },
+  {
    "id": "7e8777e79d46",
    "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
    "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
@@ -270,17 +611,6 @@
    "flourishing_feed": false,
    "summary": "Help could be on the way in BYU’s depleted running backs room. After practice Tuesday night, BYU offensive coordinator Aaron Roderick said sophomore RB Sione Moa has been cleared to play against Notre Dame on Saturday (5:30 p.m. MDT, ABC) and practiced fully for the first time…",
    "published": "2026-10-14T16:19:14+00:00"
-  },
-  {
-   "id": "6a030f91bddf",
-   "title": "BYU’s School of Medicine takes major step forward, receives preliminary accreditation",
-   "link": "https://www.deseret.com/education/2026/10/14/byus-school-of-medicine-takes-major-step-forward-receives-preliminary-accreditation/",
-   "source": "Deseret News",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The first 60 students for BYU’s new School of Medicine may start lining up now. BYU President Shane Reese announced Wednesday that the BYU School of Medicine has received preliminary accreditation. The school is now authorized to recruit an inaugural class of students and…",
-   "published": "2026-10-14T16:18:56+00:00"
   },
   {
    "id": "d96a84468433",
@@ -305,17 +635,6 @@
    "published": "2026-10-14T16:15:24+00:00"
   },
   {
-   "id": "6fb2558e9ca5",
-   "title": "UK’s ‘incoherent’ approach to China plagued by a lack of expertise, report says",
-   "link": "https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "International grouping of China-sceptic legislators warns of risks inherent in misjudging bilateral relationship The UK’s approach to China is “beset by incoherence” and plagued by a lack of senior expertise, according to a report warning of the risks inherent in misjudging the…",
-   "published": "2026-10-14T16:13:49+00:00"
-  },
-  {
    "id": "caaa3fda31f8",
    "title": "US Social Security benefits to rise by 3.6 percent in 2027",
    "link": "https://www.aljazeera.com/news/2026/10/14/us-social-security-benefits-to-rise-by-3-6-percent-in-2027?traffic_source=rss",
@@ -334,7 +653,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "‘Seniors have spent years watching their expenses outpacing their benefits’ advocate says Social security recipients will see a 3.6% cost-of-living adjustment (Cola) in 2027, increasing retirement benefits by an average of $75 per month as millions of Americans continue to…",
+   "summary": "‘Seniors have spent years watching their expenses outpacing their benefits’ advocate says Social security recipients will see a 3.6% cost-of-living adjustment (Cola) in 2027, increasing retirement benefits by an average of $75 a month as millions of Americans continue to…",
    "published": "2026-10-14T16:08:35+00:00"
   },
   {
@@ -609,7 +928,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Peak of French mountain now 4,807 metres high and fluctuates year by year due to changes in Alpine climate Europe’s highest mountain shrank by more than a metre last year. The peak of Mont Blanc in France now stands 4,807.47 metres above sea level, a team of surveyors said on…",
+   "summary": "Peak of French mountain now 4,807 metres high and fluctuates year by year due to changes in Alpine climate Western Europe’s highest mountain shrank by more than a metre last year. The peak of Mont Blanc in France now stands 4,807.47 metres above sea level, a team of surveyors…",
    "published": "2026-10-14T15:33:52+00:00"
   },
   {
@@ -1953,17 +2272,6 @@
    "flourishing_feed": false,
    "summary": "The AI Operating System will sit across the firm's custodian, portfolio management system, CRM, planning and tax software, meeting notes, phone system, email and documents.",
    "published": "2026-10-14T10:00:07+00:00"
-  },
-  {
-   "id": "ed1ebb995f02",
-   "title": "A former Republican hopes to flip Lauren Boebert’s seat to blue in Colorado’s most red district",
-   "link": "https://www.deseret.com/politics/2026/10/14/lauren-boebert-faces-former-republican-veteran-eileen-laubacher-in-states-most-red-congressional-district/",
-   "source": "Deseret News",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "After leaving the GOP to briefly register as unaffiliated before launching her run as a Democratic congressional candidate, Eileen Laubacher secured a path to the general election against Rep. Lauren Boebert in Colorado’s 4th Congressional District, the reddest in the state.…",
-   "published": "2026-10-14T10:00:01+00:00"
   },
   {
    "id": "29ad910fed18",
