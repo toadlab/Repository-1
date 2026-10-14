@@ -141,7 +141,7 @@
         ...text.split(/\n\s*\n/).filter((t) => t.trim()).map((block) =>
           h("p", {}, block.split(/\[(\d+)\]/).map((piece, i) =>
             i % 2 ? h("sup", {}, piece) : piece.replace(/\s+/g, " ")))),
-      ]), trimmed && h("p", { class: "muted small" }, `Stopped at ${Esv.MAX_VERSES} verses, the most the ESV allows on one page. Continue on BibleGateway.`),
+      ]), ...(trimmed ? [h("p", { class: "muted small" }, `Stopped at ${Esv.MAX_VERSES} verses, the most the ESV allows on one page. Continue on BibleGateway.`)] : []),
       h("p", { class: "copyright" }, h("a", { href: "copyright.html" }, "ESV copyright notice")));
     } catch (e) {
       box.replaceChildren(h("p", { class: "muted small" }, e.message === "401" || e.message === "403"
