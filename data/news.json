@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T13:53:53.354547+00:00",
+ "generated": "2026-10-15T14:47:30.503015+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,215 @@
  ],
  "items": [
   {
+   "id": "b2c38b14ab7f",
+   "title": "Execution of Fort Hood shooter will no longer be live-streamed, Trump says",
+   "link": "https://www.deseret.com/politics/2026/10/15/execution-will-not-be-livestreamed/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The execution of the Fort Hood shooter will no longer be live-streamed for public consumption, President Donald Trump announced on Thursday, reversing a decision that garnered criticism from members of both parties. In a post on Truth Social, Trump said he believed airing the…",
+   "published": "2026-10-15T14:44:50+00:00"
+  },
+  {
+   "id": "4732b5d0bc28",
+   "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
+   "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump said some would \"rather not watch\" the execution of Nidal Hasan, the first military execution in over 60 years.",
+   "published": "2026-10-15T14:34:22+00:00"
+  },
+  {
+   "id": "cb8ac81fa153",
+   "title": "Trump says Fort Hood shooter execution will not be livestreamed",
+   "link": "https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US president reverses Pentagon's plan to publicly stream execution of Nidal Malik Hasan after outcry.",
+   "published": "2026-10-15T14:27:35+00:00"
+  },
+  {
+   "id": "45d15a8157ae",
+   "title": "Wes Streeting in US for Hegseth meeting as Ukraine tensions escalate – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/15/uk-politics-latest-news-updates-nigel-farage-reform-labour-conservatives",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Defence secretary’s meeting comes after Burnham said he would help facilitate reconciliation between Zelenskyy and Trump Labour says it’s told all of its local councils who share power with the Green Party to review their agreements after the Greens passed a “Zionism is Racism”…",
+   "published": "2026-10-15T14:25:32+00:00"
+  },
+  {
+   "id": "2d17896f1444",
+   "title": "‘Boiling point’: Why students are protesting against Albania’s Edi Rama",
+   "link": "https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Experts say Albania’s protests reflect ignored student grievances and growing frustration.",
+   "published": "2026-10-15T14:22:13+00:00"
+  },
+  {
+   "id": "ed03a64a9213",
+   "title": "Labour councils told to end agreements with Greens who do not condemn ‘Zionism is racism’ policy",
+   "link": "https://www.theguardian.com/politics/2026/oct/15/labour-councils-greens-zionism-racism",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Party chair calls on Labour groups to end local deals if Green councillors do not reject motion attacked as ‘antisemitic’ UK politics live – latest updates Labour councils who share power with the Greens have been told to terminate agreements if their Green partners do not…",
+   "published": "2026-10-15T14:21:50+00:00"
+  },
+  {
+   "id": "733e6acd82cd",
+   "title": "Trump says execution of Fort Hood shooter will not be streamed after bipartisan backlash – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President says this after backlash to decision that execution of Nidal Hasan, the US army doctor who killed 13 people at a military base in 2019, would be livestreamed Q&A: Will Trump’s economy sink the GOP in the midterms? Sign up for the Breaking News US email The US…",
+   "published": "2026-10-15T14:18:54+00:00"
+  },
+  {
+   "id": "9d133e57ad85",
+   "title": "“There is no ceasefire here”: Ten Palestinians on life in Gaza today",
+   "link": "https://www.thenewhumanitarian.org/news-feature/2026/10/15/there-no-ceasefire-here-ten-palestinians-life-gaza-today",
+   "source": "The New Humanitarian",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ten Palestinians share their experiences during three years of genocide, one-year of an unfulfilled ceasefire, and their thoughts on the future.",
+   "published": "2026-10-15T14:14:37+00:00"
+  },
+  {
+   "id": "d734772baa2b",
+   "title": "Opinion: The unpredictability of predicting politics",
+   "link": "https://www.deseret.com/opinion/2026/10/15/the-unpredictability-of-predicting-politics/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "No poll, pundit or prognosticator (Frank loves alliteration) predicts any Republican gains in the midterm elections. They suggest Republicans can hope for a blue ripple but should expect a Democratic tsunami that shifts control of the House, Senate and local offices. Are the…",
+   "published": "2026-10-15T14:12:42+00:00"
+  },
+  {
+   "id": "869772203883",
+   "title": "EU must curb energy prices to prevent people turning to populists, commissioner warns – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Dan Jørgensen said governments could find a way to subsidise fossil fuels in the short term to help tackle the cost of living Just as the leaders sit down at the big table in Brussels, Romania has said that seven people are still missing after a fire on a vessel in Romanian…",
+   "published": "2026-10-15T14:03:34+00:00"
+  },
+  {
+   "id": "227f52c75a45",
+   "title": "Resources minister faces calls to correct her claim all Beetaloo emissions will be offset",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/16/madeleine-king-calls-to-correct-claim-beetaloo-basin-emissions-offset",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Madeleine King told press club emissions from NT fossil fuel basin ‘are accounted for and offset’ but research found 95% of emissions this decade would not have to be offset Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here The resources…",
+   "published": "2026-10-15T14:00:16+00:00"
+  },
+  {
+   "id": "e6d92ada8889",
+   "title": "Queensland’s LNP has tread softly in government. It’s now baring its teeth over the power to break up workers’ strikes",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/16/queensland-lnp-workplace-laws-power-to-break-strikes",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The controversial legislation may end up placing large sections of its suburban support – critical to the party’s lead in the polls – on the bonfire Get our breaking news email , free app or daily news podcast For almost two years, the Liberal National party’s strategy for…",
+   "published": "2026-10-15T14:00:15+00:00"
+  },
+  {
+   "id": "ae548e688178",
+   "title": "Palestine book co-written by Alana Hadid pulled from Random House just before release",
+   "link": "https://www.theguardian.com/books/2026/oct/15/alana-hadid-book-palestine-penguin-cancelled",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hadid and Jenan Matari withdraw book planned for young readers after disputes with editors over characterizations of 7 October A book on Palestine for young readers was pulled at Penguin Random House just before its scheduled release, following editorial disputes between the…",
+   "published": "2026-10-15T14:00:15+00:00"
+  },
+  {
+   "id": "4bc040046464",
+   "title": "Turning 65? 5 Common Medicare Mistakes to Avoid",
+   "link": "https://www.kiplinger.com/retirement/medicare/medicare-mistakes-to-avoid",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "\"Medicare will happen when I turn 65. I don't need to think about it, right?\" Wrong. Get up to speed with the system now to prevent stress and save money later.",
+   "published": "2026-10-15T14:00:00+00:00"
+  },
+  {
+   "id": "5255f84cc908",
+   "title": "Q3 M&A Deal Volume Cools, But Consolidators May Yet Drive a Record 2026",
+   "link": "https://www.wealthmanagement.com/ria-news/q3-m-a-deal-volume-cools-but-consolidators-may-yet-drive-a-record-2026",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Reports from DeVoe, Piper Sandler and Fintrx show a lighter third-quarter deal market, but the analysts see no signs of slowing among capital-backed RIA consolidators.",
+   "published": "2026-10-15T14:00:00+00:00"
+  },
+  {
+   "id": "0ac50d0d9abf",
+   "title": "Russell Brand told woman ‘it’s just fun’ as he raped her, court hears",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/15/russell-brand-jury-alleged-rape-woman-1999-crown-court",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Southwark crown court jury is shown video of woman telling detectives about alleged attack in 1999 A woman has alleged Russell Brand told her “it’s just fun” as he raped her in a hotel room at the 1999 Labour party conference, a court has heard. The alleged victim told…",
+   "published": "2026-10-15T13:52:37+00:00"
+  },
+  {
+   "id": "d01ce53a4864",
+   "title": "The 3rd Circuit Upholds the Gun Rights of a Man Who Committed a Nonviolent Misdemeanor 2 Decades Ago",
+   "link": "https://reason.com/2026/10/15/the-3rd-circuit-upholds-the-gun-rights-of-a-man-who-committed-a-nonviolent-misdemeanor-2-decades-ago/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The appeals court said it was unconstitutional to permanently disarm Edward Williams based on a 2005 DUI conviction.",
+   "published": "2026-10-15T13:50:19+00:00"
+  },
+  {
+   "id": "0984f2036d34",
+   "title": "Bring a bottle: Viennese dog owners told to rinse pets’ urine from trees",
+   "link": "https://www.theguardian.com/world/2026/oct/15/vienna-austria-dog-owners-dilute-pet-urine-trees",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Official guidance says ammonia in animal urine should be watered down to stop it corroding bark A neighbourhood in Vienna has introduced guidelines for dog walking, including the use of bottled tap water to rinse away urine and protect vulnerable trees. Neubau, an…",
+   "published": "2026-10-15T13:50:14+00:00"
+  },
+  {
+   "id": "9b19e657d927",
+   "title": "The Rebel Tours: Money or morals?",
+   "link": "https://www.aljazeera.com/video/game-theory/2026/10/15/aje-onl-gm_rebel_v8-151026?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Some West Indies cricketers toured apartheid South Africa in the 1980's, breaking one of the biggest sporting boycotts.",
+   "published": "2026-10-15T13:48:17+00:00"
+  },
+  {
    "id": "30d1c203103a",
    "title": "Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell",
    "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
@@ -140,26 +349,15 @@
    "published": "2026-10-15T13:48:00+00:00"
   },
   {
-   "id": "0984f2036d34",
-   "title": "Bring a bottle: Viennese dog owners told to dilute their pets’ urine to protect trees",
-   "link": "https://www.theguardian.com/world/2026/oct/15/vienna-austria-dog-owners-dilute-pet-urine-trees",
-   "source": "The Guardian World",
+   "id": "366c60f440bd",
+   "title": "Al Jazeera probe exposes fake viewing numbers for Israeli counter-film",
+   "link": "https://www.aljazeera.com/news/2026/10/15/al-jazeera-probe-exposes-fake-viewing-numbers-for-israeli-counter-film?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Officials issue guidance saying the ammonia in animal urine should be watered down to stop it corroding bark A neighbourhood in Vienna has introduced guidelines for dog walking, including the use of bottled tap water to rinse away urine and protect vulnerable trees. Neubau, an…",
-   "published": "2026-10-15T13:43:25+00:00"
-  },
-  {
-   "id": "45d15a8157ae",
-   "title": "Wes Streeting in US for Hegseth meeting as Ukraine tensions escalate – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/15/uk-politics-latest-news-updates-nigel-farage-reform-labour-conservatives",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Defence secretary’s meeting comes after Burnham said he would help facilitate reconciliation between Zelenskyy and Trump Labour says it’s told all of its local councils who share power with the Green Party to review their agreements after the Greens passed a “Zionism is Racism”…",
-   "published": "2026-10-15T13:40:08+00:00"
+   "summary": "Data investigation casts doubt on claims that Israeli counter-documentary to 'NAZA' received 40 million views.",
+   "published": "2026-10-15T13:35:46+00:00"
   },
   {
    "id": "11f0242c20e9",
@@ -171,6 +369,17 @@
    "flourishing_feed": false,
    "summary": "After leaving UBS to launch Ox Road Capital, Michael Lee, Steve Armaly, and their partners crossed $1B in AUM in just 225 days. They share how years of client trust, partner alignment and a client-first vision helped make it possible.",
    "published": "2026-10-15T13:34:58+00:00"
+  },
+  {
+   "id": "3a1458081a26",
+   "title": "What is Starshield, and who limited Ukraine’s access to it?",
+   "link": "https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine relies on Starshield, the military-grade version of Elon Musk's Starlink satellite service, to fight Russia.",
+   "published": "2026-10-15T13:32:16+00:00"
   },
   {
    "id": "f9a906c218f8",
@@ -228,15 +437,15 @@
    "published": "2026-10-15T13:30:01+00:00"
   },
   {
-   "id": "869772203883",
-   "title": "Zelenskyy says latest Russian attacks come ‘in response to signals from US’ – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
-   "source": "The Guardian World",
+   "id": "f1d7fb36446e",
+   "title": "Russia accuses Ukraine of contradicting US brokered deal",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russia-accuses-ukraine-of-contradicting-us-brokered-deal?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Ukrainian president warns of ‘dangerous signals about the possibility of further sanctions relief’ after Russian strike on a supermarket Just as the leaders sit down at the big table in Brussels, Romania has said that seven people are still missing after a fire on a vessel in…",
-   "published": "2026-10-15T13:26:22+00:00"
+   "summary": "Russia has accused Ukraine of going against US peace efforts, after an overnight Ukrainian drone strike.",
+   "published": "2026-10-15T13:29:38+00:00"
   },
   {
    "id": "6939677f2437",
@@ -314,17 +523,6 @@
    "flourishing_feed": false,
    "summary": "Two new forecasts spell bad news for home buyers and sellers",
    "published": "2026-10-15T13:14:00+00:00"
-  },
-  {
-   "id": "733e6acd82cd",
-   "title": "Trump returns to Washington amid midterms campaign blitz as new polls reveal voters’s concern about US economy – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Dire polling for Trump’s economy and war in Iran could spell trouble for the Republican Party as it aims to keep control of both chambers of Congress Key US voters say economy is getting worse, poll finds Q&A: Will Trump’s economy sink the GOP in the midterms? Sign up for the…",
-   "published": "2026-10-15T13:11:19+00:00"
   },
   {
    "id": "df01e8c6f69e",
@@ -1186,7 +1384,7 @@
   },
   {
    "id": "27d66edfe190",
-   "title": "Essential items to stock in your medicine cabinet for cold and flu season",
+   "title": "Make a 'sick day' kit for cold and flu season before your household gets hit",
    "link": "https://www.npr.org/2026/10/15/nx-s1-6001703/essential-items-to-stock-in-your-medicine-cabinet-for-cold-and-flu-season",
    "source": "NPR News",
    "circle_hint": "national",
@@ -1252,7 +1450,7 @@
   },
   {
    "id": "7ef3cbfca5d1",
-   "title": "For some Christians, Hegseth's plan for public execution fits a biblical mandate",
+   "title": "For some Christians, Hegseth's idea of a public execution fits a biblical mandate",
    "link": "https://www.npr.org/2026/10/15/nx-s1-6001794/fort-hood-execution-hegseth-christian-nationalist",
    "source": "NPR News",
    "circle_hint": "national",
@@ -16823,7 +17021,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Wednesday, Oct. 14, 2026 TELEVISION BASKETBALL NBL: Breakers vs. Kings, NBA TV, 2:30 a.m. Preseason: Pelicans at Mavericks, NBA TV, 6 p.m. Preseason: Nuggets at Clippers, NBA TV, 8:30 p.m. FOOTBALL Kennesaw St. at Missouri St., CBSSN, 5:30 p.m. WKU at Sam Houston, ESPN2, 6 p.m.…",
+   "summary": "Thursday, Oct. 15, 2026 TELEVISION FOOTBALL ECU at UAB, ESPN, 5:30 p.m. Georgia Southern at ODU, ESPN2, 5:30 p.m. Colorado St. at Texas St., CBSSN, 6 p.m. Viewmont at Woods Cross, KJZZ/KMYU, 7 p.m. GOLF World India Championship, GOLF, 2 a.m. Buick LPGA Shanghai, GOLF, 9 p.m.…",
    "published": "2026-10-11T06:00:00+00:00"
   },
   {
