@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T17:43:19.375808+00:00",
+ "generated": "2026-10-15T18:53:45.941966+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 25
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,292 @@
  ],
  "items": [
   {
+   "id": "d7e560e668e9",
+   "title": "Decoding the ballot: How to read a school referendum question",
+   "link": "https://mirrorindy.org/indianapolis-school-referendum-explaining-the-ballot-question-fall-2026-midterm-elections/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mirror Indy explains what that long question at the end of your ballot actually means. The post Decoding the ballot: How to read a school referendum question appeared first on Mirror Indy .",
+   "published": "2026-10-15T18:40:35+00:00"
+  },
+  {
+   "id": "5e100b7aafd7",
+   "title": "America's historic preservation law is in peril, advocates say. Here's what's at stake",
+   "link": "https://www.npr.org/2026/10/15/nx-s1-6001504/section-106-historic-preservation-act-threats-anniversary",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Congress and a federal agency are threatening to weaken the country's historic preservation law, fueling a backlash that critics say is as fiery as the one that led to the law's creation 60 years ago.",
+   "published": "2026-10-15T18:38:05+00:00"
+  },
+  {
+   "id": "733e6acd82cd",
+   "title": "Pentagon says Trump and Hegseth ‘completely aligned’ on decision to cancel livestream of firing squad execution – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pentagon spokesperson says pair spoke before announcement canceling plan to broadcast execution of Nidal Hasan, who killed 13 people at Fort Hood Q&A: Will Trump’s economy sink the GOP in the midterms? Sign up for the Breaking News US email The US government could spend…",
+   "published": "2026-10-15T18:37:44+00:00"
+  },
+  {
+   "id": "f2d49cabc101",
+   "title": "Tropical Storm Rachel’s remnants are gone, but they left a record-high benefit",
+   "link": "https://www.deseret.com/utah/2026/10/15/tropical-storm-rachels-remnants-are-gone-but-they-left-a-record-high-benefits/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The remnants of what was once Hurricane Rachel ultimately delivered big totals across drought-stricken Utah, which translated into multiple benefits heading into winter.",
+   "published": "2026-10-15T18:37:36+00:00"
+  },
+  {
+   "id": "01aaa287ad35",
+   "title": "A tax hike or $20M in cuts: Wayne Township’s future on the ballot",
+   "link": "https://mirrorindy.org/wayne-township-referendum-2026-election/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Without voters’ support, the westside school district could cut jobs and student programs. The post A tax hike or $20M in cuts: Wayne Township’s future on the ballot appeared first on Mirror Indy .",
+   "published": "2026-10-15T18:36:38+00:00"
+  },
+  {
+   "id": "6d2054152532",
+   "title": "FBI investigates letters with ‘unknown substance’ sent to US election officials",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Election officers in Louisiana and Oklahoma receive a powdery substance, prompting evacuations The FBI and the US Postal Inspection Service are investigating letters sent to state officials and election offices across the country containing an “unknown substance”. Just weeks…",
+   "published": "2026-10-15T18:36:28+00:00"
+  },
+  {
+   "id": "8867809ddfc3",
+   "title": "‘Those are the guys that you cheer for’: Utah LB never gave up — or transferred. Now he’s starting for No. 11 Utes",
+   "link": "https://www.deseret.com/sports/2026/10/15/why-trey-reynolds-stayed-at-utah-family-tait-reynolds/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For three seasons, Utah linebacker Trey Reynolds patiently waited his turn behind some great linebackers. Devin Lloyd , Karene Reid, Lander Barton and Levani Damuni, to name a few, were all playing at Utah at one point or another during Reynolds’ first three seasons. The…",
+   "published": "2026-10-15T18:29:56+00:00"
+  },
+  {
+   "id": "e48c5c790273",
+   "title": "The 8th Circuit Rejects Qualified Immunity for a Judge Who Jailed 2 Kids for 'Refusing To Follow Directions'",
+   "link": "https://reason.com/2026/10/15/the-8th-circuit-rejects-qualified-immunity-for-a-judge-who-jailed-2-kids-for-refusing-to-follow-directions/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Frustrated by the children's resistance to a parental custody decision, Judge Eric Eighmy locked them in cells until they became more cooperative.",
+   "published": "2026-10-15T18:25:27+00:00"
+  },
+  {
+   "id": "9c6acb82643f",
+   "title": "Big pharma stocks near all-time highs as tech selloff pushes investors toward safer bets",
+   "link": "https://www.marketwatch.com/story/big-pharma-stocks-near-all-time-highs-as-tech-selloff-pushes-investors-toward-safer-bets-0a5d5d07?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Shares of AbbVie, Eli Lilly and Gilead Sciences are trading at or near record highs.",
+   "published": "2026-10-15T18:25:00+00:00"
+  },
+  {
+   "id": "8632e845b8a6",
+   "title": "Ahead of US midterms, voters are frustrated with Trump, want change: Poll",
+   "link": "https://www.aljazeera.com/news/2026/10/15/ahead-of-us-midterms-voters-are-frustrated-with-trump-want-change-poll?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Widespread voter disillusionment and pocketbook anxieties set a volatile stage for the GOP weeks before election night.",
+   "published": "2026-10-15T18:17:57+00:00"
+  },
+  {
+   "id": "b5e08a802f1b",
+   "title": "Will Anyone Stop America’s Creeping Socialism?",
+   "link": "https://thedispatch.com/newsletter/dispatch-markets/trump-socialism-equity-stakes-legality/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "No laws let the executive branch do equity deals; that could make it harder to undo them.",
+   "published": "2026-10-15T18:14:46+00:00"
+  },
+  {
+   "id": "c1ef60b57ace",
+   "title": "An Australian band’s ‘unreal’ journey to break a gig world record",
+   "link": "https://www.bbc.co.uk/news/videos/c62keqn7wpwdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
+   "published": "2026-10-15T18:09:58+00:00"
+  },
+  {
+   "id": "34217d6a0ccd",
+   "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
+   "link": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "UK defence secretary trying to cool tensions and is arguing it is in America’s economic interests to support Kyiv Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the…",
+   "published": "2026-10-15T18:09:14+00:00"
+  },
+  {
+   "id": "a930062ee9ec",
+   "title": "Democrats plan investigations, inflation relief if they reclaim Congress",
+   "link": "https://www.csmonitor.com/USA/Politics/2026/1015/congress-midterms-democrats-jeffries?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Democratic Party leaders are outlining priorities should the party retake one or both chambers of Congress come November.",
+   "published": "2026-10-15T18:05:24+00:00"
+  },
+  {
+   "id": "0ac50d0d9abf",
+   "title": "Russell Brand forced alleged rape victim to take photos of him half naked, trial told",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/15/russell-brand-jury-alleged-rape-woman-1999-crown-court",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Woman claims comedian ‘pranced around like an ostrich’ before forcing himself on her in hotel room attack Russell Brand transformed into a “monster” when he allegedly forced a woman to take half-naked photographs of him before raping her in a hotel room at the Labour party…",
+   "published": "2026-10-15T18:01:27+00:00"
+  },
+  {
+   "id": "2d63366bf522",
+   "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+   "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+   "published": "2026-10-15T18:01:00+00:00"
+  },
+  {
+   "id": "4564e93c4a67",
+   "title": "UK HRT shortages: which products are affected and what to do about it",
+   "link": "https://www.theguardian.com/society/2026/oct/15/uk-hrt-shortages-which-products-are-affected-and-what-to-do-about-it",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Experts say seeking alternatives that deliver the same dose of oestrogen by the same method is key Women in the UK are again facing shortages of some HRT products, with warnings they could persist for weeks. We take a look at the situation. Continue reading...",
+   "published": "2026-10-15T17:58:40+00:00"
+  },
+  {
+   "id": "1a758cc6e016",
+   "title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters answered your questions",
+   "link": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The high cost of living has Americans angrier than ever. Guardian reporters answered your questions about the US economy ahead of November Sign up for the Stakes newsletter for more midterms coverage Send us your questions on Trump’s immigration agenda ahead of the midterms…",
+   "published": "2026-10-15T17:56:50+00:00"
+  },
+  {
+   "id": "13827876f378",
+   "title": "What Happens When 2 Dan Sullivans Run for the Same Senate Seat?",
+   "link": "https://reason.com/2026/10/15/what-happens-when-2-dan-sullivans-run-for-the-same-senate-seat/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Should it be illegal to run for office against someone with your same name?",
+   "published": "2026-10-15T17:55:40+00:00"
+  },
+  {
+   "id": "140be545ef7e",
+   "title": "Trump ramps up third-country US deportations despite global rights outcry",
+   "link": "https://www.aljazeera.com/news/2026/10/15/trump-ramps-up-third-country-us-deportations-despite-global-rights-outcry?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Official data shows tens of thousands of migrants and asylum seekers have been sent to countries they have no ties to.",
+   "published": "2026-10-15T17:54:26+00:00"
+  },
+  {
+   "id": "090584bc945e",
+   "title": "Albania’s prime minister vows not to resign over student-led protests",
+   "link": "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Demonstrators demand resignation of Edi Rama after three days of clashes in capital Tirana Albania’s prime minister has said he will not resign as a protest movement, initially prompted by a proposal to build a Trump family-backed resort in the Balkan state, turned violent with…",
+   "published": "2026-10-15T17:52:49+00:00"
+  },
+  {
+   "id": "b48ab2173b7e",
+   "title": "Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.",
+   "link": "https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Spending all your cash first can make your income surge in later years.",
+   "published": "2026-10-15T17:52:00+00:00"
+  },
+  {
+   "id": "5e92a13b08eb",
+   "title": "Texas sued after glitch delays almost 600,000 voter registrations",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/texas-glitch-delay-voter-registrations",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Voting registration organizations accuse Texas officials of failing to ensure eligible voters can register properly Texas election officials are struggling to process a massive backlog of nearly 600,000 voter registration applications after a major state computer system…",
+   "published": "2026-10-15T17:49:57+00:00"
+  },
+  {
+   "id": "33c4f939b980",
+   "title": "People Moves: Advisor Vet Joins RIA Ballast Rock; UBS Leaders Join &Partners",
+   "link": "https://www.wealthmanagement.com/career-moves/people-moves-advisor-vet-joins-ria-ballast-rock-ubs-leaders-join-partners",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In other people moves, T.D. Bank appoints a new U.S. wealth head, MAI Capital hires a former Barron's editor, and EP Wealth hires a Denver-based advisor from Curi RMB Capital.",
+   "published": "2026-10-15T17:49:22+00:00"
+  },
+  {
+   "id": "4732b5d0bc28",
+   "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+   "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+   "published": "2026-10-15T17:47:22+00:00"
+  },
+  {
+   "id": "3f5e9f7a6bb1",
+   "title": "A mother’s touch helps premature babies grow strong in Gaza",
+   "link": "https://www.aljazeera.com/features/2026/10/15/a-mothers-touch-helps-premature-babies-grow-strong-in-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At Nasser Hospital, a kangaroo mother care pilot programme helps vulnerable newborns.",
+   "published": "2026-10-15T17:43:01+00:00"
+  },
+  {
    "id": "deab0b9d17e9",
    "title": "Transactional politics once defined Mexican elections. It still creeps into governance.",
    "link": "https://www.csmonitor.com/World/Americas/2026/1015/midterms-clientelism-transactions-mexico-us-politics?icid=rss",
@@ -140,6 +426,17 @@
    "published": "2026-10-15T17:41:19+00:00"
   },
   {
+   "id": "458df390cc49",
+   "title": "Social Security Is Running Out of Money. Benefits Are Rising 3.6% Next Year Anyway.",
+   "link": "https://reason.com/2026/10/15/social-security-is-running-out-of-money-benefits-are-rising-3-6-next-year-anyway/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Congress has yet to address a looming funding shortfall that could leave the retirement program unable to pay 22 percent of scheduled benefits by 2032.",
+   "published": "2026-10-15T17:40:47+00:00"
+  },
+  {
    "id": "c6fa11337fd3",
    "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
    "link": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
@@ -149,6 +446,17 @@
    "flourishing_feed": false,
    "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives.",
    "published": "2026-10-15T17:31:37+00:00"
+  },
+  {
+   "id": "a7837e6e1f9a",
+   "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
+   "link": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Nato source says drones came from Russia, while Romania’s president says attacking commercial ships ‘is unacceptable and has to stop’ Seven sailors are missing after drones struck two tankers near Romania’s Black Sea ⁠coast, setting them ablaze and raising ⁠fresh security…",
+   "published": "2026-10-15T17:31:30+00:00"
   },
   {
    "id": "daef34140f71",
@@ -171,17 +479,6 @@
    "flourishing_feed": false,
    "summary": "The Department of Transportation's new rule limits your right to compensation for delayed flights.",
    "published": "2026-10-15T17:30:00+00:00"
-  },
-  {
-   "id": "1a758cc6e016",
-   "title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters take your questions live",
-   "link": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The high cost of living has Americans angrier than ever. Guardian reporters answer your questions now about the economy before voters head to the polls Sign up or sign in to ask your question LucccA asks: Why are labor unions in the US still not as well-organized compared to…",
-   "published": "2026-10-15T17:26:48+00:00"
   },
   {
    "id": "6cbf6bf3715b",
@@ -226,6 +523,28 @@
    "flourishing_feed": false,
    "summary": "The late and legendary LaVell Edwards picked up 257 wins in his 29-year head coaching career, but a victory that stands out a little more than most of the others occurred on this day 32 years ago. On Oct. 15, 2004, Edwards’ BYU Cougars stunned Notre Dame 21-14 at Notre Dame…",
    "published": "2026-10-15T17:20:59+00:00"
+  },
+  {
+   "id": "76de81fb62e3",
+   "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+   "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+   "published": "2026-10-15T17:18:49+00:00"
+  },
+  {
+   "id": "c815dea3aa28",
+   "title": "Trump: Execution of Fort Hood shooter will not be livestreamed",
+   "link": "https://indianacapitalchronicle.com/2026/10/15/repub/trump-execution-of-fort-hood-shooter-will-not-be-livestreamed/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "WASHINGTON — President Donald Trump Thursday announced that the execution of a man convicted of the Fort Hood shooting will not be livestreamed, a reversal after Defense Secretary Pete Hegseth said last week that Nidal Hasan’s death by firing squad would be public. “I think…",
+   "published": "2026-10-15T17:18:48+00:00"
   },
   {
    "id": "1d7f84b32da5",
@@ -305,28 +624,6 @@
    "published": "2026-10-15T17:07:00+00:00"
   },
   {
-   "id": "6d2054152532",
-   "title": "FBI investigates letters with ‘unknown substance’ sent to US election officials",
-   "link": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Election officers in Louisiana and Oklahoma receive a powdery substance, prompting evacuations The FBI and the US Postal Inspection Service are investigating letters sent to state officials and election offices across the country containing an “unknown substance”. Just weeks…",
-   "published": "2026-10-15T17:06:53+00:00"
-  },
-  {
-   "id": "733e6acd82cd",
-   "title": "Pentagon says Trump and Hegseth ‘completely aligned’ on decision to cancel livestream of firing squad execution – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Pentagon spokesperson says pair spoke before announcement canceling plan to broadcast execution of Nidal Hasan, who killed 13 people at Fort Hood Q&A: Will Trump’s economy sink the GOP in the midterms? Sign up for the Breaking News US email The US government could spend…",
-   "published": "2026-10-15T17:06:47+00:00"
-  },
-  {
    "id": "7e8777e79d46",
    "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
    "link": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
@@ -402,17 +699,6 @@
    "flourishing_feed": false,
    "summary": "Fault Lines investigates the soaring death rates in immigration detention centres following President Trump’s crackdown.",
    "published": "2026-10-15T17:00:00+00:00"
-  },
-  {
-   "id": "a7837e6e1f9a",
-   "title": "Seven sailors missing after drones strike tankers near Romania’s Black Sea coast",
-   "link": "https://www.theguardian.com/world/2026/oct/15/sailors-missing-drone-strike-tankers-romania-black-sea-coast",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Nato source says drones came from Russia, while Romania’s president says attacking commercial ships ‘is unacceptable and has to stop’ Seven sailors are missing after drones struck two tankers near Romania’s Black Sea ⁠coast, setting them ablaze and raising ⁠fresh security…",
-   "published": "2026-10-15T16:57:41+00:00"
   },
   {
    "id": "19a183ac6d05",
@@ -589,17 +875,6 @@
    "flourishing_feed": false,
    "summary": "They allege ChatGPT has caused harm to their residents, coaching its users to harm themselves or others.",
    "published": "2026-10-15T16:28:44+00:00"
-  },
-  {
-   "id": "4732b5d0bc28",
-   "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-   "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-   "published": "2026-10-15T16:28:10+00:00"
   },
   {
    "id": "e28f381fe958",
@@ -1049,7 +1324,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries Europe live – latest updates The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has…",
+   "summary": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record…",
    "published": "2026-10-15T15:01:10+00:00"
   },
   {
@@ -1073,6 +1348,17 @@
    "flourishing_feed": false,
    "summary": "Santiago Caputo cites election of Sagal Abdi-Wali as MP and calls UK a threat to the west in post shared by Argentina’s president The chief adviser to Argentina’s president, Javier Milei, has cited the election of Sagal Abdi-Wali to the UK parliament as evidence of the…",
    "published": "2026-10-15T15:00:23+00:00"
+  },
+  {
+   "id": "3e70872143e9",
+   "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
+   "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A 75,000-year-old Neanderthal spear wound may be evidence violence shaped human life far earlier than thought.",
+   "published": "2026-10-15T15:00:05+00:00"
   },
   {
    "id": "8b81d0ad1f0a",
@@ -1238,17 +1524,6 @@
    "flourishing_feed": false,
    "summary": "Reports from DeVoe, Piper Sandler and Fintrx show a lighter third-quarter deal market, but the analysts see no signs of slowing among capital-backed RIA consolidators.",
    "published": "2026-10-15T14:00:00+00:00"
-  },
-  {
-   "id": "0ac50d0d9abf",
-   "title": "Russell Brand told woman ‘it’s just fun’ as he raped her, court hears",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/15/russell-brand-jury-alleged-rape-woman-1999-crown-court",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Southwark crown court jury is shown video of woman telling detectives about alleged attack in 1999 A woman has alleged Russell Brand told her “it’s just fun” as he raped her in a hotel room at the 1999 Labour party conference, a court has heard. The alleged victim told…",
-   "published": "2026-10-15T13:52:37+00:00"
   },
   {
    "id": "d01ce53a4864",
@@ -1436,17 +1711,6 @@
    "flourishing_feed": false,
    "summary": "A 4.2% higher wage base means more taxes for some earners next year.",
    "published": "2026-10-15T13:17:00+00:00"
-  },
-  {
-   "id": "2d63366bf522",
-   "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-   "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-   "published": "2026-10-15T13:16:00+00:00"
   },
   {
    "id": "8b35c40ae0eb",
@@ -1887,17 +2151,6 @@
    "flourishing_feed": false,
    "summary": "Plus: Ukraine says Starlink is partly back after an outage, inflation hits 3.7 percent ahead of the midterms, and a huge dachshund.",
    "published": "2026-10-15T10:39:46+00:00"
-  },
-  {
-   "id": "090584bc945e",
-   "title": "Albania’s prime minister vows not to resign over student-led protests",
-   "link": "https://www.theguardian.com/world/2026/oct/15/albania-prime-minister-edi-rama-vows-not-to-resign-student-led-protests",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Demonstrators are demanding resignation of Edi Rama after three days of clashes in Tirana Albania’s prime minister, Edi Rama, has said he will not resign over student-led demonstrations, as protesters and police clashed in the country’s capital for a third consecutive day.…",
-   "published": "2026-10-15T10:34:51+00:00"
   },
   {
    "id": "60f7d9046769",
@@ -2415,6 +2668,17 @@
    "flourishing_feed": false,
    "summary": "Argentina defender Lisandro Martinez follows up criticism of his club with social media explanation of frustration.",
    "published": "2026-10-15T08:27:32+00:00"
+  },
+  {
+   "id": "8f36c56e64b3",
+   "title": "Pakistan school roof collapse kills at least 34 children and teacher",
+   "link": "https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Another three pupils from al-Khair school in Peshawar in critical condition after search for survivors At least 34 schoolchildren and a female teacher have died after the roof of a school collapsed during morning classes in the northern Pakistani city ⁠of Peshawar. As panicked…",
+   "published": "2026-10-15T08:25:33+00:00"
   },
   {
    "id": "bc333ede52a4",
@@ -11083,6 +11347,17 @@
    "flourishing_feed": false,
    "summary": "Trump’s reform law that seeks to make coverage harder to get, and to keep, includes working 80 hours per month It is a date keeping US healthcare providers up at night: 1 January 2027. As the midterm elections loom, everyone from hospital leaders and to patient advocates are…",
    "published": "2026-10-13T10:00:03+00:00"
+  },
+  {
+   "id": "b8c4c7c82123",
+   "title": "Opinion: Mothers could be integral to raising moral AI models",
+   "link": "https://www.deseret.com/opinion/2026/10/13/if-you-want-moral-ai-ask-a-mother/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Anthropic has been consulting religious thinkers about how to make its artificial intelligence moral. Recently , its co-founder Chris Olah asked: “How do you help . . . [AI models] be stable? How do you help them to mature? How do you help them be, you know, deeply moral?” As a…",
+   "published": "2026-10-13T10:00:01+00:00"
   },
   {
    "id": "eeec506520ba",
@@ -78194,17 +78469,6 @@
    "flourishing_feed": false,
    "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
    "published": "2026-09-01T04:00:00+00:00"
-  },
-  {
-   "id": "a0c8d6fac6b8",
-   "title": "SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity",
-   "link": "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity",
-   "source": "SEC Press Releases",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "The Securities and Exchange Commission and the Food and Drug Administration today announced that they have entered into a Memorandum of Understanding (MOU) designed to assist the agencies in carrying out their respective missions of ensuring the…",
-   "published": "2026-08-31T18:24:32+00:00"
   }
  ]
 }
