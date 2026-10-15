@@ -107006,5 +107006,37 @@
   "decision": "exclude",
   "exclusion": "low durability",
   "persistent": false
+ },
+ "8c4c4fc73b67": {
+  "story_key": "5-year-old-holly-rowe",
+  "durability": 4,
+  "circle": "national",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 8.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the national bar",
+  "persistent": false
+ },
+ "eae286981656": {
+  "story_key": "white-house-spokesperson-katie-zacharia",
+  "durability": 7,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 7.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
  }
 }
