@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T20:45:18.896635+00:00",
+ "generated": "2026-10-15T21:45:04.485573+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,204 @@
  ],
  "items": [
   {
+   "id": "38cb098b6aec",
+   "title": "Letters with 'suspicious substances' sent to US senators and election offices",
+   "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
+   "published": "2026-10-15T21:42:26+00:00"
+  },
+  {
+   "id": "09616bba0d72",
+   "title": "Eleventh Circuit Rejects Netchoice's Challenge to Georgia Law Restricting Under-16-Year-Old Social Media Access",
+   "link": "https://reason.com/volokh/2026/10/15/eleventh-circuit-rejects-netchoices-challenge-to-georgia-law-restricting-under-16-year-old-social-media-access/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "From today's Eleventh Circuit opinion in Netchoice v. Attorney General, by Judge Kevin Newsom, joined by Judges Robert Luck and… The post Eleventh Circuit Rejects Netchoice's Challenge to Georgia Law Restricting Under-16-Year-Old Social Media Access appeared first on Reason…",
+   "published": "2026-10-15T21:34:58+00:00"
+  },
+  {
+   "id": "b17c1378d980",
+   "title": "Opinion: Why I’m voting ‘No’ on Amendment B",
+   "link": "https://www.deseret.com/opinion/2026/10/15/why-im-voting-no-on-amendment-b/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This summer, our nation celebrated the 250th anniversary of the Declaration of Independence . Among the treasured words in that document are these: “Governments are instituted among Men, deriving their just powers from the consent of the governed — That whenever any Form of…",
+   "published": "2026-10-15T21:26:42+00:00"
+  },
+  {
+   "id": "733e6acd82cd",
+   "title": "Pentagon says Trump and Hegseth ‘completely aligned’ on decision to cancel livestream of firing squad execution – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pentagon spokesperson says pair spoke before announcement canceling plan to broadcast execution of Nidal Hasan, who killed 13 people at Fort Hood Q&A: Our reporters answered your questions about the US economy and the midterm elections Sign up for the Breaking News US email The…",
+   "published": "2026-10-15T21:25:32+00:00"
+  },
+  {
+   "id": "30d1c203103a",
+   "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
+   "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
+   "published": "2026-10-15T21:23:00+00:00"
+  },
+  {
+   "id": "077dbbd76cce",
+   "title": "Don’t ditch tech stocks just yet. Make these moves to take advantage of the latest AI reset.",
+   "link": "https://www.marketwatch.com/story/dont-ditch-tech-stocks-just-yet-make-these-moves-to-take-advantage-of-the-latest-ai-reset-cb70c7b2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Investors have a ‘love-hate relationship’ with tech stocks now — and experts recommend selectively hunting for bargains while also betting on the major cloud companies.",
+   "published": "2026-10-15T21:21:00+00:00"
+  },
+  {
+   "id": "2d75b068cb40",
+   "title": "Several people dead or missing after Istanbul floods",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/several-people-dead-or-missing-after-istanbul-floods?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three people have died and several are reported missing after torrential rain triggered severe flooding across Istanbul",
+   "published": "2026-10-15T21:15:46+00:00"
+  },
+  {
+   "id": "0bb09da002ec",
+   "title": "Why Some Americans Living Abroad Would Rather Renounce Their Citizenship Than File Taxes",
+   "link": "https://reason.com/2026/10/15/why-some-americans-living-abroad-would-rather-renounce-their-citizenship-than-file-taxes/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Most Americans who reside overseas owe the IRS nothing, but complying with U.S. financial regulations can cost them their foreign bank accounts.",
+   "published": "2026-10-15T21:15:24+00:00"
+  },
+  {
+   "id": "00114a70b39a",
+   "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+   "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two people were severely injured and evacuated by helicopter but no one's life appeared to be in danger, officials said.",
+   "published": "2026-10-15T21:12:14+00:00"
+  },
+  {
+   "id": "3d9fef9e774f",
+   "title": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An Israeli spyware disguised as a digital advertisement firm has targeted journalists’ devices at Al Jazeera.",
+   "published": "2026-10-15T21:05:01+00:00"
+  },
+  {
+   "id": "a4293aea2653",
+   "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
+   "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
+   "published": "2026-10-15T21:03:00+00:00"
+  },
+  {
+   "id": "ee3c7b236397",
+   "title": "ICE tactics spark debate before pivotal US midterm elections",
+   "link": "https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Polls have found that Trump's hardline immigration enforcement effort has divided voters before the 2026 midterm race.",
+   "published": "2026-10-15T21:02:31+00:00"
+  },
+  {
+   "id": "20aace3b82b5",
+   "title": "US intel pause, Starlink outages leave Ukraine vulnerable to Russian attack",
+   "link": "https://www.csmonitor.com/World/Europe/2026/1015/ukraine-starlink-russia-energy-truce-trump-drone-interceptors?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "When U.S. warnings and Starlink support shut off this week, Ukraine was left exposed to Russian drones. Kyiv has few alternatives available.",
+   "published": "2026-10-15T21:01:06+00:00"
+  },
+  {
+   "id": "1265693168fb",
+   "title": "Ilhan Omar vs. DHS, Russia vs. Ukraine, Shane Gillis vs. Women",
+   "link": "https://reason.com/podcast/2026/10/15/ilhan-omar-vs-dhs-russia-vs-ukraine-shane-gillis-vs-women/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Robby Soave and Christian Britschgi somehow manage to cover domestic politics, foreign policy, culture wars, and the latest movies in this jam-packed episode of Freed Up.",
+   "published": "2026-10-15T21:00:09+00:00"
+  },
+  {
+   "id": "782adb50b125",
+   "title": "Robots dance the ‘Macarena’ at Japan tech expo",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/robots-dance-the-macarena-at-japan-tech-expo?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Humanoid robots were seen performing the “Macarena” at the annual CEATEC technology exhibition in Chiba, Japan.",
+   "published": "2026-10-15T21:00:01+00:00"
+  },
+  {
+   "id": "0379fd9bcbd5",
+   "title": "California faces more extreme weather as hot, windy days raise wildfire risk",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/wildfire-california-high-temperatures-strong-winds",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Warnings come as Californians have already in autumn felt brutal heatwave and storm surge that battered coast Communities across California are bracing for more dangerous weather this week, with strong winds and high temperatures that could set the stage for rapid wildfire…",
+   "published": "2026-10-15T20:56:02+00:00"
+  },
+  {
+   "id": "268b02329c07",
+   "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
+   "link": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In this first episode of Your Turn with Allison Aubrey , we explore the science of the flow state with violinist Diane Allen, who lost her flow and then tried to find it again, and also from Dr. Richard Huskey, who studies the flow state and how each of us can find it.",
+   "published": "2026-10-15T20:50:53+00:00"
+  },
+  {
+   "id": "e1f98af4d172",
+   "title": "US winter is likely to be wetter and warmer, forecasters say, with more snow in the south",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/winter-weather-snow-rain",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "El Niño will likely shift weather patterns to bring more rain, but much snow still isn’t forecast for the northern sates Winter in the United States looks like it will generally be wetter and warmer, but not necessarily snowier, according to the federal government’s seasonal…",
+   "published": "2026-10-15T20:44:18+00:00"
+  },
+  {
    "id": "9a655b26d93c",
    "title": "Investors are dumping AI stocks as ‘tech wreck’ worsens. Here’s where they’re turning now.",
    "link": "https://www.marketwatch.com/story/traders-pile-into-bonds-and-defensive-stocks-as-the-tech-wreck-picks-up-steam-48c04374?mod=mw_rss_topstories",
@@ -174,7 +372,7 @@
   },
   {
    "id": "fdb0d94cb4ae",
-   "title": "College Football Playoff expansion looks likely. Do fans actually want 24 teams?",
+   "title": "Do fans actually want 24 teams in an expanded College Football Playoff?",
    "link": "https://www.deseret.com/sports/2026/10/15/college-football-playoff-expansion-is-gaining-momentum/",
    "source": "Deseret News",
    "circle_hint": "national",
@@ -383,7 +581,7 @@
   },
   {
    "id": "028e713df8d7",
-   "title": "When faiths act together, they can quench world’s spiritual thirst, Latter-day Saint apostle says",
+   "title": "The world is spiritually thirsty. It needs religions to work together, Latter-day Saint apostle says",
    "link": "https://www.deseret.com/faith/2026/10/15/interfaith-action-can-help-heal-world-elder-soares-forum-on-faith/",
    "source": "Deseret News",
    "circle_hint": "national",
@@ -393,15 +591,15 @@
    "published": "2026-10-15T19:36:38+00:00"
   },
   {
-   "id": "733e6acd82cd",
-   "title": "Pentagon says Trump and Hegseth ‘completely aligned’ on decision to cancel livestream of firing squad execution – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
+   "id": "a038cad82e8a",
+   "title": "Webinar: Financial Intelligence Fusion Center (FIFC) for Small Firms",
+   "link": "https://www.finra.org/events-training/conferences-events/small-firms-fifc-webinar",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Pentagon spokesperson says pair spoke before announcement canceling plan to broadcast execution of Nidal Hasan, who killed 13 people at Fort Hood Q&A: Our reporters answered your questions about the US economy and the midterm elections Sign up for the Breaking News US email The…",
-   "published": "2026-10-15T19:30:04+00:00"
+   "summary": "Webinar: Financial Intelligence Fusion Center (FIFC) for Small Firms K30658 Thu, 10/15/2026 - 15:30 Designed for small firms, this session will highlight the practical value small firms are gaining from the FIFC today, from the rapid delivery of actionable intelligence to…",
+   "published": "2026-10-15T19:30:15+00:00"
   },
   {
    "id": "bdd6aa2e49ff",
@@ -415,17 +613,6 @@
    "published": "2026-10-15T19:30:00+00:00"
   },
   {
-   "id": "a4293aea2653",
-   "title": "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
-   "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
-   "published": "2026-10-15T19:26:00+00:00"
-  },
-  {
    "id": "011c0faf9d8f",
    "title": "Here’s what Indy’s new chief equity officer wants to accomplish",
    "link": "https://mirrorindy.org/indianapolis-chief-equity-officer-plan-margarette-webb-joe-hogsett/",
@@ -435,17 +622,6 @@
    "flourishing_feed": false,
    "summary": "First up: a 90-day listening tour with city departments to get “unfiltered thoughts.” The post Here’s what Indy’s new chief equity officer wants to accomplish appeared first on Mirror Indy .",
    "published": "2026-10-15T19:25:27+00:00"
-  },
-  {
-   "id": "38cb098b6aec",
-   "title": "Letters with 'suspicious substances' sent to US election offices",
-   "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
-   "published": "2026-10-15T19:13:09+00:00"
   },
   {
    "id": "180a88adfa63",
@@ -466,7 +642,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Exclusive: ITV investigation shows leader stood by mayoral candidate who said Labour MP should ‘go home to the Caribbean’ Nigel Farage was told by a senior Reform official that he was “protecting” a high-profile mayoral candidate accused of making racists comments about David…",
+   "summary": "Exclusive: ITV investigation shows leader stood by mayoral candidate who said Labour MP should ‘go home to the Caribbean’ Nigel Farage was told by a senior Reform official that he was “protecting” a high-profile mayoral candidate accused of making racist comments about David…",
    "published": "2026-10-15T19:09:46+00:00"
   },
   {
@@ -1106,17 +1282,6 @@
    "flourishing_feed": false,
    "summary": "The firms will collectively pay $4.4 million to settle claims by the North American Securities Administrators Association alleging that they charged unreasonable commissions to retail clients.",
    "published": "2026-10-15T16:57:39+00:00"
-  },
-  {
-   "id": "30d1c203103a",
-   "title": "Nvidia and other chip stocks face renewed pressure as AI fears swell",
-   "link": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Reported details about Anthropic’s financial progress are adding to concerns about the health of the AI ecosystem.",
-   "published": "2026-10-15T16:55:00+00:00"
   },
   {
    "id": "4251365e091b",
