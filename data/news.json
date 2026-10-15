@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T02:45:52.683252+00:00",
+ "generated": "2026-10-15T03:46:10.999379+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -130,14 +130,113 @@
  "items": [
   {
    "id": "42190b3298c1",
-   "title": "Australian politics live: Greens vow to table bill to block US execution livestream; government considering allowing individuals to sue tech platforms",
+   "title": "Australian politics live: Wells says ‘manosphere’ podcasts and moon landing conspiracies allowed under Labor duty of care reform",
    "link": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Private health insurance changes ‘recalibrating precious taxpayer dollars’, says Wells The health minister, Mark Butler, yesterday promised to reintroduce a bill to reduce private health…",
-   "published": "2026-10-15T02:22:57+00:00"
+   "published": "2026-10-15T03:33:12+00:00"
+  },
+  {
+   "id": "9beea0a36415",
+   "title": "Teenager dies as heavy rain floods Istanbul",
+   "link": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Roads collapse and hospitals take in water as floods swamp Turkiye's largest city, shutting schools and halting traffic.",
+   "published": "2026-10-15T03:12:02+00:00"
+  },
+  {
+   "id": "ad2f1d16b121",
+   "title": "Texas Democrat James Talarico faces grilling from voters at town hall in tight Senate race",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/texas-democrat-james-talarico-televised-town-hall-us-politics",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Talarico casts himself as a moderate who would put Texans’ needs over party allegiances amid close contest against Republican Ken Paxton James Talarico, the Texas Democratic nominee for Senate, sat face to face with several undecided voters who grilled him on a slew of…",
+   "published": "2026-10-15T03:08:18+00:00"
+  },
+  {
+   "id": "e0122b3b913e",
+   "title": "Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ",
+   "link": "https://www.aljazeera.com/news/2026/10/15/trump-administration-seeks-to-strip-ilhan-omar-of-us-citizenship-wsj?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Investigators have subpoenaed relatives and examined immigration records, the newspaper reports.",
+   "published": "2026-10-15T03:03:00+00:00"
+  },
+  {
+   "id": "db870a7a0b5f",
+   "title": "Trump plays Muslim Brotherhood card against Senate candidate El-Sayed",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/14-10-clip-trump-attacks-el-sayed-mb-us?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Donald Trump says Michigan Senate candidate Abdul El-Sayed is a member of the Muslim Brotherhood.",
+   "published": "2026-10-15T02:54:31+00:00"
+  },
+  {
+   "id": "539c8e42bc17",
+   "title": "High school boys golf: Ridgeline looks to repeat as 4A champs after Day 1 of state tournament",
+   "link": "https://www.deseret.com/sports/2026/10/14/high-school-boys-golf-4a-state-tournament-day-1-story/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Defending 4A champion Ridgeline is in prime position to repeat its state championship after Day 1 of the 4A state tournament at Palisade State Park. The Riverhawks hold a team score of 294, just six strokes ahead of second-place Crimson Cliffs. Dixie is three strokes behind the…",
+   "published": "2026-10-15T02:52:54+00:00"
+  },
+  {
+   "id": "fb5b08932d8a",
+   "title": "Kenya’s Ebola cases test preparedness beyond Nairobi",
+   "link": "https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The scare exposed gaps in how far outbreak readiness reaches Kenya’s remote communities.",
+   "published": "2026-10-15T02:45:49+00:00"
+  },
+  {
+   "id": "34a9bd72b726",
+   "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
+   "link": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Congress approves constitutional amendment that bans six-day workweeks, which could effect up to 30 million Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could affect 30 million workers and that will…",
+   "published": "2026-10-15T02:45:42+00:00"
+  },
+  {
+   "id": "7db093f63334",
+   "title": "Tunisia: What has Kais Saied achieved economically in seven years?",
+   "link": "https://www.aljazeera.com/news/2026/10/15/tunisia-what-has-kais-saied-achieved-economically-in-seven-years?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rising prices, unemployment and public debt test Saied’s economic promises.",
+   "published": "2026-10-15T02:42:21+00:00"
+  },
+  {
+   "id": "598fa979c6e7",
+   "title": "Senior Victorian public servants hid loss of up to $285m from Covid grants given to ineligible businesses",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/15/vic-gov-hid-285m-loss-from-covid-grants-corruption-watchdog-ibac-finds-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Whistleblowers applauded as Ibac finds ‘decisions were made to withhold information about the magnitude of the loss’ Senior public servants in one state covered up losses suspected to be worth hundreds of millions of dollars arising from flawed Covid-19 business support…",
+   "published": "2026-10-15T02:39:06+00:00"
   },
   {
    "id": "901bdd4b0040",
