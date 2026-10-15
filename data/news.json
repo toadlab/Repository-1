@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T00:54:25.373991+00:00",
+ "generated": "2026-10-15T01:43:28.933859+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,17 +129,6 @@
  ],
  "items": [
   {
-   "id": "42190b3298c1",
-   "title": "Australian politics live: jobless rate unexpectedly holds at 4.7%; Plibersek warns One Nation support ‘winding back’ abortion access",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Private health insurance changes ‘recalibrating precious taxpayer dollars’, says Wells The health minister, Mark Butler, yesterday promised to reintroduce a bill to reduce private health…",
-   "published": "2026-10-15T00:49:13+00:00"
-  },
-  {
    "id": "901bdd4b0040",
    "title": "Trump tries to rally support for Republican candidates as top Super Pac for Senate Democrats pours millions into key races – live",
    "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
@@ -147,8 +136,85 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Trump in Arizona and Montana ahead of competitive elections; The Senate Majority Pac puts millions of dollars toward competitive races in Michigan and Maine Sign up for the Breaking News US email Donald Trump has yet to weigh in on the late night ruling from a federal judge…",
-   "published": "2026-10-15T00:43:00+00:00"
+   "summary": "Trump in Arizona and Montana ahead of midterm elections; The Senate Majority Pac puts millions of dollars toward competitive races in Michigan and Maine Sign up for the Breaking News US email Donald Trump has yet to weigh in on the late night ruling from a federal judge that…",
+   "published": "2026-10-15T01:35:01+00:00"
+  },
+  {
+   "id": "9e5de8f1624a",
+   "title": "Trump suggests those who leak government information should ‘be shot’",
+   "link": "https://www.aljazeera.com/news/2026/10/15/trump-suggests-those-who-leak-government-information-should-be-shot?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US president has long been unhappy with inside information about his administration being leaked to the media.",
+   "published": "2026-10-15T01:34:41+00:00"
+  },
+  {
+   "id": "42190b3298c1",
+   "title": "Australian politics live: Greens condemn rightwing push against social media reform and vow to table bill to block US execution livestream",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/15/anthony-albanese-labor-pauline-hanson-monoculture-victorian-election-coalition-angus-taylor-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Private health insurance changes ‘recalibrating precious taxpayer dollars’, says Wells The health minister, Mark Butler, yesterday promised to reintroduce a bill to reduce private health…",
+   "published": "2026-10-15T01:33:18+00:00"
+  },
+  {
+   "id": "3afabfc9f26d",
+   "title": "Fusionism and its Limits",
+   "link": "https://reason.com/volokh/2026/10/14/fusionism-and-its-limits/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fusionism is far preferable to nationalism and postliberalism. But it has shortcomings of its own, and its political prospects are questionable.",
+   "published": "2026-10-15T01:30:20+00:00"
+  },
+  {
+   "id": "a10ef846149f",
+   "title": "Istanbul in chaos, shut down by heaviest rainfall since 1985",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Torrential rain has triggered flash floods across Istanbul.",
+   "published": "2026-10-15T01:29:43+00:00"
+  },
+  {
+   "id": "edfa742da3bc",
+   "title": "Beyond the Fanta: Milwaukee shortstop Cooper Pratt’s faith and journey to the big leagues",
+   "link": "https://www.deseret.com/faith/2026/10/14/church-news-fanta-milwaukee-brewers-shortstop-cooper-pratt-faith-journey-mlb/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Celebrating his team’s victory with a bottle of orange soda recently gave Milwaukee Brewers rookie shortstop Cooper Pratt an unexpected opportunity to talk about his Latter-day Saint faith. A member of The Church of Jesus Christ of Latter-day Saints, Pratt doesn’t drink…",
+   "published": "2026-10-15T01:20:35+00:00"
+  },
+  {
+   "id": "45bead1dc326",
+   "title": "Ship catches fire in Romania’s waters amid rising attacks in the Black Sea",
+   "link": "https://www.aljazeera.com/news/2026/10/15/ship-catches-fire-in-romanias-waters-amid-rising-attacks-in-the-black-sea?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Authorities are investigating whether drones may have been involved in the latest incident.",
+   "published": "2026-10-15T01:20:26+00:00"
+  },
+  {
+   "id": "047a447201ba",
+   "title": "Anthropic’s slowing growth could be the AI trade’s latest red flag",
+   "link": "https://www.marketwatch.com/story/anthropics-slowing-growth-could-be-the-ai-trades-latest-red-flag-292d0169?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Anthropic’s revenue growth appears to be cooling as the company prepares for its public debut, further stoking investors’ AI jitters",
+   "published": "2026-10-15T01:07:00+00:00"
   },
   {
    "id": "b95c74e027ab",
@@ -163,14 +229,25 @@
   },
   {
    "id": "2ad8e9717f61",
-   "title": "Labor and Coalition set to reject bill to stop incarcerated women being shackled in childbirth",
+   "title": "Labor and Coalition block bill that would ban incarcerated women being shackled in childbirth",
    "link": "https://www.theguardian.com/australia-news/2026/oct/15/labor-coalition-bill-banning-shackling-incarcerated-women-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Liberal Paul Scarr breaks ranks to condemn major parties, saying he will write to Queensland attorney general Labor and the Coalition are set to reject a bill that would have banned the shackling of incarcerated women during childbirth, with the government saying it was the…",
+   "summary": "Liberal Paul Scarr breaks ranks to condemn major parties, saying he will write to Queensland attorney general Follow our Australian politics live blog for latest updates Get our new political email , free app or daily news podcast Labor and the Coalition have blocked a vote on…",
    "published": "2026-10-15T00:22:33+00:00"
+  },
+  {
+   "id": "0643ed165526",
+   "title": "As One Nation rises, Victorian Labor has promised to make abortions free. Is the timing pure politics?",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/15/victorian-state-election-labor-pledges-free-abortion-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Facing the prospect of election defeat, Labor is hoping to make abortion a defining issue as the Liberals attempt to stave off claims they would oversee a rollback Follow our Australian politics live blog for latest updates Get our new political email , free app or daily news…",
+   "published": "2026-10-15T00:17:18+00:00"
   },
   {
    "id": "da3a1e534862",
@@ -251,7 +328,7 @@
   },
   {
    "id": "8eebe066be30",
-   "title": "Illegal tobacco increasingly hard to spot, with some fakes featuring Australian health warnings",
+   "title": "Illegal tobacco increasingly hard to spot, with some fakes in plain packaging featuring Australian health warnings",
    "link": "https://www.theguardian.com/australia-news/2026/oct/15/black-market-tobacco-fakes-australian-health-warning",
    "source": "The Guardian World",
    "circle_hint": "international",
