@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T21:45:04.485573+00:00",
+ "generated": "2026-10-15T22:43:11.852394+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,182 @@
  ],
  "items": [
   {
+   "id": "00114a70b39a",
+   "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+   "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+   "published": "2026-10-15T22:37:21+00:00"
+  },
+  {
+   "id": "72197aaec587",
+   "title": "Are rising ACT scores signaling COVID ‘recovery’ in Utah schools?",
+   "link": "https://www.deseret.com/education/2026/10/15/rising-act-scores-signaling-covid-recovery-in-utah-schools/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "If Utah high school students earned a collective report card, their teacher’s comment might be: “Shows steady progress” — at least on standardized tests. The Beehive State’s graduating class of 2026 slightly improved its overall performance on the ACT, the standardized college…",
+   "published": "2026-10-15T22:35:12+00:00"
+  },
+  {
+   "id": "43c43e5b3b33",
+   "title": "Police say at least 2 were hospitalized after shooting at elementary school, and the shooter is dead",
+   "link": "https://www.deseret.com/u-s-world/2026/10/15/shooter-killed-in-bend-school-shooting/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least two people were hospitalized Thursday following a shooting at an elementary school in Bend, Oregon, and the attacker was shot and killed, authorities said. “We don’t have a number at this point. We know children are among the victims,” Bend police spokesperson Sheila…",
+   "published": "2026-10-15T22:34:10+00:00"
+  },
+  {
+   "id": "ab3b1468bdf4",
+   "title": "Denaturalizing Ilhan Omar",
+   "link": "https://thedispatch.com/newsletter/boilingfrogs/ilhan-omar-dhs-raid-immigration-investigation/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Postliberalism comes to a head.",
+   "published": "2026-10-15T22:32:39+00:00"
+  },
+  {
+   "id": "226d65772109",
+   "title": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+   "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+   "published": "2026-10-15T22:15:00+00:00"
+  },
+  {
+   "id": "526d6db9a6b7",
+   "title": "Pat McAfee praises BYU, Latter-day Saints ahead of ‘College GameDay’ visit to Provo",
+   "link": "https://www.deseret.com/sports/2026/10/15/pat-mcafee-praises-byu-latter-day-saints-college-gameday/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In Pat McAfee’s eyes, football players from BYU tend to be cut from the same impressive cloth. “Super mature, already has a family, wildly athletic and handsome. That is seemingly a trait that (BYU players) have,” McAfee said Thursday on his eponymous ESPN show. McAfee will…",
+   "published": "2026-10-15T22:15:00+00:00"
+  },
+  {
+   "id": "65ad80b88ccf",
+   "title": "Trump’s plan to deport a member of Congress",
+   "link": "https://www.vox.com/the-logoff-newsletter-trump/506572/trump-ilhan-omar-investigation-citizenship-deport",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here. Welcome to The Logoff: Donald Trump wants to deport a member of Congress. What’s happening? On…",
+   "published": "2026-10-15T22:10:00+00:00"
+  },
+  {
+   "id": "4bb2b6a10862",
+   "title": "Multiple people, including children, injured in elementary school shooting in Oregon",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least two people have been hospitalized, and police say suspected shooter was killed at the scene Multiple people, including children, were injured in a Thursday shooting at an elementary school in Bend, Oregon , police confirmed during a press conference. The suspected…",
+   "published": "2026-10-15T22:04:56+00:00"
+  },
+  {
+   "id": "23d25183f3b4",
+   "title": "Get back on a bike at any age",
+   "link": "https://mirrorindy.org/bike-buddies-central-indiana-cycling/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "I tried Bike Buddies, which matches new cyclists with mentors who show you how to ride your bike in Indy. The post Get back on a bike at any age appeared first on Mirror Indy .",
+   "published": "2026-10-15T21:58:10+00:00"
+  },
+  {
+   "id": "77b262294725",
+   "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
+   "link": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.",
+   "published": "2026-10-15T21:57:58+00:00"
+  },
+  {
+   "id": "c2c871eae4c7",
+   "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
+   "link": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
+   "published": "2026-10-15T21:56:00+00:00"
+  },
+  {
+   "id": "733e6acd82cd",
+   "title": "Pentagon says Trump and Hegseth ‘completely aligned’ on decision to cancel livestream of firing squad execution – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pentagon spokesperson says pair spoke before announcement canceling plan to broadcast execution of Nidal Hasan, who killed 13 people at Fort Hood Q&A: Our reporters answered your questions about the US economy and the midterm elections Sign up for the Breaking News US email The…",
+   "published": "2026-10-15T21:54:53+00:00"
+  },
+  {
+   "id": "e8bacff0cd82",
+   "title": "Man United’s Martinez apologises for outburst after talks with Carrick",
+   "link": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.",
+   "published": "2026-10-15T21:54:26+00:00"
+  },
+  {
+   "id": "7944018fc6bf",
+   "title": "Cold weather and high prices could flip the Senate",
+   "link": "https://www.vox.com/today-explained-newsletter/506611/midterms-prices-maine-heating-oil-collins",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here. Throughout his second term, President Donald Trump has saddled his party with no shortage of political liabilities — from the…",
+   "published": "2026-10-15T21:45:11+00:00"
+  },
+  {
+   "id": "41701867fa12",
+   "title": "Could a win over mighty Irish put Bear Bachmeier into Heisman discussion?",
+   "link": "https://www.deseret.com/sports/2026/10/15/byu-cougars-football-bear-bachmeier-no-47-linebacker-size-qb-heisman-irish/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "According to a poll of Heisman Trophy voters conducted by On3.com after Week 6 of the college football season, neither Notre Dame quarterback CJ Carr nor BYU quarterback Bear Bachmeier are serious contenders for college football’s most prestigious individual honor, despite the…",
+   "published": "2026-10-15T21:45:00+00:00"
+  },
+  {
+   "id": "137c7f1201fc",
+   "title": "Trump administration sues California over noncitizens on voter rolls",
+   "link": "https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lawsuit comes weeks before midterm elections and follows debunked claims of noncitizens voting in various states.",
+   "published": "2026-10-15T21:44:59+00:00"
+  },
+  {
    "id": "38cb098b6aec",
    "title": "Letters with 'suspicious substances' sent to US senators and election offices",
    "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
@@ -138,6 +314,17 @@
    "flourishing_feed": false,
    "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
    "published": "2026-10-15T21:42:26+00:00"
+  },
+  {
+   "id": "cd15e9dfd51e",
+   "title": "Nineteen injured in collision between minibus and train on Eurotunnel loading platform",
+   "link": "https://www.theguardian.com/world/2026/oct/15/nineteen-injured-minibus-collision-eurotunnel-calais",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two people critically hurt when vehicle carrying HGV drivers hit stationary train in Calais, say French authorities Nineteen people have been injured after a minibus collided with a stationary freight train at the loading platform of the Eurotunnel near Calais, French…",
+   "published": "2026-10-15T21:38:25+00:00"
   },
   {
    "id": "09616bba0d72",
@@ -160,17 +347,6 @@
    "flourishing_feed": false,
    "summary": "This summer, our nation celebrated the 250th anniversary of the Declaration of Independence . Among the treasured words in that document are these: “Governments are instituted among Men, deriving their just powers from the consent of the governed — That whenever any Form of…",
    "published": "2026-10-15T21:26:42+00:00"
-  },
-  {
-   "id": "733e6acd82cd",
-   "title": "Pentagon says Trump and Hegseth ‘completely aligned’ on decision to cancel livestream of firing squad execution – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Pentagon spokesperson says pair spoke before announcement canceling plan to broadcast execution of Nidal Hasan, who killed 13 people at Fort Hood Q&A: Our reporters answered your questions about the US economy and the midterm elections Sign up for the Breaking News US email The…",
-   "published": "2026-10-15T21:25:32+00:00"
   },
   {
    "id": "30d1c203103a",
@@ -215,17 +391,6 @@
    "flourishing_feed": false,
    "summary": "Most Americans who reside overseas owe the IRS nothing, but complying with U.S. financial regulations can cost them their foreign bank accounts.",
    "published": "2026-10-15T21:15:24+00:00"
-  },
-  {
-   "id": "00114a70b39a",
-   "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-   "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Two people were severely injured and evacuated by helicopter but no one's life appeared to be in danger, officials said.",
-   "published": "2026-10-15T21:12:14+00:00"
   },
   {
    "id": "3d9fef9e774f",
@@ -338,15 +503,15 @@
    "published": "2026-10-15T20:40:00+00:00"
   },
   {
-   "id": "cd15e9dfd51e",
-   "title": "Nineteen injured in minibus accident on Eurotunnel loading platform",
-   "link": "https://www.theguardian.com/world/2026/oct/15/nineteen-injured-minibus-collision-eurotunnel-calais",
-   "source": "The Guardian World",
+   "id": "702027aafe12",
+   "title": "At the scene of a school roof collapse in Pakistan",
+   "link": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Five people seriously hurt after incident involving vehicle carrying HGV drivers in Calais, say French authorities Nineteen people have been injured after a minibus was involved in an accident at the loading platform of the Eurotunnel near Calais, French authorities have said.…",
-   "published": "2026-10-15T20:36:09+00:00"
+   "summary": "At least 33 pupils and a teacher were killed according to hospital officials, and more than a dozen were injured.",
+   "published": "2026-10-15T20:31:02+00:00"
   },
   {
    "id": "30d70aedf56f",
@@ -1601,17 +1766,6 @@
    "flourishing_feed": false,
    "summary": "Leader of CREC church – whose pastors have advocated death penalty – says he ‘prefers public executions to private’ Donald Trump announced on Thursday he was cancelling Pete Hegseth’s recently announced plans to livestream a military execution – because “many very good and…",
    "published": "2026-10-15T16:00:35+00:00"
-  },
-  {
-   "id": "226d65772109",
-   "title": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-   "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
-   "published": "2026-10-15T16:00:00+00:00"
   },
   {
    "id": "1c529a21cbe1",
