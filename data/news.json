@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T15:48:09.009283+00:00",
+ "generated": "2026-10-15T16:47:37.464008+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,81 @@
  ],
  "items": [
   {
-   "id": "ca1fe3d9e20d",
-   "title": "How to Evaluate Financial Advisory Conferences",
-   "link": "https://www.wealthmanagement.com/professional-development/how-to-evaluate-financial-advisory-conferences",
-   "source": "WealthManagement.com",
+   "id": "217963996d31",
+   "title": "Tesla may finally debut a flying car today, after testing fans’ patience for nearly a decade",
+   "link": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "The best conference is not necessarily the one with the biggest crowd.",
-   "published": "2026-10-15T15:40:51+00:00"
+   "summary": "Elon Musk is set to reintroduce the Roadster sports car, possibly equipped with SpaceX thrusters.",
+   "published": "2026-10-15T16:43:00+00:00"
+  },
+  {
+   "id": "1a758cc6e016",
+   "title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters take your questions live",
+   "link": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The high cost of living has Americans angrier than ever. Guardian reporters answer your questions now about the economy before voters head to the polls Sign up or sign in to ask your question Katie from Connecticut asks in a callout question: Will the active collapse of the…",
+   "published": "2026-10-15T16:39:50+00:00"
+  },
+  {
+   "id": "31213c3cdcfa",
+   "title": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
+   "link": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture allegations in a rewritten drug trafficking indictment against the deposed…",
+   "published": "2026-10-15T16:38:32+00:00"
+  },
+  {
+   "id": "03878d28d2a1",
+   "title": "UK Green member behind anti-Zionism motion ‘receives death threats’",
+   "link": "https://www.aljazeera.com/news/2026/10/15/uk-green-member-behind-anti-zionism-motion-receives-death-threats?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lubna Speitan, who has Palestinian roots, believes messages and emails are part of an effort to intimidate her.",
+   "published": "2026-10-15T16:36:34+00:00"
+  },
+  {
+   "id": "92de20410ec0",
+   "title": "Even Blue-Collar Workers Have Turned Against Trump's Unpopular Tariffs",
+   "link": "https://reason.com/2026/10/15/even-blue-collar-workers-have-turned-against-trumps-unpopular-tariffs/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A new poll shows that Americans are soundly rejecting the Trump administration's big government policies.",
+   "published": "2026-10-15T16:35:08+00:00"
+  },
+  {
+   "id": "44af6707da75",
+   "title": "Sportsman applications for ‘hunt of a lifetime’ open in Utah soon",
+   "link": "https://www.deseret.com/utah/2026/10/15/sportsman-applications-for-hunt-of-a-lifetime-open-in-utah-soon/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Only one sportsman permit per species is awarded each year, but success in the drawing means the hunt of a lifetime.",
+   "published": "2026-10-15T16:35:00+00:00"
+  },
+  {
+   "id": "41c546bc2edd",
+   "title": "Israeli ad-tech firm helped place spyware on Al Jazeera devices",
+   "link": "https://www.aljazeera.com/news/2026/10/15/israeli-ad-tech-firm-helped-spy-on-al-jazeera-devices?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Citizen Lab investigation says dozens of Al Jazeera devices were infected by malware planted through advertisements.",
+   "published": "2026-10-15T16:32:03+00:00"
   },
   {
    "id": "733e6acd82cd",
@@ -148,7 +214,304 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Democrat Senator Elissa Slotkin called plan to broadcast execution of Nidal Hasan ‘sick’ and Republican John Curtis said it was ‘not an effective deterrent’ Q&A: Will Trump’s economy sink the GOP in the midterms? Sign up for the Breaking News US email The US government could…",
-   "published": "2026-10-15T15:39:32+00:00"
+   "published": "2026-10-15T16:28:49+00:00"
+  },
+  {
+   "id": "a6eba0eff9d7",
+   "title": "Why are eight US states suing OpenAI?",
+   "link": "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "They allege ChatGPT has caused harm to their residents, coaching its users to harm themselves or others.",
+   "published": "2026-10-15T16:28:44+00:00"
+  },
+  {
+   "id": "4732b5d0bc28",
+   "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+   "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+   "published": "2026-10-15T16:28:10+00:00"
+  },
+  {
+   "id": "e28f381fe958",
+   "title": "The Utes are sticking with Mana Carvalho as punt returner",
+   "link": "https://www.deseret.com/sports/2026/10/15/utah-utes-sticking-wtih-mana-carvalho-as-punt-retuner/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This article was first published in the Ute Insiders newslett er . Sign up to receive the newsletter in your inbox each Wednesday night. In the second half of Utah’s 41-24 win over Kansas last Saturday, a different player than usual returned punts. Receiver Creed Whittemore…",
+   "published": "2026-10-15T16:24:48+00:00"
+  },
+  {
+   "id": "23c5d69dfddb",
+   "title": "Latter-day Saint cowboys play ‘goat rugby’ and forge friendships at World Nomad Games",
+   "link": "https://www.deseret.com/faith/2026/10/15/latter-day-saint-cowboys-play-goat-rugby-forge-friendships-world-nomad-games/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "When Kyrgyzstan President Sadyr Japarov stepped off an airplane in Utah on Sept. 18, he greeted those waiting with handshakes and formal embraces. Then the president spotted U.S. Kok-Boru team captain Ladd Howell, and his face broke into a broad smile. “Oh, Ladd Howell, the…",
+   "published": "2026-10-15T16:22:26+00:00"
+  },
+  {
+   "id": "ef175e344d87",
+   "title": "Judge Refuses to Recuse in Case Involving Alleged Misconduct by Philly DA's Office",
+   "link": "https://reason.com/volokh/2026/10/15/judge-refuses-to-recuse-in-case-involving-alleged-misconduct-by-philly-das-office/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Judge Diamond says Philadelphia District Attorney Larry Krasner's filing is \"frivolous\" and generates \"more heat than light.\"",
+   "published": "2026-10-15T16:20:12+00:00"
+  },
+  {
+   "id": "a4293aea2653",
+   "title": "CoreWeave investors are feeling spooked, as the company’s stock and bonds see fresh pressure",
+   "link": "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "It’s getting more expensive for investors to buy protection against a CoreWeave default.",
+   "published": "2026-10-15T16:20:00+00:00"
+  },
+  {
+   "id": "8edbf805f9ed",
+   "title": "FIFA President Infantino apologises to council but critics remain unhappy",
+   "link": "https://www.aljazeera.com/sports/2026/10/15/fifa-president-infantino-apologises-but-critics-at-congress-remain-unhappy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "FIFA council meeting lasts over three hours as President Gianni Infantino apologises to members, but critics want more.",
+   "published": "2026-10-15T16:19:59+00:00"
+  },
+  {
+   "id": "edd1560a7844",
+   "title": "Jerusalem Daily: Ultra-Orthodox Jews storm Israeli army base",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/15/jerusalem-daily-ultra-orthodox-jews-storm-israeli-army-base?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jerusalem Daily: Ultra-Orthodox Jews storm Israeli army base",
+   "published": "2026-10-15T16:19:08+00:00"
+  },
+  {
+   "id": "fa5d38f64e2f",
+   "title": "Steve Young will be BYU’s ‘College GameDay’ celebrity guest picker",
+   "link": "https://www.deseret.com/sports/2026/10/15/steve-young-byu-espn-college-gameday-celebrity-guest-picker/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A BYU legend will be handling the guest picker duties for “College GameDay” this weekend in Provo. Iconic Cougars quarterback and Pro Football Hall of Famer Steve Young has been selected as BYU’s guest picker, “GameDay” analyst Pat McAfee announced Thursday on his eponymous…",
+   "published": "2026-10-15T16:18:42+00:00"
+  },
+  {
+   "id": "d1481065e108",
+   "title": "Man killed by tiger at Yorkshire zoo had bouts of psychosis, inquest hears",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/15/man-killed-tiger-yorkshire-zoo-bouts-of-psychosis-inquest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Family express concerns about William Chapman’s contact with mental health services before his death A man who was killed by a tiger at a South Yorkshire zoo had bouts of psychosis, his family told an inquest opening, as they expressed concerns about his contact with mental…",
+   "published": "2026-10-15T16:17:36+00:00"
+  },
+  {
+   "id": "896ab5988737",
+   "title": "John Healey poised to raise taxes on banks in budget",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/15/john-healey-raise-taxes-banks-budget",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Chancellor to target sector in his first budget to help offset damage caused by Iran war on public finances John Healey is poised to tax Britain’s banks in his 28 October budget to help offset the damage inflicted on the public finances by war in the Middle East, the…",
+   "published": "2026-10-15T16:17:05+00:00"
+  },
+  {
+   "id": "936b26f4645c",
+   "title": "Is Your Tax Professional Filing Your Taxes or Actually Planning Them?",
+   "link": "https://www.kiplinger.com/taxes/is-your-tax-professional-filing-your-taxes-or-actually-planning-them",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "An ongoing CPA shortage means high earners can no longer afford to settle for backward-looking compliance.",
+   "published": "2026-10-15T16:17:00+00:00"
+  },
+  {
+   "id": "ee02cd2b6ea5",
+   "title": "School headscarf ban sparks rare protests in Azerbaijan and row with Turkey",
+   "link": "https://www.bbc.co.uk/news/articles/cwly0g2r4k3po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Protests have taken place over the rules which have seen pupils wearing hijabs turned away from schools.",
+   "published": "2026-10-15T16:15:06+00:00"
+  },
+  {
+   "id": "a8be9d22dcfc",
+   "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
+   "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "”I earn $110,000 a year.”",
+   "published": "2026-10-15T16:15:00+00:00"
+  },
+  {
+   "id": "1f09f06f76fa",
+   "title": "Thames Water asks for £2.4bn more to avoid going bust this year or early 2027",
+   "link": "https://www.theguardian.com/business/2026/oct/15/thames-water-24bn-going-bust-this-year-early-2027",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Water company tells creditors it will not survive long enough to agree refinancing deal without more money Thames Water has asked its creditors for another £2.4bn as the embattled water company comes close to running out of cash. The UK’s largest water company said on Thursday…",
+   "published": "2026-10-15T16:14:54+00:00"
+  },
+  {
+   "id": "bb88583c11cb",
+   "title": "States urged to let ranchers help shape wolf management policy",
+   "link": "https://www.deseret.com/the-west/2026/10/15/usda-urges-stats-update-wolf-management-policy-rancher-inpute-endangered-species/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The U.S. Department of Agriculture published a request this week for states to reassess how they manage wolf populations. It did not include an ecological assessment but rather asked specifically for states to work with the USDA “ to address wolf predation ” of livestock. The…",
+   "published": "2026-10-15T16:11:50+00:00"
+  },
+  {
+   "id": "3f4b29fe0c9a",
+   "title": "Pensioner pleads guilty to raping woman drugged by husband",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/15/pensioner-pleads-guilty-to-raping-woman-drugged-by-husband",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Graham Brougham, 74, was one of a number of men invited to sexually assault victim while she was unconscious A man from Cheshire has pleaded guilty to the rape of a woman whose husband drugged her and invited other men to sexually assault her while she was unconscious. Graham…",
+   "published": "2026-10-15T16:08:02+00:00"
+  },
+  {
+   "id": "e11851db93a0",
+   "title": "Venezuela’s Maduro pleads not guilty to US conspiracy to torture charges",
+   "link": "https://www.aljazeera.com/news/2026/10/15/venezuelas-maduro-pleads-not-guilty-to-us-conspiracy-to-torture-charges?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Maduro and wife appear in New York City court after new 'conspiracy to commit torture' charges.",
+   "published": "2026-10-15T16:04:58+00:00"
+  },
+  {
+   "id": "014661d7f607",
+   "title": "Hegseth church allies backed plan for ‘public’ execution of Fort Hood shooter",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/pete-hegseth-crec-church-execution-livestream",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Leader of CREC church – whose pastors have advocated death penalty – says he ‘prefers public executions to private’ Donald Trump announced on Thursday he was cancelling Pete Hegseth’s recently announced plans to livestream a military execution – because “many very good and…",
+   "published": "2026-10-15T16:00:35+00:00"
+  },
+  {
+   "id": "226d65772109",
+   "title": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+   "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+   "published": "2026-10-15T16:00:00+00:00"
+  },
+  {
+   "id": "1c529a21cbe1",
+   "title": "Deseret News archives: The Great One became NHL’s top scorer on this day in ’89",
+   "link": "https://www.deseret.com/utah/2024/10/15/gretzky-breaks-nhl-scoring-record-in-1989/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Editor’s note: This story was originally published on Oct. 15, 2024. A look back at local, national and world events through Deseret News archives. On Oct. 15, 1989, Wayne Gretzky of the Los Angeles Kings broke Gordie Howe’s all-time NHL scoring record in a game against his…",
+   "published": "2026-10-15T15:59:41+00:00"
+  },
+  {
+   "id": "8d71a433622e",
+   "title": "Two 1960s London housing estates saved from demolition after decade-long battle",
+   "link": "https://www.theguardian.com/society/2026/oct/15/london-architecture-estates-saved-from-demolition-social-housing",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Change of council leadership hands reprieve to residents of architecturally celebrated developments in Lambeth Two architecturally celebrated council estates in south London that have been under threat of demolition for more than a decade have been saved. Residents of…",
+   "published": "2026-10-15T15:57:50+00:00"
+  },
+  {
+   "id": "c98ebc8fdb82",
+   "title": "EA Sports College Football’s future faces questions as NIL costs rise",
+   "link": "https://www.deseret.com/sports/2026/10/15/ea-sports-college-footballs-future-faces-questions-as-costs-rise/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "EA Sports College Football has been one of the biggest success stories in sports video games over the past two years. But as the cost of compensating college athletes continues to rise, the franchise’s long-term future could be less certain than its popularity suggests.…",
+   "published": "2026-10-15T15:54:07+00:00"
+  },
+  {
+   "id": "685f7eee86e0",
+   "title": "Inklings | Is IRC getting paid to resettle white Afrikaners?",
+   "link": "https://www.thenewhumanitarian.org/newsletter/2026/10/15/inklings-irc-getting-paid-resettle-white-afrikaners",
+   "source": "The New Humanitarian",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Notes on aid: Afrikaner resettlement dilemmas, the Grand Bargain’s next steps, and ICRC’s missing whistleblowing policy.",
+   "published": "2026-10-15T15:48:54+00:00"
+  },
+  {
+   "id": "81ddc55fdc68",
+   "title": "What is the ‘Mother of All Bombs’ US could use in Iran?",
+   "link": "https://www.aljazeera.com/news/2026/10/15/what-is-the-mother-of-all-bombs-us-could-use-in-iran?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US media reports military considering plans to use GBU-43/B Massive Ordnance Air Blast Bomb (MOAB)",
+   "published": "2026-10-15T15:46:41+00:00"
+  },
+  {
+   "id": "0b040c420c8a",
+   "title": "Trump cancels plan to livestream execution after global condemnation",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/trump-fort-hood-execution-livestream",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Soldier who killed 13 people in 2009 will still be executed, but president said ‘people would rather not watch him die’ Donald Trump has shelved a widely condemned plan to livestream the execution of Nidal Malik Hasan, who was convicted of killing 13 people at a military base…",
+   "published": "2026-10-15T15:43:45+00:00"
+  },
+  {
+   "id": "ca1fe3d9e20d",
+   "title": "How to Evaluate Financial Advisory Conferences",
+   "link": "https://www.wealthmanagement.com/professional-development/how-to-evaluate-financial-advisory-conferences",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The best conference is not necessarily the one with the biggest crowd.",
+   "published": "2026-10-15T15:40:51+00:00"
   },
   {
    "id": "1026b102bc6f",
@@ -261,17 +624,6 @@
    "published": "2026-10-15T15:19:08+00:00"
   },
   {
-   "id": "4732b5d0bc28",
-   "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
-   "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Trump said some would \"rather not watch\" the execution of Nidal Hasan, the first military execution in over 60 years.",
-   "published": "2026-10-15T15:17:21+00:00"
-  },
-  {
    "id": "bcd0cdcc1054",
    "title": "Schwab Tags Wealth Advice as Key Growth Area, Investment Focus",
    "link": "https://www.wealthmanagement.com/ria-news/schwab-investing-in-wealth-advice-offering-as-key-growth-area",
@@ -336,6 +688,17 @@
    "flourishing_feed": false,
    "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
    "published": "2026-10-15T15:09:15+00:00"
+  },
+  {
+   "id": "22d33f766d9c",
+   "title": "Before You Turn On AI, Treat It Like a New Hire",
+   "link": "https://www.wealthmanagement.com/artificial-intelligence/before-you-turn-on-ai-treat-it-like-a-new-hire",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Having a tool available and a firm being ready are two different things.",
+   "published": "2026-10-15T15:05:49+00:00"
   },
   {
    "id": "d12483a34204",
@@ -499,7 +862,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Ten Palestinians share their experiences during three years of genocide, one-year of an unfulfilled ceasefire, and their thoughts on the future.",
+   "summary": "Amid lives torn apart by loss, displacement, and relentless hardship, Palestinians express their determination to imagine a future amid Gaza’s ruins.",
    "published": "2026-10-15T14:14:37+00:00"
   },
   {
@@ -1229,17 +1592,6 @@
    "published": "2026-10-15T10:44:03+00:00"
   },
   {
-   "id": "d1481065e108",
-   "title": "Man killed by tiger at Yorkshire zoo had bouts of psychosis, inquest hears",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/15/man-killed-tiger-yorkshire-zoo-bouts-of-psychosis-inquest",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Family express concerns about William Chapman’s contact with mental health services before his death A man who was killed by a tiger at a South Yorkshire zoo had bouts of psychosis, his family told an inquest opening, as they expressed concerns about his contact with mental…",
-   "published": "2026-10-15T10:42:01+00:00"
-  },
-  {
    "id": "5085707b7cdf",
    "title": "Construction’s Data Center Boom",
    "link": "https://thedispatch.com/newsletter/morning/constructions-data-center-boom/",
@@ -1293,17 +1645,6 @@
    "flourishing_feed": false,
    "summary": "At least 29 people, mostly children, have been killed after the school collapsed on them in Pakistan’s Peshawar.",
    "published": "2026-10-15T10:21:43+00:00"
-  },
-  {
-   "id": "a8be9d22dcfc",
-   "title": "‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?",
-   "link": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "”I earn $110,000 a year.”",
-   "published": "2026-10-15T10:15:00+00:00"
   },
   {
    "id": "d8b18e03256d",
@@ -1439,7 +1780,7 @@
   },
   {
    "id": "6f2ac66b7ed8",
-   "title": "Opinion: Who said it better: Marco Rubio or JD Vance?",
+   "title": "Opinion: Who said it better, Marco Rubio or JD Vance?",
    "link": "https://www.deseret.com/opinion/2026/10/15/marco-rubio-speech-jd-vance-katie-zacharia/",
    "source": "Deseret News",
    "circle_hint": "national",
@@ -1579,17 +1920,6 @@
    "flourishing_feed": false,
    "summary": "France's soaring borrowing costs and political divisions raise fears of a wider Eurozone debt crisis.",
    "published": "2026-10-15T09:26:11+00:00"
-  },
-  {
-   "id": "226d65772109",
-   "title": "I’m 64 years old, with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-   "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
-   "published": "2026-10-15T09:15:00+00:00"
   },
   {
    "id": "fb7024f49458",
@@ -3119,17 +3449,6 @@
    "flourishing_feed": false,
    "summary": "The FBI’s search of Rep. Ilhan Omar’s home raises concerns about political interference and could impact Minnesota’s Senate race ahead of the midterm elections.",
    "published": "2026-10-14T22:12:31+00:00"
-  },
-  {
-   "id": "1a758cc6e016",
-   "title": "Will Trump’s economy sink Republicans in the US midterm elections? Our reporters answer your questions",
-   "link": "https://www.theguardian.com/community/live/2026/oct/14/us-economy-affordability-midterm-elections-republicans-trump",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The high cost of living has Americans angrier than ever. Guardian reporters answer your questions about the economy before voters head to the polls Sign up or sign in to ask your question Welcome to our latest US midterms live Q&A. With just over two weeks to election day on 3…",
-   "published": "2026-10-14T22:10:13+00:00"
   },
   {
    "id": "02ca3cecc7d2",
@@ -13270,7 +13589,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Two days after conservative political activist Charlie Kirk was assassinated gruesomely and graphically in front of hundreds of people with cell phones at Utah Valley University, a Deseret News story made this observation: “The horrific scene of Kirk profusely bleeding from the…",
+   "summary": "Editor’s note: On Thursday, President Donald Trump announced on Truth Social that the execution of former Army Maj. Nidal Malik Hasan would not be livestreamed. Two days after conservative political activist Charlie Kirk was assassinated gruesomely and graphically in front of…",
    "published": "2026-10-12T15:47:21+00:00"
   },
   {
