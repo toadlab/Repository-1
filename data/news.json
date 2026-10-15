@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T10:47:25.855597+00:00",
+ "generated": "2026-10-15T11:45:50.136413+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 29
+   "count": 23
   },
   {
    "name": "The Guardian World",
@@ -129,26 +129,48 @@
  ],
  "items": [
   {
-   "id": "45d15a8157ae",
-   "title": "Charity watchdog to criticise ‘intimidation’ after Farage calls for prosecution of groups helping asylum seekers – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/15/uk-politics-latest-news-updates-nigel-farage-reform-labour-conservatives",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
+   "id": "131baf91b077",
+   "title": "This 30-year market veteran is alarmed by a record-chasing S&P 500. Here’s where he’s investing instead.",
+   "link": "https://www.marketwatch.com/story/this-30-year-market-veteran-is-alarmed-by-a-near-record-s-p-500-heres-where-hes-investing-instead-c6611143?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Charity commissioner to use speech to say there is a difference between ‘heated discussion’ and harassment or abuse Labour says it’s told all of its local councils who share power with the Green Party to review their agreements after the Greens passed a “Zionism is Racism”…",
-   "published": "2026-10-15T10:43:36+00:00"
+   "summary": "Steven Jon Kaplan sees a completely irrational stock market right now, and investors ignoring a perfectly safe way to play that.",
+   "published": "2026-10-15T11:41:00+00:00"
   },
   {
-   "id": "d1481065e108",
-   "title": "Man killed by tiger at Yorkshire zoo had bouts of psychosis, inquest hears",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/15/man-killed-tiger-yorkshire-zoo-bouts-of-psychosis-inquest",
+   "id": "1083b8525e01",
+   "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+   "link": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's \"guilt-by-association politics\" won't drag Democrats down in the midterms.",
+   "published": "2026-10-15T11:31:25+00:00"
+  },
+  {
+   "id": "5129f2fe4a8a",
+   "title": "John Healey vows to give ‘breathing space’ to consumers and businesses in first budget",
+   "link": "https://www.theguardian.com/politics/2026/oct/15/john-healey-first-budget-breathing-space-consumers-businesses-imf-living-costs",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "William Chapman’s family describe ‘severe distress’ after Donald Trump shares footage of the attack on social media A man who was killed by a tiger at a South Yorkshire zoo had suffered bouts of psychosis, his family told an inquest opening, as they expressed concerns about his…",
-   "published": "2026-10-15T10:42:01+00:00"
+   "summary": "Speaking at IMF annual meeting in Bangkok, chancellor says he will stick to fiscal rules while recognising business and living costs UK politics live – latest updates Business live – latest updates John Healey has promised to use his first budget in a fortnight’s time to offer…",
+   "published": "2026-10-15T11:29:09+00:00"
+  },
+  {
+   "id": "733e6acd82cd",
+   "title": "Donald Trump claims ‘Iran war will end very soon’ as midterm rallies heat up – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US president said that the war will end ‘as soon as I want it to end’ as the midterms take place under a cloud of economic uncertainty Sign up for the Breaking News US email By Ariana Baio and Uwa Ede-Osifo James Talarico, the Texas Democratic nominee for Senate, sat face…",
+   "published": "2026-10-15T11:28:46+00:00"
   },
   {
    "id": "5151b62f836e",
@@ -158,8 +180,173 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Donaldson has been found guilty of 18 counts of sexual abuse against two women when they were children The DUP has disowned its former leader and condemned his crimes but faced a backlash from supporters amid allegations the party turned a blind eye to other misbehaviour by…",
-   "published": "2026-10-15T10:40:53+00:00"
+   "summary": "Ex-leader deserves ‘every day of lengthy sentence,’ says DUP Jeffrey Donaldson sentenced to 15 years The DUP has disowned its former leader and condemned his crimes but faced a backlash from supporters amid allegations the party turned a blind eye to other misbehaviour by…",
+   "published": "2026-10-15T11:27:27+00:00"
+  },
+  {
+   "id": "869772203883",
+   "title": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Zelenskyy said he felt ‘betrayed’ by the US after Trump’s diesel deal with Russia and the Starlink restrictions Just as the leaders sit down at the big table in Brussels, Romania has said that seven people are still missing after a fire on a vessel in Romanian territorial…",
+   "published": "2026-10-15T11:25:41+00:00"
+  },
+  {
+   "id": "1938d0f50d7c",
+   "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+   "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+   "published": "2026-10-15T11:25:19+00:00"
+  },
+  {
+   "id": "45d15a8157ae",
+   "title": "Wes Streeting in US for Hegseth meeting as Ukraine tensions escalate – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/15/uk-politics-latest-news-updates-nigel-farage-reform-labour-conservatives",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Defence secretary’s meeting comes after Burnham said he would help facilitate reconciliation between Zelenskyy and Trump Labour says it’s told all of its local councils who share power with the Green Party to review their agreements after the Greens passed a “Zionism is Racism”…",
+   "published": "2026-10-15T11:19:32+00:00"
+  },
+  {
+   "id": "14fd724a3b52",
+   "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
+   "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "CoreWeave’s bonds issued a few months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.",
+   "published": "2026-10-15T11:17:00+00:00"
+  },
+  {
+   "id": "2bc3b4bbb30f",
+   "title": "Eight crew missing after drone attack leaves tanker ablaze off Romania's coast",
+   "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
+   "published": "2026-10-15T11:12:54+00:00"
+  },
+  {
+   "id": "86b4a389ff98",
+   "title": "Syrian authorities arrest main suspect in 2013 Baniyas mass killings",
+   "link": "https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ali Kayali, also known as Mihrac Ural, was apprehended as he tried to cross the border, state media reported.",
+   "published": "2026-10-15T11:12:00+00:00"
+  },
+  {
+   "id": "4db14e94c782",
+   "title": "Watch: Harry and Meghan at first joint engagement since UK return",
+   "link": "https://www.bbc.co.uk/news/videos/cme8r0eexr3yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Duke and Duchess of Sussex are making several public appearances in Nottingham.",
+   "published": "2026-10-15T11:10:59+00:00"
+  },
+  {
+   "id": "4df050734cca",
+   "title": "After booting 760K off ACA health plans, the Trump administration adds some people back",
+   "link": "https://www.npr.org/2026/10/15/nx-s1-6002957/aca-fraud-trump-health-insurance",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Trump administration provided few details about its process for canceling hundreds of thousands of Affordable Care Act enrollments — even as the next stage of the anti-fraud effort is underway.",
+   "published": "2026-10-15T11:06:21+00:00"
+  },
+  {
+   "id": "b7ff269fece1",
+   "title": "Revealed: Serbian ruler’s secret role in ‘illegal’ effort to help Trump business",
+   "link": "https://www.theguardian.com/world/2026/oct/15/trump-kushner-vucic-belgrade-serbia",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Aleksandar Vučić personally intervened to push plans for controversial $500m Trump Tower in Belgrade, which sparked protests and a criminal case Serbia’s authoritarian ruler personally intervened to advance an allegedly illegal scheme to hand over a protected site in…",
+   "published": "2026-10-15T11:00:11+00:00"
+  },
+  {
+   "id": "a58eee77ad95",
+   "title": "Today in Supreme Court History: October 15, 1883",
+   "link": "https://reason.com/volokh/2026/10/15/today-in-supreme-court-history-october-15-1883-8/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "10/15/1883: The Civil Rights Cases are decided. The post Today in Supreme Court History: October 15, 1883 appeared first on Reason Magazine.",
+   "published": "2026-10-15T11:00:02+00:00"
+  },
+  {
+   "id": "24664798eab0",
+   "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+   "link": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.",
+   "published": "2026-10-15T10:52:12+00:00"
+  },
+  {
+   "id": "a865f868a016",
+   "title": "Obama says drift towards extremism 'not inevitable'",
+   "link": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
+   "published": "2026-10-15T10:51:53+00:00"
+  },
+  {
+   "id": "ae08b9b08a97",
+   "title": "FIFA set for rule change after Balogun red card row at the World Cup: reports",
+   "link": "https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The governing body's council is expected to prohibit disciplinary committees from overturning match suspensions.",
+   "published": "2026-10-15T10:46:08+00:00"
+  },
+  {
+   "id": "168af5f2abe2",
+   "title": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
+   "link": "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The tournament is scheduled to begin on January 7 but could be moved by a year if needed, AFC president says.",
+   "published": "2026-10-15T10:44:03+00:00"
+  },
+  {
+   "id": "d1481065e108",
+   "title": "Man killed by tiger at Yorkshire zoo had bouts of psychosis, inquest hears",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/15/man-killed-tiger-yorkshire-zoo-bouts-of-psychosis-inquest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Family express concerns about William Chapman’s contact with mental health services before his death A man who was killed by a tiger at a South Yorkshire zoo had bouts of psychosis, his family told an inquest opening, as they expressed concerns about his contact with mental…",
+   "published": "2026-10-15T10:42:01+00:00"
   },
   {
    "id": "5085707b7cdf",
@@ -217,26 +404,15 @@
    "published": "2026-10-15T10:30:08+00:00"
   },
   {
-   "id": "733e6acd82cd",
-   "title": "Donald Trump claims ‘Iran war will end very soon’ as midterm rallies heat up – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "98fb856ff261",
+   "title": "Ukraine to restart strikes on Russian oil refineries, Zelensky says",
+   "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The US president said that the war will end ‘as soon as I want it to end’ as the midterms take place under a cloud of economic uncertainty Sign up for the Breaking News US email to get newsletter alerts in your inbox US president Donald Trump claimed the Iran war ‘will end very…",
-   "published": "2026-10-15T10:26:21+00:00"
-  },
-  {
-   "id": "869772203883",
-   "title": "Elon Musk suggests US government was behind Starlink restrictions in Ukraine – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Zelenskyy said he felt ‘betrayed’ by the US after Trump’s diesel deal with Russia and the Starlink restrictions Just as the leaders sit down at the big table in Brussels, Romania has said that seven people are still missing after a fire on a vessel in Romanian territorial…",
-   "published": "2026-10-15T10:24:21+00:00"
+   "summary": "Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks.",
+   "published": "2026-10-15T10:27:26+00:00"
   },
   {
    "id": "665d305c3ca2",
@@ -272,17 +448,6 @@
    "published": "2026-10-15T10:14:49+00:00"
   },
   {
-   "id": "1938d0f50d7c",
-   "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
-   "link": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
-   "published": "2026-10-15T10:14:31+00:00"
-  },
-  {
    "id": "d8b18e03256d",
    "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
    "link": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
@@ -292,6 +457,28 @@
    "flourishing_feed": false,
    "summary": "Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.",
    "published": "2026-10-15T10:05:58+00:00"
+  },
+  {
+   "id": "1cf796ca9a8d",
+   "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+   "link": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
+   "published": "2026-10-15T10:05:29+00:00"
+  },
+  {
+   "id": "e6451d289b95",
+   "title": "Brazil's Congress approves shorter working week in win for Lula",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
+   "published": "2026-10-15T10:05:17+00:00"
   },
   {
    "id": "e81f27896722",
@@ -702,7 +889,7 @@
   },
   {
    "id": "a929846fdcc0",
-   "title": "TSMC CEO sees no sign of a slowdown as chip foundry reports record profit",
+   "title": "TSMC’s CEO sees no sign of a slowdown as chip foundry reports record profit",
    "link": "https://www.marketwatch.com/story/tsmc-ceo-sees-no-sign-of-a-slowdown-as-chip-foundry-reports-record-profit-17a065d3?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
@@ -798,6 +985,17 @@
    "flourishing_feed": false,
    "summary": "The Since U Been Gone singer claims she was \"looked at as if I couldn't afford\" an item in the store.",
    "published": "2026-10-15T08:19:00+00:00"
+  },
+  {
+   "id": "be4ddbbaaa39",
+   "title": "Actor Imran Khan ordered to leave India after participating in protest",
+   "link": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
+   "published": "2026-10-15T08:17:07+00:00"
   },
   {
    "id": "a91bc94a653c",
@@ -897,6 +1095,17 @@
    "flourishing_feed": false,
    "summary": "Russia's Pacific Fleet has test-fired cruise missiles from a nuclear-powered submarine, striking a target 1,200km away.",
    "published": "2026-10-15T07:44:35+00:00"
+  },
+  {
+   "id": "443851b1cdac",
+   "title": "Indian woman and boyfriend get death sentence in 'blue drum' murder case",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy435gd311o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The body was recovered from a large blue plastic storage container - locally called a drum.",
+   "published": "2026-10-15T07:25:54+00:00"
   },
   {
    "id": "ed98209c539b",
@@ -1029,6 +1238,17 @@
    "flourishing_feed": false,
    "summary": "Inquest into death of Queensland girl denied insulin by her religious parents is told Kerrie Struhs believed God would heal her daughter Get our breaking news email , free app or daily news podcast Doctors were so concerned about the religious beliefs of Elizabeth Struhs’…",
    "published": "2026-10-15T06:32:08+00:00"
+  },
+  {
+   "id": "48d7144fded9",
+   "title": "North Korea and China open new bridge after 12-year delay",
+   "link": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
+   "published": "2026-10-15T06:24:45+00:00"
   },
   {
    "id": "d0039a428824",
@@ -1229,6 +1449,17 @@
    "published": "2026-10-15T05:00:23+00:00"
   },
   {
+   "id": "626f1c884626",
+   "title": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
+   "link": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
+   "published": "2026-10-15T05:00:23+00:00"
+  },
+  {
    "id": "e5237cf6cb98",
    "title": "Horseshoe Theory at Cornell",
    "link": "https://thedispatch.com/article/cornell-women-sex-agency/",
@@ -1304,6 +1535,17 @@
    "flourishing_feed": false,
    "summary": "Flooding left vehicles piled up and people stranded inside Sao Paulo’s Anhangabau tunnel.",
    "published": "2026-10-15T04:19:06+00:00"
+  },
+  {
+   "id": "e631a29868f7",
+   "title": "Australian woman charged with lacing colleague's curry with snail poison",
+   "link": "https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The alleged victim, who was in a relationship with the woman, had spotted bright green pellets in the meal.",
+   "published": "2026-10-15T04:17:45+00:00"
   },
   {
    "id": "eea1e8fd854c",
@@ -1757,6 +1999,17 @@
    "published": "2026-10-14T23:32:14+00:00"
   },
   {
+   "id": "1fb0742a9fd0",
+   "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+   "link": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
+   "published": "2026-10-14T23:32:11+00:00"
+  },
+  {
    "id": "f970437574e7",
    "title": "Sydney hospital patient charged with attempted murder after allegedly setting fellow patient alight",
    "link": "https://www.theguardian.com/australia-news/2026/oct/15/sydney-hospital-patient-charged-attempted-murder-royal-prince-of-wales-ntwnfb",
@@ -1821,6 +2074,28 @@
    "flourishing_feed": false,
    "summary": "Recent US-Greenland-Denmark agreement excludes mining or drilling rights while reinforcing Greenland's sovereignty.",
    "published": "2026-10-14T23:03:10+00:00"
+  },
+  {
+   "id": "87cd317dee17",
+   "title": "How backlash against data centres could shape the US midterm elections",
+   "link": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+   "published": "2026-10-14T23:02:57+00:00"
+  },
+  {
+   "id": "e9db7b2bc5de",
+   "title": "How a Chinese-made toy gets to a US retailer",
+   "link": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+   "published": "2026-10-14T23:01:28+00:00"
   },
   {
    "id": "be10fef40401",
@@ -2041,17 +2316,6 @@
    "flourishing_feed": false,
    "summary": "The First Presidency of The Church of Jesus Christ of Latter-day Saints released an official statement Wednesday on Pope Leo XIV’s health . The pope underwent surgery Tuesday to remove the lower lobe of his right lung. Lung cancer was found in the tissue, the Vatican reported .…",
    "published": "2026-10-14T22:03:25+00:00"
-  },
-  {
-   "id": "14fd724a3b52",
-   "title": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
-   "link": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "CoreWeave’s bonds issued a few months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.",
-   "published": "2026-10-14T22:03:00+00:00"
   },
   {
    "id": "f006fa3aef0c",
@@ -3834,6 +4098,17 @@
    "flourishing_feed": false,
    "summary": "Like any contestant who tries out for “ The Voice ,” Johnnie Kapua wondered if he’d be able to get a coach to turn around for him during his blind audition. His question got answered just a few seconds into his performance of Bruno Mars’ and Lady Gaga’s “Die With a Smile.”…",
    "published": "2026-10-14T16:00:00+00:00"
+  },
+  {
+   "id": "639a7f145d68",
+   "title": "'It's rough out here': Americans struggle with rising inflation",
+   "link": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving.",
+   "published": "2026-10-14T15:57:11+00:00"
   },
   {
    "id": "779a1c17bfdc",
@@ -22680,13 +22955,13 @@
   },
   {
    "id": "b7d06e544ba3",
-   "title": "What went right this week: the good news that matters",
+   "title": "What went right this week: people-powered climate justice, plus more",
    "link": "https://www.positive.news/society/good-news-stories-from-week-41-of-2026/",
    "source": "Positive News",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": true,
-   "summary": "A pivotal moment for climate justice in Australia, the Nobel prize winners, and a promising drug for Parkinson’s, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+   "summary": "A pivotal moment for climate justice in Australia, the Nobel prize winners, and a promising drug for Parkinson’s, plus more The post What went right this week: people-powered climate justice, plus more appeared first on Positive News .",
    "published": "2026-10-09T05:09:55+00:00"
   },
   {
