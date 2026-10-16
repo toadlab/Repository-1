@@ -113086,5 +113086,53 @@
   "decision": "exclude",
   "exclusion": "low durability",
   "persistent": false
+ },
+ "efa38f8dfef8": {
+  "story_key": "high-school-boys-golf-ridgeline",
+  "durability": 4,
+  "circle": "national",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 8.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the national bar",
+  "persistent": false
+ },
+ "8d04dc1cac29": {
+  "story_key": "second-amendment-roundup-sensitive-places",
+  "durability": 2,
+  "circle": "national",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 2.0,
+  "bar": 8.0,
+  "decision": "exclude",
+  "exclusion": "low durability",
+  "persistent": false
+ },
+ "da38ef7a3e22": {
+  "story_key": "can-zimbabwe-s-zig-win",
+  "durability": 2,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 2.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "low durability",
+  "persistent": false
  }
 }
