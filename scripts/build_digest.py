@@ -13,6 +13,7 @@ Usage: python3 scripts/build_digest.py [--date YYYY-MM-DD] [--force]
 from __future__ import annotations
 
 import argparse
+import csv
 import re
 import sys
 from collections import Counter, defaultdict
@@ -26,11 +27,77 @@ from common import DIGESTS, NEWS, STATE, load_json, local_now, parse_ts, profile
 WEEKDAYS = ["mon", "tue", "wed", "thu", "fri", "sat", "sun"]
 
 
+# ---------- categories and quotas ----------
+CATEGORIES: dict = {}  # set from config/profile.json in main()
+CATEGORY_LOG = STATE / "category_mix.csv"
+CATEGORY_KEYS = ["finance", "good_in_world", "other"]
+
+
+def category_of(item: dict, s: dict) -> str:
+    """One category per story, from its scores and its feed (see profile.json → categories)."""
+    if s["domain"] >= CATEGORIES["finance"]["min_domain"]:
+        return "finance"
+    if item.get("category_hint") == "good_in_world" or s["flourishing"] >= CATEGORIES["good_in_world"]["min_flourishing"]:
+        return "good_in_world"
+    return "other"
+
+
+def good_pool(rows: list[tuple[dict, dict]], exclude: set[str]) -> list[dict]:
+    """Candidates for the reserved good-in-the-world slot, most promising first.
+
+    They don't need to clear the headline bar, which favors near, urgent news; the stage-2
+    review's good-in-the-world bar (concrete actors, evidence of impact) decides instead.
+    """
+    pool = [story(i, s) for i, s in best_per_key(rows)
+            if category_of(i, s) == "good_in_world" and s["durability"] >= 3 and i["id"] not in exclude]
+    return sorted(pool, key=lambda x: (x["flourishing"] + x["durability"], x["composite"]), reverse=True)
+
+
+def quota_notes(skipped: list[dict], limits_cfg: dict, reserved: dict, filled: dict, pools: dict, period: str) -> list[str]:
+    notes = []
+    for category, n in Counter(x["category"] for x in skipped).items():
+        name = {"finance": "finance"}.get(category, category.replace("_", " "))
+        notes.append(f"{n} {name} stor{'y was' if n == 1 else 'ies were'} skipped: the {period} {name} "
+                     f"limit is {limits_cfg[category]}.")
+    for category, want in reserved.items():
+        if not want:
+            continue
+        name = {"good_in_world": "good-in-the-world"}.get(category, category.replace("_", " "))
+        if filled.get(category):
+            notes.append(f"The reserved {name} slot was filled.")
+        elif pools.get(category):
+            notes.append(f"The reserved {name} slot was left open: none of {pools[category]} candidates passed the review.")
+        else:
+            notes.append(f"The reserved {name} slot was left open: no candidates this {period}.")
+    return notes
+
+
+def log_category_mix(digest: dict, shown: list[dict], skipped: list[dict], good_filled: bool | None) -> None:
+    """Keep one row per digest date in data/state/category_mix.csv (GitHub shows it as a table)."""
+    counts = Counter(x.get("category", "other") for x in shown)
+    digest["category_counts"] = {k: counts.get(k, 0) for k in CATEGORY_KEYS}
+    row = {"date": digest["date"], "type": digest["type"], **digest["category_counts"], "total": len(shown),
+           "finance_skipped_by_quota": sum(1 for x in skipped if x.get("category") == "finance"),
+           "good_slot": "" if good_filled is None else ("filled" if good_filled else "open")}
+    fields = list(row)
+    rows = {}
+    if CATEGORY_LOG.exists():
+        with CATEGORY_LOG.open() as f:
+            rows = {r["date"]: r for r in csv.DictReader(f)}
+    rows[row["date"]] = row
+    CATEGORY_LOG.parent.mkdir(parents=True, exist_ok=True)
+    with CATEGORY_LOG.open("w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
+        w.writeheader()
+        for date in sorted(rows):
+            w.writerow(rows[date])
+
+
 # ---------- selection helpers ----------
 def story(item: dict, s: dict, **extra) -> dict:
     return {
         "id": item["id"], "title": item["title"], "link": item["link"], "source": item["source"],
-        "published": item["published"], "summary": "", "circle": s["circle"],
+        "published": item["published"], "summary": "", "circle": s["circle"], "category": category_of(item, s),
         "story_key": s["story_key"], "composite": s["composite"], "bar": s["bar"],
         "decision": s["decision"], "reason": s["reason"], "flourishing": s["flourishing"],
         "domain": s["domain"], "durability": s["durability"], **extra,
@@ -223,6 +290,7 @@ def main() -> int:
     args = ap.parse_args()
 
     p = profile()
+    CATEGORIES.update(p["categories"])
     tz = ZoneInfo(p["timezone"])
     now = local_now(p)
     day = datetime.strptime(args.date, "%Y-%m-%d").date() if args.date else now.date()
@@ -271,9 +339,15 @@ def main() -> int:
         links = {c["link"] for c in cuts}
         return {i["id"] for i, _ in rows if i["link"] in links}
 
-    def keep(candidates: list[dict], want: int, section: str) -> list[dict]:
+    def keep(candidates: list[dict], want: int, section: str, limits: dict | None = None,
+             skipped: list | None = None) -> list[dict]:
         """Stage 2: read the full articles in rank order and keep up to `want`."""
-        return review.select(p, candidates, want, day.isoformat(), section, cuts, reviews)
+        return review.select(p, candidates, want, day.isoformat(), section, cuts, reviews, limits, skipped)
+
+    quotas = p["quotas"]
+    skipped: list[dict] = []
+    shown: list[dict] = []
+    good_filled: bool | None = None
 
     if emergencies:
         emergencies = keep(emergencies, len(emergencies), "emergency")
@@ -302,7 +376,18 @@ def main() -> int:
                     fatigue_ids.add(i["id"])
                     continue
                 cand.append(story(i, s))
-            pulse = keep(cand, p["pulse_max_items"], "daily pulse")
+            # Reserved slot first: a good-in-the-world story, if one passes the review.
+            limits = dict(quotas["daily_max"])  # shared by the pulse and the spotlight
+            reserved = quotas["daily_reserved"]
+            gpool = [g for g in good_pool(window(max(lookback, 2)), covered_ids)
+                     if not fatigued({"id": g["id"], "published": g["published"]}, scores[g["id"]], coverage,
+                                     {"pulse", "weekly", "spotlight", "inspiring"}, pulse_since)]
+            good = keep(gpool, reserved.get("good_in_world", 0), "good in the world")
+            good_filled = bool(good) if reserved.get("good_in_world") else None
+            good_keys = {g["story_key"] for g in good}
+            rest = keep([c for c in cand if c["story_key"] not in good_keys and c["category"] != "good_in_world"],
+                        quotas["daily_cap"] - len(good), "daily pulse", limits, skipped)
+            pulse = rest + good  # end on what's working
             circle = digest["circle"]
             spotlight = None
             if circle in ("local", "state"):
@@ -311,7 +396,7 @@ def main() -> int:
                              if s["circle"] == circle and s["decision"] in ("include", "borderline")
                              and s["story_key"] not in taken
                              and not fatigued(i, s, coverage, {"pulse", "weekly", "spotlight"}, pulse_since)],
-                            3, f"{circle} spotlight")
+                            3, f"{circle} spotlight", limits, skipped)
                 spotlight = {"circle": circle, "items": spot}
                 newly_covered += [{**x, "kind": "spotlight"} for x in spot]
             elif circle == "global":
@@ -325,12 +410,15 @@ def main() -> int:
             digest["methodology"] = methodology(window(lookback), chosen, fatigue_ids, "from today's pulse")
             digest["methodology"]["included"] = len(pulse)
             digest["methodology"]["skew_note"] = note or skew(pulse)
+            digest["methodology"]["notes"] = quota_notes(skipped, quotas["daily_max"], reserved,
+                                                         {"good_in_world": good_filled}, {"good_in_world": len(gpool)},
+                                                         "daily") + digest["methodology"]["notes"]
+            shown = pulse + (spotlight or {}).get("items", [])
             newly_covered += [{**x, "kind": "pulse"} for x in pulse]
 
         elif kind == "reflection":
-            inspiring = keep([story(i, s) for i, s in best_per_key(window(7))
-                              if s["flourishing"] >= 6 and s["decision"] in ("include", "borderline")
-                              and i["id"] not in covered_ids], 1, "inspiring story")
+            inspiring = keep(good_pool(window(7), covered_ids), 1, "inspiring story")
+            shown = list(inspiring)
             write_items(p, inspiring, "reflection day's inspiring story")
             digest["inspiring"] = inspiring
             newly_covered += [{**x, "kind": "inspiring"} for x in inspiring]
@@ -354,9 +442,18 @@ def main() -> int:
                     persisted = len(border_days[s["story_key"]]) >= p["scoring"]["tally_promote_days"]
                     (cand if persisted else fill).append(
                         story(i, s, borderline=True, promoted=persisted))
-            items = keep(cand, p["weekly_max_items"], "weekly digest")
-            if len(items) < p["weekly_min_items"]:
-                items += keep(fill, p["weekly_min_items"] - len(items), "weekly digest")
+            limits = dict(quotas["weekly_max"])
+            reserved = quotas["weekly_reserved"]
+            gpool = [g for g in good_pool(week, set()) if g["id"] not in fatigue_ids]
+            good = keep(gpool, reserved.get("good_in_world", 0), "good in the world")
+            good_filled = bool(good) if reserved.get("good_in_world") else None
+            good_keys = {g["story_key"] for g in good}
+            room = p["weekly_max_items"] - len(good)
+            items = keep([c for c in cand if c["story_key"] not in good_keys], room, "weekly digest", limits, skipped)
+            if len(items) + len(good) < p["weekly_min_items"]:
+                items += keep([c for c in fill if c["story_key"] not in good_keys],
+                              p["weekly_min_items"] - len(items) - len(good), "weekly digest", limits, skipped)
+            items += good
             note = write_items(p, items, "weekly digest")
             for item in items[: p["deep_dives_per_week"]]:
                 dd = deep_dive(p, item)
@@ -367,9 +464,14 @@ def main() -> int:
             digest["methodology"] = methodology(week, {x["id"] for x in items} | cut_ids(), fatigue_ids, "this week")
             digest["methodology"]["included"] = len(items)
             digest["methodology"]["skew_note"] = note or skew(items)
+            digest["methodology"]["notes"] = quota_notes(skipped, quotas["weekly_max"], reserved,
+                                                         {"good_in_world": good_filled}, {"good_in_world": len(gpool)},
+                                                         "weekly") + digest["methodology"]["notes"]
+            shown = list(items)
             newly_covered += [{**x, "kind": "weekly"} for x in items]
 
         digest["scored_by"] = sorted({scores[i]["scored_by"] for i in scores}) if scores else []
+        log_category_mix(digest, digest.get("emergencies", []) + shown, skipped, good_filled)
 
     if cuts:  # surface stage-2 cuts in the editorial-choices footer
         m = digest.setdefault("methodology", {"considered": 0, "included": 0, "notes": [], "borderline": [], "excluded": []})

@@ -231,3 +231,4 @@ dialog::backdrop { background: rgba(0, 0, 0, .35); }
 .copyright-page .card p:last-child { margin: 0; }
 .badge.unverified { color: var(--danger); border-color: color-mix(in srgb, var(--danger) 45%, var(--border)); text-transform: none; letter-spacing: 0; }
 .review-cuts li { margin-bottom: 8px; }
+.badge.good { color: var(--ok); border-color: color-mix(in srgb, var(--ok) 45%, var(--border)); }

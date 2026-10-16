@@ -153,6 +153,7 @@ def main() -> int:
                     "circle_hint": feed.get("circle", "national"),
                     "domain_feed": bool(feed.get("domain")),
                     "flourishing_feed": bool(feed.get("flourishing")),
+                    "category_hint": feed.get("category"),
                     "summary": clean_text(entry["summary"]),
                     # Keep the first-seen time for undated items so they age out.
                     "published": (published.isoformat() if published
