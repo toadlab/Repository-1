@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T08:48:09.171008+00:00",
+ "generated": "2026-10-16T09:45:14.452669+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 34
+   "count": 37
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,28 @@
  ],
  "items": [
   {
+   "id": "1639b8196791",
+   "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+   "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Joshua Foster will have to pay 3,000 euro (£2,500), a judge in Paphos rules.",
+   "published": "2026-10-16T09:41:53+00:00"
+  },
+  {
+   "id": "adb9ff1cde83",
+   "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+   "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
+   "published": "2026-10-16T09:34:30+00:00"
+  },
+  {
    "id": "861751902c4d",
    "title": "EU’s von der Leyen pledges to ‘not lift any sanctions unless Russia stops the war’ as leaders discuss Ukraine – Europe live",
    "link": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates",
@@ -136,8 +158,272 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "European leaders are meeting in Brussels amid worsening relations between Washington and Kyiv Denmark’s prime minister, Mette Frederiksen, has also acknowledged the situation is very difficult given tensions with the US just as winter is “fast approaching.” “We must continue to…",
-   "published": "2026-10-16T08:36:58+00:00"
+   "summary": "European leaders are meeting in Brussels amid worsening relations between Washington and Kyiv Several leaders offered Zelenskyy very friendly welcome or, in some cases, simply a big hug as he walked into the room before the formal part of the meeting got under way. Speaking to…",
+   "published": "2026-10-16T09:23:11+00:00"
+  },
+  {
+   "id": "874329095228",
+   "title": "China-North Korea border bridge may do little to spur trade, experts say",
+   "link": "https://www.aljazeera.com/economy/2026/10/16/china-north-korea-border-bridge-may-do-little-to-spur-trade-experts-say?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sanctions and a North Korean leadership that prioritises security dim prospects for trade, analysts say.",
+   "published": "2026-10-16T09:21:40+00:00"
+  },
+  {
+   "id": "abf45cdca817",
+   "title": "Man Utd veering towards crisis as Man City cloud hangs over Premier League",
+   "link": "https://www.aljazeera.com/sports/2026/10/16/man-utd-veering-towards-crisis-as-man-city-cloud-hangs-over-premier-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lisandro Martinez apologises for his criticism after on-field spotlight shifts to Manchester United from City.",
+   "published": "2026-10-16T09:17:50+00:00"
+  },
+  {
+   "id": "a312c0d67e0b",
+   "title": "Indian police launch New Delhi clampdown for Cockroach Party rally",
+   "link": "https://www.aljazeera.com/news/2026/10/16/indian-police-launch-new-delhi-clampdown-for-cockroach-party-rally?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Cockroach Janta Party standoff with government extended as youth-led movement calls protest over jailing of activists.",
+   "published": "2026-10-16T09:17:47+00:00"
+  },
+  {
+   "id": "08fec06f0fc3",
+   "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
+   "link": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Federal Reserve Chair Kevin Warsh had an opportunity Thursday night to shape expectations heading into the central bank’s interest-rate-setting meeting in two week’s time — and in keeping with his practice of leaving markets guessing, he chose not to.",
+   "published": "2026-10-16T09:16:00+00:00"
+  },
+  {
+   "id": "8e56c5510408",
+   "title": "‘It’s a wait-and-see situation’: I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+   "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+   "published": "2026-10-16T09:15:00+00:00"
+  },
+  {
+   "id": "3f1d45cba743",
+   "title": "Trump calls Ukraine’s renewed strikes on Russian oil refineries a ‘disgrace’",
+   "link": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US president says Zelenskyy ‘more difficult ​to deal with ​than Putin’ after ‘energy ceasefire’ collapses Europe live – latest updates Donald Trump has called Ukraine’s renewed strikes on Russian oil refineries a “disgrace”, while renewing his criticism of Volodymyr ⁠Zelenskyy…",
+   "published": "2026-10-16T09:05:55+00:00"
+  },
+  {
+   "id": "f317d06951c5",
+   "title": "The pull of Nashville: A dozen celebrities who have moved to Tennessee, and why",
+   "link": "https://www.marketwatch.com/story/the-pull-of-nashville-a-dozen-celebrities-who-have-moved-to-tennessee-and-why-68446959?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Nashville has long been home to many big names in R&B and country music, but over the last few years, celebrities from a variety of industries have flocked to the Music City.",
+   "published": "2026-10-16T09:05:00+00:00"
+  },
+  {
+   "id": "b277047e2f6a",
+   "title": "Could data center opposition boost Democrats in Indiana House races?",
+   "link": "https://indianacapitalchronicle.com/2026/10/16/could-data-center-opposition-boost-democrats-in-indiana-house-races/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Democrats are looking to ride a wave of widespread opposition to big data center projects across the state as they aim to pick up seats in the Indiana House.",
+   "published": "2026-10-16T09:00:56+00:00"
+  },
+  {
+   "id": "5565b3a619d9",
+   "title": "Perseverance drives Angel Reese – and WNBA – into the 2026 championship",
+   "link": "https://www.csmonitor.com/USA/Society/2026/1016/wnba-valkyries-dream-angel-reese?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As the Atlanta Dream and Golden State Valkyries prepare to face each other Saturday for the WNBA championship, Dream star Angel Reese models a story of persistence that finds echoes more broadly in the league itself.",
+   "published": "2026-10-16T09:00:17+00:00"
+  },
+  {
+   "id": "23db90ec1420",
+   "title": "‘Music Against the Night’ plays like a major literary composition",
+   "link": "https://www.csmonitor.com/Arts-Culture/Books/2026/1016/yiyun-li-music-against-the-night?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Yiyun Li’s new historical novel chronicles the intertwined lives of two musicians. It examines the nature of ambition and the temptation to cross the line demarcating art and commerce.",
+   "published": "2026-10-16T09:00:10+00:00"
+  },
+  {
+   "id": "8ba822ed4970",
+   "title": "Predicting or gambling? New markets invade all areas of society",
+   "link": "https://indianacapitalchronicle.com/2026/10/16/predicting-or-gambling-new-markets-invade-all-areas-of-society/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prediction markets are bending the common definition of gambling — and states across the nation are pushing back. Kalshi is the first federally regulated financial exchange in the United States dedicated to trading on the outcomes of future events. It handled billions in weekly…",
+   "published": "2026-10-16T09:00:08+00:00"
+  },
+  {
+   "id": "aba7063bc95a",
+   "title": "Lawmakers at odds over childcare funding and capacity",
+   "link": "https://mirrorindy.org/lawmakers-at-odds-over-childcare-funding-and-capacity/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Gov. Mike Braun believes the legislature has momentum to do more on childcare policy and funding. The post Lawmakers at odds over childcare funding and capacity appeared first on Mirror Indy .",
+   "published": "2026-10-16T09:00:00+00:00"
+  },
+  {
+   "id": "d1a8e2ad9c2a",
+   "title": "Remembering Oscar-winning actor Eva Marie Saint",
+   "link": "https://www.npr.org/2026/10/16/nx-s1-6003516/remembering-oscar-winning-actor-eva-marie-saint",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saint, who died Oct. 6, studied at the Actors Studio and was best known for her roles in On the Waterfront and the Hitchcock film North by Northwest. Originally broadcast in 2000.",
+   "published": "2026-10-16T09:00:00+00:00"
+  },
+  {
+   "id": "a9a12e1bd2ac",
+   "title": "Why some Gen Z voters who backed Trump now regret their decision",
+   "link": "https://www.npr.org/2026/10/16/nx-s1-5993835/gen-z-trump-voting-support",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A focus group of eight Gen Z Trump voters reported feeling unhappy or disappointed with the state of politics, with some going as far as to say they regret supporting him in 2024.",
+   "published": "2026-10-16T09:00:00+00:00"
+  },
+  {
+   "id": "c703f53bc617",
+   "title": "How much money has Musk given to Republican groups since July? The quiz knows",
+   "link": "https://www.npr.org/2026/10/16/g-s1-148041/pope-leo-musk-mamdani-trump-guilfoyle-news-quiz",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus, this week saw comings and goings at the White House, the revenge of a child (reality) star, and Elon Musk doing Elon Musk things.",
+   "published": "2026-10-16T09:00:00+00:00"
+  },
+  {
+   "id": "6e5bf1b7285e",
+   "title": "Do Americans own the president's papers? Appeals court to weigh in",
+   "link": "https://www.npr.org/2026/10/16/nx-s1-5996836/trump-who-owns-presidential-records-act-appeals-court",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The administration says papers created in the White House belong to Donald Trump, not to the American people. The case could ultimately end up at the conservative-leaning Supreme Court.",
+   "published": "2026-10-16T09:00:00+00:00"
+  },
+  {
+   "id": "10accce89ccf",
+   "title": "“Devoid of Any Factual Basis”: Again and Again, Judges Have Dismissed Trump’s Voter Data Lawsuits",
+   "link": "https://projects.propublica.org/trump-doj-voter-data-lawsuits",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post “Devoid of Any Factual Basis”: Again and Again, Judges Have Dismissed Trump’s Voter Data Lawsuits appeared first on ProPublica .",
+   "published": "2026-10-16T09:00:00+00:00"
+  },
+  {
+   "id": "59f4e1797d3f",
+   "title": "Morning news brief",
+   "link": "https://www.npr.org/2026/10/16/nx-s1-5998699/morning-news-brief",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three children and a teacher were killed in a shooting at an Oregon school, how Russia is viewing Ukraine's strikes and its growing rift with the U.S., DOJ sues California over its voter rolls.",
+   "published": "2026-10-16T08:58:56+00:00"
+  },
+  {
+   "id": "6f5dadea5776",
+   "title": "Greens leader denies knowledge of ‘secret dossier’ on how to handle Jordon Steele-John misconduct allegations",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/16/david-shoebridge-denies-secret-dossier-jordon-steel-john-misconduct-allegations-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "David Shoebridge says 47-page document not ‘made by, used by, or seen by’ his office as matter referred to parliamentary standards commission Get our new political email , free app or daily news podcast Greens leader David Shoebridge has denied knowledge of the existence of an…",
+   "published": "2026-10-16T08:55:19+00:00"
+  },
+  {
+   "id": "b7b9bbd99796",
+   "title": "Flash floods kill five and destroy villages in central Nepal",
+   "link": "https://www.theguardian.com/environment/2026/oct/16/flash-floods-deaths-nepal-high-temperatures-portugal",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Landslide blocks river and triggers downstream flooding, while summer temperatures persist in Portugal Flash floods have swept through Nepal’s central Gorkha district after a pre-dawn landslide on 11 October blocked the Budhi Gandaki River, triggering severe downstream…",
+   "published": "2026-10-16T08:51:27+00:00"
+  },
+  {
+   "id": "5d0436914829",
+   "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+   "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
+   "published": "2026-10-16T08:45:54+00:00"
+  },
+  {
+   "id": "d3b079ba3cbc",
+   "title": "Jenrick claims Farage has done more to stand against racism than ‘almost anybody’",
+   "link": "https://www.theguardian.com/politics/2026/oct/16/jenrick-farage-reform-done-more-stand-against-racism-than-almost-anybody",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Reform MP defends leader after ITV footage shows official warning Farage he is ‘protecting’ candidate over racist David Lammy comments The Reform UK MP Robert Jenrick sought to defend the party against fresh allegations that it hosts extremists by claiming that Nigel Farage had…",
+   "published": "2026-10-16T08:40:34+00:00"
+  },
+  {
+   "id": "2fae1799a9e2",
+   "title": "Asian Cup in Saudi Arabia still on, organisers say, but golf tour postponed",
+   "link": "https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Asian Cup preparations continue for January, but Asian Tour delays golf's Saudi Invitational after Houthi attacks.",
+   "published": "2026-10-16T08:36:54+00:00"
+  },
+  {
+   "id": "479a5bf13575",
+   "title": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
+   "link": "https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The review called for Norway's sovereign wealth fund to lift ethical risk limitations on its investments.",
+   "published": "2026-10-16T08:36:13+00:00"
   },
   {
    "id": "750773f5c33b",
@@ -173,17 +459,6 @@
    "published": "2026-10-16T08:14:53+00:00"
   },
   {
-   "id": "d3b079ba3cbc",
-   "title": "Jenrick claims Farage has done more to stand against racism than ‘almost anybody’",
-   "link": "https://www.theguardian.com/politics/2026/oct/16/jenrick-farage-reform-done-more-stand-against-racism-than-almost-anybody",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Reform MP defends leader after ITV footage shows official warning Farage he is ‘protecting’ candidate over racist David Lammy comments The Reform UK MP Robert Jenrick sought to defend the party against fresh allegations that it hosts extremists by claiming that Nigel Farage had…",
-   "published": "2026-10-16T08:01:00+00:00"
-  },
-  {
    "id": "b8de2637fabf",
    "title": "Brickbat: Penalty for Posting",
    "link": "https://reason.com/2026/10/16/brickbat-penalty-for-posting/",
@@ -204,17 +479,6 @@
    "flourishing_feed": true,
    "summary": "If you’re anything like us, you’re not exactly in a congenial mood right now. With the U.S. midterm elections fewer than three weeks away, you might be feeling combat-ready. And who could blame you? Seemingly on the ballot: the very future of the republic, steered by leaders…",
    "published": "2026-10-16T08:00:02+00:00"
-  },
-  {
-   "id": "6f5dadea5776",
-   "title": "Greens leader denies knowledge of ‘secret dossier’ on how to handle Jordon Steele-John misconduct allegations",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/16/david-shoebridge-denies-secret-dossier-jordon-steel-john-misconduct-allegations-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "David Shoebridge says 47-page document not ‘made by, used by, or seen by’ his office as matter referred to parliamentary standards commission Get our new political email , free app or daily news podcast Greens leader David Shoebridge has denied knowledge of the existence of an…",
-   "published": "2026-10-16T07:38:58+00:00"
   },
   {
    "id": "9df174b94132",
@@ -248,17 +512,6 @@
    "flourishing_feed": false,
    "summary": "Campaigners welcome legislation which follows recommendations by 2025 review into pornography regulation Pornography that depicts strangulation and incestuous relationships will be banned from early November, the UK government has announced. The content will be outlawed from 6…",
    "published": "2026-10-16T07:09:49+00:00"
-  },
-  {
-   "id": "08fec06f0fc3",
-   "title": "Here are the key things Fed Chairman Kevin Warsh said — and didn’t say — while Americans were sleeping Thursday night",
-   "link": "https://www.marketwatch.com/story/here-are-the-key-things-fed-chairman-kevin-warsh-said-and-didnt-say-while-americans-were-sleeping-thursday-night-b82238a1?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Federal Reserve Chair Kevin Warsh had an opportunity Thursday night to shape expectations heading into the central bank’s interest-rate-setting meeting in two week’s time — and in keeping with his practice of leaving markets guessing, he chose not to.",
-   "published": "2026-10-16T07:07:00+00:00"
   },
   {
    "id": "5b9fc70e23d8",
@@ -393,17 +646,6 @@
    "published": "2026-10-16T06:12:04+00:00"
   },
   {
-   "id": "3f1d45cba743",
-   "title": "Trump calls Ukraine’s resumption of strikes on Russian oil refineries a ‘disgrace’",
-   "link": "https://www.theguardian.com/world/2026/oct/16/trump-calls-ukraines-resumption-of-strikes-on-russian-oil-refineries-a-disgrace",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "US president says Zelenskyy ‘more difficult ​to deal with ​than Putin’ after so-called energy ceasefire collapses Donald Trump has called Ukraine’s renewed strikes on Russian oil refineries a “disgrace”, while renewing his criticism of Volodymyr ⁠Zelenskyy after an energy…",
-   "published": "2026-10-16T06:02:52+00:00"
-  },
-  {
    "id": "a9ac325c9ccd",
    "title": "Vibe coding: Game-changer or risky business?",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss",
@@ -532,7 +774,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Rights group says Youssef al-Manasif was tortured and first met his lawyer five years after arrest for non-violent crimes A young man faces imminent execution in Saudi Arabia for attending protests and funerals when he was aged 15 to 17, say human rights groups, in the latest…",
+   "summary": "Use of the death penalty against people for crimes committed when they were children a ‘new low’ say rights groups A young man faces imminent execution in Saudi Arabia for attending protests and funerals when he was aged 15 to 17, say human rights groups, in the latest example…",
    "published": "2026-10-16T05:00:51+00:00"
   },
   {
@@ -686,7 +928,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Maeen Abdulmalik Saeed says Iran-backed militia’s use of drones represents ‘new era of radical terrorism’ The future of western security is being fought out in the mountains and hills surrounding the south-western Yemeni city of Taiz, the country’s former prime minster has…",
+   "summary": "Maeen Abdulmalik Saeed says Iran-backed militia’s use of drones represents ‘new era of radical terrorism’ Food and fuel run low as besieged Yemeni city braces for Houthi breakthrough The future of western security is being fought out in the mountains and hills surrounding the…",
    "published": "2026-10-16T04:00:50+00:00"
   },
   {
@@ -80075,17 +80317,6 @@
    "flourishing_feed": false,
    "summary": "The Securities and Exchange Commission today proposed to update the rules and forms that apply to registered transfer agents.Transfer agents are a key component of the national clearance and settlement system. Transfer agents now perform a more diverse…",
    "published": "2026-09-01T14:57:00+00:00"
-  },
-  {
-   "id": "85f113851923",
-   "title": "State Personnel Department seeks raises for hundreds of employees in next budget session",
-   "link": "https://indianacapitalchronicle.com/2026/09/01/state-personnel-department-seeks-raises-for-hundreds-of-employees-in-next-budget-session/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Indiana State Personnel Department is seeking $151 million in raises for state attorneys, laboratory technicians and other employees whose wages have not kept pace with the market. Secretary of Management and Budget Lisa Hershman presented the State Budget Committee last…",
-   "published": "2026-09-01T09:00:51+00:00"
   }
  ]
 }
