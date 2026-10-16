@@ -1,5 +1,5 @@
 {
-  "_comment": "Each feed carries a circle hint (local, state, national, international) and optional flags. Claude re-checks the circle per story; the hint is a starting point. OPEN: add your town and county paper and local government agenda feeds under local.",
+  "_comment": "Each feed carries a circle hint (local, state, national, international) and optional flags. Claude re-checks the circle per story; the hint is a starting point. \"category\": \"good_in_world\" marks a good-news feed; other feeds' stories can still land in that category on their flourishing score (Christian Science Monitor is one). OPEN: add your town and county paper and local government agenda feeds under local.",
   "max_age_days": 45,
   "max_items_per_feed": 100,
   "feeds": [
@@ -30,7 +30,8 @@
     { "name": "WealthManagement.com",      "circle": "national", "domain": true, "url": "https://www.wealthmanagement.com/rss.xml" },
     { "name": "MarketWatch",               "circle": "national", "domain": true, "url": "https://feeds.content.dowjones.io/public/rss/mw_topstories" },
 
-    { "name": "Reasons to be Cheerful",    "circle": "international", "flourishing": true, "url": "https://reasonstobecheerful.world/feed/" },
-    { "name": "Positive News",             "circle": "international", "flourishing": true, "url": "https://www.positive.news/feed/" }
+    { "name": "Reasons to be Cheerful",    "circle": "international", "flourishing": true, "category": "good_in_world", "url": "https://reasonstobecheerful.world/feed/" },
+    { "name": "Positive News",             "circle": "international", "flourishing": true, "category": "good_in_world", "url": "https://www.positive.news/feed/" },
+    { "name": "Fix the News",              "circle": "international", "flourishing": true, "category": "good_in_world", "url": "https://fixthenews.com/feed" }
   ]
 }

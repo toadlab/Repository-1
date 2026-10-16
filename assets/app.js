@@ -213,6 +213,7 @@
     const head = h("div", { class: "story-head", role: "button", tabindex: 0, "aria-expanded": "false" },
       h("div", { class: "story-text" },
         h("h3", {}, item.title, item.borderline && h("span", { class: "badge" }, "borderline"), dd && h("span", { class: "badge deep" }, "deep dive"),
+          item.category === "good_in_world" && h("span", { class: "badge good" }, "good in the world"),
           item.label && h("span", { class: "badge unverified" }, item.label)),
         ourSummary(item) && h("p", { class: "blurb" }, firstSentence(ourSummary(item)))),
       flagBtn);
