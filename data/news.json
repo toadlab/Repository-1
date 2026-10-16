@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T01:42:52.806349+00:00",
+ "generated": "2026-10-16T02:45:17.208912+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 32
+   "count": 34
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,105 @@
  ],
  "items": [
   {
+   "id": "217963996d31",
+   "title": "Tesla finally delivers on its promise to create a flying car",
+   "link": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Tesla’s demonstration of a levitating Roadster sports car was “an engineering flex with no commercial value beyond embarrassing traditional car makers.”",
+   "published": "2026-10-16T02:42:00+00:00"
+  },
+  {
+   "id": "ec13367c2ac3",
+   "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
+   "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The suspect was shot dead by a local community member who followed him into the school, said police.",
+   "published": "2026-10-16T02:32:49+00:00"
+  },
+  {
+   "id": "5d6e9e47326f",
+   "title": "Argentine students protest on campus over Milei’s austerity",
+   "link": "https://www.aljazeera.com/news/2026/10/16/argentine-students-protest-on-campus-over-mileis-austerity?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Judge fines the government for failing to fund universities as protests over Milei's cuts turn violent.",
+   "published": "2026-10-16T02:11:33+00:00"
+  },
+  {
+   "id": "562506cbfeaf",
+   "title": "Peshawar mourns children killed in school roof collapse",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/peshawar-mourns-children-killed-in-school-roof-collapse?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thousands gather for funeral prayers in Pakistan’s Peshawar after a school rooftop collapse killed at least 34 children.",
+   "published": "2026-10-16T02:01:43+00:00"
+  },
+  {
+   "id": "4775b4e50ac0",
+   "title": "Progressives, AIPAC and the future of the Democratic Party",
+   "link": "https://www.aljazeera.com/video/head-to-head/2026/10/16/progressives-aipac-and-the-future-of-the-democratic-party?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mehdi Hasan goes Head to Head with ex-Biden official Neera Tanden on the Democratic Party’s chances in the US midterms.",
+   "published": "2026-10-16T02:01:15+00:00"
+  },
+  {
+   "id": "112a11ec30e6",
+   "title": "Who is responsible when AI causes harm?",
+   "link": "https://www.deseret.com/utah/2026/10/15/artificial-intelligence-harms-your-child-who-is-responsbile/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Medlir Mema, director of the AI Ethics and Governance Institute, described artificial intelligence as a “gray rhino problem” during a Regulatory Reform Summit on artificial intelligence Thursday at Utah Valley University. “Imagine the gray rhino,” he started. “When you think…",
+   "published": "2026-10-16T02:00:00+00:00"
+  },
+  {
+   "id": "733e6acd82cd",
+   "title": "Pentagon says Trump and Hegseth ‘completely aligned’ on decision to cancel livestream of firing squad execution – as it happened",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This live blog is now closed. Sign up for the Breaking News US email The US government could spend hundreds of thousands of dollars on a media campaign in South Africa to figure out why more white Afrikaners are not applying to become refugees to the US , as Donald Trump had…",
+   "published": "2026-10-16T01:59:51+00:00"
+  },
+  {
+   "id": "0379fd9bcbd5",
+   "title": "Evacuations issued as multiple wildfires ignite in hot, windy California",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/wildfire-california-high-temperatures-strong-winds",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Largest blaze the Henderson fire near San Diego as strong winds and severe heat could fuel rapid spread Multiple wildfires ignited across California on Thursday as the state braced for more strong winds and high temperatures that could fuel rapid fire growth over the next…",
+   "published": "2026-10-16T01:58:52+00:00"
+  },
+  {
+   "id": "6d2054152532",
+   "title": "FBI investigates letters with ‘unknown substance’ sent to US election officials",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Election officers in Louisiana and Oklahoma receive a powdery substance, prompting evacuations The FBI and the US Postal Inspection Service are investigating letters sent to state officials and election offices across the country containing an “unknown substance”. Just weeks…",
+   "published": "2026-10-16T01:55:46+00:00"
+  },
+  {
    "id": "4bb2b6a10862",
    "title": "Shooter kills three children and one teacher at Oregon elementary school",
    "link": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
@@ -136,8 +235,52 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Two people critical in hospital as officials in Bend say 16-year-old suspect shot dead by bystander A 16-year-old shooter opened fire at an elementary school in Bend, Oregon, on Thursday, fatally shooting a teacher and three children, before he was killed by a community member,…",
-   "published": "2026-10-16T01:24:59+00:00"
+   "summary": "Two people critical in hospital as officials in Bend say 16-year-old suspect shot dead by bystander Oregon elementary school shooting: what we know so far A 16-year-old shooter opened fire at an elementary school in Bend, Oregon, on Thursday, fatally shooting a teacher and…",
+   "published": "2026-10-16T01:53:19+00:00"
+  },
+  {
+   "id": "8e8aea70dcb1",
+   "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+   "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+   "published": "2026-10-16T01:36:45+00:00"
+  },
+  {
+   "id": "7d71e878fb4a",
+   "title": "Police reveal identity of man found in a barrel in drought-stricken Lake Mead",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/edward-lelburian-jackson-barrel-lake-mead",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The remains of Edward Lelburian Jackson were first discovered in 2022, and an initial autopsy revealed he was killed decades ago After four years, a piece of the haunting mystery uncovered in the waning waters of drought-stricken Lake Mead has been solved. Since the remains of…",
+   "published": "2026-10-16T01:34:53+00:00"
+  },
+  {
+   "id": "a0d6097fe9c1",
+   "title": "Myanmar’s coup leader-turned-president wins back neighbours despite war",
+   "link": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "ASEAN leaders are embracing Min Aung Hlaing, but critics warn it emboldens a military still bombing civilians.",
+   "published": "2026-10-16T01:34:47+00:00"
+  },
+  {
+   "id": "1490d93c8736",
+   "title": "Clashes erupt at protest over university funding law in Argentina",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/clashes-erupt-at-protest-over-university-funding-law-in-argentina?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Protesters in Buenos Aires demanded the government implement a law to boost university funding.",
+   "published": "2026-10-16T01:19:25+00:00"
   },
   {
    "id": "efa38f8dfef8",
@@ -182,17 +325,6 @@
    "flourishing_feed": false,
    "summary": "After repeated currency crises, Zimbabweans remain wary of the ZiG.",
    "published": "2026-10-16T01:12:26+00:00"
-  },
-  {
-   "id": "733e6acd82cd",
-   "title": "Pentagon says Trump and Hegseth ‘completely aligned’ on decision to cancel livestream of firing squad execution – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Pentagon spokesperson says pair spoke before announcement canceling plan to broadcast execution of Nidal Hasan, who killed 13 people at Fort Hood Q&A: Our reporters answered your questions about the US economy and the midterm elections Sign up for the Breaking News US email The…",
-   "published": "2026-10-16T00:36:47+00:00"
   },
   {
    "id": "2ea9722d109b",
@@ -394,13 +526,13 @@
   },
   {
    "id": "d86b43fad5c0",
-   "title": "At least 4, including 3 children, killed in US elementary school shooting",
+   "title": "Three children, one teacher killed in Oregon school shooting",
    "link": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Authorities have indicated that the shooter was killed by gunfire, though details remain scant about the attack.",
+   "summary": "The police chief in Bend, Oregon, identified the shooter as a 16-year-old who was killed by a bystander at the school.",
    "published": "2026-10-15T22:51:56+00:00"
   },
   {
@@ -712,17 +844,6 @@
    "published": "2026-10-15T21:00:01+00:00"
   },
   {
-   "id": "0379fd9bcbd5",
-   "title": "California faces more extreme weather as hot, windy days raise wildfire risk",
-   "link": "https://www.theguardian.com/us-news/2026/oct/15/wildfire-california-high-temperatures-strong-winds",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Warnings come as Californians have already in autumn felt brutal heatwave and storm surge that battered coast Communities across California are bracing for more dangerous weather this week, with strong winds and high temperatures that could set the stage for rapid wildfire…",
-   "published": "2026-10-15T20:56:02+00:00"
-  },
-  {
    "id": "268b02329c07",
    "title": "Hit a midlife wall? This test identifies your strengths and what matters to you",
    "link": "https://www.npr.org/2026/10/15/nx-s1-5996678/midlife-wall-reset-test-guide",
@@ -864,17 +985,6 @@
    "flourishing_feed": false,
    "summary": "Poll shows right-wing candidate with two percent advantage over Lula going into second round of voting on October 25.",
    "published": "2026-10-15T20:07:58+00:00"
-  },
-  {
-   "id": "6d2054152532",
-   "title": "FBI investigates letters with ‘unknown substance’ sent to US election officials",
-   "link": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Election officers in Louisiana and Oklahoma receive a powdery substance, prompting evacuations The FBI and the US Postal Inspection Service are investigating letters sent to state officials and election offices across the country containing an “unknown substance”. Just weeks…",
-   "published": "2026-10-15T20:06:24+00:00"
   },
   {
    "id": "b2e6f7ee9ff3",
@@ -1744,17 +1854,6 @@
    "flourishing_feed": false,
    "summary": "The Atlantic writer Josh Tyrangiel says Musk and Bezos each want to colonize the moon, mine its resources and launch thousands more satellites. He says their only real competition is each other.",
    "published": "2026-10-15T16:45:02+00:00"
-  },
-  {
-   "id": "217963996d31",
-   "title": "Tesla may finally debut a flying car today, after testing fans’ patience for nearly a decade",
-   "link": "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Elon Musk is set to reintroduce the Roadster sports car, possibly equipped with SpaceX thrusters.",
-   "published": "2026-10-15T16:43:00+00:00"
   },
   {
    "id": "035fc27cd609",
