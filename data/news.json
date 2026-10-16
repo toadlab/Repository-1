@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T03:46:13.359987+00:00",
+ "generated": "2026-10-16T04:46:00.651123+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "name": "Federal Register: IRS",
@@ -129,15 +129,103 @@
  ],
  "items": [
   {
+   "id": "b3ac4415c200",
+   "title": "High school football roundup for Thursday, Oct. 15 (Week 10)",
+   "link": "https://www.deseret.com/sports/2026/10/15/high-school-football-week-10-roundup-thursday/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Region 2 Herriman 57, Cedar Valley 19 Filisi Filipe led Herriman (7-2) to a resounding 57-19 Region 2 victory over Cedar Valley (1-8) by scoring three rushing touchdowns, including a 12-yard run early in the first quarter. Herriman quickly responded to Cedar Valley’s initial…",
+   "published": "2026-10-16T04:39:23+00:00"
+  },
+  {
+   "id": "27f547fa9408",
+   "title": "High school boys golf: Morgan wins 2nd straight 3A championship, Jace Benson birdies final 3 holes to take individual title",
+   "link": "https://www.deseret.com/sports/2026/10/15/high-school-boys-golf-3a-state-championship/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "After holding a comfortable 13-stroke lead heading into Thursday’s second and final day of the 3A Utah high school golf championships, Morgan remained composed and steady, shooting a team score of 292 on Day 2. With a total team score of 583, the Trojans claimed the title for…",
+   "published": "2026-10-16T04:12:59+00:00"
+  },
+  {
+   "id": "751be89bf9e0",
+   "title": "College football player Tyler Ulrich dies five days after ‘traumatic injury’ during game",
+   "link": "https://www.theguardian.com/sport/2026/oct/16/southern-nazarene-university-tyler-ulrich-death-college-football",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "21-year-old was treated on field after injury during game Coach pays tribute to player’s ‘quiet strength’ Southern Nazarene University in Oklahoma announced on Thursday that sophomore safety Tyler Ulrich has died five days after sustaining what the school called a “traumatic…",
+   "published": "2026-10-16T04:12:32+00:00"
+  },
+  {
+   "id": "86d45ae8566b",
+   "title": "Number of cloned number plates on UK roads at record high, data shows",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/16/cloned-number-plates-uk-roads-record-high",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 11,400 drivers last year were fined for offences they did not recognise as RAC says system needs reform The number of reported “cloned” vehicles involved in offences on UK roads has reached a record high, official data shows. More than 11,400 drivers contacted the…",
+   "published": "2026-10-16T04:00:52+00:00"
+  },
+  {
+   "id": "3bcd19347769",
+   "title": "Is JD Vance campaigning for the midterms … or 2028? – podcast",
+   "link": "https://www.theguardian.com/politics/audio/2026/oct/16/jd-vance-campaign-midterms-or-2028-podcast",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US vice-president is following the Donald Trump playbook, attacking the Democrats, attempting to make jokes and even swearing more. Jonathan Freedland talks to Arwa Mahdawi about why Vance is making such an effort to court voters Buy your tickets to the Guardian’s…",
+   "published": "2026-10-16T04:00:52+00:00"
+  },
+  {
+   "id": "c53f14d4ab93",
+   "title": "Future of western security is at stake in Yemen civil war, says country’s former PM",
+   "link": "https://www.theguardian.com/world/2026/oct/16/future-western-security-at-stake-yemen-civil-war-former-pm",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Maeen Abdulmalik Saeed says Iran-backed militia’s use of drones represents ‘new era of radical terrorism’ The future of western security is being fought out in the mountains and hills surrounding the south-western Yemeni city of Taiz, the country’s former prime minster has…",
+   "published": "2026-10-16T04:00:50+00:00"
+  },
+  {
+   "id": "3b0fec77cd48",
+   "title": "French police accused over war-like injuries to teenagers in school protests",
+   "link": "https://www.theguardian.com/world/2026/oct/16/french-police-injuries-teenagers-school-protests-arrests-custody",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Four children allegedly ‘mutilated’ by explosive weapons and lawyers say unprecedented number held in custody French lawyers and rights groups have said that several teenagers have suffered war-like injuries from police weapons used during school protests , and an unprecedented…",
+   "published": "2026-10-16T04:00:49+00:00"
+  },
+  {
    "id": "ec13367c2ac3",
-   "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
+   "title": "Three children and teacher killed in US primary school shooting",
    "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The suspect was shot dead by a local community member who followed him into the school, said police.",
+   "summary": "The suspect was shot dead by a community member who followed him into the Oregon school, police said.",
    "published": "2026-10-16T03:45:09+00:00"
+  },
+  {
+   "id": "0a2038948eb3",
+   "title": "Sydney suburb Dulwich Hill in lockdown as police search for man seen with shotgun",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/16/sydney-suburb-in-lockdown-as-police-search-for-man-armed-with-shotgun-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Widespread manhunt in city’s inner west after man reportedly seen carrying longarm weapon Get our breaking news email , free app or daily news podcast A large swathe of Dulwich Hill in Sydney’s inner west has been locked down by police as they search for a man reportedly…",
+   "published": "2026-10-16T03:41:50+00:00"
   },
   {
    "id": "14ef40f9c004",
@@ -405,13 +493,13 @@
   },
   {
    "id": "7593721356d2",
-   "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
+   "title": "Iran war live: Trump says ground troops unlikely in Iran; Saudi downs drone",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Saudi Arabia calls Houthi attacks 'full-fledged war crimes' while the US warns of possible attacks on Saudi airports.",
+   "summary": "President Trump says deployment of ground troops to Iran unlikely as Saudi Arabia downs drone in its Eastern Province.",
    "published": "2026-10-16T00:02:37+00:00"
   },
   {
@@ -79514,17 +79602,6 @@
    "flourishing_feed": false,
    "summary": "Jalapenos. Frozen berries. Beef. Alfalfa sprouts. A summer of food recalls, including the record-shattering cyclosporiasis outbreak tied to iceberg lettuce that has sickened thousands, has raised many Americans’ fears of contracting a foodborne illness. The recalls have focused…",
    "published": "2026-09-01T08:00:42+00:00"
-  },
-  {
-   "id": "da75b84f6bbe",
-   "title": "Agency Information Collection Activities; Comment Request on Form 1098-E",
-   "link": "https://www.federalregister.gov/documents/2026/09/01/2026-17839/agency-information-collection-activities-comment-request-on-form-1098-e",
-   "source": "Federal Register: IRS",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-   "published": "2026-09-01T04:00:00+00:00"
   }
  ]
 }
