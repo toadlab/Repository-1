@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T12:56:53.880712+00:00",
+ "generated": "2026-10-16T13:51:27.242460+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "name": "The Guardian World",
@@ -129,8 +129,206 @@
  ],
  "items": [
   {
+   "id": "f1f6e514e159",
+   "title": "Here’s why The Sports Bra Indy hasn’t opened yet",
+   "link": "https://mirrorindy.org/new-women-sports-bar-chain-delayed-opening-in-indianapolis/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Co-owner Eve Keller said construction and fundraising have caused delays. She’s hopeful the bar will open by the end of 2026. The post Here’s why The Sports Bra Indy hasn’t opened yet appeared first on Mirror Indy .",
+   "published": "2026-10-16T13:49:27+00:00"
+  },
+  {
+   "id": "3a1cdfa5c1d6",
+   "title": "Trump attacks Republicans for ‘hurting Texas’ as Paxton struggles against surging Talarico – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump lambasted senator John Cornyn and strategist Karl Rove, claiming that they were ‘sadly, and very stupidly’ working against Paxton due to personal jealousy Sign up for the Breaking News US email Trump’s new press secretary Katie Zacharia has been on the defense since her…",
+   "published": "2026-10-16T13:39:06+00:00"
+  },
+  {
+   "id": "8683e3afebb0",
+   "title": "California brush fires force evacuations and tens of thousands of power shutoffs",
+   "link": "https://www.theguardian.com/us-news/2026/oct/16/southern-california-brush-fires-force-evacuations",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hot, windy weather stokes fires in southern California as utilities shut off power to 150,000 customers as precaution Several brush fires stoked by hot, windy weather forced evacuations in southern California, and tens of thousands of people woke up in the dark after their…",
+   "published": "2026-10-16T13:31:18+00:00"
+  },
+  {
+   "id": "6499a5eb0e28",
+   "title": "Musk's Meddling",
+   "link": "https://reason.com/2026/10/16/musks-meddling/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: Hochul's race, shooting in Oregon, Taiwanese export controls for chips, and more...",
+   "published": "2026-10-16T13:30:36+00:00"
+  },
+  {
+   "id": "861751902c4d",
+   "title": "‘This is my answer’: Zelenskyy smiles at suggestion he is a scapegoat for Trump’s problems – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine president also says Starlink speeds not fully restored and Kyiv working with France on other options Several leaders offered Zelenskyy very friendly welcome or, in some cases, simply a big hug as he walked into the room before the formal part of the meeting got under…",
+   "published": "2026-10-16T13:30:17+00:00"
+  },
+  {
+   "id": "83f1af2cc73d",
+   "title": "Burnham says ‘too much time is wasted in those dramas’ when asked about Scottish independence – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/16/andy-burnham-scotland-devolution-speech-reform-uk-documentary-jenrick-farage-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The prime minister says he wants to focus on tackling the cost of living Burnham spoke of Ravenscraig, once the pride of Scotland’s steel industry that employed tens of thousands of people before it closed in 1992. He said: When it closed, it wasn’t just a works that shut, it…",
+   "published": "2026-10-16T13:27:51+00:00"
+  },
+  {
+   "id": "c267b8097d6f",
+   "title": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
+   "link": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli settlers attacked Palestinians harvesting olives and severely beat Washington Post photojournalist Heidi Levine.",
+   "published": "2026-10-16T13:26:47+00:00"
+  },
+  {
+   "id": "6f80f42b8e3f",
+   "title": "Crowds throng New Delhi and wave Indian flags amid escalating protests",
+   "link": "https://www.npr.org/2026/10/16/g-s1-148383/crowds-throng-new-delhi-and-wave-indian-flags-amid-escalating-protests",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Protests have intensified over a review of voter lists that critics say is politically motivated and threatens to disenfranchise voters. The Election Commission and Modi's administration deny these allegations.",
+   "published": "2026-10-16T13:26:43+00:00"
+  },
+  {
+   "id": "adb9ff1cde83",
+   "title": "Zelensky says Ukraine has right to defend itself after Trump criticism",
+   "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "EU leaders rally around Ukraine's leader after Donald Trump says he is \"more difficult to work with than Putin\".",
+   "published": "2026-10-16T13:25:48+00:00"
+  },
+  {
+   "id": "9f2466e55180",
+   "title": "H.R. 3756, FISH Act of 2025",
+   "link": "https://www.cbo.gov/publication/62858",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As ordered reported by the House Committee on Natural Resources on April 21, 2026",
+   "published": "2026-10-16T13:22:00+00:00"
+  },
+  {
+   "id": "2d49bc81b35e",
+   "title": "Spain punished by FIFA for Islamophobic chants during Egypt friendly",
+   "link": "https://www.aljazeera.com/sports/2026/10/16/spain-punished-by-fifa-for-islamophobic-chants-in-egypt-friendly?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Spain sanctioned by FIFA after incidents at Espanyol's stadium in Barcelona, which staged the friendly with Egypt.",
+   "published": "2026-10-16T13:13:12+00:00"
+  },
+  {
+   "id": "dc4432324160",
+   "title": "India call up Bhuvneshwar for West Indies T20 finale with doubt over Singh",
+   "link": "https://www.aljazeera.com/sports/2026/10/16/india-call-up-bhuvneshwar-for-west-indies-t20-finale-with-doubt-over-singh?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bhuvneshwar Kumar added to India squad for fifth and final T20 of series with West Indies, as Arshdeep Singh a doubt.",
+   "published": "2026-10-16T13:09:56+00:00"
+  },
+  {
+   "id": "10203bde3b4c",
+   "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+   "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
+   "published": "2026-10-16T13:09:43+00:00"
+  },
+  {
+   "id": "0ac91867fda6",
+   "title": "Israeli settlers continue pogrom amid olive harvest in occupied West Bank",
+   "link": "https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least two people, including Washington Post journalist, injured as settlers armed with clubs and guns attack.",
+   "published": "2026-10-16T13:04:32+00:00"
+  },
+  {
+   "id": "1639b8196791",
+   "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+   "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
+   "published": "2026-10-16T13:01:06+00:00"
+  },
+  {
+   "id": "136ccc5e3c9c",
+   "title": "Neet rates higher in England’s smaller cities and towns than in biggest cities",
+   "link": "https://www.theguardian.com/society/2026/oct/16/neet-rates-england-smaller-cities-towns-youth-unemployment-training",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Initiatives to address youth employment crisis and offer training are being launched in towns such as Telford Smaller cities and towns across England have higher rates of young people not in employment, education or training than the nine largest cities, analysis shows. The…",
+   "published": "2026-10-16T13:00:11+00:00"
+  },
+  {
+   "id": "d4df3a86b286",
+   "title": "How UN chief Antonio Guterres tests the limits of quiet diplomacy",
+   "link": "https://www.aljazeera.com/features/longform/2026/10/16/how-un-chief-antonio-guterres-tests-the-limits-of-quiet-diplomacy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Portugal's ex-PM seeks to resolve crises via patient negotiation, but success relies on leaders' willingness to act.",
+   "published": "2026-10-16T12:57:47+00:00"
+  },
+  {
+   "id": "a785630ce612",
+   "title": "India police detain ‘Cockroach’ party founder ahead of protest",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/india-police-detain-cockroach-party-founder-ahead-of-protest?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Indian police detained Cockroach Janta Party founder Abhijeet Dipke ahead of a protest.",
+   "published": "2026-10-16T12:55:54+00:00"
+  },
+  {
    "id": "5c867da25f1e",
-   "title": "Pro-Nazi chants before Ajax match slammed by Croatia leaders",
+   "title": "Pro-Nazi chants before Hajduk Split-Ajax UEFA Europa League match slammed",
    "link": "https://www.aljazeera.com/sports/2026/10/16/pro-nazi-chants-ahead-of-ajax-match-slammed-by-croatia-leaders?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -141,7 +339,7 @@
   },
   {
    "id": "9b5b9f21098b",
-   "title": "Norwegian teenager hired as hitman by Iranian crime gang jailed for 20 years",
+   "title": "Norwegian teenage hitman hired for UK murder by Iran-backed crime gang jailed for 20 years",
    "link": "https://www.theguardian.com/uk-news/2026/oct/16/norwegian-teenager-hired-hitman-iranian-gang-jailed-20-years",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -149,28 +347,6 @@
    "flourishing_feed": false,
    "summary": "Johannes Kongsnes Natland, 19, was arrested in Huddersfield with two guns and live ammunition A teenage hitman who travelled from Norway to the UK with the intention of carrying out a murder on behalf of an Iran-backed international crime gang has been jailed for 20 years.…",
    "published": "2026-10-16T12:40:12+00:00"
-  },
-  {
-   "id": "861751902c4d",
-   "title": "‘That is my answer’: Zelenskyy smiles at suggestion he is a scapegoat for Trump’s problems – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Ukraine president also says Starlink speeds not fully restored and Kyiv working with France on other options Several leaders offered Zelenskyy very friendly welcome or, in some cases, simply a big hug as he walked into the room before the formal part of the meeting got under…",
-   "published": "2026-10-16T12:39:19+00:00"
-  },
-  {
-   "id": "83f1af2cc73d",
-   "title": "Burnham says he wants to devolve power so places can ‘change things for themselves’ – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/16/andy-burnham-scotland-devolution-speech-reform-uk-documentary-jenrick-farage-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The prime minister is speaking about devolving decision-making powers away from both Westminster and Holyrood towards regions and towns Burnham spoke of Ravenscraig, once the pride of Scotland’s steel industry that employed tens of thousands of people before it closed in 1992.…",
-   "published": "2026-10-16T12:36:01+00:00"
   },
   {
    "id": "97f8f1df7ebe",
@@ -193,17 +369,6 @@
    "flourishing_feed": false,
    "summary": "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
    "published": "2026-10-16T12:32:31+00:00"
-  },
-  {
-   "id": "3a1cdfa5c1d6",
-   "title": "Trump attacks Republicans for ‘hurting Texas’ as Paxton struggles against surging Talarico – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Trump lambasted senator John Cornyn and strategist Karl Rove, claiming that they were ‘sadly, and very stupidly’ working against Paxton due to personal jealousy Sign up for the Breaking News US email Donald Trump will begin the day in Washington, before he resumes his midterms…",
-   "published": "2026-10-16T12:25:18+00:00"
   },
   {
    "id": "0503e97f6584",
@@ -237,17 +402,6 @@
    "flourishing_feed": false,
    "summary": "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions.",
    "published": "2026-10-16T12:16:42+00:00"
-  },
-  {
-   "id": "1639b8196791",
-   "title": "Dad fined after son, 2, died in Cyprus hotel fall",
-   "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
-   "published": "2026-10-16T12:14:12+00:00"
   },
   {
    "id": "a9cb95b06adb",
@@ -567,17 +721,6 @@
    "flourishing_feed": false,
    "summary": "India host West Indies in the final match of the tour on Saturday with an all-time classic T20 series level at 2-2.",
    "published": "2026-10-16T10:37:48+00:00"
-  },
-  {
-   "id": "adb9ff1cde83",
-   "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-   "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels.",
-   "published": "2026-10-16T10:37:47+00:00"
   },
   {
    "id": "c12fc6599897",
