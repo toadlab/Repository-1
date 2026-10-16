@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T04:46:00.651123+00:00",
+ "generated": "2026-10-16T05:44:06.107514+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,13 +88,13 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 30
+   "count": 32
   },
   {
    "name": "Congressional Budget Office",
@@ -128,6 +128,149 @@
   }
  ],
  "items": [
+  {
+   "id": "89ffe5cbbd41",
+   "title": "‘We can beat anyone in this league’: Mammoth hand Oilers 1st regulation loss",
+   "link": "https://www.deseret.com/sports/2026/10/15/utah-mammoth-beat-edmonton-oilers-4-2/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Heading into Thursday night, the Edmonton Oilers had escaped every game so far this season with at least a point. Their lone loss had come in overtime. That streak is over, and the Utah Mammoth are responsible for it. It shouldn’t come as a surprise. The Mammoth began the…",
+   "published": "2026-10-16T05:16:28+00:00"
+  },
+  {
+   "id": "3f3e1dd5368e",
+   "title": "Four killed as Indonesia battles worst forest fires in more than a decade",
+   "link": "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The deaths come as Jakarta says it will accept foreign help to tackle its worst forest fires in more than a decade.",
+   "published": "2026-10-16T05:15:09+00:00"
+  },
+  {
+   "id": "c21dd06251d0",
+   "title": "KJ Burgess haunts her former team as BYU quiets the crowd in rivalry match win over Utah",
+   "link": "https://www.deseret.com/sports/2026/10/15/kj-burgess-haunts-her-former-team-as-byu-quiets-the-crowd-in-rivalry-match-win-over-utah/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In a rivalry match, many coaches agree you can throw out the teams’ records because anything can happen. That’s usually the case when Utah and BYU are involved. Except on Thursday night at the Jon M. Huntsman Center, the Cougars had KJ Burgess. The former Lone Peak High star,…",
+   "published": "2026-10-16T05:02:10+00:00"
+  },
+  {
+   "id": "d0196f1ab076",
+   "title": "What James Talarico Believes",
+   "link": "https://thedispatch.com/article/james-talarico-billionaires-capitalism/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mostly, it isn’t true.",
+   "published": "2026-10-16T05:01:00+00:00"
+  },
+  {
+   "id": "998b29683890",
+   "title": "Saudi Arabia to execute man for being at protests and funerals when he was 15",
+   "link": "https://www.theguardian.com/global-development/2026/oct/16/saudi-arabia-to-execute-man-for-being-at-protests-and-funerals-when-he-was-15",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rights group says Youssef al-Manasif was tortured and first met his lawyer five years after arrest for non-violent crimes A young man faces imminent execution in Saudi Arabia for attending protests and funerals when he was aged 15 to 17, say human rights groups, in the latest…",
+   "published": "2026-10-16T05:00:51+00:00"
+  },
+  {
+   "id": "8e63af13a49f",
+   "title": "Repairing Brexit economic damage should be Burnham’s top priority, business chief says",
+   "link": "https://www.theguardian.com/business/2026/oct/16/brexit-economic-damage-andy-burnham-uk-business-eu-trading-relationship",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Shevaun Haviland argues PM is right to revisit Labour’s EU red lines as current trading relationship is bad for business Repairing the economic damage of Brexit should be the top priority for Andy Burnham as he reconsiders Labour’s red lines on EU membership, the head of one of…",
+   "published": "2026-10-16T05:00:51+00:00"
+  },
+  {
+   "id": "d9db7cdccc2e",
+   "title": "What went right this week: the good news that matters",
+   "link": "https://www.positive.news/society/good-news-stories-from-week-42-of-2026/",
+   "source": "Positive News",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": true,
+   "summary": "Indonesia’s plummeting poverty rate, America’s largest wildlife bridge, and ‘a new era’ for the River Thames, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+   "published": "2026-10-16T05:00:50+00:00"
+  },
+  {
+   "id": "88fb13117d15",
+   "title": "Bystander guns down suspected primary school shooter in Oregon",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/bystander-guns-down-suspected-primary-school-shooter-in-oregon?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three children and a teacher were killed in a shooting at Silver Rail Elementary School in Bend, Oregon.",
+   "published": "2026-10-16T05:00:25+00:00"
+  },
+  {
+   "id": "3cb35e61d8ec",
+   "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+   "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
+   "published": "2026-10-16T05:00:17+00:00"
+  },
+  {
+   "id": "6c8be4d26934",
+   "title": "Should You Care About Nature?",
+   "link": "https://thedispatch.com/article/humans-animals-history-nature/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A new book focuses on the nonhuman forces that have shaped our history.",
+   "published": "2026-10-16T05:00:00+00:00"
+  },
+  {
+   "id": "ef6ef22a07ad",
+   "title": "They fled Russia, but the West sent them back",
+   "link": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge.",
+   "published": "2026-10-16T04:57:28+00:00"
+  },
+  {
+   "id": "db192db28d1d",
+   "title": "‘It’s about the underdog’: Ben Roberts-Smith launches brand to support family amid legal battle",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/16/ben-roberts-smith-launches-brand-epic-1-two-amid-legal-battle-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Accused war criminal announces venture with video on Instagram of him walking along beach and working out Get our breaking news email , free app or daily news podcast Accused war criminal Ben Roberts-Smith has launched a brand, saying he needs the income to support his family…",
+   "published": "2026-10-16T04:55:32+00:00"
+  },
+  {
+   "id": "c72e640fcb9d",
+   "title": "Infantino apologises amid calls for him to quit as FIFA president",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Infantino spoke at FIFA’s long-awaited executive board meeting in Zurich.",
+   "published": "2026-10-16T04:45:24+00:00"
+  },
   {
    "id": "b3ac4415c200",
    "title": "High school football roundup for Thursday, Oct. 15 (Week 10)",
@@ -206,6 +349,28 @@
    "published": "2026-10-16T04:00:49+00:00"
   },
   {
+   "id": "83f7c82476b5",
+   "title": "Non-Applicability of Section 357(c) to Consolidated Groups",
+   "link": "https://www.federalregister.gov/documents/2026/10/16/2026-21253/non-applicability-of-section-357c-to-consolidated-groups",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "This document contains final regulations clarifying that, in the case of certain transfers between members of a consolidated group, a transferee's assumption of certain liabilities will not reduce the transferor's basis in the transferee's stock received in the transfer. These…",
+   "published": "2026-10-16T04:00:00+00:00"
+  },
+  {
+   "id": "cfb1101d0eaa",
+   "title": "Senior Executive Service Performance Review Board",
+   "link": "https://www.federalregister.gov/documents/2026/10/16/2026-21219/senior-executive-service-performance-review-board",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "To announce a list of senior executives who comprise a standing roster that will serve on IRS's Fiscal Year 2026 Senior Executive Service (SES) Performance Review Boards.",
+   "published": "2026-10-16T04:00:00+00:00"
+  },
+  {
    "id": "ec13367c2ac3",
    "title": "Three children and teacher killed in US primary school shooting",
    "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
@@ -218,13 +383,13 @@
   },
   {
    "id": "0a2038948eb3",
-   "title": "Sydney suburb Dulwich Hill in lockdown as police search for man seen with shotgun",
+   "title": "Sydney suburb lockdown lifted as manhunt continues for person with shotgun",
    "link": "https://www.theguardian.com/australia-news/2026/oct/16/sydney-suburb-in-lockdown-as-police-search-for-man-armed-with-shotgun-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Widespread manhunt in city’s inner west after man reportedly seen carrying longarm weapon Get our breaking news email , free app or daily news podcast A large swathe of Dulwich Hill in Sydney’s inner west has been locked down by police as they search for a man reportedly…",
+   "summary": "Police appeal for information after man reportedly seen carrying longarm weapon in Dulwich Hill in the city’s inner west Get our breaking news email , free app or daily news podcast A lockdown across a large swathe of Dulwich Hill in Sydney’s inner west has been lifted after a…",
    "published": "2026-10-16T03:41:50+00:00"
   },
   {
