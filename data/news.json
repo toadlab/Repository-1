@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T23:39:48.184809+00:00",
+ "generated": "2026-10-16T00:53:45.431093+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,83 @@
  ],
  "items": [
   {
+   "id": "733e6acd82cd",
+   "title": "Pentagon says Trump and Hegseth ‘completely aligned’ on decision to cancel livestream of firing squad execution – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pentagon spokesperson says pair spoke before announcement canceling plan to broadcast execution of Nidal Hasan, who killed 13 people at Fort Hood Q&A: Our reporters answered your questions about the US economy and the midterm elections Sign up for the Breaking News US email The…",
+   "published": "2026-10-16T00:36:47+00:00"
+  },
+  {
+   "id": "2ea9722d109b",
+   "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
+   "link": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Iraq's parliament has finalised key minister appointments five months after al-Zaidi's government took office.",
+   "published": "2026-10-16T00:31:18+00:00"
+  },
+  {
+   "id": "be0f74ed7dfb",
+   "title": "Houthi missiles strike Yemen presidential palace, killing five",
+   "link": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Attack was the first on Aden’s Al-Maashiq palace ⁠in the latest fighting between ​the Iran-aligned Houthis and Saudi Arabia Yemen’s Houthis fired missiles at the presidential palace complex in the southern city of Aden on Thursday, killing five people, the government said, as…",
+   "published": "2026-10-16T00:27:21+00:00"
+  },
+  {
+   "id": "7593721356d2",
+   "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi Arabia calls Houthi attacks 'full-fledged war crimes' while the US warns of possible attacks on Saudi airports.",
+   "published": "2026-10-16T00:02:37+00:00"
+  },
+  {
+   "id": "7a3afc26dea5",
+   "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
+   "link": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record…",
+   "published": "2026-10-15T23:57:20+00:00"
+  },
+  {
+   "id": "34217d6a0ccd",
+   "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
+   "link": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "UK defence secretary says he has been ‘reassured directly’ counterpart Pete Hegseth that Starlink system has been restored as he seeks to cool tensions Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the…",
+   "published": "2026-10-15T23:49:57+00:00"
+  },
+  {
+   "id": "8d36009b7bf5",
+   "title": "After Notre Dame’s opt-out exit in 2025, BYU finally gets its shot at the Irish",
+   "link": "https://www.deseret.com/sports/2026/10/15/after-notre-dames-awkward-exit-in-2025-byu-finally-gets-its-shot-at-the-irish/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "If you need another reason to cheer against Notre Dame in Saturday night’s big game against BYU, then pull up a chair. As my mother (never) said, if you haven’t got something nice to say about someone, come sit next to me. Notre Dame is unbeaten in five (easy) games and ranked…",
+   "published": "2026-10-15T23:46:38+00:00"
+  },
+  {
    "id": "76de81fb62e3",
    "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
    "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
@@ -138,6 +215,28 @@
    "flourishing_feed": false,
    "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
    "published": "2026-10-15T23:38:46+00:00"
+  },
+  {
+   "id": "55c2ac02c0da",
+   "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
+   "link": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fuel theft cited in Baniyas-Homs leak as gas export line in Hasakah catches fire.",
+   "published": "2026-10-15T23:35:26+00:00"
+  },
+  {
+   "id": "4bb2b6a10862",
+   "title": "Three children and one adult reportedly killed in Oregon elementary school shooting",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police say gunman dead after shooting at Silver Rail elementary in Bend as local officials and FBI investigate A gunman opened fire at an elementary school in Bend, Oregon, on Thursday, fatally shooting one adult and three children, law enforcement officials confirmed to news…",
+   "published": "2026-10-15T23:33:26+00:00"
   },
   {
    "id": "e1b9e54a23e9",
@@ -151,15 +250,15 @@
    "published": "2026-10-15T23:29:00+00:00"
   },
   {
-   "id": "733e6acd82cd",
-   "title": "Pentagon says Trump and Hegseth ‘completely aligned’ on decision to cancel livestream of firing squad execution – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "e67f86ac6cb4",
+   "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Pentagon spokesperson says pair spoke before announcement canceling plan to broadcast execution of Nidal Hasan, who killed 13 people at Fort Hood Q&A: Our reporters answered your questions about the US economy and the midterm elections Sign up for the Breaking News US email The…",
-   "published": "2026-10-15T23:27:22+00:00"
+   "summary": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
+   "published": "2026-10-15T23:27:21+00:00"
   },
   {
    "id": "08d3b66205a5",
@@ -246,7 +345,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Katie Zacharia tells Guardian her first, widely panned, press briefing followed six-day sprint to appoint her to key role Donald Trump’s new White House press secretary says it is “unknown” how much she will engage with the press, or hold briefings with reporters, as she faces…",
+   "summary": "Katie Zacharia tells Guardian her first, widely panned, press briefing followed whirlwind sprint to appoint her to key role Donald Trump’s new White House press secretary says it is “unknown” how much she will engage with the press or hold briefings with reporters, as she faces…",
    "published": "2026-10-15T22:58:02+00:00"
   },
   {
@@ -292,17 +391,6 @@
    "flourishing_feed": false,
    "summary": "If Utah high school students earned a collective report card, their teacher’s comment might be: “Shows steady progress” — at least on standardized tests. The Beehive State’s graduating class of 2026 slightly improved its overall performance on the ACT, the standardized college…",
    "published": "2026-10-15T22:35:12+00:00"
-  },
-  {
-   "id": "4bb2b6a10862",
-   "title": "Multiple people, including children, injured in elementary school shooting in Oregon",
-   "link": "https://www.theguardian.com/us-news/2026/oct/15/oregon-elementary-school-shooting",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Police say suspect dead and at least two people hospitalized after shooting at Silver Rail elementary school in Bend Multiple people, including children, were injured in a Thursday shooting at an elementary school in Bend, Oregon , police confirmed during a press conference. At…",
-   "published": "2026-10-15T22:34:19+00:00"
   },
   {
    "id": "ab3b1468bdf4",
@@ -598,7 +686,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "In this first episode of Your Turn with Allison Aubrey , we explore the science of the flow state with violinist Diane Allen, who lost her flow and then tried to find it again, and also from Dr. Richard Huskey, who studies the flow state and how each of us can find it.",
+   "summary": "As part of her new podcast and newsletter Your Turn with Allison Aubrey, NPR's Allison Aubrey went in search of tools to help navigate midlife — starting with this survey to rank one's character strengths.",
    "published": "2026-10-15T20:50:53+00:00"
   },
   {
@@ -787,17 +875,6 @@
    "flourishing_feed": false,
    "summary": "Republicans who want to speak to voters' anger over higher prices without criticizing the president who's caused them are in a bind.",
    "published": "2026-10-15T20:00:43+00:00"
-  },
-  {
-   "id": "be0f74ed7dfb",
-   "title": "Houthi missiles strike Saudi-led forces HQ at presidential palace in Aden",
-   "link": "https://www.theguardian.com/world/2026/oct/15/houthi-missiles-strike-aden-yemen",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Witnesses report at least six explosions near palace used by Yemen's internationally recognized government At least six explosions struck on Thursday near the palace used by Yemen ’s internationally recognized government in the port city of Aden, witnesses said. An official…",
-   "published": "2026-10-15T20:00:36+00:00"
   },
   {
    "id": "2963ed5f5f05",
@@ -1128,17 +1205,6 @@
    "flourishing_feed": false,
    "summary": "The dream rock band called Fathom travelled roughly 700km across Australia by car, helicopter and plane to play nine shows in 12 hours.",
    "published": "2026-10-15T18:09:58+00:00"
-  },
-  {
-   "id": "34217d6a0ccd",
-   "title": "Wes Streeting urges US to back Ukraine on Washington visit after Starlink row",
-   "link": "https://www.theguardian.com/politics/2026/oct/15/wes-streeting-us-support-ukraine--washington-visit",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "UK defence secretary trying to cool tensions and is arguing it is in America’s economic interests to support Kyiv Wes Streeting urged the US to stand by Ukraine on his visit to the American capital and sought to cool tensions between the two countries in the wake of the…",
-   "published": "2026-10-15T18:09:14+00:00"
   },
   {
    "id": "a930062ee9ec",
@@ -2142,17 +2208,6 @@
    "published": "2026-10-15T15:02:07+00:00"
   },
   {
-   "id": "7a3afc26dea5",
-   "title": "Russia and Ukraine trade strikes as Trump ‘energy ceasefire’ collapses",
-   "link": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Moscow sends swarms of drones to attack infrastructure in central Ukraine as Zelenskyy says Kyiv will restart strikes on Russian oil refineries The White House’s unilateral effort to negotiate an energy ceasefire between Russia and Ukraine has collapsed as Moscow sent a record…",
-   "published": "2026-10-15T15:01:10+00:00"
-  },
-  {
    "id": "64803d2f5dc0",
    "title": "A blessed childhood – without indoor plumbing",
    "link": "https://www.csmonitor.com/Arts-Culture/Books/2026/1015/A-blessed-childhood-without-indoor-plumbing?icid=rss",
@@ -2528,7 +2583,7 @@
   },
   {
    "id": "d4bc72ed2da4",
-   "title": "Social Security Tax Cap Increases for 2027: Who Will Pay More?",
+   "title": "Social Security Tax Limit Rises for 2027: Who Will Pay More?",
    "link": "https://www.kiplinger.com/taxes/new-social-security-tax-limit-who-pays-more",
    "source": "Kiplinger",
    "circle_hint": "national",
