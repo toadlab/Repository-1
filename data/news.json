@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T20:40:20.133711+00:00",
+ "generated": "2026-10-17T21:40:55.987282+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 23
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,105 @@
  ],
  "items": [
   {
+   "id": "97a31237c471",
+   "title": "$6M Verdict in #TheyLied Defamation Lawsuit Brought Over Sexual Harassment Allegations",
+   "link": "https://reason.com/volokh/2026/10/17/6m-verdict-in-theylied-defamation-lawsuit-brought-over-sexual-harassment-allegations/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "So reports the N.Y. Times (Mark Arsenault) yesterday, discussing former MIT cellular biology professor David Sabatini's victory on the defamation… The post $6M Verdict in #TheyLied Defamation Lawsuit Brought Over Sexual Harassment Allegations appeared first on Reason Magazine.",
+   "published": "2026-10-17T21:29:42+00:00"
+  },
+  {
+   "id": "34b34eba5d8c",
+   "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
+   "link": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.",
+   "published": "2026-10-17T21:08:10+00:00"
+  },
+  {
+   "id": "80f78d68a97f",
+   "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
+   "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.",
+   "published": "2026-10-17T21:02:26+00:00"
+  },
+  {
+   "id": "3ae525681e3d",
+   "title": "Opinion: Protecting Utah’s high quality of life",
+   "link": "https://www.deseret.com/opinion/2026/10/17/this-partnership-keeps-utah-the-best-place-to-live/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Some of the most important things in life are the hardest to measure. Economic growth we can count. Jobs, wages and investment show up clearly in the data. But the deeper question — whether Utah is still a great place to build a good life and flourish — is harder to capture.…",
+   "published": "2026-10-17T21:00:00+00:00"
+  },
+  {
+   "id": "5f6c3e850729",
+   "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+   "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes.",
+   "published": "2026-10-17T20:53:00+00:00"
+  },
+  {
+   "id": "471ee3079028",
+   "title": "Anti-government protesters battle with police in Albania",
+   "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+   "published": "2026-10-17T20:53:00+00:00"
+  },
+  {
+   "id": "677a5979cfb8",
+   "title": "Violent clashes, looting and buildings ablaze as hundreds arrested after France protests",
+   "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+   "published": "2026-10-17T20:52:17+00:00"
+  },
+  {
+   "id": "06f98abbd63a",
+   "title": "Ten killed in fire at beach resort in Bangladesh",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.",
+   "published": "2026-10-17T20:50:01+00:00"
+  },
+  {
+   "id": "d493dd76c1c7",
+   "title": "Protesters allege police brutality as violent clashes rage on in Albania",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Protesters in Albania accuse riot police of brutality as clashes turn violent outside the Education Ministry.",
+   "published": "2026-10-17T20:40:38+00:00"
+  },
+  {
    "id": "d758e9c28f1d",
    "title": "Riots in Albanian capital enter a fifth day as anti-government protests escalate",
    "link": "https://www.csmonitor.com/World/Europe/2026/1017/albania-tirana-riots?icid=rss",
@@ -140,15 +239,15 @@
    "published": "2026-10-17T20:28:22+00:00"
   },
   {
-   "id": "5f6c3e850729",
-   "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
-   "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
+   "id": "98c50ac25073",
+   "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes.",
-   "published": "2026-10-17T20:04:00+00:00"
+   "summary": "Al Jazeera’s Rosie Rosie Birchard was harassed by protesters looting shops in Rennes, France.",
+   "published": "2026-10-17T20:20:25+00:00"
   },
   {
    "id": "397e09442763",
@@ -215,6 +314,17 @@
    "flourishing_feed": false,
    "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
    "published": "2026-10-17T19:19:19+00:00"
+  },
+  {
+   "id": "a3ac7fe502ba",
+   "title": "At least 17 dead in crush at Hindu festival event in India",
+   "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+   "published": "2026-10-17T19:19:16+00:00"
   },
   {
    "id": "c03750b5a9f8",
@@ -358,6 +468,17 @@
    "flourishing_feed": false,
    "summary": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
    "published": "2026-10-17T18:40:00+00:00"
+  },
+  {
+   "id": "46647e002280",
+   "title": "European diplomats attacked by Israeli settlers in West Bank",
+   "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+   "published": "2026-10-17T18:38:57+00:00"
   },
   {
    "id": "d74a3e4f00a0",
