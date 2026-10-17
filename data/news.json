@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T05:42:12.964742+00:00",
+ "generated": "2026-10-17T06:52:54.831007+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "name": "Congressional Budget Office",
@@ -129,6 +129,50 @@
  ],
  "items": [
   {
+   "id": "8d691fdb102f",
+   "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+   "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+   "published": "2026-10-17T06:49:48+00:00"
+  },
+  {
+   "id": "b6bb1637df09",
+   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+   "published": "2026-10-17T06:39:40+00:00"
+  },
+  {
+   "id": "df6b74946e80",
+   "title": "AI fears are being weaponised",
+   "link": "https://www.aljazeera.com/opinions/2026/10/17/ai-fears-are-being-weaponised?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tech giants are fighting to protect their monopolies from cheap open-source models. Fear is their weapon.",
+   "published": "2026-10-17T06:21:39+00:00"
+  },
+  {
+   "id": "cf52f0c1ef84",
+   "title": "The chatbot murder guide: AI’s struggle between privacy, reporting violence",
+   "link": "https://www.aljazeera.com/news/2026/10/17/the-chatbot-murder-guide-ais-struggle-between-privacy-reporting-violence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Experts say balancing the need to govern AI for public safety with user privacy is 'extraordinarily difficult'.",
+   "published": "2026-10-17T05:50:37+00:00"
+  },
+  {
    "id": "2e715ced890e",
    "title": "Katie Zacharia leaving White House role less than five days into job",
    "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
@@ -160,17 +204,6 @@
    "flourishing_feed": false,
    "summary": "Friday’s showdown between the Box Elder Bees and West Field Longhorns featured undefeated Region 5 teams playing for the region title, not to mention a likely first round bye in the state playoffs as well. Playing at home in front of a sold-out crowd, the Bees made sure to give…",
    "published": "2026-10-17T05:12:05+00:00"
-  },
-  {
-   "id": "b6bb1637df09",
-   "title": "Trump waives several Russia sanctions as new US law takes effect",
-   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
-   "published": "2026-10-17T05:02:50+00:00"
   },
   {
    "id": "6523fc8aff2d",
@@ -413,17 +446,6 @@
    "flourishing_feed": false,
    "summary": "Eleven people are believed to be still missing, with rescue operations under way.",
    "published": "2026-10-17T01:33:37+00:00"
-  },
-  {
-   "id": "8d691fdb102f",
-   "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-   "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-   "published": "2026-10-17T01:19:04+00:00"
   },
   {
    "id": "a5b191c84ebd",

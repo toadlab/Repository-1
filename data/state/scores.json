@@ -119230,5 +119230,37 @@
   "decision": "exclude",
   "exclusion": "did not clear the international bar",
   "persistent": false
+ },
+ "df6b74946e80": {
+  "story_key": "ai-fears-being-weaponised",
+  "durability": 4,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
+ },
+ "cf52f0c1ef84": {
+  "story_key": "chatbot-murder-guide-ai-s",
+  "durability": 2,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 2.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "low durability",
+  "persistent": false
  }
 }
