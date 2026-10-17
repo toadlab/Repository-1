@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T23:38:00.785279+00:00",
+ "generated": "2026-10-17T00:55:35.280074+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 37
+   "count": 33
   },
   {
    "name": "The Guardian World",
@@ -118,8 +118,8 @@
   },
   {
    "name": "Reasons to be Cheerful",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "name": "Positive News",
@@ -128,6 +128,94 @@
   }
  ],
  "items": [
+  {
+   "id": "76f8c0b49d90",
+   "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+   "link": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
+   "published": "2026-10-17T00:41:58+00:00"
+  },
+  {
+   "id": "29bc4886c671",
+   "title": "Oregon school shooter was former special needs student, police say",
+   "link": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A teacher fought teenage shooter and a parent shot him dead, police say on Friday, a day after four people were killed.",
+   "published": "2026-10-17T00:25:22+00:00"
+  },
+  {
+   "id": "3a1cdfa5c1d6",
+   "title": "Trump’s appearance at Georgia rally disrupted by anti-ICE protesters – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The unpopular president is rallying to support Republican nominees ahead of midterms Sign up for the Breaking News US email In Maine, Troy Jackson , the Democratic nominee for US Senate, and Susan Collins , the five-term Republican incumbent traded barbs on Thursday in their…",
+   "published": "2026-10-17T00:07:20+00:00"
+  },
+  {
+   "id": "d24a2c13ffa4",
+   "title": "Iran war live: Trump claims US Navy blockade stops Iranian ships in Hormuz",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump says the US Navy blockade has stopped all Iranian ships from crossing the Strait of Hormuz.",
+   "published": "2026-10-17T00:00:00+00:00"
+  },
+  {
+   "id": "73b3b578edb5",
+   "title": "Trump mocks Middle Eastern names with ‘Mohammed’ joke",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "“If you’re in doubt about somebody’s name from the Middle East, just say ‘Mohammed,’” says US President Donald Trump.",
+   "published": "2026-10-16T23:55:57+00:00"
+  },
+  {
+   "id": "277e5050f30e",
+   "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+   "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+   "published": "2026-10-16T23:54:35+00:00"
+  },
+  {
+   "id": "cdc1799ec582",
+   "title": "‘No religious signs’? The issue is complicated for ‘College GameDay’ — especially this weekend",
+   "link": "https://www.deseret.com/sports/2026/10/16/espn-college-gameday-bans-religious-signs-byu-notre-dame/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Last weekend, a young woman named Brecca Stoll, reporting on behalf of Ben Shapiro’s Daily Wire, snapped a photo and shared it on X. It showed a scoreboard at the Coleman Coliseum in Tuscaloosa, Alabama, where a raucous crowd, driven indoors by the approaching remnant of…",
+   "published": "2026-10-16T23:50:13+00:00"
+  },
+  {
+   "id": "99d5cfbb0265",
+   "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
+   "link": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Riot police clash with protesters for fourth day, as young Albanians protest corruption and poor university conditions",
+   "published": "2026-10-16T23:27:01+00:00"
+  },
   {
    "id": "8d9baa10a162",
    "title": "Steve Vladeck's \"Hard Questions About Court Expansion\"",
@@ -160,17 +248,6 @@
    "flourishing_feed": false,
    "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
    "published": "2026-10-16T23:20:37+00:00"
-  },
-  {
-   "id": "3a1cdfa5c1d6",
-   "title": "Trump’s appearance at Georgia rally disrupted by anti-ICE protesters – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The unpopular president is rallying to support Republican nominees ahead of midterms Sign up for the Breaking News US email In Maine, Troy Jackson , the Democratic nominee for US Senate, and Susan Collins , the five-term Republican incumbent traded barbs on Thursday in their…",
-   "published": "2026-10-16T23:09:38+00:00"
   },
   {
    "id": "8d691fdb102f",
@@ -284,7 +361,7 @@
   },
   {
    "id": "643cf1b367f2",
-   "title": "Trump Loses Yet Another Sanctuary City Case - this Time Against New York City",
+   "title": "Trump Loses Yet Another Sanctuary City Case—This Time Against New York City",
    "link": "https://reason.com/volokh/2026/10/16/trump-loses-another-sanctuary-city-case-this-time-against-new-york-city/",
    "source": "Reason",
    "circle_hint": "national",
@@ -622,6 +699,17 @@
    "flourishing_feed": false,
    "summary": "Disgraced music mogul moved to Pennsylvania prison after reports of perks and fight injuries at New Jersey lockup Sean “Diddy” Combs , who was convicted of prostitution-related crimes, has been moved to a federal prison in Pennsylvania after reports that the disgraced music…",
    "published": "2026-10-16T21:05:20+00:00"
+  },
+  {
+   "id": "2e715ced890e",
+   "title": "Katie Zacharia leaving her White House role less than five days on the job",
+   "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Her public debut as White House press secretary on Tuesday ended with a flurry of media criticism about her credentials and preparedness.",
+   "published": "2026-10-16T21:05:05+00:00"
   },
   {
    "id": "a5effe28c415",
@@ -2072,7 +2160,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Kremlin turning to punishment of Ukraine’s population in major cities as frontlines remain frozen Europe live – latest updates As Russian missiles and drones have systematically slammed into power plants in Kyiv and Kharkiv this week, the rolling blackouts and water outages…",
+   "summary": "Kremlin turning to punishment of Ukraine’s population in major cities as frontlines remain frozen As Russian missiles and drones have systematically slammed into power plants in Kyiv and Kharkiv this week, the rolling blackouts and water outages have increasingly resembled a…",
    "published": "2026-10-16T15:28:10+00:00"
   },
   {
