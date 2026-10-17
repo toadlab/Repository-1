@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T03:43:59.588454+00:00",
+ "generated": "2026-10-17T04:44:04.634491+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "name": "Congressional Budget Office",
@@ -129,6 +129,28 @@
  ],
  "items": [
   {
+   "id": "8fda596126c1",
+   "title": "High school football roundup for Friday, Oct. 16 (Week 10)",
+   "link": "https://www.deseret.com/sports/2026/10/16/high-school-football-week-10-friday-roundup/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Region 2 Copper Hills 40, Riverton 17 Copper Hills dominated Riverton in a Region 2 matchup, securing a 40-17 victory powered by a high-scoring fourth quarter. Lincoln Anderson’s 13-yard field goal and Ethan Hill’s 2-yard run put Copper Hills ahead early in the first quarter.…",
+   "published": "2026-10-17T04:31:07+00:00"
+  },
+  {
+   "id": "a14bc391c5d6",
+   "title": "Not cool: who hacked France’s supermarket fridges?",
+   "link": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Whether it was youngsters proving their skills or state sabotage, Europe’s most hacked country was left with a mountain of waste after food began cooking in freezers Shortly before midnight last Sunday, the digital thermostats controlling hundreds of supermarket cold aisles…",
+   "published": "2026-10-17T04:00:20+00:00"
+  },
+  {
    "id": "f6e326ed04d4",
    "title": "3 takeaways from BYU’s exhibition win over Nebraska",
    "link": "https://www.deseret.com/sports/2026/10/16/byu-basketball-defeats-nebraska-exhibition-3-takeaways/",
@@ -138,6 +160,17 @@
    "flourishing_feed": false,
    "summary": "BYU basketball is officially back in action. The Cougars opened Year 3 of the Kevin Young era with a Friday exhibition against a reigning Sweet 16 squad in Nebraska, defeating the Cornuskers 72-61 at the Marriott Center. BYU will play another exhibition at UNLV on Oct. 24…",
    "published": "2026-10-17T03:38:22+00:00"
+  },
+  {
+   "id": "176e8d104e85",
+   "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
+   "link": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The fast-spreading Norte Fire in Orange County is fuelled by intense warm winds and unseasonably high temperatures.",
+   "published": "2026-10-17T03:30:36+00:00"
   },
   {
    "id": "72902c1674bd",
@@ -2033,13 +2066,13 @@
   },
   {
    "id": "aa442ee848da",
-   "title": "India’s Cockroach Janta party leader detained amid crackdown on protests",
+   "title": "India’s Cockroach Janta party leader arrested amid crackdown on protests",
    "link": "https://www.theguardian.com/world/2026/oct/16/india-cockroach-janta-party-leader-detained-amid-crackdown-protests",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Abhijeet Dipke was arrested before planned anti-government demonstrations in Delhi The leader of the Cockroach Janta party (CJP) youth movement, Abhijeet Dipke, was detained by police on Friday as authorities cracked down on fresh anti-government protests in the Indian capital.…",
+   "summary": "Abhijeet Dipke was detained before planned anti-government demonstrations in Delhi The leader of the Cockroach Janta party (CJP) youth movement, Abhijeet Dipke, was detained by police on Friday and then later formally arrested as authorities cracked down on fresh…",
    "published": "2026-10-16T16:22:32+00:00"
   },
   {
@@ -83320,17 +83353,6 @@
    "flourishing_feed": false,
    "summary": "The U.S. Postal Service rushed the development of electronic tools to comply with a Trump administration policy placing new restrictions on mail-in voting, and defied a court order to stop work on the system, according to an explosive whistleblower complaint published Tuesday…",
    "published": "2026-09-02T08:00:18+00:00"
-  },
-  {
-   "id": "5a19a8647f4c",
-   "title": "Agency Information Collection Activities: Comment Request on Comment Request Relating to Penalty on Income Tax Return Preparers Who Understate Taxpayer's Liability on a Federal Income Tax Return or…",
-   "link": "https://www.federalregister.gov/documents/2026/09/02/2026-17966/agency-information-collection-activities-comment-request-on-comment-request-relating-to-penalty-on",
-   "source": "Federal Register: IRS",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
-   "published": "2026-09-02T04:00:00+00:00"
   }
  ]
 }

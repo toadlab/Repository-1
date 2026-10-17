@@ -119022,5 +119022,53 @@
   "decision": "exclude",
   "exclusion": "did not clear the international bar",
   "persistent": false
+ },
+ "8fda596126c1": {
+  "story_key": "high-school-football-roundup-friday",
+  "durability": 4,
+  "circle": "national",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.5,
+  "bar": 8.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the national bar",
+  "persistent": true
+ },
+ "a14bc391c5d6": {
+  "story_key": "not-cool-who-hacked-france",
+  "durability": 2,
+  "circle": "international",
+  "domain": 6,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.1,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "low durability",
+  "persistent": false
+ },
+ "176e8d104e85": {
+  "story_key": "southern-california-wildfire-engulfs-homes",
+  "durability": 4,
+  "circle": "international",
+  "domain": 0,
+  "flourishing": 0,
+  "emergency": false,
+  "new_development": true,
+  "reason": "Keyword estimate (no Claude API key configured).",
+  "scored_by": "heuristic",
+  "composite": 4.0,
+  "bar": 9.0,
+  "decision": "exclude",
+  "exclusion": "did not clear the international bar",
+  "persistent": false
  }
 }
