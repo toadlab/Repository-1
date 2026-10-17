@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T00:55:35.280074+00:00",
+ "generated": "2026-10-17T01:41:40.912076+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -118,8 +118,8 @@
   },
   {
    "name": "Reasons to be Cheerful",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "count": 10
   },
   {
    "name": "Positive News",
@@ -128,6 +128,39 @@
   }
  ],
  "items": [
+  {
+   "id": "3a1cdfa5c1d6",
+   "title": "Trump’s appearance at Georgia rally disrupted by anti-ICE protesters – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The unpopular president is rallying to support Republican nominees ahead of midterms Sign up for the Breaking News US email In Maine, Troy Jackson , the Democratic nominee for US Senate, and Susan Collins , the five-term Republican incumbent traded barbs on Thursday in their…",
+   "published": "2026-10-17T01:27:07+00:00"
+  },
+  {
+   "id": "8d691fdb102f",
+   "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+   "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+   "published": "2026-10-17T01:19:04+00:00"
+  },
+  {
+   "id": "a5b191c84ebd",
+   "title": "The uncertain future of Canada's 30 rescued belugas",
+   "link": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
+   "published": "2026-10-17T01:18:08+00:00"
+  },
   {
    "id": "76f8c0b49d90",
    "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
@@ -149,17 +182,6 @@
    "flourishing_feed": false,
    "summary": "A teacher fought teenage shooter and a parent shot him dead, police say on Friday, a day after four people were killed.",
    "published": "2026-10-17T00:25:22+00:00"
-  },
-  {
-   "id": "3a1cdfa5c1d6",
-   "title": "Trump’s appearance at Georgia rally disrupted by anti-ICE protesters – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/16/trump-texas-senate-race-midterms-paxton-talarico-zacharia-ukraine-starlink-diesel-oregon-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The unpopular president is rallying to support Republican nominees ahead of midterms Sign up for the Breaking News US email In Maine, Troy Jackson , the Democratic nominee for US Senate, and Susan Collins , the five-term Republican incumbent traded barbs on Thursday in their…",
-   "published": "2026-10-17T00:07:20+00:00"
   },
   {
    "id": "d24a2c13ffa4",
@@ -248,17 +270,6 @@
    "flourishing_feed": false,
    "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
    "published": "2026-10-16T23:20:37+00:00"
-  },
-  {
-   "id": "8d691fdb102f",
-   "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-   "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-   "published": "2026-10-16T23:07:38+00:00"
   },
   {
    "id": "6f2b86d85cdb",
