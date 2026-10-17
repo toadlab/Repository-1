@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T07:42:19.514511+00:00",
+ "generated": "2026-10-17T08:43:35.181553+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 32
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,61 @@
  ],
  "items": [
   {
+   "id": "578d42c876c6",
+   "title": "Coastal homes burn as hot winds fuel California fires",
+   "link": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "High winds are fueling a fast-moving fire that has burned homes in Southern California. Flames engulfed expensive coastal properties and prompted thousands to evacuate.",
+   "published": "2026-10-17T08:20:00+00:00"
+  },
+  {
+   "id": "27a6d73b3e80",
+   "title": "Oregon school shooter was former special-needs student, police say",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Oregon school shooter was former special-needs student, police say",
+   "published": "2026-10-17T08:04:35+00:00"
+  },
+  {
+   "id": "529f88b2ff2d",
+   "title": "Wildfire prompts thousands of evacuation orders in Orange County",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/wildfire-prompts-thousands-of-evacuation-orders-in-orange-county?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Firefighters are battling fast-moving wildfires in Orange County as Santa Ana winds fan the flames.",
+   "published": "2026-10-17T08:03:26+00:00"
+  },
+  {
+   "id": "7ae6dd9efbee",
+   "title": "Arrests made for pro-Nazi chants at Hajduk Split-Ajax match in Croatia",
+   "link": "https://www.aljazeera.com/sports/2026/10/17/pro-nazi-arrests-made-for-chants-at-hajduk-split-ajax-in-uefa-europa-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Croatian football fans arrested over slurs before and during UEFA Conference League game in Split.",
+   "published": "2026-10-17T07:45:31+00:00"
+  },
+  {
+   "id": "20513e83775e",
+   "title": "Senegal-sized Antarctic glacier melting faster than thought: Why it matters",
+   "link": "https://www.aljazeera.com/news/2026/10/17/senegal-sized-antarctic-glacier-melting-faster-than-thought-why-it-matters?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thwaites glacier has been losing ice for decades. Now there are concerns of rapidly accelerating loss.",
+   "published": "2026-10-17T07:43:19+00:00"
+  },
+  {
    "id": "b6bb1637df09",
    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
    "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
@@ -138,6 +193,28 @@
    "flourishing_feed": false,
    "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
    "published": "2026-10-17T07:41:01+00:00"
+  },
+  {
+   "id": "79ab4fcb0d5f",
+   "title": "11-year old flying car company mocks Tesla Roadster",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/11-year-old-flying-car-company-mocks-tesla-roadster?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "California-based Alef Aeronautics mocked Tesla, releasing a video of its flying car soaring over a Tesla Roadster.",
+   "published": "2026-10-17T07:32:42+00:00"
+  },
+  {
+   "id": "1e6c95b0478c",
+   "title": "Israeli raids and arrests in southern Syria push population to the brink",
+   "link": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Survivors recount brutal prison conditions, enduring beatings, restraints and psychological abuse by Israeli soldiers.",
+   "published": "2026-10-17T07:17:06+00:00"
   },
   {
    "id": "7b26304572e8",
@@ -281,6 +358,17 @@
    "flourishing_feed": false,
    "summary": "Friday’s showdown between the Box Elder Bees and West Field Longhorns featured undefeated Region 5 teams playing for the region title, not to mention a likely first round bye in the state playoffs as well. Playing at home in front of a sold-out crowd, the Bees made sure to give…",
    "published": "2026-10-17T05:12:05+00:00"
+  },
+  {
+   "id": "415f9f08dc09",
+   "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
+   "link": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Archbishop Paul Gallagher tells the BBC there was no sign of the Pope's ill health prior to his operation this week.",
+   "published": "2026-10-17T05:01:40+00:00"
   },
   {
    "id": "6523fc8aff2d",
@@ -545,6 +633,17 @@
    "flourishing_feed": false,
    "summary": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
    "published": "2026-10-17T00:41:58+00:00"
+  },
+  {
+   "id": "18d225d5f74c",
+   "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+   "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
+   "published": "2026-10-17T00:38:34+00:00"
   },
   {
    "id": "29bc4886c671",
@@ -83551,17 +83650,6 @@
    "flourishing_feed": false,
    "summary": "What’s the No. 1 complaint I hear from Indy residents about our local news? It’s biased. At every single public event I host, at least one participant tells me they can detect bias in our news, and, as a result, they consume less news. Hoosiers aren’t alone in these sentiments.…",
    "published": "2026-09-02T09:00:15+00:00"
-  },
-  {
-   "id": "1e0c989c35ce",
-   "title": "USPS whistleblower predicts ‘catastrophic’ effect on elections under Trump vote-by-mail order",
-   "link": "https://indianacapitalchronicle.com/2026/09/02/repub/usps-whistleblower-predicts-catastrophic-effect-on-elections-under-trump-vote-by-mail-order/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The U.S. Postal Service rushed the development of electronic tools to comply with a Trump administration policy placing new restrictions on mail-in voting, and defied a court order to stop work on the system, according to an explosive whistleblower complaint published Tuesday…",
-   "published": "2026-09-02T08:00:18+00:00"
   }
  ]
 }
