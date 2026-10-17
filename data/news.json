@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T06:52:54.831007+00:00",
+ "generated": "2026-10-17T07:42:19.514511+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,6 +129,61 @@
  ],
  "items": [
   {
+   "id": "b6bb1637df09",
+   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+   "published": "2026-10-17T07:41:01+00:00"
+  },
+  {
+   "id": "7b26304572e8",
+   "title": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
+   "link": "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Families have been scattered, fathers separated from their children, and couples unable to reunite and marry Wijdan Abu Matar, 43, was forced to leave Gaza in November 2023 with her eight children for medical treatment, while her injured husband, Hatem, remained behind. Wijdan…",
+   "published": "2026-10-17T07:00:24+00:00"
+  },
+  {
+   "id": "0ee099b12e6f",
+   "title": "Plan to make firms pay more to train older workers than youth apprentices in England",
+   "link": "https://www.theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Ministers considering overhaul of apprenticeship funding scheme to tackle youth jobs crisis Employers in England are to be forced to pay more to train an older worker than a youth apprentice under plans being drawn up by the government to tackle the youth jobs…",
+   "published": "2026-10-17T07:00:24+00:00"
+  },
+  {
+   "id": "4b2e4482ceb3",
+   "title": "Our Populist Hissy Fit Needs to Stop | Ruminant",
+   "link": "https://thedispatch.com/podcast/remnant/our-populist-hissy-fit-needs-to-stop-ruminant/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "‘Strong like bull.’",
+   "published": "2026-10-17T07:00:00+00:00"
+  },
+  {
+   "id": "6f1d6f75ba73",
+   "title": "Open Thread",
+   "link": "https://reason.com/volokh/2026/10/17/open-thread-360/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What’s on your mind?",
+   "published": "2026-10-17T07:00:00+00:00"
+  },
+  {
    "id": "8d691fdb102f",
    "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
    "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
@@ -140,15 +195,37 @@
    "published": "2026-10-17T06:49:48+00:00"
   },
   {
-   "id": "b6bb1637df09",
-   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "id": "2dae3440e65e",
+   "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
+   "link": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast",
+   "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-   "published": "2026-10-17T06:39:40+00:00"
+   "summary": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible, the Spectator, he has helped shape the right even as it has moved further rightwards. In the latest episode of…",
+   "published": "2026-10-17T06:45:23+00:00"
+  },
+  {
+   "id": "e46fe393da38",
+   "title": "Can Yemen’s government forces sustain their offensive against the Houthis?",
+   "link": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Houthi missile strikes threaten key supply routes on Yemen's Red Sea coast, intensifying pressure on government forces.",
+   "published": "2026-10-17T06:41:34+00:00"
+  },
+  {
+   "id": "6e8e69065e0b",
+   "title": "Ukraine and Europe have little choice but to work with Trump",
+   "link": "https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Despite growing tensions over Russia, Kyiv and European leaders remain dependent on US support.",
+   "published": "2026-10-17T06:36:03+00:00"
   },
   {
    "id": "df6b74946e80",
@@ -1687,7 +1764,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
+   "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
    "published": "2026-10-16T18:11:29+00:00"
   },
   {
