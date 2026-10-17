@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T11:40:15.893328+00:00",
+ "generated": "2026-10-17T12:48:52.067172+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 23
+   "count": 25
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,237 @@
  ],
  "items": [
   {
+   "id": "4e7ca8650904",
+   "title": "Pope to be discharged days after lung cancer surgery",
+   "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+   "published": "2026-10-17T12:37:26+00:00"
+  },
+  {
+   "id": "eb00b2122de0",
+   "title": "Influencers and biohackers swear by fasting. Here’s what the science says.",
+   "link": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Fasting can help some people reduce how many calories they eat — but it’s not “effortless” as some would have you believe.",
+   "published": "2026-10-17T12:31:00+00:00"
+  },
+  {
+   "id": "4bcd0feec7fc",
+   "title": "How to Build a 'Launch Fund' for Your Kids or Grandkids",
+   "link": "https://www.kiplinger.com/retirement/retirement-planning/how-to-build-a-launch-fund-for-your-kids-or-grandkids",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "From 529 rollovers to custodial accounts, financial experts explain how to set young adults up for true financial independence.",
+   "published": "2026-10-17T12:30:00+00:00"
+  },
+  {
+   "id": "36ea3197b43d",
+   "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
+   "link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "There’s a relatively off-the-radar commodity that can provide hints on where the economy is headed — and it’s seen its value drop more than 50% from a record high earlier this year.",
+   "published": "2026-10-17T12:30:00+00:00"
+  },
+  {
+   "id": "c35be12a9d65",
+   "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
+   "link": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians.",
+   "published": "2026-10-17T12:27:49+00:00"
+  },
+  {
+   "id": "f3caa775d21d",
+   "title": "France tackles new wave of nationwide protests",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "France is tackling nationwide protests, as students, unions, and activists rally against high prices and inequality.",
+   "published": "2026-10-17T12:18:55+00:00"
+  },
+  {
+   "id": "5c71d088eddd",
+   "title": "Bank of England governor walks out of IMF summit in protest against Russia",
+   "link": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Andrew Bailey among finance leaders to leave session in Bangkok when Russian finance minister addressed group The Bank of England governor, Andrew Bailey, has taken part in a walkout of finance leaders who left an International Monetary Fund meeting in protest against Russian…",
+   "published": "2026-10-17T12:15:37+00:00"
+  },
+  {
+   "id": "a01117fa064b",
+   "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+   "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+   "published": "2026-10-17T12:11:58+00:00"
+  },
+  {
+   "id": "fb443181ef00",
+   "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+   "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
+   "published": "2026-10-17T12:10:56+00:00"
+  },
+  {
+   "id": "e9eb7b76578e",
+   "title": "Women protest in New Delhi against police brutality",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Women protest in New Delhi against police brutality",
+   "published": "2026-10-17T12:07:15+00:00"
+  },
+  {
+   "id": "f51fad10f05e",
+   "title": "Republicans have a huge fundraising advantage. Will it matter?",
+   "link": "https://www.vox.com/america-actually/506329/republicans-fundraising-midterms-advantage",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Polls and pundits alike are widely — if sometimes cautiously — predicting a blue wave in the midterm elections on November 3. But there’s an important caveat to predictions of a Democratic triumph: Republicans have far more cash at their disposal. President Donald Trump’s super…",
+   "published": "2026-10-17T12:02:00+00:00"
+  },
+  {
+   "id": "df9a25ad7aea",
+   "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
+   "link": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As earnings season kicks off, select tech companies have the opportunity to deliver big positive surprises for investors.",
+   "published": "2026-10-17T12:01:00+00:00"
+  },
+  {
+   "id": "f90fbb8e5f79",
+   "title": "From little acorns … to his 1,000th article for the Guardian country diary",
+   "link": "https://www.theguardian.com/environment/2026/oct/17/1000-articles-for-the-guardian-country-diary-mark-cocker",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As Mark Cocker approaches a landmark for the world’s oldest column in an English-language newspaper, he is still inspired by powerful encounters with nature In the autumn of 1987, Mark Cocker sat in a field near Norwich and watched a jay burying acorns for the long winter…",
+   "published": "2026-10-17T12:00:30+00:00"
+  },
+  {
+   "id": "62f0397fb004",
+   "title": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak",
+   "link": "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "State has confirmed six measles-related deaths and county at center of outbreak lacks its own health department The county at the center of Pennsylvania’s measles outbreak is at a clear disadvantage because, local officials say, it lacks its own health department and it will…",
+   "published": "2026-10-17T12:00:30+00:00"
+  },
+  {
+   "id": "226d65772109",
+   "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+   "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+   "published": "2026-10-17T12:00:00+00:00"
+  },
+  {
+   "id": "888533486d5b",
+   "title": "Perspective: Midterm money madness",
+   "link": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Campaign ad spending has topped $10 billion this election cycle, as voters struggle to afford groceries and gas.",
+   "published": "2026-10-17T12:00:00+00:00"
+  },
+  {
+   "id": "0e69eceb5ff0",
+   "title": "Our Best Stuff on a Scandal That Wasn’t",
+   "link": "https://thedispatch.com/newsletter/weekly/talarico-scandal-filter-bubbles-cornell/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "MAGA activists try and fail to smear James Talarico.",
+   "published": "2026-10-17T12:00:00+00:00"
+  },
+  {
+   "id": "bc3a5136c518",
+   "title": "How to Prepare Yourself and Your Family for Long-Term Care",
+   "link": "https://www.kiplinger.com/retirement/long-term-care/how-to-prepare-for-long-term-care",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Long-term care involves dealing with doctors, managing medications, arranging transportation and finding a facility. How should you and your family prepare?",
+   "published": "2026-10-17T12:00:00+00:00"
+  },
+  {
+   "id": "a07b489c718f",
+   "title": "UAE agrees with Saudi Arabia to re-enter Yemen conflict amid Houthi gains",
+   "link": "https://www.theguardian.com/world/2026/oct/17/uae-yemen-conflict-agreement-saudi-arabia-houthi-gains",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "United Arab Emirates will reportedly resume payments to Yemeni forces as gains by Iran-backed Houthi fighters alarm Gulf state rulers Yemen civil war: what sparked latest escalation and who is involved? The United Arab Emirates has agreed to re-enter the Yemen conflict by…",
+   "published": "2026-10-17T11:57:15+00:00"
+  },
+  {
+   "id": "b6bb1637df09",
+   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+   "published": "2026-10-17T11:56:06+00:00"
+  },
+  {
+   "id": "16c5c6477bba",
+   "title": "Fraud, affordability and Trump policies drive friction in Minnesota Senate debate",
+   "link": "https://www.npr.org/2026/10/17/nx-s1-6004910/minn-us-senate-race",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The major party candidates for Minnesota's U.S. Senate seat faced off in an hourlong debate Friday on MPR News with fraud, affordability and fallout from the Trump administration's policies as key points of friction.",
+   "published": "2026-10-17T11:43:14+00:00"
+  },
+  {
    "id": "27f0062528fa",
    "title": "It was another great week for the average stock as market leadership shifts away from tech",
    "link": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
@@ -152,7 +383,7 @@
   },
   {
    "id": "c553b19ad7f0",
-   "title": "Nationwide protests spread across France as ‘yellow vests’ set to join",
+   "title": "Protests spread across France as ‘yellow vests’ set to join",
    "link": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -411,7 +642,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Follow updates, including toss and team news, from our live text commentary stream of the series decider.",
+   "summary": "Follow updates, including toss and team news, from our live text commentary stream of the cricket series decider.",
    "published": "2026-10-17T09:54:49+00:00"
   },
   {
@@ -435,17 +666,6 @@
    "flourishing_feed": false,
    "summary": "Rapid Support Forces accuse army of killing 30 civilians in attack on Nyala's busy livestock market.",
    "published": "2026-10-17T09:44:47+00:00"
-  },
-  {
-   "id": "b6bb1637df09",
-   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-   "published": "2026-10-17T09:42:13+00:00"
   },
   {
    "id": "f146c13b17db",
@@ -482,13 +702,13 @@
   },
   {
    "id": "c2719c36fef6",
-   "title": "All the president’s women: a familiar downward trajectory in Trump’s cabinet",
+   "title": "All the president’s women: a familiar downward trajectory in Trump’s team",
    "link": "https://www.theguardian.com/us-news/2026/oct/17/trump-female-cabinet-officials-departures",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Half of Trump’s female cabinet officials have been replaced by men, while men facing misconduct allegations remain Donald Trump is not, by any measure, a feminist. He has said so himself. But the president has often pointed to his hiring and promoting of women in an attempt to…",
+   "summary": "Half of the women on Trump’s team have been replaced by men, while men facing misconduct allegations remain Donald Trump is not, by any measure, a feminist. He has said so himself. But the president has often pointed to his hiring and promoting of women in an attempt to stave…",
    "published": "2026-10-17T09:00:28+00:00"
   },
   {
@@ -2340,17 +2560,6 @@
    "published": "2026-10-16T18:01:19+00:00"
   },
   {
-   "id": "226d65772109",
-   "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-   "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
-   "published": "2026-10-16T18:01:00+00:00"
-  },
-  {
    "id": "0d3dc0c8ec34",
    "title": "Welcome to the ‘AI burnout trade’ — as investors grow tired of debating tech’s promises",
    "link": "https://www.marketwatch.com/story/welcome-to-the-ai-burnout-trade-as-investors-grow-tired-of-debating-techs-promises-6ae7836e?mod=mw_rss_topstories",
@@ -3371,17 +3580,6 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "The Garrett Planning Network of financial professionals aims to break down the barriers stopping ordinary Americans from getting the unbiased guidance they need.",
-   "published": "2026-10-16T14:00:00+00:00"
-  },
-  {
-   "id": "eb00b2122de0",
-   "title": "Influencers and biohackers swear by fasting. Here’s what the science says.",
-   "link": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Fasting can help some people reduce how many calories they eat — but it’s not “effortless” as some influencers would have you believe.",
    "published": "2026-10-16T14:00:00+00:00"
   },
   {
