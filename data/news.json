@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T10:41:26.515331+00:00",
+ "generated": "2026-10-17T11:40:15.893328+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 27
+   "count": 23
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,215 @@
  ],
  "items": [
   {
+   "id": "27f0062528fa",
+   "title": "It was another great week for the average stock as market leadership shifts away from tech",
+   "link": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The S&P 500’s tech sector just had its worst week in a year and a half, while an equal-weighted version of the index cemented a second-straight weekly advance.",
+   "published": "2026-10-17T11:30:00+00:00"
+  },
+  {
+   "id": "302dd72875f3",
+   "title": "Russian strikes kill civilians, injure dozens across Ukraine",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least eight people have been killed and nearly 60 injured in the latest wave of Russian strikes across Ukraine.",
+   "published": "2026-10-17T11:22:41+00:00"
+  },
+  {
+   "id": "c553b19ad7f0",
+   "title": "Nationwide protests spread across France as ‘yellow vests’ set to join",
+   "link": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Demonstrations began in mid-September at schools and have expanded, tapping into wider grievances.",
+   "published": "2026-10-17T11:21:32+00:00"
+  },
+  {
+   "id": "c360ff3e4c70",
+   "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
+   "link": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Analysts say Russia will benefit most from US sanctions waiver.",
+   "published": "2026-10-17T11:10:22+00:00"
+  },
+  {
+   "id": "79096dd00edd",
+   "title": "Plaque telling story of African-Caribbean prisoners in Britain stolen within days",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/17/plaque-honouring-african-caribbean-prisoners-in-britain-stolen-portchester-castle",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Descendants say theft from Portchester Castle reflects spirit of racism that has haunted ‘generation after generation’ The theft of a plaque in Hampshire that told the little-known story of African-Caribbean prisoners in 18th-century Britain reflects the enduring racism that…",
+   "published": "2026-10-17T11:00:58+00:00"
+  },
+  {
+   "id": "e443e64cb868",
+   "title": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
+   "link": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation Regulation US corporate lobbyists launched a two-year “blitz” to postpone and weaken the world’s most progressive legislation to protect forests, according to a new investigation…",
+   "published": "2026-10-17T11:00:31+00:00"
+  },
+  {
+   "id": "82d97aba09f5",
+   "title": "Some Progressives Tried To Abolish the Tipped Minimum Wage. Now They're Backtracking.",
+   "link": "https://reason.com/2026/10/17/some-progressives-tried-to-abolish-the-tipped-minimum-wage-now-theyre-backtracking/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Policymakers across the country are confronting the unfortunate—and predictable—economic results of prohibiting restaurants from paying servers a lower base wage supplemented by tips.",
+   "published": "2026-10-17T11:00:30+00:00"
+  },
+  {
+   "id": "7ed9977216f2",
+   "title": "‘We are in hiding’: Briton with severe health issues fears deportation from Sweden",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/17/we-are-in-hiding-briton-severe-health-issues-fears-deportation-sweden",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mark Smith, who is married to a Swedish woman, says he was told three times he needed to do nothing in order to remain after Brexit A seriously ill British man living in Sweden has been forced into hiding amid fears he will be deported as a result of what he says is a…",
+   "published": "2026-10-17T11:00:30+00:00"
+  },
+  {
+   "id": "7c6af41d4130",
+   "title": "Key player in false Talarico rumor has history of online posts invoking Nazi Germany",
+   "link": "https://www.theguardian.com/us-news/2026/oct/17/talarico-mental-health-facility-rumor-ryan-amacher",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ryan Amacher, who played role in bid to damage campaign, has also made antisemitic and racist posts on social media An influencer who played a key role in hoax claims that James Talarico was in a mental health facility has a long history of social media posts that favorably…",
+   "published": "2026-10-17T11:00:29+00:00"
+  },
+  {
+   "id": "652999a45abd",
+   "title": "Insults, odd obsessions and rambling thoughts: a week in Trump rallies",
+   "link": "https://www.theguardian.com/us-news/2026/oct/17/trump-rally-performance-overview",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President has hit red states to drum up Republican support – and his increasingly strange performances are on full display Montana, Tennessee, Alaska. In the run-up to an election, a Republican president typically wouldn’t be campaigning in these traditionally red states. These…",
+   "published": "2026-10-17T11:00:29+00:00"
+  },
+  {
+   "id": "ef53e8955614",
+   "title": "Today in Supreme Court History: October 17, 1862",
+   "link": "https://reason.com/volokh/2026/10/17/today-in-supreme-court-history-october-17-1862-8/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "10/17/1862: Justice David Davis takes oath. The post Today in Supreme Court History: October 17, 1862 appeared first on Reason Magazine.",
+   "published": "2026-10-17T11:00:02+00:00"
+  },
+  {
+   "id": "8e56c5510408",
+   "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+   "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+   "published": "2026-10-17T11:00:00+00:00"
+  },
+  {
+   "id": "4b79f6fe8481",
+   "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
+   "link": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's past are still fighting for justice. As survivors and perpetrators grow older, a new wave of legal efforts is seeking truth, accountability and reparations…",
+   "published": "2026-10-17T11:00:00+00:00"
+  },
+  {
+   "id": "58553b97623b",
+   "title": "AI can help us talk with the dead. Should we?",
+   "link": "https://www.vox.com/podcasts/506698/deadbots-ai-chatbots-ethics-talking-d",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It’s now possible to create AI chatbots of loved ones to interact with after their death. But that raises some difficult questions, like: If you do, how might the experience shape your grief? This is one of the questions driving a global study of digital “deadbots” — AI models…",
+   "published": "2026-10-17T11:00:00+00:00"
+  },
+  {
+   "id": "03c60e46e9a7",
+   "title": "Fed interest-rate decision this month is a closer call than markets think",
+   "link": "https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Here are some of the arguments against a Fed rate hike — and why some economists disagree with them.",
+   "published": "2026-10-17T11:00:00+00:00"
+  },
+  {
+   "id": "440b958b0a40",
+   "title": "Two people killed in light aircraft crash near Loch Lomond",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/17/two-people-killed-light-aircraft-crash-near-loch-lomond-scotland",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police Scotland says boy, 16, and 80-year-old man died in incident north-east of village of Drymen in Stirling A 16-year-old boy and an 80-year-old man have been killed in a light aircraft crash near Loch Lomond in Scotland. Emergency services were called to reports of an…",
+   "published": "2026-10-17T10:52:34+00:00"
+  },
+  {
+   "id": "9c7a7080fe9d",
+   "title": "Sally Rooney’s books pulled from UK over Palestine Action support",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/sally-rooneys-books-pulled-from-uk-over-palestine-action-support-2?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "We asked students what they think.",
+   "published": "2026-10-17T10:50:39+00:00"
+  },
+  {
+   "id": "f6a943e42506",
+   "title": "The Man Behind the Original ‘Stop the Steal’",
+   "link": "https://thedispatch.com/newsletter/dispatch-culture/william-goebel-kentucky-history/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Shootings, corruption, and the crazy politics of turn-of-the-century Kentucky.",
+   "published": "2026-10-17T10:50:00+00:00"
+  },
+  {
+   "id": "7c206f125f05",
+   "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+   "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.",
+   "published": "2026-10-17T10:46:41+00:00"
+  },
+  {
    "id": "693cc2ae2f77",
    "title": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
    "link": "https://www.theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts",
@@ -136,7 +345,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Peter Ricketts called for more resilience in protecting banking, energy and water systems from cyber-assaults Ministers need to be honest with the British public about the immediate threat posed by Russia, which could soon lead to lives being lost, a former national security…",
+   "summary": "Peter Ricketts calls for more resilience in protecting banking, energy and water systems from cyber-assaults Ministers need to be honest with the British public about the immediate threat posed by Russia, which could soon lead to lives being lost, a former national security…",
    "published": "2026-10-17T10:19:32+00:00"
   },
   {
@@ -224,7 +433,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Rapid Support Forces accuses army of killing 30 civilians in attack on Nyala's busy livestock market.",
+   "summary": "Rapid Support Forces accuse army of killing 30 civilians in attack on Nyala's busy livestock market.",
    "published": "2026-10-17T09:44:47+00:00"
   },
   {
@@ -811,6 +1020,17 @@
    "published": "2026-10-17T02:00:09+00:00"
   },
   {
+   "id": "fc3906b8ba51",
+   "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+   "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
+   "published": "2026-10-17T01:55:45+00:00"
+  },
+  {
    "id": "d7aa7222206c",
    "title": "Mimicking populists will not ease cost of living or boost productivity, Mathias Cormann warns",
    "link": "https://www.theguardian.com/australia-news/2026/oct/17/mimicking-populists-will-not-ease-cost-of-living-or-raise-productivity-mathias-cormann-warns-ntwnfb",
@@ -1348,17 +1568,6 @@
    "flourishing_feed": false,
    "summary": "Prosecutors allege Moises Freire gave two students at FIT the opioid, saying it was cocaine, and raped one as she overdosed A man raped a student at New York ’s Fashion Institute of Technology (FIT) after giving her a dose of fentanyl that rendered her unconscious and…",
    "published": "2026-10-16T21:15:43+00:00"
-  },
-  {
-   "id": "8e56c5510408",
-   "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-   "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
-   "published": "2026-10-16T21:15:00+00:00"
   },
   {
    "id": "c66cd1cc7ca0",
