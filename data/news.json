@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T20:40:14.286927+00:00",
+ "generated": "2026-10-18T21:41:13.876587+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 31
+   "count": 29
   },
   {
    "name": "The Guardian World",
@@ -140,8 +140,85 @@
    "published": "2026-10-19T04:00:00+00:00"
   },
   {
+   "id": "3a3633bcbd19",
+   "title": "What we know so far about deadly fire at Canadian military base",
+   "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+   "published": "2026-10-18T21:37:56+00:00"
+  },
+  {
+   "id": "24f201b3ec83",
+   "title": "Sydney man charged after alleged gunfire prompted Dulwich Hill lockdown",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/19/man-charged-dulwich-hill-sydney-inner-west-alleged-gun-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police responding to reports of an alleged stolen car in Dulwich Hill were told a man was armed with a firearm Get our breaking news email , free app or daily news podcast A man has been charged with a slew of offences following an investigation into reports a man was allegedly…",
+   "published": "2026-10-18T21:22:51+00:00"
+  },
+  {
+   "id": "3277ba9afcf8",
+   "title": "Macron condemns violence after riots lead to looting and mass arrests",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.",
+   "published": "2026-10-18T21:10:47+00:00"
+  },
+  {
+   "id": "ab826f2c5be7",
+   "title": "CBS reporter apologizes and deletes post praising Abdul El-Sayed heckler",
+   "link": "https://www.theguardian.com/media/2026/oct/18/cbs-reporter-apologizes-abdul-el-sayed-post",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jan Crawford had praised man who asked Democratic candidate whether he would disavow Muslim Brotherhood CBS ’s chief legal correspondent Jan Crawford has apologized for and deleted a social media post praising a man who questioned Democratic Michigan US Senate candidate Abdul…",
+   "published": "2026-10-18T21:07:58+00:00"
+  },
+  {
+   "id": "fda513e63664",
+   "title": "What surprised me while visiting my mission for the first time in 35 years",
+   "link": "https://www.deseret.com/opinion/2026/10/18/visiting-brazilian-mission/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In September, I went back to Belo Horizonte, Brazil, for the first time since serving there 35 years ago as a missionary for The Church of Jesus Christ of Latter-day Saints. I had one big hope for the trip: reconnect with the people I’d known as a young man and see what became…",
+   "published": "2026-10-18T21:03:32+00:00"
+  },
+  {
+   "id": "b106d7ca9cc6",
+   "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+   "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+   "published": "2026-10-18T21:00:22+00:00"
+  },
+  {
+   "id": "87e9a3cfe0ac",
+   "title": "Opinion: Mentorship and a trusted adult can help solve chronic absenteeism",
+   "link": "https://www.deseret.com/opinion/2026/10/18/helping-students-through-mentorship/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "When I first began working with one of my students, she had no interest in school. She had no motivation to attend, didn’t enjoy interacting with teachers and had never seen herself as someone who belonged at school. Through our weekly meetings together, I watched her…",
+   "published": "2026-10-18T21:00:00+00:00"
+  },
+  {
    "id": "55d19e02d108",
-   "title": "Macron calls for calm in France and warns rioting must not escalate",
+   "title": "Macron calls for 'calm and order' after riots across France",
    "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -149,6 +226,28 @@
    "flourishing_feed": false,
    "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
    "published": "2026-10-18T20:33:21+00:00"
+  },
+  {
+   "id": "8dab02b6c2ff",
+   "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
+   "published": "2026-10-18T20:26:03+00:00"
+  },
+  {
+   "id": "45d2eef19302",
+   "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
+   "link": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew.",
+   "published": "2026-10-18T20:19:22+00:00"
   },
   {
    "id": "b8f8d63dce10",
@@ -162,15 +261,15 @@
    "published": "2026-10-18T20:05:07+00:00"
   },
   {
-   "id": "3a3633bcbd19",
-   "title": "What we know so far about deadly fire at Canadian military base",
-   "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+   "id": "d06bcaeaa9ac",
+   "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+   "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
-   "published": "2026-10-18T19:42:37+00:00"
+   "summary": "Presley Gerber's death in September is being investigated as a suspected overdose.",
+   "published": "2026-10-18T19:53:27+00:00"
   },
   {
    "id": "383056da8a37",
@@ -284,13 +383,13 @@
   },
   {
    "id": "8ede70574916",
-   "title": "Netanyahu casts doubt on settler attack witnessed by Guardian reporter",
+   "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
    "link": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Assault on European delegation in West Bank exposes government’s response to violence even when those targeted represent Israel’s allies Hours after Israeli militants attacked a delegation of European diplomats, French clerics and a visiting mayor in the occupied West Bank,…",
+   "summary": "New video footage of Israeli settler assault on European delegation as Netanyahu attempts to raise doubt Hours after Israeli militants attacked a delegation of European diplomats, French clerics and a visiting mayor in the occupied West Bank, Israel’s leader, Benjamin…",
    "published": "2026-10-18T18:39:23+00:00"
   },
   {
