@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T06:51:55.642814+00:00",
+ "generated": "2026-10-18T07:41:53.732548+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,17 @@
  ],
  "items": [
   {
+   "id": "a389c70cdae4",
+   "title": "‘Many family stories’: Tim Winton’s Cloudstreet takes out ABC radio poll of top 100 Australian books",
+   "link": "https://www.theguardian.com/books/2026/oct/18/tim-winton-cloudstreet-abc-poll-top-100-australian-books",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Markus Zusak’s novel The Book Thief secures second place, while Trent Dalton’s Boy Swallows Universe rounds out podium dominated by men Cloudstreet, Tim Winton’s sprawling Australian family epic, has been voted Australia’s favourite book in a poll run by ABC Radio National. The…",
+   "published": "2026-10-18T07:15:53+00:00"
+  },
+  {
    "id": "351390f82ca4",
    "title": "Several dead or injured in major fire at Canada military base",
    "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
@@ -136,8 +147,74 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Officials have not given a death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-   "published": "2026-10-18T06:47:57+00:00"
+   "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
+   "published": "2026-10-18T07:09:23+00:00"
+  },
+  {
+   "id": "1bc5562675bf",
+   "title": "WNBA Finals: Gabby Williams leads Valkyries to nervy Game 1 win over Dream",
+   "link": "https://www.aljazeera.com/sports/2026/10/18/wnba-finals-gabby-williams-leads-valkyries-to-nervy-game-1-win-over-dream?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Williams scored 26 points as the Golden State Valkyries came back to take the lead at home against the Atlanta Dream.",
+   "published": "2026-10-18T07:08:33+00:00"
+  },
+  {
+   "id": "184bcba4bd85",
+   "title": "Israel’s ties with Europe are fraying. Can its election change that?",
+   "link": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "European condemnation is mounting, but Israel’s election offers little prospect of a material change for Palestinians.",
+   "published": "2026-10-18T07:05:00+00:00"
+  },
+  {
+   "id": "6f956b7bafd4",
+   "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
+   "link": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A girl called Àìná was captured by an African king and later taken to England to become Sarah Forbes Bonetta, protege of the imperial monarch When she was seven years old, Bayo Randle’s great-great-grandmother Sarah Forbes Bonetta was presented to Queen Victoria at Windsor…",
+   "published": "2026-10-18T07:00:53+00:00"
+  },
+  {
+   "id": "acd26a157fd1",
+   "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
+   "link": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible the Spectator, he has helped shape the right even as it has moved further rightwards. In the latest episode of…",
+   "published": "2026-10-18T07:00:53+00:00"
+  },
+  {
+   "id": "b74f3a33790f",
+   "title": "Condé Nast’s UK profits drop by more than a third as sale of Vogue publisher ruled out",
+   "link": "https://www.theguardian.com/media/2026/oct/18/conde-nast-uk-profits-drop-vogue-publisher-magazine-group",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Magazine group points to restructuring bill but says it ‘remains profitable in the UK for another year’ Profits at Condé Nast’s UK arm slumped by more than a third last year, according to figures published shortly after the billionaire family that owns the luxury magazine group…",
+   "published": "2026-10-18T07:00:53+00:00"
+  },
+  {
+   "id": "4b4a8fa224be",
+   "title": "Open Thread",
+   "link": "https://reason.com/volokh/2026/10/18/open-thread-361/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What’s on your mind?",
+   "published": "2026-10-18T07:00:00+00:00"
   },
   {
    "id": "701179a820c0",
@@ -259,6 +336,17 @@
    "flourishing_feed": false,
    "summary": "US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating.",
    "published": "2026-10-18T05:16:49+00:00"
+  },
+  {
+   "id": "fad65068fd88",
+   "title": "Church makes sainthood case for 'WW1 hero' priest",
+   "link": "https://www.bbc.co.uk/news/articles/cmg47rwddpxko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fr Willie Doyle was killed during World War One while trying to help injured and dying soldiers.",
+   "published": "2026-10-18T05:15:53+00:00"
   },
   {
    "id": "a2cd27a9770d",
