@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T13:40:51.177511+00:00",
+ "generated": "2026-10-18T14:40:50.935620+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,15 @@
  ],
  "items": [
   {
-   "id": "f38d7ae3b1c7",
-   "title": "Forget the seven-year itch: opposite-sex marriages more likely to end after two decades",
-   "link": "https://www.theguardian.com/lifeandstyle/2026/oct/18/opposite-sex-marriages-end-after-20-years-divorce-england-wales-ons",
-   "source": "The Guardian World",
-   "circle_hint": "international",
+   "id": "c811916a8db4",
+   "title": "High school girls soccer: 6A/5A/4A/3A/2A state tournament scores, schedules",
+   "link": "https://www.deseret.com/sports/2026/10/07/high-school-girls-soccer-6a-5a-4a-3a-2a-state-tournament/",
+   "source": "Deseret News",
+   "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "ONS data for England and Wales shows 26% of heterosexual divorces in 2025 followed 20 years or more of marriage Most couples are aware of the dreaded “seven-year itch”, when the honeymoon period wears off and real life starts to bite. Now official data has shown that couples in…",
-   "published": "2026-10-18T13:29:53+00:00"
+   "summary": "6A state tournament First round (Oct. 13) No. 1 Lone Peak 2, No. 16 Skyridge 2 | Lone Peak wins in PKs 3-0 No. 8 Layton 2, No. 9 Mountain Ridge 1 No. 4 American Fork 1, No. 13 Riverton 0 No. 5 Corner Canyon 2, No. 12 Copper Hills 1 No. 2 Davis 6, No. 15 Bingham 1 No. 7 Syracuse…",
+   "published": "2026-10-18T14:31:37+00:00"
   },
   {
    "id": "3d0b6a6492c7",
@@ -148,7 +148,106 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years A dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and Portugal The angry protests that have convulsed Spain and France in recent weeks have spilled…",
-   "published": "2026-10-18T13:18:46+00:00"
+   "published": "2026-10-18T14:28:06+00:00"
+  },
+  {
+   "id": "d597274d8205",
+   "title": "France protests live: Macron to address nation after protests",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/france-protests-live-macron-to-address-nation-after-deadly-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Protests are sweeping France as anger over conditions in schools meets frustration with high living costs",
+   "published": "2026-10-18T14:26:11+00:00"
+  },
+  {
+   "id": "0070e7233d10",
+   "title": "Why is Trump now encouraging mail-in voting?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-is-trump-now-encouraging-mail-in-voting?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Donald Trump has spent years claiming mail-in voting is corrupt. Al Jazeera's Noor Wazwaz explains.",
+   "published": "2026-10-18T14:09:16+00:00"
+  },
+  {
+   "id": "0817a8e71ec1",
+   "title": "Tech Stocks Hold This Baron Emerging Markets Fund Back",
+   "link": "https://www.kiplinger.com/investing/mutual-funds/tech-stocks-hold-this-baron-emerging-markets-fund-back",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Baron Emerging Markets Fund has generated an impressive return so far this year, but a rough patch for tech shares has capped its performance.",
+   "published": "2026-10-18T14:05:00+00:00"
+  },
+  {
+   "id": "45797f6cff4d",
+   "title": "Air Force officer killed in rappelling accident before UTSA’s game against Navy",
+   "link": "https://www.theguardian.com/sport/2026/oct/18/air-force-officer-killed-in-rappelling-accident-before-utsas-game-against-navy",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Officer fell from rafters during pregame display Man treated on field before being taken to hospital An Air Force officer has died after he fell from the rafters of the Alamodome before the University of Texas at San Antonio’s home game against Navy on Saturday. The officer,…",
+   "published": "2026-10-18T14:03:54+00:00"
+  },
+  {
+   "id": "3e22f7997f35",
+   "title": "3 Smart Ways to Delay or Defer Taxes on Your RMDs",
+   "link": "https://www.kiplinger.com/taxes/tax-planning/how-to-delay-or-defer-taxes-on-your-rmds",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "If you don't need or want to take your required minimum distributions (RMDs), you can consider these strategies to help lower your tax bill.",
+   "published": "2026-10-18T14:00:00+00:00"
+  },
+  {
+   "id": "fa7b2588363d",
+   "title": "These surprising stocks could be some of the biggest drivers of S&P 500 earnings growth",
+   "link": "https://www.marketwatch.com/story/these-surprising-stocks-could-be-some-of-the-biggest-drivers-of-s-p-500-earnings-growth-ea073a07?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Boeing, Meta and EchoStar recorded steep charges and expenses a year ago, which are expected to make this latest quarter’s results look especially strong by comparison.",
+   "published": "2026-10-18T14:00:00+00:00"
+  },
+  {
+   "id": "d41067af52d6",
+   "title": "Why have France’s school protests become a wider political crisis?",
+   "link": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The demonstrations have united students and ‘yellow vest’ supporters, exposing deeper anger over living standards.",
+   "published": "2026-10-18T13:48:04+00:00"
+  },
+  {
+   "id": "d9f416a10bec",
+   "title": "Sudan army accused of drone strike on livestock market",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit.",
+   "published": "2026-10-18T13:37:03+00:00"
+  },
+  {
+   "id": "f38d7ae3b1c7",
+   "title": "Forget the seven-year itch: opposite-sex marriages more likely to end after two decades",
+   "link": "https://www.theguardian.com/lifeandstyle/2026/oct/18/opposite-sex-marriages-end-after-20-years-divorce-england-wales-ons",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "ONS data for England and Wales shows 26% of heterosexual divorces in 2025 followed 20 years or more of marriage Most couples are aware of the dreaded “seven-year itch”, when the honeymoon period wears off and real life starts to bite. Now official data has shown that couples in…",
+   "published": "2026-10-18T13:29:53+00:00"
   },
   {
    "id": "a57d27b4778b",
@@ -16253,17 +16352,6 @@
    "flourishing_feed": false,
    "summary": "City-state's GDP expands 5.4 percent in July-September quarter, according to advance government estimates.",
    "published": "2026-10-14T04:25:02+00:00"
-  },
-  {
-   "id": "c811916a8db4",
-   "title": "High school girls soccer: 6A/5A/4A/3A/2A state tournament scores, schedules",
-   "link": "https://www.deseret.com/sports/2026/10/07/high-school-girls-soccer-6a-5a-4a-3a-2a-state-tournament/",
-   "source": "Deseret News",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "6A state tournament First round (Oct. 13) No. 1 Lone Peak 2, No. 16 Skyridge 2 | Lone Peak wins in PKs 3-0 No. 8 Layton 2, No. 9 Mountain Ridge 1 No. 4 American Fork 1, No. 13 Riverton 0 No. 5 Corner Canyon 2, No. 12 Copper Hills 1 No. 2 Davis 6, No. 15 Bingham 1 No. 7 Syracuse…",
-   "published": "2026-10-14T04:23:04+00:00"
   },
   {
    "id": "8f6b5702c12a",
@@ -86433,17 +86521,6 @@
    "flourishing_feed": false,
    "summary": "The Indiana Supreme Court is stopping the distribution of election ballots in six counties while it considers legal arguments over the Republican primary recount that determined challenger Paula Copenhaver defeated state Sen. Spencer Deery by a three-vote margin.",
    "published": "2026-09-03T15:01:05+00:00"
-  },
-  {
-   "id": "f735e58712b3",
-   "title": "SEC Investor Advisory Committee to Host Sept. 10 Meeting",
-   "link": "https://www.sec.gov/newsroom/press-releases/2026-84-sec-investor-advisory-committee-host-sept-10-meeting",
-   "source": "SEC Press Releases",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "The Securities and Exchange Commission’s Investor Advisory Committee will host a public meeting at the SEC Headquarters in Washington D.C. on Sept. 10 at 10 a.m. ET to discuss artificial intelligence technologies in the public markets and the SEC’s…",
-   "published": "2026-09-03T14:27:49+00:00"
   }
  ]
 }
