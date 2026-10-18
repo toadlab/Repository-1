@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T00:55:51.196156+00:00",
+ "generated": "2026-10-18T01:41:46.514506+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,8 +129,30 @@
  ],
  "items": [
   {
+   "id": "b6bb1637df09",
+   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+   "published": "2026-10-18T01:10:25+00:00"
+  },
+  {
+   "id": "80c287479d5a",
+   "title": "Israeli settlers attack European diplomats in the occupied West Bank",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank.",
+   "published": "2026-10-18T01:02:37+00:00"
+  },
+  {
    "id": "c03750b5a9f8",
-   "title": "Building set ablaze and more than 1,200 arrested as police clash with protesters across France",
+   "title": "Buildings set ablaze and more than 1,200 arrested as police clash with protesters across France",
    "link": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -141,13 +163,13 @@
   },
   {
    "id": "2b5319902de2",
-   "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+   "title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Fires reported on three tankers as masked settlers attack European politicians in the occupied West Bank.",
+   "summary": "Fires reported on three tankers, as masked settlers attack European politicians in the occupied West Bank.",
    "published": "2026-10-18T00:00:11+00:00"
   },
   {
@@ -512,17 +534,6 @@
    "flourishing_feed": false,
    "summary": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama's resignation.",
    "published": "2026-10-17T19:26:13+00:00"
-  },
-  {
-   "id": "b6bb1637df09",
-   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-   "published": "2026-10-17T19:19:19+00:00"
   },
   {
    "id": "a3ac7fe502ba",
