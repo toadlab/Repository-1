@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T21:41:13.876587+00:00",
+ "generated": "2026-10-18T22:39:34.760224+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "name": "The Guardian World",
@@ -140,6 +140,61 @@
    "published": "2026-10-19T04:00:00+00:00"
   },
   {
+   "id": "e55e7fdfe86d",
+   "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+   "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training…",
+   "published": "2026-10-18T22:26:15+00:00"
+  },
+  {
+   "id": "9aad51dd9229",
+   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+   "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+   "published": "2026-10-18T22:10:45+00:00"
+  },
+  {
+   "id": "d1f7d3839669",
+   "title": "Warning signs could predict inflammatory bowel disease a decade before diagnosis",
+   "link": "https://www.theguardian.com/science/2026/oct/18/research-predict-inflammatory-bowel-disease-decade-before-diagnosis",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Antibody patterns in the blood may help doctors identify people at risk so they can be treated earlier, research shows Patterns of antibodies in people’s blood could predict the onset of inflammatory bowel disease (IBD) a decade before diagnosis, according to research that…",
+   "published": "2026-10-18T22:01:10+00:00"
+  },
+  {
+   "id": "155e634e28cc",
+   "title": "Alberta independence referendum: Will separatists survive a loss?",
+   "link": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Alberta’s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight.",
+   "published": "2026-10-18T21:53:13+00:00"
+  },
+  {
+   "id": "944f39f3a671",
+   "title": "Trump says DC golf course ‘restoration’ to start despite judge’s order to pause plans",
+   "link": "https://www.theguardian.com/us-news/2026/oct/18/trump-dc-golf-course-renovation",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Judge orders government to notify her by 8pm ET Sunday whether its position changed from Friday’s court filing Donald Trump posted on Truth Social on Sunday that “restoration work will begin” on 15 November to a historic public golf course in Washington DC despite a federal…",
+   "published": "2026-10-18T21:44:21+00:00"
+  },
+  {
    "id": "3a3633bcbd19",
    "title": "What we know so far about deadly fire at Canadian military base",
    "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
@@ -202,7 +257,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis.",
+   "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
    "published": "2026-10-18T21:00:22+00:00"
   },
   {
@@ -350,7 +405,7 @@
   },
   {
    "id": "9951afaa5a10",
-   "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,000 arrests across France",
+   "title": "Macron criticises ‘unbridled violence’ after days of unrest and 2,400 arrests across France",
    "link": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -523,17 +578,6 @@
    "flourishing_feed": false,
    "summary": "Green leader in England and Wales calls ‘debates about words’ unhelpful and denies recent motion was controversial Zack Polanski has said Zionism in its current form is racist, that no country has a right to exist, and that the Green party motion on the issue was not…",
    "published": "2026-10-18T17:38:29+00:00"
-  },
-  {
-   "id": "e55e7fdfe86d",
-   "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-   "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training…",
-   "published": "2026-10-18T17:34:53+00:00"
   },
   {
    "id": "ce3f413b6892",
