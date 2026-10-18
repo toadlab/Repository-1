@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T14:40:50.935620+00:00",
+ "generated": "2026-10-18T15:40:46.117272+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,149 @@
  ],
  "items": [
   {
+   "id": "4d0e91b71fcd",
+   "title": "Manchester United held at Leeds despite improved performance for Carrick",
+   "link": "https://www.aljazeera.com/sports/2026/10/18/manchester-united-held-at-leeds-despite-improved-performance-under-carrick?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bryan Mbeumo's goal is not enough to win it for beleaguered United as Dominic Calvert-Lewin levels for Leeds.",
+   "published": "2026-10-18T15:28:30+00:00"
+  },
+  {
+   "id": "bb9361e11f92",
+   "title": "Police investigate Reform mayor for allegedly sharing ‘naked and sexualised’ images of himself",
+   "link": "https://www.theguardian.com/politics/2026/oct/18/police-investigate-reform-mayor-allegedly-sharing-naked-sexualised-images-of-himself",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Female colleague says she was forced out shortly after incident with Luke Campbell, Hull and East Yorkshire mayor A Reform UK mayor is under police investigation for allegedly showing “naked and sexualised” images of himself to a female member of staff. Luke Campbell, a former…",
+   "published": "2026-10-18T15:18:04+00:00"
+  },
+  {
+   "id": "226d65772109",
+   "title": "I’m 64 with two sons, but only one works in the family business. Is it ethical to leave him 70% of the company?",
+   "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+   "published": "2026-10-18T15:15:00+00:00"
+  },
+  {
+   "id": "9951afaa5a10",
+   "title": "French government in crisis talks after ‘colossal failure of the state’",
+   "link": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ministers, officials and police under pressure over response to days of violent unrest in cities across France The French government was in crisis talks on Sunday after one of the most violent days of unrest in years left public buildings burned, hundreds of shops destroyed and…",
+   "published": "2026-10-18T15:10:32+00:00"
+  },
+  {
+   "id": "7b1dd5d46a12",
+   "title": "EU condemns Israeli settler attack on diplomats in occupied West Bank",
+   "link": "https://www.aljazeera.com/news/2026/10/18/eu-condemns-israeli-settler-attack-on-diplomats-in-occupied-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "EU demands accountability after settlers attack European diplomats amid violence against Palestinian olive farmers.",
+   "published": "2026-10-18T15:10:05+00:00"
+  },
+  {
+   "id": "bfc1dadabf6d",
+   "title": "Tirana sees sixth day of violent protests as Albania’s PM refuses to resign",
+   "link": "https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police crack down on hundreds of protesters in Albania's capital, using rubber bullets, water cannons and tear gas.",
+   "published": "2026-10-18T15:08:18+00:00"
+  },
+  {
+   "id": "b40783f72f7a",
+   "title": "Scholars conclude ‘beyond doubt’ that Shakespeare was main author of Edward III",
+   "link": "https://www.theguardian.com/culture/2026/oct/18/scholars-conclude-beyond-doubt-that-shakespeare-was-main-author-of-edward-iii",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Play anonymously published in 1596 was collaboration between Shakespeare and Christopher Marlowe, according to computer analysis Dramatic new evidence concludes that the play Edward III should be added to William Shakespeare’s canon, and also that it was a major…",
+   "published": "2026-10-18T15:00:02+00:00"
+  },
+  {
+   "id": "8e56c5510408",
+   "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+   "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+   "published": "2026-10-18T15:00:00+00:00"
+  },
+  {
+   "id": "5170ddb7bc3d",
+   "title": "Letter to the editor: Vote no on Amendment B",
+   "link": "https://www.deseret.com/opinion/2026/10/18/letter-amendment-b-response/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In their Oct. 8 opinion piece, Sen. Lincoln Fillmore and Rep. Jason Kyle argue that raising taxes should require broad agreement. If that principle is sound, why doesn’t Amendment B apply it to the Legislature? The authors justify the difference by pointing to elected…",
+   "published": "2026-10-18T15:00:00+00:00"
+  },
+  {
+   "id": "477236d037f7",
+   "title": "Six-year-old among two dead after Kansas woman drives through soccer game, with 11 more injured",
+   "link": "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Wichita police say 34-year-old truck driver from Garden City was taken into custody amid case at youth soccer game The two people killed on Saturday when a truck drove through a youth soccer game in north-east Wichita, Kansas , were a six-year-old boy and a 35-year-old man,…",
+   "published": "2026-10-18T14:58:27+00:00"
+  },
+  {
+   "id": "3d0b6a6492c7",
+   "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years A dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and Portugal The angry protests that have convulsed Spain and France in recent weeks have spilled…",
+   "published": "2026-10-18T14:50:37+00:00"
+  },
+  {
+   "id": "c91595b231e1",
+   "title": "A timeline of West Bank attacks on Palestinians and foreign officials",
+   "link": "https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Settler pogroms have escalated, coinciding with the annual olive harvest season in the occupied West Bank.",
+   "published": "2026-10-18T14:42:01+00:00"
+  },
+  {
+   "id": "1e2aa116d2b3",
+   "title": "Manchester City owner’s £55m housing loan while Burnham was mayor investigated",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Scrutiny committee looks into financing of Manchester Life project as PM promises ‘full transparency’ A £55m loan to Manchester City’s Abu Dhabi owner will be investigated as part of a review into a fund for housing projects while Andy Burnham was mayor. The prime minister has…",
+   "published": "2026-10-18T14:41:15+00:00"
+  },
+  {
    "id": "c811916a8db4",
    "title": "High school girls soccer: 6A/5A/4A/3A/2A state tournament scores, schedules",
    "link": "https://www.deseret.com/sports/2026/10/07/high-school-girls-soccer-6a-5a-4a-3a-2a-state-tournament/",
@@ -140,15 +283,15 @@
    "published": "2026-10-18T14:31:37+00:00"
   },
   {
-   "id": "3d0b6a6492c7",
-   "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+   "id": "c656ecc3f3dd",
+   "title": "Two killed and at least 17 injured as Russia and Ukraine trade blows on power infrastructure",
+   "link": "https://www.theguardian.com/world/2026/oct/18/killed-injured-russia-ukraine-strikes-power-infrastructure",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years A dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and Portugal The angry protests that have convulsed Spain and France in recent weeks have spilled…",
-   "published": "2026-10-18T14:28:06+00:00"
+   "summary": "Ukraine used more than 1,000 drones to target Russian oil depots, logistics facilities and datacentres Two people have been killed and at least 17 injured as Russia and Ukraine continue to trade strikes on each other’s power infrastructure, after the breakdown of Donald Trump’s…",
+   "published": "2026-10-18T14:31:30+00:00"
   },
   {
    "id": "d597274d8205",
@@ -226,6 +369,17 @@
    "flourishing_feed": false,
    "summary": "The demonstrations have united students and ‘yellow vest’ supporters, exposing deeper anger over living standards.",
    "published": "2026-10-18T13:48:04+00:00"
+  },
+  {
+   "id": "5abe5a095296",
+   "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+   "link": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+   "published": "2026-10-18T13:47:07+00:00"
   },
   {
    "id": "d9f416a10bec",
@@ -455,7 +609,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+   "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
    "published": "2026-10-18T12:07:31+00:00"
   },
   {
@@ -983,7 +1137,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "BOULDER, Colo. — Survive and advance. Utah improved to 6-0 with a 27-24 win over Colorado on Saturday at Folsom Field, which is ultimately what matters, but the route the Utes took to get there was ugly. Less-than-pretty victories still count the same in the win column, but…",
+   "summary": "BOULDER, Colo. — Survive and advance. Utah improved to 6-0 with a 27-24 win over Colorado on Saturday night at Folsom Field, which is ultimately what matters, but the route the Utes took to get there was ugly. Less-than-pretty victories still count the same in the win column,…",
    "published": "2026-10-18T07:59:23+00:00"
   },
   {
@@ -2758,17 +2912,6 @@
    "published": "2026-10-17T12:00:30+00:00"
   },
   {
-   "id": "226d65772109",
-   "title": "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
-   "link": "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I have some reservations about the long-term stability of my younger son’s marriage.”",
-   "published": "2026-10-17T12:00:00+00:00"
-  },
-  {
    "id": "888533486d5b",
    "title": "Perspective: Midterm money madness",
    "link": "https://www.npr.org/2026/10/17/nx-s1-5997474/perspective-midterm-money-madness",
@@ -2943,17 +3086,6 @@
    "flourishing_feed": false,
    "summary": "10/17/1862: Justice David Davis takes oath. The post Today in Supreme Court History: October 17, 1862 appeared first on Reason Magazine.",
    "published": "2026-10-17T11:00:02+00:00"
-  },
-  {
-   "id": "8e56c5510408",
-   "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-   "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
-   "published": "2026-10-17T11:00:00+00:00"
   },
   {
    "id": "4b79f6fe8481",
@@ -86510,17 +86642,6 @@
    "flourishing_feed": false,
    "summary": "Gov. Mike Braun suspended Indiana’s gasoline usage and excise taxes Thursday, extending his latest energy emergency just in time to avoid a sudden surge in gasoline prices for Labor Day weekend. Motorists would have paid an extra 61 cents per gallon in excise and usage taxes…",
    "published": "2026-09-03T17:17:38+00:00"
-  },
-  {
-   "id": "b61a82ef4c85",
-   "title": "Court halts ballots while it considers recount of 3-vote Indiana Senate primary",
-   "link": "https://indianacapitalchronicle.com/2026/09/03/court-halts-ballots-while-it-considers-recount-of-3-vote-indiana-senate-primary/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Indiana Supreme Court is stopping the distribution of election ballots in six counties while it considers legal arguments over the Republican primary recount that determined challenger Paula Copenhaver defeated state Sen. Spencer Deery by a three-vote margin.",
-   "published": "2026-09-03T15:01:05+00:00"
   }
  ]
 }
