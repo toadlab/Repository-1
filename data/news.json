@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T19:37:25.521043+00:00",
+ "generated": "2026-10-18T20:40:14.286927+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 29
+   "count": 31
   },
   {
    "name": "The Guardian World",
@@ -138,6 +138,61 @@
    "flourishing_feed": false,
    "summary": "This document contains final regulations regarding the payment of tax by commercially acceptable means. The final regulations reflect changes to the law made by the Taxpayer First Act that would allow the IRS to directly accept payments of tax by credit or debit card, without…",
    "published": "2026-10-19T04:00:00+00:00"
+  },
+  {
+   "id": "55d19e02d108",
+   "title": "Macron calls for calm in France and warns rioting must not escalate",
+   "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+   "published": "2026-10-18T20:33:21+00:00"
+  },
+  {
+   "id": "b8f8d63dce10",
+   "title": "What’s behind Europe’s youth protests?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What's behind Europe's youth protests?",
+   "published": "2026-10-18T20:05:07+00:00"
+  },
+  {
+   "id": "3a3633bcbd19",
+   "title": "What we know so far about deadly fire at Canadian military base",
+   "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least four people are confirmed to have died after a huge fire swept through the base.",
+   "published": "2026-10-18T19:42:37+00:00"
+  },
+  {
+   "id": "383056da8a37",
+   "title": "India’s crackdown on cockroaches, critics and cameras",
+   "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A government at war with its critics - from young protesters to the media.",
+   "published": "2026-10-18T19:31:45+00:00"
+  },
+  {
+   "id": "477236d037f7",
+   "title": "Kansas driver who allegedly killed two and hurt 10 at soccer game is released from custody",
+   "link": "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Wichita police awaiting toxicology results and mechanical exam of pickup truck driven by the 34-year-old woman A woman who was arrested on Saturday after she drove a truck through a youth soccer game in Wichita, Kansas – killing a boy and a man – has been released from custody…",
+   "published": "2026-10-18T19:30:58+00:00"
   },
   {
    "id": "d8601b120c0a",
@@ -229,13 +284,13 @@
   },
   {
    "id": "8ede70574916",
-   "title": "Guardian reporter filmed masked militants seconds before West Bank attack on French mayor",
+   "title": "Netanyahu casts doubt on settler attack witnessed by Guardian reporter",
    "link": "https://www.theguardian.com/world/2026/oct/18/guardian-reporter-filmed-masked-militants-seconds-before-west-bank-attack-on-french-mayor",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "New video footage of Israeli settler assault on European delegation as Netanyahu attempts to raise doubt Hours after Israeli militants attacked a delegation of European diplomats, French clerics and a visiting mayor in the occupied West Bank, Israel’s leader, Benjamin…",
+   "summary": "Assault on European delegation in West Bank exposes government’s response to violence even when those targeted represent Israel’s allies Hours after Israeli militants attacked a delegation of European diplomats, French clerics and a visiting mayor in the occupied West Bank,…",
    "published": "2026-10-18T18:39:23+00:00"
   },
   {
@@ -292,17 +347,6 @@
    "flourishing_feed": false,
    "summary": "Editor’s note: This story was originally published on Oct 18, 2024. A look back at local, national and world events through Deseret News archives. On Oct. 18, 1977, Reggie Jackson hit three home runs in Game 6 of the World Series to lead the New York Yankees to an 8-4 win and a…",
    "published": "2026-10-18T18:25:37+00:00"
-  },
-  {
-   "id": "477236d037f7",
-   "title": "Six-year-old among two dead after Kansas woman drives through soccer game, with 11 more injured",
-   "link": "https://www.theguardian.com/us-news/2026/oct/18/wichita-kansas-soccer-field-game-truck-deaths",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Wichita police awaiting toxicology results and mechanical exam of pickup truck driven by the 34-year-old The two people killed on Saturday when a woman in a truck drove through a youth soccer game in north-east Wichita, Kansas , were a six-year-old boy and a 35-year-old man,…",
-   "published": "2026-10-18T18:24:40+00:00"
   },
   {
    "id": "c31aa89be2f7",
@@ -713,7 +757,7 @@
   },
   {
    "id": "d597274d8205",
-   "title": "France protests live: Big blaze, tear gas fired during standoff in Paris",
+   "title": "France protests updates: Macron vows rioters will ‘pay for their crimes’",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/france-protests-live-macron-to-address-nation-after-deadly-protests?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -1370,6 +1414,17 @@
    "flourishing_feed": false,
    "summary": "Is your retirement goal a \"magic number\" you think you need to be comfortable? You need a plan based on your own life, not someone else's arbitrary benchmark.",
    "published": "2026-10-18T10:00:00+00:00"
+  },
+  {
+   "id": "d8c9aec304ac",
+   "title": "Jordon Steele-John says ‘I’m not on leave’ and accuses Greens leader of making ‘bad call’ regarding complaints",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/18/greens-senator-jordon-steele-john-says-not-on-leave-blames-david-shoebridge-complaints-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Greens senator for WA says complaints regarding his behaviour towards women not about ‘accountability’ but rather ‘factionalism’ Get our breaking news email , free app or daily news podcast Jordon Steele-John has accused an internal faction within the Greens of playing “nasty…",
+   "published": "2026-10-18T09:51:48+00:00"
   },
   {
    "id": "4bb046541135",
@@ -86983,17 +87038,6 @@
    "flourishing_feed": false,
    "summary": "The 2026 inflation adjustment factor and applicable amounts are used in calculating the amount of the clean electricity production credit allowable under section 45Y (section 45Y credit) of the Internal Revenue Code (Code), which are required by law to be published in the…",
    "published": "2026-09-04T04:00:00+00:00"
-  },
-  {
-   "id": "fe23a8930492",
-   "title": "SEC Proposes Rescission of Political Contribution Rule for Investment Advisers",
-   "link": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers",
-   "source": "SEC Press Releases",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "The Securities and Exchange Commission today issued a proposal to rescind its “pay-to-play” rule that prohibits investment advisers from providing compensated investment advisory services to a government client for two years…",
-   "published": "2026-09-03T20:30:00+00:00"
   }
  ]
 }
