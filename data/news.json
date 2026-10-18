@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T11:40:00.604054+00:00",
+ "generated": "2026-10-18T12:48:50.386694+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,81 @@
  ],
  "items": [
   {
-   "id": "eb0fe5744393",
-   "title": "Nottinghamshire police officer in hospital after being shot in the foot",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/18/nottingham-police-officer-in-hospital-shot-in-foot",
+   "id": "351390f82ca4",
+   "title": "Several dead or injured in major fire at Canada military base",
+   "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
+   "published": "2026-10-18T12:41:59+00:00"
+  },
+  {
+   "id": "3c0f005aca5e",
+   "title": "The dark side of optimizing fertility",
+   "link": "https://www.vox.com/explain-it-to-me/506710/fertility-ivf-genetic-testing-embryos-eugenics",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "We live in an era of endless optimization. Fitness trackers help us measure our lifespan, people are consuming piles of protein in an attempt to be their best selves, and there’s even an urge to maximize our morality. In a world of constant self-improvement, it’s no wonder that…",
+   "published": "2026-10-18T12:30:00+00:00"
+  },
+  {
+   "id": "15f3ba8ad1d4",
+   "title": "Nottingham Forest vs Arsenal LIVE: Premier League",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/18/nottingham-forest-vs-arsenal-live-premier-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow updates from the Premier League clash, including build-up, analysis and live text commentary of the game.",
+   "published": "2026-10-18T12:30:00+00:00"
+  },
+  {
+   "id": "57e2c33da4d6",
+   "title": "A Dividend Strategy Shines for This Top iShares ETF",
+   "link": "https://www.kiplinger.com/investing/etfs/a-dividend-strategy-shines-for-this-top-ishares-etf",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Big dividend payouts and stock buybacks are a winning combination for the iShares Core Dividend ETF, one of Kiplinger's favorite exchange-traded funds.",
+   "published": "2026-10-18T12:30:00+00:00"
+  },
+  {
+   "id": "02b8790878e1",
+   "title": "Microsoft drops huge AI datacentre project in Essex over power supply concerns",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Large cordon in place around Angel Row area of city centre after ‘shocking incident’ in the early hours of Sunday A police officer is in hospital after being shot in the foot in Nottingham in the early hours of Sunday. Nottinghamshire police said the officer had approached two…",
-   "published": "2026-10-18T11:15:55+00:00"
+   "summary": "Development by UK firm Nscale heralded by ministers as largest of its kind in the country loses its anchor tenant The development of a huge AI datacentre hailed by the UK government has received a fresh setback after Microsoft pulled out of the project over concerns about power…",
+   "published": "2026-10-18T12:28:45+00:00"
+  },
+  {
+   "id": "46647e002280",
+   "title": "European diplomats attacked by Israeli settlers in West Bank",
+   "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+   "published": "2026-10-18T12:16:14+00:00"
+  },
+  {
+   "id": "eca8139b7823",
+   "title": "Created Your Will? Why Your Heirs Could Still Face Major Delays",
+   "link": "https://www.kiplinger.com/retirement/estate-planning/what-can-delay-an-inheritance",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A will alone doesn’t mean your heirs can easily or quickly access your estate. If you want to leave funds for a funeral, here’s what to do instead.",
+   "published": "2026-10-18T12:15:00+00:00"
   },
   {
    "id": "3d0b6a6492c7",
@@ -147,8 +213,173 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years Emmanuel Macron will give a televised address to the French public this evening on the protests and unrest on Saturday. The French President will speak at 8pm French time (6pm GMT), after…",
-   "published": "2026-10-18T11:13:14+00:00"
+   "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years A dispatch here from Sam Jones, our reporter in Madrid, as protests have spread to Italy and Portugal The angry protests that have convulsed Spain and France in recent weeks have spilled…",
+   "published": "2026-10-18T12:14:03+00:00"
+  },
+  {
+   "id": "7935f0230e74",
+   "title": "There’s a ‘New Middle East’, but not the one Israel planned",
+   "link": "https://www.aljazeera.com/video/pinch-point/2026/10/18/pp-new-middle-east?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Instead of redrawing the region, Israel's wars of expasion pushed the region to work together against it.",
+   "published": "2026-10-18T12:07:34+00:00"
+  },
+  {
+   "id": "85126632508d",
+   "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+   "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+   "published": "2026-10-18T12:07:31+00:00"
+  },
+  {
+   "id": "73fe7bb934c7",
+   "title": "\"The Supreme Court Should Not Have to Keep Trimming the Same Poison Ivy One Tiny Branch at a Time\"",
+   "link": "https://reason.com/volokh/2026/10/18/the-supreme-court-should-not-have-to-keep-trimming-the-same-poison-ivy-one-tiny-branch-at-a-time/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A nice line from Ninth Circuit Judge Lawrence VanDyke.",
+   "published": "2026-10-18T12:01:39+00:00"
+  },
+  {
+   "id": "ed723fd65a62",
+   "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
+   "link": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Akhlaghi's experience centres on ballistic missiles, aerospace technology and defence-industrial production.",
+   "published": "2026-10-18T12:00:04+00:00"
+  },
+  {
+   "id": "6141b1957c02",
+   "title": "New NHS England policy for trans people could have ‘a number of adverse impacts’, report finds",
+   "link": "https://www.theguardian.com/society/2026/oct/18/nhs-england-guidance-single-sex-wards-trans-people-adverse-impacts-report",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: rules on same-sex wards could lead to delays in care, discrimination and animosity between groups, finds internal assessment Trans people could face delays and a greater risk of “corridor care” under new NHS England guidance that means they will no longer be able to…",
+   "published": "2026-10-18T12:00:03+00:00"
+  },
+  {
+   "id": "6afb460d7032",
+   "title": "EPA quietly backtracks on claims US has phased out toxic Pfas compounds",
+   "link": "https://www.theguardian.com/environment/2026/oct/18/epa-pfas-compounds-toxins",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Agency changes wording on website as Texas-based chemical firm continues manufacture of plastic containers The Environmental Protection Agency has quietly backtracked on a claim that the US has phased out two of the most dangerous Pfas compounds – Pfoa and Pfos. The EPA has…",
+   "published": "2026-10-18T12:00:03+00:00"
+  },
+  {
+   "id": "9b1c837fa2b2",
+   "title": "Some conservative states aren’t using Medicaid hardship exemption – for political reasons",
+   "link": "https://www.theguardian.com/us-news/2026/oct/18/medicaid-hardship-exemptions-conservative-states",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "States like Missouri and Iowa are choosing to not take up exemption designed to help low-income people keep coverage during hardship Some conservative states that have rejected hardship exemptions for the new Medicaid requirements may be choosing not to due to political…",
+   "published": "2026-10-18T12:00:02+00:00"
+  },
+  {
+   "id": "73d8eac4c9cd",
+   "title": "If you have the scratch, they have the scares",
+   "link": "https://www.npr.org/2026/10/18/nx-s1-5985869/if-you-have-the-scratch-they-have-the-scares",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Scary stories are more than fun, they're big business.",
+   "published": "2026-10-18T12:00:00+00:00"
+  },
+  {
+   "id": "bd91f752f3b1",
+   "title": "I give to charity — but never to people on the street. Is that wrong?",
+   "link": "https://www.vox.com/future-perfect/372519/charity-giving-effective-altruism-mutual-aid-homeless",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Editor’s note, October 18, 8 am ET: We’re bringing you some of our best-loved Your Mileage May Vary columns while Sigal Samuel is on parental leave. The one below was originally published in September 2024. This unconventional advice column offers you a unique framework for…",
+   "published": "2026-10-18T12:00:00+00:00"
+  },
+  {
+   "id": "02d52bc7f763",
+   "title": "Finding Purpose In Retirement: Why Hobbies Aren't Enough",
+   "link": "https://www.kiplinger.com/retirement/happy-retirement/why-hobbies-arent-enough-in-retirement",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A fulfilling retirement isn't just about filling your days with hobbies, but finding purposeful engagement that offers challenge, growth and accountability.",
+   "published": "2026-10-18T12:00:00+00:00"
+  },
+  {
+   "id": "49e184d32b10",
+   "title": "There is a silent market rotation inside the S&P 500 that’s warning of more weakness ahead",
+   "link": "https://www.marketwatch.com/story/there-is-a-silent-market-rotation-inside-the-s-p-500-thats-warning-of-more-weakness-ahead-549e7650?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "A “triple-top” reversal chart pattern is pointing to a period of underperformance for the S&P 500 — perhaps a long one.",
+   "published": "2026-10-18T12:00:00+00:00"
+  },
+  {
+   "id": "13481defb80a",
+   "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+   "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+   "published": "2026-10-18T11:57:49+00:00"
+  },
+  {
+   "id": "18ec3eb68364",
+   "title": "4 Unique Winter Getaways That Won't Break the Bank",
+   "link": "https://www.kiplinger.com/personal-finance/travel/winter-weather-getaways",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "From soaking in hot springs under the northern lights to gliding over the snow on a dogsled, these expeditions make the most of the cold.",
+   "published": "2026-10-18T11:45:00+00:00"
+  },
+  {
+   "id": "a99a23bef86e",
+   "title": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
+   "link": "https://www.aljazeera.com/news/2026/10/18/funeral-held-for-75-palestinians-after-remains-recovered-from-gaza-ruins?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Most of the victims were from the Daraj neighbourhood in Gaza City, the Health Ministry says.",
+   "published": "2026-10-18T11:24:43+00:00"
+  },
+  {
+   "id": "eb0fe5744393",
+   "title": "Nottinghamshire police officer in hospital after being shot in the foot",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/18/nottingham-police-officer-in-hospital-shot-in-foot",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Large cordon in place around Angel Row area of city centre after ‘shocking incident’ in the early hours of Sunday A police officer is in hospital after being shot in the foot in Nottingham in the early hours of Sunday. Nottinghamshire police said the officer had approached two…",
+   "published": "2026-10-18T11:15:55+00:00"
   },
   {
    "id": "0a944469ee16",
@@ -180,7 +411,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Hundreds at Lisbon tent camp demand action on housing, as Giorgia Meloni says march in Italian capital exploited by ‘hooligans’ The angry protests that have convulsed Spain and France in recent weeks have spilled over to Italy and Portugal, with rioters clashing with police and…",
+   "summary": "Hundreds at Lisbon tent camp demand action, as Giorgia Meloni says march in Italy was exploited by ‘hooligans’ The angry protests that have convulsed Spain and France in recent weeks have spilled over to Italy and Portugal, with rioters clashing with police and setting property…",
    "published": "2026-10-18T11:02:39+00:00"
   },
   {
@@ -226,17 +457,6 @@
    "flourishing_feed": false,
    "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
    "published": "2026-10-18T10:58:39+00:00"
-  },
-  {
-   "id": "85126632508d",
-   "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-   "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-   "published": "2026-10-18T10:53:54+00:00"
   },
   {
    "id": "f8a02d6a0bf6",
@@ -468,17 +688,6 @@
    "flourishing_feed": false,
    "summary": "Manchester City continue their 100 percent start despite calls for sanctions after being found guilty of breaking rules.",
    "published": "2026-10-18T08:56:41+00:00"
-  },
-  {
-   "id": "351390f82ca4",
-   "title": "Several dead or injured in major fire at Canada military base",
-   "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Officials have not given a cause or death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
-   "published": "2026-10-18T08:52:41+00:00"
   },
   {
    "id": "0c8e29d2dbdc",
@@ -1084,17 +1293,6 @@
    "flourishing_feed": false,
    "summary": "Sydney teenager charged with offensive behaviour and sexual touching without consent in relation to incidents involving females aged 13 to 54 Get our breaking news email , free app or daily news podcast An ebike riding 13-year-old boy has been charged with multiple sexual…",
    "published": "2026-10-17T23:53:08+00:00"
-  },
-  {
-   "id": "46647e002280",
-   "title": "European diplomats attacked by Israeli settlers in West Bank",
-   "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-   "published": "2026-10-17T23:52:38+00:00"
   },
   {
    "id": "aae3a7df50c1",
@@ -1813,13 +2011,13 @@
   },
   {
    "id": "5a4c6ba69608",
-   "title": "Paris police report 855 arrests after violent clashes and looting during protests",
+   "title": "French police arrest 1,800 after violent clashes and looting mar protests",
    "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
    "source": "NPR News",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Paris police said Sunday that 855 people were arrested in the French capital region after violent groups clashed with officers and looted shops during a protest march that drew about 110,000 people.",
+   "summary": "Police arrested at least 1,800 people across France after violent groups clashed with officers and looted shops during nationwide demonstrations that drew hundreds of thousands of people.",
    "published": "2026-10-17T15:57:40+00:00"
   },
   {
