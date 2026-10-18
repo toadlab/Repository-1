@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T04:44:14.048402+00:00",
+ "generated": "2026-10-18T05:42:11.719062+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,61 @@
  ],
  "items": [
   {
+   "id": "97949b446a88",
+   "title": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
+   "link": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating.",
+   "published": "2026-10-18T05:16:49+00:00"
+  },
+  {
+   "id": "a2cd27a9770d",
+   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+   "published": "2026-10-18T05:04:31+00:00"
+  },
+  {
+   "id": "68adb5211177",
+   "title": "Deaths, injuries after fire at Alberta military base: Canada minister",
+   "link": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Defence Minister David McGuinty says people were killed and injured, but provides no figures or cause of fire.",
+   "published": "2026-10-18T04:59:29+00:00"
+  },
+  {
+   "id": "414cd679c5df",
+   "title": "St Petersburg under attack from Ukrainian drone swarm",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Video posted on social media shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm.",
+   "published": "2026-10-18T04:51:01+00:00"
+  },
+  {
+   "id": "adf0217cfbef",
+   "title": "UK police rule out probe into Palestine Action post by PM adviser’s wife",
+   "link": "https://www.aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Met Police determine X post by Sarah Helm, seen to endorse Palestine Action, does 'not meet the criminal threshold'.",
+   "published": "2026-10-18T04:46:17+00:00"
+  },
+  {
    "id": "2054c45d15c4",
    "title": "3 takeaways from No. 8 BYU’s historic upset of No. 2 Notre Dame",
    "link": "https://www.deseret.com/sports/2026/10/17/byu-football-upsets-notre-dame-3-takeaways/",
@@ -163,13 +218,13 @@
   },
   {
    "id": "351390f82ca4",
-   "title": "Deadly fire breaks out at Canada military base",
+   "title": "Deaths confirmed in major fire at Canada military base",
    "link": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\".",
+   "summary": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister.",
    "published": "2026-10-18T04:00:50+00:00"
   },
   {
@@ -246,7 +301,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Incident at CFB Wainwright base in Alberta caused a ‘major fire’ that is spreading to the nearby town because of strong winds People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s…",
+   "summary": "Patients being taken to hospitals in Edmonton as Wainwright ‘completely overwhelmed’ by number of injuries, local doctor says People have been killed and injured after an incident at one of Canada’s busiest military training bases in Alberta caused a large fire, Canada’s…",
    "published": "2026-10-18T02:50:29+00:00"
   },
   {
@@ -361,7 +416,7 @@
   },
   {
    "id": "2b5319902de2",
-   "title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
+   "title": "Iran war live: Two killed in Saudi helicopter crash; drones target Riyadh",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -702,13 +757,13 @@
   },
   {
    "id": "2abd0f6fcafb",
-   "title": "At least 17 killed in stampede at religious gathering in India",
+   "title": "At least 19 killed in stampede at religious gathering in India",
    "link": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Incident took place at festival in north Kolkata, in India's West Bengal state, amid big crowds and rainfall, police said.",
+   "summary": "Incident took place at festival in Kolkata, in India's West Bengal state, amid large crowds and rainfall, police say.",
    "published": "2026-10-17T19:48:54+00:00"
   },
   {
