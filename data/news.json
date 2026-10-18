@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T09:42:37.417376+00:00",
+ "generated": "2026-10-18T10:41:51.182577+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,171 @@
  ],
  "items": [
   {
+   "id": "76efcc951954",
+   "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
+   "link": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Zelenskyy says Russian attacks on Ukraine overnight kill two people, adding that Moscow continues to break energy ceasefire.",
+   "published": "2026-10-18T10:34:09+00:00"
+  },
+  {
+   "id": "979672d3be62",
+   "title": "Russia’s war in Ukraine puts Europe on edge",
+   "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/18/russias-war-in-ukraine-puts-europe-on-edge?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Poland’s FM addresses growing concerns that Russia’s war in Ukraine could spill over into neighbouring NATO countries.",
+   "published": "2026-10-18T10:33:36+00:00"
+  },
+  {
+   "id": "edda34430f58",
+   "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’",
+   "link": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Separated by war for more than a year, a captain in Gaza’s Civil Defence unit attempts to reunite with his family.",
+   "published": "2026-10-18T10:30:00+00:00"
+  },
+  {
+   "id": "3d0b6a6492c7",
+   "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years Protests in France caused damage worth hundreds of millions of euros, according to the head of a trade body representing shop owners. About 1,500 shops and retailers were damaged in the…",
+   "published": "2026-10-18T10:29:46+00:00"
+  },
+  {
+   "id": "b6d0ab0b8b8b",
+   "title": "Egypt to provide ‘necessary’ support to Saudi Arabia amid Houthi attacks",
+   "link": "https://www.aljazeera.com/news/2026/10/18/egypt-to-provide-all-necessary-and-possible-support-to-saudi?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Presidency says Egypt will provide Saudi Arabia with support to defend its security and protect its resources.",
+   "published": "2026-10-18T10:23:38+00:00"
+  },
+  {
+   "id": "75c9ae2fc320",
+   "title": "Indian YouTuber Dhruv Rathee leads anti-BJP protest in London",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/indian-youtuber-dhruv-rathee-leads-anti-bjp-protest-in-london?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Dhruv Rathee led a ‘Stop vote theft’ protest in London, accusing Modi's government of electoral manipulation.",
+   "published": "2026-10-18T10:18:03+00:00"
+  },
+  {
+   "id": "5080e5d8dfa6",
+   "title": "South African rugby player Hyron Andrews paid emotional tribute in France",
+   "link": "https://www.aljazeera.com/sports/2026/10/18/south-african-rugby-player-hyron-andrews-paid-emotional-tribute-in-france?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Andrews died in France on Friday while on tour with the Johannesburg Lions during the Champions Cup rugby tournament.",
+   "published": "2026-10-18T10:02:59+00:00"
+  },
+  {
+   "id": "7ecf5b3266ec",
+   "title": "Trump's War With Iran Pushed Him To Waive a Century-Old Shipping Law. Commerce Boomed.",
+   "link": "https://reason.com/2026/10/18/a-world-without-the-jones-act/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Jones Act requires all goods moved between American ports to be carried on American-built, American-crewed ships.",
+   "published": "2026-10-18T10:00:24+00:00"
+  },
+  {
+   "id": "32171614bea1",
+   "title": "What Notre Dame coach Marcus Freeman said after losing to BYU",
+   "link": "https://www.deseret.com/sports/2026/10/18/byu-defeats-notre-dame-coach-marcus-freeman-postgame-comments/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Undefeated no more. Notre Dame’s perfect 2026 record was spoiled Saturday night in Provo, as double-digit underdog BYU scored a historic 28-24 upset victory over the No. 2-ranked Irish. “Give a lot of credit to coach (Kalani) Sitake and the BYU team. They’re tough, they’re a…",
+   "published": "2026-10-18T10:00:01+00:00"
+  },
+  {
+   "id": "7df128f992a3",
+   "title": "Why a Retirement ‘Magic Number’ May Be the Wrong Target",
+   "link": "https://www.kiplinger.com/retirement/retirement-planning/your-retirement-magic-number-may-be-the-wrong-target",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Is your retirement goal a \"magic number\" you think you need to be comfortable? You need a plan based on your own life, not someone else's arbitrary benchmark.",
+   "published": "2026-10-18T10:00:00+00:00"
+  },
+  {
+   "id": "85126632508d",
+   "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+   "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+   "published": "2026-10-18T09:56:45+00:00"
+  },
+  {
+   "id": "4bb046541135",
+   "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
+   "link": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Top US diplomat says Ukraine has requested access to military-grade version of Starlink for strikes deep inside Russia.",
+   "published": "2026-10-18T09:42:40+00:00"
+  },
+  {
+   "id": "cd8e7448ce53",
+   "title": "NHS staff who wrongly accessed tiger victim’s records should be sacked, says Yvette Cooper",
+   "link": "https://www.theguardian.com/society/2026/oct/18/nhs-staff-tiger-william-chapman-records-yvette-cooper",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Health secretary says it is ‘total disgrace’ if staff looked up William Chapman, who died at Yorkshire Wildlife Park NHS staff who inappropriately accessed the medical records of a man mauled to death by a tiger should be sacked, Yvette Cooper said. The health secretary said…",
+   "published": "2026-10-18T09:38:13+00:00"
+  },
+  {
+   "id": "eb0fe5744393",
+   "title": "Nottinghamshire police officer in hospital after being shot in the foot",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/18/nottingham-police-officer-in-hospital-shot-in-foot",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Large cordon in place around Angel Row area of city centre after ‘shocking incident’ in the early hours of Sunday A police officer is in hospital after being shot in the foot in Nottingham in the early hours of Sunday. Nottinghamshire police said the officer had approached two…",
+   "published": "2026-10-18T09:32:32+00:00"
+  },
+  {
+   "id": "094c49d8e236",
+   "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
+   "link": "https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sudanese are facing growing costs of medicine caused by the country's civil war.",
+   "published": "2026-10-18T09:22:44+00:00"
+  },
+  {
    "id": "c5304dc40c60",
    "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
    "link": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
@@ -149,17 +314,6 @@
    "flourishing_feed": false,
    "summary": "Follow updates, including team news, from our live text commentary stream as Bruno Fernandes, Marcus Rashford headline.",
    "published": "2026-10-18T09:16:06+00:00"
-  },
-  {
-   "id": "3d0b6a6492c7",
-   "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years More than 1,800 people have been arrested in France over protests on Saturday, the country’s interior minister Laurent Nunez has said. Nunez, in a post on X, said “the Republic will not…",
-   "published": "2026-10-18T09:15:22+00:00"
   },
   {
    "id": "01213f745295",
@@ -290,7 +444,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Survive and advance. Utah improved to 6-0 with a 27-24 win over Colorado on Saturday at Folsom Field, which is ultimately what matters, but the route the Utes took to get there was ugly. Less-than-pretty victories still count the same in the win column, but coach Morgan Scalley…",
+   "summary": "BOULDER, Colo. — Survive and advance. Utah improved to 6-0 with a 27-24 win over Colorado on Saturday at Folsom Field, which is ultimately what matters, but the route the Utes took to get there was ugly. Less-than-pretty victories still count the same in the win column, but…",
    "published": "2026-10-18T07:59:23+00:00"
   },
   {
@@ -790,13 +944,13 @@
   },
   {
    "id": "c03750b5a9f8",
-   "title": "Buildings set ablaze and more than 1,200 arrested as police clash with protesters across France",
+   "title": "Buildings set ablaze and more than 1,800 arrested as police clash with protesters across France",
    "link": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Police fire teargas in Paris and Limoges town hall ‘largely lost’ to fire – with officials blaming violence on ‘ultra-left’ More than 1,200 people were arrested in France on Saturday after protesters supporting high school students clashed with police, with some demonstrations…",
+   "summary": "Police fire teargas in Paris and Limoges town hall ‘largely lost’ to fire – with officials blaming violence on ‘ultra-left’ More than 1,800 people were arrested in France on Saturday after protesters supporting high school students clashed with police, with some demonstrations…",
    "published": "2026-10-18T00:01:12+00:00"
   },
   {
