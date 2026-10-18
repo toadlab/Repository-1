@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T10:41:51.182577+00:00",
+ "generated": "2026-10-18T11:40:00.604054+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 28
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,149 @@
  ],
  "items": [
   {
+   "id": "eb0fe5744393",
+   "title": "Nottinghamshire police officer in hospital after being shot in the foot",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/18/nottingham-police-officer-in-hospital-shot-in-foot",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Large cordon in place around Angel Row area of city centre after ‘shocking incident’ in the early hours of Sunday A police officer is in hospital after being shot in the foot in Nottingham in the early hours of Sunday. Nottinghamshire police said the officer had approached two…",
+   "published": "2026-10-18T11:15:55+00:00"
+  },
+  {
+   "id": "3d0b6a6492c7",
+   "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years Emmanuel Macron will give a televised address to the French public this evening on the protests and unrest on Saturday. The French President will speak at 8pm French time (6pm GMT), after…",
+   "published": "2026-10-18T11:13:14+00:00"
+  },
+  {
+   "id": "0a944469ee16",
+   "title": "What help can Egypt offer Saudi Arabia in the war against the Houthis?",
+   "link": "https://www.aljazeera.com/news/2026/10/18/what-help-can-egypt-offer-saudi-arabia-in-the-war-against-the-houthis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Analysts say that any move from Egypt will remain 'strictly defensive', as the conflict in Yemen intensifies.",
+   "published": "2026-10-18T11:11:26+00:00"
+  },
+  {
+   "id": "dd08f8d0736a",
+   "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+   "link": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
+   "published": "2026-10-18T11:09:32+00:00"
+  },
+  {
+   "id": "588d66a1ae3b",
+   "title": "‘We are suffocating’: protests spread to Lisbon and Milan as housing and living cost tensions intensify",
+   "link": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hundreds at Lisbon tent camp demand action on housing, as Giorgia Meloni says march in Italian capital exploited by ‘hooligans’ The angry protests that have convulsed Spain and France in recent weeks have spilled over to Italy and Portugal, with rioters clashing with police and…",
+   "published": "2026-10-18T11:02:39+00:00"
+  },
+  {
+   "id": "0d9b219e44be",
+   "title": "Today in Supreme Court History: October 18, 1960",
+   "link": "https://reason.com/volokh/2026/10/18/today-in-supreme-court-history-october-18-1960-8/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "10/18/1960: Gomillion v. Lightfoot argued. The post Today in Supreme Court History: October 18, 1960 appeared first on Reason Magazine.",
+   "published": "2026-10-18T11:00:52+00:00"
+  },
+  {
+   "id": "97288f176887",
+   "title": "He Campaigned for the East Cleveland Mayor's Opponent. Then Police Came for His Truck.",
+   "link": "https://reason.com/2026/10/18/he-campaigned-for-the-east-cleveland-mayors-opponent-then-police-came-for-his-truck/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A federal court recently revived William Fambrough's lawsuit, which alleges city officials—including then-Mayor Brandon King—retaliated against him for his speech.",
+   "published": "2026-10-18T11:00:27+00:00"
+  },
+  {
+   "id": "86f40cfd0284",
+   "title": "‘Damp squib’: Ed Davey can breathe easy as Lib Dem leadership challenge fails to materialise",
+   "link": "https://www.theguardian.com/politics/2026/oct/18/lib-dem-opposition-ed-davey-leadership-challenge-fails-to-materialise",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lengthy meeting heard grumbles about ‘blue wall’ policies and ‘Ming vase’ tactics but no real rancour As political showdowns go, this week’s gathering of Liberal Democrat MPs, billed by some as a crunch moment for Ed Davey, was a touch underwhelming. “I had expected a damp…",
+   "published": "2026-10-18T11:00:03+00:00"
+  },
+  {
+   "id": "fe0b6e873f7e",
+   "title": "Parisians wake up to protest damage and looted shops",
+   "link": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
+   "published": "2026-10-18T10:58:39+00:00"
+  },
+  {
+   "id": "85126632508d",
+   "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+   "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+   "published": "2026-10-18T10:53:54+00:00"
+  },
+  {
+   "id": "f8a02d6a0bf6",
+   "title": "Jordan-Israel border becomes new hotspot for sophisticated drug trade",
+   "link": "https://www.aljazeera.com/news/2026/10/18/jordans-israel-border-becomes-a-new-hotspot-for-a-sophisticated-drug-trade?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A surge in drug smuggling from Israel to Jordan using drones and balloons prompts accusations of border guard collusion.",
+   "published": "2026-10-18T10:48:18+00:00"
+  },
+  {
+   "id": "c5d283de3b4c",
+   "title": "Palestinian karate champion Maryam Bsharat wins second world title",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/palestinian-karate-champion-maryam-bsharat-wins-second-world-title?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Palestinian athlete Maryam Bsharat won gold at the World Karate Championships in Poland.",
+   "published": "2026-10-18T10:47:59+00:00"
+  },
+  {
+   "id": "e09f0fe43e71",
+   "title": "Zack Polanski says application of Zionism is racist and no state has right to exist",
+   "link": "https://www.theguardian.com/politics/2026/oct/18/greens-zack-polanski-application-zionism-racist-no-state-right-to-exist",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Green leader in England and Wales calls ‘debates about words’ unhelpful and denies recent motion was controversial Zack Polanski has said Zionism in its current form is racist, that no country has a right to exist, and that the Green party motion on the issue was not…",
+   "published": "2026-10-18T10:39:14+00:00"
+  },
+  {
    "id": "76efcc951954",
    "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites",
    "link": "https://www.aljazeera.com/news/2026/10/18/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
@@ -160,17 +303,6 @@
    "flourishing_feed": false,
    "summary": "Separated by war for more than a year, a captain in Gaza’s Civil Defence unit attempts to reunite with his family.",
    "published": "2026-10-18T10:30:00+00:00"
-  },
-  {
-   "id": "3d0b6a6492c7",
-   "title": "Arrests over France protests rise to 1,800, with whole streets in Paris ‘devastated’ – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Interior minister says ‘the Republic will not yield’ to France’s worst protests in years Protests in France caused damage worth hundreds of millions of euros, according to the head of a trade body representing shop owners. About 1,500 shops and retailers were damaged in the…",
-   "published": "2026-10-18T10:29:46+00:00"
   },
   {
    "id": "b6d0ab0b8b8b",
@@ -239,17 +371,6 @@
    "published": "2026-10-18T10:00:00+00:00"
   },
   {
-   "id": "85126632508d",
-   "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-   "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-   "published": "2026-10-18T09:56:45+00:00"
-  },
-  {
    "id": "4bb046541135",
    "title": "Rubio says Ukraine without access to Starshield, future ‘under discussion’",
    "link": "https://www.aljazeera.com/news/2026/10/18/rubio-says-ukraine-without-access-to-starshield-future-under-discussion?traffic_source=rss",
@@ -270,17 +391,6 @@
    "flourishing_feed": false,
    "summary": "Health secretary says it is ‘total disgrace’ if staff looked up William Chapman, who died at Yorkshire Wildlife Park NHS staff who inappropriately accessed the medical records of a man mauled to death by a tiger should be sacked, Yvette Cooper said. The health secretary said…",
    "published": "2026-10-18T09:38:13+00:00"
-  },
-  {
-   "id": "eb0fe5744393",
-   "title": "Nottinghamshire police officer in hospital after being shot in the foot",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/18/nottingham-police-officer-in-hospital-shot-in-foot",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Large cordon in place around Angel Row area of city centre after ‘shocking incident’ in the early hours of Sunday A police officer is in hospital after being shot in the foot in Nottingham in the early hours of Sunday. Nottinghamshire police said the officer had approached two…",
-   "published": "2026-10-18T09:32:32+00:00"
   },
   {
    "id": "094c49d8e236",
@@ -1703,13 +1813,13 @@
   },
   {
    "id": "5a4c6ba69608",
-   "title": "Scuffles and fires break out as protesters rally across France, joining students",
+   "title": "Paris police report 855 arrests after violent clashes and looting during protests",
    "link": "https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france",
    "source": "NPR News",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Demonstrators across France converged with students Saturday to protest rising living costs, as the country's fiscal crisis deepens.",
+   "summary": "Paris police said Sunday that 855 people were arrested in the French capital region after violent groups clashed with officers and looted shops during a protest march that drew about 110,000 people.",
    "published": "2026-10-17T15:57:40+00:00"
   },
   {
