@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T18:55:21.540342+00:00",
+ "generated": "2026-10-19T19:46:19.860636+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -129,6 +129,226 @@
  ],
  "items": [
   {
+   "id": "ead125fb8ea1",
+   "title": "H.R. 9367, Stop Lawmakers From Predicting Act",
+   "link": "https://www.cbo.gov/publication/62866",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As ordered reported by the House Committee on House Administration on June 24, 2026",
+   "published": "2026-10-19T19:34:00+00:00"
+  },
+  {
+   "id": "948543c8e3c8",
+   "title": "H.R. 9785, South Dakota Water Feasibility Studies Act",
+   "link": "https://www.cbo.gov/publication/62865",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As ordered reported by the House Committee on Natural Resources on September 15, 2026",
+   "published": "2026-10-19T19:34:00+00:00"
+  },
+  {
+   "id": "dc95bd901582",
+   "title": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta – follow updates",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament What we…",
+   "published": "2026-10-19T19:31:37+00:00"
+  },
+  {
+   "id": "7c790c76c051",
+   "title": "We all want to offload our most tedious tasks. But what do we lose in the process?",
+   "link": "https://www.vox.com/advice/506547/muse-instinct-chatgpt-dots-ai-personal-agent",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "If there’s one thing a busy person doesn’t need, it’s more information. More emails, more notifications, more infinite feeds — the steady drip of data spells doom for the overstimulated American. And if you’re a busy parent, like me, sometimes it feels like a flood: school…",
+   "published": "2026-10-19T19:30:00+00:00"
+  },
+  {
+   "id": "4e9bdd14862f",
+   "title": "Why Elon Musk, Anthropic and other AI titans are giving away shares",
+   "link": "https://www.marketwatch.com/story/why-elon-musk-anthropic-and-other-ai-titans-are-giving-away-shares-a6709d24?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Gifts of stock can help with public relations and offer financial advantages to wealthy individuals.",
+   "published": "2026-10-19T19:30:00+00:00"
+  },
+  {
+   "id": "588cd184f2db",
+   "title": "Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Latest action on alleged voter fraud comes as administration escalates its fight with state as midterms loom DoJ charges 28 green card holders in California over alleged illegal voting Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s…",
+   "published": "2026-10-19T19:28:24+00:00"
+  },
+  {
+   "id": "f66705cd3f57",
+   "title": "Investigation continues into ‘violent’ fire that killed 4 soldiers in Canada",
+   "link": "https://www.deseret.com/u-s-world/2026/10/19/investigation-continues-around-violent-canada-fire/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A “violent, fast moving fire” killed four and injured dozens more Saturday when it overtook soldiers at CFB Wainwright in Alberta, one of Canada’s busiest military training bases. The fire ignited in the base’s training area, where soldiers were training with live ammunition,…",
+   "published": "2026-10-19T19:28:23+00:00"
+  },
+  {
+   "id": "75a0f08ed468",
+   "title": "Indians reach for an identity beyond caste and creed",
+   "link": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/1019/Indians-reach-for-an-identity-beyond-caste-and-creed?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The surging “cockroach” youth protest movement is prompting citizens in the world’s most populous nation to unite behind democratic rights, especially civic equality.",
+   "published": "2026-10-19T19:26:41+00:00"
+  },
+  {
+   "id": "7531210b2282",
+   "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Curfews to apply to parts of cities including Paris, Nice and Lyon after days of violence on French streets Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in…",
+   "published": "2026-10-19T19:25:56+00:00"
+  },
+  {
+   "id": "63dff902a10a",
+   "title": "Protesters unveil melting Ron DeSantis statue to signify his inaction on climate crisis",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/melting-ron-desantis-statue-climate-crisis",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Florida governor has consistently opposed any legislation to curb planet-heating emissions, calling it a ‘radical climate agenda’ A life-sized statue of Ron DeSantis, the Florida governor, was unveiled and promptly began melting in front of an audience in Tallahassee in a…",
+   "published": "2026-10-19T19:22:02+00:00"
+  },
+  {
+   "id": "bf56b480c53d",
+   "title": "The BYU and Utah football teams just made history together",
+   "link": "https://www.deseret.com/sports/2026/10/19/byu-utah-football-in-ap-top-10-together/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "There isn’t a whole lot of notable history that the BYU-Utah football rivalry hasn’t already achieved, but the two programs did check a new thing off the list Sunday. For the first time, both teams are ranked in the top 10 of the Associated Press Top 25 poll at the same time,…",
+   "published": "2026-10-19T19:17:33+00:00"
+  },
+  {
+   "id": "b90c366d35dd",
+   "title": "CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover",
+   "link": "https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Analysts argue CoreWeave’s underlying economics are far sturdier than nervous debt and equity investors realize.",
+   "published": "2026-10-19T19:17:00+00:00"
+  },
+  {
+   "id": "bb156e763ac9",
+   "title": "After Martin University’s closure, what happens to its history?",
+   "link": "https://mirrorindy.org/eastern-star-church-martin-university-building-campus-history/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The former campus building recently reopened as the ROCK Impact Center. The post After Martin University’s closure, what happens to its history? appeared first on Mirror Indy .",
+   "published": "2026-10-19T19:13:01+00:00"
+  },
+  {
+   "id": "479a318e1207",
+   "title": "Indian court extends detention of ‘Cockroach’ leaders",
+   "link": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The extension of the custody of the CJP activists comes amid a crackdown on near daily protests against the government.",
+   "published": "2026-10-19T19:09:22+00:00"
+  },
+  {
+   "id": "13371e37474e",
+   "title": "Over three dozen Congress members’ offices targeted with white powder envelopes",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/white-powder-envelopes-congress",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Envelopes containing powder come weeks before midterms as federal agents try to identify who is behind campaign More than three dozen members of US Congress have had their offices targeted with envelopes containing white powder, less than three weeks before the 3 November…",
+   "published": "2026-10-19T19:08:52+00:00"
+  },
+  {
+   "id": "91f2bf6bcd97",
+   "title": "Baylor study examines NIL’s impact on student-athletes’ faith",
+   "link": "https://www.deseret.com/faith/2026/10/19/how-does-name-image-likeness-affect-student-athletes-faith/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A team of Baylor University researchers is studying how Name, Image and Likeness deals affect student-athletes — and their faith. “Virtue on the Market: Navigating Character and Competition in the Name, Image, and Likeness (NIL) Era of College Athletics” will examine how NIL…",
+   "published": "2026-10-19T19:07:37+00:00"
+  },
+  {
+   "id": "1810398c7b48",
+   "title": "The winners and losers of Utah’s record-warm 2026 water year",
+   "link": "https://www.deseret.com/utah/2026/10/19/utah-record-warm-water-year/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Every county in Utah broke temperature records during the 2026 water year, which recently ended. However, some fared better than others when it comes to precipitation.",
+   "published": "2026-10-19T19:03:50+00:00"
+  },
+  {
+   "id": "d36d84287877",
+   "title": "‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline",
+   "link": "https://www.theguardian.com/environment/2026/oct/19/study-europe-wild-bee-species-decline-",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As Cop17 kicks off, records since 1921 show more bee species declining than increasing in all parts of Europe except the Alps Most of Europe’s wild bee species and about half of its hover fly species have declined over the last century, a study has found, as a UN biodiversity…",
+   "published": "2026-10-19T19:00:04+00:00"
+  },
+  {
+   "id": "fa051e720504",
+   "title": "The 3-and-10 Rule: How Social Security Replacement Card Limits Work",
+   "link": "https://www.kiplinger.com/retirement/social-security/the-3-and-10-rule-how-social-security-replacement-card-limits-work",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Think you can get a new Social Security card whenever you lose one? Federal limits say otherwise.",
+   "published": "2026-10-19T19:00:00+00:00"
+  },
+  {
+   "id": "952abfc86ac8",
+   "title": "DoJ charges 28 green card holders in California over alleged voter fraud",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/california-illegal-voting-charges-doj",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Crackdown marks latest escalation in the Trump justice department’s push to target alleged noncitizen voting The US Department of Justice has filed criminal charges against 28 green card holders in California accused of fraudulently registering to vote and casting illegal…",
+   "published": "2026-10-19T18:52:06+00:00"
+  },
+  {
    "id": "0c826e0f324f",
    "title": "Mitt Romney issues rare statement as Republicans challenge Trump’s Russia deal",
    "link": "https://www.deseret.com/politics/2026/10/19/republicans-threaten-trump-lame-duck-agenda/",
@@ -171,6 +391,17 @@
    "flourishing_feed": false,
    "summary": "25-01845.pdf Anonymous (not verified) Mon, 10/19/2026 - 14:40 Case ID 25-01845 Forum FINRA Document Type Award Claimants Sandra Dose Respondents Stifel, Nicolaus & Co., Inc. Wells Fargo Clearing Services, LLC Neutrals Richard H. Potter Donald M. Thompson John Russell Barlow…",
    "published": "2026-10-19T18:40:01+00:00"
+  },
+  {
+   "id": "8dc9a6099a76",
+   "title": "Protesters block Louvre in support of French student movement",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "French students are now blockading the world’s busiest museum.",
+   "published": "2026-10-19T18:39:27+00:00"
   },
   {
    "id": "aa853b613107",
@@ -217,28 +448,6 @@
    "published": "2026-10-19T18:30:00+00:00"
   },
   {
-   "id": "7531210b2282",
-   "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Curfews to apply to parts of cities including Paris, Nice and Lyon after days of violence on French streets Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in…",
-   "published": "2026-10-19T18:29:23+00:00"
-  },
-  {
-   "id": "588cd184f2db",
-   "title": "Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Latest action on alleged voter fraud comes as administration escalates its fight with state as midterms loom Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has reached a new low – 33% . This comes, just over two weeks…",
-   "published": "2026-10-19T18:29:18+00:00"
-  },
-  {
    "id": "bf375fab4ba3",
    "title": "Citizens Sues Ameriprise, Accusing Ex-Advisor of Breaking Employment Contracts",
    "link": "https://www.wealthmanagement.com/ibd-news/citizens-sues-ameriprise-accusing-ex-advisor-of-breaking-employment-contracts",
@@ -248,6 +457,17 @@
    "flourishing_feed": false,
    "summary": "Citizens Securities is seeking a restraining order against Ameriprise and Darrell Smith in federal court in Massachusetts, alleging that Smith solicited former clients shortly after changing firms.",
    "published": "2026-10-19T18:28:46+00:00"
+  },
+  {
+   "id": "e1a8a86e8052",
+   "title": "Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor",
+   "link": "https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US federal prosecutors allege the defendant was in frequent contact with unnamed member of royal family.",
+   "published": "2026-10-19T18:23:55+00:00"
   },
   {
    "id": "a47baae252f4",
@@ -768,13 +988,13 @@
   },
   {
    "id": "095501001441",
-   "title": "Iran War backlash threatens Republican control of Congress",
+   "title": "War on Iran backlash threatens Republican control of Congress",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Public opposition to the Iran War could threaten Republican control of Congress, as economic fallout fuels voter anger.",
+   "summary": "Public opposition to the war on Iran could threaten Republican control of Congress.",
    "published": "2026-10-19T16:24:30+00:00"
   },
   {
@@ -2281,7 +2501,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand Business live – latest updates Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer…",
+   "summary": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer spending. China’s GDP grew by 4.5%…",
    "published": "2026-10-19T09:27:04+00:00"
   },
   {
@@ -10565,17 +10785,6 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "BYU’s Bear Bachmeier vs. Notre Dame’s CJ Carr. Well, they are not going to be on the field donning boxing gloves to duke it out. But they are two star quarterbacks who will play a huge role in what happens on Saturday when No. 2 Notre Dame visits No. 8 BYU . Both will face…",
-   "published": "2026-10-16T10:00:00+00:00"
-  },
-  {
-   "id": "7c790c76c051",
-   "title": "I outsourced my life to AI agents for two weeks. It went…weirdly.",
-   "link": "https://www.vox.com/advice/506547/muse-instinct-chatgpt-dots-ai-personal-agent",
-   "source": "Vox",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "If there’s one thing a busy person doesn’t need, it’s more information. More emails, more notifications, more infinite feeds — the steady drip of data spells doom for the overstimulated American. And if you’re a busy parent, like me, sometimes it feels like a flood: school…",
    "published": "2026-10-16T10:00:00+00:00"
   },
   {
