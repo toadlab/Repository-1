@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T23:36:47.250562+00:00",
+ "generated": "2026-10-19T00:57:23.175945+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 28
+   "count": 30
   },
   {
    "name": "The Guardian World",
@@ -140,6 +140,105 @@
    "published": "2026-10-19T04:00:00+00:00"
   },
   {
+   "id": "dbaffab862f4",
+   "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+   "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+   "published": "2026-10-19T00:06:25+00:00"
+  },
+  {
+   "id": "f88a78698737",
+   "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Iran's Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
+   "published": "2026-10-18T23:59:34+00:00"
+  },
+  {
+   "id": "6a5f20803f5b",
+   "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+   "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.",
+   "published": "2026-10-18T23:58:05+00:00"
+  },
+  {
+   "id": "753af9b499f3",
+   "title": "Outrage after Meta suspends No Kings Instagram account during protests",
+   "link": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "‘Meta owes us an explanation,’ group says as organizers fear censorship after account goes dark for several hours The coalition leaders behind nationwide pro-democracy protests that have drawn millions of Americans to the streets in recent years were frustrated when its…",
+   "published": "2026-10-18T23:53:48+00:00"
+  },
+  {
+   "id": "e30ca04264aa",
+   "title": "‘I wanted this one really bad’: Isaac Wilson comes up short vs. former team, but offers some hope to Colorado",
+   "link": "https://www.deseret.com/sports/2026/10/18/what-isaac-wilson-said-after-utah-colorado-game/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "BOULDER, Colo. — Isaac Wilson wanted to win Saturday’s game against Utah badly. Wilson, who was thrust into the starting quarterback job early in his freshman season in 2024 after an injury to Cam Rising, then cast aside the following year as Byrd Ficklin emerged as the backup…",
+   "published": "2026-10-18T23:53:26+00:00"
+  },
+  {
+   "id": "e55e7fdfe86d",
+   "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+   "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training…",
+   "published": "2026-10-18T23:53:13+00:00"
+  },
+  {
+   "id": "c9c02875c2fe",
+   "title": "Obama condemns comments by ‘border czar’ that Ilhan Omar could ‘of course’ be denaturalized",
+   "link": "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ex-president urges Americans to defend congresswoman, saying ‘there’s no reason to believe it will stop with her’ Former US president Barack Obama condemned comments by Donald Trump’s “border czar” that the Republican presidential administration could “of course” strip…",
+   "published": "2026-10-18T23:51:31+00:00"
+  },
+  {
+   "id": "bc7e6fee376a",
+   "title": "Times’s investigation adds more intrigue to infamous OJ Simpson case",
+   "link": "https://www.theguardian.com/us-news/2026/oct/18/oj-simpson-case-times-report",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Report reveals that a shady mobster-turned-informant may have been involved in helping cover up murder An in-depth investigation by the New York Times is raising further questions about the high-profile OJ Simpson case, in which the former football player was accused in the…",
+   "published": "2026-10-18T23:35:07+00:00"
+  },
+  {
+   "id": "5987fe721f68",
+   "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+   "link": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+   "published": "2026-10-18T23:28:45+00:00"
+  },
+  {
    "id": "4ed5ce6e3cca",
    "title": "Labor promises $30 weekly cap for Victorian public transport amid push for free travel",
    "link": "https://www.theguardian.com/australia-news/2026/oct/19/labor-promises-30-weekly-cap-for-victorian-public-transport-amid-push-for-free-travel",
@@ -182,6 +281,17 @@
    "flourishing_feed": false,
    "summary": "Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir.",
    "published": "2026-10-18T23:06:16+00:00"
+  },
+  {
+   "id": "455fc0cf2128",
+   "title": "Major fire at Canada military base leaves four dead, dozens injured",
+   "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+   "published": "2026-10-18T23:06:09+00:00"
   },
   {
    "id": "2e887791f5b1",
@@ -261,15 +371,15 @@
    "published": "2026-10-18T22:41:49+00:00"
   },
   {
-   "id": "e55e7fdfe86d",
-   "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-   "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-   "source": "The Guardian World",
+   "id": "121a363ca572",
+   "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+   "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’ Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training…",
-   "published": "2026-10-18T22:26:15+00:00"
+   "summary": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+   "published": "2026-10-18T22:22:51+00:00"
   },
   {
    "id": "d1f7d3839669",
@@ -481,17 +591,6 @@
    "published": "2026-10-18T19:11:27+00:00"
   },
   {
-   "id": "753af9b499f3",
-   "title": "Outrage after Meta suspends No Kings Instagram account during protests",
-   "link": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "‘Meta owes us an explanation,’ group says as organizers fear censorship after account goes dark for several hours The coalition leaders behind nationwide pro-democracy protests that have drawn millions of Americans to the streets in recent years were frustrated when its…",
-   "published": "2026-10-18T19:00:02+00:00"
-  },
-  {
    "id": "af59ea5fc30c",
    "title": "Opinion: Men didn’t kill dating, but what did?",
    "link": "https://www.deseret.com/opinion/2026/10/18/what-actually-killed-data/",
@@ -699,17 +798,6 @@
    "flourishing_feed": false,
    "summary": "In Adigrat, a city close to the Eritrean border, residents recall recent drone strikes by Ethiopian forces",
    "published": "2026-10-18T17:20:20+00:00"
-  },
-  {
-   "id": "c9c02875c2fe",
-   "title": "Trump ‘border czar’ says Ilhan Omar could be ‘of course’ denaturalized and deported",
-   "link": "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Officials allege congresswoman, whose home was raided by federal agents, or family violated law to obtain citizenship Tom Homan , Donald Trump’s “border czar”, has said that the Republican presidential administration could “of course” strip Democratic congresswoman Ilhan Omar…",
-   "published": "2026-10-18T17:16:02+00:00"
   },
   {
    "id": "483726046d99",
@@ -1868,7 +1956,7 @@
   },
   {
    "id": "a389c70cdae4",
-   "title": "‘Many family stories’: Tim Winton’s Cloudstreet takes out ABC radio poll of top 100 Australian books",
+   "title": "‘Many family stories’: Tim Winton’s Cloudstreet heads ABC radio poll of top 100 Australian books",
    "link": "https://www.theguardian.com/books/2026/oct/18/tim-winton-cloudstreet-abc-poll-top-100-australian-books",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -1967,7 +2055,7 @@
   },
   {
    "id": "2a8143433803",
-   "title": "Analysis: ‘Disrepected’ 8th-ranked BYU shamrocks No. 2 Notre Dame, makes case to be ranked No. 1",
+   "title": "Analysis: ‘Disrespected’ 8th-ranked BYU shamrocks No. 2 Notre Dame, makes case to be ranked No. 1",
    "link": "https://www.deseret.com/sports/2026/10/18/byu-football-notre-dame-analysis-cougars-irish-top-10-ranking-les/",
    "source": "Deseret News",
    "circle_hint": "national",
