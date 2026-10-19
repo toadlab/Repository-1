@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T07:59:11.999609+00:00",
+ "generated": "2026-10-19T08:52:39.004965+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -43,8 +43,8 @@
   },
   {
    "name": "Reason",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 504: Gateway Time-out"
+   "ok": true,
+   "count": 48
   },
   {
    "name": "ProPublica",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,37 @@
  ],
  "items": [
   {
-   "id": "8ec001383bac",
-   "title": "France's government under pressure after weekend of widespread violence",
-   "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "id": "176c69f14139",
+   "title": "Morning news brief",
+   "link": "https://www.npr.org/2026/10/19/nx-s1-6003499/morning-news-brief",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukraine and Russia exchange strikes as relations between U.S. and Ukraine deteriorate, the midterms are on track to be the most expensive on record, French president denounces violent protests.",
+   "published": "2026-10-19T08:46:44+00:00"
+  },
+  {
+   "id": "9283447ecf96",
+   "title": "Helen Haines updates: PM says person in custody after alleged attack on Helen Haines; police say she is in critical condition",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/19/helen-haines-updates-independent-mp-injured-in-incident-wangaratta-ntwnfb",
+   "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
-   "published": "2026-10-19T07:46:54+00:00"
+   "summary": "Independent MP injured in an incident involving a vehicle outside her electorate office in Wangaratta, in regional Victoria. Follow updates Independent MP Helen Haines fighting for life after incident outside Wangaratta office in regional Victoria ‘No ongoing threat to…",
+   "published": "2026-10-19T08:41:45+00:00"
+  },
+  {
+   "id": "19f79bbab72d",
+   "title": "Burnham pledges ‘big changes’ to the way the welfare system works to tackle Neets crisis – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prime minister’s comments come as children’s commissioner Dame Rachel de Souza highlights ‘staggering’ inequalities in young people’s treatment across UK Good morning. Children and young people are at the top of the agenda today, with the publication of a hard-hitting report…",
+   "published": "2026-10-19T08:34:15+00:00"
   },
   {
    "id": "7531210b2282",
@@ -147,8 +169,129 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Interior minister Laurent Nuñez should stay to ensure chain of command with police and security forces, says president Macron criticises ‘unbridled violence’ after 2,400 arrests across France French president Emmanuel Macron has declined interior minister Laurent Nuñez’s offer…",
-   "published": "2026-10-19T07:44:05+00:00"
+   "summary": "Interior minister Laurent Nuñez should stay to ensure chain of command with police and security forces, says president Macron criticises ‘unbridled violence’ after 2,400 arrests across France Back to France , the authorities in Marseille have just issued a ban of any public…",
+   "published": "2026-10-19T08:32:40+00:00"
+  },
+  {
+   "id": "02bad27ee6e6",
+   "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+   "published": "2026-10-19T08:31:32+00:00"
+  },
+  {
+   "id": "87659dba84b9",
+   "title": "France’s Macron declines minister’s resignation after violent protests",
+   "link": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Interior Minister Laurent Nunez acknowledges that police 'lost control' during weekend protests.",
+   "published": "2026-10-19T08:25:27+00:00"
+  },
+  {
+   "id": "a97da12b936b",
+   "title": "Independent MP Helen Haines fighting for life after incident outside Wangaratta office in regional Victoria",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "PM confirms a man is in custody after the Indi MP was left in a critical condition after being struck by a car on Monday afternoon Helen Haines updates: PM says person in custody after alleged attack on Helen Haines – follow live The independent MP Helen Haines has been…",
+   "published": "2026-10-19T08:24:09+00:00"
+  },
+  {
+   "id": "a2f4bcccbdec",
+   "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+   "link": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque.",
+   "published": "2026-10-19T08:17:19+00:00"
+  },
+  {
+   "id": "5ad8968676d7",
+   "title": "Mali’s military and armed groups committing abuses against civilians: HRW",
+   "link": "https://www.aljazeera.com/news/2026/10/19/malis-military-and-armed-groups-committing-abuses-against-civilians-hrw?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Soldiers, fighters and separatists in West African country committing grave laws-of-war violations, rights group finds.",
+   "published": "2026-10-19T08:06:22+00:00"
+  },
+  {
+   "id": "b67691c1d4ab",
+   "title": "Elderly man forcibly detained at Elbit Systems protest in Germany",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/elderly-man-forcibly-detained-at-elbit-systems-protest-in-germany?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "An elderly man was forcibly restrained by police during a protest against Elbit Systems in Ulm, Germany.",
+   "published": "2026-10-19T08:04:03+00:00"
+  },
+  {
+   "id": "fe77d986779e",
+   "title": "Data centers are now the largest financial bet in US history",
+   "link": "https://indianacapitalchronicle.com/2026/10/19/repub/data-centers-are-now-the-largest-financial-bet-in-us-history/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The sheer size of investment in data centers is drawing concern as it surpasses all other historical booms and crowds out other more job-creating ventures. Until now, no industry had driven the U.S. economy with such force since the railroad expansion of the late 1800s, when…",
+   "published": "2026-10-19T08:00:51+00:00"
+  },
+  {
+   "id": "8fc8f341e7e1",
+   "title": "Brickbat: Studying Hard or Hardly Studying",
+   "link": "https://reason.com/2026/10/19/brickbat-studying-hard-or-hardly-studying/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ontario government inspectors checked several career colleges that had experienced \"concerning\" growth in applications for the Ontario Student Assistance Program… The post Brickbat: Studying Hard or Hardly Studying appeared first on Reason Magazine.",
+   "published": "2026-10-19T08:00:39+00:00"
+  },
+  {
+   "id": "4875bed0eca3",
+   "title": "A Wall Meant to Divide Is Uniting Left and Right in Texas",
+   "link": "https://reasonstobecheerful.world/behind-the-remarkable-resistance-to-trumps-big-bend-wall/",
+   "source": "Reasons to be Cheerful",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": true,
+   "summary": "In August, videos of bulldozers ripping up the mouth of the iconic Santa Elena Canyon in Texas’ Big Bend went viral, propelling one of the country’s most remote national parks into the national spotlight. Construction crews were hard at work in the early stages of cutting a…",
+   "published": "2026-10-19T08:00:14+00:00"
+  },
+  {
+   "id": "f6f0f34f537c",
+   "title": "France protests live: Macron admits ‘failures’ after days of violent unrest",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Macron acknowledges 'failures in anticipation and intelligence', rules out interior minister's resignation over riots.",
+   "published": "2026-10-19T07:49:17+00:00"
+  },
+  {
+   "id": "8ec001383bac",
+   "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
+   "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+   "published": "2026-10-19T07:46:54+00:00"
   },
   {
    "id": "f9fc12daa18f",
@@ -180,7 +323,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "After Macron condemned ‘unbridled violence’, difference between French and German 10-year borrowing costs widens Business live – latest updates France was hit by a fresh wave of selling in its bond and stock markets on Monday after violent protests over the weekend left public…",
+   "summary": "Difference between French and German 10-year borrowing costs widens after violence breaks out Business live – latest updates France was hit by a fresh wave of selling in its bond and stock markets on Monday after violent protests over the weekend left public buildings burned,…",
    "published": "2026-10-19T07:32:59+00:00"
   },
   {
@@ -191,7 +334,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "NSW tribunal upholds liquor authority’s decision preventing Manthos Papadopoulos from entering Sydney Elements and Showgirls A Sydney strip club owner has failed in a bid to overturn a ban on entering venues – including his own businesses – in the nightlife precinct of Kings…",
+   "summary": "NSW tribunal upholds liquor authority’s decision preventing Manthos Papadopoulos from entering Sydney Elements and Showgirls Get our breaking news email , free app or daily news podcast A Sydney strip club owner has failed in a bid to overturn a ban on entering venues –…",
    "published": "2026-10-19T07:24:48+00:00"
   },
   {
@@ -236,6 +379,17 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "And a thorough condemnation of antebellum Minnesota lesbian poetry.",
+   "published": "2026-10-19T07:00:00+00:00"
+  },
+  {
+   "id": "e58a2aa85f3e",
+   "title": "Open Thread",
+   "link": "https://reason.com/volokh/2026/10/19/open-thread-362/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "What’s on your mind?",
    "published": "2026-10-19T07:00:00+00:00"
   },
   {
@@ -525,17 +679,6 @@
    "published": "2026-10-19T04:32:56+00:00"
   },
   {
-   "id": "02bad27ee6e6",
-   "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-   "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
-   "published": "2026-10-19T04:30:59+00:00"
-  },
-  {
    "id": "093e792823a0",
    "title": "Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate",
    "link": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
@@ -620,7 +763,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Prosecutors say Paul Mackenzie lured the latest victims to their deaths by writing notes from his prison cell.",
+   "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
    "published": "2026-10-19T03:44:02+00:00"
   },
   {
@@ -801,7 +944,7 @@
   },
   {
    "id": "f88a78698737",
-   "title": "Iran war live: US issues Middle East security alert; Yemen fighting flares",
+   "title": "Iran war live: Qatar to announce regional defence partnership",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -87929,17 +88072,6 @@
    "flourishing_feed": false,
    "summary": "It’s obvious from my inbox that you guys didn’t agree, at all, with my take on license plate readers and Flock cameras. I tried for a compromise position of tight regulations on usage in exchange for the positive tool they provide police to solve crime. But I clearly missed. In…",
    "published": "2026-09-04T09:00:05+00:00"
-  },
-  {
-   "id": "4a617cf56f3e",
-   "title": "Election experts see few legal options for Trump to meddle with polling places",
-   "link": "https://indianacapitalchronicle.com/2026/09/04/repub/election-experts-see-few-legal-options-for-trump-to-meddle-with-polling-places/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "WASHINGTON — President Donald Trump said earlier this year he’d “do anything necessary to make sure we have honest elections” this fall, declining to rule out sending the National Guard or federal law enforcement officers to polling locations throughout the country. Those…",
-   "published": "2026-09-04T08:00:46+00:00"
   }
  ]
 }
