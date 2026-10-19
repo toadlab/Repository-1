@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T01:44:36.514715+00:00",
+ "generated": "2026-10-19T02:45:01.064063+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "name": "The Guardian World",
@@ -140,6 +140,83 @@
    "published": "2026-10-19T04:00:00+00:00"
   },
   {
+   "id": "fe94c1c2bb03",
+   "title": "Former Labor attorney general turned judge Robert McClelland named new anti-corruption boss",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/19/former-labor-attorney-general-robert-mcclelland-named-new-nacc-boss",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "McClelland, who served in the Rudd government, named as boss of National Anti-Corruption Commission after Paul Brereton quit in May Former Labor attorney general and federal court judge Robert McClelland has been named as the new boss of the National Anti-Corruption Commission.…",
+   "published": "2026-10-19T02:27:37+00:00"
+  },
+  {
+   "id": "2e887791f5b1",
+   "title": "Jacqui Lambie condemns One Nation cartoon mocking her struggle with vaginal prolapse",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/19/jacqui-lambie-one-nation-pauline-hanson-please-explain-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Independent MP Monique Ryan throws her support behind fellow crossbencher after Pauline Hanson’s Please Explain episode Get our breaking news email , free app or daily news podcast Jacqui Lambie has condemned a One Nation cartoon mocking her health struggle with vaginal…",
+   "published": "2026-10-19T02:09:55+00:00"
+  },
+  {
+   "id": "7d373b7530d8",
+   "title": "Trump to close and renovate D.C. golf course, despite legal battle",
+   "link": "https://www.npr.org/2026/10/18/nx-s1-6007384/trump-to-close-and-renovate-d-c-golf-course-despite-legal-battle",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Trump continues his efforts to remake Washington, D.C. He wants to turn an area used by the public into a world-class golf course.",
+   "published": "2026-10-19T02:09:43+00:00"
+  },
+  {
+   "id": "78e83bbfdec1",
+   "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+   "link": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
+   "published": "2026-10-19T01:50:48+00:00"
+  },
+  {
+   "id": "bfa150e117b7",
+   "title": "What does a White House press secretary do?",
+   "link": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Katie Zacharia's short time as White House press secretary has brought renewed attention to the high-profile role.",
+   "published": "2026-10-19T01:41:24+00:00"
+  },
+  {
+   "id": "31c2c6c1ab76",
+   "title": "‘Limited evidence’ of protester violence at Sydney demonstration against Israeli president Isaac Herzog visit",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/19/limited-evidence-violence-sydney-protest-herzog-visit-police-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Amid police brutality allegations, inquiry hears protesters against visit of Israeli president were ‘largely peaceful’ Get our new political email , free app or daily news podcast An inquiry into a Sydney rally against the Israeli president’s visit has so far found protesters…",
+   "published": "2026-10-19T01:39:12+00:00"
+  },
+  {
+   "id": "13baa923773a",
+   "title": "Australian Greens senator denies claims of misconduct towards women",
+   "link": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
+   "published": "2026-10-19T01:32:40+00:00"
+  },
+  {
    "id": "0b665c15df9a",
    "title": "Westminster Dog Show taps Utahn as agility judge",
    "link": "https://www.deseret.com/utah/2026/10/18/utahn-to-judge-westminster-dog-show/",
@@ -171,17 +248,6 @@
    "flourishing_feed": false,
    "summary": "Kenyan health authorities say latest patient was likely exposed to the country's first Ebola case.",
    "published": "2026-10-19T01:07:52+00:00"
-  },
-  {
-   "id": "2e887791f5b1",
-   "title": "Jacqui Lambie condemns One Nation cartoon mocking her struggle with vaginal prolapse",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/19/jacqui-lambie-one-nation-pauline-hanson-please-explain-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Independent MP Monique Ryan throws her support behind fellow crossbencher after Pauline Hanson’s Please Explain episode Get our breaking news email , free app or daily news podcast Jacqui Lambie has condemned a One Nation cartoon mocking her health struggle with vaginal…",
-   "published": "2026-10-19T01:06:14+00:00"
   },
   {
    "id": "c200719cb5b5",
