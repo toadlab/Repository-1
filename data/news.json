@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T16:48:53.760886+00:00",
+ "generated": "2026-10-19T17:43:33.170021+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Federal Register: IRS",
@@ -129,6 +129,204 @@
  ],
  "items": [
   {
+   "id": "a22594a33610",
+   "title": "When should you dump your target-date funds?",
+   "link": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Target-date funds aren’t necessarily built to handle many of the decisions retirees face.",
+   "published": "2026-10-19T17:31:00+00:00"
+  },
+  {
+   "id": "1a41f3b5e5df",
+   "title": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
+   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
+   "published": "2026-10-19T17:30:00+00:00"
+  },
+  {
+   "id": "4f38a837fffe",
+   "title": "Lawrence North runner-up in state flag football tournament",
+   "link": "https://mirrorindy.org/lawrence-north-wildcats-girls-flag-football-competes-state-tournament-2026/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Wildcats bested Terre Haute in semi-state to return to this year’s state final. The post Lawrence North runner-up in state flag football tournament appeared first on Mirror Indy .",
+   "published": "2026-10-19T17:28:08+00:00"
+  },
+  {
+   "id": "7531210b2282",
+   "title": "French authorities announce partial curfew in Paris as PM blames ‘ultra-left’ for exploiting protests – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Curfew to last from 11pm to 6am and reportedly applies to unaccompanied minors and people wearing masks or personal protective equipment Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number…",
+   "published": "2026-10-19T17:27:09+00:00"
+  },
+  {
+   "id": "588cd184f2db",
+   "title": "Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Latest action on alleged voter fraud comes as administration escalates its fight with state as midterms loom Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has reached a new low – 33% . This comes, just over two weeks…",
+   "published": "2026-10-19T17:24:32+00:00"
+  },
+  {
+   "id": "81124d50b54e",
+   "title": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment",
+   "link": "https://www.aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A judge also doubled the daily fine for noncompliance with a previous court order governing political content.",
+   "published": "2026-10-19T17:24:28+00:00"
+  },
+  {
+   "id": "43e283799ab5",
+   "title": "12 migrants, including an infant, drown in two incidents off Greece",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/12-migrants-including-an-infant-drown-in-two-incidents-off-greece?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two separate boat incidents off the Greek islands of Lesbos and Samos left 12 migrants dead.",
+   "published": "2026-10-19T17:23:56+00:00"
+  },
+  {
+   "id": "6eafe859556b",
+   "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+   "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+   "published": "2026-10-19T17:18:04+00:00"
+  },
+  {
+   "id": "3f961ec1587f",
+   "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
+   "link": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump’s endorsement comes after he previously shied away from fully backing Netanyahu’s election campaign.",
+   "published": "2026-10-19T17:16:22+00:00"
+  },
+  {
+   "id": "ba686d1e7cf4",
+   "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
+   "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 200 mostly young people said to be injured after ballistic missile attack on training camp for government forces At least 53 people have been killed in a Houthi ballistic missile attack on a training camp for Yemeni government security forces, making it the largest…",
+   "published": "2026-10-19T17:15:23+00:00"
+  },
+  {
+   "id": "5dcbf33ef12d",
+   "title": "Letter from Mar-a-Lago: How times have changed – and haven’t",
+   "link": "https://www.csmonitor.com/USA/Politics/2026/1019/trump-mar-a-lago-press-pool?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A decade after a first visit to Donald Trump’s Mar-a-Lago estate, our White House correspondent returns with the president and reflects on what’s different now.",
+   "published": "2026-10-19T17:15:22+00:00"
+  },
+  {
+   "id": "249d6d1143f4",
+   "title": "How HSBC’s Sharia fund invested millions in Israeli war-linked firms",
+   "link": "https://www.aljazeera.com/news/2026/10/19/how-hsbcs-sharia-fund-invested-millions-in-israeli-war-linked-firms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "HSBC bought $130m in shares in firms tied to Israel’s military, in breach of Islamic law compliance requirements.",
+   "published": "2026-10-19T17:14:41+00:00"
+  },
+  {
+   "id": "8a78c8017798",
+   "title": "Black bear breaks into California library to raid snacks and eat jar of honey",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/black-bear-california-library",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Bear wandered into Mono county free libraries branch ahead of opening, snacking before wandering new releases A California library on Wednesday had a visitor worthy of a story book on the 100th anniversary of Winnie-the-Pooh : a black bear that wandered inside, reportedly…",
+   "published": "2026-10-19T17:04:36+00:00"
+  },
+  {
+   "id": "62b2a024cbc3",
+   "title": "Micron and other chip stocks spring back to life after bruising selloff",
+   "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
+   "published": "2026-10-19T16:59:00+00:00"
+  },
+  {
+   "id": "30a6463df6b7",
+   "title": "Silver linings: From fjord to friluftsliv — Visiting Norway’s land of the midnight sun",
+   "link": "https://www.deseret.com/lifestyle/2026/10/19/scandinavian-lessons-in-slowing-down/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As a destination enrichment speaker with a cruise line, I’ve found Norway an easy and accessible country to visit: English is widely spoken, credit cards are welcome and the scenery is stunning. While the Norwegian word “koselig” isn’t as widely recognized in the United States…",
+   "published": "2026-10-19T16:57:31+00:00"
+  },
+  {
+   "id": "21029bbe130f",
+   "title": "Opinion: When someone is deported, what happens to those left behind?",
+   "link": "https://www.deseret.com/opinion/2026/10/19/families-are-being-left-behind/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Open almost any refrigerator, and there is probably something that has been pushed to the back and forgotten. Maybe it was important enough to save at first, but eventually other things took precedence; the door closed, and no one thought much about it again. America has its…",
+   "published": "2026-10-19T16:57:28+00:00"
+  },
+  {
+   "id": "e0d0ccc14f2d",
+   "title": "Max Engling claims defamation over driving allegations in new Beau Bayh ad",
+   "link": "https://indianacapitalchronicle.com/2026/10/19/max-engling-claims-defamation-over-driving-allegations-in-new-beau-bayh-ad/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Republican Max Engling is threatening to sue Democrat Beau Bayh over a new television advertisement in their increasingly bitter Indiana secretary of state election campaign.",
+   "published": "2026-10-19T16:56:49+00:00"
+  },
+  {
+   "id": "e8a256b5947f",
+   "title": "THE LEADERS GROUP, INC.",
+   "link": "https://www.finra.org/filing-reporting/regulation-nms/sec-rule-605-reports/lead-leaders-group-inc",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "THE LEADERS GROUP, INC. fnrw-backend Mon, 10/19/2026 - 12:51 MC ID LEAD MC Reporter Type Broker-Dealer MC Paragraph MC Link https://www.simplicity-investments.com MC Last Updated Mon, 10/19/2026 - 12:51",
+   "published": "2026-10-19T16:51:37+00:00"
+  },
+  {
    "id": "c761c38091c0",
    "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
    "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
@@ -138,6 +336,17 @@
    "flourishing_feed": false,
    "summary": "Intel’s manufacturing and chip design have improved, according to a J.P. Morgan analyst.",
    "published": "2026-10-19T16:42:00+00:00"
+  },
+  {
+   "id": "ca8667a5b7be",
+   "title": "Most Americans think Trump is using presidency to enrich himself, poll finds",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/trump-presidency-rich-poll",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Poll finds 66% of Americans think Trump is using position for monetary gain as his approval rating hits a new low Most Americans think Donald Trump is using the presidency to enrich himself, according to a new poll, as the US president’s approval rating falls to a new low ahead…",
+   "published": "2026-10-19T16:41:15+00:00"
   },
   {
    "id": "829e5925b3a3",
@@ -162,6 +371,17 @@
    "published": "2026-10-19T16:40:01+00:00"
   },
   {
+   "id": "e11509287c9d",
+   "title": "Journalists forced to flee homes after Tommy Robinson shared images of where they lived online, court told",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/19/tommy-robinson-harassment-trial-mailonline-journalists-court",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Far-right activist is charged with two counts of harassment causing fear of violence to two MailOnline reporters Journalists and their family members had to flee their homes after “bullyboy, intimidatory tactics” were deployed by the far-right activist known as Tommy Robinson,…",
+   "published": "2026-10-19T16:36:42+00:00"
+  },
+  {
    "id": "1425fce2f612",
    "title": "SpaceX’s stock made billions for college endowments. But their luck is about to run out.",
    "link": "https://www.marketwatch.com/story/spacex-stock-made-billions-for-college-endowments-but-their-luck-is-about-to-run-out-1711c34d?mod=mw_rss_topstories",
@@ -171,17 +391,6 @@
    "flourishing_feed": false,
    "summary": "Outsized positions have made many higher-education endowments less diversified and more at risk when shares slide",
    "published": "2026-10-19T16:35:00+00:00"
-  },
-  {
-   "id": "588cd184f2db",
-   "title": "Majority of Americans think Donald Trump is using presidency to enrich himself, new poll finds – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Trump’s approval rating reaches new low; 66% of Americans think Trump is using position of power for monetary gain, including 34% of Republicans Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has reached a new low –…",
-   "published": "2026-10-19T16:34:36+00:00"
   },
   {
    "id": "110aa4272895",
@@ -273,7 +482,7 @@
   },
   {
    "id": "19f79bbab72d",
-   "title": "No 10: Hegseth ‘wrong’ to say most non-US Nato soldiers didn’t fight in Afghanistan – UK politics live",
+   "title": "No 10: Hegseth ‘wrong’ to say most non-US Nato soldiers didn’t fight in Afghanistan – as it happened",
    "link": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -281,17 +490,6 @@
    "flourishing_feed": false,
    "summary": "Downing Street delivered a rare rebuke to a senior member of Donald Trump’s administration Asked why the Lib Dems were opposed to a third runway at Heathrow when they professed to be in favour of growth, Cooper said she did not accept that a third runway would produce all the…",
    "published": "2026-10-19T16:18:07+00:00"
-  },
-  {
-   "id": "6eafe859556b",
-   "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
-   "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-   "published": "2026-10-19T16:16:55+00:00"
   },
   {
    "id": "4fd2c676f56e",
@@ -325,17 +523,6 @@
    "flourishing_feed": false,
    "summary": "Neso control room staff accused senior executives of covering up extent of blackout risks during June heatwave Independent investigators have found significant and concerning “cultural issues” at Great Britain’s grid operator after control room staff accused senior executives…",
    "published": "2026-10-19T16:14:47+00:00"
-  },
-  {
-   "id": "7531210b2282",
-   "title": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Sébastien Lecornu says new measures will be put in place from tonight Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop…",
-   "published": "2026-10-19T16:13:21+00:00"
   },
   {
    "id": "b2bc9fb19e79",
@@ -504,13 +691,13 @@
   },
   {
    "id": "c1df2cb88182",
-   "title": "Kenyan court convicts starvation cult leader for murder of 191 people",
+   "title": "Kenyan court convicts starvation cult leader of murdering 191 people",
    "link": "https://www.aljazeera.com/news/2026/10/19/kenyan-court-convicts-starvation-cult-leader-for-murder-of-191-people?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Doomsdays cult leader Paul ⁠Mackenzie had denied ordering the victims to starve so they could 'meet Jesus'.",
+   "summary": "Doomsday sect leader Paul ⁠⁠Mackenzie had denied ordering the victims to starve so they could 'meet Jesus'.",
    "published": "2026-10-19T15:34:22+00:00"
   },
   {
@@ -534,17 +721,6 @@
    "flourishing_feed": false,
    "summary": "“Computer science isn’t the ticket to the American dream like people thought it was.”",
    "published": "2026-10-19T15:26:00+00:00"
-  },
-  {
-   "id": "ba686d1e7cf4",
-   "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
-   "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "More than 200 mostly young people said to be injured after ballistic missile attack on training camp for government forces At least 53 people have been killed in a Houthi ballistic missile attack on a training camp for Yemeni government forces, making it the largest single loss…",
-   "published": "2026-10-19T15:25:56+00:00"
   },
   {
    "id": "b2284d6e2a78",
@@ -734,15 +910,15 @@
    "published": "2026-10-19T14:38:39+00:00"
   },
   {
-   "id": "1a41f3b5e5df",
-   "title": "‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful",
-   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
+   "id": "6b497842c3ba",
+   "title": "Jump Integrates with FMG to Surface Content",
+   "link": "https://www.wealthmanagement.com/artificial-intelligence/jump-integrates-with-fmg-to-surface-content",
+   "source": "WealthManagement.com",
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
-   "published": "2026-10-19T14:30:00+00:00"
+   "summary": "The integration is meant to assist advisors in more quickly finding compliance-approved content recommendations based on client meeting discussions.",
+   "published": "2026-10-19T14:27:54+00:00"
   },
   {
    "id": "0755ac3a67ce",
@@ -1042,17 +1218,6 @@
    "published": "2026-10-19T13:22:58+00:00"
   },
   {
-   "id": "62b2a024cbc3",
-   "title": "Micron and other chip stocks spring back to life after bruising selloff",
-   "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
-   "published": "2026-10-19T13:22:00+00:00"
-  },
-  {
    "id": "d52e25e7866a",
    "title": "Financial Intelligence Fusion Center (FIFC) for Small Firms",
    "link": "https://www.finra.org/node/390666",
@@ -1109,13 +1274,13 @@
   },
   {
    "id": "48a82ac56e9b",
-   "title": "“There’s room for everyone in the clown car”",
+   "title": "‘There’s room for everyone in the clown car’",
    "link": "https://mirrorindy.org/clowns-drag-performance-indianapolis-kinker-local-circus-culture/",
    "source": "Mirror Indy",
    "circle_hint": "state",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Indy’s drag performers see clowning as a way to find acceptance and reclaim their childhood. The post “There’s room for everyone in the clown car” appeared first on Mirror Indy .",
+   "summary": "Indy’s drag performers see clowning as a way to find acceptance and reclaim their childhood. The post ‘There’s room for everyone in the clown car’ appeared first on Mirror Indy .",
    "published": "2026-10-19T13:00:00+00:00"
   },
   {
@@ -1161,17 +1326,6 @@
    "flourishing_feed": false,
    "summary": "US military says Tech Sgt Ian Patterson was killed after he fell from rafters at University of Texas at San Antonio game The US military has identified the air force officer who died after he fell from the rafters of the Alamodome during a rappelling demonstration before the…",
    "published": "2026-10-19T12:46:25+00:00"
-  },
-  {
-   "id": "e11509287c9d",
-   "title": "Tommy Robinson used ‘bullyboy, intimidatory tactics’ to threaten journalists, court told",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/19/tommy-robinson-harassment-trial-mailonline-journalists-court",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Far-right activist is charged with two counts of harassment causing fear of violence to two MailOnline reporters The far-right activist known as Tommy Robinson used “bullyboy, intimidatory tactics” to threaten journalists and cause them to fear for their safety, a court has…",
-   "published": "2026-10-19T12:33:01+00:00"
   },
   {
    "id": "62fdbfb3fe51",
