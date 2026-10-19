@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T21:44:41.253491+00:00",
+ "generated": "2026-10-19T22:43:10.458459+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,149 @@
  ],
  "items": [
   {
+   "id": "dc95bd901582",
+   "title": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta – follow updates",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament ‘It’s…",
+   "published": "2026-10-19T22:35:01+00:00"
+  },
+  {
+   "id": "d11f9b56a00b",
+   "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday Send us your questions about immigration and the midterms More than 100,000 people from Ukraine and Sudan can stay in the United States without immediate risk of deportation, the…",
+   "published": "2026-10-19T22:34:43+00:00"
+  },
+  {
+   "id": "fa3c884ba0ee",
+   "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
+   "link": "https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival from a single photograph of their face. The AI system was…",
+   "published": "2026-10-19T22:30:08+00:00"
+  },
+  {
+   "id": "588cd184f2db",
+   "title": "Trump slams Zelenskyy amid Russia sanctions rift and says ‘somebody else’ should negotiate for Ukraine - live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President facing criticism for his move to waive sanctions for Russia as a new poll by Reuters shows only 31% of Americans approve of his performance in office Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has…",
+   "published": "2026-10-19T22:30:01+00:00"
+  },
+  {
+   "id": "5b634b01c0d7",
+   "title": "France's Welfare State Is Finally Imploding",
+   "link": "https://reason.com/podcast/2026/10/19/frances-welfare-state-is-finally-imploding/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: Trump's tariffs lose support among his own voters, a five-day White House press secretary, and Elizabeth Warren's crusade against corporate mergers",
+   "published": "2026-10-19T22:20:19+00:00"
+  },
+  {
+   "id": "c25c2737da97",
+   "title": "A Proper Shame",
+   "link": "https://thedispatch.com/newsletter/boilingfrogs/trump-zelensky-ukraine-betrayal-russia/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Will Americans care about the betrayal of Ukraine?",
+   "published": "2026-10-19T22:05:45+00:00"
+  },
+  {
+   "id": "b69895462d0b",
+   "title": "Blood clots are ‘incredibly common,’ even for pro athletes like Jalen Hurts. Here’s what to know.",
+   "link": "https://www.marketwatch.com/story/blood-clots-are-incredibly-common-even-for-pro-athletes-like-jalen-hurts-heres-what-to-know-e20071ef?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Research has found that it can take more than six months for professional athletes to return to play after being treated for a deep-vein thrombosis or pulmonary embolism.",
+   "published": "2026-10-19T21:58:00+00:00"
+  },
+  {
+   "id": "28d843fa9337",
+   "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+   "link": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.",
+   "published": "2026-10-19T21:46:00+00:00"
+  },
+  {
+   "id": "465832d17f05",
+   "title": "The French youth revolt",
+   "link": "https://www.vox.com/today-explained-newsletter/506346/2026-france-protests",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here. French protests have long been the stuff of legend, literature, and Broadway musicals. But even by those storied standards,…",
+   "published": "2026-10-19T21:45:00+00:00"
+  },
+  {
+   "id": "e10341608594",
+   "title": "Elon Musk promises a share of his $1 trillion company to every American child",
+   "link": "https://www.deseret.com/politics/2026/10/19/elon-musk-promises-share-spacex-every-american-child/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The richest person in the world, Elon Musk , has vowed to give every child in America a share of his aerospace and AI company, SpaceX, starting next year. “Next year, I will give one of my SpaceX shares to every kid in America,” he announced on X. “This will be the first of…",
+   "published": "2026-10-19T21:43:08+00:00"
+  },
+  {
+   "id": "278d527ac228",
+   "title": "For Dallas Jenkins, the end of ‘The Chosen’ brings relief and gratitude",
+   "link": "https://www.deseret.com/entertainment/2026/10/19/dallas-jenkins-reflects-on-the-final-season-of-the-chosen-finishing-filming/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "After 527 days of filming, Dallas Jenkins felt a weighty pressure lift when “The Chosen” wrapped production in late September. The demands that came with the making of the biblical drama series had pressed far more heavily on Jenkins than he’d realized until filming was…",
+   "published": "2026-10-19T21:41:30+00:00"
+  },
+  {
+   "id": "4d2f709f8952",
+   "title": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Elk, bear, frogs and other animals have used the overpass, which connects 39,000 acres of habitat, since its completion Colorado officials have tracked herds of elk, bears, pronghorn and even northern leopard frogs ambling across its new wildlife overpass. According to a newly…",
+   "published": "2026-10-19T21:39:09+00:00"
+  },
+  {
+   "id": "bab900932b62",
+   "title": "160 people reported killed in escalating drone attacks across Sudan",
+   "link": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.",
+   "published": "2026-10-19T21:38:46+00:00"
+  },
+  {
    "id": "a22594a33610",
    "title": "When should you dump your target-date funds?",
    "link": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
@@ -151,6 +294,17 @@
    "published": "2026-10-19T21:36:00+00:00"
   },
   {
+   "id": "efb5cb44eb80",
+   "title": "‘Every single day without them is a struggle’: Mother urges Indiana to uphold death sentence",
+   "link": "https://indianacapitalchronicle.com/2026/10/19/every-single-day-without-them-is-a-struggle-mother-urges-indiana-to-uphold-death-sentence/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The mother of two children murdered by Jeffrey Weisheit urged Indiana’s parole board Monday to reject his plea for mercy, saying her children deserved the futures he took from them. Her appeal came hours after Weisheit’s family and attorneys asked the five-member board to…",
+   "published": "2026-10-19T21:34:32+00:00"
+  },
+  {
    "id": "246b543e1af8",
    "title": "California to recieve $6m settlement after 23andMe data breach",
    "link": "https://www.theguardian.com/us-news/2026/oct/19/california-settlement-23andme-data-breach",
@@ -160,6 +314,17 @@
    "flourishing_feed": false,
    "summary": "The 2023 breach exposed millions of customers’ genetic and personal information, including more than 855,000 Californians California attorney general Rob Bonta on Monday announced the state will receive a $6m settlement payment in 23andMe’s bankruptcy, resolving California’s…",
    "published": "2026-10-19T21:34:30+00:00"
+  },
+  {
+   "id": "3c5b97cb4de0",
+   "title": "Oregon man who killed school shooter reportedly took part in military drills with Iraq veterans",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/oregon-school-shooter",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "New details emerge about Kaylub Giamanco, who went on to elementary school campus and shot Bend suspect dead New details are emerging about the parent who fatally shot the 16-year-old shooter who killed three children and a teacher in Oregon last week. In a 2018 Facebook post,…",
+   "published": "2026-10-19T21:33:50+00:00"
   },
   {
    "id": "f25ff9217242",
@@ -193,28 +358,6 @@
    "flourishing_feed": false,
    "summary": "HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.",
    "published": "2026-10-19T21:28:02+00:00"
-  },
-  {
-   "id": "588cd184f2db",
-   "title": "Trump slams Zelenskyy amid Russia sanctions rift and says ‘somebody else’ should negotiate for Ukraine - live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President facing criticism for his move to waive sanctions for Russia as a new poll by Reuters shows only 31% of Americans approve of his performance in office Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has…",
-   "published": "2026-10-19T21:25:36+00:00"
-  },
-  {
-   "id": "dc95bd901582",
-   "title": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta – follow updates",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament What we…",
-   "published": "2026-10-19T21:25:32+00:00"
   },
   {
    "id": "090cd455e907",
@@ -257,7 +400,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Australia’s politicians have been facing increasing threats and abuse. It can no longer have been rising for Australia’s politicians and they can no longer be dismissed as social media noise or harmless comment Follow our live blog for latest updates Politicians condemn alleged…",
+   "summary": "Australia’s politicians have been facing increasing threats and abuse. It can no longer be dismissed as social media noise or harmless comment Follow our live blog for latest updates Politicians condemn alleged attack after independent MP Helen Haines critically injured Who is…",
    "published": "2026-10-19T21:14:37+00:00"
   },
   {
@@ -314,6 +457,28 @@
    "flourishing_feed": false,
    "summary": "It’s a key week for tech stocks as Nvidia gears up for a European conference and Meta prepares to report earnings.",
    "published": "2026-10-19T21:06:00+00:00"
+  },
+  {
+   "id": "d7144f84d686",
+   "title": "US Church on frontline of battle against drug known as 'tranq'",
+   "link": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+   "published": "2026-10-19T21:05:54+00:00"
+  },
+  {
+   "id": "1abb888cc27e",
+   "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+   "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The two top tennis pros married in 2021 and have one child together.",
+   "published": "2026-10-19T21:02:33+00:00"
   },
   {
    "id": "11ea7bbf12d5",
@@ -633,6 +798,17 @@
    "flourishing_feed": false,
    "summary": "The case arises as both right and left favor various forms of anti-Asian discrimination.",
    "published": "2026-10-19T20:01:17+00:00"
+  },
+  {
+   "id": "2d4fff9ab09d",
+   "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
+   "link": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The serviceman was surrounded by landmines and enemy drones so a ground rescue was not possible, Ukraine's military says.",
+   "published": "2026-10-19T20:00:43+00:00"
   },
   {
    "id": "9bc5635b949c",
@@ -2142,6 +2318,17 @@
    "published": "2026-10-19T13:44:57+00:00"
   },
   {
+   "id": "ad49a9c72776",
+   "title": "Watch: Are the French riots a warning of an intense election to come?",
+   "link": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
+   "published": "2026-10-19T13:43:27+00:00"
+  },
+  {
    "id": "c881f31c2a47",
    "title": "Exiled critic of Rwandan president found beheaded",
    "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
@@ -2814,7 +3001,7 @@
   },
   {
    "id": "469881a2b6e3",
-   "title": "Controversial ending aside, BYU’s win over Notre Dame was transformational moment for the football program",
+   "title": "Controversial ending aside, BYU’s win over Notre Dame was a transformational moment for the football program",
    "link": "https://www.deseret.com/sports/2026/10/19/byu-football-look-ahead-ucf-notre-dame-irish-knights-cougars-bachmeier/",
    "source": "Deseret News",
    "circle_hint": "national",
