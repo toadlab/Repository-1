@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T17:43:33.170021+00:00",
+ "generated": "2026-10-19T18:55:21.540342+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,336 @@
  ],
  "items": [
   {
+   "id": "0c826e0f324f",
+   "title": "Mitt Romney issues rare statement as Republicans challenge Trump’s Russia deal",
+   "link": "https://www.deseret.com/politics/2026/10/19/republicans-threaten-trump-lame-duck-agenda/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Former Utah Sen. Mitt Romney said the United States could embark on a path of abandoning liberty if the country does not stand behind Ukraine, joining a growing list of Republicans who are critical of President Donald Trump’s sanctions waiver. In a rare public statement over…",
+   "published": "2026-10-19T18:47:27+00:00"
+  },
+  {
+   "id": "9a1fb2f7de2b",
+   "title": "Estos futuros soldadores aprenden el oficio en su propio idioma",
+   "link": "https://mirrorindy.org/estos-futuros-soldadores-aprenden-el-oficio-en-su-propio-idioma/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Latinas Welding Guild ofrece clases de soldadura en español. The post Estos futuros soldadores aprenden el oficio en su propio idioma appeared first on Mirror Indy .",
+   "published": "2026-10-19T18:45:20+00:00"
+  },
+  {
+   "id": "f130f5038dd5",
+   "title": "4200Kory gears up for first headline show",
+   "link": "https://mirrorindy.org/4200kory-live-hip-hop-show-broad-ripple/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 25-year-old rapper is taking the stage with King Dierre and P.S. Maldonna Oct. 25 at Turntable. The post 4200Kory gears up for first headline show appeared first on Mirror Indy .",
+   "published": "2026-10-19T18:43:21+00:00"
+  },
+  {
+   "id": "0f28e5e14ec4",
+   "title": "25-01845.pdf",
+   "link": "https://www.finra.org/node/390676",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "25-01845.pdf Anonymous (not verified) Mon, 10/19/2026 - 14:40 Case ID 25-01845 Forum FINRA Document Type Award Claimants Sandra Dose Respondents Stifel, Nicolaus & Co., Inc. Wells Fargo Clearing Services, LLC Neutrals Richard H. Potter Donald M. Thompson John Russell Barlow…",
+   "published": "2026-10-19T18:40:01+00:00"
+  },
+  {
+   "id": "aa853b613107",
+   "title": "Burnham urges officials to come up with more radical options for Thames Water",
+   "link": "https://www.theguardian.com/politics/2026/oct/19/burnham-urges-officials-radical-options-thames-water-public-control",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Utility seen as ‘litmus test’ of PM’s promise to bring ‘essentials of life’ under public control Andy Burnham has told officials to rip up their plans for how to fix Thames Water and present him with more radical options for what to do with the stricken company. In…",
+   "published": "2026-10-19T18:37:14+00:00"
+  },
+  {
+   "id": "5bd689ee1d4b",
+   "title": "Holding a new constitutional convention: Would that fly?",
+   "link": "https://www.csmonitor.com/USA/Politics/2026/1019/us-constitutional-convention-founders-amendments?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "America amended its Constitution more often in its early years. Some argue it’s time to try that again.",
+   "published": "2026-10-19T18:35:37+00:00"
+  },
+  {
+   "id": "2e69c289ba97",
+   "title": "A door to single-payer healthcare could open after November 3",
+   "link": "https://www.vox.com/politics/506637/amanda-janoo-single-payer-primary-care-vermont-governor",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Twelve years ago, Vermont Democrats tried to make their state the first in the nation to have a single-payer government-financed healthcare system — a bold experiment to push the limits of American health coverage when Obamacare was just being launched. Their plan failed, and…",
+   "published": "2026-10-19T18:30:00+00:00"
+  },
+  {
+   "id": "76d0acb987ba",
+   "title": "The Republicans worried that AI will bring an “age of darkness”",
+   "link": "https://www.vox.com/politics/505319/ron-desantis-ai-james-uthmeier-openai-lawsuit",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "If President Donald Trump had his way, the Republican Party would be top-to-bottom the party of AI — or, in his preferred branding, “super intelligence.” But down in the very state where Trump has his “winter White House,” two Republicans have put forth a very different vision…",
+   "published": "2026-10-19T18:30:00+00:00"
+  },
+  {
+   "id": "7531210b2282",
+   "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Curfews to apply to parts of cities including Paris, Nice and Lyon after days of violence on French streets Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in…",
+   "published": "2026-10-19T18:29:23+00:00"
+  },
+  {
+   "id": "588cd184f2db",
+   "title": "Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Latest action on alleged voter fraud comes as administration escalates its fight with state as midterms loom Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has reached a new low – 33% . This comes, just over two weeks…",
+   "published": "2026-10-19T18:29:18+00:00"
+  },
+  {
+   "id": "bf375fab4ba3",
+   "title": "Citizens Sues Ameriprise, Accusing Ex-Advisor of Breaking Employment Contracts",
+   "link": "https://www.wealthmanagement.com/ibd-news/citizens-sues-ameriprise-accusing-ex-advisor-of-breaking-employment-contracts",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Citizens Securities is seeking a restraining order against Ameriprise and Darrell Smith in federal court in Massachusetts, alleging that Smith solicited former clients shortly after changing firms.",
+   "published": "2026-10-19T18:28:46+00:00"
+  },
+  {
+   "id": "a47baae252f4",
+   "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+   "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+   "published": "2026-10-19T18:23:50+00:00"
+  },
+  {
+   "id": "5c7456644efb",
+   "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+   "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+   "published": "2026-10-19T18:22:48+00:00"
+  },
+  {
+   "id": "88d1d0f6ad34",
+   "title": "Netanyahu’s new security doctrine: Regional strategy or election ploy?",
+   "link": "https://www.aljazeera.com/news/2026/10/19/netanyahus-new-security-doctrine-regional-strategy-or-election-ploy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Experts say Netanyahu's security doctrine and map of regional alliances serve his political ambitions ahead of elections",
+   "published": "2026-10-19T18:21:06+00:00"
+  },
+  {
+   "id": "1f5046525aa6",
+   "title": "France imposes partial curfews in several cities, including parts of Paris",
+   "link": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Interior minister concedes police ‘lost control’ of weekend protests as PM vows to restore public order Europe live – latest updates Partial curfews have been issued for a number of French cities, including parts of Paris, after the government admitted police had “lost control”…",
+   "published": "2026-10-19T18:16:45+00:00"
+  },
+  {
+   "id": "14cf5d530f94",
+   "title": "Bayh, Engling split over whether other secretary of state candidates should get debate invite",
+   "link": "https://indianacapitalchronicle.com/2026/10/19/bayh-engling-split-over-whether-other-secretary-of-state-candidates-should-get-debate-invite/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Democrat Beau Bayh wants all four Indiana secretary of state candidates to participate in a televised debate later this week.",
+   "published": "2026-10-19T18:14:14+00:00"
+  },
+  {
+   "id": "e1b4812a85f7",
+   "title": "Rare protective gene variant offers clues to Alzheimer’s disease",
+   "link": "https://www.deseret.com/lifestyle/2026/10/19/rare-mutation-protects-some-agaisnt-high-genetic-risk-alzheimers-disease-apoe4-protein-buildup-brain/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A particular gene variant called APOE ε4 is considered a high-risk factor for developing Alzheimer’s disease — so strong that a 2024 study in Nature Medicine suggests having two copies of the variant might be a cause, not simply a risk. Yet some people carrying the variant do…",
+   "published": "2026-10-19T18:12:57+00:00"
+  },
+  {
+   "id": "b7b7a4591b2d",
+   "title": "Here’s what you need to know about the $24M ballot question for Washington Township schools",
+   "link": "https://mirrorindy.org/heres-what-you-need-to-know-about-the-24m-ballot-question-for-washington-township-schools/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The district is making an early attempt to win voter approval before the current tax increase expires in 2028. The post Here’s what you need to know about the $24M ballot question for Washington Township schools appeared first on Mirror Indy .",
+   "published": "2026-10-19T18:12:17+00:00"
+  },
+  {
+   "id": "0c97728cd506",
+   "title": "Benny Gantz drops out of Israel’s election race",
+   "link": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Decision comes after polls showed his Blue and White party below the 3.25 percent threshold needed to enter the Knesset.",
+   "published": "2026-10-19T18:11:01+00:00"
+  },
+  {
+   "id": "d72b2691aa9d",
+   "title": "Hallmark Christmas season begins with 34 new holiday movies",
+   "link": "https://www.deseret.com/entertainment/2026/10/19/all-of-the-2026-hallmark-christmas-movies/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Christmas celebrations at The Hallmark Channel began this weekend — with a slate of nearly three dozen new holiday films. On Friday, the network launched its annual “Countdown to Christmas” event, which reached 38 million unique viewers during last year’s holiday season. Across…",
+   "published": "2026-10-19T18:09:33+00:00"
+  },
+  {
+   "id": "e4af84821116",
+   "title": "Israeli police detain 10 people in rare raid against West Bank settlers",
+   "link": "https://www.theguardian.com/world/2026/oct/19/israeli-police-detain-10-people-in-rare-raid-against-west-bank-settlers",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Move comes after US photojournalist and group of European diplomats and Palestinians were assaulted in separate attacks Israeli police have detained 10 people in a rare raid against settlers, after a weekend of extreme violence in the occupied West Bank including an attack on…",
+   "published": "2026-10-19T18:05:14+00:00"
+  },
+  {
+   "id": "48436ef844d5",
+   "title": "Mauritius lifts curfew imposed amid wave of violent protests",
+   "link": "https://www.aljazeera.com/news/2026/10/19/mauritius-lifts-curfew-imposed-amid-wave-of-violent-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Unrest on the archipelago came after police shot a woman during a rally over rising costs and water shortages.",
+   "published": "2026-10-19T18:04:14+00:00"
+  },
+  {
+   "id": "388f358d949e",
+   "title": "Ronaldo banned for 30 days, fined $285 by Portugal over spat with Jesus",
+   "link": "https://www.aljazeera.com/sports/2026/10/19/ronaldo-banned-for-30-days-fined-285-by-portugal-over-spat-with-jesus?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Cristiano Ronaldo handed month-long ban by the disciplinary council of Portugal's Football Association.",
+   "published": "2026-10-19T17:52:10+00:00"
+  },
+  {
+   "id": "0b3a6d8aadd3",
+   "title": "A mass march, a burning city hall and a country on edge",
+   "link": "https://www.deseret.com/the-west/2026/10/19/student-protests-escalate-as-half-a-million-demonstrators-march-across-france/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "French officials said they were instituting curfews in some locations after a weekend where protesters damaged or destroyed thousands of businesses and a fire nearly consumed a historic city hall in Limoges. Over half a million people marched in protests across France on…",
+   "published": "2026-10-19T17:45:59+00:00"
+  },
+  {
+   "id": "10e808b70892",
+   "title": "One of this year’s most important relationships in global financial markets is falling apart",
+   "link": "https://www.marketwatch.com/story/one-of-this-years-most-important-relationships-in-global-financial-markets-is-falling-apart-2cf58121?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "One of the most important relationships in global markets has started to unravel over the past couple of weeks. Investors are scrambling to figure out what it might mean for the economy, and their portfolios.",
+   "published": "2026-10-19T17:43:00+00:00"
+  },
+  {
+   "id": "426b7576e016",
+   "title": "ITV’s exposé of racism and misogyny in Reform? Just a few (more) bad apples | John Crace",
+   "link": "https://www.theguardian.com/politics/2026/oct/19/itv-expose-racism-misogyny-reform",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "While the party’s MPs went into hiding, it was left to its failed byelection candidate Matt Goodwin to defend it It was the dog that didn’t bark in the night. After Sunday night’s ITV exposé of widespread racism and misogyny within Reform, you might have expected one of its MPs…",
+   "published": "2026-10-19T17:42:46+00:00"
+  },
+  {
+   "id": "0ce6cfba4069",
+   "title": "Massachusetts lieutenant governor candidate ends campaign after arrest",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/massachusetts-lieutenant-governor-candidate-shawn-oliver",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police said Shawn Oliver was arrested on suspicion of operating under influence of alcohol after a car crash The Republican candidate for lieutenant governor in Massachusetts announced the suspension of his campaign on Sunday hours after he was arrested in a suspected…",
+   "published": "2026-10-19T17:41:23+00:00"
+  },
+  {
+   "id": "9d96ddbd562f",
+   "title": "Chuck Schumer urges FCC to block AI robocalls before elections",
+   "link": "https://www.aljazeera.com/economy/2026/10/19/chuck-schumer-urges-fcc-to-block-ai-robocalls-before-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Chuck Schumer urges FCC to reject petition allowing AI robocalls ahead of key November midterm elections.",
+   "published": "2026-10-19T17:40:56+00:00"
+  },
+  {
+   "id": "b758e86f766d",
+   "title": "North Sea strikes could severely disrupt UK fuel supplies, union warns",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/19/north-sea-strikes-could-severely-disrupt-uk-fuel-supplies-union-warns",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than ⁠160 ​offshore rig workers plan walkout amid rising tensions between unions and oil companies North Sea workers are preparing to strike at oil rigs across the ageing basin over the coming weeks in a sign of growing tensions between trade unions and oil companies. The…",
+   "published": "2026-10-19T17:39:13+00:00"
+  },
+  {
+   "id": "e36fa11fc3d4",
+   "title": "Minister says Mahmood’s migration policy will ‘prolong integration’",
+   "link": "https://www.theguardian.com/politics/2026/oct/19/migration-energy-secretary-mahmood-fahnbulleh",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In now-removed post, Miatta Fahnbulleh criticised home secretary’s proposal to extend qualifying period for settlement in UK The energy secretary, Miatta Fahnbulleh, appears to have criticised Shabana Mahmood’s migration policy in a post on her constituency website, in which…",
+   "published": "2026-10-19T17:35:17+00:00"
+  },
+  {
    "id": "a22594a33610",
    "title": "When should you dump your target-date funds?",
    "link": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
@@ -162,26 +492,26 @@
    "published": "2026-10-19T17:28:08+00:00"
   },
   {
-   "id": "7531210b2282",
-   "title": "French authorities announce partial curfew in Paris as PM blames ‘ultra-left’ for exploiting protests – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "21d2a63811d5",
+   "title": "Qatar to announce a new regional defence partnership",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-announce-a-new-regional-defence-partnership?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Curfew to last from 11pm to 6am and reportedly applies to unaccompanied minors and people wearing masks or personal protective equipment Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number…",
-   "published": "2026-10-19T17:27:09+00:00"
+   "summary": "Qatar is set to announce a new regional defence partnership to strengthen its military infrastructure.",
+   "published": "2026-10-19T17:27:18+00:00"
   },
   {
-   "id": "588cd184f2db",
-   "title": "Trump DoJ announces arrests of 28 green card holders in California on noncitizen voting related charges – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "4ea237437806",
+   "title": "Can religion help Democrats win in red states? These faith leaders hope so",
+   "link": "https://www.aljazeera.com/features/longform/2026/10/19/can-religion-help-democrats-win-in-red-states-these-faith-leaders-hope-so?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Latest action on alleged voter fraud comes as administration escalates its fight with state as midterms loom Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has reached a new low – 33% . This comes, just over two weeks…",
-   "published": "2026-10-19T17:24:32+00:00"
+   "summary": "Roughly nine pastors, seminary students and Sunday school teachers are running as Democrats in the US midterm election.",
+   "published": "2026-10-19T17:25:53+00:00"
   },
   {
    "id": "81124d50b54e",
@@ -204,6 +534,17 @@
    "flourishing_feed": false,
    "summary": "Two separate boat incidents off the Greek islands of Lesbos and Samos left 12 migrants dead.",
    "published": "2026-10-19T17:23:56+00:00"
+  },
+  {
+   "id": "52af5a23bbe6",
+   "title": "SEC Announces Roundtable on Machine-Understandable Data in the Age of Super Intelligence",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence",
+   "source": "SEC Press Releases",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Securities and Exchange Commission announced today that it will host a roundtable on November 9, 2026, to discuss the use of machine-understandable data and Super Intelligence (SI) and related risks and costs.“In the age of SI, high-quality…",
+   "published": "2026-10-19T17:19:43+00:00"
   },
   {
    "id": "6eafe859556b",
@@ -1141,17 +1482,6 @@
    "published": "2026-10-19T13:36:09+00:00"
   },
   {
-   "id": "0ce6cfba4069",
-   "title": "Massachusetts lieutenant governor candidate ends campaign after arrest",
-   "link": "https://www.theguardian.com/us-news/2026/oct/19/massachusetts-lieutenant-governor-candidate-shawn-oliver",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Police said Shawn Oliver was arrested on suspicion of operating under influence of alcohol after a car crash The Republican candidate for lieutenant governor in Massachusetts announced the suspension of his campaign on Sunday hours after he was arrested in a suspected…",
-   "published": "2026-10-19T13:35:38+00:00"
-  },
-  {
    "id": "1446fab8408b",
    "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
    "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
@@ -1394,17 +1724,6 @@
    "published": "2026-10-19T12:03:39+00:00"
   },
   {
-   "id": "1f5046525aa6",
-   "title": "French prime minister calls for ‘local and partial’ curfews after riots",
-   "link": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Interior minister concedes police ‘lost control’, with forces in cities including Paris and Lyon overwhelmed after ‘lack of anticipation’ Europe live – latest updates France’s prime minister has said he has asked regional authorities to impose partial curfews in some cities…",
-   "published": "2026-10-19T12:02:47+00:00"
-  },
-  {
    "id": "782365f34c09",
    "title": "Civilians Using Guns to Defend Against Multiple Shootings",
    "link": "https://reason.com/volokh/2026/10/19/civilians-using-guns-to-defend-against-multiple-shootings/",
@@ -1494,13 +1813,13 @@
   },
   {
    "id": "3b62a89f066d",
-   "title": "Meloni calls emergency meeting after weekend of violent clashes",
+   "title": "Italy plans tougher security measures after violent protests",
    "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "More than 200 people were detained during two days of rioting in the city, Italian media reports.",
+   "summary": "The government crackdown comes after protests over rising costs broke out into violent clashes.",
    "published": "2026-10-19T11:23:36+00:00"
   },
   {
@@ -1920,17 +2239,6 @@
    "flourishing_feed": false,
    "summary": "Two-thirds of population face crisis levels of food insecurity and 200,000 people are in danger of famine This winter is likely to deepen hunger for Palestinians in Gaza, after sweeping aid cuts forced the UN’s World Food Programme (WFP) to end support for more than half a…",
    "published": "2026-10-19T09:54:33+00:00"
-  },
-  {
-   "id": "5c7456644efb",
-   "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
-   "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
-   "published": "2026-10-19T09:40:44+00:00"
   },
   {
    "id": "02bad27ee6e6",
@@ -10115,17 +10423,6 @@
    "flourishing_feed": false,
    "summary": "New poll results show Democrat Beau Bayh with advantages in name identification and voter support over Republican Max Engling going into the final weeks of the race for Indiana secretary of state. The poll, commissioned by the Free Press Indiana news organization, found 43%…",
    "published": "2026-10-16T10:30:34+00:00"
-  },
-  {
-   "id": "2e69c289ba97",
-   "title": "Vermont once dreamed of universal healthcare. This Democrat wants to try again — with a twist.",
-   "link": "https://www.vox.com/politics/506637/amanda-janoo-single-payer-primary-care-vermont-governor",
-   "source": "Vox",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Twelve years ago, Vermont Democrats tried to make their state the first in the nation to have a single-payer government-financed healthcare system — a bold experiment to push the limits of American health coverage when Obamacare was just being launched. Their plan failed, and…",
-   "published": "2026-10-16T10:30:00+00:00"
   },
   {
    "id": "f9c21fd2e293",
@@ -44280,17 +44577,6 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "An ecosystem of center-right nonprofit groups emerged in Utah over the past three years before quickly becoming one of the most influential forces in Republican politics, shaping campaigns for Congress and school boards alike. The organizations differ in approach, but share a…",
-   "published": "2026-10-07T10:00:00+00:00"
-  },
-  {
-   "id": "76d0acb987ba",
-   "title": "Big AI has a problem on the right. It starts in Florida.",
-   "link": "https://www.vox.com/politics/505319/ron-desantis-ai-james-uthmeier-openai-lawsuit",
-   "source": "Vox",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "If President Donald Trump had his way, the Republican Party would be top-to-bottom the party of AI — or, in his preferred branding, “super intelligence.” But down in the very state where Trump has his “winter White House,” two Republicans have put forth a very different vision…",
    "published": "2026-10-07T10:00:00+00:00"
   },
   {
