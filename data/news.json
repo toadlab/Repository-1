@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T02:45:01.064063+00:00",
+ "generated": "2026-10-19T03:48:38.623502+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 31
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -140,6 +140,50 @@
    "published": "2026-10-19T04:00:00+00:00"
   },
   {
+   "id": "6dfd2f1cc33e",
+   "title": "Beau Lamarre-Condon told cop friend ‘I love you’ and ‘not everything in the news is true’ after arrest, court told",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/19/beau-lamarre-condon-told-cop-friend-i-love-you-and-not-everything-in-the-news-is-true-after-arrest-court-told-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Accused asks fellow police officer how law enforcement would respond to reports of gunshots days before alleged murders, court hears Beau Lamarre-Condon allegedly told a friend “I love you’” and “not everything in the news is true” a month after he was arrested over a double…",
+   "published": "2026-10-19T03:36:11+00:00"
+  },
+  {
+   "id": "ba5d7c0e282a",
+   "title": "Anthropic says it will commit 5% of shares to ‘public benefit’ fund",
+   "link": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Claude creator says fund could be used for donations to NGOs and 'direct distributions to specific populations'.",
+   "published": "2026-10-19T03:23:54+00:00"
+  },
+  {
+   "id": "fafbe7295f81",
+   "title": "Trump defends Russian sanctions relief, lashes out at Zelenskyy",
+   "link": "https://www.aljazeera.com/news/2026/10/19/trump-defends-russian-sanctions-relief-lashes-out-at-zelenskyy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US president accuses Ukrainian leader of not wanting to end the war, as Zelenskyy speaks with Washington envoys.",
+   "published": "2026-10-19T03:10:05+00:00"
+  },
+  {
+   "id": "a8044d8e2357",
+   "title": "Fast-moving grass fire caused Canada’s military base tragedy",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/fast-moving-grass-fire-caused-canadas-military-base-tragedy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fast-moving grass fire caused Canada’s military base tragedy",
+   "published": "2026-10-19T03:07:16+00:00"
+  },
+  {
    "id": "fe94c1c2bb03",
    "title": "Former Labor attorney general turned judge Robert McClelland named new anti-corruption boss",
    "link": "https://www.theguardian.com/australia-news/2026/oct/19/former-labor-attorney-general-robert-mcclelland-named-new-nacc-boss",
@@ -148,7 +192,40 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "McClelland, who served in the Rudd government, named as boss of National Anti-Corruption Commission after Paul Brereton quit in May Former Labor attorney general and federal court judge Robert McClelland has been named as the new boss of the National Anti-Corruption Commission.…",
-   "published": "2026-10-19T02:27:37+00:00"
+   "published": "2026-10-19T03:00:04+00:00"
+  },
+  {
+   "id": "555308cc6175",
+   "title": "Threat forces Israel to Austria flight into emergency landing",
+   "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+   "published": "2026-10-19T02:41:50+00:00"
+  },
+  {
+   "id": "02bad27ee6e6",
+   "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+   "published": "2026-10-19T02:41:41+00:00"
+  },
+  {
+   "id": "d32f143c8a8f",
+   "title": "Ukraine launches over 1,000 drones at Russia, setting oil facilities ablaze",
+   "link": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The air strike, one of Ukraine's largest in the war, comes amid rising tensions between Kyiv and Washington.",
+   "published": "2026-10-19T02:10:09+00:00"
   },
   {
    "id": "2e887791f5b1",
@@ -158,7 +235,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Independent MP Monique Ryan throws her support behind fellow crossbencher after Pauline Hanson’s Please Explain episode Get our breaking news email , free app or daily news podcast Jacqui Lambie has condemned a One Nation cartoon mocking her health struggle with vaginal…",
+   "summary": "Labor, the Coalition and other crossbenchers have thrown their support behind Jacqui Lambie after Hanson’s Please Explain episode Get our breaking news email , free app or daily news podcast Jacqui Lambie has condemned a One Nation cartoon mocking her health struggle with…",
    "published": "2026-10-19T02:09:55+00:00"
   },
   {
