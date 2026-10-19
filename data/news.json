@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T11:47:09.931084+00:00",
+ "generated": "2026-10-19T12:57:20.998385+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 24
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,237 @@
  ],
  "items": [
   {
+   "id": "ef8b072f68ca",
+   "title": "At least 18 killed in Houthi attack on military camp in Yemen’s Shabwa",
+   "link": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Houthis launch ballistic missiles at camp in southern governorate during training exercise, gov't forces spokesman says.",
+   "published": "2026-10-19T12:51:46+00:00"
+  },
+  {
+   "id": "19f79bbab72d",
+   "title": "No 10: Hegseth ‘wrong’ to say most non-US Nato soldiers didn’t fight in Afghanistan – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Downing Street delivered a rare rebuke to a senior member of Donald Trump’s administration Asked why the Lib Dems were opposed to a third runway at Heathrow when they professed to be in favour of growth, Cooper said she did not accept that a third runway would produce all the…",
+   "published": "2026-10-19T12:49:47+00:00"
+  },
+  {
+   "id": "4cbabdfc0bc4",
+   "title": "Airman who died in rappelling accident at Texas college football game identified",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/airman-died-rappelling-accident-texas-football-game",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US military says Tech Sgt Ian Patterson was killed after he fell from rafters at University of Texas at San Antonio game The US military has identified the air force officer who died after he fell from the rafters of the Alamodome during a rappelling demonstration before the…",
+   "published": "2026-10-19T12:46:25+00:00"
+  },
+  {
+   "id": "588cd184f2db",
+   "title": "Majority of Americans think Donald Trump is using presidency to enrich himself, new poll finds – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump’s approval rating reaches new low; 66% of Americans think Trump is using position of power for monetary gain, including 34% of Republicans Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has reached a new low –…",
+   "published": "2026-10-19T12:39:53+00:00"
+  },
+  {
+   "id": "e11509287c9d",
+   "title": "Tommy Robinson used ‘bullyboy, intimidatory tactics’ to threaten journalists, court told",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/19/tommy-robinson-harassment-trial-mailonline-journalists-court",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Far-right activist is charged with two counts of harassment causing fear of violence to two MailOnline reporters The far-right activist known as Tommy Robinson used “bullyboy, intimidatory tactics” to threaten journalists and cause them to fear for their safety, a court has…",
+   "published": "2026-10-19T12:33:01+00:00"
+  },
+  {
+   "id": "62fdbfb3fe51",
+   "title": "The night watch: Palestinians protecting their homes from settler pogroms",
+   "link": "https://www.aljazeera.com/features/2026/10/19/the-night-watch-palestinians-protecting-their-homes-from-settler-pogroms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Palestinians in the occupied West Bank are organising to protect themselves from settler attacks.",
+   "published": "2026-10-19T12:30:22+00:00"
+  },
+  {
+   "id": "3a90f19e5c32",
+   "title": "Should We Buy Hybrid Long-Term Care Insurance in Our 60s?",
+   "link": "https://www.kiplinger.com/retirement/retirement-planning/should-a-couple-in-their-60s-buy-a-usd15k-hybrid-life-insurance-policy",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Our reader wants to pay for hybrid life and long-term care policies with a pre-tax retirement account. Experts break down the numbers in this week's Wealth Wise advice column.",
+   "published": "2026-10-19T12:30:00+00:00"
+  },
+  {
+   "id": "975fa4d57384",
+   "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+   "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“Computer science isn’t the ticket to the American dream like people thought it was.”",
+   "published": "2026-10-19T12:30:00+00:00"
+  },
+  {
+   "id": "2f16fddd9766",
+   "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+   "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+   "published": "2026-10-19T12:30:00+00:00"
+  },
+  {
+   "id": "079d101418ef",
+   "title": "Al Jazeera investigation challenges Israeli account of Heidi Levine attack",
+   "link": "https://www.aljazeera.com/features/2026/10/19/al-jazeera-investigation-challenges-israeli-account-of-heidi-levine-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Analysis of map coordinates and timelines raises doubts over official Israeli accounts of West Bank settler pogrom.",
+   "published": "2026-10-19T12:28:27+00:00"
+  },
+  {
+   "id": "ececd126e77d",
+   "title": "Stop ‘cash for trash’ housebuilding in Norfolk Broads, says Labour MP",
+   "link": "https://www.theguardian.com/environment/2026/oct/19/stop-cash-for-trash-housebuilding-norfolk-broads-labour-mp-chris-hinchcliffe",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Chris Hinchliff urges environment watchdog to block rules that will allow almost 16,000 new homes in one of UK’s most protected areas The environment watchdog is being urged to intervene in “cash to trash” planning rules that will allow almost 16,000 new homes in the…",
+   "published": "2026-10-19T12:20:08+00:00"
+  },
+  {
+   "id": "7531210b2282",
+   "title": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sébastien Lecornu says new measures will be put in place from tonight Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop…",
+   "published": "2026-10-19T12:15:15+00:00"
+  },
+  {
+   "id": "ce5945bc20e3",
+   "title": "Youth services in parts of England in state of emergency, children’s commissioner says",
+   "link": "https://www.theguardian.com/society/2026/oct/19/children-services-state-of-emergency-hardest-places-england",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rachel de Souza names Middlesbrough and Hounslow among hardest places in which to grow up and says some children are being ‘radically failed’ Services for children in parts of England are in a “state of emergency”, according to a report that identifies what it claims to be the…",
+   "published": "2026-10-19T12:11:45+00:00"
+  },
+  {
+   "id": "f7d5f2827775",
+   "title": "Russell Brand had ‘maniacal grin’ as he dragged woman into toilet and raped her, court told",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/19/russell-brand-trial-dragged-raped-woman-court-told",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Comedian, who is on trial at Southwark crown court, allegedly sexually assaulted woman within minute of meeting her Russell Brand had a “weird maniacal” grin on his face like a clown when he grabbed a woman’s breasts before dragging her into a toilet and raping her, a court has…",
+   "published": "2026-10-19T12:03:39+00:00"
+  },
+  {
+   "id": "1f5046525aa6",
+   "title": "French prime minister calls for ‘local and partial’ curfews after riots",
+   "link": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Interior minister concedes police ‘lost control’, with forces in cities including Paris and Lyon overwhelmed after ‘lack of anticipation’ Europe live – latest updates France’s prime minister has said he has asked regional authorities to impose partial curfews in some cities…",
+   "published": "2026-10-19T12:02:47+00:00"
+  },
+  {
+   "id": "782365f34c09",
+   "title": "Civilians Using Guns to Defend Against Multiple Shootings",
+   "link": "https://reason.com/volokh/2026/10/19/civilians-using-guns-to-defend-against-multiple-shootings/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "There were apparently at least a dozen such uses in the U.S. in 2025.",
+   "published": "2026-10-19T12:01:22+00:00"
+  },
+  {
+   "id": "01a912cf1b8e",
+   "title": "Third Ebola case in Kenya highlights US failures amid Trump cuts to key services",
+   "link": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHO A third person in Kenya has tested positive for Bundibugyo ebolavirus in the country’s first-ever cluster of Ebola cases, as the second-largest outbreak in history kills more…",
+   "published": "2026-10-19T12:00:01+00:00"
+  },
+  {
+   "id": "00f18af8ea6e",
+   "title": "5 Ways AI Can Help Manage Your Personal Finances",
+   "link": "https://www.kiplinger.com/personal-finance/personal-finances-ai-can-manage",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "AI can take some of the strain out of handling everyday finances, from disciplined saving to avoiding scams, paying off debt and reaching your money goals.",
+   "published": "2026-10-19T12:00:00+00:00"
+  },
+  {
+   "id": "6e4a41f28d2e",
+   "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
+   "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
+   "published": "2026-10-19T11:53:00+00:00"
+  },
+  {
+   "id": "18b2a1a10ab6",
+   "title": "Qatar to unveil regional defence partnership",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Qatar to unveil regional defence partnership",
+   "published": "2026-10-19T11:51:01+00:00"
+  },
+  {
+   "id": "acc9c6859435",
+   "title": "Personal attacks fire up debate before Brazil's run-off vote",
+   "link": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
+   "published": "2026-10-19T11:41:24+00:00"
+  },
+  {
    "id": "4f40955dd8fc",
    "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
    "link": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
@@ -162,28 +393,6 @@
    "published": "2026-10-19T11:30:00+00:00"
   },
   {
-   "id": "7531210b2282",
-   "title": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Sébastien Lecornu says new measures will be put in place from tonight Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop…",
-   "published": "2026-10-19T11:29:30+00:00"
-  },
-  {
-   "id": "588cd184f2db",
-   "title": "Trump brands federal judge a ‘crazed lunatic’ amid clashes over his golf course project – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "East Potomac course in Washington DC among a number of projects Trump is pursuing to reshape landmarks Trump plans DC golf course renovation in defiance of judge’s order Sign up for US Breaking News email The US ambassador to Israel, Mike Huckabee, has denounced the settler…",
-   "published": "2026-10-19T11:26:33+00:00"
-  },
-  {
    "id": "3b62a89f066d",
    "title": "Italian PM Meloni to hold emergency meeting after weekend of violent clashes",
    "link": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
@@ -202,30 +411,8 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Mike Huckabee condemns attack on Washington Post photojournalist that has drawn lukewarm response from Israeli authorities. Plus, Japan is attempting to boldly go where no space mission has gone before Good morning. The US ambassador to Israel, Mike Huckabee, has denounced a…",
+   "summary": "Mike Huckabee condemns attack on Washington Post photojournalist that has drawn lukewarm response from Israeli authorities. Plus, Japan is attempting to boldly go where no space mission has gone before Don’t already get First Thing in your inbox? Sign up here Good morning. The…",
    "published": "2026-10-19T11:23:24+00:00"
-  },
-  {
-   "id": "19f79bbab72d",
-   "title": "Scottish Labour becomes second biggest party at Holyrood after MSP quits Reform UK – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Reform UK and Scottish Labour came joint second in terms of seats at the May elections, with both parties having 17 MSPs Asked why the Lib Dems were opposed to a third runway at Heathrow when they professed to be in favour of growth, Cooper said she did not accept that a third…",
-   "published": "2026-10-19T11:21:14+00:00"
-  },
-  {
-   "id": "1f5046525aa6",
-   "title": "French police ‘lost control’ during riots, concedes interior minister",
-   "link": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Forces in cities including Paris and Lyon were overwhelmed after ‘lack of anticipation’, says Laurent Nuñez Europe live – latest updates France’s interior minister has conceded police “lost control” in some cities during violent protests at the weekend, as the country’s…",
-   "published": "2026-10-19T11:18:39+00:00"
   },
   {
    "id": "6ae1b23786f0",
@@ -647,7 +834,7 @@
   },
   {
    "id": "90e6a837307e",
-   "title": "Big tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.",
+   "title": "Tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.",
    "link": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
@@ -987,6 +1174,17 @@
    "published": "2026-10-19T08:45:05+00:00"
   },
   {
+   "id": "a77ed1a2336f",
+   "title": "Alberta voters weigh future in Canada",
+   "link": "https://www.npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "On Monday voters in the oil-rich Canadian province of Alberta are deciding whether to take the first step toward a future referendum on independence.",
+   "published": "2026-10-19T08:45:01+00:00"
+  },
+  {
    "id": "bcaff18c51d6",
    "title": "Hezbollah funding plan indicates a new challenge to Lebanon’s government",
    "link": "https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government?traffic_source=rss",
@@ -1296,7 +1494,7 @@
   },
   {
    "id": "e51b096587eb",
-   "title": "Monday briefing: What you need to know about a weekend of ‘chaos’ in France",
+   "title": "Monday briefing: What you need to know about a weekend of chaos in France",
    "link": "https://www.theguardian.com/world/2026/oct/19/monday-briefing-what-you-need-to-know-about-a-weekend-of-chaos-in-france",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -2800,17 +2998,6 @@
    "flourishing_feed": false,
    "summary": "Amid financial pressures on household and school budgets, the theatre company is expanding access with free plays Six young actors step into the spotlight as a reverent silence descends on the hall at City Academy in Bristol. A boy steps forward to pose a central question:…",
    "published": "2026-10-18T13:00:03+00:00"
-  },
-  {
-   "id": "6e4a41f28d2e",
-   "title": "Stocks are heading for a high-stakes showdown, as strong earnings collide with rising borrowing costs",
-   "link": "https://www.marketwatch.com/story/stocks-are-heading-for-a-high-stakes-showdown-as-strong-earnings-collide-with-rising-borrowing-costs-6f8ea5b8?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "The idea that the AI trade has been mostly immune to rising bond yields isn’t quite right, one strategist notes.",
-   "published": "2026-10-18T13:00:00+00:00"
   },
   {
    "id": "e92138ec46d1",
