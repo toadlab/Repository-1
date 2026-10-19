@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T14:50:48.249951+00:00",
+ "generated": "2026-10-19T15:49:22.027197+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 25
+   "count": 26
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,83 @@
  ],
  "items": [
   {
+   "id": "6eafe859556b",
+   "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+   "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+   "published": "2026-10-19T15:40:28+00:00"
+  },
+  {
+   "id": "c1df2cb88182",
+   "title": "Kenyan court convicts starvation cult leader for murder of 191 people",
+   "link": "https://www.aljazeera.com/news/2026/10/19/kenyan-court-convicts-starvation-cult-leader-for-murder-of-191-people?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This is a breaking news story.",
+   "published": "2026-10-19T15:34:22+00:00"
+  },
+  {
+   "id": "2f16fddd9766",
+   "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+   "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+   "published": "2026-10-19T15:30:00+00:00"
+  },
+  {
+   "id": "588cd184f2db",
+   "title": "Majority of Americans think Donald Trump is using presidency to enrich himself, new poll finds – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump’s approval rating reaches new low; 66% of Americans think Trump is using position of power for monetary gain, including 34% of Republicans Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has reached a new low –…",
+   "published": "2026-10-19T15:28:56+00:00"
+  },
+  {
+   "id": "975fa4d57384",
+   "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+   "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“Computer science isn’t the ticket to the American dream like people thought it was.”",
+   "published": "2026-10-19T15:26:00+00:00"
+  },
+  {
+   "id": "ba686d1e7cf4",
+   "title": "Houthi attack kills 53 in biggest single loss of life since Yemen civil war reignited",
+   "link": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than 200 mostly young people said to be injured after ballistic missile attack on training camp for government forces At least 53 people have been killed in a Houthi ballistic missile attack on a training camp for Yemeni government forces in the largest single loss of life…",
+   "published": "2026-10-19T15:25:56+00:00"
+  },
+  {
+   "id": "b2284d6e2a78",
+   "title": "France hit by debt sell-off as violent protests unnerve investors",
+   "link": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Difference between French and German borrowing costs widens after public buildings burned and shops looted Business live – latest updates France has been hit by a fresh wave of selling in its bond and stock markets after violent protests over the weekend led to thousands of…",
+   "published": "2026-10-19T15:23:54+00:00"
+  },
+  {
    "id": "7531210b2282",
    "title": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
    "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
@@ -137,29 +214,18 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Sébastien Lecornu says new measures will be put in place from tonight Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop…",
-   "published": "2026-10-19T14:43:39+00:00"
+   "published": "2026-10-19T15:21:51+00:00"
   },
   {
-   "id": "fdda768876a7",
-   "title": "Man who heckled Abdul El-Sayed is former Josh Hawley aide, records show",
-   "link": "https://www.theguardian.com/us-news/2026/oct/19/abdul-el-sayed-heckler-tommy",
-   "source": "The Guardian World",
+   "id": "8a9d06573d40",
+   "title": "How has the cost of living changed in France, Italy, Spain and Portugal?",
+   "link": "https://www.aljazeera.com/news/2026/10/19/how-has-the-cost-of-living-changed-in-france-italy-spain-and-portugal?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Thomas Teepell, who worked for Republican senator, demanded El-Sayed disavow Muslim Brotherhood A man who heckled Democratic candidate for Senate Abdul El-Sayed and demanded he disavow the Muslim Brotherhood at a Michigan townhall is a former aide to the Republican senator Josh…",
-   "published": "2026-10-19T14:40:05+00:00"
-  },
-  {
-   "id": "8216d32ca9d5",
-   "title": "Four Justices Recuse From Petition By Publishing Companies And New Grant on Disparate Impact",
-   "link": "https://reason.com/volokh/2026/10/19/four-justices-recuse-from-petition-by-publishing-companies-and-new-grant-on-disparate-impact/",
-   "source": "Reason",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Many lawyers billed a lot of hours to have a judge affirmed due to a lack of a quorum.",
-   "published": "2026-10-19T14:38:39+00:00"
+   "summary": "Protesters across Europe have hit the streets amid anger over the cost of living.",
+   "published": "2026-10-19T15:19:04+00:00"
   },
   {
    "id": "19f79bbab72d",
@@ -170,7 +236,161 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Downing Street delivered a rare rebuke to a senior member of Donald Trump’s administration Asked why the Lib Dems were opposed to a third runway at Heathrow when they professed to be in favour of growth, Cooper said she did not accept that a third runway would produce all the…",
-   "published": "2026-10-19T14:34:04+00:00"
+   "published": "2026-10-19T15:17:48+00:00"
+  },
+  {
+   "id": "bb2989dbb6c5",
+   "title": "Bank of England said to be reviewing Barclays’ handling of private credit loans",
+   "link": "https://www.theguardian.com/business/2026/oct/19/bank-of-england-said-to-be-reviewing-barclays-handling-of-private-credit-loans",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Concerns financial contracts known as derivatives were incorrectly logged, potentially boosting Barclays’ profits The Bank of England is reportedly looking into Barclays’ handling of loans linked to the embattled private credit sector. The Bank’s regulatory arm, the Prudential…",
+   "published": "2026-10-19T15:16:37+00:00"
+  },
+  {
+   "id": "0e9d0448e48f",
+   "title": "Decision on Senegal’s AFCON final appeal to be made by end of November",
+   "link": "https://www.aljazeera.com/sports/2026/10/19/decision-on-senegals-afcon-final-appeal-to-be-made-by-end-of-november?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Court of Arbitration for Sport will announce its verdict on the title, which was awarded to Morocco by CAF.",
+   "published": "2026-10-19T15:15:27+00:00"
+  },
+  {
+   "id": "5984f5544481",
+   "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/russias-lavrov-discusses-us-war-and-regional-security-in-tehran-visit?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Russia’s FM Sergey Lavrov is in Tehran for his first visit since the outbreak of the US-Israeli war on Iran.",
+   "published": "2026-10-19T15:15:02+00:00"
+  },
+  {
+   "id": "3fdc4ee58401",
+   "title": "Man City’s Semenyo out for up to eight weeks due to knee injury",
+   "link": "https://www.aljazeera.com/sports/2026/10/19/man-citys-semenyo-out-for-up-to-eight-weeks-due-to-knee-injury?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "City coach confirmed Semenyo's injury but said Haaland would be available for the Champions League match on Tuesday.",
+   "published": "2026-10-19T15:07:19+00:00"
+  },
+  {
+   "id": "6fcd72034520",
+   "title": "Famine fears as aid cuts and shipment restrictions coincide in Gaza",
+   "link": "https://www.aljazeera.com/news/2026/10/19/famine-fears-as-aid-cuts-and-shipment-restrictions-coincide-in-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Displaced families in Gaza fear worsening food insecurity as planned aid cuts coincide with continued restrictions.",
+   "published": "2026-10-19T15:05:16+00:00"
+  },
+  {
+   "id": "2d63366bf522",
+   "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+   "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+   "published": "2026-10-19T15:00:00+00:00"
+  },
+  {
+   "id": "e820ae48ec1d",
+   "title": "Who is cult head Paul Mackenzie, convicted of convincing followers to die?",
+   "link": "https://www.aljazeera.com/news/2026/10/19/who-is-cult-leader-paul-mackenzie-accused-of-convincing-followers-to-die?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A Kenyan court has handed down the first judgement in the 'doomsday' cult case.",
+   "published": "2026-10-19T14:54:24+00:00"
+  },
+  {
+   "id": "e8646dd63b22",
+   "title": "Strait of Hormuz scoured for spilt cargo after Iran attacks container ships",
+   "link": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At least 15 vessels struck in waterway in past 10 days, with rumours spread that they carried valuable goods People have been scouring the strait of Hormuz for spilt cargo after Iran attacked at least 15 container ships traversing the crucial waterway in the past 10 days. Some…",
+   "published": "2026-10-19T14:48:56+00:00"
+  },
+  {
+   "id": "07d012093782",
+   "title": "Albania’s protests explained",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_albanias-protests-explained-191026?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Protesters in Albania say demonstrations will intensify as Prime Minister Edi Rama rejects calls to resign.",
+   "published": "2026-10-19T14:46:53+00:00"
+  },
+  {
+   "id": "f44b8b32ceaa",
+   "title": "Drone attack near market kills 80 in Sudan",
+   "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catching rides home. Ahmed Wadi, a witness, said the attack in the town of…",
+   "published": "2026-10-19T14:45:53+00:00"
+  },
+  {
+   "id": "f07c5362f8f6",
+   "title": "Be Prepared for Elizabeth Warren's Reign of Economic Error",
+   "link": "https://reason.com/2026/10/19/be-prepared-for-elizabeth-warrens-reign-of-economic-error/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The progressive Democrat, whose party may take control of the Senate, is sounding alarms over consolidation in the hot sauce business.",
+   "published": "2026-10-19T14:45:34+00:00"
+  },
+  {
+   "id": "bc68c790ccb8",
+   "title": "Pakistan suspends Iran border trade, amid violence on both sides",
+   "link": "https://www.aljazeera.com/news/2026/10/19/pakistan-suspends-iran-border-trade-amid-violence-on-both-sides?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Islamabad cites security concerns, while Tehran points to technical issues as Pakistan mediates between Iran and the US.",
+   "published": "2026-10-19T14:43:03+00:00"
+  },
+  {
+   "id": "fdda768876a7",
+   "title": "Man who heckled Abdul El-Sayed is former Josh Hawley aide, records show",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/abdul-el-sayed-heckler-tommy",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Thomas Teepell, who worked for Republican senator, demanded El-Sayed disavow Muslim Brotherhood A man who heckledthe Democratic candidate for Senate Abdul El-Sayed and demanded he disavow the Muslim Brotherhood at a Michigan town hall is a former aide to the Republican senator…",
+   "published": "2026-10-19T14:40:05+00:00"
+  },
+  {
+   "id": "8216d32ca9d5",
+   "title": "Four Justices Recuse From Petition By Publishing Companies And Court Grants New Case on Disparate Impact",
+   "link": "https://reason.com/volokh/2026/10/19/four-justices-recuse-from-petition-by-publishing-companies-and-new-grant-on-disparate-impact/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Many lawyers billed a lot of hours to have a judge affirmed due to a lack of a quorum.",
+   "published": "2026-10-19T14:38:39+00:00"
   },
   {
    "id": "1a41f3b5e5df",
@@ -206,6 +426,17 @@
    "published": "2026-10-19T14:17:49+00:00"
   },
   {
+   "id": "cda66130d558",
+   "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
+   "link": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
+   "published": "2026-10-19T14:13:18+00:00"
+  },
+  {
    "id": "620c4c8ac8cf",
    "title": "Hegseth wrong to say most non-US Nato forces in Afghanistan did not fight, says No 10",
    "link": "https://www.theguardian.com/us-news/2026/oct/19/pete-hegseth-nato-afghanistan-downing-street",
@@ -226,6 +457,17 @@
    "flourishing_feed": false,
    "summary": "Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHO An eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever cluster of cases of the virus, as the second-largest outbreak in…",
    "published": "2026-10-19T14:11:08+00:00"
+  },
+  {
+   "id": "73d1aff3c1ba",
+   "title": "Australian MP critically injured after being hit by car in apparent attack",
+   "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+   "published": "2026-10-19T14:09:54+00:00"
   },
   {
    "id": "86b8170b2b7f",
@@ -292,17 +534,6 @@
    "flourishing_feed": false,
    "summary": "Four in 10 home builders are cutting prices to boost demand, even as they face rising construction costs.",
    "published": "2026-10-19T14:00:00+00:00"
-  },
-  {
-   "id": "588cd184f2db",
-   "title": "Majority of Americans think Donald Trump is using presidency to enrich himself, new poll finds – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Trump’s approval rating reaches new low; 66% of Americans think Trump is using position of power for monetary gain, including 34% of Republicans Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has reached a new low –…",
-   "published": "2026-10-19T13:54:11+00:00"
   },
   {
    "id": "5d0523b92f17",
@@ -559,13 +790,13 @@
   },
   {
    "id": "ef8b072f68ca",
-   "title": "At least 18 killed in Houthi attack on military camp in Yemen’s Shabwa",
+   "title": "Houthi attack on Yemen army camp in Shabwa kills at least 53: reports",
    "link": "https://www.aljazeera.com/news/2026/10/19/at-least-18-killed-in-houthi-attack-on-military-camp-in-yemens-shabwa?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Houthis launch ballistic missiles at camp in southern governorate during training exercise, gov't forces spokesman says.",
+   "summary": "Local authorities say armed group launched ballistic missiles at camp in southern governorate during training exercise.",
    "published": "2026-10-19T12:51:46+00:00"
   },
   {
@@ -621,28 +852,6 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "Our reader wants to pay for hybrid life and long-term care policies with a pre-tax retirement account. Experts break down the numbers in this week's Wealth Wise advice column.",
-   "published": "2026-10-19T12:30:00+00:00"
-  },
-  {
-   "id": "975fa4d57384",
-   "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
-   "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“Computer science isn’t the ticket to the American dream like people thought it was.”",
-   "published": "2026-10-19T12:30:00+00:00"
-  },
-  {
-   "id": "2f16fddd9766",
-   "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-   "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
    "published": "2026-10-19T12:30:00+00:00"
   },
   {
@@ -985,17 +1194,6 @@
    "flourishing_feed": false,
    "summary": "Angry French students have blocked access to their schools for four weeks. AJLabs breaks down what they want and why.",
    "published": "2026-10-19T10:33:38+00:00"
-  },
-  {
-   "id": "6eafe859556b",
-   "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-   "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
-   "published": "2026-10-19T10:33:12+00:00"
   },
   {
    "id": "6d93ce568c44",
@@ -1667,17 +1865,6 @@
    "flourishing_feed": false,
    "summary": "Videos showed gunmen firing shots at Shroff's car while it was moving slowly past a crowd.",
    "published": "2026-10-19T07:35:06+00:00"
-  },
-  {
-   "id": "b2284d6e2a78",
-   "title": "France hit by debt sell-off as protests unnerve investors",
-   "link": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Difference between French and German 10-year borrowing costs widens after violence breaks out Business live – latest updates France has been hit by a fresh wave of selling in its bond and stock markets after violent protests over the weekend left public buildings burned,…",
-   "published": "2026-10-19T07:32:59+00:00"
   },
   {
    "id": "9bfeb44896cc",
@@ -2923,17 +3110,6 @@
    "published": "2026-10-18T17:02:13+00:00"
   },
   {
-   "id": "2d63366bf522",
-   "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-   "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-   "published": "2026-10-18T17:00:00+00:00"
-  },
-  {
    "id": "670ba1a85944",
    "title": "Opinion: Sen. Lee is fighting for families like mine who suffered because of kratom",
    "link": "https://www.deseret.com/opinion/2026/10/18/helping-families-suffering-because-of-kratom/",
@@ -4151,7 +4327,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Sunday, Oct. 18, 2026 TELEVISION BASKETBALL Bayern Munich vs. Hamburg, NBA TV, 10 a.m. GOLF World India Championship, GOLF, 2 a.m. SAS Championship, GOLF, noon HORSE RACING America’s Day at the Races, FS1, 11 a.m. MLB Rays at Guardians, TBS, 3 p.m. MOTOR SPORTS Freeway…",
+   "summary": "Monday, Oct. 19, 2026 TELEVISION GOLF Abilene Christian Intercollegiate, GOLF, 2 p.m. MLB Guardians at Rays, TBS, 6 p.m. NFL Commanders at 49ers, ABC/ESPN, 6:15 p.m. NHL Penguins at Mammoth, Utah 16, 7 p.m. SOCCER Tottenham vs. Coventry, USA, 1 p.m. WNBA Dream at Valkyries,…",
    "published": "2026-10-18T06:00:00+00:00"
   },
   {
@@ -89348,17 +89524,6 @@
    "flourishing_feed": false,
    "summary": "When union workers and their families gather this Labor Day, some may ponder Ronald Reagan’s memorable refrain, “Are you better off now than you were four years ago?” All workers – unionized or not – are dealing with higher prices for food and gasoline. For America’s unionized…",
    "published": "2026-09-07T09:00:36+00:00"
-  },
-  {
-   "id": "5e363534c513",
-   "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
-   "source": "Federal Reserve",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
-   "published": "2026-09-04T15:00:00+00:00"
   }
  ]
 }
