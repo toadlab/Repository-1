@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T22:43:10.458459+00:00",
+ "generated": "2026-10-19T23:43:17.909396+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 28
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,61 @@
  ],
  "items": [
   {
+   "id": "05f11754c476",
+   "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+   "link": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
+   "published": "2026-10-19T23:30:03+00:00"
+  },
+  {
+   "id": "a29ccc2eb3c8",
+   "title": "What To Do If, Like Kelly Clarkson, You Have a Bad Time At a Store",
+   "link": "https://www.kiplinger.com/personal-finance/shopping/what-to-do-if-like-kelly-clarkson-you-have-a-bad-time-at-a-store",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The internet is in an uproar over Kelly Clarkson's criticism of a Brooklyn store. Here's what you should do in her shoes (rather than complain online).",
+   "published": "2026-10-19T23:30:00+00:00"
+  },
+  {
+   "id": "b5e9b5519d66",
+   "title": "Utah AD Mark Harlan on ‘College GameDay,’ late kickoffs and more",
+   "link": "https://www.deseret.com/sports/2026/10/19/utah-ad-mark-harlan-on-college-gameday-late-kickoffs-tv-times/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It’s an exciting week for the University of Utah. The No. 10 Utes, one of just six college football teams that are still undefeated, are gearing up for the biggest game of their season so far — a late-night matchup against No. 14 Houston. Saturday’s Utah-Houston clash is one of…",
+   "published": "2026-10-19T23:29:29+00:00"
+  },
+  {
+   "id": "588cd184f2db",
+   "title": "Trump slams Zelenskyy amid Russia sanctions rift and says ‘somebody else’ should negotiate for Ukraine - live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President facing criticism for his move to waive sanctions for Russia as a new poll by Reuters shows only 31% of Americans approve of his performance in office Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has…",
+   "published": "2026-10-19T23:26:10+00:00"
+  },
+  {
+   "id": "5c0ee49473e7",
+   "title": "Car allegedly did U-turn and struck Helen Haines twice, as ‘hero’ local barber praised for apprehending driver",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Independent MP undergoes surgery and is in critical yet stable condition, as police interview alleged attacker in Wangaratta incident Follow our Helen Haines live blog for latest updates Get our new political email , free app or daily news podcast The man accused of attacking…",
+   "published": "2026-10-19T23:24:22+00:00"
+  },
+  {
    "id": "dc95bd901582",
    "title": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta – follow updates",
    "link": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
@@ -137,7 +192,128 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament ‘It’s…",
-   "published": "2026-10-19T22:35:01+00:00"
+   "published": "2026-10-19T23:19:54+00:00"
+  },
+  {
+   "id": "4d2f709f8952",
+   "title": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Elk, bear, frogs and other animals have used the overpass, which connects 39,000 acres of habitat, since its completion Colorado officials have tracked herds of elk, bears, pronghorn and even northern leopard frogs ambling across its new wildlife overpass. According to a newly…",
+   "published": "2026-10-19T23:17:12+00:00"
+  },
+  {
+   "id": "70ce187b8654",
+   "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
+   "link": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Tehran summons German envoy after two men convicted of trying to kill leaders of Jewish groups, rejects any role.",
+   "published": "2026-10-19T23:16:01+00:00"
+  },
+  {
+   "id": "4e0bc42f2008",
+   "title": "Children among six killed in Russian drone strike on Ukraine park",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Children among six killed in Russian drone strike on Ukraine park",
+   "published": "2026-10-19T23:12:42+00:00"
+  },
+  {
+   "id": "6f7ca6a26659",
+   "title": "Watch or listen to songs sung during October 2026 general conference",
+   "link": "https://www.deseret.com/faith/2026/10/19/church-news-general-conference-october-2026-music-tabernacle-choir-mixed-choir-utah/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two choirs provided the music for the four sessions of the October 2026 general conference — The Tabernacle Choir at Temple Square and a mixed choir from northern Utah. Nearly two dozen songs were performed, including selections from the current “ Hymns ,” “ Children’s Songbook…",
+   "published": "2026-10-19T23:10:58+00:00"
+  },
+  {
+   "id": "1e7b8d336d6b",
+   "title": "Five ways El Niño is affecting the weather around the world",
+   "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+   "published": "2026-10-19T23:08:25+00:00"
+  },
+  {
+   "id": "8c9ad530b077",
+   "title": "Worries spike among Ukrainian refugees amid uncertain legal landscape",
+   "link": "https://www.deseret.com/u-s-world/2026/10/19/ukranian-refugee-worries-mount/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Zhanna Martyrosian, 68, barely made it out of Russian-occupied territory in 2022 after her home in Mariupol was bombed in the early months of the war. She eventually found safe haven near her daughter Anzhelika in Utah, who had married another Ukrainian while studying at…",
+   "published": "2026-10-19T23:08:00+00:00"
+  },
+  {
+   "id": "65511d913502",
+   "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+   "link": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
+   "published": "2026-10-19T23:04:08+00:00"
+  },
+  {
+   "id": "fa4ccd39d1a8",
+   "title": "Jaxon Kohler proved why he’s the ‘perfect fit’ for No. 25 BYU — assuming he’s eligible, of course",
+   "link": "https://www.deseret.com/sports/2026/10/19/byu-basketball-jaxon-kohler-exhibition-performance-fifth-year-eligibility-pending/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Jaxon Kohler made quite a first impression at BYU this past weekend. In Friday’s preseason exhibition against Nebraska , the fifth-year center posted a double-double of 10 points and 10 rebounds — the kind of stat line he frequently logged at Michigan State to become an All-Big…",
+   "published": "2026-10-19T23:02:51+00:00"
+  },
+  {
+   "id": "fe8618e7ca14",
+   "title": "Trump borrows from far right to blame unrest in France on immigration",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President ignores school conditions and cost of living and says he warned Macron ‘the whole world was coming in’ Explainer: why are people protesting across Europe? Donald Trump and JD Vance deployed a familiar US playbook on Europe, claiming that immigrants were responsible…",
+   "published": "2026-10-19T22:48:35+00:00"
+  },
+  {
+   "id": "91c3c9cea976",
+   "title": "Why the Trump administration is fighting over a golf course",
+   "link": "https://www.vox.com/the-logoff-newsletter-trump/506955/trump-east-potomac-golf-links-takeover",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here. Welcome to The Logoff: Donald Trump is trying to take over a public park. What’s happening? On…",
+   "published": "2026-10-19T22:40:00+00:00"
+  },
+  {
+   "id": "41f51673491a",
+   "title": "Trump: ‘Paris is going to be a Muslim city very soon’",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US President Donald Trump blamed immigrants for the unrest in France, claiming Paris would soon become a ‘Muslim city’.",
+   "published": "2026-10-19T22:37:19+00:00"
   },
   {
    "id": "d11f9b56a00b",
@@ -160,17 +336,6 @@
    "flourishing_feed": false,
    "summary": "System can estimate a person’s biological age and predict chances of cancer survival from a single photograph Doctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival from a single photograph of their face. The AI system was…",
    "published": "2026-10-19T22:30:08+00:00"
-  },
-  {
-   "id": "588cd184f2db",
-   "title": "Trump slams Zelenskyy amid Russia sanctions rift and says ‘somebody else’ should negotiate for Ukraine - live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President facing criticism for his move to waive sanctions for Russia as a new poll by Reuters shows only 31% of Americans approve of his performance in office Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has…",
-   "published": "2026-10-19T22:30:01+00:00"
   },
   {
    "id": "5b634b01c0d7",
@@ -204,6 +369,17 @@
    "flourishing_feed": false,
    "summary": "Research has found that it can take more than six months for professional athletes to return to play after being treated for a deep-vein thrombosis or pulmonary embolism.",
    "published": "2026-10-19T21:58:00+00:00"
+  },
+  {
+   "id": "4b9cd8c2b738",
+   "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
+   "link": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Trump administration wants to turn a historic public golf course into championship links. Despite a judge's order, hundreds of trees were cut down to make way for the renovation.",
+   "published": "2026-10-19T21:56:37+00:00"
   },
   {
    "id": "28d843fa9337",
@@ -248,17 +424,6 @@
    "flourishing_feed": false,
    "summary": "After 527 days of filming, Dallas Jenkins felt a weighty pressure lift when “The Chosen” wrapped production in late September. The demands that came with the making of the biblical drama series had pressed far more heavily on Jenkins than he’d realized until filming was…",
    "published": "2026-10-19T21:41:30+00:00"
-  },
-  {
-   "id": "4d2f709f8952",
-   "title": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
-   "link": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Elk, bear, frogs and other animals have used the overpass, which connects 39,000 acres of habitat, since its completion Colorado officials have tracked herds of elk, bears, pronghorn and even northern leopard frogs ambling across its new wildlife overpass. According to a newly…",
-   "published": "2026-10-19T21:39:09+00:00"
   },
   {
    "id": "bab900932b62",
@@ -312,7 +477,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The 2023 breach exposed millions of customers’ genetic and personal information, including more than 855,000 Californians California attorney general Rob Bonta on Monday announced the state will receive a $6m settlement payment in 23andMe’s bankruptcy, resolving California’s…",
+   "summary": "Millions of customers’ genetic and personal information exposed in 2023, including more than 855,000 Californians California’s attorney general, Rob Bonta, on Monday announced the state will receive a $6m settlement payment in 23andMe’s bankruptcy, resolving California’s legal…",
    "published": "2026-10-19T21:34:30+00:00"
   },
   {
@@ -325,6 +490,17 @@
    "flourishing_feed": false,
    "summary": "New details emerge about Kaylub Giamanco, who went on to elementary school campus and shot Bend suspect dead New details are emerging about the parent who fatally shot the 16-year-old shooter who killed three children and a teacher in Oregon last week. In a 2018 Facebook post,…",
    "published": "2026-10-19T21:33:50+00:00"
+  },
+  {
+   "id": "3a14b2dffdac",
+   "title": "Clean up begins after French riots but police remain",
+   "link": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
+   "published": "2026-10-19T21:30:08+00:00"
   },
   {
    "id": "f25ff9217242",
@@ -391,6 +567,17 @@
    "flourishing_feed": false,
    "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
    "published": "2026-10-19T21:15:00+00:00"
+  },
+  {
+   "id": "7604d8c4829b",
+   "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+   "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+   "published": "2026-10-19T21:14:53+00:00"
   },
   {
    "id": "fb81b0d788e0",
@@ -625,13 +812,13 @@
   },
   {
    "id": "7531210b2282",
-   "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – Europe live",
+   "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – as it happened",
    "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Curfews to apply to parts of cities including Paris, Nice and Lyon after days of violence on French streets Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in…",
+   "summary": "This live blog is now closed. Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop further disorder, which he attributes to…",
    "published": "2026-10-19T20:34:54+00:00"
   },
   {
