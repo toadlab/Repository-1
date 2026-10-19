@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T09:49:58.321366+00:00",
+ "generated": "2026-10-19T10:45:59.719275+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,50 @@
  ],
  "items": [
   {
+   "id": "b02258d72867",
+   "title": "Can Ukraine Fight Without the U.S.?",
+   "link": "https://thedispatch.com/newsletter/morning/can-ukraine-fight-without-the-u-s/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: Marco Rubio urges Israel to crack down on settler violence, Ilhan Omar’s lawyers contest last week’s search of her home, and the Smithsonian National Zoo won’t name its new addition Panda McPandaface.",
+   "published": "2026-10-19T10:38:52+00:00"
+  },
+  {
+   "id": "8e56c5510408",
+   "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
+   "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+   "published": "2026-10-19T10:36:00+00:00"
+  },
+  {
+   "id": "6eafe859556b",
+   "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+   "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
+   "published": "2026-10-19T10:33:12+00:00"
+  },
+  {
+   "id": "6d93ce568c44",
+   "title": "Trump Slashing Deportation Protections Shows Why Temporary Status Shouldn't Depend on Who's President",
+   "link": "https://reason.com/2026/10/19/trump-drops-deportation-protections/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President Donald Trump revoked temporary protected status for about 1 million people living in the U.S.",
+   "published": "2026-10-19T10:30:46+00:00"
+  },
+  {
    "id": "588cd184f2db",
    "title": "Trump to head to Kansas to show support for embattled Marshall – US politics live",
    "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
@@ -136,8 +180,63 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Incumbent Republican senator is facing strong challenge from Democrat Adam Hamilton in state that has been red for almost a century Ukraine did not receive a warning from the US about an impending Russian missile attack on Sunday evening, Volodymyr Zelenskyy has said, reviving…",
-   "published": "2026-10-19T09:44:42+00:00"
+   "summary": "Incumbent Republican senator is facing strong challenge from Democrat Adam Hamilton in state that has been red for almost a century Marco Rubio, the secretary of state denied on Monday that the United ⁠States had paused some intelligence sharing with Ukraine, contradicting…",
+   "published": "2026-10-19T10:29:25+00:00"
+  },
+  {
+   "id": "19f79bbab72d",
+   "title": "Burnham pledges ‘big changes’ to the way the welfare system works to tackle Neets crisis – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Prime minister’s comments come as children’s commissioner Dame Rachel de Souza highlights ‘staggering’ inequalities in young people’s treatment across UK Asked why the Lib Dems were opposed to a third runway at Heathrow when they professed to be in favour of growth, Cooper said…",
+   "published": "2026-10-19T10:27:59+00:00"
+  },
+  {
+   "id": "1af70c5ab6cd",
+   "title": "The S&P 500 is masking a hidden market pullback. Why Morgan Stanley says an index retreat would signal a buying opportunity.",
+   "link": "https://www.marketwatch.com/story/the-s-p-500-is-masking-a-hidden-market-pullback-why-morgan-stanley-says-an-index-retreat-would-signal-a-buying-opportunity-08d079c0?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Since mid-summer portfolio managers have been emphasizing free cash flow, profitability, high margins, strong balance sheets and stable earnings when stockpicking.",
+   "published": "2026-10-19T10:23:00+00:00"
+  },
+  {
+   "id": "7531210b2282",
+   "title": "France braces for weeks more of protests as unrest spreads to Italy – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Gilets jaunes movement calls for further demonstrations in France as Giorgia Meloni schedules crisis talks after looting in Italian cities Macron criticises ‘unbridled violence’ after 2,400 arrests across France We are expecting to hear from France’s prime minister Sébastien…",
+   "published": "2026-10-19T10:20:08+00:00"
+  },
+  {
+   "id": "610e0fca425a",
+   "title": "Four arrested after police officer shot in foot in Nottingham",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/19/police-officer-shot-in-foot-nottingham-arrests",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Officer in stable condition after incident in city centre in early hours of Sunday Four people have been arrested after a police officer was shot in the foot in Nottingham city centre. The officer was struck by a projectile believed to have been fired from a shotgun after…",
+   "published": "2026-10-19T10:17:31+00:00"
+  },
+  {
+   "id": "959a024801c8",
+   "title": "America’s empty bedrooms are up for grabs",
+   "link": "https://www.vox.com/the-highlight/502859/padsplit-sros-housing-affordable-bedroom-adult-dorms-homelessness",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This story was originally published in The Highlight. To get access to member-exclusive stories like this every month, become a Vox Member today. Todd Waller wasn’t expecting to spend the latter half of his 30s living with roommates. But in late 2022, following a breakup with…",
+   "published": "2026-10-19T10:16:00+00:00"
   },
   {
    "id": "9283447ecf96",
@@ -148,7 +247,205 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Independent MP injured in an incident involving a vehicle outside her electorate office in Wangaratta, in regional Victoria. Follow updates Independent MP Helen Haines fighting for life after incident outside Wangaratta office in regional Victoria ‘No ongoing threat to…",
-   "published": "2026-10-19T09:41:27+00:00"
+   "published": "2026-10-19T10:12:33+00:00"
+  },
+  {
+   "id": "94d869e5acd3",
+   "title": "WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages",
+   "link": "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The UN agency says funding shortages threaten to reverse 'modest and fragile' progress on food security.",
+   "published": "2026-10-19T10:08:06+00:00"
+  },
+  {
+   "id": "c99da24a5b08",
+   "title": "Mexican protesters demanding clean water storm state congress",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/mexican-protesters-demanding-clean-water-storm-state-congress?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mexican protesters demanding clean water storm state congress",
+   "published": "2026-10-19T10:08:01+00:00"
+  },
+  {
+   "id": "ea632e97924f",
+   "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+   "link": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system. The category 2…",
+   "published": "2026-10-19T10:07:09+00:00"
+  },
+  {
+   "id": "4accf5f6a456",
+   "title": "Meta Is Gifting AI Glasses to Blind Veterans: 'I Got My Independence Back'",
+   "link": "https://reason.com/2026/10/19/metas-ai-glasses-help-blind-veterans/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Meta's AI glasses carry privacy risks, but for blind veterans, they fill a gap that the government has failed to address.",
+   "published": "2026-10-19T10:00:43+00:00"
+  },
+  {
+   "id": "a426ab512942",
+   "title": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds",
+   "link": "https://www.theguardian.com/technology/2026/oct/19/us-teens-nudify-apps-apple-google-parental-controls",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Using test accounts acting as 13-year-olds, Tech Transparency Project downloaded 135 apps with features to generate nonconsensual nude imagery In December 2025, Morgan Dorfman received distressing news: a student at her daughter’s Pennsylvania high school was making…",
+   "published": "2026-10-19T10:00:05+00:00"
+  },
+  {
+   "id": "469881a2b6e3",
+   "title": "Controversial ending aside, BYU’s win over Notre Dame was transformational moment for the football program",
+   "link": "https://www.deseret.com/sports/2026/10/19/byu-football-look-ahead-ucf-notre-dame-irish-knights-cougars-bachmeier/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Proof that these aren’t your grandfather’s BYU Cougars, or even your father’s, or even the plucky bunch from the last two seasons — in terms of national perception — came about 15 hours after No. 8 BYU toppled No. 2 Notre Dame 28-24 at LaVell Edwards Stadium on Saturday night.…",
+   "published": "2026-10-19T10:00:01+00:00"
+  },
+  {
+   "id": "a95dc084c4b6",
+   "title": "Television is finding its second life on YouTube",
+   "link": "https://www.deseret.com/entertainment/2026/10/19/viewership-rises-on-youtube-prompting-traditional-networks-to-move-to-the-platform/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Following the broader shift to YouTube, the BBC announced Thursday that it will begin streaming its live news broadcast on the video-sharing platform in an effort to expand its digital reach to new and younger audiences. The move comes as audiences are increasingly found on…",
+   "published": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "id": "0cba8f4feb9a",
+   "title": "For Gen Z, an awkward moment can live forever",
+   "link": "https://www.deseret.com/family/2026/10/19/daniel-cox-new-book-generation-uncoupled-gen-z-social-disconnection/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ask Daniel Cox what’s happening with older teens and young adults in the U.S. and he’ll tell you that the real story is what’s not happening. They’re not dating, going to parties or hanging out with friends. Nor are they routinely working a part-time job or embracing a faith…",
+   "published": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "id": "e0fa4370bd41",
+   "title": "Millions of American drivers are speeding. The environment could be paying the price",
+   "link": "https://www.deseret.com/environment/2026/10/19/american-drivers-are-speeding-whos-paying-the-price/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "There are more than 242 million licensed drivers in the U.S. When these drivers hit the open road, almost half of them are speeding, at least occasionally, according to recent data from the AAA Foundation for Traffic Safety. Many, in fact, view speeding as a normal part of…",
+   "published": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "id": "f66d280111e7",
+   "title": "The money behind the midterms",
+   "link": "https://www.deseret.com/politics/2026/10/19/money-behind-the-midterms/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This article was first published in the On the Hill newsletter . Sign up to receive the newsletter in your inbox on Friday mornings here . You’ve probably heard that this election cycle is going to be expensive. But we’re finally getting a somewhat final snapshot of how much…",
+   "published": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "id": "69d06255338d",
+   "title": "America’s next big healthcare reform might already be underway",
+   "link": "https://www.vox.com/policy/506744/healthcare-democrats-public-option-obamacare-aca-insurance-colorado",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "If you live in Colorado and buy your own health insurance, there’s a good chance you’re one of the 139,000 people enrolled in a public plan crafted by your state leaders. You’re paying $0 for primary care visits and certain mental health visits, $0 for prenatal and postnatal…",
+   "published": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "id": "2d56991742df",
+   "title": "He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him.",
+   "link": "https://www.propublica.org/article/west-virginia-school-choice-billionaires-vernon-criss",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post He Tried to Set Limits on His State’s School Vouchers. Billionaires Helped Bankroll a Campaign to Unseat Him. appeared first on ProPublica .",
+   "published": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "id": "b2442165df2c",
+   "title": "The Jokes Animating Black Christian Comedy",
+   "link": "https://www.christianitytoday.com/2026/10/the-jokes-animating-black-christian-comedy/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Whitney Moss’s 1 million Instagram followers tune in for her comedy sketches about Christian dating. Marcus D. Wiley jokes about discovering how much groceries cost and taking food from his parent’s pantry. Mike Goodwin amuses crowds with Southern hospitality gimmicks and tales…",
+   "published": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "id": "e0c676d7bf59",
+   "title": "What the Bible’s Most Political Book Can Teach Us",
+   "link": "https://www.christianitytoday.com/2026/10/esther-most-political-bible-book-midterms/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Even when Americans disagree vehemently on just about everything else, most agree on this: American politics is broken. In one study, nearly 6 out of 10 respondents refused to name a single strength in America’s political system, and only 4 percent of respondents said that…",
+   "published": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "id": "d7ba8053d883",
+   "title": "How to Encourage Young Americans to Save and Invest",
+   "link": "https://www.kiplinger.com/retirement/retirement-plans/retirement-accounts-young-americans",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Twentysomethings are increasingly skeptical about homeownership and investing. But a retirement account (and the magic of compounding) could change their minds.",
+   "published": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "id": "90e6a837307e",
+   "title": "Big tech is wobbling. Goldman Sachs says it’s time to buy these 23 unloved stocks instead.",
+   "link": "https://www.marketwatch.com/story/big-tech-is-wobbling-goldman-sachs-says-its-time-to-buy-these-23-unloved-stocks-instead-cff7a9e0?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Goldman Sachs says consumer-facing laggard stocks are the best way forward as earnings growth is set to slow next year and big tech stocks struggle.",
+   "published": "2026-10-19T09:58:00+00:00"
+  },
+  {
+   "id": "005ed156c7ec",
+   "title": "Cuts force World Food Programme to end support for half a million Palestinians in Gaza",
+   "link": "https://www.theguardian.com/world/2026/oct/19/cuts-world-food-programme-end-support-palestinians-gaza",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two-thirds of population face crisis levels of food insecurity and 200,000 people are in danger of famine This winter is likely to deepen hunger for Palestinians in Gaza, after sweeping aid cuts forced the UN’s World Food Programme (WFP) to end support for more than half a…",
+   "published": "2026-10-19T09:54:33+00:00"
+  },
+  {
+   "id": "5c7456644efb",
+   "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+   "link": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+   "published": "2026-10-19T09:40:44+00:00"
   },
   {
    "id": "02bad27ee6e6",
@@ -160,28 +457,6 @@
    "flourishing_feed": false,
    "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
    "published": "2026-10-19T09:38:25+00:00"
-  },
-  {
-   "id": "7531210b2282",
-   "title": "Macron refuses minister’s resignation after huge protests rock France – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Interior minister Laurent Nuñez should stay to ensure chain of command with police and security forces, says president Macron criticises ‘unbridled violence’ after 2,400 arrests across France in Rome Italian prime minister Giorgia Meloni will hold a crisis meeting with top…",
-   "published": "2026-10-19T09:37:47+00:00"
-  },
-  {
-   "id": "19f79bbab72d",
-   "title": "Burnham pledges ‘big changes’ to the way the welfare system works to tackle Neets crisis – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Prime minister’s comments come as children’s commissioner Dame Rachel de Souza highlights ‘staggering’ inequalities in young people’s treatment across UK Q: Some of your MPs are losing faith in Ed Davey. Why is he failing to cut through? Cooper did not accept the premise of the…",
-   "published": "2026-10-19T09:36:46+00:00"
   },
   {
    "id": "bde60c9ac185",
@@ -204,6 +479,28 @@
    "flourishing_feed": false,
    "summary": "France and the U.S. have similar debt dynamics.",
    "published": "2026-10-19T09:30:00+00:00"
+  },
+  {
+   "id": "2b56a2d95364",
+   "title": "Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate.",
+   "link": "https://www.propublica.org/article/ken-paxton-texas-abortion-senate",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The post Ken Paxton’s Anti-Abortion Influence Already Extended Beyond Texas. He Could Take It Further in the Senate. appeared first on ProPublica .",
+   "published": "2026-10-19T09:30:00+00:00"
+  },
+  {
+   "id": "e310b7bf10f9",
+   "title": "China’s economy grows faster than forecast after AI boom boosts exports",
+   "link": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demand Business live – latest updates Roaring exports lifted China’s economic growth in the third quarter of this year, with factory output growing much faster than consumer…",
+   "published": "2026-10-19T09:27:04+00:00"
   },
   {
    "id": "41fb58d0589d",
@@ -229,13 +526,13 @@
   },
   {
    "id": "a97da12b936b",
-   "title": "Independent MP Helen Haines in critical condition after ‘attack’ outside Wangaratta office, PM says",
+   "title": "‘Deeply appalled’: politicians condemn alleged attack after independent MP Helen Haines critically injured",
    "link": "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Anthony Albanese says his thoughts remain with Indi MP after arrest of driver at the scene on Monday afternoon Helen Haines updates: PM says person in custody after alleged attack on Helen Haines – follow live The independent MP Helen Haines has been critically injured in an…",
+   "summary": "Anthony Albanese says his thoughts remain with Indi MP after arrest of driver in Wangaratta on Monday afternoon Helen Haines updates: PM says person in custody after alleged attack on Helen Haines – follow live The independent MP Helen Haines has been critically injured in an…",
    "published": "2026-10-19T09:15:25+00:00"
   },
   {
@@ -250,6 +547,17 @@
    "published": "2026-10-19T09:12:31+00:00"
   },
   {
+   "id": "0d2f6de94654",
+   "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+   "link": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
+   "published": "2026-10-19T09:11:42+00:00"
+  },
+  {
    "id": "e390e0011e1c",
    "title": "More than half of UK first-time buyers paying more for mortgage than they did for rent",
    "link": "https://www.theguardian.com/money/2026/oct/19/uk-first-time-buyers-paying-more-mortgage-rent",
@@ -262,7 +570,7 @@
   },
   {
    "id": "77005dadd439",
-   "title": "Safety concerns mount over Japan’s traditional festivals after string of fatal accidents",
+   "title": "Three deaths from float crushes raise safety concerns over Japanese festivals",
    "link": "https://www.theguardian.com/world/2026/oct/19/safety-concerns-japan-traditional-festivals-fatal-accidents",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -537,7 +845,7 @@
   },
   {
    "id": "f6f0f34f537c",
-   "title": "France protests live: Macron admits ‘failures’ after days of violent unrest",
+   "title": "France protests live: President Macron admits ‘failures’ as unrest spreads",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -587,7 +895,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Difference between French and German 10-year borrowing costs widens after violence breaks out Business live – latest updates France was hit by a fresh wave of selling in its bond and stock markets on Monday after violent protests over the weekend left public buildings burned,…",
+   "summary": "Difference between French and German 10-year borrowing costs widens after violence breaks out Business live – latest updates France has been hit by a fresh wave of selling in its bond and stock markets after violent protests over the weekend left public buildings burned,…",
    "published": "2026-10-19T07:32:59+00:00"
   },
   {
@@ -1029,17 +1337,6 @@
    "flourishing_feed": false,
    "summary": "One Nation leader said Tasmanian senator should ‘get over it’ and claimed the cartoon was ‘satirical’ Get our breaking news email , free app or daily news podcast Anthony Albanese has praised the courage of Jacqui Lambie in speaking out about her struggles with vaginal…",
    "published": "2026-10-19T03:56:01+00:00"
-  },
-  {
-   "id": "6eafe859556b",
-   "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
-   "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
-   "published": "2026-10-19T03:44:02+00:00"
   },
   {
    "id": "8994e3f73deb",
@@ -2052,17 +2349,6 @@
    "flourishing_feed": false,
    "summary": "Exclusive: Play anonymously published in 1596 was collaboration between Shakespeare and Christopher Marlowe, according to computer analysis Dramatic new evidence concludes that the play Edward III should be added to William Shakespeare’s canon, and also that it was a major…",
    "published": "2026-10-18T15:00:02+00:00"
-  },
-  {
-   "id": "8e56c5510408",
-   "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-   "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
-   "published": "2026-10-18T15:00:00+00:00"
   },
   {
    "id": "5170ddb7bc3d",
@@ -79161,17 +79447,6 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Ryan and Ashley Smith have owned the Utah Jazz for nearly six years now. During that time, their Smith Entertainment Group launched one of the most ambitious building stretches in the NBA — a mix of massive capital investment, rising valuation and an expanding sports empire.…",
-   "published": "2026-09-28T10:00:00+00:00"
-  },
-  {
-   "id": "959a024801c8",
-   "title": "America’s empty bedrooms are up for grabs",
-   "link": "https://www.vox.com/the-highlight/502859/padsplit-sros-housing-affordable-bedroom-adult-dorms-homelessness",
-   "source": "Vox",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Todd Waller wasn’t expecting to spend the latter half of his 30s living with roommates. But in late 2022, following a breakup with his girlfriend, he needed to find a new place to live, quickly. A social worker based in the Atlanta metro, Waller started googling “efficiency…",
    "published": "2026-09-28T10:00:00+00:00"
   },
   {
