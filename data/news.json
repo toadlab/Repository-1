@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T15:49:22.027197+00:00",
+ "generated": "2026-10-19T16:48:53.760886+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "name": "Federal Register: IRS",
@@ -129,6 +129,160 @@
  ],
  "items": [
   {
+   "id": "c761c38091c0",
+   "title": "Why a former Intel skeptic is giving up his negative call on the stock after four years",
+   "link": "https://www.marketwatch.com/story/why-a-former-intel-skeptic-is-giving-up-his-negative-call-on-the-stock-after-four-years-47c2fab6?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Intel’s manufacturing and chip design have improved, according to a J.P. Morgan analyst.",
+   "published": "2026-10-19T16:42:00+00:00"
+  },
+  {
+   "id": "829e5925b3a3",
+   "title": "Matt Gaetz Lawsuit Shows How Twisted the Term 'Sex Trafficking' Has Become",
+   "link": "https://reason.com/2026/10/19/matt-gaetz-lawsuit-shows-how-twisted-the-term-sex-trafficking-has-become/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two women are suing Gaetz in federal court for alleged sex trafficking. But they claim no force, fraud, or underage victims, just an \"exploitative power imbalance.\"",
+   "published": "2026-10-19T16:40:58+00:00"
+  },
+  {
+   "id": "68221f52a770",
+   "title": "Search under way for four soldiers missing after gang attack in Haiti",
+   "link": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The UN Security Council holds a meeting on Haiti; the attack on UN-backed forces is expected to dominate the discussions.",
+   "published": "2026-10-19T16:40:01+00:00"
+  },
+  {
+   "id": "1425fce2f612",
+   "title": "SpaceX’s stock made billions for college endowments. But their luck is about to run out.",
+   "link": "https://www.marketwatch.com/story/spacex-stock-made-billions-for-college-endowments-but-their-luck-is-about-to-run-out-1711c34d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Outsized positions have made many higher-education endowments less diversified and more at risk when shares slide",
+   "published": "2026-10-19T16:35:00+00:00"
+  },
+  {
+   "id": "588cd184f2db",
+   "title": "Majority of Americans think Donald Trump is using presidency to enrich himself, new poll finds – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump’s approval rating reaches new low; 66% of Americans think Trump is using position of power for monetary gain, including 34% of Republicans Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has reached a new low –…",
+   "published": "2026-10-19T16:34:36+00:00"
+  },
+  {
+   "id": "110aa4272895",
+   "title": "Where BYU landed in the preseason AP Top 25 basketball poll",
+   "link": "https://www.deseret.com/sports/2026/10/19/byu-basketball-ap-preseason-top-24-poll/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For the second straight year, BYU is ranked to open basketball season. The Cougars came in at No. 25 in the preseason AP Top 25 poll, earning the eighth preseason ranking in school history. Joining BYU from the Big 12 in the preseason rankings were Arizona (No. 5), Houston (No.…",
+   "published": "2026-10-19T16:34:10+00:00"
+  },
+  {
+   "id": "5f952e56adbe",
+   "title": "Ferocious criticism from all sides underlines Macron’s isolation",
+   "link": "https://www.theguardian.com/world/2026/oct/19/emmanuel-macron-criticism-isolation-france",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "French president has compounded impression of arrogance with strategic errors – and consequences could be profound Europe live – latest updates The near-universal chorus of condemnation that greeted Emmanuel Macron’s address to the nation on Sunday, after one of the most…",
+   "published": "2026-10-19T16:33:23+00:00"
+  },
+  {
+   "id": "035ff7b3f134",
+   "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+   "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
+   "published": "2026-10-19T16:32:47+00:00"
+  },
+  {
+   "id": "095501001441",
+   "title": "Iran War backlash threatens Republican control of Congress",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Public opposition to the Iran War could threaten Republican control of Congress, as economic fallout fuels voter anger.",
+   "published": "2026-10-19T16:24:30+00:00"
+  },
+  {
+   "id": "b8fdaebfb395",
+   "title": "New details emerge on two killed after woman drove through Kansas soccer game",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/kansas-deaths-soccer-game-vehicle-latest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A boy, six, and woman, 35, were killed and 10 were injured after a woman drove on to the field at a youth soccer game New details have emerged about two people – including a child – killed when a woman drove a vehicle through a youth soccer game in Kansas, as officials on…",
+   "published": "2026-10-19T16:23:41+00:00"
+  },
+  {
+   "id": "f9cad54fff25",
+   "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+   "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
+   "published": "2026-10-19T16:22:12+00:00"
+  },
+  {
+   "id": "65521a368e4d",
+   "title": "Masts removed from bomb-laden WWII ship in Thames in bid to avoid explosion",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/19/us-wwii-ship-richard-montgomery-thames-bombs-prevent-explosion",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "American warship sank in 1944 with approximately 1,400 tonnes of munitions onboard A sunken US wartime ship in the Thames estuary holding enough unexploded bombs to devastate a Kent coastal town and send a tidal wave through London has been made slightly safer, ministers have…",
+   "published": "2026-10-19T16:21:06+00:00"
+  },
+  {
+   "id": "713f2e047f06",
+   "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+   "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
+   "published": "2026-10-19T16:20:51+00:00"
+  },
+  {
+   "id": "19f79bbab72d",
+   "title": "No 10: Hegseth ‘wrong’ to say most non-US Nato soldiers didn’t fight in Afghanistan – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Downing Street delivered a rare rebuke to a senior member of Donald Trump’s administration Asked why the Lib Dems were opposed to a third runway at Heathrow when they professed to be in favour of growth, Cooper said she did not accept that a third runway would produce all the…",
+   "published": "2026-10-19T16:18:07+00:00"
+  },
+  {
    "id": "6eafe859556b",
    "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
    "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
@@ -137,7 +291,216 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
-   "published": "2026-10-19T15:40:28+00:00"
+   "published": "2026-10-19T16:16:55+00:00"
+  },
+  {
+   "id": "4fd2c676f56e",
+   "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+   "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
+   "published": "2026-10-19T16:16:51+00:00"
+  },
+  {
+   "id": "9679086ddf87",
+   "title": "Farage claim that £5m was reward for Brexit was ‘not press office line’, close aide says",
+   "link": "https://www.theguardian.com/politics/2026/oct/19/farage-claim-that-5m-was-reward-for-brexit-was-not-press-office-line-close-aide-says",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Undercover footage of Dan Jukes raises fresh questions about Reform leader’s statement that £5m gift was for security Nigel Farage undermined his own claims that a £5m gift was for security when he referred to the money as a reward for Brexit, according to one of his…",
+   "published": "2026-10-19T16:16:23+00:00"
+  },
+  {
+   "id": "754ccee9c1fb",
+   "title": "‘Concerning issues’ found at GB power grid by inquiry into cover-up claims",
+   "link": "https://www.theguardian.com/business/2026/oct/19/concerning-issues-found-at-gb-power-grid-by-inquiry-into-cover-up-claims",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Neso control room staff accused senior executives of covering up extent of blackout risks during June heatwave Independent investigators have found significant and concerning “cultural issues” at Great Britain’s grid operator after control room staff accused senior executives…",
+   "published": "2026-10-19T16:14:47+00:00"
+  },
+  {
+   "id": "7531210b2282",
+   "title": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sébastien Lecornu says new measures will be put in place from tonight Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop…",
+   "published": "2026-10-19T16:13:21+00:00"
+  },
+  {
+   "id": "b2bc9fb19e79",
+   "title": "J.P. Morgan Team Departs to Create $18.6B Independent Firm",
+   "link": "https://www.wealthmanagement.com/ria-news/jpmorgan-team-departs-to-create-186b-independent-firm",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Phil Scott and Jim Atwood are forming Latigo Peak Partners, launching with 48 employees and a presence in Florida, Washington, Massachusetts and California.",
+   "published": "2026-10-19T16:13:19+00:00"
+  },
+  {
+   "id": "f8f553bf9962",
+   "title": "High school girls volleyball: 2A/1A state tournament brackets announced by UHSAA",
+   "link": "https://www.deseret.com/sports/2026/10/19/high-school-girls-volleyball-2a-1a-state-tournament-brackets/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Class 2A state tournament First round (Oct 21) No. 17 Beaver at No. 16 Draper,6 p.m. No. 24 Rockwell at No. 9 ICS, 6 p.m. No. 20 Salt Lake Academy at No. 13 Duchesne, 6 p.m. No. 21 American Heritage at No. 12 Kanab, 6 p.m. No. 18 Grand at No. 15 APA West Valley, 6 p.m. No. 23…",
+   "published": "2026-10-19T16:13:05+00:00"
+  },
+  {
+   "id": "e99b3d180cf7",
+   "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+   "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in…",
+   "published": "2026-10-19T16:08:14+00:00"
+  },
+  {
+   "id": "3ea975a82516",
+   "title": "Gaza faces worsening hunger as WFP announces food aid cuts",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The World Food Programme has announced that funding shortages will force it to suspend food assistance in Gaza",
+   "published": "2026-10-19T16:06:57+00:00"
+  },
+  {
+   "id": "f4a90fbd57d2",
+   "title": "Tech firms are building AI-ready data centers in India. But are cities ready?",
+   "link": "https://www.csmonitor.com/World/Asia-South-Central/2026/1019/india-data-centers-preparedness-ai-industry?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Google has broken ground on a proposed 1-gigawatt data center in Visakhapatnam, India, but questions about resources and funding remain.",
+   "published": "2026-10-19T16:05:52+00:00"
+  },
+  {
+   "id": "86991d6dc379",
+   "title": "France protests escalate with riots, looting and 2,400 arrests – The Latest",
+   "link": "https://www.theguardian.com/news/audio/2026/oct/19/france-protests-escalate-riots-looting-arrests-the-latest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Last weekend there were mass protests across France, with more than half a million people estimated to have been involved. The unrest included rioting, looting and violent clashes with outnumbered police in cities including Paris, Marseille and Limoges. The interior minister…",
+   "published": "2026-10-19T16:05:31+00:00"
+  },
+  {
+   "id": "7fb7a6e4faab",
+   "title": "Grand Bargain reboot plots the next steps for humanitarian reform",
+   "link": "https://www.thenewhumanitarian.org/analysis/2026/10/19/grand-bargain-reboot-plots-next-steps-humanitarian-reform",
+   "source": "The New Humanitarian",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The humanitarian reform pact opens a new chapter with a slimmer focus, a longer name, and renewed questions. What’s changing, and what lies ahead?",
+   "published": "2026-10-19T16:04:47+00:00"
+  },
+  {
+   "id": "733f5acca6ea",
+   "title": "October’s best books boast indelible characters",
+   "link": "https://www.csmonitor.com/Arts-Culture/Books/2026/1019/october-best-books-characters?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fascinating people – both real and fictitious – abound in our fall roundup.",
+   "published": "2026-10-19T16:00:11+00:00"
+  },
+  {
+   "id": "6a29407afa4d",
+   "title": "Views from 6,230: The Hidden Opportunities in an Unattractive Bond Market",
+   "link": "https://www.wealthmanagement.com/fixed-income/views-from-6-230-the-hidden-opportunities-in-an-unattractive-bond-market",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Radcliffe Capital Management Steve Katznelson highlights where bond market inefficiencies still exist.",
+   "published": "2026-10-19T16:00:01+00:00"
+  },
+  {
+   "id": "daef34140f71",
+   "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
+   "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
+   "published": "2026-10-19T16:00:00+00:00"
+  },
+  {
+   "id": "03edf48f80ee",
+   "title": "Trump endorses Netanyhu ahead of elections",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/jerusalem-daily-settlers-attack-eu-diplomats?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump endorses Netanyahu ahead of Israel’s election, Ben-Gvir faces student protesters.",
+   "published": "2026-10-19T15:54:25+00:00"
+  },
+  {
+   "id": "43c4412b32e3",
+   "title": "3 Reasons to Cancel This Year's 3.6 Percent Social Security Boost",
+   "link": "https://reason.com/2026/10/19/3-reasons-to-cancel-this-years-3-6-percent-social-security-boost/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Or at least change how the cost-of-living adjustment is calculated.",
+   "published": "2026-10-19T15:50:20+00:00"
+  },
+  {
+   "id": "0bcd37cdfd41",
+   "title": "Supreme court rejects effort to revive plea deal for Khalid Sheikh Mohammed in 9/11 attacks",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/khalid-sheikh-mohammed-september-11-plea-deal",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Agreement would have spared Mohammed risk of execution in exchange for guilty plea and life in prison The supreme court on Monday rejected an effort to revive a plea deal for Khalid Sheikh Mohammed, the accused mastermind of the attacks on 11 September 2001. The agreement would…",
+   "published": "2026-10-19T15:50:08+00:00"
+  },
+  {
+   "id": "72bdcc086331",
+   "title": "Supreme Court Will Hear Necessary and Proper Clause Case on Federal Law Banning Home Distilleries",
+   "link": "https://reason.com/volokh/2026/10/19/supreme-court-will-hear-necessary-and-proper-clause-case-on-federal-law-banning-home-distilleries/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The case is likely to be the most important Necessary and Proper Clause case since 2012.",
+   "published": "2026-10-19T15:48:41+00:00"
+  },
+  {
+   "id": "fcb0daf582d4",
+   "title": "Beasts of the Law",
+   "link": "https://reason.com/volokh/2026/10/19/beasts-of-the-law/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A quiz about three animal-related figures of legal speech (all of which had been mentioned on this blog in years… The post Beasts of the Law appeared first on Reason Magazine.",
+   "published": "2026-10-19T15:44:50+00:00"
   },
   {
    "id": "c1df2cb88182",
@@ -147,7 +510,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "This is a breaking news story.",
+   "summary": "Doomsdays cult leader Paul ⁠Mackenzie had denied ordering the victims to starve so they could 'meet Jesus'.",
    "published": "2026-10-19T15:34:22+00:00"
   },
   {
@@ -160,17 +523,6 @@
    "flourishing_feed": false,
    "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
    "published": "2026-10-19T15:30:00+00:00"
-  },
-  {
-   "id": "588cd184f2db",
-   "title": "Majority of Americans think Donald Trump is using presidency to enrich himself, new poll finds – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Trump’s approval rating reaches new low; 66% of Americans think Trump is using position of power for monetary gain, including 34% of Republicans Sign up for US Breaking News email A new Washington Post-ABC poll shows that Donald Trump’s approval rating has reached a new low –…",
-   "published": "2026-10-19T15:28:56+00:00"
   },
   {
    "id": "975fa4d57384",
@@ -191,7 +543,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "More than 200 mostly young people said to be injured after ballistic missile attack on training camp for government forces At least 53 people have been killed in a Houthi ballistic missile attack on a training camp for Yemeni government forces in the largest single loss of life…",
+   "summary": "More than 200 mostly young people said to be injured after ballistic missile attack on training camp for government forces At least 53 people have been killed in a Houthi ballistic missile attack on a training camp for Yemeni government forces, making it the largest single loss…",
    "published": "2026-10-19T15:25:56+00:00"
   },
   {
@@ -206,15 +558,15 @@
    "published": "2026-10-19T15:23:54+00:00"
   },
   {
-   "id": "7531210b2282",
-   "title": "French PM blames ‘ultra-left’ for exploiting protests as he seeks partial curfews – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "782a0334f945",
+   "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
+   "link": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Sébastien Lecornu says new measures will be put in place from tonight Macron criticises ‘unbridled violence’ after 2,400 arrests across France French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop…",
-   "published": "2026-10-19T15:21:51+00:00"
+   "summary": "France is used to protests but the violence and damage seen across the country is shocking many people.",
+   "published": "2026-10-19T15:21:03+00:00"
   },
   {
    "id": "8a9d06573d40",
@@ -226,17 +578,6 @@
    "flourishing_feed": false,
    "summary": "Protesters across Europe have hit the streets amid anger over the cost of living.",
    "published": "2026-10-19T15:19:04+00:00"
-  },
-  {
-   "id": "19f79bbab72d",
-   "title": "No 10: Hegseth ‘wrong’ to say most non-US Nato soldiers didn’t fight in Afghanistan – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Downing Street delivered a rare rebuke to a senior member of Donald Trump’s administration Asked why the Lib Dems were opposed to a third runway at Heathrow when they professed to be in favour of growth, Cooper said she did not accept that a third runway would produce all the…",
-   "published": "2026-10-19T15:17:48+00:00"
   },
   {
    "id": "bb2989dbb6c5",
@@ -317,13 +658,13 @@
   },
   {
    "id": "e8646dd63b22",
-   "title": "Strait of Hormuz scoured for spilt cargo after Iran attacks container ships",
+   "title": "People scour strait of Hormuz for spilt cargo after Iran attacks container ships",
    "link": "https://www.theguardian.com/world/2026/oct/19/strait-of-hormuz-spilt-cargo-iran-attacks-container-ships",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "At least 15 vessels struck in waterway in past 10 days, with rumours spread that they carried valuable goods People have been scouring the strait of Hormuz for spilt cargo after Iran attacked at least 15 container ships traversing the crucial waterway in the past 10 days. Some…",
+   "summary": "At least 15 vessels struck in waterway in past 10 days, with rumours that they were carrying valuable goods People have been scouring the strait of Hormuz for spilt cargo after Iran attacked at least 15 container ships passing through the crucial waterway in the past 10 days.…",
    "published": "2026-10-19T14:48:56+00:00"
   },
   {
@@ -3196,17 +3537,6 @@
    "flourishing_feed": false,
    "summary": "“College GameDay” can’t get enough of the state of Utah. ESPN’s pregame show will broadcast live from the University of Utah just one week after it went to Provo ahead of the BYU-Notre Dame game. The Utes will be facing the Houston Cougars. Ranked 20th in the country last week,…",
    "published": "2026-10-18T16:08:07+00:00"
-  },
-  {
-   "id": "daef34140f71",
-   "title": "My sister moved in with our mother, 78, and says she deserves the $925,000 family home. Is she right?",
-   "link": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-   "published": "2026-10-18T16:00:00+00:00"
   },
   {
    "id": "839d62d5da31",
