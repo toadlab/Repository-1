@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T04:44:28.399114+00:00",
+ "generated": "2026-10-20T05:44:54.994463+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 28
+   "count": 31
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,127 @@
  ],
  "items": [
   {
+   "id": "270c33f0bf7d",
+   "title": "The ‘goalie hugs’ were extra tight in Utah Monday night",
+   "link": "https://www.deseret.com/sports/2026/10/19/utah-mammoth-beat-pittsburgh-penguins-5-4/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "One by one, Sebastian Cossa is checking his childhood dreams off his list. First NHL start? Check. First win? Check. First home game? Check. First times facing Connor McDavid and Sidney Crosby? Check and check. “Every game is a new experience and a new challenge, so it’s cool,”…",
+   "published": "2026-10-20T05:32:04+00:00"
+  },
+  {
+   "id": "dc95bd901582",
+   "title": "Helen Haines live updates: Helen Haines loses a leg and surgeons fight to save the other after alleged attack outside electorate office",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleges ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament ‘It’s…",
+   "published": "2026-10-20T05:29:00+00:00"
+  },
+  {
+   "id": "f6c4a5bf94c8",
+   "title": "Israel’s elections 2026 explained in maps and charts",
+   "link": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israelis vote on October 27 in the sixth election since 2019. Here’s how the system works and who gets left out.",
+   "published": "2026-10-20T05:25:31+00:00"
+  },
+  {
+   "id": "8c18be8a9bb1",
+   "title": "Myanmar’s ousted leader Aung San Suu Kyi seen in rare photos after receiving gift from King Charles",
+   "link": "https://www.theguardian.com/world/2026/oct/20/myanmar-aung-san-suu-kyi-rare-photos-gift-king-charles",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Critics said images of detained former leader were a stunt by the military to end country’s diplomatic isolation Myanmar has delivered presents from Britain’s ​King Charles to Aung San Suu Kyi , releasing rare photos of the imprisoned former leader in what critics said was a…",
+   "published": "2026-10-20T05:07:00+00:00"
+  },
+  {
+   "id": "6e8661fc07c6",
+   "title": "Without Federal Help, State Officials Return to DIY Election Security",
+   "link": "https://thedispatch.com/article/election-security-cisa-midterms-states/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A network of peers, nonprofits, and contractors is attempting to fill gaps left by the gutted federal agency responsible for election security.",
+   "published": "2026-10-20T05:02:00+00:00"
+  },
+  {
+   "id": "d3a3fd7e7f9e",
+   "title": "Is Elon Musk Worth the Trouble?",
+   "link": "https://thedispatch.com/article/elon-musk-innovation-tesla-spacex-politics-doge/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Society benefits from extraordinary innovators, even when their personalities make them difficult to tolerate.",
+   "published": "2026-10-20T05:01:00+00:00"
+  },
+  {
+   "id": "d8aa26e40260",
+   "title": "How is the US economy really doing under President Trump?",
+   "link": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
+   "published": "2026-10-20T05:00:45+00:00"
+  },
+  {
+   "id": "8f317aaa2eb9",
+   "title": "Royal Exchange boss unveils new plays two years after damaging censorship row",
+   "link": "https://www.theguardian.com/stage/2026/oct/20/royal-exchange-theatre-boss-selina-cartmell-new-plays-censorship-row",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Selina Cartmell announces season including Stockport-set version of Phaedra myth by Simon Stephens A theatre boss has promised to channel the “pioneering spirit of Manchester” and be “brave and fearless” as she unveiled a new season of work, two years after a deeply damaging…",
+   "published": "2026-10-20T05:00:17+00:00"
+  },
+  {
+   "id": "71f3d2f0196a",
+   "title": "Public support for founding principles of NHS is falling across UK population",
+   "link": "https://www.theguardian.com/society/2026/oct/20/public-support-founding-principles-nhs-falling-across-uk-population",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rise in economic hardship and changes in attitudes towards migration could explain drop in support, experts say Public support for the NHS’s founding principles – that it is free to use, available to everyone and tax-funded – has fallen over the last five years, research has…",
+   "published": "2026-10-20T05:00:16+00:00"
+  },
+  {
+   "id": "fa5b2be9e30b",
+   "title": "New Bradford railway station will ‘transform travel across the north’",
+   "link": "https://www.theguardian.com/business/2026/oct/20/bradford-railway-station-transform-travel-north",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Transport hub will offer through trains between Leeds and Manchester with ‘turn-up-and-go’ service A new railway station will be built in Bradford to “transform how people travel across the north”, the government has announced. The station will be at the heart of the Northern…",
+   "published": "2026-10-20T05:00:16+00:00"
+  },
+  {
+   "id": "0c67e952a6b1",
+   "title": "US Supreme Court to hear case on race in school admissions",
+   "link": "https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A group of parents claims local admission policy boosts Black and Latino students while constraining Asian applicants.",
+   "published": "2026-10-20T04:38:07+00:00"
+  },
+  {
    "id": "13c258f11515",
    "title": "Mother of alleged Alan Jones victim ‘absolutely trusted’ the radio host, court told",
    "link": "https://www.theguardian.com/australia-news/2026/oct/20/alan-jones-alleged-victim-mother-trusted-radio-host-ntwnfb",
@@ -136,19 +257,8 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Witness breaks down in tears, tells court ‘I was scared’ after son declines to report alleged kissing and touching by broadcaster The mother of the youngest alleged victim of Alan Jones has told a Sydney court she “trusted” the 2GB broadcaster and was “comfortable” her teenager…",
+   "summary": "Witness breaks down in tears, tells court ‘I was scared’ after son declined to report alleged kissing and touching by broadcaster Listen to the podcast Alan Jones on Trial Sign up for Guardian Australia’s free weekly media newsletter here The mother of the youngest alleged…",
    "published": "2026-10-20T04:16:22+00:00"
-  },
-  {
-   "id": "dc95bd901582",
-   "title": "Helen Haines live updates: Helen Haines loses leg after alleged attack outside electorate office",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament ‘It’s…",
-   "published": "2026-10-20T04:15:24+00:00"
   },
   {
    "id": "070be3c4eeed",
@@ -228,6 +338,17 @@
    "published": "2026-10-20T03:13:52+00:00"
   },
   {
+   "id": "6ed17c07556e",
+   "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
+   "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+   "published": "2026-10-20T03:10:39+00:00"
+  },
+  {
    "id": "035ff7b3f134",
    "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
    "link": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo?at_medium=RSS&at_campaign=rss",
@@ -248,6 +369,17 @@
    "flourishing_feed": false,
    "summary": "Lamine Yamal faces ex-teammate Ferran Torres as in-form Barcelona take on holders PSG in a spicy encounter in Paris.",
    "published": "2026-10-20T02:52:50+00:00"
+  },
+  {
+   "id": "26da7bffb335",
+   "title": "Seventh day of violent clashes between Albanian protesters and police",
+   "link": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+   "published": "2026-10-20T02:45:05+00:00"
   },
   {
    "id": "aeeb6a706efd",
@@ -482,7 +614,7 @@
   },
   {
    "id": "218e47d7058f",
-   "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
+   "title": "Rashida Tlaib demands arrest of Israeli soldier tied to Hind Rajab killing",
    "link": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -1493,6 +1625,17 @@
    "published": "2026-10-19T19:47:42+00:00"
   },
   {
+   "id": "6d08b0d2c28d",
+   "title": "Mission blasts off for Mars to grab a piece of its moon",
+   "link": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
+   "published": "2026-10-19T19:45:46+00:00"
+  },
+  {
    "id": "e597f6e85771",
    "title": "Utah-Houston is college football’s most expensive ticket this week as ‘College GameDay’ stays in Utah",
    "link": "https://www.deseret.com/sports/2026/10/19/utah-houston-is-college-footballs-most-expensive-ticket-this-week-as-college-gameday-stays-in-utah/",
@@ -2330,7 +2473,7 @@
   },
   {
    "id": "4fd2c676f56e",
-   "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+   "title": "Obama blasts federal probe of Ilhan Omar as 'so appalling'",
    "link": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
