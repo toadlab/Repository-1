@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T12:56:57.062034+00:00",
+ "generated": "2026-10-20T13:53:21.804586+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,281 @@
  ],
  "items": [
   {
+   "id": "0420afff2ca1",
+   "title": "Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence",
+   "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence.",
+   "published": "2026-10-20T13:51:40+00:00"
+  },
+  {
+   "id": "c8aa790019fa",
+   "title": "Salesforce gets a chilly investor response to a $6 billion deal at a 58% premium",
+   "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Salesforce said on Tuesday that it is making a nearly $6 billion acquisition at a 58% premium, but Wall Street’s response was frosty.",
+   "published": "2026-10-20T13:48:00+00:00"
+  },
+  {
+   "id": "c949915ebbb0",
+   "title": "Hancock’s claim about protecting care homes shown by Covid inquiry to be ‘cruel lie’, victims’ families say – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Heather Hallett, chair of the Covid inquiry, has just published the report from the inquiry’s module 6, looking at what happened in care homes Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage…",
+   "published": "2026-10-20T13:47:24+00:00"
+  },
+  {
+   "id": "a1229a65a930",
+   "title": "5 Little-Known Retirement Tax 'Gotchas'",
+   "link": "https://www.kiplinger.com/taxes/little-known-retirement-tax-gotchas",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Hidden rules, automatic surcharges, and tax-bracket traps can catch even careful retirees off guard. Here's what to know.",
+   "published": "2026-10-20T13:47:00+00:00"
+  },
+  {
+   "id": "53edf89bc9aa",
+   "title": "My unmarried partner of 17 years left me his $1.1 million home. His children are crying foul. Should I share my inheritance?",
+   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+   "published": "2026-10-20T13:45:00+00:00"
+  },
+  {
+   "id": "2e829d8824e8",
+   "title": "Trump continues midterm campaign blitz in North Carolina – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President to stump for Michael Whatley, who is facing an uphill battle against Democrat Roy Cooper for the Senate, as elections are just two weeks away Sign up for the Breaking News US email Today, we’ll also hear from the nominees in one of the midterm elections’ nail-biters:…",
+   "published": "2026-10-20T13:44:02+00:00"
+  },
+  {
+   "id": "51e73ef32aae",
+   "title": "BBC Three and BBC Scotland TV channels to be shut down next year",
+   "link": "https://www.theguardian.com/media/2026/oct/20/bbc-three-and-bbc-scotland-tv-channels-to-be-shut-down",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Corporation announces broadcast closures and job losses in effort to find savings of £500m UK politics live – latest updates Television channels BBC Three and BBC Scotland are to close and the Radio 4 Extra radio station will be scrapped, as part of the corporation’s continuing…",
+   "published": "2026-10-20T13:40:06+00:00"
+  },
+  {
+   "id": "71d4b31668c1",
+   "title": "Robertson Stephens Tops $10B with Deal For Institutional Consultant",
+   "link": "https://www.wealthmanagement.com/ria-news/robertson-stephens-tops-10b-with-deal-for-institutional-consultant",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The acquisition of Milwaukee-based Alpha Investment Consulting Group expands Robertson Stephens’ institutional consulting capabilities and adds a new office.",
+   "published": "2026-10-20T13:38:41+00:00"
+  },
+  {
+   "id": "0c8bc98fb895",
+   "title": "France plans ‘massive’ police presence on weekend as more protests expected – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "French PM addresses parliament as Italy poised to approve tougher security measures in response to protests Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr Støre and the Finnish…",
+   "published": "2026-10-20T13:35:54+00:00"
+  },
+  {
+   "id": "33d1f5a2c03b",
+   "title": "Will Ohio Voters Buy Republicans' Pitch?",
+   "link": "https://reason.com/2026/10/20/will-ohio-voters-buy-republicans-pitch/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: Gun laws in Oregon, Mamdani's free-daycare expansion, vibrators and selfishness, and more...",
+   "published": "2026-10-20T13:30:15+00:00"
+  },
+  {
+   "id": "75c58ab584c2",
+   "title": "Discovery of North Carolina police officers’ alleged racist texts prompts review of arrest records",
+   "link": "https://www.theguardian.com/us-news/2026/oct/20/north-carolina-police-officers-alleged-racist-texts",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "‘Deeply troubling’ messages came to light during investigation into misuse of Flock camera system Five officers resigned recently from a North Carolina police agency – and a sixth remained suspended – after they allegedly exchanged racist texts. The chief of the…",
+   "published": "2026-10-20T13:28:04+00:00"
+  },
+  {
+   "id": "b84a7e4ff1d4",
+   "title": "Meet the college students trying to reverse an obscure ban on trading onion futures",
+   "link": "https://www.marketwatch.com/story/meet-the-college-students-trying-to-reverse-an-obscure-ban-on-trading-onion-futures-16b8dc5d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In the U.S., investors can legally trade futures contracts tied to all sorts of commodities, from pork bellies to oil to the computing power needed to power artificial-intelligence models.",
+   "published": "2026-10-20T13:24:00+00:00"
+  },
+  {
+   "id": "551e0766b802",
+   "title": "Indonesians protest over land-clearing fires",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations.",
+   "published": "2026-10-20T13:23:44+00:00"
+  },
+  {
+   "id": "1b1a1cb36af0",
+   "title": "Kenya cult leader's children still being starved weeks before trial, son says",
+   "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
+   "published": "2026-10-20T13:23:32+00:00"
+  },
+  {
+   "id": "8dd51982223a",
+   "title": "Gen Z Investors Are Switching Up Their Portfolios Ahead of the Midterms",
+   "link": "https://www.wealthmanagement.com/investing-strategies/gen-z-investors-are-switching-up-their-portfolios-ahead-of-the-midterms",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "About 24% of Gen Z respondents said they moved money into more conservative or lower-risk investments ahead of the election, compared with 13% of baby boomers.",
+   "published": "2026-10-20T13:22:18+00:00"
+  },
+  {
+   "id": "cc4a4f362db4",
+   "title": "US envoy Barrack defends decision to join Israel in war on Iran",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.",
+   "published": "2026-10-20T13:20:33+00:00"
+  },
+  {
+   "id": "24f7d839421d",
+   "title": "The Hidden Costs of Covered-Call ETFs",
+   "link": "https://www.kiplinger.com/investing/etfs/the-hidden-costs-of-covered-call-etfs",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Investors seeking income should focus on total return potential, fees and tax efficiency rather than chasing the high yields in covered-call ETFs.",
+   "published": "2026-10-20T13:19:15+00:00"
+  },
+  {
+   "id": "975fa4d57384",
+   "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+   "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“Computer science isn’t the ticket to the American dream like people thought it was.”",
+   "published": "2026-10-20T13:18:00+00:00"
+  },
+  {
+   "id": "2d63366bf522",
+   "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
+   "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
+   "published": "2026-10-20T13:15:00+00:00"
+  },
+  {
+   "id": "79ede12aa04b",
+   "title": "The DEA Wants To Turn 7-OH Consumers Into Criminals",
+   "link": "https://reason.com/2026/10/20/the-dea-wants-to-turn-7-oh-consumers-into-criminals/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Where's the science?",
+   "published": "2026-10-20T13:00:27+00:00"
+  },
+  {
+   "id": "01f0a71cdb6a",
+   "title": "More than 250,000 displaced in Yemen since fighting escalated: UNHCR",
+   "link": "https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "UNICEF says escalating fighting in Taiz is threatening its water systems, serving an estimated three million people.",
+   "published": "2026-10-20T13:00:21+00:00"
+  },
+  {
+   "id": "b965679c26b3",
+   "title": "Israeli attacks kill at least four Palestinians in Gaza",
+   "link": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A couple and a 17-year-old are among those killed by Israeli air attacks and gunfire in the Gaza Strip.",
+   "published": "2026-10-20T12:59:58+00:00"
+  },
+  {
+   "id": "94c97f38443b",
+   "title": "‘Every day could cost lives’: UK government blocks Gaza families’ reunion",
+   "link": "https://www.aljazeera.com/news/2026/10/20/every-day-could-cost-lives-uk-government-blocks-gaza-families-reunion?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Britain’s reopened refugee resettlement scheme offers no escape for Palestinians in Gaza.",
+   "published": "2026-10-20T12:58:49+00:00"
+  },
+  {
+   "id": "7cc2f35e503e",
+   "title": "Meta is back on offense — and its next move could signal higher AI spending across Big Tech",
+   "link": "https://www.marketwatch.com/story/meta-is-back-on-offense-and-its-next-move-could-signal-higher-ai-spending-across-big-tech-09682ff7?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Meta could be the first major tech company this earnings season to foreshadow higher-than-expected AI costs for next year.",
+   "published": "2026-10-20T12:56:00+00:00"
+  },
+  {
+   "id": "af58defa1e4f",
+   "title": "‘Horizontal revolt’: Why Albania’s young protesters want PM Rama to go",
+   "link": "https://www.aljazeera.com/news/2026/10/20/horizontal-revolt-why-albanias-young-protesters-want-pm-rama-to-go?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "From the ‘Flamingo Revolution’ to current protests, an inside look at a leaderless youth uprising challenging Edi Rama.",
+   "published": "2026-10-20T12:54:56+00:00"
+  },
+  {
    "id": "f5907297fdeb",
    "title": "SEC, FSA Hold Autumn Financial Regulatory Dialogue",
    "link": "https://www.sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue",
@@ -158,7 +433,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Timmy Teepell’s firm paid $250,000 by America Next, which has been trying to gin up ‘organic’ opposition to El-Sayed Man who heckled El-Sayed is former Josh Hawley aide, records show The man who attempted to ambush Democratic Senate candidate Abdul El-Sayed with a question…",
+   "summary": "Timmy Teepell’s firm paid $250,000 by America Next, which has been trying to gin up ‘organic’ opposition to El-Sayed Man who heckled El-Sayed is former Josh Hawley aide, records show The man who attempted to ambush the Democratic Senate candidate Abdul El-Sayed with a question…",
    "published": "2026-10-20T12:45:48+00:00"
   },
   {
@@ -173,26 +448,15 @@
    "published": "2026-10-20T12:45:43+00:00"
   },
   {
-   "id": "2e829d8824e8",
-   "title": "Trump continues midterm campaign blitz in North Carolina – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
-   "source": "The Guardian World",
+   "id": "7e0cb80a28fe",
+   "title": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
+   "link": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "President to stump for Michael Whatley, who is facing an uphill battle against Democrat Roy Cooper for the Senate, as elections are just two weeks away Sign up for the Breaking News US email Also today, Trump will begin his day in Washington. He and vice-president JD Vance will…",
-   "published": "2026-10-20T12:45:38+00:00"
-  },
-  {
-   "id": "c949915ebbb0",
-   "title": "Ban on family visits to care homes at start of pandemic had ‘devastating consequences’, inquiry finds – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Heather Hallett, chair of the Covid inquiry, has just published the report from the inquiry’s module 6, looking at what happened in care homes Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage…",
-   "published": "2026-10-20T12:38:11+00:00"
+   "summary": "Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran.",
+   "published": "2026-10-20T12:37:06+00:00"
   },
   {
    "id": "5ecb5ba802c4",
@@ -202,19 +466,8 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Use of tools ‘may result in the transfer of sensitive data to (China)’, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from Chinese startup DeepSeek , as the countries race for dominance in the…",
+   "summary": "Use of tools ‘may result in the transfer of sensitive data’ to China, defense department says The US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from the Chinese startup DeepSeek , as the countries race for dominance in the…",
    "published": "2026-10-20T12:33:27+00:00"
-  },
-  {
-   "id": "0c8bc98fb895",
-   "title": "Italy poised to approve tougher security measures in response to protests – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Italy’s deputy prime minister said police will be able to detain under-18s for 12 hours, even if they have not committed a crime Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr Støre…",
-   "published": "2026-10-20T12:33:20+00:00"
   },
   {
    "id": "d70bb15a8a9c",
@@ -272,15 +525,15 @@
    "published": "2026-10-20T12:10:00+00:00"
   },
   {
-   "id": "0420afff2ca1",
-   "title": "Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence",
-   "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+   "id": "82c3ec01485f",
+   "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+   "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence.",
-   "published": "2026-10-20T12:08:41+00:00"
+   "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+   "published": "2026-10-20T12:08:06+00:00"
   },
   {
    "id": "9d6ef96d6034",
@@ -941,17 +1194,6 @@
    "flourishing_feed": false,
    "summary": "Most voters in the Canadian province of Alberta have rejected a proposal to hold a referendum on independence.",
    "published": "2026-10-20T09:42:04+00:00"
-  },
-  {
-   "id": "53edf89bc9aa",
-   "title": "My unmarried partner of 17 years left me his $1.1 million home. His three children are livid. Should I share my inheritance?",
-   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
-   "published": "2026-10-20T09:30:00+00:00"
   },
   {
    "id": "bacdf2874d4e",
@@ -2824,17 +3066,6 @@
    "published": "2026-10-19T19:57:10+00:00"
   },
   {
-   "id": "975fa4d57384",
-   "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
-   "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“Computer science isn’t the ticket to the American dream like people thought it was.”",
-   "published": "2026-10-19T19:56:00+00:00"
-  },
-  {
    "id": "aa8f445169ad",
    "title": "One killed in US shooting near mosque in Columbus, Ohio",
    "link": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
@@ -4010,17 +4241,6 @@
    "flourishing_feed": false,
    "summary": "Displaced families in Gaza fear worsening food insecurity as planned aid cuts coincide with continued restrictions.",
    "published": "2026-10-19T15:05:16+00:00"
-  },
-  {
-   "id": "2d63366bf522",
-   "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
-   "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-   "published": "2026-10-19T15:00:00+00:00"
   },
   {
    "id": "e820ae48ec1d",
@@ -11147,7 +11367,7 @@
    "circle_hint": "state",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Sycamore Sewing Co. aims to provide quality fabric at an affordable price The post Meet the family behind Irvington’s new sewing shop appeared first on Mirror Indy .",
+   "summary": "Sycamore Sewing Co. aims to provide quality fabric at an affordable price. The post Meet the family behind Irvington’s new sewing shop appeared first on Mirror Indy .",
    "published": "2026-10-16T20:35:32+00:00"
   },
   {
