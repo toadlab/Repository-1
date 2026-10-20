@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T14:48:11.260793+00:00",
+ "generated": "2026-10-20T15:45:54.747307+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "name": "Federal Register: IRS",
@@ -129,6 +129,281 @@
  ],
  "items": [
   {
+   "id": "b69facee453c",
+   "title": "United Airlines CEO Calls for New Taxes on Wealth and Inheritances: What That Would Mean for Your Money",
+   "link": "https://www.kiplinger.com/taxes/united-airlines-ceo-calls-for-new-taxes-on-wealth-and-inheritances",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Scott Kirby's comments on a national wealth tax and a near-100 % wealth and inheritance tax come as states debate new taxes on the wealthy.",
+   "published": "2026-10-20T15:41:00+00:00"
+  },
+  {
+   "id": "0420afff2ca1",
+   "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+   "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
+   "published": "2026-10-20T15:39:04+00:00"
+  },
+  {
+   "id": "1fd9c39ef62e",
+   "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
+   "link": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Four in 10 home builders are cutting prices to boost demand, even as they face rising construction costs.",
+   "published": "2026-10-20T15:35:00+00:00"
+  },
+  {
+   "id": "088f736f2929",
+   "title": "Ban ‘intrusive’ cameras on mental health wards in England, say bereaved families",
+   "link": "https://www.theguardian.com/society/2026/oct/20/ban-intrusive-cameras-mental-health-wards-england-bereaved-families",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Lawyers tell inquiry ‘patients’ lives are at stake’ through improper use of Oxevision system for most vulnerable Families bereaved by the misuse of an “intrusive” camera monitoring system for vulnerable patients used in half of England’s mental health wards, have called for it…",
+   "published": "2026-10-20T15:32:52+00:00"
+  },
+  {
+   "id": "4b8edebc9776",
+   "title": "Suspect arrested after historic town hall set alight - French media",
+   "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+   "published": "2026-10-20T15:31:51+00:00"
+  },
+  {
+   "id": "c949915ebbb0",
+   "title": "Former Bank of England chief economist says Tory growth policies ‘far more likely to succeed’ than Labour’s – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Andy Haldane writes that Conservative economic plans would be best for growth ahead of Healey budget Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation, enterprise.…",
+   "published": "2026-10-20T15:28:59+00:00"
+  },
+  {
+   "id": "c8aa790019fa",
+   "title": "Salesforce’s stock falls as investors chafe at the cost of latest AI purchase",
+   "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "An analyst calls it “a bit odd” that Salesforce plans to buy Braze at such a high premium to its recent stock price.",
+   "published": "2026-10-20T15:27:00+00:00"
+  },
+  {
+   "id": "2e829d8824e8",
+   "title": "Trump continues midterm campaign blitz in North Carolina – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President to stump for Michael Whatley, who is facing an uphill battle against Democrat Roy Cooper for the Senate, as elections are just two weeks away Sign up for the Breaking News US email Representative Eugene Vindman , the Democratic congressman from Virginia, has slammed…",
+   "published": "2026-10-20T15:24:38+00:00"
+  },
+  {
+   "id": "45bb5c89f2e2",
+   "title": "Eastern Libya parliament approves 2019 maritime deal with Turkiye",
+   "link": "https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The vote recognises Ankara's maritime deal with Tripoli, ending Haftar's 2020 boycott.",
+   "published": "2026-10-20T15:19:17+00:00"
+  },
+  {
+   "id": "0c8bc98fb895",
+   "title": "France to deploy military forces during expected weekend protests – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Interior minister confirms military to reinforce police as Italy poised to approve tougher security measures in response to protests Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr…",
+   "published": "2026-10-20T15:18:31+00:00"
+  },
+  {
+   "id": "07e8a595b014",
+   "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+   "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
+   "published": "2026-10-20T15:17:00+00:00"
+  },
+  {
+   "id": "b08c2177a62e",
+   "title": "New Yorkers Don't Compost. Will They Be Fined Into Compliance?",
+   "link": "https://reason.com/video/2026/10/20/new-yorkers-dont-compost-will-they-be-fined-into-compliance/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The city mandates composting, but New Yorkers don’t like to be told what to do with their garbage—and don't seem all that clear on the rules in the first place.",
+   "published": "2026-10-20T15:15:35+00:00"
+  },
+  {
+   "id": "19644e6bf1c1",
+   "title": "The surprising conservative backlash against Justice Alito",
+   "link": "https://www.vox.com/politics/506990/supreme-court-samuel-alito-originalism-conservative-backlash",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Justice Samuel Alito’s new book, So Ordered: An Originalist’s View of the Constitution, the Court, and Our Country, isn’t going to set the world on fire with its bold new ideas. It’s mostly a collection of Alito’s old speeches. But if the book treads familiar ground, the…",
+   "published": "2026-10-20T15:10:00+00:00"
+  },
+  {
+   "id": "fe0293c91d9f",
+   "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
+   "link": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Government forces launch major offensives across multiple Yemeni front lines as a tightening blockade threatens Taiz.",
+   "published": "2026-10-20T15:02:34+00:00"
+  },
+  {
+   "id": "d418fb14df10",
+   "title": "The Pros and Cons of Investing in an IPO (Plus, How to Do It)",
+   "link": "https://www.kiplinger.com/investing/ipos/the-pros-and-cons-of-investing-in-an-ipo-plus-how-to-do-it",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "IPOs are an enticing way to gain exposure to a stock from the ground up, but high rewards come with high risk. Here's what you need to know before investing.",
+   "published": "2026-10-20T15:02:09+00:00"
+  },
+  {
+   "id": "5cb97bd18534",
+   "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
+   "link": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Contract signings to purchase homes fell in September to the lowest level on record, as buyers fled the housing market in the wake of the average 30-year mortgage rate crossing over 7%.",
+   "published": "2026-10-20T15:01:00+00:00"
+  },
+  {
+   "id": "87d499acd7c2",
+   "title": "Vast Beatles museum, hailed as ‘extraordinary’ by Paul McCartney, to open in Liverpool in 2028",
+   "link": "https://www.theguardian.com/music/2026/oct/20/vast-beatles-museum-hailed-as-extraordinary-by-paul-mccartney-to-open-in-liverpool-in-2028",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "City’s Beatles Story museum to move to 100,000 sq ft new home and official ownership, along with Yellow Submarine makeover of Liverpool’s second-tallest building Liverpool is to unveil a new 100,000 sq ft visitor attraction about the Beatles, in plans hailed as “extraordinary”…",
+   "published": "2026-10-20T15:00:38+00:00"
+  },
+  {
+   "id": "2f16fddd9766",
+   "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+   "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+   "published": "2026-10-20T15:00:00+00:00"
+  },
+  {
+   "id": "06eeb2966e3e",
+   "title": "Take the Celebrity Estate Planning Quiz: Are You Sting, Shaq or Elton?",
+   "link": "https://www.kiplinger.com/puzzles/quizzes/celebrity-estate-planning-quiz-are-you-sting-shaq-or-elton",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Answer 7 quick questions to uncover which iconic approach to passing down wealth matches your personal philosophy.",
+   "published": "2026-10-20T15:00:00+00:00"
+  },
+  {
+   "id": "83db84f23136",
+   "title": "‘We really need help’: RSPCA faces capacity crisis as cats arrive faster than they can be rehomed",
+   "link": "https://www.theguardian.com/lifeandstyle/2026/oct/20/rspca-capacity-crisis-cats-arrive-faster-rehomed",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "About 20,000 cats were taken into charity’s care last year, an increase driven in part by pet hoarders There is a cat crisis in rescue centres across the country, the RSPCA has said, as abandoned felines now outnumber dogs in the charity’s shelters. Cats are arriving in RSPCA…",
+   "published": "2026-10-20T14:59:55+00:00"
+  },
+  {
+   "id": "d92d8a0248dd",
+   "title": "25-02194.pdf",
+   "link": "https://www.finra.org/node/390711",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "25-02194.pdf Anonymous (not verified) Tue, 10/20/2026 - 10:55 Case ID 25-02194 Forum FINRA Document Type Award Claimants Ralph Jackson Respondents Morgan Stanley UBS Financial Services Inc. Citigroup Global Markets, Inc. Neutrals Seth L. Finkel Constance Ellen Boukidis Rosa…",
+   "published": "2026-10-20T14:55:02+00:00"
+  },
+  {
+   "id": "51e73ef32aae",
+   "title": "BBC Three and BBC Scotland TV channels to be shut down next year",
+   "link": "https://www.theguardian.com/media/2026/oct/20/bbc-three-and-bbc-scotland-tv-channels-to-be-shut-down",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Corporation announces broadcast closures and job losses in effort to find savings of £500m UK politics live – latest updates Television channels BBC Three and BBC Scotland are to close and the Radio 4 Extra radio station will be scrapped, as part of the corporation’s drive to…",
+   "published": "2026-10-20T14:54:59+00:00"
+  },
+  {
+   "id": "0364c0d0cedf",
+   "title": "Is your annuity really guaranteed? Read this before you buy one.",
+   "link": "https://www.marketwatch.com/story/is-your-annuity-really-guaranteed-read-this-before-you-buy-one-4664fc44?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The payout of the annuity you just bought or renewed may be less than advertised, so there are questions you can ask before you sign anything to make sure what you’ll get.",
+   "published": "2026-10-20T14:51:00+00:00"
+  },
+  {
+   "id": "ab9ddf83acee",
+   "title": "25-01754.pdf",
+   "link": "https://www.finra.org/node/390706",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "25-01754.pdf Anonymous (not verified) Tue, 10/20/2026 - 10:50 Case ID 25-01754 Forum FINRA Document Type Award Claimants Stuart Spivak Respondents LPL Financial LLC Centaurus Financial, Inc. MML Investors Services, LLC Neutrals Lise Gabrielle Hunter Nanci Sondra Landy Brett…",
+   "published": "2026-10-20T14:50:01+00:00"
+  },
+  {
+   "id": "1af424025a6f",
+   "title": "25-00985.pdf",
+   "link": "https://www.finra.org/node/390701",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "25-00985.pdf Anonymous (not verified) Tue, 10/20/2026 - 10:50 Case ID 25-00985 Forum FINRA Document Type Award Claimants Marvin Hardiman Respondents Fidelity Brokerage Services LLC Neutrals Jerome F. Crotty Daniel R. Formeller Rebecca J Wing Hearing Site Chicago, IL Award…",
+   "published": "2026-10-20T14:50:01+00:00"
+  },
+  {
    "id": "0521221e76a1",
    "title": "Fans Don't Want a 24-Team College Football Playoff. The NCAA Thinks You'll Watch Anyway.",
    "link": "https://reason.com/2026/10/20/fans-dont-want-a-24-team-college-football-playoff-the-ncaa-thinks-youll-watch-anyway/",
@@ -140,6 +415,28 @@
    "published": "2026-10-20T14:45:57+00:00"
   },
   {
+   "id": "ed3ae6ed9821",
+   "title": "Alberta rejects separation referendum: What’s next for Canadian province?",
+   "link": "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Calls for independence intensified last year, with some 300,000 petitioning officials for a referendum.",
+   "published": "2026-10-20T14:42:47+00:00"
+  },
+  {
+   "id": "a70dc0339496",
+   "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
+   "link": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.",
+   "published": "2026-10-20T14:39:50+00:00"
+  },
+  {
    "id": "e434486f9892",
    "title": "Here’s why GM’s stock is having its worst day in over a year",
    "link": "https://www.marketwatch.com/story/heres-why-gms-stock-is-having-its-worst-day-in-over-a-year-072c4366?mod=mw_rss_topstories",
@@ -149,17 +446,6 @@
    "flourishing_feed": false,
    "summary": "The automaker lowered its full-year profit expectations as it plans to pause some truck production.",
    "published": "2026-10-20T14:35:00+00:00"
-  },
-  {
-   "id": "0c8bc98fb895",
-   "title": "France to deploy military forces during expected weekend protests – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Interior minister confirms military to reinforce police as Italy poised to approve tougher security measures in response to protests Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr…",
-   "published": "2026-10-20T14:31:30+00:00"
   },
   {
    "id": "19d6df588d40",
@@ -217,28 +503,6 @@
    "published": "2026-10-20T14:24:19+00:00"
   },
   {
-   "id": "c949915ebbb0",
-   "title": "Former Bank of England chief economist says Tory growth policies ‘far more likely to succeed’ than Labour’s – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Andy Haldane writes that Conservative economic plans would be best for growth ahead of Healey budget Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation, enterprise.…",
-   "published": "2026-10-20T14:24:08+00:00"
-  },
-  {
-   "id": "2e829d8824e8",
-   "title": "Trump continues midterm campaign blitz in North Carolina – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President to stump for Michael Whatley, who is facing an uphill battle against Democrat Roy Cooper for the Senate, as elections are just two weeks away Sign up for the Breaking News US email Volodymyr Zelenskyy said that he had a “substantive conversation” with US secretary of…",
-   "published": "2026-10-20T14:16:31+00:00"
-  },
-  {
    "id": "a22594a33610",
    "title": "Should you dump your target-date funds when you retire?",
    "link": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
@@ -281,17 +545,6 @@
    "flourishing_feed": false,
    "summary": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
    "published": "2026-10-20T14:09:42+00:00"
-  },
-  {
-   "id": "5cb97bd18534",
-   "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
-   "link": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Contract signings to purchase homes fell in September to the lowest level on record, as buyers fled the housing market in the wake of the average 30-year mortgage rate crossing over 7%.",
-   "published": "2026-10-20T14:06:00+00:00"
   },
   {
    "id": "ab7bb0d22f7e",
@@ -382,17 +635,6 @@
    "published": "2026-10-20T13:51:59+00:00"
   },
   {
-   "id": "0420afff2ca1",
-   "title": "Zelensky and US envoys to hold Oslo talks as Rubio denies withholding intelligence",
-   "link": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence.",
-   "published": "2026-10-20T13:51:40+00:00"
-  },
-  {
    "id": "656aef85986d",
    "title": "CFA Final Pass Rate Falls to 47%, Staying Below Historic Average",
    "link": "https://www.wealthmanagement.com/professional-development/cfa-final-pass-rate-falls-to-47-staying-below-historic-average",
@@ -402,17 +644,6 @@
    "flourishing_feed": false,
    "summary": "Test-takers who delay their exams have a much lower chance of success",
    "published": "2026-10-20T13:49:46+00:00"
-  },
-  {
-   "id": "c8aa790019fa",
-   "title": "Salesforce gets a chilly investor response to a $6 billion deal at a 58% premium",
-   "link": "https://www.marketwatch.com/story/salesforce-gets-a-chilly-investor-response-to-a-6-billion-deal-at-a-58-premium-57bd260b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Salesforce said on Tuesday that it is making a nearly $6 billion acquisition at a 58% premium, but Wall Street’s response was frosty.",
-   "published": "2026-10-20T13:48:00+00:00"
   },
   {
    "id": "a1229a65a930",
@@ -435,17 +666,6 @@
    "flourishing_feed": false,
    "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
    "published": "2026-10-20T13:45:00+00:00"
-  },
-  {
-   "id": "51e73ef32aae",
-   "title": "BBC Three and BBC Scotland TV channels to be shut down next year",
-   "link": "https://www.theguardian.com/media/2026/oct/20/bbc-three-and-bbc-scotland-tv-channels-to-be-shut-down",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Corporation announces broadcast closures and job losses in effort to find savings of £500m UK politics live – latest updates Television channels BBC Three and BBC Scotland are to close and the Radio 4 Extra radio station will be scrapped, as part of the corporation’s continuing…",
-   "published": "2026-10-20T13:40:06+00:00"
   },
   {
    "id": "71d4b31668c1",
@@ -677,17 +897,6 @@
    "flourishing_feed": false,
    "summary": "Timmy Teepell’s firm paid $250,000 by America Next, which has been trying to gin up ‘organic’ opposition to El-Sayed Man who heckled El-Sayed is former Josh Hawley aide, records show The man who attempted to ambush the Democratic Senate candidate Abdul El-Sayed with a question…",
    "published": "2026-10-20T12:45:48+00:00"
-  },
-  {
-   "id": "4b8edebc9776",
-   "title": "Suspect arrested after historic town hall set alight - French media",
-   "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
-   "published": "2026-10-20T12:45:43+00:00"
   },
   {
    "id": "7e0cb80a28fe",
@@ -1271,17 +1480,6 @@
    "flourishing_feed": false,
    "summary": "While there are some points of division in our country about race, there are also points of commonality and intersectionality. There are experiences that unite Americans, that galvanize us and bring us hope. They are something we can all celebrate. One such experience is the…",
    "published": "2026-10-20T10:00:01+00:00"
-  },
-  {
-   "id": "2f16fddd9766",
-   "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-   "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
-   "published": "2026-10-20T10:00:00+00:00"
   },
   {
    "id": "22a180a8989a",
@@ -2083,7 +2281,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Sen. John Curtis said all ideas should be on the table when it comes to saving the Great Salt Lake during the Sutherland Institute’s 2026 Congressional Series at the Hinkley Institute of Politics on Monday. The problem doesn’t come down to one issue — not just data centers,…",
+   "summary": "Sen. John Curtis said all ideas should be on the table when it comes to saving the Great Salt Lake during the Sutherland Institute’s 2026 Congressional Series at the Hinckley Institute of Politics on Monday. The problem doesn’t come down to one issue — not just data centers,…",
    "published": "2026-10-20T03:39:35+00:00"
   },
   {
@@ -4669,17 +4867,6 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "True financial wisdom requires stepping back from headline news to balance the genuine risks with your own long-term perspective.",
-   "published": "2026-10-19T14:00:00+00:00"
-  },
-  {
-   "id": "1fd9c39ef62e",
-   "title": "Builders slash prices on new homes as buyer traffic drops to 14-year low",
-   "link": "https://www.marketwatch.com/story/builders-slash-prices-on-new-homes-as-buyer-traffic-drops-to-14-year-low-3dd8caea?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Four in 10 home builders are cutting prices to boost demand, even as they face rising construction costs.",
    "published": "2026-10-19T14:00:00+00:00"
   },
   {
@@ -8408,7 +8595,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Monday, Oct. 19, 2026 TELEVISION GOLF Abilene Christian Intercollegiate, GOLF, 2 p.m. MLB Guardians at Rays, TBS, 6 p.m. NFL Commanders at 49ers, ABC/ESPN, 6:15 p.m. NHL Penguins at Mammoth, Utah 16, 7 p.m. SOCCER Tottenham vs. Coventry, USA, 1 p.m. WNBA Dream at Valkyries,…",
+   "summary": "Tuesday, Oct. 20, 2026 TELEVISION FOOTBALL Missouri St. at Delaware, ESPNU, 5 p.m. MTSU at FIU, CBSSN, 5 p.m. South Alabama at Marshall, ESPN2, 5:30 p.m. GOLF Abilene Christian Intercollegiate, GOLF, 2 p.m. NBA Celtics at Pistons, NBC, 1 p.m. 76ers at Knicks, NBC, 5 p.m.…",
    "published": "2026-10-18T06:00:00+00:00"
   },
   {
