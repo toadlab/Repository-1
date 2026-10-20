@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T15:45:54.747307+00:00",
+ "generated": "2026-10-20T16:46:07.201116+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 34
+   "count": 36
   },
   {
    "name": "The Guardian World",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Federal Register: IRS",
@@ -129,15 +129,147 @@
  ],
  "items": [
   {
-   "id": "b69facee453c",
-   "title": "United Airlines CEO Calls for New Taxes on Wealth and Inheritances: What That Would Mean for Your Money",
-   "link": "https://www.kiplinger.com/taxes/united-airlines-ceo-calls-for-new-taxes-on-wealth-and-inheritances",
-   "source": "Kiplinger",
+   "id": "d0190f544a79",
+   "title": "Using AI to Deepen Advisor-Client Relationships at Scale",
+   "link": "https://www.wealthmanagement.com/client-relations/using-ai-to-deepen-advisor-client-relationships-at-scale",
+   "source": "WealthManagement.com",
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "Scott Kirby's comments on a national wealth tax and a near-100 % wealth and inheritance tax come as states debate new taxes on the wealthy.",
-   "published": "2026-10-20T15:41:00+00:00"
+   "summary": "AI may give advisors a new way to scale personalization without losing the human connection that builds trust.",
+   "published": "2026-10-21T04:22:33+00:00"
+  },
+  {
+   "id": "8c4b63a678b6",
+   "title": "Selena Gomez says vaping changed her voice",
+   "link": "https://www.deseret.com/entertainment/2026/10/20/selena-gomez-says-vaping-changed-her-voice-tells-fans-to-avoid-vaping/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Selena Gomez said vaping nicotine changed the sound of her voice, and urged fans to avoid e-cigarettes. “I’m not going to be able to change my voice,” Gomez said in an Instagram post Sunday. “I vaped nicotine a lot.” “Nicotine is so hard to quit, and I think I just wanted to…",
+   "published": "2026-10-20T16:35:27+00:00"
+  },
+  {
+   "id": "e1097eb351ee",
+   "title": "New in SCOTUSBlog: \"The separation and expansion of powers between Congress and the president\"",
+   "link": "https://reason.com/volokh/2026/10/20/new-in-scotusblog-the-separation-and-expansion-of-powers-between-congress-and-the-president/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Our final installment to track the changes in constitutional law.",
+   "published": "2026-10-20T16:28:06+00:00"
+  },
+  {
+   "id": "2bd3e169bfc4",
+   "title": "Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list?",
+   "link": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it's challenging but not \"daunting.\"",
+   "published": "2026-10-20T16:27:01+00:00"
+  },
+  {
+   "id": "1f092a143c86",
+   "title": "Prince Harry says he wants to reconcile with Charles and William",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/20/prince-harry-says-he-wants-to-reconcile-with-charles-and-william",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Duke of Sussex says ‘there’s enough drama in the world’ without continuing to have issues with family The Duke of Sussex wants to repair his difficult relationship with his father and brother, he has said. Speaking to GQ magazine in New York , Prince Harry said of his…",
+   "published": "2026-10-20T16:26:51+00:00"
+  },
+  {
+   "id": "2f16fddd9766",
+   "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+   "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+   "published": "2026-10-20T16:25:00+00:00"
+  },
+  {
+   "id": "19ea2217606a",
+   "title": "Alberta voters reject plan for referendum to leave Canada",
+   "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions…",
+   "published": "2026-10-20T16:24:05+00:00"
+  },
+  {
+   "id": "4a5f3847fa4c",
+   "title": "55ip Expands UMA Capabilities for RIAs",
+   "link": "https://www.wealthmanagement.com/smas/55ip-expands-uma-capabilities-for-ria-advisors",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The J.P. Morgan subsidiary now offers managed and custom model portfolios, plus equity SMAs, in a UMA for RIAs.",
+   "published": "2026-10-20T16:23:43+00:00"
+  },
+  {
+   "id": "8865755d36a2",
+   "title": "Is Cyprus becoming Israel’s backyard?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_is-cyprus-becoming-israels-backyard-201026?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Israeli capital, water technology, and real estate are making Cyprus a strategic and economic extension of Israel.",
+   "published": "2026-10-20T16:23:12+00:00"
+  },
+  {
+   "id": "6a8067f9fc61",
+   "title": "Qatar says only negotiations can resolve regional tensions",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Qatar says diplomatic efforts are ongoing to de-escalate regional tensions and reopen the Strait of Hormuz.",
+   "published": "2026-10-20T16:21:01+00:00"
+  },
+  {
+   "id": "2e829d8824e8",
+   "title": "House Democrat accuses Rubio and Trump of ‘lying’ about Ukraine intelligence as president continues campaigning – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Eugene Vindman, armed services committee member, says president and secretary of state are ‘gaslighting’ over intelligence sharing as Trump heads to North Carolina Sign up for the Breaking News US email Send us your questions about immigration and the midterms The man who…",
+   "published": "2026-10-20T16:15:58+00:00"
+  },
+  {
+   "id": "45712d89e448",
+   "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
+   "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Government planning tougher security measures as France also says military forces will be deployed Why are people protesting across Europe? Italy’s government is sending 500 soldiers to Milan as it vowed a “firm response from the state” after protests against the high cost of…",
+   "published": "2026-10-20T16:13:25+00:00"
+  },
+  {
+   "id": "ac8fcf03bd2c",
+   "title": "Ferry catches fire near Indonesian port, all passengers rescued",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ferry-catches-fire-near-indonesian-port-all-passengers-rescued?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A fire broke out aboard the KMP Batumandi as the ferry approached Merak Port in western Indonesia on Tuesday",
+   "published": "2026-10-20T16:13:16+00:00"
   },
   {
    "id": "0420afff2ca1",
@@ -148,7 +280,271 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
-   "published": "2026-10-20T15:39:04+00:00"
+   "published": "2026-10-20T16:11:56+00:00"
+  },
+  {
+   "id": "d18155f137a2",
+   "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
+   "link": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure at an iconic Las Vegas hotel. Prosecutors…",
+   "published": "2026-10-20T16:11:21+00:00"
+  },
+  {
+   "id": "ff7e710f6a2d",
+   "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+   "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+   "published": "2026-10-20T16:09:54+00:00"
+  },
+  {
+   "id": "2422d6f2249a",
+   "title": "Once on the brink of extinction, sand tiger sharks are rebounding in Boston Harbor",
+   "link": "https://www.csmonitor.com/Environment/2026/1020/sand-tiger-sharks-boston-harbor?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Scientists are studying a growing sand tiger shark population that spends summers in Boston Harbor.",
+   "published": "2026-10-20T16:08:01+00:00"
+  },
+  {
+   "id": "4b8edebc9776",
+   "title": "Suspect arrested after historic town hall set alight - French media",
+   "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+   "published": "2026-10-20T16:06:39+00:00"
+  },
+  {
+   "id": "61212d5ce8d2",
+   "title": "Deseret News archives: MacArthur promised he would return; he did on this day in 1944",
+   "link": "https://www.deseret.com/utah/2024/10/20/deseret-news-archives-mcarthur-said-he-would-return-he-did-in-1944/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Editor’s note: This story was originally published on Oct. 20, 2024. A look back at local, national and world events through Deseret News archives. On Oct. 20, 1944, Gen. Douglas MacArthur returned to the Philippines during the Battle of Leyte in World War II, fulfilling a…",
+   "published": "2026-10-20T16:03:37+00:00"
+  },
+  {
+   "id": "610d50884f0a",
+   "title": "Trump official claims record-breaking 300,000 visas were revoked",
+   "link": "https://www.aljazeera.com/news/2026/10/20/trump-official-claims-record-breaking-300000-visas-were-revoked?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The revocations targeted US visa holders who had allegedly broken the law, a spokesperson said.",
+   "published": "2026-10-20T16:02:47+00:00"
+  },
+  {
+   "id": "ed7473f0529d",
+   "title": "The European Union Wants To Punish People for Their Speech—Without Even a Trial",
+   "link": "https://reason.com/2026/10/20/the-european-union-wants-to-punish-people-for-their-speech-without-even-a-trial/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Authorities are claiming draconian powers against Hüseyin Doğru, a German journalist accused of spreading Russian propaganda.",
+   "published": "2026-10-20T16:02:17+00:00"
+  },
+  {
+   "id": "214d754e65df",
+   "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+   "link": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Moscow pledges support to its sanctioned ally, but analysts say the war Iran wants to end has filled Russia’s coffers.",
+   "published": "2026-10-20T16:01:01+00:00"
+  },
+  {
+   "id": "7d63ea06bec7",
+   "title": "Residents fear wild coyote becoming too comfortable in LA neighborhood",
+   "link": "https://www.theguardian.com/us-news/2026/oct/20/atwater-village-coyote-attacks-los-angeles",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A coyote, that has reportedly been roaming the trendy Atwater Village for months, attacked a one-year-old boy One Los Angeles neighborhood has been at war over a wild coyote, and over the weekend it all came to a head. For months, the animal had been roaming the trendy Atwater…",
+   "published": "2026-10-20T16:00:39+00:00"
+  },
+  {
+   "id": "e65cba0126de",
+   "title": "PSG vs Barcelona LIVE: Champions League",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/20/psg-vs-barcelona-live-champions-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Follow updates from the league-stage clash, including the build-up, analysis and live text commentary of the game.",
+   "published": "2026-10-20T16:00:00+00:00"
+  },
+  {
+   "id": "7fe058073e7c",
+   "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+   "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
+   "published": "2026-10-20T15:58:57+00:00"
+  },
+  {
+   "id": "5799b8573847",
+   "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
+   "link": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Simon King of Saturna Capital names two stocks tied to base metals, for investors who want to look beyond the beaten path for AI-related trades.",
+   "published": "2026-10-20T15:58:00+00:00"
+  },
+  {
+   "id": "c7ec3e118fd3",
+   "title": "Does the Big 12 have the best collection of basketball coaches? What to know about every coach in the conference",
+   "link": "https://www.deseret.com/sports/2026/10/20/big-12-basketball-coaches-what-to-know/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "KANSAS CITY — The Big 12 has an impressive basketball reputation — and so do its coaches. With the conference hosting its media days in Kansas City this week, the league’s 16 head coaches will take the stage to preview the upcoming season and talk up their teams. Whether…",
+   "published": "2026-10-20T15:57:52+00:00"
+  },
+  {
+   "id": "747c078bc4b8",
+   "title": "‘You have to sacrifice’: Trump voters stay loyal as US midterms approach",
+   "link": "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Rising economic pain confronting US voters has not translated into a loss of faith among Trump’s most loyal supporters.",
+   "published": "2026-10-20T15:57:47+00:00"
+  },
+  {
+   "id": "782a14d8a2a4",
+   "title": "Opinion: What do we owe the next generation of Jewish children?",
+   "link": "https://www.deseret.com/opinion/2026/10/20/what-do-we-owe-jewish-children/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "I recently learned of a new Jewish day school that is being planned in Boston , and I am deeply troubled by what its founders hope to do. The new school, Achvat Olam, says it plans to teach Jewish texts, traditions and history while deliberately reducing the place of the modern…",
+   "published": "2026-10-20T15:54:21+00:00"
+  },
+  {
+   "id": "b28c43569d10",
+   "title": "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
+   "link": "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Research can prove a lot of facts, but that doesn’t mean it changes how people act.",
+   "published": "2026-10-20T15:54:00+00:00"
+  },
+  {
+   "id": "c949915ebbb0",
+   "title": "Covid inquiry report shows why culture of care workers being undervalued must end, says Andy Burnham – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The prime minister endorses report that says the adult social care sector has been under-recognised Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation, enterprise.…",
+   "published": "2026-10-20T15:52:34+00:00"
+  },
+  {
+   "id": "21f8f122ebf8",
+   "title": "Mercer Completes Rollout of Aspen Investing Platform",
+   "link": "https://www.wealthmanagement.com/advisor-support-platforms/mercer-completes-rollout-of-aspen-investing-platform",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The RIA now gives advisors a unified dashboard for portfolio construction, private markets access and tax management across more than 43,000 client accounts.",
+   "published": "2026-10-20T15:48:34+00:00"
+  },
+  {
+   "id": "863c0ba4b174",
+   "title": "‘Not getting involved’: US Vice President refuses to endorse Netanyahu",
+   "link": "https://www.aljazeera.com/news/2026/10/20/not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "JD Vance's comments follow Donald Trump's backing of Israeli prime minister ahead of October 27 elections.",
+   "published": "2026-10-20T15:46:30+00:00"
+  },
+  {
+   "id": "a6390fdb63a3",
+   "title": "Alberta votes overwhelmingly to remain part of Canada",
+   "link": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The vote has been hailed by Prime Minister Mark Carney as \"a clear choice\" in favour of national unity.",
+   "published": "2026-10-20T15:45:24+00:00"
+  },
+  {
+   "id": "10330c8fd9f8",
+   "title": "Why RFK Jr.’s anti-vax agenda might make eggs more expensive this winter",
+   "link": "https://www.vox.com/future-perfect/506937/bird-flu-vaccination-poultry-rfk-usda",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "If egg prices surge this winter, one of the main drivers will likely be H5N1, or bird flu. Since 2022, it’s decimated the US poultry industry, resulting in the deaths of over 160 million egg-laying hens. And when there are fewer hens, there are fewer eggs, which leads to…",
+   "published": "2026-10-20T15:45:00+00:00"
+  },
+  {
+   "id": "0420ef42aece",
+   "title": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+   "link": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody it To Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential…",
+   "published": "2026-10-20T15:41:44+00:00"
+  },
+  {
+   "id": "a12e5c83b4bb",
+   "title": "How New Information Technology Affects Asset Pricing Anomalies",
+   "link": "https://www.wealthmanagement.com/investing-strategies/how-new-information-technology-affects-asset-pricing-anomalies",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The degree to which information is incorporated into asset prices is inversely related to the cost of acquiring that information.",
+   "published": "2026-10-20T15:41:22+00:00"
+  },
+  {
+   "id": "b69facee453c",
+   "title": "United Airlines CEO Calls for New Taxes on Wealth and Inheritances: What That Would Mean for Your Money",
+   "link": "https://www.kiplinger.com/taxes/united-airlines-ceo-calls-for-new-taxes-on-wealth-and-inheritances",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Scott Kirby's comments on a national wealth tax and a near-100% inheritance tax come as states debate new taxes on the wealthy.",
+   "published": "2026-10-20T15:41:00+00:00"
   },
   {
    "id": "1fd9c39ef62e",
@@ -163,36 +559,14 @@
   },
   {
    "id": "088f736f2929",
-   "title": "Ban ‘intrusive’ cameras on mental health wards in England, say bereaved families",
+   "title": "Ban ‘intrusive’ cameras in England’s mental health wards, say bereaved families",
    "link": "https://www.theguardian.com/society/2026/oct/20/ban-intrusive-cameras-mental-health-wards-england-bereaved-families",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Lawyers tell inquiry ‘patients’ lives are at stake’ through improper use of Oxevision system for most vulnerable Families bereaved by the misuse of an “intrusive” camera monitoring system for vulnerable patients used in half of England’s mental health wards, have called for it…",
+   "summary": "Lawyers tell inquiry that patients’ lives are at stake through improper use of Oxevision system for most vulnerable Families bereaved by the misuse of an “intrusive” camera monitoring system for vulnerable patients used in half of England’s mental health wards have called for…",
    "published": "2026-10-20T15:32:52+00:00"
-  },
-  {
-   "id": "4b8edebc9776",
-   "title": "Suspect arrested after historic town hall set alight - French media",
-   "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
-   "published": "2026-10-20T15:31:51+00:00"
-  },
-  {
-   "id": "c949915ebbb0",
-   "title": "Former Bank of England chief economist says Tory growth policies ‘far more likely to succeed’ than Labour’s – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Andy Haldane writes that Conservative economic plans would be best for growth ahead of Healey budget Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation, enterprise.…",
-   "published": "2026-10-20T15:28:59+00:00"
   },
   {
    "id": "c8aa790019fa",
@@ -204,17 +578,6 @@
    "flourishing_feed": false,
    "summary": "An analyst calls it “a bit odd” that Salesforce plans to buy Braze at such a high premium to its recent stock price.",
    "published": "2026-10-20T15:27:00+00:00"
-  },
-  {
-   "id": "2e829d8824e8",
-   "title": "Trump continues midterm campaign blitz in North Carolina – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President to stump for Michael Whatley, who is facing an uphill battle against Democrat Roy Cooper for the Senate, as elections are just two weeks away Sign up for the Breaking News US email Representative Eugene Vindman , the Democratic congressman from Virginia, has slammed…",
-   "published": "2026-10-20T15:24:38+00:00"
   },
   {
    "id": "45bb5c89f2e2",
@@ -229,13 +592,13 @@
   },
   {
    "id": "0c8bc98fb895",
-   "title": "France to deploy military forces during expected weekend protests – Europe live",
+   "title": "Zelenskyy to hold press conference after Ukraine-US talks in Oslo – Europe live",
    "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Interior minister confirms military to reinforce police as Italy poised to approve tougher security measures in response to protests Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr…",
+   "summary": "Ukraine’s president is holding talks with US peace envoys Steve Wikoff and Jared Kushner Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr Støre and the Finnish president Alexander…",
    "published": "2026-10-20T15:18:31+00:00"
   },
   {
@@ -314,17 +677,6 @@
    "flourishing_feed": false,
    "summary": "City’s Beatles Story museum to move to 100,000 sq ft new home and official ownership, along with Yellow Submarine makeover of Liverpool’s second-tallest building Liverpool is to unveil a new 100,000 sq ft visitor attraction about the Beatles, in plans hailed as “extraordinary”…",
    "published": "2026-10-20T15:00:38+00:00"
-  },
-  {
-   "id": "2f16fddd9766",
-   "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-   "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
-   "published": "2026-10-20T15:00:00+00:00"
   },
   {
    "id": "06eeb2966e3e",
@@ -492,17 +844,6 @@
    "published": "2026-10-20T14:24:36+00:00"
   },
   {
-   "id": "ff7e710f6a2d",
-   "title": "Sudan army drones hit mourners and fuel market killing more than 200 people, sources say",
-   "link": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
-   "published": "2026-10-20T14:24:19+00:00"
-  },
-  {
    "id": "a22594a33610",
    "title": "Should you dump your target-date funds when you retire?",
    "link": "https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories",
@@ -631,7 +972,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The Married … with Children actor says the news is ‘unnerving’ and ‘really confusing’ Sign up for the Breaking News US newsletter email After becoming a prominent advocate for multiple sclerosis awareness and chronicling her struggles in an emotional memoir published in March,…",
+   "summary": "The Married … With Children actor says the news is ‘unnerving’ and ‘really confusing’ Sign up for the Breaking News US newsletter email After becoming a prominent advocate for multiple sclerosis awareness and chronicling her struggles in an emotional memoir published in March,…",
    "published": "2026-10-20T13:51:59+00:00"
   },
   {
@@ -666,6 +1007,17 @@
    "flourishing_feed": false,
    "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
    "published": "2026-10-20T13:45:00+00:00"
+  },
+  {
+   "id": "f479e70c7fd1",
+   "title": "Huge setback for Alberta's separatist movement after decisive defeat",
+   "link": "https://www.bbc.co.uk/news/articles/cjly016320q1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult.",
+   "published": "2026-10-20T13:39:11+00:00"
   },
   {
    "id": "71d4b31668c1",
@@ -1262,17 +1614,6 @@
    "published": "2026-10-20T11:00:29+00:00"
   },
   {
-   "id": "45712d89e448",
-   "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
-   "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Government planning tougher security measures after protests over high cost of living descend into violence Why are people protesting across Europe? Italy’s government is sending 500 soldiers to Milan as it vowed a “firm response from the state” after protests against the high…",
-   "published": "2026-10-20T11:00:05+00:00"
-  },
-  {
    "id": "a0374d8d1bb2",
    "title": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
    "link": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss",
@@ -1293,17 +1634,6 @@
    "flourishing_feed": false,
    "summary": "Stricken UK water supplier lines up John Hutton as independent chair designate if takeover goes ahead The group of Thames Water creditors pursuing a £10bn rescue deal for Britain’s largest water supplier has lined up a former senior Labour minister to chair the company, as it…",
    "published": "2026-10-20T10:49:23+00:00"
-  },
-  {
-   "id": "10330c8fd9f8",
-   "title": "RFK Jr.’s anti-vax agenda might kill millions of birds this winter",
-   "link": "https://www.vox.com/future-perfect/506937/bird-flu-vaccination-poultry-rfk-usda",
-   "source": "Vox",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "If egg prices surge this winter, one of the main drivers will likely be H5N1, or bird flu. Since 2022, it’s decimated the US poultry industry, resulting in the deaths of over 160 million egg-laying hens. And when there are fewer hens, there are fewer eggs, which leads to…",
-   "published": "2026-10-20T10:45:00+00:00"
   },
   {
    "id": "e60dc72e6c46",
@@ -1656,17 +1986,6 @@
    "flourishing_feed": false,
    "summary": "Victoria police arrested the 43-year-old Tarrawingee man on Monday afternoon after the incident in Wangaratta Who is Helen Haines, the MP allegedly attacked in Victoria? Brendan Nugent’s family say Haines has been their friend for more than 20 years Get our new political email…",
    "published": "2026-10-20T09:18:58+00:00"
-  },
-  {
-   "id": "19ea2217606a",
-   "title": "Alberta voters reject plan for referendum to leave Canada",
-   "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unity Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mark Carney, and supporters of Canadian…",
-   "published": "2026-10-20T09:02:43+00:00"
   },
   {
    "id": "6d5fc2e7f3ff",
@@ -2811,6 +3130,17 @@
    "flourishing_feed": false,
    "summary": "US President Donald Trump blamed immigrants for the unrest in France, claiming Paris would soon become a ‘Muslim city’.",
    "published": "2026-10-19T22:37:19+00:00"
+  },
+  {
+   "id": "8d7083d7765e",
+   "title": "A new poll shows what voters are thinking 2 weeks out from Election Day",
+   "link": "https://www.npr.org/2026/10/19/nx-s1-6007856/a-new-poll-shows-what-voters-are-thinking-2-weeks-out-from-election-day",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Midterm election day is just over two weeks away. What are some numbers on the mind of voters?",
+   "published": "2026-10-19T22:35:59+00:00"
   },
   {
    "id": "d11f9b56a00b",
