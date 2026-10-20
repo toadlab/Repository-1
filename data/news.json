@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T09:45:03.276508+00:00",
+ "generated": "2026-10-20T10:45:13.891618+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "name": "The Guardian World",
@@ -129,15 +129,301 @@
  ],
  "items": [
   {
+   "id": "e60dc72e6c46",
+   "title": "The Most Expensive Midterms Ever",
+   "link": "https://thedispatch.com/newsletter/morning/the-most-expensive-midterms-ever/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Plus: the Justice Department charges 28 Californians with illegal voting, France imposes curfews after a weekend of riots, and jousting (on scooters) is making a comeback.",
+   "published": "2026-10-20T10:37:44+00:00"
+  },
+  {
+   "id": "e1a0dd102c89",
+   "title": "Latter-day Saint leaders dedicate church’s 225th, 226th temples in Idaho, Nicaragua",
+   "link": "https://www.deseret.com/faith/2026/10/20/henry-b-eyring-dedicates-montpelier-idaho-temple/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Senior leaders of The Church of Jesus Christ of Latter-day Saints dedicated new temples in Idaho and Nicaragua on Sunday. President Henry B. Eyring of the First Presidency dedicated the Montpelier Idaho Temple , the church’s 225th, and Elder Ronald A. Rasband of the Quorum of…",
+   "published": "2026-10-20T10:36:05+00:00"
+  },
+  {
    "id": "c949915ebbb0",
-   "title": "Badenoch calls for benefit cuts to fund defence spending in pre-budget speech – UK politics live",
+   "title": "Badenoch says Tories would prioritise cutting taxes for businesses over individuals – UK politics live",
    "link": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Conservative leader gives speech as Treasury sources say Healey has ruled out a rise in capital gains tax Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation,…",
-   "published": "2026-10-20T09:33:27+00:00"
+   "summary": "Conservative leader also called for benefit spending to be cut to fund rise in defence budget Badenoch says Britain needs tax cuts. We need to get out of the way of job creators who make our country richer. We need to encourage risk taking, wealth creation, enterprise.…",
+   "published": "2026-10-20T10:30:37+00:00"
+  },
+  {
+   "id": "ef93e82abe88",
+   "title": "What if an AI bubble bursts — and that accelerates AI job losses?",
+   "link": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.",
+   "published": "2026-10-20T10:30:00+00:00"
+  },
+  {
+   "id": "b2b4b662be26",
+   "title": "How Have Prices Changed Since the Iran War Began?",
+   "link": "https://www.kiplinger.com/personal-finance/how-prices-changed-since-the-iran-war-began",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Gas prices aren't the only thing that's been impacted by the conflict with Iran.",
+   "published": "2026-10-20T10:30:00+00:00"
+  },
+  {
+   "id": "b8c02298095a",
+   "title": "Why smaller stocks face worse prospects than the S&P 500 in the coming years",
+   "link": "https://www.marketwatch.com/story/why-smaller-stocks-face-worse-prospects-than-the-s-p-500-in-the-coming-years-f9f703ae?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The Value Line Median Appreciation Potential has a good record forecasting smaller stocks’ returns. And the next four years look bearish.",
+   "published": "2026-10-20T10:30:00+00:00"
+  },
+  {
+   "id": "fa3ebd86de4d",
+   "title": "Federal efforts over alleged noncitizen voting escalate with California arrests | First Thing",
+   "link": "https://www.theguardian.com/us-news/2026/oct/20/first-thing-federal-efforts-over-alleged-noncitizen-voting-escalate-with-california-arrests",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The DoJ has charged 28 green card holders in California, accusing them of fraudulently registering to vote. Plus, is the world really ready for AI actors? Good morning. The US Department of Justice has charged 28 green card holders in California, accusing them of fraudulently…",
+   "published": "2026-10-20T10:23:46+00:00"
+  },
+  {
+   "id": "0c8bc98fb895",
+   "title": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sébastien Lecornu suggests more curfews could be introduced to quell unrest after weekend protests I am also keeping an eye on events in Oslo, where US envoy Steve Witkoff arrived in the last hour for talks with Ukraine’s president Volodymyr Zelenskyy and the leaders of Norway…",
+   "published": "2026-10-20T10:23:03+00:00"
+  },
+  {
+   "id": "a4e5915a4f0a",
+   "title": "Strategist Tom Lee says he’s buying the AI stock dip, and Cisco holds the key",
+   "link": "https://www.marketwatch.com/story/strategist-tom-lee-says-hes-buying-the-ai-stock-dip-and-cisco-holds-the-key-33233a9d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Strategist Tom Lee says investors should not shrink from the pullback in stocks surrounding AI investment fears. He points to Cisco’s history as one reason to buy.",
+   "published": "2026-10-20T10:15:00+00:00"
+  },
+  {
+   "id": "f36a84d35806",
+   "title": "Trump’s approval ratings plummet: what that means for the US midterms",
+   "link": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sitting presidents usually see a dip in approval ratings before midterms, but Trump's ratings are at a historic low.",
+   "published": "2026-10-20T10:13:19+00:00"
+  },
+  {
+   "id": "3c0fe6d45c2d",
+   "title": "Where did all the vegan restaurants go?",
+   "link": "https://www.vox.com/the-highlight/503739/vegan-restaurants-closing-animal-rights",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "My favorite restaurant, here in Madison, Wisconsin, closed this week. It was not my favorite because it had the greatest food I’d ever had, nor the most memorable ambiance. But I loved the Mad Rabbit Cafe because it had become my anchor in the neighborhood — it felt like home…",
+   "published": "2026-10-20T10:13:00+00:00"
+  },
+  {
+   "id": "44626954fdcc",
+   "title": "What should you do if your friend is in love with you?",
+   "link": "https://www.vox.com/the-highlight/504005/best-friend-love-ethical-decision",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Hi readers! Shayla Love here, science journalist and longtime fan of Your Mileage May Vary. I’m honored to be subbing for Sigal Samuel while she’s out on parental leave. I’m diving into your questions as a way to help understand human nature and our choices through multiple…",
+   "published": "2026-10-20T10:12:00+00:00"
+  },
+  {
+   "id": "48eb0dfbcdd0",
+   "title": "$2.3B ICG Next Leaves LPL for Osaic with Plans for Acquisition",
+   "link": "https://www.wealthmanagement.com/ibd-news/icg-next-leaves-lpl-for-osaic-with-23-billion",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "ICG next, led by James Costabile, has switched from LPL to Osaic to join a firm he says offers large-scale resources with a more personal, relationship-focused approach.",
+   "published": "2026-10-20T10:00:10+00:00"
+  },
+  {
+   "id": "cba71d5fccd5",
+   "title": "Opinion: A generous gift to the Juneteenth Museum shows what love in action looks like",
+   "link": "https://www.deseret.com/opinion/2026/10/20/juneteenth-museum-church-of-jesus-christ-contribution-opal-lee/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "While there are some points of division in our country about race, there are also points of commonality and intersectionality. There are experiences that unite Americans, that galvanize us and bring us hope. They are something we can all celebrate. One such experience is the…",
+   "published": "2026-10-20T10:00:01+00:00"
+  },
+  {
+   "id": "2f16fddd9766",
+   "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+   "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+   "published": "2026-10-20T10:00:00+00:00"
+  },
+  {
+   "id": "22a180a8989a",
+   "title": "America’s haunted history: Reckoning with the country’s ghosts",
+   "link": "https://www.deseret.com/u-s-world/2026/10/20/americas-most-haunted-land-ghosts-stories-history-cokeville-wyoming/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Betsy Gaines Quammen really loves ghost stories. She grew up telling them, lived in a haunted house in Colorado Springs and once encountered what surely must have been the ghost of Ernest Hemingway. In 2022, she stayed at Hemingway’s house in Ketchum, Idaho, for a writer’s…",
+   "published": "2026-10-20T10:00:00+00:00"
+  },
+  {
+   "id": "e1410e21113d",
+   "title": "‘Keep the rat poison away from the boys’: No. 2 BYU not dwelling on rankings, big upset of Notre Dame",
+   "link": "https://www.deseret.com/sports/2026/10/20/byu-football-cougars-ucf-knights-injury-situation-kalani-sitake-notre-dame/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "BYU football coach Kalani Sitake doesn’t have time to talk about the national college football rankings. Not at this point of the season, anyway. Exactly 24 hours after the undefeated Cougars ascended to No. 2 in the AP Top 25 media poll, Sitake was asked about the Cougars…",
+   "published": "2026-10-20T10:00:00+00:00"
+  },
+  {
+   "id": "e60b2203deab",
+   "title": "East Valley battleground: Latter-day Saints at the center of Arizona’s contentious race for governor",
+   "link": "https://www.deseret.com/politics/2026/10/20/arizona-governor-race-between-katie-hobbs-john-giles-and-andy-biggs-highlights-latter-day-saint-political-identity/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Republican crusade to reclaim control of Arizona has come to a head this year amid the cul-de-sac sidewalks, manicured lawns and steepled churches of the East Valley. Set in a suburban landscape surrounded by serrated desert peaks and stately saguaro cacti, the hubs of…",
+   "published": "2026-10-20T10:00:00+00:00"
+  },
+  {
+   "id": "0b1584b26ecc",
+   "title": "Corruption is finally breaking through to voters this time",
+   "link": "https://www.vox.com/politics/506837/corruption-trump-midterms-democrats-agenda",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "This past January, when the New York Times asked President Donald Trump about concerns he was blatantly intermingling his family’s business interests with the presidency, he had a pithy response. During his first term, Trump said, he learned that “nobody cared.” But after a…",
+   "published": "2026-10-20T10:00:00+00:00"
+  },
+  {
+   "id": "27b468b4d1e3",
+   "title": "“Can Religion Save Democracy”? Yes, But Not Like This.",
+   "link": "https://www.christianitytoday.com/2026/10/can-religion-save-democracy-review/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Two galvanizing events, 25 years apart, convinced many people that religious faith poses an existential threat to American democracy. On September 11, 2001, it was Islamic theology that motivated the terror attacks aimed at the World Trade Center, the White House, and the…",
+   "published": "2026-10-20T10:00:00+00:00"
+  },
+  {
+   "id": "ff6606702d48",
+   "title": "US Orthodox Challenge Claims That Kyiv Persecutes Christians",
+   "link": "https://www.christianitytoday.com/2026/10/us-orthodox-challenge-claims-that-kyiv-persecutes-christians/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than four years into Russia’s full-scale invasion of Ukraine, Orthodox communities in the United States are issuing competing claims about religious freedom in the battle-weary country. Last month, St. Nicholas Greek Orthodox Church and National Shrine in New York City…",
+   "published": "2026-10-20T10:00:00+00:00"
+  },
+  {
+   "id": "6643387a7340",
+   "title": "How to Confront Social Ills Without Demonizing Others",
+   "link": "https://www.christianitytoday.com/2026/10/how-to-confront-social-ills-without-demonizing-others/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "After warning his disciples to beware of getting subtly infected with the toxic doctrine of the Pharisees and Sadducees, Jesus asked, “Who do people say that I, the Son of Man, am?” (Matt. 16:13, NKJV throughout). Our Lord knew the Jewish religious rulers stressed the law,…",
+   "published": "2026-10-20T10:00:00+00:00"
+  },
+  {
+   "id": "7a0875ad884f",
+   "title": "The Costs of Job-Hopping: Why Staying Put Pays Off",
+   "link": "https://www.kiplinger.com/personal-finance/careers/costs-of-job-hopping-staying-put-pays-off",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "While frequently changing jobs can offer pay bumps and what feels like a fresh start, building roots at one company can lead to greater career advancement.",
+   "published": "2026-10-20T10:00:00+00:00"
+  },
+  {
+   "id": "39e15cda8297",
+   "title": "CircleBlack Taps Robertson Stephens COO Vikram Chugh as New CEO",
+   "link": "https://www.wealthmanagement.com/advisor-support-platforms/chugh-leaves-robertson-stephens-to-become-circleblack-ceo",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Vikram Chugh, who built the wealth management platform at fellow Long Arc portfolio company Robertson Stephens, replaces Lincoln Ross, who stays on as a strategic advisor.",
+   "published": "2026-10-20T10:00:00+00:00"
+  },
+  {
+   "id": "e346a700b301",
+   "title": "Billionaire Mukesh Ambani launches India’s biggest-ever IPO",
+   "link": "https://www.theguardian.com/business/2026/oct/20/mukesh-ambani-jio-platforms-ipo-india-stock-market",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Low-cost broadband provider Jio Platforms aims for £81bn valuation when it floats on the stock market on Wednesday Business live – latest updates India’s second-richest man, Mukesh Ambani, is launching what could be the country’s biggest-ever initial public offering (IPO),…",
+   "published": "2026-10-20T09:53:27+00:00"
+  },
+  {
+   "id": "49489e8a5197",
+   "title": "Millions unable to use Revolut app or cards as company suffers ‘service disruption’",
+   "link": "https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "UK banking company insists customers’ funds and data are safe despite problems with sign-in, card payments, transfers and withdrawals Business live – latest updates Revolut customers have been unable to access their money after the banking app went down, affecting a number of…",
+   "published": "2026-10-20T09:45:39+00:00"
+  },
+  {
+   "id": "9de8635a2894",
+   "title": "Albertans reject referendum on independence from Canada",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-alberta-referendum-vote-sv?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Most voters in the Canadian province of Alberta have rejected a proposal to hold a referendum on independence.",
+   "published": "2026-10-20T09:42:04+00:00"
   },
   {
    "id": "1a41f3b5e5df",
@@ -171,17 +457,6 @@
    "flourishing_feed": false,
    "summary": "October alone has witnessed the shelving of three separate flotations planned for data-center providers, backed by AI powerhouses like Nvidia, Blackstone and SoftBank. Investors are not convinced of the sustainability of the capex outlay.",
    "published": "2026-10-20T09:30:00+00:00"
-  },
-  {
-   "id": "0c8bc98fb895",
-   "title": "French cities ‘calm overnight’ after targeted curfews, prime minister says – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Sébastien Lecornu suggests more curfews could be introduced to quell unrest after weekend protests For a good summary of where we are when it comes to the French protests, you can catch up with Jon Henley’s commentary for The Latest. “ What we saw on Saturday was really an…",
-   "published": "2026-10-20T09:29:20+00:00"
   },
   {
    "id": "ab8a9919c5bb",
@@ -369,6 +644,17 @@
    "flourishing_feed": false,
    "summary": "Exclusive: Adrian Ramsay calls conference motion a distraction and says councillors should maintain coalitions where possible UK politics live – latest updates Adrian Ramsay, the former co-leader of the Greens, has urged his party’s councillors to reject the newly adopted…",
    "published": "2026-10-20T08:55:36+00:00"
+  },
+  {
+   "id": "25295fece9be",
+   "title": "Why Israeli Gen Z voters are drawn to the far right",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.",
+   "published": "2026-10-20T08:53:06+00:00"
   },
   {
    "id": "6005d29ee895",
@@ -576,7 +862,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "​After a protest clip went viral, a teenager’s life was torn apart by threats that sent her and her family into hiding. Plus, a book on citizen journalism Before 24 July, a person I will call R was preoccupied with the ordinary routines of teenage life: experimenting with…",
+   "summary": "​After a protest clip went viral, a teenager’s life was torn apart by threats that sent her and her family into hiding. Plus, a book on citizen journalism • Don’t get This is India delivered to your inbox? Sign up here Before 24 July, a person I will call R was preoccupied with…",
    "published": "2026-10-20T06:30:18+00:00"
   },
   {
@@ -1645,17 +1931,6 @@
    "flourishing_feed": false,
    "summary": "After hundreds of thousands took to the streets to protest this weekend, rioters followed with destruction and looting that have left France reeling.",
    "published": "2026-10-19T21:18:16+00:00"
-  },
-  {
-   "id": "2f16fddd9766",
-   "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-   "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
-   "published": "2026-10-19T21:15:00+00:00"
   },
   {
    "id": "7604d8c4829b",
@@ -2875,7 +3150,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+   "summary": "The platform said since the weekend it had \"taken immediate action to identify and remove listings linked to looting\".",
    "published": "2026-10-19T16:46:35+00:00"
   },
   {
@@ -78966,17 +79241,6 @@
    "published": "2026-09-29T10:00:00+00:00"
   },
   {
-   "id": "3c0fe6d45c2d",
-   "title": "Where did all the vegan restaurants go?",
-   "link": "https://www.vox.com/the-highlight/503739/vegan-restaurants-closing-animal-rights",
-   "source": "Vox",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "My favorite restaurant, here in Madison, Wisconsin, closed this week. It was not my favorite because it had the greatest food I’d ever had, nor the most memorable ambiance. But I loved the Mad Rabbit Cafe because it had become my anchor in the neighborhood — it felt like home…",
-   "published": "2026-09-29T10:00:00+00:00"
-  },
-  {
    "id": "5f872bd17d19",
    "title": "What Should We Do About Diddy?",
    "link": "https://www.christianitytoday.com/2026/09/what-should-we-do-about-diddy/",
@@ -83297,17 +83561,6 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "Ryan and Ashley Smith have owned the Utah Jazz for nearly six years now. During that time, their Smith Entertainment Group launched one of the most ambitious building stretches in the NBA — a mix of massive capital investment, rising valuation and an expanding sports empire.…",
-   "published": "2026-09-28T10:00:00+00:00"
-  },
-  {
-   "id": "44626954fdcc",
-   "title": "What should you do if your friend is in love with you?",
-   "link": "https://www.vox.com/the-highlight/504005/best-friend-love-ethical-decision",
-   "source": "Vox",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Hi readers! Shayla Love here, science journalist and longtime fan of Your Mileage May Vary. I’m honored to be subbing for Sigal Samuel while she’s out on parental leave. I’m diving into your questions as a way to help understand human nature and our choices through multiple…",
    "published": "2026-09-28T10:00:00+00:00"
   },
   {
