@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T17:42:23.401508+00:00",
+ "generated": "2026-10-20T18:52:28.001775+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "name": "The Guardian World",
@@ -140,6 +140,237 @@
    "published": "2026-10-21T04:22:33+00:00"
   },
   {
+   "id": "2e829d8824e8",
+   "title": "Trump says he will have spent $400m to support Republicans in midterms – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President also announces incentive program for people to report fraud, as administration continues attack on Minnesota Sign up for the Breaking News US email Send us your questions about immigration and the midterms A new survey reveals a widening “empathy gap” between…",
+   "published": "2026-10-20T18:41:03+00:00"
+  },
+  {
+   "id": "4e512a5b62e2",
+   "title": "Senior Reform official cast doubt over legality of huge donations",
+   "link": "https://www.theguardian.com/politics/2026/oct/20/senior-reform-official-cast-doubt-legality-huge-donations-james-orr",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Admission from James Orr to undercover reporter came three months before party was given £72m UK politics live – latest updates A senior Reform UK official raised questions about whether major donations from billionaire backers Christopher Harborne and Ben Delo would…",
+   "published": "2026-10-20T18:40:15+00:00"
+  },
+  {
+   "id": "9465f6161955",
+   "title": "Ohio Democrat’s family criticizes Vivek Ramaswamy for bringing up estranged mother in gubernatorial ad",
+   "link": "https://www.theguardian.com/us-news/2026/oct/20/ohio-democrat-vivek-ramaswamy-ad",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Amy Acton’s brother calls campaigning on his sister’s sexual abuse from their mother’s husband ‘a despicable low’ The family of Amy Acton, the Democratic candidate for governor of Ohio, is criticizing her Republican opponent Vivek Ramaswamy for using Acton’s estranged mother in…",
+   "published": "2026-10-20T18:38:07+00:00"
+  },
+  {
+   "id": "26de374d82b8",
+   "title": "Indianapolis Public Education Corporation to consider $3.2 million budget for 2027",
+   "link": "https://mirrorindy.org/indianapolis-public-education-corporation-to-consider-3-2-million-budget-for-2027/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The new agency will take control of the buildings and implement a unified transportation plan for both district and charter schools in 2028. The post Indianapolis Public Education Corporation to consider $3.2 million budget for 2027 appeared first on Mirror Indy .",
+   "published": "2026-10-20T18:33:30+00:00"
+  },
+  {
+   "id": "20b965f0a69e",
+   "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "RAF Typhoon fighters to fly defensive missions over cities and infrastructure in extension of UK support for Riyadh RAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack by Yemen’s Houthis, flying protective missions over the country’s cities and…",
+   "published": "2026-10-20T18:30:16+00:00"
+  },
+  {
+   "id": "f7f1bffaedf4",
+   "title": "Pro dancer suspended ahead of ‘Dancing with the Stars’ Dedication Night",
+   "link": "https://www.deseret.com/entertainment/2026/10/20/dancing-with-the-stars-dedication-night-preview/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "One of the most anticipated nights of the “Dancing with the Stars” season is here: Dedication Night. The annual episode features each celebrity contestant dedicating their performance to someone special in their life and some of the performances will also feature special…",
+   "published": "2026-10-20T18:27:25+00:00"
+  },
+  {
+   "id": "922f60df726b",
+   "title": "Jackdaw North Sea gasfield to get go-ahead in blow to climate campaigners",
+   "link": "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Move signals Andy Burnham’s commitment to the North Sea industry but threatens to undermine Labour’s green credentials The Jackdaw gasfield will be given the go-ahead on Wednesday, in a move that signals Andy Burnham’s commitment to the North Sea fossil fuel industry but…",
+   "published": "2026-10-20T18:24:46+00:00"
+  },
+  {
+   "id": "549bf7d2e801",
+   "title": "Elevation Point Stakes $750M Ex-UBS Team in Las Vegas",
+   "link": "https://www.wealthmanagement.com/ria-news/elevation-point-takes-stake-in-truing-capital",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Jim Dickson's firm backs the Las Vegas-based Truing Capital, formerly affiliated with UBS, as it pursues an ambitious $50 billion growth target over the next two years.",
+   "published": "2026-10-20T18:24:08+00:00"
+  },
+  {
+   "id": "9bbf051372dd",
+   "title": "You Can Trade Contracts on Elections, but Not on Onions. These College Students Want To Fix That.",
+   "link": "https://reason.com/2026/10/20/you-can-trade-contracts-on-elections-but-not-on-onions-these-college-students-want-to-fix-that/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Students at the University of Chicago are rallying to repeal the 1958 Onion Futures Act to give onion producers a tool that corn and wheat growers already have.",
+   "published": "2026-10-20T18:22:40+00:00"
+  },
+  {
+   "id": "4cfa16b2e61f",
+   "title": "Russell Brand told woman to ‘clear up the mess you’ve made’ after alleged rape, court hears",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/20/russell-brand-told-woman-to-clear-up-mess-after-alleged-rape-court-hears",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Woman says alleged assault at comedian’s London home after gig was one of most painful experiences of her life A woman has said she “couldn’t speak or breathe” when Russell Brand raped her at his London townhouse after picking her out from a crowd after one of his gigs, a court…",
+   "published": "2026-10-20T18:22:25+00:00"
+  },
+  {
+   "id": "931a30e144a4",
+   "title": "Here’s what matters most to Tesla investors heading into earnings",
+   "link": "https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Financial results are somewhat of a sideshow for an investor base eagerly awaiting updates on robotaxis, robots — and the cost of all that.",
+   "published": "2026-10-20T18:15:00+00:00"
+  },
+  {
+   "id": "c51b3adfb339",
+   "title": "Bachmeier’s fuel to beat Irish reflects the nature of today’s recruiting game",
+   "link": "https://www.deseret.com/sports/2026/10/20/bear-bachmeier-notre-dame-disrespected/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Nobody likes to feel used and taken advantage of, and BYU’s Bear Bachmeier is no exception. Moments after the sophomore quarterback disposed of No. 2 Notre Dame 28-24 on Saturday, he unleashed his wrath on the Irish in a way so genuine and true that you knew he meant it.…",
+   "published": "2026-10-20T18:12:00+00:00"
+  },
+  {
+   "id": "802a2eba53b9",
+   "title": "H.R. 4464, Preventive Health Savings Act",
+   "link": "https://www.cbo.gov/publication/62871",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As ordered reported by the House Committee on the Budget on September 16, 2026",
+   "published": "2026-10-20T18:12:00+00:00"
+  },
+  {
+   "id": "2755749107ec",
+   "title": "H.R. 6470, Increasing Baseline Updates Act",
+   "link": "https://www.cbo.gov/publication/62872",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "As ordered reported by the House Committee on the Budget on September 16, 2026",
+   "published": "2026-10-20T18:12:00+00:00"
+  },
+  {
+   "id": "b0831c63992e",
+   "title": "CDC reports third measles death in the United States this year",
+   "link": "https://www.aljazeera.com/news/2026/10/20/cdc-reports-third-measles-death-in-the-united-states-this-year?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The death was added to the federal tally, as the US records more than 4,400 measles cases nationwide.",
+   "published": "2026-10-20T17:58:09+00:00"
+  },
+  {
+   "id": "6743051f1533",
+   "title": "Supreme Court Takes Up Accusations of Race-Based Middle School Admissions",
+   "link": "https://reason.com/2026/10/20/supreme-court-takes-up-accusations-of-race-based-middle-school-admissions/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Maryland parents say admissions rules tied to school poverty levels put Asian-American students at a disadvantage.",
+   "published": "2026-10-20T17:58:07+00:00"
+  },
+  {
+   "id": "81b06946c25b",
+   "title": "Beech Grove passes $19.6M budget for 2027 amid uncertainty",
+   "link": "https://mirrorindy.org/beech-grove-indianapolis-budget-approved-2027-south-side-city/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Police, park and infrastructure upgrades were prioritized amid long-term financial concerns. The post Beech Grove passes $19.6M budget for 2027 amid uncertainty appeared first on Mirror Indy .",
+   "published": "2026-10-20T17:54:07+00:00"
+  },
+  {
+   "id": "0e953d6dad7d",
+   "title": "IPS board candidates discuss school closures, AI and legislative funding at forum",
+   "link": "https://mirrorindy.org/ips-board-candidates-discuss-school-closures-ai-and-legislative-funding-at-forum/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fifteen candidates are running for five seats — one each in Districts 2, 3, 4 and 5 and one at-large seat. The post IPS board candidates discuss school closures, AI and legislative funding at forum appeared first on Mirror Indy .",
+   "published": "2026-10-20T17:51:31+00:00"
+  },
+  {
+   "id": "a8eabf4c7b6e",
+   "title": "Push for tighter trucking company oversight sees Statehouse support",
+   "link": "https://indianacapitalchronicle.com/2026/10/20/push-for-tighter-trucking-company-oversight-sees-statehouse-support/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "A key state legislator says he’s ready to push a crackdown on so-called chameleon trucking companies that’s been championed by Republican secretary of state candidate Max Engling.",
+   "published": "2026-10-20T17:51:05+00:00"
+  },
+  {
+   "id": "4095e687817a",
+   "title": "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
+   "link": "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Mounting anxiety as Russia’s war on Ukraine reaches Nato’s borders with targeting of vessels transporting agricultural cargo Nato is deploying additional military assets to the Black Sea amid the recent deadly escalation of Russian attacks on merchant shipping, as five more…",
+   "published": "2026-10-20T17:43:40+00:00"
+  },
+  {
+   "id": "0c8bc98fb895",
+   "title": "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – as it happened",
+   "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Ukrainian leader says talks with US envoys covered security guarantees and he hopes to hear Russia’s response tomorrow Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr Støre and…",
+   "published": "2026-10-20T17:41:17+00:00"
+  },
+  {
    "id": "84989df5b5ea",
    "title": "Investors’ search for safety has made toothpaste stocks more expensive than tech",
    "link": "https://www.marketwatch.com/story/investors-search-for-safety-has-made-toothpaste-stocks-more-expensive-than-tech-57a75e56?mod=mw_rss_topstories",
@@ -149,6 +380,17 @@
    "flourishing_feed": false,
    "summary": "Wall Street is fleeing tech for toothpaste and shampoo. Even those stocks are getting expensive.",
    "published": "2026-10-20T17:38:00+00:00"
+  },
+  {
+   "id": "71493df8c537",
+   "title": "Baby who died from meningitis may have been saved if tested sooner, inquest finds",
+   "link": "https://www.theguardian.com/society/2026/oct/20/baby-who-died-from-meningitis-may-have-been-saved-if-tested-sooner-inquest-finds",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Five-month-old Esta High died at Leeds General Infirmary in November 2023 after doctors put her symptoms down to Covid-19 A baby girl who died from meningitis may have been saved if doctors had tested her for the infection sooner, rather than putting her symptoms down to Covid,…",
+   "published": "2026-10-20T17:37:46+00:00"
   },
   {
    "id": "25be8de3f2c6",
@@ -185,7 +427,7 @@
   },
   {
    "id": "8ba595491818",
-   "title": "Former Cornell student alleging sexual assault says she felt ‘unsupported’ by university’s president",
+   "title": "Ex-student alleging sexual assault felt ‘unsupported’ by Cornell president",
    "link": "https://www.theguardian.com/us-news/2026/oct/20/cornell-student-alleging-sexual-assault-letter",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -193,17 +435,6 @@
    "flourishing_feed": false,
    "summary": "The ex-student writes she wants to share information that ‘may be relevant’ to vote of no confidence The former Cornell University student who accused seven men of sexually assaulting her at a fraternity house in 2024 recently wrote a letter to campus faculty leaders saying…",
    "published": "2026-10-20T17:29:44+00:00"
-  },
-  {
-   "id": "0c8bc98fb895",
-   "title": "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Ukrainian leader says talks with US envoys covered security guarantees and he hopes to hear Russia’s response tomorrow Nordic correspondent As well as Steve Witkoff, Ukrainian president Volodymyr Zelenskyy will also meet the Norwegian prime minister, Jonas Gahr Støre and…",
-   "published": "2026-10-20T17:28:57+00:00"
   },
   {
    "id": "7763a1f4a979",
@@ -259,17 +490,6 @@
    "flourishing_feed": false,
    "summary": "If Brazil elects right-wing presidential candidate Flávio Bolsonaro, it could become the crown jewel in Mr. Trump’s push for more conservative leaders in Latin America.",
    "published": "2026-10-20T17:20:24+00:00"
-  },
-  {
-   "id": "2e829d8824e8",
-   "title": "House Democrat accuses Rubio and Trump of ‘lying’ about Ukraine intelligence as president continues campaigning – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Eugene Vindman, armed services committee member, says president and secretary of state are ‘gaslighting’ over intelligence sharing as Trump heads to North Carolina Sign up for the Breaking News US email Send us your questions about immigration and the midterms A new survey…",
-   "published": "2026-10-20T17:19:22+00:00"
   },
   {
    "id": "79850c0c3277",
@@ -330,6 +550,17 @@
    "id": "02a69b443619",
    "title": "Wealthspire Division Acquires $1B Wealth Manager in London",
    "link": "https://www.wealthmanagement.com/ria-news/ground-control-acquires-atlantic-swift-wealth-firm",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Wealthspire's entertainment and sports unit expands its U.K. footprint, picking up London-based Atlantic Swiss that oversees more than $1 billion for clients in media and sports.",
+   "published": "2026-10-20T17:01:12+00:00"
+  },
+  {
+   "id": "7c4a349cb2f4",
+   "title": "Wealthspire Division Acquires $1B Wealth Manager in London",
+   "link": "https://www.wealthmanagement.com/ria-news/ground-control-acquires-atlantic-swiss-wealth-firm",
    "source": "WealthManagement.com",
    "circle_hint": "national",
    "domain_feed": true,
@@ -449,13 +680,13 @@
   },
   {
    "id": "f32f4618c0bc",
-   "title": "France’s culture of violent policing means the battle for its streets is far from over",
+   "title": "Why are French police so violent? Their job is to protect the state, not the people",
    "link": "https://www.theguardian.com/world/2026/oct/20/france-culture-violent-policing-protests-riots",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "French state places officers as agents of authority tasked with repressing, rather than managing, public dissent Familiar images of teargas clouds drifting across Paris squares, police baton charges against masked protesters and terrified teenagers floored – and worse – by stun…",
+   "summary": "Officers are instruments of state whose job is to repress, rather than manage, public dissent Familiar images of teargas clouds drifting across Paris squares, police baton charges against masked protesters and terrified teenagers floored – and worse – by stun grenades have once…",
    "published": "2026-10-20T16:49:44+00:00"
   },
   {
@@ -1757,17 +1988,6 @@
    "published": "2026-10-20T12:00:00+00:00"
   },
   {
-   "id": "20b965f0a69e",
-   "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "RAF Typhoon fighters to fly defensive missions over cities and infrastructure in extension of UK support for Riyadh RAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack by Yemen’s Houthis, flying defensive missions over the country’s cities and…",
-   "published": "2026-10-20T11:54:52+00:00"
-  },
-  {
    "id": "80dbd5382222",
    "title": "Yemen’s critically ill are trapped as war closes the country’s airports",
    "link": "https://www.aljazeera.com/features/2026/10/20/yemens-critically-ill-are-trapped-as-war-closes-the-countrys-airports?traffic_source=rss",
@@ -2308,7 +2528,7 @@
   },
   {
    "id": "766d6c83e8a1",
-   "title": "Stable jobs support healthier Hoosiers and a more sustainable Medicaid program",
+   "title": "Commentary: Stable jobs support healthier Hoosiers and a more sustainable Medicaid program",
    "link": "https://indianacapitalchronicle.com/2026/10/20/stable-jobs-support-healthier-hoosiers-and-a-more-sustainable-medicaid-program/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
@@ -6532,7 +6752,7 @@
   },
   {
    "id": "96e31b96a63b",
-   "title": "Public Question 1: What Indiana’s ballot doesn’t tell you",
+   "title": "Commentary: Public Question 1: What Indiana’s ballot doesn’t tell you",
    "link": "https://indianacapitalchronicle.com/2026/10/19/public-question-1-what-indianas-ballot-doesnt-tell-you/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
@@ -14815,7 +15035,7 @@
   },
   {
    "id": "8ba822ed4970",
-   "title": "Predicting or gambling? New markets invade all areas of society",
+   "title": "Commentary: Predicting or gambling? New markets invade all areas of society",
    "link": "https://indianacapitalchronicle.com/2026/10/16/predicting-or-gambling-new-markets-invade-all-areas-of-society/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
@@ -23681,7 +23901,7 @@
   },
   {
    "id": "6a60912c4bb7",
-   "title": "Newsroom Profile: Black Indy LIVE",
+   "title": "Commentary: Newsroom Profile: Black Indy LIVE",
    "link": "https://indianacapitalchronicle.com/2026/10/14/newsroom-profile-black-indy-live/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
@@ -27927,7 +28147,7 @@
   },
   {
    "id": "c36f09c9d423",
-   "title": "Indiana shows states how to stop the Medicaid abuse, protect the care",
+   "title": "Commentary: Indiana shows states how to stop the Medicaid abuse, protect the care",
    "link": "https://indianacapitalchronicle.com/2026/10/13/indiana-shows-states-how-to-stop-the-abuse-protect-the-care/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
@@ -31612,7 +31832,7 @@
   },
   {
    "id": "eb4ad2f60eab",
-   "title": "Pause, plan and protect: responsible development in the face of AI data centers",
+   "title": "Commentary: Pause, plan and protect: responsible development in the face of AI data centers",
    "link": "https://indianacapitalchronicle.com/2026/10/12/pause-plan-and-protect-responsible-development-in-the-face-of-ai-data-centers/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
@@ -40214,7 +40434,7 @@
   },
   {
    "id": "e14ed64327c1",
-   "title": "Indiana BMV deserves kudos — with one big caveat",
+   "title": "Commentary: Indiana BMV deserves kudos — with one big caveat",
    "link": "https://indianacapitalchronicle.com/2026/10/09/indiana-bmv-deserves-kudos-with-one-big-caveat/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
@@ -44460,7 +44680,7 @@
   },
   {
    "id": "e4b34b6628bb",
-   "title": "Rising prices may be here to stay, but poverty doesn’t have to be",
+   "title": "Commentary: Rising prices may be here to stay, but poverty doesn’t have to be",
    "link": "https://indianacapitalchronicle.com/2026/10/08/rising-prices-may-be-here-to-stay-but-poverty-doesnt-have-to-be/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
@@ -48805,7 +49025,7 @@
   },
   {
    "id": "f2b8869b5663",
-   "title": "You’re not crazy. Voting in Indiana is intimidating.",
+   "title": "Commentary: You’re not crazy. Voting in Indiana is intimidating.",
    "link": "https://indianacapitalchronicle.com/2026/10/07/youre-not-crazy-voting-in-indiana-is-intimidating/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
@@ -57550,7 +57770,7 @@
   },
   {
    "id": "05f8e0593aeb",
-   "title": "A new partnership is helping Indiana librarians meet mental health needs",
+   "title": "Commentary: A new partnership is helping Indiana librarians meet mental health needs",
    "link": "https://indianacapitalchronicle.com/2026/10/05/a-new-partnership-is-helping-indiana-librarians-meet-mental-health-needs/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
@@ -65844,7 +66064,7 @@
   },
   {
    "id": "3a65960b9e23",
-   "title": "Property tax debate should focus on addressing assessed value",
+   "title": "Commentary: Property tax debate should focus on addressing assessed value",
    "link": "https://indianacapitalchronicle.com/2026/10/02/property-tax-debate-should-focus-on-addressing-assessed-value/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
@@ -70640,7 +70860,7 @@
   },
   {
    "id": "e97ca711932e",
-   "title": "Indiana children with autism can’t become a casualty of Medicaid challenges",
+   "title": "Commentary: Indiana children with autism can’t become a casualty of Medicaid challenges",
    "link": "https://indianacapitalchronicle.com/2026/10/01/indiana-children-with-autism-cant-become-a-casualty-of-medicaid-challenges/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
@@ -76272,7 +76492,7 @@
   },
   {
    "id": "4a31b3933f01",
-   "title": "What do braids, cornrows and Bantu knots have to do with the news?",
+   "title": "Commentary: What do braids, cornrows and Bantu knots have to do with the news?",
    "link": "https://indianacapitalchronicle.com/2026/09/30/what-do-braids-cornrows-and-bantu-knots-have-to-do-with-the-news/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
@@ -85402,7 +85622,7 @@
   },
   {
    "id": "a3e535a290f7",
-   "title": "Understanding Indiana’s reserves",
+   "title": "Commentary: Understanding Indiana’s reserves",
    "link": "https://indianacapitalchronicle.com/2026/09/28/assessing-indianas-reserves/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
@@ -91067,7 +91287,7 @@
   },
   {
    "id": "0c9725721f1f",
-   "title": "Don’t just say ‘no’ to school referendums and data centers",
+   "title": "Commentary: Don’t just say ‘no’ to school referendums and data centers",
    "link": "https://indianacapitalchronicle.com/2026/09/25/lets-judge-referendums-and-data-centers-individually/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
@@ -91914,7 +92134,7 @@
   },
   {
    "id": "4d4ab482e196",
-   "title": "Assessed value increases hitting businesses, too",
+   "title": "Commentary: Assessed value increases hitting businesses, too",
    "link": "https://indianacapitalchronicle.com/2026/09/24/assessed-value-increases-hitting-businesses-too/",
    "source": "Indiana Capital Chronicle",
    "circle_hint": "state",
