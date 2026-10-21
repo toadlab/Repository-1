@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T13:02:44.875355+00:00",
+ "generated": "2026-10-21T13:08:23.581951+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -133,6 +133,18 @@
   }
  ],
  "items": [
+  {
+   "id": "12c556f7c17e",
+   "title": "France’s Macron says protesters won’t be allowed to ‘cause chaos’",
+   "link": "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "French president criticises comments by 'foreign leaders' trying to exploit disorder for their own political agenda.",
+   "published": "2026-10-21T12:54:43+00:00"
+  },
   {
    "id": "0d24edac872c",
    "title": "Protests as UK approves new gas drilling in North Sea",
@@ -2876,7 +2888,7 @@
   },
   {
    "id": "6d5bacfecc60",
-   "title": "Trump and Zelensky appear at loggerheads despite new optimism",
+   "title": "Trump and Zelensky at loggerheads despite new optimism",
    "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
