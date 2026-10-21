@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T05:44:53.472246+00:00",
+ "generated": "2026-10-21T06:58:00.435979+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "name": "The Guardian World",
@@ -129,6 +129,182 @@
  ],
  "items": [
   {
+   "id": "e59d4d5cb311",
+   "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
+   "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+   "published": "2026-10-21T06:50:40+00:00"
+  },
+  {
+   "id": "e7de503366a5",
+   "title": "UK government borrowing rises to £24.5bn as John Healey prepares for budget",
+   "link": "https://www.theguardian.com/business/2026/oct/21/uk-government-borrowing-rises-john-healey-budget",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Government paid £10.9bn in debt interest, the highest September figure since records began Business live – latest updates The Treasury ran a higher than expected budget deficit of £24.5bn last month as rising inflation pushed up the interest paid on government debt, increasing…",
+   "published": "2026-10-21T06:48:00+00:00"
+  },
+  {
+   "id": "0f70e7615542",
+   "title": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
+   "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Steve Witkoff is in St Petersburg to discuss proposals on ending Russia's years-long conflict with Ukraine.",
+   "published": "2026-10-21T06:37:55+00:00"
+  },
+  {
+   "id": "030e0762a24f",
+   "title": "Elon Musk says merging Tesla and SpaceX is a good idea. Why?",
+   "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
+   "published": "2026-10-21T06:36:39+00:00"
+  },
+  {
+   "id": "4c9c5ce492cc",
+   "title": "Helen Haines’s second leg amputated but she is stable and ‘a fighter’, husband says – as it happened",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Independent MP was struck by a car on Monday and her alleged attacker appeared in court on Wednesday ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament Anthony Albanese has…",
+   "published": "2026-10-21T06:33:51+00:00"
+  },
+  {
+   "id": "35d81304e0ff",
+   "title": "No bail for alleged Helen Haines attacker as police chief warns of Australia’s ‘febrile’ political environment",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "AFP commissioner says MPs are generally concerned about growing volume of abuse and intimidation Follow our live blog for latest updates Get our breaking news email , free app or daily news podcast The head of the Australian federal police has condemned a “febrile” political…",
+   "published": "2026-10-21T06:27:19+00:00"
+  },
+  {
+   "id": "f0eb6ce67b39",
+   "title": "Who owns India’s textile traditions in age of AI-enabled mass production?",
+   "link": "https://www.aljazeera.com/features/2026/10/21/who-owns-indias-textile-traditions-in-age-of-ai-enabled-mass-production?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Technological tools meant to preserve a craft are now able to digitally reproduce it without involving the craftsperson.",
+   "published": "2026-10-21T06:22:04+00:00"
+  },
+  {
+   "id": "4cbc86b2835f",
+   "title": "Foden shines as Man City rout Athens 5-1 despite Haaland, Semenyo injuries",
+   "link": "https://www.aljazeera.com/sports/2026/10/21/foden-shines-as-man-city-rout-athens-5-1-despite-haaland-semenyo-injuries?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Phil Foden scored a hat-trick as Manchester City bounced back from last week's loss to PSG despite off-field troubles.",
+   "published": "2026-10-21T06:15:19+00:00"
+  },
+  {
+   "id": "1c309684a60d",
+   "title": "UK approves Jackdaw gasfield in North Sea",
+   "link": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-in-north-sea-approved",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Decision was widely expected after lobbying by Shell but will dismay environmental campaigners What does the UK’s approval of the Jackdaw gasfield mean? The UK government has approved the controversial Jackdaw gasfield in the North Sea, a widely expected move that will…",
+   "published": "2026-10-21T06:15:06+00:00"
+  },
+  {
+   "id": "10732aad5aff",
+   "title": "LeBron James talks smack with Knicks fans in victorious 76ers debut",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6010350/lebron-knicks-76ers",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Sixers got a first look at the potent lineup they put together this summer in hopes of winning their first title since 1983.",
+   "published": "2026-10-21T06:07:16+00:00"
+  },
+  {
+   "id": "bc7ecf677096",
+   "title": "FAA clears the way for airlines to put Boeing's long-delayed 737 Max 10 into service",
+   "link": "https://www.npr.org/2026/10/21/g-s1-149032/faa-boeing-737-max-10",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Nearly a decade after Boeing unveiled its largest 737 Max jet, the company has cleared a major hurdle in its effort to bring the plane to airlines.",
+   "published": "2026-10-21T06:05:18+00:00"
+  },
+  {
+   "id": "3fd3682cbc2c",
+   "title": "Gaza children face worsening food shortages as prices rise and aid is cut",
+   "link": "https://www.aljazeera.com/features/2026/10/21/gaza-children-face-worsening-food-shortages-as-prices-rise-and-aid-is-cut?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Families say they are struggling to provide nutritious meals for their children as commercial supplies are disrupted.",
+   "published": "2026-10-21T06:00:47+00:00"
+  },
+  {
+   "id": "ea76db6f5f43",
+   "title": "Jess Phillips hopes supreme court ‘sees sense’ and overturns domestic abuse ruling",
+   "link": "https://www.theguardian.com/society/2026/oct/21/jess-phillips-hopes-supreme-court-sees-sense-and-overturns-domestic-abuse-ruling",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Court of appeal decision prevents woman from suing police and CPS for disclosing her address to violent ex-partner The Labour MP Jess Phillips has said she hopes the UK’s highest court “sees sense” and overturns a ruling preventing a domestic abuse survivor from suing Sussex…",
+   "published": "2026-10-21T06:00:03+00:00"
+  },
+  {
+   "id": "b17a25d8c48a",
+   "title": "Elon Musk considering Tesla-SpaceX merger",
+   "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+   "published": "2026-10-21T05:48:46+00:00"
+  },
+  {
+   "id": "5809f4efee9b",
+   "title": "Pakistan arrests man hunted by US over $126m postage fraud case",
+   "link": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
+   "published": "2026-10-21T05:46:33+00:00"
+  },
+  {
+   "id": "16e0cf2edde7",
+   "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
+   "link": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Ukrainian President Volodymyr Zelenskyy said the change happened after talks with his American counterparts, including a phone call with U.S. Secretary of State Marco Rubio.",
+   "published": "2026-10-21T05:43:24+00:00"
+  },
+  {
    "id": "173310b12b9f",
    "title": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
    "link": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews",
@@ -138,6 +314,28 @@
    "flourishing_feed": false,
    "summary": "Fresh curfews were being imposed across the city centers of Paris and Lyon on Tuesday after the first quiet night since France's most destructive rioting in years.",
    "published": "2026-10-21T05:37:28+00:00"
+  },
+  {
+   "id": "0b35f61b420b",
+   "title": "Anthropic posts $80bn loss in first half of 2026: WSJ",
+   "link": "https://www.aljazeera.com/news/2026/10/21/anthropic-posts-80bn-loss-in-first-half-of-2026-wsj?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The loss, up from $13bn in the same period last year, was driven by accounting charges, according to the report.",
+   "published": "2026-10-21T05:33:20+00:00"
+  },
+  {
+   "id": "69f56040b68b",
+   "title": "OpenAI says its agents turned off own safeguards",
+   "link": "https://www.aljazeera.com/economy/2026/10/21/openai-says-its-agents-turned-off-own-safeguards?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "ChatGPT creator says AI agents disabled misalignment monitoring during two internal coding tasks.",
+   "published": "2026-10-21T05:30:50+00:00"
   },
   {
    "id": "a71a61e0d546",
@@ -169,7 +367,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Friend of accused double murderer tells supreme court that van had lemony smell and blue tarp in back before Bunnings stop Beau Lamarre-Condon played Taylor Swift’s song No Body, No Crime while attempting to dispose of two corpses, a court has heard. The NSW supreme court has…",
+   "summary": "Friend of accused double murderer tells supreme court that van had lemony smell and blue tarp in back before Bunnings stop Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon played Taylor Swift’s song No Body, No Crime while attempting to dispose…",
    "published": "2026-10-21T05:23:56+00:00"
   },
   {
@@ -180,7 +378,7 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Children as young as 12 among dozens subject to federal police operations since 2020, parliamentary inquiry hears Australia is facing a “tsunami” of youth crime as artificial intelligence accelerates the pace and scale of radicalisation, a parliamentary inquiry has heard. The…",
+   "summary": "Children as young as 12 among dozens subject to federal police operations since 2020, parliamentary inquiry hears Get our new political email , free app or daily news podcast Australia is facing a “tsunami” of youth crime as artificial intelligence accelerates the pace and…",
    "published": "2026-10-21T05:18:20+00:00"
   },
   {
@@ -193,17 +391,6 @@
    "flourishing_feed": false,
    "summary": "Pro-Modi leader burns cockroach effigy to taunt youth protesters",
    "published": "2026-10-21T05:18:08+00:00"
-  },
-  {
-   "id": "35d81304e0ff",
-   "title": "No bail for alleged Helen Haines attacker as police chief warns of Australia’s ‘febrile’ political environment",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "AFP commissioner says MPs are generally concerned about growing volume of abuse and intimidation Follow our live blog for latest updates Get our breaking news email , free app or daily news podcast The head of the Australian federal police has condemned a “febrile” political…",
-   "published": "2026-10-21T05:17:12+00:00"
   },
   {
    "id": "0fd96f6e695c",
@@ -349,17 +536,6 @@
    "published": "2026-10-21T04:22:33+00:00"
   },
   {
-   "id": "030e0762a24f",
-   "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
-   "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
-   "published": "2026-10-21T04:13:14+00:00"
-  },
-  {
    "id": "a52d8cf9065a",
    "title": "Italy approves sweeping security measures in response to protests",
    "link": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
@@ -437,17 +613,6 @@
    "published": "2026-10-21T04:00:00+00:00"
   },
   {
-   "id": "0f70e7615542",
-   "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
-   "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
-   "published": "2026-10-21T03:59:18+00:00"
-  },
-  {
    "id": "0333d7319817",
    "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
    "link": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
@@ -479,17 +644,6 @@
    "flourishing_feed": false,
    "summary": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy.",
    "published": "2026-10-21T03:45:52+00:00"
-  },
-  {
-   "id": "4c9c5ce492cc",
-   "title": "Police charge accused Brendan Nugent with additional offences – as it happened",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Independent MP’s condition remains critical on Wednesday after surgery to save her remaining leg ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament Anthony Albanese has…",
-   "published": "2026-10-21T03:38:26+00:00"
   },
   {
    "id": "a15363a8c0a8",
@@ -666,17 +820,6 @@
    "flourishing_feed": false,
    "summary": "Alberta secessionists lost a referendum by a large margin. Quebec secessionists are in better shape, but still facing an uphill struggle.",
    "published": "2026-10-21T01:29:51+00:00"
-  },
-  {
-   "id": "e59d4d5cb311",
-   "title": "France is divided over who to blame for weekend riots and what to learn from them",
-   "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
-   "published": "2026-10-21T01:22:51+00:00"
   },
   {
    "id": "9c61900d9c77",
@@ -908,17 +1051,6 @@
    "flourishing_feed": false,
    "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
    "published": "2026-10-20T23:41:30+00:00"
-  },
-  {
-   "id": "b17a25d8c48a",
-   "title": "Elon Musk says Tesla-SpaceX merger being considered",
-   "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-   "published": "2026-10-20T23:24:47+00:00"
   },
   {
    "id": "f7a869046581",
