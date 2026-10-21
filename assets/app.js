@@ -89,7 +89,7 @@
       f.prompt && h("p", { class: "prompt" }, f.prompt)));
     // The day's line is stored in the KJV (public domain); swap in the ESV when a key is set.
     if (useEsv() && f.verse && Esv.allowed([f.verse])) {
-      Esv.passage(f.verse, store.esvKey, ymd(date)).then((t) => {
+      esvText(f.verse, date).then((t) => {
         // Keep the API's "(ESV)" mark with the quotation, as the guidelines require.
         verse.textContent = t.replace(/\[\d+\]\s*/g, "").replace(/\s+/g, " ").trim();
         cite.replaceChildren(ext(gateway(f.verse), f.verse));
@@ -115,8 +115,8 @@
       h("p", { class: "muted small" }, `This month: ${n.unit.title}`),
       textBox,
       h("div", { class: "card-actions" },
-        ext(gateway(passage), `Read in the ${store.version} on BibleGateway ↗`, useEsv() ? "btn-link subtle" : "btn-link"),
-        talkBtn("Ask about this passage", { kind: "reading", title: passage, body: `${n.unit.period}: ${n.unit.title}` }))));
+        // No chat here: Crossway asks that the ESV not be used with AI, so scripture readings stay AI-free.
+        ext(gateway(passage), `Read in the ${store.version} on BibleGateway ↗`, useEsv() ? "btn-link subtle" : "btn-link"))));
     if (useEsv() && Esv.allowed(n.chapters)) loadScripture(n.chapters, date, textBox);
     else if (useEsv()) {
       textBox.append(h("p", { class: "muted small" },
@@ -129,12 +129,14 @@
   }
 
   // ---------- ESV text (see assets/esv.js for how the API guidelines are kept) ----------
-  const useEsv = () => store.version === "ESV" && !!store.esvKey;
+  const useEsv = () => store.version === "ESV";
+  // A reader's own key fetches any day live; otherwise use today's text published by the hourly job.
+  const esvText = (ref, date) => (store.esvKey ? Esv.passage(ref, store.esvKey, ymd(date)) : Esv.fromSite(ref, ymd(date)));
 
   async function loadScripture(refs, date, box) {
     box.replaceChildren(h("p", { class: "muted small" }, "Loading the text…"));
     try {
-      const fetched = await Promise.all(refs.map(async (ref) => [ref, await Esv.passage(ref, store.esvKey, ymd(date))]));
+      const fetched = await Promise.all(refs.map(async (ref) => [ref, await esvText(ref, date)]));
       const { parts, trimmed } = Esv.cap(fetched);
       box.replaceChildren(...parts.flatMap(([ref, text]) => [
         h("h4", {}, ref),
@@ -146,7 +148,9 @@
     } catch (e) {
       box.replaceChildren(h("p", { class: "muted small" }, e.message === "401" || e.message === "403"
         ? "The ESV key was rejected. Check it in Settings (⚙), or use the link below."
-        : e.message === "rate" || e.message === "429"
+        : e.message === "not-today"
+          ? "The full ESV text is shown for today's reading. Read this day's passage on BibleGateway."
+          : e.message === "rate" || e.message === "429"
           ? "Paused to stay within the ESV's request limits. Try again in a minute, or use the link below."
           : "Couldn't load the text here. Use the link below."));
     }
@@ -213,6 +217,7 @@
     const head = h("div", { class: "story-head", role: "button", tabindex: 0, "aria-expanded": "false" },
       h("div", { class: "story-text" },
         h("h3", {}, item.title, item.borderline && h("span", { class: "badge" }, "borderline"), dd && h("span", { class: "badge deep" }, "deep dive"),
+          item.category === "good_in_world" && h("span", { class: "badge good" }, "good in the world"),
           item.label && h("span", { class: "badge unverified" }, item.label)),
         ourSummary(item) && h("p", { class: "blurb" }, firstSentence(ourSummary(item)))),
       flagBtn);

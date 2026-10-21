@@ -40,7 +40,19 @@
     "sat": "weekly",
     "sun": "reflection-hyperlocal"
   },
-  "pulse_max_items": 3,
+  "categories": {
+    "_comment": "Every story gets one category, decided from its scores. finance: domain relevance at or above min_domain. good_in_world: from a feed tagged \"category\": \"good_in_world\" in feeds.json, or flourishing at or above min_flourishing. Everything else is \"other\".",
+    "finance": { "min_domain": 6 },
+    "good_in_world": { "min_flourishing": 7 }
+  },
+  "quotas": {
+    "_comment": "daily_cap is the most items in a daily pulse (0 is fine). daily_max limits a category across the day's pulse and spotlight. daily_reserved holds a slot for a category, filled only when an article in it passes the stage-2 review; otherwise the slot goes to other news. weekly_* do the same for the Saturday digest.",
+    "daily_cap": 3,
+    "daily_max": { "finance": 1 },
+    "daily_reserved": { "good_in_world": 1 },
+    "weekly_max": { "finance": 4 },
+    "weekly_reserved": { "good_in_world": 1 }
+  },
   "weekly_min_items": 8,
   "weekly_max_items": 12,
   "deep_dives_per_week": 2,
@@ -70,6 +82,10 @@
     "trusted_authorities": [
       "Michael Kitces",
       "Jeff Levine"
+    ],
+    "official_sources": [
+      "IRS", "Treasury", "SEC", "FINRA", "Department of Labor", "Federal Reserve",
+      "Congressional Budget Office", "Social Security Administration", "CMS", "federal and state courts"
     ],
     "max_article_tokens": 7000,
     "max_reviews_per_section": 8

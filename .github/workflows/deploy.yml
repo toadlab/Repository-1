@@ -55,6 +55,15 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/build_digest.py
 
+      # Today's ESV text, fetched once a day with a secret key so the key never reaches browsers.
+      # Written to esv/today.json, which is published with the site but never committed.
+      - name: Fetch today's ESV text
+        env:
+          ESV_API_KEY: ${{ secrets.ESV_API_KEY }}
+          # Reuse today's text from the live site, so ESV is asked only once a day.
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+        run: node scripts/esv_today.js
+
       - name: Commit pipeline state
         id: commit
         run: |
