@@ -21,6 +21,11 @@ const fs = require("fs");
 const path = require("path");
 
 const root = path.resolve(__dirname, "..");
+const COPYRIGHT = "Scripture quotations marked “ESV” are from the ESV® Bible (The Holy Bible, English Standard " +
+  "Version®), © 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights " +
+  "reserved. The ESV text may not be quoted in any publication made available to the public by a Creative Commons " +
+  "license. The ESV may not be translated into any other language. Users may not copy or download more than 500 " +
+  "verses of the ESV Bible or more than one half of any book of the ESV Bible.";
 global.window = {};
 require(path.join(root, "assets/grounding.js"));
 require(path.join(root, "assets/esv.js"));
@@ -58,7 +63,7 @@ async function main() {
     try {
       const res = await fetch(new URL("esv/today.json", process.env.SITE_URL), { cache: "no-store" });
       const live = res.ok ? await res.json() : null;
-      if (live && live.date === ymd && refs.every((r) => live.passages?.[r])) {
+      if (live && live.date === ymd && live.copyright === COPYRIGHT && refs.every((r) => live.passages?.[r])) {
         fs.writeFileSync(outFile, JSON.stringify(live) + "\n");
         console.log(`ESV text for ${ymd} already published; reused it.`);
         return;
@@ -74,7 +79,9 @@ async function main() {
     passages[ref] = (await res.json()).passages.join("\n\n").trim();
   }
 
-  fs.writeFileSync(outFile, JSON.stringify({ date: ymd, passages }) + "\n");
+  // The file is downloadable by itself, so it carries the notice Crossway requires
+  // (https://api.esv.org/#copyright), in the same words as copyright.html.
+  fs.writeFileSync(outFile, JSON.stringify({ date: ymd, passages, copyright: COPYRIGHT, copyright_page: "copyright.html" }) + "\n");
   console.log(`ESV text for ${ymd}: ${Object.keys(passages).join("; ") || "(none)"}`);
 }
 
