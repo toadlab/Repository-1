@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T13:08:23.581951+00:00",
+ "generated": "2026-10-21T13:52:25.623986+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "name": "The Guardian World",
@@ -134,6 +134,258 @@
  ],
  "items": [
   {
+   "id": "6e840d5ab577",
+   "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+   "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
+   "published": "2026-10-21T13:49:50+00:00"
+  },
+  {
+   "id": "76f0a4c269a2",
+   "title": "Commons speaker accuses energy secretary of ‘immense discourtesy’ after she misses Jackdaw statement – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Lindsay Hoyle also said it was ‘shameful’ that her department announced the news to the media first Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of politics for Greenpeace UK , said:…",
+   "published": "2026-10-21T13:49:47+00:00"
+  },
+  {
+   "id": "5cb97bd18534",
+   "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
+   "link": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Contract signings to purchase homes fell in September to the lowest level on record, as buyers fled the housing market in the wake of the average 30-year mortgage rate crossing over 7%.",
+   "published": "2026-10-21T13:48:00+00:00"
+  },
+  {
+   "id": "a6d6e5c92d7d",
+   "title": "Thousands march in Greece over public education failures and cost of living – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Students, teachers and civil servants have shown up in Athens, with demonstrations also in Thessaloniki and other cities Meanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen Hubbard, a US…",
+   "published": "2026-10-21T13:45:20+00:00"
+  },
+  {
+   "id": "37b8f8578362",
+   "title": "Severely ill ICE detainees targeted for imminent deportation in Florida, advocates say",
+   "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Flights to unknown countries in Africa are scheduled as early as Wednesday, relatives detail Relatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical…",
+   "published": "2026-10-21T13:40:08+00:00"
+  },
+  {
+   "id": "dd065b9d406f",
+   "title": "Family of prison officer killed by IRA receives state apology",
+   "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+   "published": "2026-10-21T13:35:27+00:00"
+  },
+  {
+   "id": "fe7004385f5b",
+   "title": "How Israel’s war on Lebanon has cost young people with autism and ADHD",
+   "link": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Experts warn that war takes a heavy toll on neurodivergent people, who often rely on routine.",
+   "published": "2026-10-21T13:32:57+00:00"
+  },
+  {
+   "id": "6eed17f0c684",
+   "title": "New Lows",
+   "link": "https://reason.com/2026/10/21/new-lows/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Plus: Stamping out fraud, a visit to Anthropic's headquarters, and more...",
+   "published": "2026-10-21T13:30:36+00:00"
+  },
+  {
+   "id": "f24f3fe6d6db",
+   "title": "Israeli military detains US politician Brad Lander and rabbis at olive harvest",
+   "link": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "About 80 US, Israeli and British volunteers held near Nahalin in West Bank and taken to police station The Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olives near Bethlehem, including the New York Democratic…",
+   "published": "2026-10-21T13:30:01+00:00"
+  },
+  {
+   "id": "27d4d9f3430c",
+   "title": "80 Israelis and Americans, including NY Democrat Brad Lander, detained in West Bank",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "U.S. Democratic congressional nominee Brad Lander was detained along with about 80 American and Israeli rabbis and activists by Israeli security forces as they helped Palestinian olive harvesters.",
+   "published": "2026-10-21T13:28:04+00:00"
+  },
+  {
+   "id": "e775a65eb48a",
+   "title": "Are the UK, France being pulled into the Saudi-Houthi conflict?",
+   "link": "https://www.aljazeera.com/news/2026/10/21/are-the-uk-france-being-pulled-into-the-saudi-houthi-conflict?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The European states say their support for Riyadh is 'defensive', but analysts warn Houthi reaction may complicate that.",
+   "published": "2026-10-21T13:25:50+00:00"
+  },
+  {
+   "id": "d0766c037e08",
+   "title": "As fans reject AI-generated music, even boosters are drawing the line",
+   "link": "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Enthusiasts like Grimes and A$AP Rocky may embrace AI-generated content, but they won’t produce it themselves Streaming services, notable musicians and fans are confronting the growing presence of AI-generated music and drawing lines in the sand. On Tuesday, Spotify announced…",
+   "published": "2026-10-21T13:22:51+00:00"
+  },
+  {
+   "id": "ee9d45913a48",
+   "title": "Double blow to Healey as inflation rises to 3.5% and monthly deficit hits £24bn",
+   "link": "https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Consumer prices rise by more than expected while government’s debt interest payments surge to record high for September Business live – latest updates Inflation surged to 3.5% last month while the government deficit was a worse-than-forecast £24.5bn, in a double dose of bad…",
+   "published": "2026-10-21T13:21:16+00:00"
+  },
+  {
+   "id": "ebc09ad59d68",
+   "title": "From one house to villages: Israeli settlers have Palestinians surrounded",
+   "link": "https://www.aljazeera.com/features/2026/10/21/from-one-house-to-whole-villages-settlers-have-palestinians-surrounded?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A family in the South Hebron Hills has spent more than two weeks cut off by settlers camped outside.",
+   "published": "2026-10-21T13:20:27+00:00"
+  },
+  {
+   "id": "c18de0a24056",
+   "title": "26-00655.pdf",
+   "link": "https://www.finra.org/node/390756",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "26-00655.pdf Anonymous (not verified) Wed, 10/21/2026 - 09:20 Case ID 26-00655 Forum FINRA Document Type Award Claimants Frederick Yard Respondents Larry Smith Hearing Site Charlotte, NC Award Document 26-00655.pdf Documentum DocID 63ffd073 Award Date Official Mon, 10/19/2026 -…",
+   "published": "2026-10-21T13:20:01+00:00"
+  },
+  {
+   "id": "88dd6684d6f6",
+   "title": "Thousands of California public employees set to strike over contract",
+   "link": "https://www.theguardian.com/us-news/2026/oct/21/california-nurses-teachers-strike",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "SEIU Local 1000, representing nurses and teachers, pushing for higher wages, telework and affordable healthcare Thousands of California state workers were set to strike on Wednesday, rallying outside government buildings in several cities, as tensions boiled over lapsed…",
+   "published": "2026-10-21T13:20:00+00:00"
+  },
+  {
+   "id": "cf995ab8ef53",
+   "title": "French borrowing costs hit 24-year high as civil unrest and budget fears spook markets",
+   "link": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Yield on 10-year government bonds passes 5% amid failure to pass budget and fallout from violent street protests Business live – latest updates France’s borrowing costs have climbed above 5% for the first time in 24 years as political concerns and the government’s failure to…",
+   "published": "2026-10-21T13:17:32+00:00"
+  },
+  {
+   "id": "0ae74849b12d",
+   "title": "Trump hails Russia’s release of US teacher amid Witkoff’s visit – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "US was not required to give anything in return for Stephen Hubbard’s release ‘out of respect for President Trump’, he claims Sign up for Breaking News US email Send us your questions about immigration and the midterms Meanwhile, as my colleague Jakub Krupa reports, French…",
+   "published": "2026-10-21T13:14:30+00:00"
+  },
+  {
+   "id": "9e1d33bd0129",
+   "title": "401(k) Real Talk Episode 213: October 21, 2026",
+   "link": "https://www.wealthmanagement.com/rpa-news/401-k-real-talk-episode-213-october-21-2026",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Open, honest and candid discussion about RIA M&A, CIT education, the value of managed accounts, small businesses being attractive to insurance brokers, the effect of state mandates on DC plans and more.",
+   "published": "2026-10-21T13:14:28+00:00"
+  },
+  {
+   "id": "ec3759d6cd19",
+   "title": "Pakistani authorities arrest man accused in $126m US postage fraud",
+   "link": "https://www.aljazeera.com/news/2026/10/21/pakistani-authorities-arrest-man-accused-in-126m-us-postage-fraud?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Faheem Akram has been charged with several offences including conspiracy to defraud the United States.",
+   "published": "2026-10-21T13:06:53+00:00"
+  },
+  {
+   "id": "69b6d4a577cd",
+   "title": "UK cinemas report ‘bonkers’ demand for documentary You Can See Everything",
+   "link": "https://www.theguardian.com/film/2026/oct/21/uk-cinemas-report-bonkers-demand-for-documentary-you-can-see-everything",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Tickets for film about Theranos founder Elizabeth Holmes said to be selling out after $15m opening weekend in the US It is the film everyone seems to be talking about, spawning memes and fuelling feverish online debate about its subject, the disgraced Theranos founder Elizabeth…",
+   "published": "2026-10-21T13:06:46+00:00"
+  },
+  {
    "id": "12c556f7c17e",
    "title": "France’s Macron says protesters won’t be allowed to ‘cause chaos’",
    "link": "https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss",
@@ -144,6 +396,30 @@
    "category_hint": null,
    "summary": "French president criticises comments by 'foreign leaders' trying to exploit disorder for their own political agenda.",
    "published": "2026-10-21T12:54:43+00:00"
+  },
+  {
+   "id": "8f0b8b69f14a",
+   "title": "Woman told she had cancer by NHS worker who inappropriately accessed her records",
+   "link": "https://www.theguardian.com/society/2026/oct/21/woman-told-she-had-cancer-by-nhs-worker-who-inappropriately-accessed-her-records-royal-cornwall-hospital",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Pippa Boardman said she lost her dignity through data breach at Royal Cornwall hospital by man she barely knew A woman was told she had cancer by a hospital employee she barely knew who had accessed her medical records days before she was due to receive test results from her…",
+   "published": "2026-10-21T12:53:59+00:00"
+  },
+  {
+   "id": "3a8356da4c10",
+   "title": "Student who stabbed housemate to death in Gloucestershire jailed for life",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/21/zack-coughlan-stabbed-housemate-gloucestershire-jailed-for-life",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Zack Coughlan, 23, killed Jamie Collins, 21, in garden of home they shared and initially denied murder A university student who lay in wait for his housemate to return home before stabbing him 30 times has been jailed for life with a minimum term of 28 years. Zack Coughlan, 23,…",
+   "published": "2026-10-21T12:50:55+00:00"
   },
   {
    "id": "0d24edac872c",
@@ -158,52 +434,16 @@
    "published": "2026-10-21T12:49:52+00:00"
   },
   {
-   "id": "76f0a4c269a2",
-   "title": "Burnham and Badenoch clash over Jackdaw gasfield and inflation – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The Jackdaw field will start supplying gas to homes and businesses from the end of the month, the government said Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of politics for Greenpeace…",
-   "published": "2026-10-21T12:49:40+00:00"
-  },
-  {
-   "id": "a6d6e5c92d7d",
-   "title": "Macron blasts ‘unacceptable’ and ‘stupid’ commentary on protests from other leaders – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Macron says he is frustrated by the ‘visible manipulation of information’ about the events in France Meanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen Hubbard, a US citizen held by Moscow…",
-   "published": "2026-10-21T12:49:15+00:00"
-  },
-  {
-   "id": "0ae74849b12d",
-   "title": "Trump hails Russia’s release of US teacher amid Witkoff’s visit – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "US was not required to give anything in return for Stephen Hubbard’s release ‘out of respect for President Trump’, he claims Sign up for Breaking News US email It’s also worth noting, as we bring you more from Steve Witkoff’s meeting in St Petersburg with Russian officials,…",
-   "published": "2026-10-21T12:45:29+00:00"
-  },
-  {
-   "id": "6e840d5ab577",
-   "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-   "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+   "id": "4461fa45eba6",
+   "title": "Nigeria confirms Ebola case linked to East Africa",
+   "link": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says.",
-   "published": "2026-10-21T12:32:01+00:00"
+   "summary": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
+   "published": "2026-10-21T12:39:34+00:00"
   },
   {
    "id": "160a52a19532",
@@ -312,18 +552,6 @@
    "category_hint": null,
    "summary": "SpaceX just gave Wall Street a big reason to believe in the artificial-intelligence boom as demand for its computing power is off the charts.",
    "published": "2026-10-21T12:06:00+00:00"
-  },
-  {
-   "id": "d0766c037e08",
-   "title": "As fans reject AI-generated music, even boosters are drawing the line",
-   "link": "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Enthusiasts like Grimes and A$AP Rocky may embrace AI-generated content, but they won’t produce it themselves Streaming services, notable musicians and fans are confronting the growing presence of AI-generated music and drawing lines in the sand. On Tuesday, Spotify announced…",
-   "published": "2026-10-21T12:00:17+00:00"
   },
   {
    "id": "c3c648f7edad",
@@ -1217,7 +1445,7 @@
   },
   {
    "id": "7b7b3ec1476d",
-   "title": "Watch: Third attempt to save 'celebrity' shark stranded in South Korean canal",
+   "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
    "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -4151,14 +4379,14 @@
   },
   {
    "id": "b69facee453c",
-   "title": "United Airlines CEO Calls for New Taxes on Wealth and Inheritances: What That Would Mean for Your Money",
+   "title": "United Airlines CEO Calls for a National Wealth Tax and New Taxes on Inheritances",
    "link": "https://www.kiplinger.com/taxes/united-airlines-ceo-calls-for-new-taxes-on-wealth-and-inheritances",
    "source": "Kiplinger",
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Scott Kirby's comments on a national wealth tax and a near-100% inheritance tax come as states debate new taxes on the wealthy.",
+   "summary": "Scott Kirby's comments on new taxes on wealth and inheritances come as several states debate taxes on the wealthy.",
    "published": "2026-10-20T15:41:00+00:00"
   },
   {
@@ -4261,17 +4489,6 @@
    "category_hint": null,
    "summary": "IPOs are an enticing way to gain exposure to a stock from the ground up, but high rewards come with high risk. Here's what you need to know before investing.",
    "published": "2026-10-20T15:02:09+00:00"
-  },
-  {
-   "id": "5cb97bd18534",
-   "title": "Pending home sales sink to 25-year low as buyers flee high mortgage rates",
-   "link": "https://www.marketwatch.com/story/pending-home-sales-sink-to-25-year-low-as-buyers-flee-high-mortgage-rates-d02c6b30?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Contract signings to purchase homes fell in September to the lowest level on record, as buyers fled the housing market in the wake of the average 30-year mortgage rate crossing over 7%.",
-   "published": "2026-10-20T15:01:00+00:00"
   },
   {
    "id": "87d499acd7c2",
