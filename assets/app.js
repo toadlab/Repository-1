@@ -89,7 +89,7 @@
       f.prompt && h("p", { class: "prompt" }, f.prompt)));
     // The day's line is stored in the KJV (public domain); swap in the ESV when a key is set.
     if (useEsv() && f.verse && Esv.allowed([f.verse])) {
-      Esv.passage(f.verse, esvKey(), ymd(date)).then((t) => {
+      esvText(f.verse, date).then((t) => {
         // Keep the API's "(ESV)" mark with the quotation, as the guidelines require.
         verse.textContent = t.replace(/\[\d+\]\s*/g, "").replace(/\s+/g, " ").trim();
         cite.replaceChildren(ext(gateway(f.verse), f.verse));
@@ -129,13 +129,14 @@
   }
 
   // ---------- ESV text (see assets/esv.js for how the API guidelines are kept) ----------
-  const esvKey = () => store.esvKey || Esv.SITE_KEY;
-  const useEsv = () => store.version === "ESV" && !!esvKey();
+  const useEsv = () => store.version === "ESV";
+  // A reader's own key fetches any day live; otherwise use today's text published by the hourly job.
+  const esvText = (ref, date) => (store.esvKey ? Esv.passage(ref, store.esvKey, ymd(date)) : Esv.fromSite(ref, ymd(date)));
 
   async function loadScripture(refs, date, box) {
     box.replaceChildren(h("p", { class: "muted small" }, "Loading the text…"));
     try {
-      const fetched = await Promise.all(refs.map(async (ref) => [ref, await Esv.passage(ref, esvKey(), ymd(date))]));
+      const fetched = await Promise.all(refs.map(async (ref) => [ref, await esvText(ref, date)]));
       const { parts, trimmed } = Esv.cap(fetched);
       box.replaceChildren(...parts.flatMap(([ref, text]) => [
         h("h4", {}, ref),
@@ -147,7 +148,9 @@
     } catch (e) {
       box.replaceChildren(h("p", { class: "muted small" }, e.message === "401" || e.message === "403"
         ? "The ESV key was rejected. Check it in Settings (⚙), or use the link below."
-        : e.message === "rate" || e.message === "429"
+        : e.message === "not-today"
+          ? "The full ESV text is shown for today's reading. Read this day's passage on BibleGateway."
+          : e.message === "rate" || e.message === "429"
           ? "Paused to stay within the ESV's request limits. Try again in a minute, or use the link below."
           : "Couldn't load the text here. Use the link below."));
     }

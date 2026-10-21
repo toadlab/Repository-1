@@ -5,15 +5,17 @@
    - Text is never written to disk: fetches bypass the HTTP cache, and the in-memory copy
      holds only the passages on screen for the current day.
    - Requests are capped below the 60/minute, 1,000/hour and 5,000/day limits.
-   - Use is personal and non-commercial. The site's own key is below (Crossway approved its use on
-     this site); a key entered in Settings overrides it for that browser.
+   - Use is personal and non-commercial. The site's key is never sent to browsers: the hourly
+     GitHub job (scripts/esv_today.js) fetches today's passages with it and publishes them as
+     esv/today.json, replaced daily and never committed. A reader's own key, entered in Settings,
+     is used directly from that browser and works for any day.
    - ESV text is never sent to AI: Crossway has asked that the ESV not be used with AI, so the
      reading has no chat, and chat contexts only ever carry the built-in KJV lines. */
 (function () {
   "use strict";
 
   const API = "https://api.esv.org/v3/passage/text/";
-  const SITE_KEY = "d39a12f08518163d2a38a36dc436a14ac97216e9";
+  const TODAY_FILE = "esv/today.json";
   const MAX_VERSES = 500;
   const LIMITS = [[60_000, 50], [3_600_000, 900], [86_400_000, 4_500]]; // [window ms, max requests], under the API's caps
 
@@ -63,6 +65,31 @@
     return LIMITS.every(([ms, max]) => sent.filter((t) => now - t < ms).length < max);
   }
 
+  /** Query for one passage, shared with scripts/esv_today.js so both ask for the same thing. */
+  function params(ref) {
+    return new URLSearchParams({
+      q: ref, "include-passage-references": "false", "include-footnotes": "false",
+      "include-headings": "false", "include-short-copyright": "true", "include-copyright": "false",
+      "indent-paragraphs": "0", "indent-poetry": "false",
+    });
+  }
+
+  let todayFile = null;
+  /** Today's text as published by the hourly job. Rejects with "not-today" for any other date. */
+  function fromSite(ref, date) {
+    if (!todayFile) {
+      todayFile = fetch(TODAY_FILE, { cache: "no-store" })
+        .then((res) => (res.ok ? res.json() : null)).catch(() => null);
+    }
+    return todayFile.then((f) => {
+      if (!f) throw new Error("unavailable");
+      if (f.date !== date) throw new Error("not-today");
+      const text = f.passages?.[ref];
+      if (!text) throw new Error("unavailable");
+      return text;
+    });
+  }
+
   let day = null;
   const memory = new Map(); // only the current day's passages
 
@@ -72,12 +99,7 @@
     if (memory.has(ref)) return memory.get(ref);
     if (!underRateLimit()) return Promise.reject(new Error("rate"));
     sent.push(Date.now());
-    const q = new URLSearchParams({
-      q: ref, "include-passage-references": "false", "include-footnotes": "false",
-      "include-headings": "false", "include-short-copyright": "true", "include-copyright": "false",
-      "indent-paragraphs": "0", "indent-poetry": "false",
-    });
-    const p = fetch(`${API}?${q}`, { headers: { Authorization: `Token ${key}` }, cache: "no-store" })
+    const p = fetch(`${API}?${params(ref)}`, { headers: { Authorization: `Token ${key}` }, cache: "no-store" })
       .then((res) => { if (!res.ok) throw new Error(String(res.status)); return res.json(); })
       .then((d) => d.passages.join("\n\n").trim())
       .catch((e) => { memory.delete(ref); throw e; });
@@ -106,5 +128,5 @@
     return { parts: out, trimmed };
   }
 
-  window.Esv = { allowed, passage, cap, MAX_VERSES, SITE_KEY };
+  window.Esv = { allowed, passage, fromSite, params, cap, API, MAX_VERSES };
 })();
