@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T16:46:52.661860+00:00",
+ "generated": "2026-10-21T17:43:45.030815+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "name": "Federal Register: IRS",
@@ -134,18 +134,6 @@
  ],
  "items": [
   {
-   "id": "76f0a4c269a2",
-   "title": "Reform UK claims racism exposé has left some members ‘psychologically damaged’ as it reports ITV to police – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Zia Yusuf claims undercover investigation broke the law as broadcaster stands by its journalism Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of politics for Greenpeace UK , said:…",
-   "published": "2026-10-21T16:39:09+00:00"
-  },
-  {
    "id": "020c23c2780c",
    "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
    "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
@@ -155,7 +143,223 @@
    "flourishing_feed": false,
    "category_hint": null,
    "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
-   "published": "2026-10-21T16:38:06+00:00"
+   "published": "2026-10-21T17:42:34+00:00"
+  },
+  {
+   "id": "70a4efc2441b",
+   "title": "Nuclear Power Now Has Bipartisan Support",
+   "link": "https://reason.com/2026/10/21/nuclear-power-now-has-bipartisan-support/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Majorities of both major parties now recognize its potential as a more clean and stable energy source.",
+   "published": "2026-10-21T17:35:08+00:00"
+  },
+  {
+   "id": "26c26d64b754",
+   "title": "Shabana Mahmood urged to ‘read the room’ on Labour opposition to immigration policy",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "No 10 declines to rule out watering down plans to extend waiting period for indefinite leave to remain as cabinet split widens Shabana Mahmood has been urged to “read the room” on Labour opposition to her immigration policy, as No 10 declined to rule out watering down her plans…",
+   "published": "2026-10-21T17:33:58+00:00"
+  },
+  {
+   "id": "0ae74849b12d",
+   "title": "Democrats have 11-point lead among likely voters as Trump’s approval rating craters – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "New poll finds likely voters prefer Democratic candidates over Republicans running for office by 11 percentage points; Trump campaigns in South Carolina Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The…",
+   "published": "2026-10-21T17:31:38+00:00"
+  },
+  {
+   "id": "63d0e0de8c41",
+   "title": "Big 12 power rankings: Wild weekend vaults BYU to the top and leads to plenty of shuffling",
+   "link": "https://www.deseret.com/sports/2026/10/21/big-12-power-rankings-2026-season-after-week-7-utah-byu/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Big 12 football fans, live it up — there are currently more Big 12 teams in the top 10 of the latest Associated Press Top 25 rankings than SEC teams. Scoreboard — Big 12 3, SEC 2. BYU (ranked No. 2), Texas Tech (No. 8) and Utah (No. 10) are all still unbeaten, sitting at 6-0…",
+   "published": "2026-10-21T17:30:00+00:00"
+  },
+  {
+   "id": "5646cc72e052",
+   "title": "Stolen SSN? A New Law Promises Faster Help From Social Security",
+   "link": "https://www.kiplinger.com/retirement/social-security/stolen-ssn-a-new-law-promises-faster-help-from-social-security",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A new law aims to cut red tape for SSN identity theft victims and promises a single point of contact.",
+   "published": "2026-10-21T17:28:46+00:00"
+  },
+  {
+   "id": "e63388405da4",
+   "title": "This country — surprisingly — has the most international players on NBA rosters",
+   "link": "https://www.deseret.com/sports/2026/10/21/nba-international-players-europe-africa-france/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "In 1946, the NBA opened its first season with a game between the New York Knickerbockers and the Toronto Huskers in Ontario, Canada. Suiting up for the Huskers that night was Italian-born Hank Biasatti. The 5-foot-11 guard who grew up in Windsor, Ontario, didn’t have a long…",
+   "published": "2026-10-21T17:26:49+00:00"
+  },
+  {
+   "id": "37df3a7841b8",
+   "title": "Controversial US-backed vaccine trial in African newborns halted",
+   "link": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday. It is “now clear” that…",
+   "published": "2026-10-21T17:18:56+00:00"
+  },
+  {
+   "id": "f8e620144cfc",
+   "title": "Energy secretary leaning towards rejecting Rosebank oilfield",
+   "link": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Exclusive: Officials say Miatta Fahnbulleh minded not to give approval in victory for climate campaigners Miatta Fahnbulleh is minded to reject the giant Rosebank oilfield, sources have told the Guardian, in what would be a blow for the North Sea energy industry and a major…",
+   "published": "2026-10-21T17:15:23+00:00"
+  },
+  {
+   "id": "f6c904eb75aa",
+   "title": "High school girls soccer: 3A/2A state tournament semifinal previews",
+   "link": "https://www.deseret.com/sports/2026/10/21/high-school-girls-soccer-3a-2a-semifinal-previews/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "3A semifinals No. 4 Richfield vs. No. 1 Manti No. 1 seed Manti has won 13 straight meetings with Richfield, a streak that goes back to the 2012 season. The No. 4 seed Wildcats will try to end it Thursday at 9 a.m. at Zions Bank Stadium, with a spot in the 3A championship on the…",
+   "published": "2026-10-21T17:14:11+00:00"
+  },
+  {
+   "id": "e395a06696d3",
+   "title": "In these Israeli elections, Arab citizens could be the deciding vote",
+   "link": "https://www.csmonitor.com/World/Middle-East/2026/1021/israel-arab-election-netanyahu-palestinian?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "In Israel, polls show a tight race, with neither of the two major factions likely to win an outright majority. Arab political parties could play a key role.",
+   "published": "2026-10-21T17:13:19+00:00"
+  },
+  {
+   "id": "028bcf7a0050",
+   "title": "Pollster admits to fabricating data for ‘social experiment’ to expose flaws of industry",
+   "link": "https://www.theguardian.com/us-news/2026/oct/21/polling-fabricated-data-social-experiment",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Wedgewood Polls said project was designed to highlight lack of scrutiny over polling sector by mainstream media A polling firm has admitted to using fabricated data in surveys that were picked up by national media outlets in the US, claiming the project was a “social…",
+   "published": "2026-10-21T17:12:45+00:00"
+  },
+  {
+   "id": "18f4954ad2fd",
+   "title": "Jackdaw approval is a step towards a grownup North Sea policy",
+   "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/21/jackdaw-approval-step-towards-grownup-north-sea-policy",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Government decision is about how much oil and gas is sensible for UK to produce on the way to net zero Business live – latest updates Andy Burnham hit the nail on the (well)head in his first fortnight as prime minister when he said : “The question isn’t whether Britain will…",
+   "published": "2026-10-21T17:12:32+00:00"
+  },
+  {
+   "id": "b37ec870fe5f",
+   "title": "US Park Police spend $343,000 on mobile surveillance cameras in Washington DC",
+   "link": "https://www.theguardian.com/us-news/2026/oct/21/park-police-surveillance-cameras-washington-dc",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Cameras reportedly set up near site for Trump’s proposed arch, Arlington Memorial Bridge and reflecting pool The US Park Police are spending $343,000 to lease mobile surveillance cameras from a company that also supplies Immigration and Customs Enforcement (ICE) , federal…",
+   "published": "2026-10-21T17:06:36+00:00"
+  },
+  {
+   "id": "8bb3fa61b3f4",
+   "title": "Macron makes surprise Saudi visit as France secures extra diesel supplies",
+   "link": "https://www.aljazeera.com/news/2026/10/21/macron-makes-surprise-saudi-visit-as-france-secures-extra-diesel-supplies?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "French president meets Mohammed bin Salman in Riyadh to discuss energy, security, and infrastructure.",
+   "published": "2026-10-21T16:58:39+00:00"
+  },
+  {
+   "id": "dd065b9d406f",
+   "title": "Family of prison officer killed by IRA receives state apology",
+   "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+   "published": "2026-10-21T16:58:16+00:00"
+  },
+  {
+   "id": "bf2dff0c5c68",
+   "title": "Paris shopkeepers fear more destruction after riots destroy livelihoods",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/10-21-reported-paris-shopkeepers-truamatised?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "‘I have nothing left.’ Small business owners in Paris say they are traumatised after rioters looted their shops.",
+   "published": "2026-10-21T16:57:15+00:00"
+  },
+  {
+   "id": "0bb65b7b4a86",
+   "title": "Walmart and Sam's Club's New $120 Membership Deal",
+   "link": "https://www.kiplinger.com/personal-finance/deals/walmart-and-sams-club-bundle-membership-deal-ahead-of-the-holidays",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Walmart and Sam's Club now offer both memberships for $120 a year. See how to save $98 and what existing members can do.",
+   "published": "2026-10-21T16:48:31+00:00"
+  },
+  {
+   "id": "76f0a4c269a2",
+   "title": "UK politics: Reform UK claims racism exposé has left some members ‘psychologically damaged’ as it reports ITV to police – as it happened",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Zia Yusuf claims undercover investigation broke the law as broadcaster stands by its journalism Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of politics for Greenpeace UK , said:…",
+   "published": "2026-10-21T16:45:48+00:00"
   },
   {
    "id": "1c3850e69951",
@@ -170,6 +374,18 @@
    "published": "2026-10-21T16:35:36+00:00"
   },
   {
+   "id": "fc442273ea80",
+   "title": "Macron’s surprise ‘solidarity’ visit to Saudi Arabia",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macrons-surprise-solidarity-visit-to-saudi-arabia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "French President Emmanuel Macron made a surprise stop in Riyadh to meet Saudi Crown Prince during his ongoing Gulf tour.",
+   "published": "2026-10-21T16:34:27+00:00"
+  },
+  {
    "id": "acb23b508f2a",
    "title": "Medicare is a bargain. What America can’t afford is private health insurance.",
    "link": "https://www.marketwatch.com/story/medicare-is-a-bargain-what-america-cant-afford-is-private-health-insurance-8a834023?mod=mw_rss_topstories",
@@ -180,18 +396,6 @@
    "category_hint": null,
    "summary": "Private insurance costs way more for the same results — or worse.",
    "published": "2026-10-21T16:34:00+00:00"
-  },
-  {
-   "id": "0ae74849b12d",
-   "title": "Democrats have 11-point lead among likely voters as Trump’s approval rating craters – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "New poll finds likely voters prefer Democratic candidates over Republicans running for office by 11 percentage points; Trump campaigns in South Carolina Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The…",
-   "published": "2026-10-21T16:32:52+00:00"
   },
   {
    "id": "f904500d979f",
@@ -432,18 +636,6 @@
    "category_hint": null,
    "summary": "The most important part of a wealth transfer is not the money.",
    "published": "2026-10-21T15:50:45+00:00"
-  },
-  {
-   "id": "dd065b9d406f",
-   "title": "Family of prison officer killed by IRA receives state apology",
-   "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
-   "published": "2026-10-21T15:50:21+00:00"
   },
   {
    "id": "07e8a595b014",
@@ -1442,18 +1634,6 @@
    "published": "2026-10-21T12:32:00+00:00"
   },
   {
-   "id": "f8e620144cfc",
-   "title": "Energy secretary leaning towards rejecting Rosebank oilfield",
-   "link": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Exclusive: Officials say Miatta Fahnbulleh minded not to give approval in victory for climate campaigners UK politics live – latest updates Miatta Fahnbulleh is leaning towards rejecting the giant Rosebank oilfield, the Guardian understands, in what would be a blow for the…",
-   "published": "2026-10-21T12:31:05+00:00"
-  },
-  {
    "id": "85557c98f234",
    "title": "‘They try to break us’: Pro-Palestine activists in Czech custody",
    "link": "https://www.aljazeera.com/news/2026/10/21/they-try-to-break-us-pro-palestine-activists-in-czech-custody?traffic_source=rss",
@@ -1814,17 +1994,6 @@
    "published": "2026-10-21T10:22:35+00:00"
   },
   {
-   "id": "26c26d64b754",
-   "title": "Cabinet split widens as minister refuses to back Shabana Mahmood’s immigration plans",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Miatta Fahnbulleh avoids explicitly expressing support for 15-year path to permanent residency for foreign workers UK politics live – latest updates A cabinet split over Shabana Mahmood’s immigration policy has deepened after the energy secretary refused to say she backed plans…",
-   "published": "2026-10-21T10:21:18+00:00"
-  },
-  {
    "id": "b491990b72d4",
    "title": "Russia releases imprisoned U.S. citizen Stephen Hubbard following Trump's request",
    "link": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen",
@@ -2012,17 +2181,6 @@
    "category_hint": null,
    "summary": "Retirees in California enjoy sunny days, tasty meals and more, but the state comes with some unique financial considerations. Here's a guide for DIY retirees.",
    "published": "2026-10-21T10:00:00+00:00"
-  },
-  {
-   "id": "18f4954ad2fd",
-   "title": "Jackdaw approval is a step towards a grownup North Sea policy",
-   "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/oct/21/jackdaw-approval-step-towards-grownup-north-sea-policy",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Government decision is about how much oil and gas is sensible for UK to produce on the way to net zero Business live – latest updates Andy Burnham hit the nail on the (well)head in his first fortnight as prime minister when he said : “The question isn’t whether Britain will…",
-   "published": "2026-10-21T09:59:48+00:00"
   },
   {
    "id": "fb88ae550486",
