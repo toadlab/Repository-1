@@ -9,7 +9,12 @@
    Also writes data/state/esv_day.txt (just the date, no scripture) so the job redeploys the
    site when the day changes.
 
-   Env: ESV_API_KEY (required; without it nothing is written), ESV_API (optional, for tests).
+   Runs every hour with the rest of the job, but asks the ESV API only once a day: each run
+   republishes the whole site, so it first copies today's file from the live site (SITE_URL)
+   and only fetches from ESV when that copy is missing or from an earlier day.
+
+   Env: ESV_API_KEY (required; without it nothing is written), SITE_URL (the live site, to reuse
+   today's file), ESV_API (optional, for tests).
    No ESV text is ever sent to an AI service from here. */
 "use strict";
 const fs = require("fs");
@@ -43,6 +48,24 @@ async function main() {
   else console.log(`Today's reading (${reading.join("; ")}) is over the ESV per-page limit; the page links out.`);
   if (focus && Esv.allowed([focus]) && !refs.includes(focus)) refs.push(focus);
 
+  const outDir = path.join(root, "esv");
+  const outFile = path.join(outDir, "today.json");
+  fs.mkdirSync(outDir, { recursive: true });
+  fs.writeFileSync(path.join(root, "data/state/esv_day.txt"), ymd + "\n");
+
+  // Already published today? Carry it into this deploy without asking ESV again.
+  if (process.env.SITE_URL) {
+    try {
+      const res = await fetch(new URL("esv/today.json", process.env.SITE_URL), { cache: "no-store" });
+      const live = res.ok ? await res.json() : null;
+      if (live && live.date === ymd && refs.every((r) => live.passages?.[r])) {
+        fs.writeFileSync(outFile, JSON.stringify(live) + "\n");
+        console.log(`ESV text for ${ymd} already published; reused it.`);
+        return;
+      }
+    } catch (_) { /* not published yet, or the site is unreachable: fetch below */ }
+  }
+
   const api = process.env.ESV_API || Esv.API;
   const passages = {};
   for (const ref of refs) {
@@ -51,9 +74,7 @@ async function main() {
     passages[ref] = (await res.json()).passages.join("\n\n").trim();
   }
 
-  fs.mkdirSync(path.join(root, "esv"), { recursive: true });
-  fs.writeFileSync(path.join(root, "esv/today.json"), JSON.stringify({ date: ymd, passages }) + "\n");
-  fs.writeFileSync(path.join(root, "data/state/esv_day.txt"), ymd + "\n");
+  fs.writeFileSync(outFile, JSON.stringify({ date: ymd, passages }) + "\n");
   console.log(`ESV text for ${ymd}: ${Object.keys(passages).join("; ") || "(none)"}`);
 }
 
