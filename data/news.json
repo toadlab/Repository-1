@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T04:45:19.190768+00:00",
+ "generated": "2026-10-21T05:44:53.472246+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "name": "The Guardian World",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 32
+   "count": 34
   },
   {
    "name": "Congressional Budget Office",
@@ -129,6 +129,215 @@
  ],
  "items": [
   {
+   "id": "173310b12b9f",
+   "title": "France announces nightly curfews 'for as long as necessary' in Paris and other cities",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Fresh curfews were being imposed across the city centers of Paris and Lyon on Tuesday after the first quiet night since France's most destructive rioting in years.",
+   "published": "2026-10-21T05:37:28+00:00"
+  },
+  {
+   "id": "a71a61e0d546",
+   "title": "Which countries and players have won the most Ballon d’Or awards?",
+   "link": "https://www.aljazeera.com/sports/2026/10/21/which-countries-and-players-have-won-the-most-ballon-dor-awards?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Argentina's Lionel Messi has won all of his country's eight prizes, while Portugal's Cristiano Ronaldo has won five.",
+   "published": "2026-10-21T05:29:28+00:00"
+  },
+  {
+   "id": "7f1aff112ff5",
+   "title": "Far from fringe: How Israel’s mainstream parties vote with the far right",
+   "link": "https://www.aljazeera.com/news/2026/10/21/far-from-fringe-how-israels-mainstream-parties-vote-with-the-far-right?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Al Jazeera analysed how every party in the Knesset voted on the most consequential measures affecting Palestinians.",
+   "published": "2026-10-21T05:24:49+00:00"
+  },
+  {
+   "id": "a7e56a88e488",
+   "title": "Beau Lamarre-Condon allegedly played Taylor Swift’s No Body, No Crime during body disposal, court told",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/21/beau-lamarre-condon-murder-trial-taylor-swift-song-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Friend of accused double murderer tells supreme court that van had lemony smell and blue tarp in back before Bunnings stop Beau Lamarre-Condon played Taylor Swift’s song No Body, No Crime while attempting to dispose of two corpses, a court has heard. The NSW supreme court has…",
+   "published": "2026-10-21T05:23:56+00:00"
+  },
+  {
+   "id": "ac3c7d03839e",
+   "title": "AFP warns Australia of ‘tsunami of youth crime’ and radicalisation accelerated by AI",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/21/afp-warns-australia-of-tsunami-of-youth-and-radicalisation-accelerated-by-ai",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Children as young as 12 among dozens subject to federal police operations since 2020, parliamentary inquiry hears Australia is facing a “tsunami” of youth crime as artificial intelligence accelerates the pace and scale of radicalisation, a parliamentary inquiry has heard. The…",
+   "published": "2026-10-21T05:18:20+00:00"
+  },
+  {
+   "id": "7943a1157cae",
+   "title": "Pro-Modi leader burns cockroach effigy to taunt youth protesters",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/pro-modi-leader-burns-cockroach-effigy-to-taunt-youth-protesters?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Pro-Modi leader burns cockroach effigy to taunt youth protesters",
+   "published": "2026-10-21T05:18:08+00:00"
+  },
+  {
+   "id": "35d81304e0ff",
+   "title": "No bail for alleged Helen Haines attacker as police chief warns of Australia’s ‘febrile’ political environment",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "AFP commissioner says MPs are generally concerned about growing volume of abuse and intimidation Follow our live blog for latest updates Get our breaking news email , free app or daily news podcast The head of the Australian federal police has condemned a “febrile” political…",
+   "published": "2026-10-21T05:17:12+00:00"
+  },
+  {
+   "id": "0fd96f6e695c",
+   "title": "What the French Protests Can Teach Americans",
+   "link": "https://thedispatch.com/article/french-protests-capitalism-immigration-entitlements/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Capitalism isn’t the source of France’s woes, and more government spending is not the solution.",
+   "published": "2026-10-21T05:01:00+00:00"
+  },
+  {
+   "id": "0d82fb624b9a",
+   "title": "What Texas Media Outlets Aren’t Telling Voters About James Talarico",
+   "link": "https://thedispatch.com/article/paxton-talarico-media-coverage-progressivism/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Democratic Senate nominee has moderated many of his progressive positions, but you wouldn’t know that from local reporting.",
+   "published": "2026-10-21T05:01:00+00:00"
+  },
+  {
+   "id": "9144aa59d2ee",
+   "title": "The Election Israel Has Waited Three Years For",
+   "link": "https://thedispatch.com/article/israel-election-netanyahu-october-7/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "For the first time since October 7, Israelis will decide whether their government has done enough to prevent future catastrophes.",
+   "published": "2026-10-21T05:01:00+00:00"
+  },
+  {
+   "id": "a8e049df0b2c",
+   "title": "‘A difficult line’: meet the editors tackling Wikipedia’s arms trade pages",
+   "link": "https://www.theguardian.com/technology/2026/oct/21/a-difficult-line-meet-the-editors-tackling-wikipedias-arms-trade-pages",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Volunteers and new recruits come together for ‘wikithon’ to put more detail about industry into public domain “Anyone can edit Wikipedia,” the adage goes. But, it turns out, a relatively small number actually do. What is worthy of a digital page in the world’s largest and…",
+   "published": "2026-10-21T05:00:05+00:00"
+  },
+  {
+   "id": "e6ed8405c960",
+   "title": "Streeting delays defence jobs plan for young people after union pushback",
+   "link": "https://www.theguardian.com/politics/2026/oct/21/wes-streeting-delays-defence-jobs-plan-young-people-union-pushback-mod-uk",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "UK defence secretary had been due to unveil proposals on Thursday until concerns were raised at 11th hour Wes Streeting has been forced to delay the publication of a plan to get more young people into defence industry jobs after pushback from trade unions, the Guardian…",
+   "published": "2026-10-21T05:00:05+00:00"
+  },
+  {
+   "id": "09f1d7cbe511",
+   "title": "Mystery of Roman sarcophagus unearthed at Westminster Abbey solved at last, expert says",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/21/mystery-roman-sarcophagus-westminster-abbey-solved-at-last-expert-says",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Archaeologist says skeleton inside coffin inscribed to Valerius Amandinus is likely to be remains of 11th-century abbot It has all the ingredients of a chilling mystery: the skeleton of an unknown man discovered within a Roman sarcophagus unearthed in the grounds of Westminster…",
+   "published": "2026-10-21T05:00:03+00:00"
+  },
+  {
+   "id": "821c82526b11",
+   "title": "Troubled waters: life during wartime for Iranians on the strait of Hormuz",
+   "link": "https://www.theguardian.com/artanddesign/2026/oct/21/strait-of-hormuz-life-amid-wartime-iran",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Despite US-Israeli airstrikes and Tehran’s attacks on shipping, the waterway still has to provide a lifeline for those that live and work there Capt Farouq turns the wheel as he watches the ferry terminal of Bandar Abbas grow smaller, its bright lights flickering in the…",
+   "published": "2026-10-21T05:00:02+00:00"
+  },
+  {
+   "id": "5fecea045bed",
+   "title": "UK watchdogs urged to tackle suicide social media content after death of girl, 14",
+   "link": "https://www.theguardian.com/technology/2026/oct/21/uk-watchdogs-urged-to-tackle-suicide-social-media-content-after-death-of-girl-14",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Adriana Retyte took her own life after viewing ‘high-risk’ material on the video-sharing platform TikTok A 14-year-old schoolgirl’s death after TikTok served her suicide content has prompted renewed calls for UK watchdogs to crack down on “toxic” social media feeds. Adriana…",
+   "published": "2026-10-21T05:00:01+00:00"
+  },
+  {
+   "id": "3d8d2cd94447",
+   "title": "United Nations report highlights significant increase in U.S. climate pollution",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6003553/america-oil-gas-coal-climate-change-trump-carbon-emissions",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The U.S. is the only major economy where planet-warming pollution dramatically increased last year. The United Nations warns the planet is on track for catastrophic warming.",
+   "published": "2026-10-21T05:00:00+00:00"
+  },
+  {
+   "id": "45b49cb89ffb",
+   "title": "Can You Trust Elizabeth Holmes?",
+   "link": "https://thedispatch.com/article/elizabeth-holmes-fielder-documentary/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "‘You Can See Everything’ shows what happens when you get too close to an object of ire.",
+   "published": "2026-10-21T05:00:00+00:00"
+  },
+  {
+   "id": "fe8e9fb65313",
+   "title": "Australia’s largest datacentre operator NextDC’s shares dive as Melbourne expansion delayed",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/21/australias-largest-datacentre-operator-nextdcs-shares-dive-as-melbourne-expansion-delayed",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "NextDC tells investors plans to double the size of its west Melbourne datacentre have hit obstacle after community objects to 22 metres-high power poles Get our breaking news email , free app or daily news podcast Australia’s largest datacentre operator has been forced to delay…",
+   "published": "2026-10-21T04:58:25+00:00"
+  },
+  {
+   "id": "a6c62091b2d4",
+   "title": "Lula, Bolsonaro seek to disqualify each other ahead of Brazil runoff",
+   "link": "https://www.aljazeera.com/news/2026/10/21/lula-bolsonaro-seek-to-disqualify-each-other-ahead-of-brazil-runoff?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Messaging service WhatsApp and parent company Meta are embroiled in legal attacks by Brazil's presidential candidates.",
+   "published": "2026-10-21T04:58:03+00:00"
+  },
+  {
    "id": "d0190f544a79",
    "title": "Using AI to Deepen Advisor-Client Relationships at Scale",
    "link": "https://www.wealthmanagement.com/client-relations/using-ai-to-deepen-advisor-client-relationships-at-scale",
@@ -140,15 +349,15 @@
    "published": "2026-10-21T04:22:33+00:00"
   },
   {
-   "id": "a7e56a88e488",
-   "title": "Beau Lamarre-Condon allegedly played Taylor Swift’s No Body, No Crime during body disposal, court told",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/21/beau-lamarre-condon-murder-trial-taylor-swift-song-ntwnfb",
-   "source": "The Guardian World",
+   "id": "030e0762a24f",
+   "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
+   "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Friend of accused double murderer tells supreme court that van had lemony smell and blue tarp in back before Bunnings stop Beau Lamarre-Condon played Taylor Swift’s song No Body, No Crime while attempting to dispose of two corpses, a court has heard. The NSW supreme court has…",
-   "published": "2026-10-21T04:15:31+00:00"
+   "summary": "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history.",
+   "published": "2026-10-21T04:13:14+00:00"
   },
   {
    "id": "a52d8cf9065a",
@@ -206,6 +415,28 @@
    "published": "2026-10-21T04:00:05+00:00"
   },
   {
+   "id": "13436773144b",
+   "title": "Guidance Under Section 355 Concerning Device and Active Trade or Business; Partial Withdrawal",
+   "link": "https://www.federalregister.gov/documents/2026/10/21/2026-21568/guidance-under-section-355-concerning-device-and-active-trade-or-business-partial-withdrawal",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "This document partially withdraws a notice of proposed rulemaking containing proposed regulations regarding the application of the device prohibition and the active trade or business requirement for distributions of controlled corporation stock (or stock and securities) by a…",
+   "published": "2026-10-21T04:00:00+00:00"
+  },
+  {
+   "id": "eb0794ef8811",
+   "title": "Agency Information Collection Activities; Requesting Comment on Qualified Contributions to a Scholarship Granting Organization Under Section 25F",
+   "link": "https://www.federalregister.gov/documents/2026/10/21/2026-21477/agency-information-collection-activities-requesting-comment-on-qualified-contributions-to-a",
+   "source": "Federal Register: IRS",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
+   "published": "2026-10-21T04:00:00+00:00"
+  },
+  {
    "id": "0f70e7615542",
    "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
    "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
@@ -217,6 +448,17 @@
    "published": "2026-10-21T03:59:18+00:00"
   },
   {
+   "id": "0333d7319817",
+   "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
+   "link": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines.",
+   "published": "2026-10-21T03:58:16+00:00"
+  },
+  {
    "id": "722bd29e45dd",
    "title": "Elon Musk says SpaceX and Tesla exploring largest merger in history",
    "link": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss",
@@ -226,6 +468,17 @@
    "flourishing_feed": false,
    "summary": "Tech mogul says tie-up has a 'lot of merit', given firms' complementary work on AI.",
    "published": "2026-10-21T03:51:39+00:00"
+  },
+  {
+   "id": "bb3425b900dc",
+   "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy.",
+   "published": "2026-10-21T03:45:52+00:00"
   },
   {
    "id": "4c9c5ce492cc",
@@ -281,17 +534,6 @@
    "flourishing_feed": false,
    "summary": "Ghanda and Windsor Smith are among lowest-rated in Baptist World Aid ethical fashion report based on metrics such as wages and sustainability Get our breaking news email , free app or daily news podcast Online fast-fashion giant Shein is outperforming many Australian high…",
    "published": "2026-10-21T02:36:15+00:00"
-  },
-  {
-   "id": "35d81304e0ff",
-   "title": "No bail for alleged Helen Haines attacker as police chief warns of Australia’s ‘febrile’ political environment",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/21/no-bail-brendan-nugent-helen-haines-police-chief-warning-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "AFP commissioner says MPs are generally concerned about growing volume of abuse and intimidation Follow our live blog for latest updates Get our breaking news email , free app or daily news podcast The head of the Australian federal police has condemned a “febrile” political…",
-   "published": "2026-10-21T02:32:12+00:00"
   },
   {
    "id": "db1bd420ad3b",
@@ -801,13 +1043,13 @@
   },
   {
    "id": "1a41f3b5e5df",
-   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life — but here’s why I’m still hopeful",
+   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
    "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
    "domain_feed": true,
    "flourishing_feed": false,
-   "summary": "“Ill-timed circumstances can change our financial future in unexpected ways.”",
+   "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
    "published": "2026-10-20T22:45:00+00:00"
   },
   {
