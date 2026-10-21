@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T11:46:14.552897+00:00",
+ "generated": "2026-10-21T12:56:52.772048+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Federal Register: IRS",
@@ -129,6 +129,50 @@
  ],
  "items": [
   {
+   "id": "0d24edac872c",
+   "title": "Protests as UK approves new gas drilling in North Sea",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/protests-as-uk-approves-new-gas-drilling-in-north-sea?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Climate activists have protested against the UK’s decision to go ahead with new gas drilling in the North Sea.",
+   "published": "2026-10-21T12:49:52+00:00"
+  },
+  {
+   "id": "76f0a4c269a2",
+   "title": "Burnham and Badenoch clash over Jackdaw gasfield and inflation – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Jackdaw field will start supplying gas to homes and businesses from the end of the month, the government said Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of politics for Greenpeace…",
+   "published": "2026-10-21T12:49:40+00:00"
+  },
+  {
+   "id": "a6d6e5c92d7d",
+   "title": "Macron blasts ‘unacceptable’ and ‘stupid’ commentary on protests from other leaders – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Macron says he is frustrated by the ‘visible manipulation of information’ about the events in France Meanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen Hubbard, a US citizen held by Moscow…",
+   "published": "2026-10-21T12:49:15+00:00"
+  },
+  {
+   "id": "0ae74849b12d",
+   "title": "Trump hails Russia’s release of US teacher amid Witkoff’s visit – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US was not required to give anything in return for Stephen Hubbard’s release ‘out of respect for President Trump’, he claims Sign up for Breaking News US email It’s also worth noting, as we bring you more from Steve Witkoff’s meeting in St Petersburg with Russian officials,…",
+   "published": "2026-10-21T12:45:29+00:00"
+  },
+  {
    "id": "6e840d5ab577",
    "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
    "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
@@ -137,7 +181,161 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says.",
-   "published": "2026-10-21T11:39:25+00:00"
+   "published": "2026-10-21T12:32:01+00:00"
+  },
+  {
+   "id": "160a52a19532",
+   "title": "Heckler disrupts Nvidia CEO Huang’s speech at Berlin conference",
+   "link": "https://www.marketwatch.com/story/heckler-disrupts-nvidia-ceo-huangs-speech-at-berlin-conference-fc461a82?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "The person shouted something that could not be heard on the company’s livestream about 20 minutes into the address, before being removed from the auditorium.",
+   "published": "2026-10-21T12:32:00+00:00"
+  },
+  {
+   "id": "f8e620144cfc",
+   "title": "Energy secretary leaning towards rejecting Rosebank oilfield",
+   "link": "https://www.theguardian.com/environment/2026/oct/21/energy-secretary-leaning-towards-rejecting-rosebank-oilfield",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Exclusive: Officials say Miatta Fahnbulleh minded not to give approval in victory for climate campaigners UK politics live – latest updates Miatta Fahnbulleh is leaning towards rejecting the giant Rosebank oilfield, the Guardian understands, in what would be a blow for the…",
+   "published": "2026-10-21T12:31:05+00:00"
+  },
+  {
+   "id": "85557c98f234",
+   "title": "‘They try to break us’: Pro-Palestine activists in Czech custody",
+   "link": "https://www.aljazeera.com/news/2026/10/21/they-try-to-break-us-pro-palestine-activists-in-czech-custody?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "As a group is accused of an attack on a weapons factory, activists allege growing crackdown on the solidarity movement.",
+   "published": "2026-10-21T12:24:23+00:00"
+  },
+  {
+   "id": "9d71b072ab31",
+   "title": "Macron says Trump spread rumours about protests",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Macron says Trump spread rumours about protests",
+   "published": "2026-10-21T12:18:37+00:00"
+  },
+  {
+   "id": "2515768a1312",
+   "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
+   "link": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Iran's nuclear enrichment has emerged as a major point of contention amid diplomatic push to end the war.",
+   "published": "2026-10-21T12:18:10+00:00"
+  },
+  {
+   "id": "a5d60017f104",
+   "title": "Trump suggests he could be ‘arbitrator’ in DoJ anti-fraud whistleblower scheme",
+   "link": "https://www.theguardian.com/us-news/2026/oct/20/trump-doj-anti-fraud-tip",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "President makes suggestion while announcing new program to reward tipsters who submit fraud allegations Donald Trump suggested on Tuesday that he would serve as “the arbitrator” of decisions in the justice department’s new anti-fraud program that awards compensation to those…",
+   "published": "2026-10-21T12:18:04+00:00"
+  },
+  {
+   "id": "dac797507ad1",
+   "title": "State attorneys general step up plans to counter Trump’s meddling in midterms",
+   "link": "https://www.theguardian.com/us-news/2026/oct/21/midterms-attorney-general-trump-election-interference",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Coordination by Democratic officials overseeing elections includes Zoom calls and in-person tabletop exercises Democratic state attorneys general, other top state officials and civic groups have accelerated planning to thwart any federal meddling in the November midterm…",
+   "published": "2026-10-21T12:11:54+00:00"
+  },
+  {
+   "id": "4d7c346bcce5",
+   "title": "Trump leans into unprecedented power ahead of midterm elections",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6009395/trump-power-midterm-elections",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Less than two weeks before the election, Trump continues to crash through barriers that he wouldn't dare cross in his first term.",
+   "published": "2026-10-21T12:09:41+00:00"
+  },
+  {
+   "id": "34e2e0bfc58d",
+   "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
+   "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "SpaceX just gave Wall Street a big reason to believe in the artificial-intelligence boom as demand for its computing power is off the charts.",
+   "published": "2026-10-21T12:06:00+00:00"
+  },
+  {
+   "id": "d0766c037e08",
+   "title": "As fans reject AI-generated music, even boosters are drawing the line",
+   "link": "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Enthusiasts like Grimes and A$AP Rocky may embrace AI-generated content, but they won’t produce it themselves Streaming services, notable musicians and fans are confronting the growing presence of AI-generated music and drawing lines in the sand. On Tuesday, Spotify announced…",
+   "published": "2026-10-21T12:00:17+00:00"
+  },
+  {
+   "id": "c3c648f7edad",
+   "title": "Moving in Retirement for Lower Taxes: 5 Mistakes to Avoid",
+   "link": "https://www.kiplinger.com/retirement/retirement-planning/moving-for-lower-taxes-in-retirement",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Relocating only because of state income tax rates can backfire unless you evaluate your entire financial picture.",
+   "published": "2026-10-21T12:00:00+00:00"
+  },
+  {
+   "id": "58fea97a0d5e",
+   "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+   "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Russia unilaterally frees Stephen Hubbard after US request while Steve Witkoff praises Putin as a ‘humanitarian’ Europe live – latest updates US politics live – latest updates Vladimir Putin ordered the release of an American from a Russian jail as he met Donald Trump’s envoy…",
+   "published": "2026-10-21T11:50:27+00:00"
+  },
+  {
+   "id": "bfb65044a5aa",
+   "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
+   "link": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The Justice Department's \"likely\" noncitizen voter list in California is \"unreliable,\" according to officials. And, the United Nations reports a major increase in U.S. climate pollution.",
+   "published": "2026-10-21T11:46:59+00:00"
+  },
+  {
+   "id": "1a2458854c8c",
+   "title": "The night watch: the YouTubers who were guardians of a shark stuck in a South Korean canal",
+   "link": "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Wearing hi-vis and carrying selfie sticks, livestreamers watched over an animal that was trapped for a month and drew more than 1.6m visitors before being guided out In South Korea , they call them jagyeongdan , a word whose meaning sits somewhere between vigilante group and…",
+   "published": "2026-10-21T11:41:48+00:00"
   },
   {
    "id": "2565cb014ead",
@@ -151,48 +349,15 @@
    "published": "2026-10-21T11:39:00+00:00"
   },
   {
-   "id": "76f0a4c269a2",
-   "title": "Burnham faces Badenoch at PMQs after Jackdaw gasfield approved – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Jackdaw field will start supplying gas to homes and businesses from the end of the month, the government said Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of politics for Greenpeace…",
-   "published": "2026-10-21T11:32:54+00:00"
-  },
-  {
-   "id": "0ae74849b12d",
-   "title": "Trump hails Russia’s release of US teacher amid Witkoff’s visit – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "US was not required to give anything in return for Stephen Hubbard’s release ‘out of respect for President Trump’, he claims Sign up for Breaking News US email As voters struggle with the rising cost of living and gas prices up 45% since the Iran War, Trump on the campaign…",
-   "published": "2026-10-21T11:25:16+00:00"
-  },
-  {
-   "id": "a6d6e5c92d7d",
-   "title": "Macron blasts ‘unacceptable’ and ‘stupid’ commentary on protests from other leaders – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Macron says he is frustrated by the ‘visible manipulation of information’ about the events in France Meanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen Hubbard, a US citizen held by Moscow…",
-   "published": "2026-10-21T11:24:23+00:00"
-  },
-  {
-   "id": "34e2e0bfc58d",
-   "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
-   "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
-   "source": "MarketWatch",
+   "id": "8314b0633f19",
+   "title": "What to do if you feel so, so angry at the state of the world",
+   "link": "https://www.vox.com/advice/506689/righteous-anger-spirituality",
+   "source": "Vox",
    "circle_hint": "national",
-   "domain_feed": true,
+   "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "SpaceX just gave Wall Street a big reason to believe in the artificial-intelligence boom as demand for its computing power is off the charts.",
-   "published": "2026-10-21T11:22:00+00:00"
+   "summary": "Are you mad about everything? Another needless, endless war. Rising living costs and gas prices. The fact that the richest 1 percent of Americans own more than the bottom 90 percent combined, or the straight-up corruption happening in the White House. As the old saying goes, if…",
+   "published": "2026-10-21T11:30:00+00:00"
   },
   {
    "id": "1a41f3b5e5df",
@@ -269,6 +434,17 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "summary": "Preserving an inheritance isn’t about spending less — it’s about allocating smart.",
+   "published": "2026-10-21T11:00:00+00:00"
+  },
+  {
+   "id": "d20035c67277",
+   "title": "Has Susan Collins’s political luck finally run out?",
+   "link": "https://www.vox.com/podcasts/506849/susan-collins-maine-senate-race-trump-midterms",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "With two weeks until the midterm elections, Democrats are comfortably favored to take the House. Their path to Senate control, though, is harder — and it could run through Maine, where longtime Republican Sen. Susan Collins is in a tight race against former state Senate…",
    "published": "2026-10-21T11:00:00+00:00"
   },
   {
@@ -844,6 +1020,17 @@
    "published": "2026-10-21T08:42:10+00:00"
   },
   {
+   "id": "9db7d2d08a6e",
+   "title": "Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Britain offers military support as Saudi cancels renowned 'Davos in desert\" investor meeting due to strikes from Houthi forces in Yemen.",
+   "published": "2026-10-21T08:40:51+00:00"
+  },
+  {
    "id": "e7cc50b8b2bb",
    "title": "A student protest movement has gripped Serbia for two years. This weekend it will try to take power",
    "link": "https://www.theguardian.com/world/2026/oct/21/protest-movement-serbia-student-list-try-to-take-power",
@@ -933,7 +1120,7 @@
   },
   {
    "id": "7b7b3ec1476d",
-   "title": "Huge crowds watch attempt to save shark stranded in South Korean canal",
+   "title": "Watch: Third attempt to save 'celebrity' shark stranded in South Korean canal",
    "link": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -1054,13 +1241,13 @@
   },
   {
    "id": "2721474dd9ec",
-   "title": "Witkoff in Russia for Putin meeting after ‘positive’ talks with Zelenskyy",
+   "title": "Trump envoy Witkoff meets Russia’s Putin for Ukraine war talks",
    "link": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Secretary of State Marco Rubio described Witkoff's talks with Zelenskyy as 'positive', as efforts to end war intensify.",
+   "summary": "Witkoff tells Putin that he hoped to discuss the resumption of the trilateral talks between the US, Ukraine and Russia.",
    "published": "2026-10-21T07:37:19+00:00"
   },
   {
@@ -2393,17 +2580,6 @@
    "flourishing_feed": false,
    "summary": "As PSG face Barcelona in a Champions League clash, fans weigh in on whether football should be a political platform.",
    "published": "2026-10-20T20:49:00+00:00"
-  },
-  {
-   "id": "a5d60017f104",
-   "title": "Trump suggests he could be ‘arbitrator’ in DoJ anti-fraud whistleblower scheme",
-   "link": "https://www.theguardian.com/us-news/2026/oct/20/trump-doj-anti-fraud-tip",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President makes suggestion while announcing new program to reward tipsters who submit fraud allegations Donald Trump suggested on Tuesday that he would serve as “the arbitrator” of decisions in the justice department’s new anti-fraud program that awards compensation to those…",
-   "published": "2026-10-20T20:36:20+00:00"
   },
   {
    "id": "830d7dd0ff57",
