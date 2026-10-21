@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T17:43:45.030815+00:00",
+ "generated": "2026-10-21T18:53:26.084235+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Federal Register: IRS",
@@ -134,6 +134,366 @@
  ],
  "items": [
   {
+   "id": "4b79a83e0b28",
+   "title": "This ‘hidden gem’ in Arizona just became America’s newest national park",
+   "link": "https://www.deseret.com/environment/2026/10/21/trump-redesignates-chiricahua-as-national-park/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "President Donald Trump signed a law Tuesday redesignating Arizona’s Chiricahua National Monument as America’s newest national park, marking “a new chapter for one of Arizona’s most distinctive landscapes,” the National Park Service said. The park, known as the “Wonderland of…",
+   "published": "2026-10-21T18:47:40+00:00"
+  },
+  {
+   "id": "da820382ca43",
+   "title": "Thousands march for school funding in Greece",
+   "link": "https://www.aljazeera.com/news/2026/10/21/thousands-march-for-school-funding-in-greece?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Teachers joined nationwide student protests amid growing youth-led demonstrations in Europe.",
+   "published": "2026-10-21T18:45:46+00:00"
+  },
+  {
+   "id": "23a70c8c37bd",
+   "title": "Elizabeth Smart joins push to create 3-digit emergency number for sexual abuse survivors",
+   "link": "https://www.deseret.com/utah/2026/10/21/elizabeth-smart-joins-push-to-create-3-digit-emergency-number-for-sexual-abuse-survivors/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Elizabeth Smart is aiding in the push for creation of a three-digit emergency phone number for those suffering sexual abuse and being trafficked.",
+   "published": "2026-10-21T18:44:44+00:00"
+  },
+  {
+   "id": "59175142b4be",
+   "title": "The Feds Took $460,000 From This Arizona Convenience Store Owner and Never Explained Why",
+   "link": "https://reason.com/2026/10/21/the-feds-took-460000-from-this-arizona-convenience-store-owner-and-never-explained-why/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Mario Ayala is seeking the return of his property, which federal agents seized more than a year and a half ago for reasons that remain mysterious.",
+   "published": "2026-10-21T18:40:42+00:00"
+  },
+  {
+   "id": "6d2db31741ce",
+   "title": "Qatar, Turkiye, Pakistan and Indonesia sign ‘Badr’ defence pact",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/qatar-turkiye-pakistan-and-indonesia-sign-badr-defence-pact?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Al Jazeera’s Osama Bin Javaid reports on the ‘Badr’ Memorandum of Understanding.",
+   "published": "2026-10-21T18:35:42+00:00"
+  },
+  {
+   "id": "a01287df010e",
+   "title": "Actors, writers condemn UK anti-terror law targeting Sally Rooney",
+   "link": "https://www.aljazeera.com/news/2026/10/21/actors-writers-condemn-uk-anti-terror-law-targeting-sally-rooney?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Dozens of leading figures term the UK law banning Palestine Action a ‘repressive absurdity’.",
+   "published": "2026-10-21T18:35:03+00:00"
+  },
+  {
+   "id": "f2f67645a5f0",
+   "title": "2018058588501_Tranchina_5657849_SEC_jhjr.pdf",
+   "link": "https://www.finra.org/node/390766",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "2018058588501_Tranchina_5657849_SEC_jhjr.pdf Anonymous (not verified) Wed, 10/21/2026 - 14:35 Case ID 2018058588501 Document Number d1994134 Document Type SEC Decisions Individuals Christopher Peter Tranchina Action Date Mon, 10/19/2026 - 12:00 Related Content On Attachment…",
+   "published": "2026-10-21T18:35:01+00:00"
+  },
+  {
+   "id": "4bb6175d507e",
+   "title": "Randy Bennett was a longtime WCC villain for BYU. Now he’ll be facing the Cougars in the Big 12",
+   "link": "https://www.deseret.com/sports/2026/10/21/randy-bennett-arizona-state-new-basketball-coach-past-byu-rivalry-st-marys/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "KANSAS CITY — For 12 seasons as conference opponents, there was no love lost between BYU and Randy Bennett. Bennett’s Saint Mary’s teams were a near-constant “thorn in the Cougars’ side,” as the Deseret News once wrote , with BYU and the Gaels battling annually for at-large…",
+   "published": "2026-10-21T18:30:00+00:00"
+  },
+  {
+   "id": "48fe9b9849f9",
+   "title": "Yemen holds mass funeral for 75 recruits killed in Houthi strike",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_funeral-in-yemen-for-recruits-killed-by-houthis-211026?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A mass funeral has been held in southern Yemen for 75 recruits killed in a Houthi missile strike on a training camp.",
+   "published": "2026-10-21T18:29:38+00:00"
+  },
+  {
+   "id": "a0a1f50c881b",
+   "title": "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jerusalem-daily-israeli-minister-calls-for-settling-the-entire-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israeli forces are raiding Palestinian homes in the occupied West Bank and turning them into interrogation centres.",
+   "published": "2026-10-21T18:24:42+00:00"
+  },
+  {
+   "id": "ca0637af58b1",
+   "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+   "link": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi.",
+   "published": "2026-10-21T18:22:28+00:00"
+  },
+  {
+   "id": "0ae74849b12d",
+   "title": "Democrats have 11-point lead among likely voters as Trump’s approval rating craters – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "New poll finds likely voters prefer Democratic candidates over Republicans running for office by 11 percentage points; Trump campaigns in South Carolina Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The…",
+   "published": "2026-10-21T18:17:48+00:00"
+  },
+  {
+   "id": "7acfaa0aa7f0",
+   "title": "An Ohio attack ad turns a candidate’s mother against her and divides the GOP",
+   "link": "https://www.deseret.com/politics/2026/10/21/ohio-attack-ad-turns-candidates-mother-against-her/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The estranged mother of Democratic candidate Dr. Amy Acton appeared in a campaign ad amid the Ohio governor’s race, calling her daughter a “liar” who “needs help.” Controversy struck after the ad began circulating online Monday night. Acton has said she has not seen her mother,…",
+   "published": "2026-10-21T18:15:25+00:00"
+  },
+  {
+   "id": "cd2becb8170b",
+   "title": "Why social media has become an election issue in Brazil’s presidential race",
+   "link": "https://www.aljazeera.com/features/2026/10/21/why-social-media-has-become-an-election-issue-in-brazils-presidential-race?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Critics have accused the tech giant Meta of censoring the political campaign of President Lula and favouring Bolsonaro.",
+   "published": "2026-10-21T18:14:02+00:00"
+  },
+  {
+   "id": "db47f9edca46",
+   "title": "Former Tory election candidate suspended over contract killing claims",
+   "link": "https://www.theguardian.com/politics/2026/oct/21/former-tory-election-candidate-suspended-over-contract-killing-claims",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Jack Ross was filmed allegedly discussing with an undercover reporter violent options to deal with enemies A former Conservative election candidate has been suspended from the party after he was seemingly filmed discussing the cost of hiring contract killers and offering to…",
+   "published": "2026-10-21T18:13:55+00:00"
+  },
+  {
+   "id": "2dc1e07b08b0",
+   "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
+   "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
+   "published": "2026-10-21T18:10:42+00:00"
+  },
+  {
+   "id": "faddce529492",
+   "title": "6 local choirs looking for new members",
+   "link": "https://mirrorindy.org/indianapolis-choruses-men-women-community-purpose-team-work-learn-something-new/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Hang out and harmonize with one of these Indy-based singing groups. The post 6 local choirs looking for new members appeared first on Mirror Indy .",
+   "published": "2026-10-21T18:09:45+00:00"
+  },
+  {
+   "id": "d5ae989b1ad9",
+   "title": "Epstein’s attorney and accountant accused of ‘facilitating and concealing’ his crimes in lawsuit",
+   "link": "https://www.theguardian.com/us-news/2026/oct/21/epstein-attorney-accountant-lawsuit",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "New Mexico lawsuit claims ‘in exchange for furthering Epstein’s criminal project, his associates received generous salaries’ The attorney general of New Mexico on Wednesday filed a civil lawsuit against Jeffrey Epstein’s longtime attorney, Darren Indyke, and Epstein’s longtime…",
+   "published": "2026-10-21T18:03:11+00:00"
+  },
+  {
+   "id": "39f5a0f86694",
+   "title": "Romney invokes Churchill and George Washington in rare second rebuke of Trump’s Russia deal",
+   "link": "https://www.deseret.com/politics/2026/10/21/romney-takes-aim-at-trump-russia-deal/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Former Utah Sen. Mitt Romney pushed back against a deal brokered by President Donald Trump freeing a U.S. hostage from Russian custody, warning of the long-term implications. In a statement posted to social media, Romney invoked former Prime Minister Winston Churchill and…",
+   "published": "2026-10-21T18:00:02+00:00"
+  },
+  {
+   "id": "9f3ee1d649f1",
+   "title": "Heidi Levine recounts how Palestinian youths helped save her in settler attack",
+   "link": "https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "US photojournalist describes ‘protective shield’, vows to return to work in West Bank and criticises Netanyahu comments on incident The Washington Post photojournalist who was attacked and seriously injured by Israeli settlers on the West Bank on Friday has described how she…",
+   "published": "2026-10-21T17:59:14+00:00"
+  },
+  {
+   "id": "54022857dc5a",
+   "title": "‘You are a humanitarian also, sir’: the US feeds Putin with lies as Ukraine’s children take cover and die | Andrew Roth",
+   "link": "https://www.theguardian.com/world/2026/oct/21/you-are-a-humanitarian-also-sir-us-putin-lies-ukraine-children-take-cover-and-die-witkoff",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Steve Witkoff’s flattery of the Russian leader could be just the start of a mendacious stratagem from a US president who says Moscow ‘has been fine on Ukraine’ They say the first casualty of war is truth. For the Trump administration, the road to peace with Russia now…",
+   "published": "2026-10-21T17:57:48+00:00"
+  },
+  {
+   "id": "4c00ecea004a",
+   "title": "Evan Bayh drains his federal campaign accounts with $2.4M to state Dems amid son’s race",
+   "link": "https://indianacapitalchronicle.com/2026/10/21/evan-bayh-drains-his-federal-campaign-accounts-with-2-4m-to-state-dems-amid-sons-race/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Former U.S. Sen. Evan Bayh has now handed over most of his stockpiled campaign cash by giving more than $1.7 million this month to Indiana Democratic Party accounts in the final weeks of his son’s run for secretary of state.",
+   "published": "2026-10-21T17:57:45+00:00"
+  },
+  {
+   "id": "067ff6cf8753",
+   "title": "A just-revealed security flaw is hitting computer systems around the world",
+   "link": "https://www.deseret.com/business/2026/10/21/website-computer-server-security-flaw-artificial-intelligence-hackers-cybersecurity-php-programming-language/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Security experts using AI-powered analysis tools just revealed a pair of serious coding flaws that potentially impact 70% of the world’s computer systems, making them vulnerable to hackers who could use their own AI programs to exploit the weaknesses on a massive scale. First…",
+   "published": "2026-10-21T17:57:07+00:00"
+  },
+  {
+   "id": "5050da8fc0a5",
+   "title": "Chemical tank explosion in Toledo, Ohio, prompts mass evacuation",
+   "link": "https://www.theguardian.com/us-news/2026/oct/21/toledo-ohio-tank-explosion-mass-evacuation",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Officials say the explosion released an airborne irritant that can cause burning of the eyes, nose, mouth and skin Officials are investigating a tank explosion in Toledo, Ohio, that released a chemical into the air, causing a mass evacuation in the area. One person, a first…",
+   "published": "2026-10-21T17:52:50+00:00"
+  },
+  {
+   "id": "88dd6684d6f6",
+   "title": "Thousands of California public employees begin strike over contract",
+   "link": "https://www.theguardian.com/us-news/2026/oct/21/california-nurses-teachers-strike",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "SEIU Local 1000, representing nurses and teachers, pushing for higher wages, telework and affordable healthcare Thousands of California state workers began a sweeping, one-day strike on Wednesday, with workers set to rally outside government buildings in several cities, as…",
+   "published": "2026-10-21T17:51:29+00:00"
+  },
+  {
+   "id": "209727bc0e1e",
+   "title": "Arizona Man Awarded $67,500 on Behalf of Aborted Embryo",
+   "link": "https://reason.com/2026/10/21/arizona-man-awarded-67500-on-behalf-of-aborted-embryo/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The ex-husband of an Arizona woman who voluntarily took abortion pills in 2018 has won a civil lawsuit against the clinic that prescribed them.",
+   "published": "2026-10-21T17:50:25+00:00"
+  },
+  {
+   "id": "88a3c5d28ae3",
+   "title": "Focused on the Future: Succession Planning for Financial Advisors with Jorge Padilla",
+   "link": "https://www.wealthmanagement.com/growth-strategies/focused-on-the-future-succession-planning-for-financial-advisors-with-jorge-padilla",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Jorge Padilla, CEO of Meira Wealth, talks about his journey from intern to owner of an independent wealth management firm.",
+   "published": "2026-10-21T17:49:19+00:00"
+  },
+  {
+   "id": "08c91c75f323",
+   "title": "What’s behind protests in Portugal?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/whats-behind-protests-in-portugal-2?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "What's behind protests in Portugal?",
+   "published": "2026-10-21T17:48:57+00:00"
+  },
+  {
+   "id": "cde9874318cd",
+   "title": "Judge grants protections to Bloomington man confronted over ‘86 Todd Rokita’ post",
+   "link": "https://indianacapitalchronicle.com/2026/10/21/judge-grants-protections-to-bloomington-man-confronted-over-86-todd-rokita-post/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A federal judge ordered preliminary protections Tuesday for a Bloomington man who was confronted at his home by an investigator for Indiana Attorney General Todd Rokita over an “86 Todd Rokita” Facebook comment. U.S. District Judge Sarah Evans Barker found Lee Lawmaster likely…",
+   "published": "2026-10-21T17:44:39+00:00"
+  },
+  {
+   "id": "e434ae7cc464",
+   "title": "‘Dancing with the Stars’ Dedication Night featured no elimination, heartfelt tributes and a gender reveal",
+   "link": "https://www.deseret.com/entertainment/2026/10/21/dancing-with-the-stars-dedication-night-elimination/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Dedication Night on “Dancing with the Stars” is a fan-favorite episode each year. The annual theme night features each celebrity contestant doing a special performance dedicated to someone or something special in their life. This year’s Dedication Night featured loving tributes…",
+   "published": "2026-10-21T17:42:59+00:00"
+  },
+  {
    "id": "020c23c2780c",
    "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
    "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
@@ -170,18 +530,6 @@
    "published": "2026-10-21T17:33:58+00:00"
   },
   {
-   "id": "0ae74849b12d",
-   "title": "Democrats have 11-point lead among likely voters as Trump’s approval rating craters – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "New poll finds likely voters prefer Democratic candidates over Republicans running for office by 11 percentage points; Trump campaigns in South Carolina Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The…",
-   "published": "2026-10-21T17:31:38+00:00"
-  },
-  {
    "id": "63d0e0de8c41",
    "title": "Big 12 power rankings: Wild weekend vaults BYU to the top and leads to plenty of shuffling",
    "link": "https://www.deseret.com/sports/2026/10/21/big-12-power-rankings-2026-season-after-week-7-utah-byu/",
@@ -191,6 +539,18 @@
    "flourishing_feed": false,
    "category_hint": null,
    "summary": "Big 12 football fans, live it up — there are currently more Big 12 teams in the top 10 of the latest Associated Press Top 25 rankings than SEC teams. Scoreboard — Big 12 3, SEC 2. BYU (ranked No. 2), Texas Tech (No. 8) and Utah (No. 10) are all still unbeaten, sitting at 6-0…",
+   "published": "2026-10-21T17:30:00+00:00"
+  },
+  {
+   "id": "ef4abe155523",
+   "title": "This Democrat’s accountability plan has Trump fuming",
+   "link": "https://www.vox.com/america-actually/507018/elissa-slotkin-trump-accountability-plan-democratic-majority",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The 2026 midterms are less than two weeks away, which means we’ll soon have a better idea of what the next two years of American politics could look like. If Democrats win at least one chamber of Congress — and they’re comfortable favorites to control the House — they’ll enter…",
    "published": "2026-10-21T17:30:00+00:00"
   },
   {
@@ -226,7 +586,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday. It is “now clear” that…",
+   "summary": "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’ The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday. It was “now clear” that…",
    "published": "2026-10-21T17:18:56+00:00"
   },
   {
@@ -862,7 +1222,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’ Europe live – latest updates US politics live – latest updates Vladimir Putin ordered the release of an American from a Russian jail as he met…",
+   "summary": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’ US politics live – latest updates Vladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve…",
    "published": "2026-10-21T15:24:58+00:00"
   },
   {
@@ -1191,14 +1551,14 @@
   },
   {
    "id": "7be3cfd1d4ed",
-   "title": "US congressional candidate Brad Lander freed after West Bank detention",
+   "title": "US congressional candidate Brad Lander detained in West Bank",
    "link": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives.",
+   "summary": "Lander was freed, but says dozens remain in Israeli custody.",
    "published": "2026-10-21T14:12:15+00:00"
   },
   {
@@ -1500,18 +1860,6 @@
    "category_hint": null,
    "summary": "26-00655.pdf Anonymous (not verified) Wed, 10/21/2026 - 09:20 Case ID 26-00655 Forum FINRA Document Type Award Claimants Frederick Yard Respondents Larry Smith Hearing Site Charlotte, NC Award Document 26-00655.pdf Documentum DocID 63ffd073 Award Date Official Mon, 10/19/2026 -…",
    "published": "2026-10-21T13:20:01+00:00"
-  },
-  {
-   "id": "88dd6684d6f6",
-   "title": "Thousands of California public employees set to strike over contract",
-   "link": "https://www.theguardian.com/us-news/2026/oct/21/california-nurses-teachers-strike",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "SEIU Local 1000, representing nurses and teachers, pushing for higher wages, telework and affordable healthcare Thousands of California state workers were set to strike on Wednesday, rallying outside government buildings in several cities, as tensions boiled over lapsed…",
-   "published": "2026-10-21T13:20:00+00:00"
   },
   {
    "id": "cf995ab8ef53",
@@ -2326,7 +2674,7 @@
   },
   {
    "id": "bee7271db7c2",
-   "title": "Expecting a baby? 5 tips to help you prepare for pregnancy costs",
+   "title": "How much does pregnancy cost? Be prepared with these tips",
    "link": "https://www.npr.org/2026/10/21/nx-s1-5996849/insurance-cost-baby-pregnancy",
    "source": "NPR News",
    "circle_hint": "national",
