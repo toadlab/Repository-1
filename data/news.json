@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T14:47:53.019040+00:00",
+ "generated": "2026-10-21T15:48:41.321383+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -43,8 +43,8 @@
   },
   {
    "name": "Reason",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 502: Bad Gateway"
+   "ok": true,
+   "count": 48
   },
   {
    "name": "ProPublica",
@@ -134,6 +134,354 @@
  ],
  "items": [
   {
+   "id": "ec97b97cff96",
+   "title": "Treasury and IRS Release 2026-2027 Priority Guidance Plan",
+   "link": "https://www.wealthmanagement.com/philanthropy/treasury-and-irs-release-2026-2027-priority-guidance-plan",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The PGP addresses numerous issues affecting the charitable giving sector.",
+   "published": "2026-10-21T15:45:21+00:00"
+  },
+  {
+   "id": "65bcea776144",
+   "title": "Deseret News archives: Guggenheim opened in 1959 in New York City",
+   "link": "https://www.deseret.com/utah/2024/10/21/deseret-news-archives-guggenheim-opened-in-1959/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Editor’s note: This story was originally published on Oct. 21, 2024. A look back at local, national and world events through Deseret News archives. On Oct. 21, 1959, the Frank Lloyd Wright-designed Solomon R. Guggenheim Museum opened in New York. The Guggenheim Foundation was…",
+   "published": "2026-10-21T15:39:47+00:00"
+  },
+  {
+   "id": "5e6ceed7ed66",
+   "title": "Succession Planning When Business Is Family",
+   "link": "https://www.wealthmanagement.com/estate-planning/succession-planning-when-business-is-family",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Generational transfer, sale or professionalization are the most pursued paths.",
+   "published": "2026-10-21T15:36:38+00:00"
+  },
+  {
+   "id": "1ab1bcf18974",
+   "title": "Rezoning Request for Catholic Shrine May Have Been Denied Because of Shrine's \"Pro-Life Message\"",
+   "link": "https://reason.com/volokh/2026/10/21/rezoning-request-for-catholic-shrine-may-have-been-denied-because-of-shrines-pro-life-message/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "From Judge Stephanos Bibas, joined by Judge Tamika Montgomery-Reeves, in Monday's Holy Trinity Ukrainian Catholic Church v. Township of Collier:… The post Rezoning Request for Catholic Shrine May Have Been Denied Because of Shrine's \"Pro-Life Message\" appeared first on Reason…",
+   "published": "2026-10-21T15:35:46+00:00"
+  },
+  {
+   "id": "5469ad5a4126",
+   "title": "Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds",
+   "link": "https://www.propublica.org/article/colorado-marijuana-enforcement-division-audit-findings",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The post Colorado Marijuana Regulators Failed to Protect Consumers From Potential Contamination, Audit Finds appeared first on ProPublica .",
+   "published": "2026-10-21T15:35:00+00:00"
+  },
+  {
+   "id": "79fecb094cec",
+   "title": "New human data hints at psychedelics' potential to combat inflammation",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6009441/psychedelics-brain-inflammation-immune-system",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Lab studies have shown that psychedelics like psilocybin can lower inflammation and may be protective for a range of illnesses. Now, researchers are publishing some of the first data in humans that signals this holds potential for patients with neurodegenerative diseases like…",
+   "published": "2026-10-21T15:33:18+00:00"
+  },
+  {
+   "id": "b6820737a886",
+   "title": "Woman told Russell Brand he treated her ‘like an animal,’ court hears",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/21/woman-told-russell-brand-he-treated-her-like-an-animal-court-hears",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Brand, 51, faces three charges of rape, three of sexual assault and one of indecent assault against six women A woman said Russell Brand degraded her and treated her like “a piece of meat” when he raped her at his London townhouse, a court has heard. She alleged she repeatedly…",
+   "published": "2026-10-21T15:32:58+00:00"
+  },
+  {
+   "id": "7a6b31fa7f40",
+   "title": "Bush’s brother crosses party lines to vote for James Talarico for Senate",
+   "link": "https://www.theguardian.com/us-news/2026/oct/21/neil-bush-votes-james-talarico",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Republican Neil Bush says he was ‘deeply troubled’ by Ken Paxton’s conduct and ‘enormously impressed’ with Talarico US politics live – latest updates Neil Bush, a son of former president George HW Bush and a lifelong Republican, announced on Tuesday that he crossed party lines…",
+   "published": "2026-10-21T15:29:36+00:00"
+  },
+  {
+   "id": "d52f0909a583",
+   "title": "Are Trump’s Rallies MAGA’s Last Gasp?",
+   "link": "https://thedispatch.com/newsletter/next-right/trump-rallies-north-carolina-midterms-maga-future/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The president’s packed campaign schedule is part vanity tour, part eleventh-hour rescue mission.",
+   "published": "2026-10-21T15:27:23+00:00"
+  },
+  {
+   "id": "d64dd4eb4216",
+   "title": "AI stocks are probably in a bubble — but might be worth holding on to, says Citadel’s Ken Griffin",
+   "link": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Investors are for sure facing “bubbles,” but Ken Griffin isn’t telling investors to dump those stocks.",
+   "published": "2026-10-21T15:27:00+00:00"
+  },
+  {
+   "id": "cbabb4a7229c",
+   "title": "Indian court orders release of two leaders of Cockroach movement",
+   "link": "https://www.theguardian.com/world/2026/oct/21/india-cockroach-movement-leaders-released-protests-government-crackdown",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Saurav Das and Ashutosh Ranka spent a week in jail after defying restrictions on protests in Delhi amid government crackdown An Indian court has ordered the release of two leaders of India’s Cockroach movement, who were jailed last week amid a mounting state crackdown on…",
+   "published": "2026-10-21T15:26:25+00:00"
+  },
+  {
+   "id": "0ae74849b12d",
+   "title": "Likely voters prefer Democrats to Republicans in latest poll ahead of midterms as Trump’s popularity continues to sink – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Likely voters prefer Democratic candidates over Republicans running for office by 11 percentage points, new poll shows; Trump campaigns in South Carolina Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The…",
+   "published": "2026-10-21T15:26:07+00:00"
+  },
+  {
+   "id": "76f0a4c269a2",
+   "title": "Reform UK claims racism exposé has left some members ‘psychologically damaged’ as it reports ITV to police – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Zia Yusuf claims undercover investigation broke the law as broadcaster stands by its journalism Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of politics for Greenpeace UK , said:…",
+   "published": "2026-10-21T15:25:27+00:00"
+  },
+  {
+   "id": "58fea97a0d5e",
+   "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+   "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’ Europe live – latest updates US politics live – latest updates Vladimir Putin ordered the release of an American from a Russian jail as he met…",
+   "published": "2026-10-21T15:24:58+00:00"
+  },
+  {
+   "id": "a6d6e5c92d7d",
+   "title": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Students, teachers and civil servants have shown up in Athens, with demonstrations also in Thessaloniki and other cities Meanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen Hubbard, a US…",
+   "published": "2026-10-21T15:23:04+00:00"
+  },
+  {
+   "id": "fbce1999d890",
+   "title": "Sentenced to death at 17, at 68, quilt artist receives solo museum exhibition",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6003634/sentenced-to-death-at-17-at-68-quilt-artist-receives-solo-museum-exhibition",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A quilt artist who spent decades on death row now has his first solo exhibit at the Grand Rapids Art Museum.",
+   "published": "2026-10-21T15:21:47+00:00"
+  },
+  {
+   "id": "9ff70fcbf980",
+   "title": "Home Office lifts deportation order for man, 62, who has lived in UK for 50 years",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/21/home-office-lifts-deportation-order-tony-hall-62-lived-uk-50-years",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Department drops efforts to return Tony Hall to Barbados, a country he left at 12 and where he has no living relatives The Home Office has lifted a deportation order handed to a 62-year-old man who has lived in Britain for 50 years after criticism of the department’s attempts…",
+   "published": "2026-10-21T15:15:52+00:00"
+  },
+  {
+   "id": "53edf89bc9aa",
+   "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
+   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+   "published": "2026-10-21T15:15:00+00:00"
+  },
+  {
+   "id": "e71cfcd8f429",
+   "title": "Trump says AI data centres should pay ‘dividends’ in pre-midterm shift",
+   "link": "https://www.aljazeera.com/news/2026/10/21/trump-says-ai-data-centres-should-pay-dividends-in-pre-midterm-shift?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "US president has continued to support data centres in advance of midterms, despite growing opposition from Republicans.",
+   "published": "2026-10-21T15:09:33+00:00"
+  },
+  {
+   "id": "e7d90669f746",
+   "title": "Poland’s parliament votes to ease abortion ban but faces likely veto from president",
+   "link": "https://www.theguardian.com/world/2026/oct/21/poland-parliament-votes-ease-abortion-ban-likely-veto-president",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Measures would remove some penalties for those helping women access abortion but are ‘small-scale step’, say campaigners Poland’s lower house of parliament has approved two bills aimed at loosening a near-total ban on abortions, in what campaigners have described as a…",
+   "published": "2026-10-21T15:01:30+00:00"
+  },
+  {
+   "id": "a75b18080674",
+   "title": "Booking.com under investigation by EU regulators over fake listings and scams",
+   "link": "https://www.theguardian.com/world/2026/oct/21/bookingcom-under-investigation-eu-regulators-fake-listings-scams",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "European Commission calls accommodation website’s approach to fraudulent listings and phishing scams as ‘absolutely substandard’ EU regulators have opened an investigation into Booking.com, alleging that the accommodation website has not done enough to protect consumers from…",
+   "published": "2026-10-21T15:01:24+00:00"
+  },
+  {
+   "id": "5f7be25d97bb",
+   "title": "Are Prediction Markets Just Gambling? Kalshi CEO Responds",
+   "link": "https://reason.com/podcast/2026/10/21/are-prediction-markets-just-gambling-kalshi-ceo-responds/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Kalshi CEO Tarek Mansour discusses the fight to regulate prediction markets, why ordinary people can outperform Wall Street, and the future of American capitalism.",
+   "published": "2026-10-21T15:00:40+00:00"
+  },
+  {
+   "id": "51c5e7e4d994",
+   "title": "Moderna is about to release the trial results for its cancer vaccine. A lot is riding on this data.",
+   "link": "https://www.marketwatch.com/story/moderna-is-about-to-release-the-trial-results-for-its-cancer-vaccine-a-lot-is-riding-on-this-data-ccbf8c9c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Moderna is one of the hottest stocks of the year because of its custom cancer treatment. Full Phase 3 data are set to be revealed this weekend.",
+   "published": "2026-10-21T15:00:00+00:00"
+  },
+  {
+   "id": "b9648ec7c986",
+   "title": "Russia to send first diesel tanker to the US amid Trump deal",
+   "link": "https://www.aljazeera.com/economy/2026/10/21/russia-to-send-first-diesel-tanker-to-the-us-amid-trump-deal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Russia will send on Thursday its first diesel tanker to the US to an undisclosed port.",
+   "published": "2026-10-21T14:54:55+00:00"
+  },
+  {
+   "id": "775feccf2489",
+   "title": "The Healthy Advisor: The Comeback with Vincent Crudo",
+   "link": "https://www.wealthmanagement.com/professional-development/the-healthy-advisor-the-comeback-with-vincent-crudo",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A 2013 spinal cord injury taught advisor Vincent Crudo about resilience, health and helping others prepare for the unexpected.",
+   "published": "2026-10-21T14:51:37+00:00"
+  },
+  {
+   "id": "8bdea8293ff9",
+   "title": "Money-saving habits to cope with higher prices — from our readers",
+   "link": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "I asked people what they’re doing to make life more affordable today. I’ll definitely be trying some of these.",
+   "published": "2026-10-21T14:49:00+00:00"
+  },
+  {
+   "id": "68c606059eb6",
+   "title": "How I Changed My Mind (Kind Of) on the Death Penalty",
+   "link": "https://www.christianitytoday.com/2026/10/how-i-changed-my-mind-kind-of-on-the-death-penalty/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "This piece was adapted from Russell Moore’s newsletter. Subscribe here. Several years ago, Shane Claiborne joined me on my podcast to tell me where I was wrong on the death penalty. He is against it; I was for it. I told him afterward that he had “almost persuaded me,” but not…",
+   "published": "2026-10-21T14:47:52+00:00"
+  },
+  {
+   "id": "79c4c7c27402",
+   "title": "Burnham backs mandatory suicide prevention training for social workers after parent-carer Matilda Davis’s death",
+   "link": "https://www.theguardian.com/society/2026/oct/21/andy-burnham-backs-mandatory-suicide-prevention-training-after-matilda-davis-death",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Former art teacher, who cared for her disabled son, ‘received almost no support’, said her local MP Manuela Perteghella Andy Burnham has backed mandatory suicide prevention training for social workers after the “devastating” death of Matilda Davis, a parent-carer who killed…",
+   "published": "2026-10-21T14:46:41+00:00"
+  },
+  {
+   "id": "975fa4d57384",
+   "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+   "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“Computer science isn’t the ticket to the American dream like people thought it was.”",
+   "published": "2026-10-21T14:46:00+00:00"
+  },
+  {
    "id": "2f16fddd9766",
    "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?",
    "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
@@ -144,6 +492,42 @@
    "category_hint": null,
    "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
    "published": "2026-10-21T14:45:00+00:00"
+  },
+  {
+   "id": "cdbb7c710f75",
+   "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+   "link": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Leaders criticised for spreading misleading information as France prepares for further protests this weekend Europe live – latest updates Emmanuel Macron has accused Donald Trump and other foreign leaders of making “stupid comments” about France’s street unrest for political…",
+   "published": "2026-10-21T14:44:56+00:00"
+  },
+  {
+   "id": "599961b961cb",
+   "title": "Musk pledges $10bn in SpaceX shares for US children: Who really gains?",
+   "link": "https://www.aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The pledge, which Trump says will go through tax-friendly 'Trump accounts', comes two weeks before the US midterms.",
+   "published": "2026-10-21T14:41:03+00:00"
+  },
+  {
+   "id": "eed832613779",
+   "title": "US envoy Witkoff calls Russia’s Putin a ‘humanitarian’",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/us-envoy-witkoff-calls-russias-putin-a?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "US envoy Steve Witkoff praised Russian President Vladimir Putin as a ‘humanitarian’.",
+   "published": "2026-10-21T14:39:08+00:00"
   },
   {
    "id": "caf3e0f333ce",
@@ -182,16 +566,28 @@
    "published": "2026-10-21T14:33:00+00:00"
   },
   {
-   "id": "a6d6e5c92d7d",
-   "title": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "79a483a987b1",
+   "title": "Russia releases American Stephen Hubbard after four years in prison",
+   "link": "https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Students, teachers and civil servants have shown up in Athens, with demonstrations also in Thessaloniki and other cities Meanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen Hubbard, a US…",
-   "published": "2026-10-21T14:32:55+00:00"
+   "summary": "Hubbard was jailed after being accused of fighting alongside Ukrainian forces against Russia.",
+   "published": "2026-10-21T14:31:53+00:00"
+  },
+  {
+   "id": "a448310ff6fe",
+   "title": "IRS Grants Filing Extension to Opt Out of GST Tax Allocation",
+   "link": "https://www.wealthmanagement.com/estate-planning/irs-grants-filing-extension-to-opt-out-of-gst-tax-allocation",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The taxpayer acted in good faith and reasonably relied on advisors.",
+   "published": "2026-10-21T14:28:57+00:00"
   },
   {
    "id": "ffc2904e972d",
@@ -214,32 +610,8 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Water, gas and fresh food running out in Taiz as fighting intensifies and Houthi advance cuts off most supply routes The humanitarian crisis in the besieged Yemeni city of Taiz is becoming unmanageable as the city runs out of water, gas and fresh food, Oxfam aid workers in the…",
+   "summary": "Water and fresh food running out in Taiz as fighting intensifies and Houthi advance cuts off most supply routes The humanitarian crisis in the besieged Yemeni city of Taiz is becoming unmanageable as the city runs out of water, fuel and fresh food, Oxfam aid workers in the…",
    "published": "2026-10-21T14:24:02+00:00"
-  },
-  {
-   "id": "79c4c7c27402",
-   "title": "Burnham backs mandatory suicide prevention training for social workers after Matilda Davis’s death",
-   "link": "https://www.theguardian.com/society/2026/oct/21/andy-burnham-backs-mandatory-suicide-prevention-training-after-matilda-davis-death",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Former art teacher, who cared for her disabled son, ‘received almost no support’, said her local MP Manuela Perteghella Andy Burnham has backed mandatory suicide prevention training for social workers after the “devastating” death of Matilda Davis, a parent-carer who killed…",
-   "published": "2026-10-21T14:18:58+00:00"
-  },
-  {
-   "id": "0ae74849b12d",
-   "title": "Likely voters prefer Democrats to Republicans in latest poll ahead of midterms as Trump’s popularity continues to sink – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Likely voters prefer Democratic candidates over Republicans running for office by 11 percentage points, new poll shows; Trump campaigns in South Carolina Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The…",
-   "published": "2026-10-21T14:17:36+00:00"
   },
   {
    "id": "1a41f3b5e5df",
@@ -288,18 +660,6 @@
    "category_hint": null,
    "summary": "SpaceX just gave Wall Street a big reason to believe in the artificial-intelligence boom as demand for its computing power is off the charts.",
    "published": "2026-10-21T14:10:00+00:00"
-  },
-  {
-   "id": "76f0a4c269a2",
-   "title": "Commons speaker accuses energy secretary of ‘immense discourtesy’ after she misses Jackdaw statement – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Lindsay Hoyle also said it was ‘shameful’ that her department announced the news to the media first Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of politics for Greenpeace UK , said:…",
-   "published": "2026-10-21T14:09:31+00:00"
   },
   {
    "id": "f24f3fe6d6db",
@@ -483,7 +843,7 @@
   },
   {
    "id": "fe7004385f5b",
-   "title": "How Israel’s war on Lebanon has cost young people with autism and ADHD",
+   "title": "How war in Lebanon has cost young people with autism and ADHD",
    "link": "https://www.aljazeera.com/news/2026/10/21/how-cost-israels-war-on-lebanon-has-on-young-people-with-autism-and-adhd?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -507,14 +867,14 @@
   },
   {
    "id": "27d4d9f3430c",
-   "title": "80 Israelis and Americans, including NY Democrat Brad Lander, detained in West Bank",
+   "title": "Israel detains dozens of Americans, including a congressional candidate, in West Bank",
    "link": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians",
    "source": "NPR News",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "U.S. Democratic congressional nominee Brad Lander was detained along with about 80 American and Israeli rabbis and activists by Israeli security forces as they helped Palestinian olive harvesters.",
+   "summary": "Democratic congressional candidate Brad Lander along with about 80 American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces.",
    "published": "2026-10-21T13:28:04+00:00"
   },
   {
@@ -806,18 +1166,6 @@
    "published": "2026-10-21T12:00:00+00:00"
   },
   {
-   "id": "58fea97a0d5e",
-   "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-   "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Russia unilaterally frees Stephen Hubbard after US request while Steve Witkoff praises Putin as a ‘humanitarian’ Europe live – latest updates US politics live – latest updates Vladimir Putin ordered the release of an American from a Russian jail as he met Donald Trump’s envoy…",
-   "published": "2026-10-21T11:50:27+00:00"
-  },
-  {
    "id": "bfb65044a5aa",
    "title": "DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises",
    "link": "https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia",
@@ -831,14 +1179,14 @@
   },
   {
    "id": "1a2458854c8c",
-   "title": "The night watch: the YouTubers who were guardians of a shark stuck in a South Korean canal",
+   "title": "Shark trapped for a month in South Korean canal is finally freed",
    "link": "https://www.theguardian.com/world/2026/oct/21/youtube-watch-over-shark-stuck-south-korea-canal-busan-bukang-i",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Wearing hi-vis and carrying selfie sticks, livestreamers watched over an animal that was trapped for a month and drew more than 1.6m visitors before being guided out In South Korea , they call them jagyeongdan , a word whose meaning sits somewhere between vigilante group and…",
+   "summary": "Bukang-i successfully guided out after month in which it drew 1.6m visitors and was watched over by YouTubers In South Korea , they call them jagyeongdan , a word whose meaning sits somewhere between vigilante group and neighbourhood watch. Each night they put on hi-vis vests,…",
    "published": "2026-10-21T11:41:48+00:00"
   },
   {
@@ -1150,18 +1498,6 @@
    "category_hint": null,
    "summary": "Britain’s King Charles III welcomed Oman’s Sultan Haitham bin Tariq on the first state visit in 44 years.",
    "published": "2026-10-21T10:17:41+00:00"
-  },
-  {
-   "id": "53edf89bc9aa",
-   "title": "My partner of 17 years left me his $1 million home. His children say I influenced him to do so. Should I share my inheritance?",
-   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
-   "published": "2026-10-21T10:15:00+00:00"
   },
   {
    "id": "14001227f66d",
@@ -1481,17 +1817,6 @@
    "category_hint": null,
    "summary": "Arrests for more minor offenses, including vagrancy, rose in the U.S., even as violent crime rates dropped to historic lows, according to an analysis from criminal justice reform advocacy group FWD.us",
    "published": "2026-10-21T09:00:00+00:00"
-  },
-  {
-   "id": "d64dd4eb4216",
-   "title": "AI stocks are probably in a bubble — but might be worth holding onto, says Citadel’s Ken Griffin",
-   "link": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Investors are for sure facing “bubbles,” but Ken Griffin isn’t telling investors to dump those stocks/",
-   "published": "2026-10-21T08:50:00+00:00"
   },
   {
    "id": "8ec84c56e9df",
@@ -4953,17 +5278,6 @@
    "published": "2026-10-20T13:55:15+00:00"
   },
   {
-   "id": "8bdea8293ff9",
-   "title": "Money-saving habits to cope with higher prices — from our readers",
-   "link": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "I asked people what they’re doing to make life more affordable today. I’ll definitely be trying some of these.",
-   "published": "2026-10-20T13:52:00+00:00"
-  },
-  {
    "id": "da7258b763c2",
    "title": "Actor Christina Applegate reveals she was misdiagnosed with multiple sclerosis",
    "link": "https://www.theguardian.com/tv-and-radio/2026/oct/20/christina-applegate-ms-misdiagnosed",
@@ -5124,17 +5438,6 @@
    "category_hint": null,
    "summary": "Investors seeking income should focus on total return potential, fees and tax efficiency rather than chasing the high yields in covered-call ETFs.",
    "published": "2026-10-20T13:19:15+00:00"
-  },
-  {
-   "id": "975fa4d57384",
-   "title": "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
-   "link": "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“Computer science isn’t the ticket to the American dream like people thought it was.”",
-   "published": "2026-10-20T13:18:00+00:00"
   },
   {
    "id": "79ede12aa04b",
@@ -6680,6 +6983,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
+   "category_hint": null,
    "summary": "Football Joe Hughes, Salem Hills (Sr.) Hughes came up big on both sides of the ball in Salem Hills’ 49-14 regular season finale victory over Uintah as the Skyhawks earned a share of the Region 8 championship. A strong safety and receiver, Hughes was a factor on defense, and…",
    "published": "2026-10-20T02:42:09+00:00"
   },
@@ -13018,7 +13322,8 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Tuesday, Oct. 20, 2026 TELEVISION FOOTBALL Missouri St. at Delaware, ESPNU, 5 p.m. MTSU at FIU, CBSSN, 5 p.m. South Alabama at Marshall, ESPN2, 5:30 p.m. GOLF Abilene Christian Intercollegiate, GOLF, 2 p.m. NBA Celtics at Pistons, NBC, 1 p.m. 76ers at Knicks, NBC, 5 p.m.…",
+   "category_hint": null,
+   "summary": "Wednesday, Oct. 21, 2026 TELEVISION BASKETBALL Exhibition: Louisville at Kansas, ESPNU, 5 p.m. Timberwolves at Heat, ESPN, 5:30 p.m. Jazz at Grizzlies, KJZZ, 6 p.m. WNBA: Valkyries at Dream, CNBC/USA, 6 p.m. Warriors at Lakers, ESPN, 8 p.m. FOOTBALL New Mexico St. at Sam…",
    "published": "2026-10-18T06:00:00+00:00"
   },
   {
