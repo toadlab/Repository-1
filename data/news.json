@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T13:52:25.623986+00:00",
+ "generated": "2026-10-21T14:47:53.019040+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -43,8 +43,8 @@
   },
   {
    "name": "Reason",
-   "ok": true,
-   "count": 48
+   "ok": false,
+   "error": "HTTPError: HTTP Error 502: Bad Gateway"
   },
   {
    "name": "ProPublica",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "name": "The Guardian World",
@@ -134,16 +134,160 @@
  ],
  "items": [
   {
-   "id": "6e840d5ab577",
-   "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-   "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "id": "2f16fddd9766",
+   "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?",
+   "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+   "published": "2026-10-21T14:45:00+00:00"
+  },
+  {
+   "id": "caf3e0f333ce",
+   "title": "Is Your Home Winter-Ready? This Gadget Could Reveal Costly Problems",
+   "link": "https://www.kiplinger.com/real-estate/home-improvement/thermal-camera-find-home-energy-leaks",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "With winter right around the corner, this device can help you spot leaks around your home that contribute to energy waste.",
+   "published": "2026-10-21T14:38:15+00:00"
+  },
+  {
+   "id": "314005ed4abb",
+   "title": "​Europe stands by Ukraine, but how long can that last?",
+   "link": "https://www.theguardian.com/world/2026/oct/21/europe-stands-by-ukraine-but-how-long-can-that-last",
+   "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
-   "published": "2026-10-21T13:49:50+00:00"
+   "summary": "As US support ebbs away, looming European elections and growing financial strains across the continent could fracture the precious coalition that has kept Ukraine afloat Europe woke up last Friday to another belligerent outburst from Donald Trump – this time berating Ukraine’s…",
+   "published": "2026-10-21T14:33:28+00:00"
+  },
+  {
+   "id": "a48930129512",
+   "title": "Time for a Micron mindset shift? Here’s how to navigate the new AI landscape.",
+   "link": "https://www.marketwatch.com/story/time-for-a-micron-mindset-shift-heres-how-to-navigate-the-new-ai-landscape-09395ac8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "An analyst says Micron investors have gotten used to rapid growth but now have to reorient themselves around the idea that AI is more like a marathon.",
+   "published": "2026-10-21T14:33:00+00:00"
+  },
+  {
+   "id": "a6d6e5c92d7d",
+   "title": "Thousands march in Greece over public education failures as Macron blasts ‘stupid’ commentary on French protests – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Students, teachers and civil servants have shown up in Athens, with demonstrations also in Thessaloniki and other cities Meanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen Hubbard, a US…",
+   "published": "2026-10-21T14:32:55+00:00"
+  },
+  {
+   "id": "ffc2904e972d",
+   "title": "Trump’s approval rating drops to 36% two weeks before midterms, poll finds",
+   "link": "https://www.theguardian.com/us-news/2026/oct/21/trump-approval-rating-midterms-poll",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Voters disapprove of Trump’s handling of economy and cost of living, says poll in new low recorded by NY Times/Siena Donald Trump ’s approval rating sank to 36% just two weeks before the midterm elections , the lowest recorded in a poll by the New York Times/Siena College ,…",
+   "published": "2026-10-21T14:27:44+00:00"
+  },
+  {
+   "id": "fb1b0ba1107e",
+   "title": "Besieged Yemeni city on verge of ‘unmanageable’ crisis, aid workers warn",
+   "link": "https://www.theguardian.com/world/2026/oct/21/besieged-yemeni-city-taiz-houthis-humanitarian-crisis-aid-workers",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Water, gas and fresh food running out in Taiz as fighting intensifies and Houthi advance cuts off most supply routes The humanitarian crisis in the besieged Yemeni city of Taiz is becoming unmanageable as the city runs out of water, gas and fresh food, Oxfam aid workers in the…",
+   "published": "2026-10-21T14:24:02+00:00"
+  },
+  {
+   "id": "79c4c7c27402",
+   "title": "Burnham backs mandatory suicide prevention training for social workers after Matilda Davis’s death",
+   "link": "https://www.theguardian.com/society/2026/oct/21/andy-burnham-backs-mandatory-suicide-prevention-training-after-matilda-davis-death",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Former art teacher, who cared for her disabled son, ‘received almost no support’, said her local MP Manuela Perteghella Andy Burnham has backed mandatory suicide prevention training for social workers after the “devastating” death of Matilda Davis, a parent-carer who killed…",
+   "published": "2026-10-21T14:18:58+00:00"
+  },
+  {
+   "id": "0ae74849b12d",
+   "title": "Likely voters prefer Democrats to Republicans in latest poll ahead of midterms as Trump’s popularity continues to sink – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Likely voters prefer Democratic candidates over Republicans running for office by 11 percentage points, new poll shows; Trump campaigns in South Carolina Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The…",
+   "published": "2026-10-21T14:17:36+00:00"
+  },
+  {
+   "id": "1a41f3b5e5df",
+   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+   "published": "2026-10-21T14:15:00+00:00"
+  },
+  {
+   "id": "7be3cfd1d4ed",
+   "title": "US congressional candidate Brad Lander freed after West Bank detention",
+   "link": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives.",
+   "published": "2026-10-21T14:12:15+00:00"
+  },
+  {
+   "id": "a54b3d8b7d80",
+   "title": "The Board of Peace trap: Gaza’s future must be more than a choice between two bad options",
+   "link": "https://www.thenewhumanitarian.org/editors-take/2026/10/21/board-peace-trap-gazas-future-must-be-more-choice-between-two-bad-options",
+   "source": "The New Humanitarian",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The international community is backing a flawed path. A different future is possible, but only if Palestinian rights and priorities come first.",
+   "published": "2026-10-21T14:11:16+00:00"
+  },
+  {
+   "id": "34e2e0bfc58d",
+   "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
+   "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "SpaceX just gave Wall Street a big reason to believe in the artificial-intelligence boom as demand for its computing power is off the charts.",
+   "published": "2026-10-21T14:10:00+00:00"
   },
   {
    "id": "76f0a4c269a2",
@@ -155,7 +299,151 @@
    "flourishing_feed": false,
    "category_hint": null,
    "summary": "Lindsay Hoyle also said it was ‘shameful’ that her department announced the news to the media first Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of politics for Greenpeace UK , said:…",
-   "published": "2026-10-21T13:49:47+00:00"
+   "published": "2026-10-21T14:09:31+00:00"
+  },
+  {
+   "id": "f24f3fe6d6db",
+   "title": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
+   "link": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "About 80 US, Israeli and British volunteers held near Nahalin in West Bank and taken to police station The Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olives near Bethlehem, including the New York Democratic…",
+   "published": "2026-10-21T14:08:28+00:00"
+  },
+  {
+   "id": "f3edc06f16af",
+   "title": "Meta’s AI spending spree has investors taking a page from the financial-crisis playbook",
+   "link": "https://www.marketwatch.com/story/metas-ai-spending-spree-has-investors-taking-a-page-from-the-financial-crisis-playbook-4ea05f5c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The next hot AI play? It could be adding default protection.",
+   "published": "2026-10-21T14:05:00+00:00"
+  },
+  {
+   "id": "643456b192e6",
+   "title": "Macron accuses foreign leaders of exploiting French riots",
+   "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+   "published": "2026-10-21T14:04:28+00:00"
+  },
+  {
+   "id": "e7d251c0c48c",
+   "title": "Driver allegedly looking up porn charged in fatal I-15 crash",
+   "link": "https://www.deseret.com/utah/2026/10/21/driver-allegedly-looking-up-porn-charged-in-fatal-i-15-crash/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A California woman who police say caused a fatal three-car crash in June in Juab County allegedly had a pornographic website on her phone just before impact.",
+   "published": "2026-10-21T14:02:58+00:00"
+  },
+  {
+   "id": "f14760526edf",
+   "title": "Australian politicians say they are paying thousands for their own security upgrades amid rising threats",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Home and office safety a common concern in Australian federal police and Asio safety briefings with politicians following alleged attack on MP Helen Haines Get our new political email , free app or daily news podcast Security agencies will review safety precautions for MPs’…",
+   "published": "2026-10-21T14:00:20+00:00"
+  },
+  {
+   "id": "bb0dfd74e995",
+   "title": "Majority of Australians who report penicillin allergy not truly allergic",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/22/penicillin-allergy-australia-doctors-antibiotic-guidelines",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Peak body for immunologists changes guidelines as evidence shows up to 90% of those reporting allergy don’t have one Get our breaking news email , free app or daily news podcast The majority of Australians who report a penicillin allergy are not truly allergic, prompting the…",
+   "published": "2026-10-21T14:00:20+00:00"
+  },
+  {
+   "id": "bcbd955c935c",
+   "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+   "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
+   "published": "2026-10-21T14:00:00+00:00"
+  },
+  {
+   "id": "af1b570deca7",
+   "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
+   "link": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Experts say conflicts and uncertainty are accelerating efforts to strengthen regional military capacity.",
+   "published": "2026-10-21T13:58:17+00:00"
+  },
+  {
+   "id": "9adb83076dc6",
+   "title": "Kagan says supreme court conservatives have made US political system ‘a nightmare’",
+   "link": "https://www.theguardian.com/law/2026/oct/21/kagan-supreme-court-conservatives-politics-nightmare",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Liberal justice says recent decisions on redistricting and campaign finance have undermined democracy and polarized US even more US politics live – latest updates Elena Kagan criticized rulings made by the US supreme court’s conservative majority this week, arguing that its…",
+   "published": "2026-10-21T13:57:27+00:00"
+  },
+  {
+   "id": "d64136fe3e20",
+   "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
+   "link": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Several states are dealing with ballot measures tied to taxing the rich — and there may be even more initiatives on this front in 2028.",
+   "published": "2026-10-21T13:55:00+00:00"
+  },
+  {
+   "id": "080250522b20",
+   "title": "In the battle for AI supremacy, China is only six months behind the U.S. — which means it’s winning, says former Google CEO",
+   "link": "https://www.marketwatch.com/story/in-the-battle-for-ai-supremacy-china-is-only-six-months-behind-the-u-s-but-that-means-theyre-winning-says-former-google-ceo-82d71e7a?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "AI is not a bubble, says Google’s former CEO. It’s real growth, real money and real customers paying for something useful.",
+   "published": "2026-10-21T13:50:00+00:00"
+  },
+  {
+   "id": "6e840d5ab577",
+   "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+   "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says.",
+   "published": "2026-10-21T13:49:50+00:00"
   },
   {
    "id": "5cb97bd18534",
@@ -170,27 +458,15 @@
    "published": "2026-10-21T13:48:00+00:00"
   },
   {
-   "id": "a6d6e5c92d7d",
-   "title": "Thousands march in Greece over public education failures and cost of living – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Students, teachers and civil servants have shown up in Athens, with demonstrations also in Thessaloniki and other cities Meanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen Hubbard, a US…",
-   "published": "2026-10-21T13:45:20+00:00"
-  },
-  {
    "id": "37b8f8578362",
-   "title": "Severely ill ICE detainees targeted for imminent deportation in Florida, advocates say",
+   "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
    "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Flights to unknown countries in Africa are scheduled as early as Wednesday, relatives detail Relatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite worsening medical…",
+   "summary": "Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail Relatives of gravely ill detainees at two Florida immigration jails say authorities are about to deport their loved ones to unknown countries in Africa despite…",
    "published": "2026-10-21T13:40:08+00:00"
   },
   {
@@ -228,18 +504,6 @@
    "category_hint": null,
    "summary": "Plus: Stamping out fraud, a visit to Anthropic's headquarters, and more...",
    "published": "2026-10-21T13:30:36+00:00"
-  },
-  {
-   "id": "f24f3fe6d6db",
-   "title": "Israeli military detains US politician Brad Lander and rabbis at olive harvest",
-   "link": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "About 80 US, Israeli and British volunteers held near Nahalin in West Bank and taken to police station The Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olives near Bethlehem, including the New York Democratic…",
-   "published": "2026-10-21T13:30:01+00:00"
   },
   {
    "id": "27d4d9f3430c",
@@ -336,18 +600,6 @@
    "category_hint": null,
    "summary": "Yield on 10-year government bonds passes 5% amid failure to pass budget and fallout from violent street protests Business live – latest updates France’s borrowing costs have climbed above 5% for the first time in 24 years as political concerns and the government’s failure to…",
    "published": "2026-10-21T13:17:32+00:00"
-  },
-  {
-   "id": "0ae74849b12d",
-   "title": "Trump hails Russia’s release of US teacher amid Witkoff’s visit – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "US was not required to give anything in return for Stephen Hubbard’s release ‘out of respect for President Trump’, he claims Sign up for Breaking News US email Send us your questions about immigration and the midterms Meanwhile, as my colleague Jakub Krupa reports, French…",
-   "published": "2026-10-21T13:14:30+00:00"
   },
   {
    "id": "9e1d33bd0129",
@@ -447,7 +699,7 @@
   },
   {
    "id": "160a52a19532",
-   "title": "Heckler disrupts Nvidia CEO Huang’s speech at Berlin conference",
+   "title": "Heckler disrupts Nvidia CEO Huang’s keynote speech at Berlin conference",
    "link": "https://www.marketwatch.com/story/heckler-disrupts-nvidia-ceo-huangs-speech-at-berlin-conference-fc461a82?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
@@ -542,18 +794,6 @@
    "published": "2026-10-21T12:09:41+00:00"
   },
   {
-   "id": "34e2e0bfc58d",
-   "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
-   "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "SpaceX just gave Wall Street a big reason to believe in the artificial-intelligence boom as demand for its computing power is off the charts.",
-   "published": "2026-10-21T12:06:00+00:00"
-  },
-  {
    "id": "c3c648f7edad",
    "title": "Moving in Retirement for Lower Taxes: 5 Mistakes to Avoid",
    "link": "https://www.kiplinger.com/retirement/retirement-planning/moving-for-lower-taxes-in-retirement",
@@ -626,18 +866,6 @@
    "published": "2026-10-21T11:30:00+00:00"
   },
   {
-   "id": "1a41f3b5e5df",
-   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-   "published": "2026-10-21T11:15:00+00:00"
-  },
-  {
    "id": "c7f03e236c33",
    "title": "The Companies Placing Bets on Putting Data Centers in Space",
    "link": "https://www.kiplinger.com/business/orbital-data-centers-are-about-to-be-put-to-the-test",
@@ -684,18 +912,6 @@
    "category_hint": null,
    "summary": "10/21/1919: Abrams v. United States argued. The post Today in Supreme Court History: October 21, 1919 appeared first on Reason Magazine.",
    "published": "2026-10-21T11:00:22+00:00"
-  },
-  {
-   "id": "2f16fddd9766",
-   "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?",
-   "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
-   "published": "2026-10-21T11:00:00+00:00"
   },
   {
    "id": "51f55ceebdc0",
@@ -897,7 +1113,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Russian President Vladimir Putin says he has freed an American, Stephen Hubbard, from a Russian prison following a request from President Trump.",
+   "summary": "The announcement of Hubbard's release came as talks got underway between Putin and White House envoy Steve Witkoff in Saint Petersburg focused on the latest U.S. efforts to end the war in Ukraine.",
    "published": "2026-10-21T10:20:50+00:00"
   },
   {
@@ -946,18 +1162,6 @@
    "category_hint": null,
    "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
    "published": "2026-10-21T10:15:00+00:00"
-  },
-  {
-   "id": "080250522b20",
-   "title": "In the battle for AI supremacy, China is only six months behind the U.S — but that means it’s winning, says former Google CEO",
-   "link": "https://www.marketwatch.com/story/in-the-battle-for-ai-supremacy-china-is-only-six-months-behind-the-u-s-but-that-means-theyre-winning-says-former-google-ceo-82d71e7a?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "AI is not a bubble, says Google’s former CEO. It’s real growth, real money, real customers paying for something useful.",
-   "published": "2026-10-21T10:12:00+00:00"
   },
   {
    "id": "14001227f66d",
@@ -1171,18 +1375,6 @@
    "category_hint": "good_in_world",
    "summary": "Scottish author Ian Rankin talks about making sense of difficult experiences through fiction, and giving away a share of his success The post ‘Writing is a way of dealing with things’ appeared first on Positive News .",
    "published": "2026-10-21T09:20:24+00:00"
-  },
-  {
-   "id": "bcbd955c935c",
-   "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-   "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
-   "published": "2026-10-21T09:15:00+00:00"
   },
   {
    "id": "413ba7ec18e7",
@@ -3935,17 +4127,6 @@
    "flourishing_feed": false,
    "summary": "26-00852(2).pdf Anonymous (not verified) Tue, 10/20/2026 - 12:55 Case ID 26-00852 Forum FINRA Document Type Award Claimants Lori Pospisil Respondents Kelly Deforrest Fidelity Brokerage Services LLC Neutrals Karl A. Vogeler Hearing Site Raleigh, NC Award Document 26-00852(2).pdf…",
    "published": "2026-10-20T16:55:01+00:00"
-  },
-  {
-   "id": "d64136fe3e20",
-   "title": "It’s not just California’s billionaire tax. Wealth is on the ballot in the midterm elections.",
-   "link": "https://www.marketwatch.com/story/its-not-just-californias-billionaire-tax-wealth-is-on-the-ballot-in-the-midterm-elections-a50fc12c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Several states are dealing with ballot measures tied to taxing the rich — and there may be even more initiatives on this front in 2028.",
-   "published": "2026-10-20T16:55:00+00:00"
   },
   {
    "id": "328e49d271f9",
