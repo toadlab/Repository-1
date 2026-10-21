@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T10:46:46.602800+00:00",
+ "generated": "2026-10-21T11:46:14.552897+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "name": "Federal Register: IRS",
@@ -129,15 +129,235 @@
  ],
  "items": [
   {
+   "id": "6e840d5ab577",
+   "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+   "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says.",
+   "published": "2026-10-21T11:39:25+00:00"
+  },
+  {
+   "id": "2565cb014ead",
+   "title": "Musk says he’s exploring a SpaceX-Tesla megamerger. What would a combined company be worth?",
+   "link": "https://www.marketwatch.com/story/musk-says-hes-exploring-a-spacex-tesla-megamerger-what-would-a-combined-company-be-worth-f35566aa?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "SpaceX and Super Micro Computer help revive Wall Street’s flagging enthusiasm, with more key earnings on tap.",
+   "published": "2026-10-21T11:39:00+00:00"
+  },
+  {
    "id": "76f0a4c269a2",
-   "title": "Labour accused of ‘climate vandalism’ by Green leader Polanski after Jackdaw gasfield approved – UK politics live",
+   "title": "Burnham faces Badenoch at PMQs after Jackdaw gasfield approved – UK politics live",
    "link": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "The Jackdaw field will start supplying gas to homes and businesses from the end of the month, the government said Here is an explainer by Jill Ambrose about the Jackdaw decision. But environmental groups have condemned the decision. Ami McCarthy, head of politics for Greenpeace…",
-   "published": "2026-10-21T10:34:32+00:00"
+   "published": "2026-10-21T11:32:54+00:00"
+  },
+  {
+   "id": "0ae74849b12d",
+   "title": "Trump hails Russia’s release of US teacher amid Witkoff’s visit – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "US was not required to give anything in return for Stephen Hubbard’s release ‘out of respect for President Trump’, he claims Sign up for Breaking News US email As voters struggle with the rising cost of living and gas prices up 45% since the Iran War, Trump on the campaign…",
+   "published": "2026-10-21T11:25:16+00:00"
+  },
+  {
+   "id": "a6d6e5c92d7d",
+   "title": "Macron blasts ‘unacceptable’ and ‘stupid’ commentary on protests from other leaders – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Macron says he is frustrated by the ‘visible manipulation of information’ about the events in France Meanwhile, back to Witkoff’s meeting with Putin in St Petersburg, the US president, Donald Trump, has just welcomed the release of Stephen Hubbard, a US citizen held by Moscow…",
+   "published": "2026-10-21T11:24:23+00:00"
+  },
+  {
+   "id": "34e2e0bfc58d",
+   "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
+   "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "SpaceX just gave Wall Street a big reason to believe in the artificial-intelligence boom as demand for its computing power is off the charts.",
+   "published": "2026-10-21T11:22:00+00:00"
+  },
+  {
+   "id": "1a41f3b5e5df",
+   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+   "published": "2026-10-21T11:15:00+00:00"
+  },
+  {
+   "id": "c7f03e236c33",
+   "title": "The Companies Placing Bets on Putting Data Centers in Space",
+   "link": "https://www.kiplinger.com/business/orbital-data-centers-are-about-to-be-put-to-the-test",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Data centers in space are a long-term project with uncertain prospects. That’s not stopping a frenzy of activity in the coming years.",
+   "published": "2026-10-21T11:15:00+00:00"
+  },
+  {
+   "id": "9f6965f3fa16",
+   "title": "Bereaved civil service families could face ‘unjust’ tax bills due to pension scheme delays",
+   "link": "https://www.theguardian.com/politics/2026/oct/21/bereaved-civil-service-families-tax-bills-pension-scheme-delays-capita-death-in-benefit-claims",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "MPs say ‘chaos’ at Capita-run scheme could mean some claims miss tax-free time limit on lump sum payments Bereaved families could face “unconscionable” tax bills because of “chaos” in the civil service pension scheme, the government has been warned. Some lump sum pension…",
+   "published": "2026-10-21T11:12:49+00:00"
+  },
+  {
+   "id": "b9b83f527b4b",
+   "title": "Grassroots Revolt Targets Unpopular Property Taxes",
+   "link": "https://reason.com/2026/10/21/grassroots-revolt-targets-unpopular-property-taxes/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Annual tax bills make many homeowners feel more like eternal renters.",
+   "published": "2026-10-21T11:00:52+00:00"
+  },
+  {
+   "id": "128c5475e061",
+   "title": "Today in Supreme Court History: October 21, 1919",
+   "link": "https://reason.com/volokh/2026/10/21/today-in-supreme-court-history-october-21-1919-8/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "10/21/1919: Abrams v. United States argued. The post Today in Supreme Court History: October 21, 1919 appeared first on Reason Magazine.",
+   "published": "2026-10-21T11:00:22+00:00"
+  },
+  {
+   "id": "2f16fddd9766",
+   "title": "I receive 10 calls a day promising me $15,000 loans at 8% interest. Are these legitimate offers?",
+   "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
+   "published": "2026-10-21T11:00:00+00:00"
+  },
+  {
+   "id": "51f55ceebdc0",
+   "title": "Inheriting Money? 7 Ways to Make Sure Your Windfall Doesn't Vanish",
+   "link": "https://www.kiplinger.com/retirement/inheritance/inheriting-money-ways-to-make-sure-your-windfall-doesnt-vanish",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Preserving an inheritance isn’t about spending less — it’s about allocating smart.",
+   "published": "2026-10-21T11:00:00+00:00"
+  },
+  {
+   "id": "1ce257203d3c",
+   "title": "Stratford International on track to get cross-Channel trains in budget boost",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Sadiq Khan says upgrade would unlock station’s true potential and allow it to live up to its name Business live – latest updates Stratford International train station in east London will receive funding in next week’s budget, according to reports, putting it on track to live up…",
+   "published": "2026-10-21T10:59:12+00:00"
+  },
+  {
+   "id": "6ad68e1bc436",
+   "title": "Opposition to data centers will drive up inflation, says BlackRock’s Larry Fink",
+   "link": "https://www.marketwatch.com/story/opposition-to-data-centers-will-drive-up-inflation-says-blackrocks-larry-fink-831c25b9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "Fight the data centers at your economic peril, says BlackRock CEO Larry Fink.",
+   "published": "2026-10-21T10:59:00+00:00"
+  },
+  {
+   "id": "1d54b45cb1b1",
+   "title": "AT&T shrugs off SpaceX fears with its own large haul of new internet subscribers",
+   "link": "https://www.marketwatch.com/story/at-t-shrugs-off-spacex-fears-with-its-own-large-haul-of-new-internet-subscribers-644f66a8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "summary": "AT&T’s fiber business was the star of the show in Wednesday’s third-quarter earnings report.",
+   "published": "2026-10-21T10:58:00+00:00"
+  },
+  {
+   "id": "9fe43c2afc4c",
+   "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
+   "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "At 3pm BST / 4pm CEST Friday 23 Oct , Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Send your questions by email now to conversations@theguardian.com , or join the discussion…",
+   "published": "2026-10-21T10:55:28+00:00"
+  },
+  {
+   "id": "e2ef74ca403c",
+   "title": "Cost of living protests aren’t just happening in Europe",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Cost of living protests aren’t just happening in Europe",
+   "published": "2026-10-21T10:49:44+00:00"
+  },
+  {
+   "id": "d5e98630f32a",
+   "title": "Kvaratskhelia, Dembele and Marquinhos out injured after PSG’s win",
+   "link": "https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Kvaratskhelia out for months with a torn ACL in his right knee, while Dembele and Marquinhos suffer thigh muscle tears.",
+   "published": "2026-10-21T10:45:01+00:00"
+  },
+  {
+   "id": "1622d0679241",
+   "title": "Race for crucial midterms attracting vast sums of money on both sides | First Thing",
+   "link": "https://www.theguardian.com/us-news/2026/oct/21/first-thing-midterms-spending-money-donations-michael-bloomberg",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "Billionaire Michael Bloomberg is spending $80m to help Democratic candidates, while Trump has promised Republicans $400m. Plus a vital investigation into justice in Louisiana Don’t already get First Thing in your inbox? Sign up here Good morning. Vast sums of money are being…",
+   "published": "2026-10-21T10:40:59+00:00"
+  },
+  {
+   "id": "f6e029263a26",
+   "title": "Why are French protesters chanting ‘Bismillah, c’est les ténèbres’?",
+   "link": "https://www.aljazeera.com/news/2026/10/21/why-are-french-protesters-chanting-bismillah-cest-les?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "The slogan has come to represent a whole array of grievances that lie at the heart of the protest movement.",
+   "published": "2026-10-21T10:35:34+00:00"
   },
   {
    "id": "bb2b2e24aae0",
@@ -151,17 +371,6 @@
    "published": "2026-10-21T10:33:25+00:00"
   },
   {
-   "id": "9fe43c2afc4c",
-   "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
-   "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "At 3pm BST / 4pm CEST Friday 23 Oct , Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Send your questions by email now to conversations@theguardian.com , or join the discussion…",
-   "published": "2026-10-21T10:32:48+00:00"
-  },
-  {
    "id": "4757374538b4",
    "title": "Giant tunnel proposed to tackle Windermere sewage discharges",
    "link": "https://www.theguardian.com/environment/2026/oct/21/giant-tunnel-proposed-to-tackle-widermere-sewage-discharges",
@@ -169,19 +378,8 @@
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Water company, Environment Agency and local campaigners say 12-mile tunnel could take sewage away from England’s largest lake Plans are under way for a new giant tunnel to transport sewage away from Windermere, England’s largest lake. Windermere, in the Lake District, has…",
+   "summary": "United Utilities, Environment Agency and local campaigners say 12-mile tunnel could take sewage away from England’s largest lake Plans are under way for a new giant tunnel to transport sewage away from Windermere, England’s largest lake. Windermere, in the Lake District, has…",
    "published": "2026-10-21T10:32:12+00:00"
-  },
-  {
-   "id": "0ae74849b12d",
-   "title": "Trump calls for data center ‘dividends’ in bid to win over midterm voters – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "President’s social media post says sites should pay the communities where they will be located and comes amid growing unpopularity of facilities Sign up for Breaking News US email Good morning and welcome to our coverage of US politics. With 14 days until the mid-terms, we’re…",
-   "published": "2026-10-21T10:30:59+00:00"
   },
   {
    "id": "1540c866022e",
@@ -195,15 +393,15 @@
    "published": "2026-10-21T10:30:34+00:00"
   },
   {
-   "id": "a6d6e5c92d7d",
-   "title": "Macron blasts ‘unacceptable’ and ‘stupid’ commentary on protests from other leaders – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "10dfaff4daa3",
+   "title": "UK approves development of Jackdaw gasfield in North Sea",
+   "link": "https://www.aljazeera.com/news/2026/10/21/uk-approves-development-of-jackdaw-gasfield-in-north-sea?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Macron says he is frustrated by the ‘visible manipulation of information’ about the events in France Meanwhile, French president Emmanuel Macron blasted “unacceptable” and “stupid” comments on the protests and riots in France from foreign leaders, accusing them of “campaigning…",
-   "published": "2026-10-21T10:27:14+00:00"
+   "summary": "The decision has drawn sharp criticism from left-wing politicians and environmentalists.",
+   "published": "2026-10-21T10:28:18+00:00"
   },
   {
    "id": "7750651687d2",
@@ -218,13 +416,13 @@
   },
   {
    "id": "26c26d64b754",
-   "title": "Cabinet split widens as minister refuses to back Shabana Mahmood 15-year policy",
+   "title": "Cabinet split widens as minister refuses to back Shabana Mahmood’s immigration plans",
    "link": "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
-   "summary": "Miatta Fahnbulleh avoids explicitly expressing support for longer path to permanent residency for foreign workers UK politics live – latest updates A cabinet split over Shabana Mahmood’s immigration policy has deepened after the energy secretary refused to say she backed plans…",
+   "summary": "Miatta Fahnbulleh avoids explicitly expressing support for 15-year path to permanent residency for foreign workers UK politics live – latest updates A cabinet split over Shabana Mahmood’s immigration policy has deepened after the energy secretary refused to say she backed plans…",
    "published": "2026-10-21T10:21:18+00:00"
   },
   {
@@ -481,17 +679,6 @@
    "published": "2026-10-21T09:24:47+00:00"
   },
   {
-   "id": "6e840d5ab577",
-   "title": "Russia frees US citizen Stephen Hubbard, state media reports",
-   "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff.",
-   "published": "2026-10-21T09:22:23+00:00"
-  },
-  {
    "id": "ce8ee99df3b0",
    "title": "‘Writing is a way of dealing with things’",
    "link": "https://www.positive.news/lifestyle/arts/writing-is-a-way-of-dealing-with-things-ian-rankin/",
@@ -613,17 +800,6 @@
    "published": "2026-10-21T09:00:00+00:00"
   },
   {
-   "id": "34e2e0bfc58d",
-   "title": "Why SpaceX’s stock is surging — and lifting the broader AI universe along with it",
-   "link": "https://www.marketwatch.com/story/why-spacexs-stock-is-surging-and-lifting-the-broader-ai-universe-along-with-it-0cd62f39?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "SpaceX just gave Wall Street a big reason to believe in the artificial-intelligence boom as demand for its computing power is off the charts.",
-   "published": "2026-10-21T08:55:00+00:00"
-  },
-  {
    "id": "d64dd4eb4216",
    "title": "AI stocks are probably in a bubble — but might be worth holding onto, says Citadel’s Ken Griffin",
    "link": "https://www.marketwatch.com/story/ai-stocks-are-probably-in-a-bubble-but-might-be-worth-holding-onto-says-citadels-ken-griffin-87f535ce?mod=mw_rss_topstories",
@@ -655,6 +831,17 @@
    "flourishing_feed": false,
    "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
    "published": "2026-10-21T08:42:49+00:00"
+  },
+  {
+   "id": "2cb0c70ea2c0",
+   "title": "Millions are struck off India's voter rolls in largest disenfranchisement in history",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "summary": "India is plunged into political crisis after 130 million names were struck off voter rolls during a massive revision.",
+   "published": "2026-10-21T08:42:10+00:00"
   },
   {
    "id": "e7cc50b8b2bb",
@@ -1909,17 +2096,6 @@
    "flourishing_feed": false,
    "summary": "The first year of President Dallin H. Oaks as the leader of The Church of Jesus Christ of Latter-day Saints showed both members of the Church and friends of the faith the type of individual he is. It also showed the hope that he has for the future of the Church and the world.…",
    "published": "2026-10-20T22:45:04+00:00"
-  },
-  {
-   "id": "1a41f3b5e5df",
-   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-   "published": "2026-10-20T22:45:00+00:00"
   },
   {
    "id": "2967161f6087",
@@ -3317,17 +3493,6 @@
    "flourishing_feed": false,
    "summary": "Duke of Sussex says ‘there’s enough drama in the world’ without continuing to have issues with family The Duke of Sussex wants to repair his difficult relationship with his father and brother, he has said. Speaking to GQ magazine in New York , Prince Harry said of his…",
    "published": "2026-10-20T16:26:51+00:00"
-  },
-  {
-   "id": "2f16fddd9766",
-   "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-   "link": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "“They insist that the details will be provided after they have carried out a soft credit check.”",
-   "published": "2026-10-20T16:25:00+00:00"
   },
   {
    "id": "19ea2217606a",
