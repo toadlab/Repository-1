@@ -5,11 +5,15 @@
    - Text is never written to disk: fetches bypass the HTTP cache, and the in-memory copy
      holds only the passages on screen for the current day.
    - Requests are capped below the 60/minute, 1,000/hour and 5,000/day limits.
-   - Use is personal and non-commercial; the key is the reader's own, kept in this browser. */
+   - Use is personal and non-commercial. The site's own key is below (Crossway approved its use on
+     this site); a key entered in Settings overrides it for that browser.
+   - ESV text is never sent to AI: Crossway has asked that the ESV not be used with AI, so the
+     reading has no chat, and chat contexts only ever carry the built-in KJV lines. */
 (function () {
   "use strict";
 
   const API = "https://api.esv.org/v3/passage/text/";
+  const SITE_KEY = "d39a12f08518163d2a38a36dc436a14ac97216e9";
   const MAX_VERSES = 500;
   const LIMITS = [[60_000, 50], [3_600_000, 900], [86_400_000, 4_500]]; // [window ms, max requests], under the API's caps
 
@@ -102,5 +106,5 @@
     return { parts: out, trimmed };
   }
 
-  window.Esv = { allowed, passage, cap, MAX_VERSES };
+  window.Esv = { allowed, passage, cap, MAX_VERSES, SITE_KEY };
 })();

@@ -69,7 +69,8 @@ function bubble(role, text) {
 
 /**
  * Open the panel for a piece of content.
- * ctx = { kind: "news"|"prayer"|"reading"|"region"|"reflection", title, body, url? }
+ * ctx = { kind: "news"|"prayer"|"region"|"reflection", title, body, url? }
+ * (No "reading" kind: scripture readings stay out of AI chat at Crossway's request for the ESV.)
  * prompt = optional one-tap question to send immediately.
  */
 export function openChat(ctx, prompt) {
@@ -79,7 +80,7 @@ export function openChat(ctx, prompt) {
     log.replaceChildren(el("p", "chat-context small muted", ctx.body ? `${ctx.title}\n\n${ctx.body}` : ctx.title));
   }
   context = ctx;
-  titleEl.textContent = { news: "Talk about this story", prayer: "Talk about this prayer", reading: "Ask about this passage",
+  titleEl.textContent = { news: "Talk about this story", prayer: "Talk about this prayer",
                           region: "Talk about this region", reflection: "Pray and reflect" }[ctx.kind] || "Talk it through";
   renderKeyBox();
   if (!dialog.open) dialog.showModal();

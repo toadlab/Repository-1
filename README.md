@@ -11,7 +11,7 @@ The design goals and philosophy are in **[docs/project-goals.md](docs/project-go
 - **Liturgical season.** Advent, Christmas, Epiphany, Lent, Holy Week, Easter, Pentecost and Ordinary Time are computed from the calendar, including Easter.
 - **Thematic constants.** Through Ordinary Time the focus rotates in three-week blocks: the Beatitudes, the Fruit of the Spirit, the Lord's Prayer and the Ten Commandments. Each day holds one line and a question.
 - **Prayer of the week.** One dense, classic prayer, repeated every day for a week. These are the 11 from the goals doc.
-- **Today's reading (narrative track).** Less-visited books in salvation-history order, one unit per month (Job, Leviticus, Proverbs, the minor prophets, Mark, the Pastoral Epistles, and so on). Choose ESV, NIV or NASB in Settings. With a free ESV key from [api.esv.org](https://api.esv.org/account/create-application/), stored only in your browser, the full ESV text appears on the page and the day's focus verse switches to the ESV too. Without a key, or for NIV and NASB, the reading opens on BibleGateway, because those publishers offer no free way to show their text here. ESV use follows the [ESV API guidelines](https://api.esv.org/#conditions) (see `assets/esv.js`): each quotation keeps its "(ESV)" mark, the full notice is on `copyright.html`, no page or request goes over 500 verses or half a book (the one day a year that would, Haggai 2, links out instead), text is never saved to disk, and requests stay under the rate limits.
+- **Today's reading (narrative track).** Less-visited books in salvation-history order, one unit per month (Job, Leviticus, Proverbs, the minor prophets, Mark, the Pastoral Epistles, and so on). Choose ESV, NIV or NASB in Settings. In the ESV (the default) the full text appears on the page, using the site's ESV API key (Crossway approved its use here; a key entered in Settings overrides it), and the day's focus verse switches to the ESV too. NIV and NASB open on BibleGateway, because those publishers offer no free way to show their text here. **No AI touches the ESV:** at Crossway's request, the reading has no chat, and nothing sent to Claude contains ESV text (chat about the day's focus line uses the built-in KJV). ESV use follows the [ESV API guidelines](https://api.esv.org/#conditions) (see `assets/esv.js`): each quotation keeps its "(ESV)" mark, the full notice is on `copyright.html`, no page or request goes over 500 verses or half a book (the one day a year that would, Haggai 2, links out instead), text is never saved to disk, and requests stay under the rate limits.
 
 After the grounding, the day's content follows a weekly rhythm (`config/profile.json` → `cadence`):
 
@@ -30,7 +30,7 @@ A genuine **emergency** overrides the rhythm on any day. Every digest ends with 
 
 **Flagged.** Tap ⚑ on any story to save it as worth digging into later. On the first weekend of the month, those stories come back as a short list; pick one to explore in depth.
 
-**Chat.** A chat box sits beside every prayer, reading, story and region note, and it already knows what you are looking at. It is never pre-filled with commentary. It uses your own Claude API key, entered in Settings and stored only in your browser.
+**Chat.** A chat box sits beside every prayer, story and region note (not the Bible reading), and it already knows what you are looking at. It is never pre-filled with commentary. It uses your own Claude API key, entered in Settings and stored only in your browser.
 
 ## How the pipeline works
 

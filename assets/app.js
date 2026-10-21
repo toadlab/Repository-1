@@ -89,7 +89,7 @@
       f.prompt && h("p", { class: "prompt" }, f.prompt)));
     // The day's line is stored in the KJV (public domain); swap in the ESV when a key is set.
     if (useEsv() && f.verse && Esv.allowed([f.verse])) {
-      Esv.passage(f.verse, store.esvKey, ymd(date)).then((t) => {
+      Esv.passage(f.verse, esvKey(), ymd(date)).then((t) => {
         // Keep the API's "(ESV)" mark with the quotation, as the guidelines require.
         verse.textContent = t.replace(/\[\d+\]\s*/g, "").replace(/\s+/g, " ").trim();
         cite.replaceChildren(ext(gateway(f.verse), f.verse));
@@ -115,8 +115,8 @@
       h("p", { class: "muted small" }, `This month: ${n.unit.title}`),
       textBox,
       h("div", { class: "card-actions" },
-        ext(gateway(passage), `Read in the ${store.version} on BibleGateway ↗`, useEsv() ? "btn-link subtle" : "btn-link"),
-        talkBtn("Ask about this passage", { kind: "reading", title: passage, body: `${n.unit.period}: ${n.unit.title}` }))));
+        // No chat here: Crossway asks that the ESV not be used with AI, so scripture readings stay AI-free.
+        ext(gateway(passage), `Read in the ${store.version} on BibleGateway ↗`, useEsv() ? "btn-link subtle" : "btn-link"))));
     if (useEsv() && Esv.allowed(n.chapters)) loadScripture(n.chapters, date, textBox);
     else if (useEsv()) {
       textBox.append(h("p", { class: "muted small" },
@@ -129,12 +129,13 @@
   }
 
   // ---------- ESV text (see assets/esv.js for how the API guidelines are kept) ----------
-  const useEsv = () => store.version === "ESV" && !!store.esvKey;
+  const esvKey = () => store.esvKey || Esv.SITE_KEY;
+  const useEsv = () => store.version === "ESV" && !!esvKey();
 
   async function loadScripture(refs, date, box) {
     box.replaceChildren(h("p", { class: "muted small" }, "Loading the text…"));
     try {
-      const fetched = await Promise.all(refs.map(async (ref) => [ref, await Esv.passage(ref, store.esvKey, ymd(date))]));
+      const fetched = await Promise.all(refs.map(async (ref) => [ref, await Esv.passage(ref, esvKey(), ymd(date))]));
       const { parts, trimmed } = Esv.cap(fetched);
       box.replaceChildren(...parts.flatMap(([ref, text]) => [
         h("h4", {}, ref),
