@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T16:47:33.118450+00:00",
+ "generated": "2026-10-22T17:42:42.527815+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -13,8 +13,8 @@
   },
   {
    "name": "Indianapolis Business Journal",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "name": "NPR News",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "name": "The Guardian World",
@@ -134,6 +134,330 @@
  ],
  "items": [
   {
+   "id": "cf247d44d60e",
+   "title": "FCC Chair Brendan Carr Echoes Trump, Threatens Broadcasters Over 'Fake Polls'",
+   "link": "https://reason.com/2026/10/22/fcc-chair-brendan-carr-echoes-trump-threatens-broadcasters-over-fake-polls/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Once again, Carr is playing defense for his boss in a way that would clearly run afoul of the First Amendment.",
+   "published": "2026-10-22T17:30:30+00:00"
+  },
+  {
+   "id": "ec7892bef06b",
+   "title": "Bishop Budge on the use of tithing funds to save, exalt and bless God’s children",
+   "link": "https://www.deseret.com/faith/2026/10/22/bishop-l-todd-budge-use-of-tithing-funds-to-save-exalt-bless-gods-children-byu-devotional/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Doctrine and Covenants 107:68 states that the office of a bishop “is in administering all temporal things.” Bishop L. Todd Budge , first counselor in the Presiding Bishopric of The Church of Jesus Christ of Latter-day Saints, listed some of the Church’s temporal concerns:…",
+   "published": "2026-10-22T17:30:09+00:00"
+  },
+  {
+   "id": "07e8a595b014",
+   "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+   "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
+   "published": "2026-10-22T17:29:00+00:00"
+  },
+  {
+   "id": "9da419e0caf9",
+   "title": "Sri Lanka beat England to overcome Harry Brook hitting fastest 200 in ODIs",
+   "link": "https://www.aljazeera.com/sports/2026/10/22/sri-lanka-beat-england-to-overcome-harry-brook-hitting-fastest-200-in-odis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "England captain Brook hits 202 in record ODI time, but Sri Lanka hit a six to win by two wickets with one ball to spare.",
+   "published": "2026-10-22T17:28:55+00:00"
+  },
+  {
+   "id": "d76941bb4a20",
+   "title": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A video of an Israeli soldier throwing a cat over a fence has gone viral online.",
+   "published": "2026-10-22T17:25:29+00:00"
+  },
+  {
+   "id": "a281dec4440b",
+   "title": "New zoning for Smith’s Ballpark redevelopment OK’d after height change",
+   "link": "https://www.deseret.com/utah/2026/10/22/new-zoning-for-smiths-ballpark-redevelopment-okd-after-height-change/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "It's been over two years since the Smith's Ballpark was last home to the Salt Lake Bees, but the site is now another step closer to being the next home for residents and businesses.",
+   "published": "2026-10-22T17:24:59+00:00"
+  },
+  {
+   "id": "f5ebcbbd1955",
+   "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+   "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
+   "published": "2026-10-22T17:24:00+00:00"
+  },
+  {
+   "id": "df7659b38ab2",
+   "title": "Tommy Robinson tells court he had photos taken of journalists’ homes to pressure them",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/22/tommy-robinson-tells-court-he-had-photos-taken-of-journalists-homes-to-pressure-them",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Far-right activist says he used private investigators to track down journalists but denies trying to intimidate them The far-right activist Tommy Robinson has told his harassment trial that he used private investigators to track down journalists who had written about his…",
+   "published": "2026-10-22T17:23:55+00:00"
+  },
+  {
+   "id": "8fdd0db8fd51",
+   "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
+   "link": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Prime minister pledges his government’s commitment to address climate crisis saying ‘our determination is unwavering’ We will make the net-zero transition work for Britain – approving the Jackdaw gasfield is part of the plan | Andy Burnham Andy Burnham has said he will not…",
+   "published": "2026-10-22T17:22:52+00:00"
+  },
+  {
+   "id": "8006443cbc11",
+   "title": "Republican governor of Ohio calls on Vivek Ramaswamy to take down ‘deeply troubling’ campaign ad – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Mike DeWine, outgoing governor, says it was ‘wrong’ for campaign to have run ad featuring estranged mother of Ramaswamy’s Democratic opponent Sign up for the Breaking News US email How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer…",
+   "published": "2026-10-22T17:22:46+00:00"
+  },
+  {
+   "id": "4e22dc253b98",
+   "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025.",
+   "published": "2026-10-22T17:21:42+00:00"
+  },
+  {
+   "id": "777b97c016e8",
+   "title": "Young investors are betting on prediction markets and crypto. But this bestselling author says the boring money moves still work.",
+   "link": "https://www.marketwatch.com/story/young-investors-are-betting-on-prediction-markets-and-crypto-but-this-bestselling-author-says-the-boring-money-moves-still-work-cd9d350a?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Beth Kobliner, author of “Get a Financial Life,” explains why today’s young people face a tougher financial world and reveals the three money moves she would make first.",
+   "published": "2026-10-22T17:21:00+00:00"
+  },
+  {
+   "id": "02468dd81f75",
+   "title": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
+   "link": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents\".",
+   "published": "2026-10-22T17:18:17+00:00"
+  },
+  {
+   "id": "23123d4dd14f",
+   "title": "How will Trump’s mass deportation agenda shape the US midterm elections? Your questions answered",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "With ICE arrests and detentions at their highest levels, immigration remains a key issue for voters less than two weeks before election day. From mass raids to quiet crackdown: a timeline of Trump’s strategic ICE pivot Sign up for the Stakes newsletter Cheryl Bath, Wisconsin…",
+   "published": "2026-10-22T17:17:44+00:00"
+  },
+  {
+   "id": "2f2c89e5760b",
+   "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
+   "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets.",
+   "published": "2026-10-22T17:16:00+00:00"
+  },
+  {
+   "id": "6a325e2d6954",
+   "title": "25-01602.pdf",
+   "link": "https://www.finra.org/node/390826",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "25-01602.pdf Anonymous (not verified) Thu, 10/22/2026 - 13:15 Case ID 25-01602 Forum FINRA Document Type Award Claimants Wayne Robin Respondents Newedge Securities, LLC Neutrals Lynne M. Gomez Robert Sullivan Tyler Sheryl Norman Hearing Site Houston, TX Award Document…",
+   "published": "2026-10-22T17:15:01+00:00"
+  },
+  {
+   "id": "be9481d2600e",
+   "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+   "published": "2026-10-22T17:14:04+00:00"
+  },
+  {
+   "id": "b853ddd115d8",
+   "title": "Race to update services' computer systems after cyber-security flaw found",
+   "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+   "published": "2026-10-22T17:12:51+00:00"
+  },
+  {
+   "id": "c9f30db3b3ab",
+   "title": "Tyler Robinson doesn’t anticipate trial until 2029",
+   "link": "https://www.deseret.com/utah/2026/10/22/tyler-robinson-doesnt-anticipate-trial-until-2029/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "In a memorandum submitted in preparation for Tyler Robinson's next court hearing on Friday, defense attorneys say a 6- to 7-month trial could start in three years.",
+   "published": "2026-10-22T17:07:30+00:00"
+  },
+  {
+   "id": "0468457dcc51",
+   "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+   "link": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
+   "published": "2026-10-22T17:07:03+00:00"
+  },
+  {
+   "id": "20088ff5add5",
+   "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
+   "link": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies.",
+   "published": "2026-10-22T17:01:47+00:00"
+  },
+  {
+   "id": "9fe43c2afc4c",
+   "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
+   "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "At 3pm BST / 4pm CEST Friday 23 Oct , Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Send your questions by email now to conversations@theguardian.com , or join the discussion…",
+   "published": "2026-10-22T16:54:48+00:00"
+  },
+  {
+   "id": "ac78bf1e64af",
+   "title": "Russell Brand raped woman even though she screamed in pain, court hears",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/22/russell-brand-raped-woman-even-though-she-screamed-in-pain-court-hears",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Alleged victim told her parents and others about attack and was encouraged to go to police but she feared she would not be believed A woman told her mother that Russell Brand had raped her and “didn’t stop even when she screamed out in pain”, a court has heard. The woman also…",
+   "published": "2026-10-22T16:52:27+00:00"
+  },
+  {
+   "id": "0453d8a3f103",
+   "title": "CDC denies approval for high-volume measles test, citing ‘other priorities’",
+   "link": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-test-denied",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "California, Oregon, Washington and Hawaii health officials ask CDC, ‘prioritizing emerging technologies’, to reconsider California and Washington asked the US Centers for Disease Control and Prevention (CDC) in May to validate a new way to test for measles – but after waiting…",
+   "published": "2026-10-22T16:49:21+00:00"
+  },
+  {
+   "id": "c61a1a7d1c1c",
+   "title": "Opinion: JFK faced the Catholic question in 1960. Muslim candidates face it today",
+   "link": "https://www.deseret.com/opinion/2026/10/22/el-sayed-jfk-and-the-religious-test-in-american-politics/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "On Saturday at a town hall in Caro, Michigan, a man in the crowd called out to Abdul El-Sayed, the Democratic nominee for the U.S. Senate: “Will you disavow the Muslim Brotherhood?” After some back-and-forth, El-Sayed said, “ Sure, yeah, absolutely .” Then he named the…",
+   "published": "2026-10-22T16:48:05+00:00"
+  },
+  {
+   "id": "c25c8f11db82",
+   "title": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
+   "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things",
+   "published": "2026-10-22T16:48:00+00:00"
+  },
+  {
+   "id": "9b4a059e7e62",
+   "title": "Zuckerberg’s California tax move is a win for Meta — and for him",
+   "link": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "He has bought some good PR and gets to live and work where he wants.",
+   "published": "2026-10-22T16:48:00+00:00"
+  },
+  {
    "id": "de96d20d799a",
    "title": "RIA Edge Panel: Why a Good M&A Strategy Must Stay Focused on Organic Growth",
    "link": "https://www.wealthmanagement.com/ria-news/ria-edge-panel-why-a-good-m-a-strategy-must-stay-focused-on-organic-growth",
@@ -144,6 +468,18 @@
    "category_hint": null,
    "summary": "RIA leaders from EP Wealth, Snowden Lane and Bogart Wealth all stressed their firms’ focus on organic growth as part of and often above, dealmaking.",
    "published": "2026-10-22T16:44:27+00:00"
+  },
+  {
+   "id": "d8747b2af70a",
+   "title": "NYT Interviews Me About \"A Double Standard For 'Conservative' and 'Liberal' Labels?",
+   "link": "https://reason.com/volokh/2026/10/22/nyt-interviews-me-about-a-double-standard-for-conservative-and-liberal-labels/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "\"Josh, I think there’s real truth to your critique and it’s something we need to do a better job on.\"",
+   "published": "2026-10-22T16:43:22+00:00"
   },
   {
    "id": "e5f2961ef0d5",
@@ -170,18 +506,6 @@
    "published": "2026-10-22T16:39:49+00:00"
   },
   {
-   "id": "23123d4dd14f",
-   "title": "How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "With ICE arrests and detentions at their highest levels, immigration remains a key issue for voters less than two weeks before election day. From mass raids to quiet crackdown: a timeline of Trump’s strategic ICE pivot Richard Wolfe, Maine asks in a callout question: Why can’t…",
-   "published": "2026-10-22T16:37:32+00:00"
-  },
-  {
    "id": "906cc11dc9d7",
    "title": "Albanian lawmakers scuffle in parliament as street protests continue",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss",
@@ -192,18 +516,6 @@
    "category_hint": null,
    "summary": "Albanian lawmakers have scuffled in parliament, throwing objects at one another and ripping microphones from desks.",
    "published": "2026-10-22T16:35:12+00:00"
-  },
-  {
-   "id": "2f2c89e5760b",
-   "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
-   "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets.",
-   "published": "2026-10-22T16:35:00+00:00"
   },
   {
    "id": "5219cae68209",
@@ -230,28 +542,16 @@
    "published": "2026-10-22T16:33:28+00:00"
   },
   {
-   "id": "be9481d2600e",
-   "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-   "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "id": "1906a9d974cf",
+   "title": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
+   "link": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-   "published": "2026-10-22T16:30:52+00:00"
-  },
-  {
-   "id": "8006443cbc11",
-   "title": "Republican governor of Ohio calls on Vivek Ramaswamy to take down ‘deeply troubling’ campaign ad – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Mike DeWine, outgoing governor, says it was ‘wrong’ for campaign to have run ad featuring estranged mother of Ramaswamy’s Democratic opponent Sign up for the Breaking News US email How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer…",
-   "published": "2026-10-22T16:26:08+00:00"
+   "summary": "The Syrian Interior Ministry says five suspected fighters killed and six arrested outside of Damascus.",
+   "published": "2026-10-22T16:24:43+00:00"
   },
   {
    "id": "9e50a08db637",
@@ -291,7 +591,7 @@
   },
   {
    "id": "7d53c7fea30c",
-   "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live",
+   "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – as it happened",
    "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -454,7 +754,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Experts say Russia is trying to destroy energy infrastructure before winter and US ‘appeasement and flattery’ will not achieve peace Europe live – latest updates Russia has carried out a massive “demonstrative” attack on Ukraine, bombarding Kyiv with ballistic missiles just…",
+   "summary": "Experts say Russia is trying to destroy energy infrastructure before winter and US ‘appeasement and flattery’ will not achieve peace Russia has carried out a massive “demonstrative” attack on Ukraine, bombarding Kyiv with ballistic missiles just hours after Vladimir Putin said…",
    "published": "2026-10-22T15:46:56+00:00"
   },
   {
@@ -768,6 +1068,18 @@
    "category_hint": null,
    "summary": "On trade, investment and innovation, leaders will work towards conclusion of a Canada-Turkiye Free Trade Agreement.",
    "published": "2026-10-22T15:00:37+00:00"
+  },
+  {
+   "id": "faea9efb2fa1",
+   "title": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
+   "link": "https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz says When Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter. Outside the airport, it was -15C (5F). “I would come to understand that this was not…",
+   "published": "2026-10-22T15:00:29+00:00"
   },
   {
    "id": "53edf89bc9aa",
@@ -1574,18 +1886,6 @@
    "published": "2026-10-22T12:00:00+00:00"
   },
   {
-   "id": "02468dd81f75",
-   "title": "Grandparent hugging consent ad pulled after criticism",
-   "link": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents\".",
-   "published": "2026-10-22T11:58:34+00:00"
-  },
-  {
    "id": "f15f44ab3fc5",
    "title": "Why this JPMorgan strategist thinks the stock market’s tailspin might have run its course",
    "link": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
@@ -1882,7 +2182,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Plus: a flaw in the PHP coding language prompts website shutdowns, Putin rules out an energy ceasefire in Ukraine, and Japanese robot dogs vs. bears.",
+   "summary": "Plus: A flaw in the PHP coding language prompts website shutdowns, Putin rules out an energy ceasefire in Ukraine, and Japanese robot dogs vs. bears.",
    "published": "2026-10-22T10:40:21+00:00"
   },
   {
@@ -3288,18 +3588,6 @@
    "category_hint": null,
    "summary": "Western society’s high-tech, data-driven lifestyle is dependent on critical minerals — that’s no question. The real question is where to mine them, and how to go about it. Stephanie Mills, a senior geologist at the Utah Geological Survey, argues outsourcing extraction to…",
    "published": "2026-10-22T02:00:00+00:00"
-  },
-  {
-   "id": "f5ebcbbd1955",
-   "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
-   "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
-   "published": "2026-10-22T01:50:00+00:00"
   },
   {
    "id": "9744cb2574cb",
@@ -5666,18 +5954,6 @@
    "published": "2026-10-21T15:50:45+00:00"
   },
   {
-   "id": "07e8a595b014",
-   "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
-   "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Trick or treat? Musk has a long record of saying things have little relation to reality.",
-   "published": "2026-10-21T15:50:00+00:00"
-  },
-  {
    "id": "4c650f5641fd",
    "title": "Homeland Security Lied About Child Porn To Search Activist's Phone",
    "link": "https://reason.com/2026/10/21/homeland-security-lied-about-child-porn-to-search-activists-phone/",
@@ -6804,18 +7080,6 @@
    "category_hint": null,
    "summary": "AT&T’s fiber business was the star of the show in Wednesday’s third-quarter earnings report.",
    "published": "2026-10-21T10:58:00+00:00"
-  },
-  {
-   "id": "9fe43c2afc4c",
-   "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
-   "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "At 3pm BST / 4pm CEST Friday 23 Oct , Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Send your questions by email now to conversations@theguardian.com , or join the discussion…",
-   "published": "2026-10-21T10:55:28+00:00"
   },
   {
    "id": "e2ef74ca403c",
