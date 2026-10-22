@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T19:45:50.331885+00:00",
+ "generated": "2026-10-22T20:44:52.275157+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -134,16 +134,208 @@
  ],
  "items": [
   {
-   "id": "f380f44f93f5",
-   "title": "Tears flow as Gifford Nielsen sees premonition come to pass against Notre Dame",
-   "link": "https://www.deseret.com/sports/2026/10/22/byu-legend-gifford-nielsen-gets-emotional-after-cougars-win-over-notre-dame/",
-   "source": "Deseret News",
+   "id": "b3a22a2599ee",
+   "title": "New York City ends a classic attraction: Horse-drawn carriages banned over safety and abuse concerns",
+   "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "As councillors prepare to banish the vehicles, views in Central Park are divided over the 160-year-old tradition.",
+   "published": "2026-10-22T20:40:25+00:00"
+  },
+  {
+   "id": "9fa2ef0cb43f",
+   "title": "Indiana Supreme Court rejects inmate’s bid to delay execution for brain scans",
+   "link": "https://indianacapitalchronicle.com/2026/10/22/indiana-supreme-court-rejects-inmates-bid-to-delay-execution-for-brain-scans/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Indiana’s highest court unanimously rejected death row inmate Jeffrey Weisheit’s request Thursday to postpone his execution for brain scans, saying the governor’s administration can arrange the testing without a court order, should it choose to do so. “If the board or the…",
+   "published": "2026-10-22T20:36:38+00:00"
+  },
+  {
+   "id": "39efb711ab91",
+   "title": "358: Poverty. Moonmoon. Kenya 💚. Why governance matters.",
+   "link": "https://substack.fixthenews.com/p/358-poverty-moonmoon-kenya-why-governance",
+   "source": "Fix the News",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": true,
+   "category_hint": "good_in_world",
+   "summary": "Mixed results, mostly good.",
+   "published": "2026-10-22T20:21:28+00:00"
+  },
+  {
+   "id": "7e6f97017e39",
+   "title": "Thousands gather at final student-led rally ahead of Serbia election",
+   "link": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The student movement aims to end Vucic's 14 years of rule at Sunday's vote, as he holds a rival rally across town.",
+   "published": "2026-10-22T20:21:12+00:00"
+  },
+  {
+   "id": "effcfb664b01",
+   "title": "Tom Skerritt, Alien and Top Gun actor, dies aged 93",
+   "link": "https://www.theguardian.com/film/2026/oct/22/tom-skerritt-actor-dead",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The actor, who also had roles in M*A*S*H, A River Runs Through It and Picket Fences, dies of natural causes Tom Skerritt, the actor known for roles in Alien and Top Gun, has died at the age of 93. His publicist confirmed to Variety that he died from natural causes. Continue…",
+   "published": "2026-10-22T20:19:49+00:00"
+  },
+  {
+   "id": "f34f1480d766",
+   "title": "Moderna’s cancer vaccine hits its targets, but a data leak rattled investors and the stock tumbled",
+   "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A ‘sell-the-news reaction’? The experimental treatment helped prevent the return of cancer or death in melanoma patients by 42% after two years.",
+   "published": "2026-10-22T20:14:00+00:00"
+  },
+  {
+   "id": "6a5e9f8dc056",
+   "title": "Why has the Libya-Turkiye maritime deal stirred controversy?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Some countries in the region say it infringes on their rights.",
+   "published": "2026-10-22T20:13:21+00:00"
+  },
+  {
+   "id": "14bbc8dfc9e7",
+   "title": "As midterms near and Putin beckons, Trump embraces big-power diplomacy",
+   "link": "https://www.csmonitor.com/USA/Foreign-Policy/2026/1022/midterms-trump-putin-ukraine-power-diplomacy?icid=rss",
+   "source": "Christian Science Monitor",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Even days after BYU’s 28-24 victory against Notre Dame , Hall of Fame quarterback Gifford Nielsen was still stuck in amazement. The unprecedented moment unfolded before his eyes on Saturday, and it reminded him of the vision LaVell Edwards had for BYU football five decades…",
-   "published": "2026-10-22T19:44:15+00:00"
+   "summary": "President Donald Trump is signaling a full-on embrace of Vladimir Putin and Russia – and of big-power relations – as he faces adverse midterm results and a potential lame-duck presidency.",
+   "published": "2026-10-22T20:12:58+00:00"
+  },
+  {
+   "id": "004aac24eca2",
+   "title": "Actor Tom Skerritt, who played dads, cops and commanding officers, has died",
+   "link": "https://www.npr.org/2026/10/22/981035400/tom-skerritt-dead",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Skerritt was Captain Dallas in Alien , Viper in Top Gun , and a small town sheriff in the TV series Picket Fences .",
+   "published": "2026-10-22T20:12:52+00:00"
+  },
+  {
+   "id": "74b46fb1024c",
+   "title": "Teacher wounded in Oregon school shooting played dead after she was shot",
+   "link": "https://www.theguardian.com/us-news/2026/oct/22/teacher-wounded-oregon-school-shooting-played-dead",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Becky Drury says she was hit by gunfire before she could intervene in attack that killed four, including three children A teacher wounded in last week’s shooting at a Bend, Oregon, elementary school shared her account of the incident, and how she was shot before she could…",
+   "published": "2026-10-22T20:12:24+00:00"
+  },
+  {
+   "id": "b388a3d44a8a",
+   "title": "Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad",
+   "link": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Republican Mike DeWine said ad featuring estranged mother of Democrat Amy Acton was ‘wrong’, drawing ire of president Donald Trump issued a swift rebuke against Mike DeWine, Ohio’s Republican governor, who on Thursday said gubernatorial candidate Vivek Ramaswamy was “wrong” to…",
+   "published": "2026-10-22T20:11:04+00:00"
+  },
+  {
+   "id": "8702362ebda2",
+   "title": "Nasdaq Sinks 694 Points as Meta Stock Slumps: Stock Market Today",
+   "link": "https://www.kiplinger.com/investing/stocks/nasdaq-sinks-694-points-as-meta-stock-slumps-stock-market-today",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Post-earnings drops for Meta and Tesla weighed on the broader tech sector, while Procter & Gamble's results signaled a resilient consumer.",
+   "published": "2026-10-22T20:08:18+00:00"
+  },
+  {
+   "id": "2e5326c7066d",
+   "title": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
+   "link": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Some of the core issues that drove Trump's US supporters and the MAGA movement are no longer Republican talking points.",
+   "published": "2026-10-22T20:05:22+00:00"
+  },
+  {
+   "id": "8b759a513652",
+   "title": "UK to relax post-2008 rules that hold City bosses accountable for wrongdoing",
+   "link": "https://www.theguardian.com/business/2026/oct/22/uk-relax-post-2008-rules-hold-city-bosses-accountable-wrongdoing",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Regulators say removing ‘unnecessary burdens’ will save businesses about £2bn over 10 years The UK is watering down rules introduced in the aftermath of the financial crisis that were designed to hold City bosses accountable for wrongdoing. The plans, put forward by the…",
+   "published": "2026-10-22T20:00:49+00:00"
+  },
+  {
+   "id": "ecedce705d53",
+   "title": "I Predict the GOP Will Lose Its Senate Majority (and Magically Regain It)",
+   "link": "https://reason.com/2026/10/22/i-predict-the-gop-will-lose-its-senate-majority-and-magically-regain-it/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Republicans are looking doomed in Michigan, Ohio, and Texas...but there's always Pennsylvania.",
+   "published": "2026-10-22T20:00:42+00:00"
+  },
+  {
+   "id": "53861c7c5267",
+   "title": "New Options Emerge for Providing Liquidity to Evergreen Fund Market",
+   "link": "https://www.wealthmanagement.com/alternative-investments/secondary-auctions-offer-new-exit-for-evergreen-funds",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "If an evergreen fund goes into proration, an investor’s options for cashing out are limited. But an auction for evergreen shares might now be one of them.",
+   "published": "2026-10-22T20:00:04+00:00"
+  },
+  {
+   "id": "44319da94ddd",
+   "title": "The 2026 election could reshape healthcare",
+   "link": "https://www.vox.com/good-medicine-newsletter/507342/2026-midterm-elections-house-senate-healthcare",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Americans are furious about the state of our healthcare system. A recent KFF poll found 60 percent of US adults worry about the cost of medical care — more than gasoline, food and groceries, or their rent or mortgage. One in three Americans say they worry every day or almost…",
+   "published": "2026-10-22T20:00:00+00:00"
   },
   {
    "id": "8006443cbc11",
@@ -155,7 +347,67 @@
    "flourishing_feed": false,
    "category_hint": null,
    "summary": "President claims criticism of ad featuring Democrat Amy Acton’s estranged mother is a ‘concerted’ attack on Republican Ohio governor candidate Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad Reporting from…",
-   "published": "2026-10-22T19:38:46+00:00"
+   "published": "2026-10-22T19:59:48+00:00"
+  },
+  {
+   "id": "8070ca1b867f",
+   "title": "Aipac halts candidate endorsements amid US backlash against Israel",
+   "link": "https://www.theguardian.com/world/2026/oct/22/aipac-politics-endorsements-israel",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "‘Political candidates’ once reflexive support for Israel has increasingly become a liability When the American Israel Public Affairs Committee, the most prominent pro-Israel lobby group in the US, announced on Wednesday that it would stop endorsing candidates or make direct…",
+   "published": "2026-10-22T19:54:40+00:00"
+  },
+  {
+   "id": "3c4007f3d3f6",
+   "title": "Woman arrested over shooting of police officer in Nottingham",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/22/woman-arrested-over-shooting-of-police-officer-in-nottingham",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Aisha Zaman, 27, charged with two firearms offences after incident in city centre on Sunday A 27-year-old woman has been charged over the shooting of a police officer in Nottingham. Aisha Zaman, from the Hyson Green area of the city, has been charged with possession of a…",
+   "published": "2026-10-22T19:52:05+00:00"
+  },
+  {
+   "id": "52f19c64c30f",
+   "title": "Update: Here’s what happened to the NHL player who needed emergency landing in Salt Lake",
+   "link": "https://www.deseret.com/sports/2026/10/22/ben-kindel-pittsburgh-penguins-medical-episode-update/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Pittsburgh Penguins have provided an update on forward Ben Kindel, who experienced a medical episode on the team plane 10 minutes into a flight from Salt Lake City International Airport on Tuesday, necessitating an emergency landing. Penguins GM Kyle Dubas hosted a press…",
+   "published": "2026-10-22T19:51:04+00:00"
+  },
+  {
+   "id": "3f726bd8cbb2",
+   "title": "Border Cops Seize Nurse's Phone Filled With Psychiatric Patient Information",
+   "link": "https://reason.com/2026/10/22/border-cops-seize-nurses-phone-filled-with-psychiatric-patient-information/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "CBP allegedly told the nurse that “your lawyer cannot do anything” and agents can take the data “the easy way or the hard way.”",
+   "published": "2026-10-22T19:46:28+00:00"
+  },
+  {
+   "id": "f380f44f93f5",
+   "title": "Tears flow as Gifford Nielsen sees premonition come to pass against Notre Dame",
+   "link": "https://www.deseret.com/sports/2026/10/22/byu-legend-gifford-nielsen-gets-emotional-after-cougars-win-over-notre-dame/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Even days after BYU’s 28-24 victory against Notre Dame , Hall of Fame quarterback Gifford Nielsen was still stuck in amazement. The unprecedented moment unfolded before his eyes on Saturday, and it reminded him of the vision LaVell Edwards had for BYU football five decades…",
+   "published": "2026-10-22T19:44:15+00:00"
   },
   {
    "id": "292d07f56101",
@@ -204,18 +456,6 @@
    "category_hint": null,
    "summary": "Health officials are investigating where Nigeria's first patient, confirmed this week, was infected.",
    "published": "2026-10-22T19:31:27+00:00"
-  },
-  {
-   "id": "f34f1480d766",
-   "title": "Moderna’s cancer vaccine hits its targets, but an embargo breach rattles investors and the stock tumbles",
-   "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Questions of a ‘sell-the-news reaction.’ The experimental treatment helped prevent the return of cancer or death in melanoma patients by 42% after two years",
-   "published": "2026-10-22T19:31:00+00:00"
   },
   {
    "id": "8e07f08ef602",
@@ -288,18 +528,6 @@
    "category_hint": null,
    "summary": "“I am slightly anxious about purchasing something so big.”",
    "published": "2026-10-22T19:25:00+00:00"
-  },
-  {
-   "id": "b388a3d44a8a",
-   "title": "Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad",
-   "link": "https://www.theguardian.com/us-news/2026/oct/22/ramaswamy-attack-ad-ohio-dewine",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Republican Mike DeWine says Ramaswamy ‘wrong’ to run controversial ad, drawing swift rebuke from president Ohio’s Republican governor Mike DeWine on Thursday said gubernatorial candidate Vivek Ramaswamy was “wrong” to release an ad critical of his Democratic rival Amy Acton…",
-   "published": "2026-10-22T19:23:14+00:00"
   },
   {
    "id": "f1e707adca43",
@@ -3180,18 +3408,6 @@
    "category_hint": null,
    "summary": "Max Kettner, HSBC’s chief multiasset strategist, says the investors need to understand the goal posts are constantly moving with AI investing.",
    "published": "2026-10-22T09:07:00+00:00"
-  },
-  {
-   "id": "b3a22a2599ee",
-   "title": "New York City reconsiders a classic attraction: are horse-drawn carriages abuse?",
-   "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "As councillors prepare to banish the vehicles, views in Central Park are divided over the 160-year-old tradition.",
-   "published": "2026-10-22T09:06:48+00:00"
   },
   {
    "id": "1015b17ea49c",
