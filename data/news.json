@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T05:44:22.701372+00:00",
+ "generated": "2026-10-22T06:59:12.878094+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "name": "The Guardian World",
@@ -134,6 +134,138 @@
  ],
  "items": [
   {
+   "id": "2d289f2dac1b",
+   "title": "US universities are failing to protect victims of sexual assault",
+   "link": "https://www.aljazeera.com/opinions/2026/10/22/us-universities-are-failing-to-protect-victims-of-sexual-assault?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Cornell case shows how university bureaucracy discourages complaints and shields institutions.",
+   "published": "2026-10-22T06:47:24+00:00"
+  },
+  {
+   "id": "5477c8242b32",
+   "title": "Top HSBC strategist has a warning for retail investors chasing the AI rally",
+   "link": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Maxx Kettner, HSBC’s chief multiasset strategist, says the investors need to understand the goal posts are constantly moving with AI investing.",
+   "published": "2026-10-22T06:46:00+00:00"
+  },
+  {
+   "id": "f4810733a2c5",
+   "title": "North Korea says it will resume propaganda broadcasts across border into South Korea",
+   "link": "https://www.npr.org/2026/10/22/g-s1-149306/north-korea-propaganda-broadcasts",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "North Korea plans to resume anti-Seoul propaganda broadcasts along the heavily armed border with South Korea, leader Kim Jong Un's sister said, reviving a psychological warfare campaign.",
+   "published": "2026-10-22T06:36:07+00:00"
+  },
+  {
+   "id": "c75360ac724b",
+   "title": "What is PHP and why did it spark a global cyber-security scramble?",
+   "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+   "published": "2026-10-22T06:24:59+00:00"
+  },
+  {
+   "id": "1d243b603656",
+   "title": "China edge USA to women’s team gold at Gymnastics World Championships",
+   "link": "https://www.aljazeera.com/sports/2026/10/22/china-edge-usa-to-womens-team-gold-at-gymnastics-world-championships?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "China finished 0.233 points ahead of the Americans, denying them a chance to win an eighth consecutive team gold.",
+   "published": "2026-10-22T06:23:30+00:00"
+  },
+  {
+   "id": "6b5c84d97246",
+   "title": "Cookies and weapons: Women in Yemen’s Taiz find ways to help the city’s defence",
+   "link": "https://www.aljazeera.com/features/2026/10/22/cookies-and-weapons-women-in-yemens-taiz-find-ways-to-help-the-citys-defence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Amid growing threats, a grassroots aid effort has transformed into an initiative to get more ammunition to the front.",
+   "published": "2026-10-22T06:06:28+00:00"
+  },
+  {
+   "id": "7b446325ea66",
+   "title": "Man United’s Carrick not worried about his job despite ‘unacceptable’ loss",
+   "link": "https://www.aljazeera.com/sports/2026/10/22/man-uniteds-carrick-not-worried-about-his-job-despite-unacceptable-loss?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "'I have not given my own position any thought', Carrick said after United's 4-1 loss to Como in the Champions League.",
+   "published": "2026-10-22T06:01:48+00:00"
+  },
+  {
+   "id": "aaa5ba6e07b6",
+   "title": "The world is $365 trillion in debt, and the interest bill is climbing",
+   "link": "https://www.aljazeera.com/news/2026/10/22/the-world-is-365-trillion-in-debt-and-the-interest-bill-is-climbing?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Protests in Europe have highlighted debt squeeze, with France now paying more to borrow than Italy and Greece.",
+   "published": "2026-10-22T05:59:52+00:00"
+  },
+  {
+   "id": "11f43f50daf5",
+   "title": "‘Stupid talk’: France rejects Trump’s attempt to blame unrest on migration",
+   "link": "https://www.aljazeera.com/news/2026/10/22/stupid-talk-france-rejects-trumps-attempt-to-blame-unrest-on-migration?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The US president has turned his attention to France, but his comments appear to have been dismissed by Macron.",
+   "published": "2026-10-22T05:58:52+00:00"
+  },
+  {
+   "id": "438da2b99a41",
+   "title": "Ukraine’s access to Starlink a decision for Elon Musk, Rubio says",
+   "link": "https://www.aljazeera.com/news/2026/10/22/ukraines-access-to-starlink-a-decision-for-elon-musk-rubio-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "US secretary of state says White House not to blame for reported speed limits on internet services in Ukraine.",
+   "published": "2026-10-22T05:54:12+00:00"
+  },
+  {
+   "id": "dadf6187b70a",
+   "title": "Man charged after allegedly making threats at Hannah Beazley’s electorate office while armed with nunchucks",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/22/man-with-nunchucks-arrested-wa-mp-hannah-beazley-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Perth man charged with ‘being armed in a way that may cause fear’ – days after Helen Haines was allegedly attacked with 4WD outside her Victorian office Get our breaking news email , free app or daily news podcast A man has been charged after allegedly threatening staff and…",
+   "published": "2026-10-22T05:42:35+00:00"
+  },
+  {
    "id": "8a8fa553fff5",
    "title": "Governments working to identify exposure after global cyber-security warning",
    "link": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
@@ -144,6 +276,18 @@
    "category_hint": null,
    "summary": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
    "published": "2026-10-22T05:37:53+00:00"
+  },
+  {
+   "id": "cb1282e4dee4",
+   "title": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
+   "link": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "President Nayib Bukele says he has initiated military operation to rescue four Salvadoran soldiers abducted in Haiti.",
+   "published": "2026-10-22T05:36:33+00:00"
   },
   {
    "id": "c71dec0cc1c1",
@@ -350,18 +494,6 @@
    "published": "2026-10-22T03:56:46+00:00"
   },
   {
-   "id": "c75360ac724b",
-   "title": "What is PHP and why did it spark a global cyber-security scramble?",
-   "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-   "published": "2026-10-22T03:48:50+00:00"
-  },
-  {
    "id": "7f5b04e4bd18",
    "title": "It’s just 1 game, but the Jazz’s bad start was perhaps all too predictable",
    "link": "https://www.deseret.com/sports/2026/10/21/utah-jazz-lose-to-memphis-grizzlies/",
@@ -480,18 +612,6 @@
    "category_hint": null,
    "summary": "For the Utah Mammoth, the future is only 770 miles away. That’s the distance from the Delta Center to the Tucson Convention Center, home of the Mammoth’s minor-league affiliate, the Tucson Roadrunners. Now playing there are the result of years’ worth of stockpiled draft picks.…",
    "published": "2026-10-22T02:12:09+00:00"
-  },
-  {
-   "id": "dadf6187b70a",
-   "title": "Man charged after allegedly making threats at Hannah Beazley’s electorate office while armed with nunchucks",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/22/man-with-nunchucks-arrested-wa-mp-hannah-beazley-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Perth man charged with ‘being armed in a way that may cause fear’ – days after Helen Haines was allegedly attacked with 4WD outside her Victorian office Get our breaking news email , free app or daily news podcast A man has been charged after allegedly threatening staff and…",
-   "published": "2026-10-22T02:11:41+00:00"
   },
   {
    "id": "40bf5748c53b",
