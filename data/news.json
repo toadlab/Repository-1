@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T09:49:15.649265+00:00",
+ "generated": "2026-10-22T10:45:53.597141+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "name": "The Guardian World",
@@ -134,28 +134,460 @@
  ],
  "items": [
   {
-   "id": "7d53c7fea30c",
-   "title": "Chancellor accepts Labour has put a ‘lot of pressure’ on business and says helping entrepreneurs will be a budget priority – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+   "id": "4fb1e9200906",
+   "title": "Will Trump Interfere in the Midterms?",
+   "link": "https://thedispatch.com/newsletter/morning/will-trump-interfere-in-the-midterms/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Plus: a flaw in the PHP coding language prompts website shutdowns, Putin rules out an energy ceasefire in Ukraine, and Japanese robot dogs vs. bears.",
+   "published": "2026-10-22T10:40:21+00:00"
+  },
+  {
+   "id": "af16301fad18",
+   "title": "Aung San Suu Kyi’s son speaks to detained former Myanmar leader for first time in five years",
+   "link": "https://www.theguardian.com/world/2026/oct/22/aung-san-suu-kyi-son-speaks-former-myanmar-leader",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "John Healey is expected to cut red tape requirements, particularly for smaller businesses Here are some more lines from Patrick Maguire ’s interview with John Healey in the Times . This passage sums up the overall picture very well. Maguire writes: So what is the chancellor now…",
-   "published": "2026-10-22T09:33:26+00:00"
+   "summary": "Kim Aris says ‘hearing her voice again means more than words can express’ amid loosening of detention restrictions The son of Myanmar ’s Aung San Suu Kyi has been allowed to speak to the detained former democratic leader for the first time in more than five years. “Today, I was…",
+   "published": "2026-10-22T10:38:10+00:00"
   },
   {
    "id": "1928454a3088",
-   "title": "Zelenskyy appears to mock Witkoff for his praise for ‘humanitarian’ Putin after Kyiv attacks – Europe live",
+   "title": "Macron condemns ‘seditious acts’ by ‘ultra-left’ and says he will seek to ban some protests – Europe live",
    "link": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Zelenskyy said: ‘Three waves of ballistic missiles have been launched at Kyiv by Russian “humanitarians”’ As we are waiting for Macron , first details of the planned police response to this weekend’s protests are emerging. Junior interior minister, Jean-Didier Berger , said…",
-   "published": "2026-10-22T09:33:01+00:00"
+   "summary": "French government will show ‘absolute’ determination to stop the riots, Macron says As we are waiting for Macron , first details of the planned police response to this weekend’s protests are emerging. Junior interior minister, Jean-Didier Berger , said that the police presence…",
+   "published": "2026-10-22T10:37:33+00:00"
+  },
+  {
+   "id": "22535642c130",
+   "title": "Sainsbury’s expects challenging run-up to Christmas as households feel squeeze",
+   "link": "https://www.theguardian.com/business/2026/oct/22/sainsburys-challenging-run-up-to-christmas-households-feel-squeeze",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Supermarket urges government not to ‘further aggravate’ pressure on costs for businesses in next week’s budget Sainsbury’s has warned of a “pretty challenging” market in the run-up to Christmas as households are “finding it tough” and food producers face rising costs. Simon…",
+   "published": "2026-10-22T10:33:58+00:00"
+  },
+  {
+   "id": "0f8fbd3315a0",
+   "title": "Blackpool, Sheffield, Milton Keynes and Wrexham shortlisted for UK city of culture 2029",
+   "link": "https://www.theguardian.com/culture/2026/oct/22/uk-city-culture-2029-shortlist-blackpool-sheffield-milton-keynes-wrexham",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Each place, selected from longlist of nine, will be given £125,000 to develop bids before winner is announced in new year Blackpool, Sheffield, Milton Keynes and Wrexham have been shortlisted to be the UK city of culture 2029, an award viewed as a way to boost local economies,…",
+   "published": "2026-10-22T10:30:08+00:00"
+  },
+  {
+   "id": "7d53c7fea30c",
+   "title": "Barclays boss indicates bank taxes in budget ‘bearable’ and backs Healey – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "CEO of Barclays tells reporters: ‘I deeply respect the responsibility that the chancellor has and he has our full support and backing’ The Office for National Statistics has also published a report on the gender pay gap . It says: The gender pay gap for full-time employees has…",
+   "published": "2026-10-22T10:28:03+00:00"
+  },
+  {
+   "id": "4febfa9c0ba5",
+   "title": "Two European women held captive for more than a year in Niger freed in Libya",
+   "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The aid workers from Switzerland and Austria are due to fly home on Thursday, reports say.",
+   "published": "2026-10-22T10:26:06+00:00"
+  },
+  {
+   "id": "29a905a18540",
+   "title": "El Salvador's president threatens Haitian gangs over military hostages",
+   "link": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Four members of the so-called Gang Suppression Force have been missing since Sunday.",
+   "published": "2026-10-22T10:17:48+00:00"
+  },
+  {
+   "id": "63ebaa292aea",
+   "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
+   "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
+   "published": "2026-10-22T10:16:35+00:00"
+  },
+  {
+   "id": "8557d17216ca",
+   "title": "You’re supposed to get one free doctor’s visit every year. So why are so many Americans being charged?",
+   "link": "https://www.vox.com/the-highlight/504171/annual-doctor-appointment-visit-cost-preventive",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "After moving to West Virginia last year, Steve Kuo signed up for a new insurance plan that would cost him $500 a month. But there was one upside: He knew he was entitled to a free preventive visit. He wanted to take advantage of it, so he made an appointment at a clinic near…",
+   "published": "2026-10-22T10:11:00+00:00"
+  },
+  {
+   "id": "106354a89d25",
+   "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
+   "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
+   "published": "2026-10-22T10:10:13+00:00"
+  },
+  {
+   "id": "771f8b81cd83",
+   "title": "Meta strikes deal with Zuckerberg to protect him from California wealth tax",
+   "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Company says deal will keep its chief executive living in California even if state brings in one-off billionaire tax Business live – latest updates Meta has struck a deal with Mark Zuckerberg to protect him from the threat of a California wealth tax targeting billionaires. The…",
+   "published": "2026-10-22T10:10:03+00:00"
+  },
+  {
+   "id": "14be2f2e3f0e",
+   "title": "Michigan Senate debate: Key takeaways from El-Sayed, Rogers clash",
+   "link": "https://www.aljazeera.com/news/2026/10/22/michigan-senate-debate-key-takeaways-from-el-sayed-rogers-clash?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "El-Sayed and Rogers also tackle immigration in Michigan while Kansas candidates spar over Ukraine.",
+   "published": "2026-10-22T10:06:58+00:00"
+  },
+  {
+   "id": "9268d8898b8a",
+   "title": "Israeli forces kill disabled man in southern Syria raid, state media says",
+   "link": "https://www.aljazeera.com/news/2026/10/22/israeli-forces-kill-disabled-man-in-southern-syria-raid-state-media-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Civilian with a disability shot dead during raid in Jamla, in western Deraa countryside, SANA reports.",
+   "published": "2026-10-22T10:01:55+00:00"
+  },
+  {
+   "id": "0f3870475dba",
+   "title": "Rethinking Humanitarianism | Why the WFP cyber-attack matters",
+   "link": "https://www.thenewhumanitarian.org/podcasts/2026/10/22/rethinking-humanitarianism-why-wfp-cyber-attack-matters",
+   "source": "The New Humanitarian",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "How the WFP Gaza data breach connects questions about surveillance, the rush for AI solutions, the pursuit of data, and corporate tech partnerships.",
+   "published": "2026-10-22T10:01:21+00:00"
+  },
+  {
+   "id": "b70ec7fbe087",
+   "title": "Trump’s war and tariffs have battered Alaska. A pro-oil Democrat could flip the key Senate seat",
+   "link": "https://www.theguardian.com/us-news/2026/oct/22/alaska-mary-peltola-senate-midterms",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Democrats believe circumstances have aligned for them to win a slew of competitive elections in the state Mary Peltola’s campaign to represent Alaska in the US Senate has taken her to parts of the massive state’s interior that are inaccessible by road and on the frontlines of…",
+   "published": "2026-10-22T10:00:39+00:00"
+  },
+  {
+   "id": "3f37d4b343c1",
+   "title": "Experts alarmed by ‘less transparent’ CDC as US measles deaths rise",
+   "link": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-pennsylvania-state-deaths",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Agency declines to reveal in which state latest measles death occurred as it delays reporting other measles deaths The US Centers for Disease Control and Prevention (CDC) added a third measles death to its dashboard on Wednesday, but the agency would not reveal whether the…",
+   "published": "2026-10-22T10:00:39+00:00"
+  },
+  {
+   "id": "3c43db4ad0e6",
+   "title": "In reliably blue Minnesota, could Democrats do the unthinkable and lose a Senate seat?",
+   "link": "https://www.theguardian.com/us-news/2026/oct/22/minnesota-senate-race-peggy-flanagan-michele-tafoya",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Frustration with a sprawling fraud scandal has cut Peggy Flanagan’s poll lead – could ex-NFL reporter Michele Tafoya win a first statewide election for Republicans in 20 years? As Democrats fight to regain control of the US Senate, hopes are rising in states – from Kansas to…",
+   "published": "2026-10-22T10:00:38+00:00"
+  },
+  {
+   "id": "584229c4ee74",
+   "title": "FINNY AI Partners with Visionary Square on Prospecting",
+   "link": "https://www.wealthmanagement.com/advisor-support-platforms/finny-ai-partners-with-visionary-square-on-prospecting",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Visionary Square will cover FINNY subscription costs for its network of 250-plus advisors, giving them access to AI-powered tools meant to find clients and fuel growth.",
+   "published": "2026-10-22T10:00:08+00:00"
+  },
+  {
+   "id": "a15ed250fa99",
+   "title": "Crime Is Down in D.C., but Trump's National Guard Deployment Probably Isn't the Cause",
+   "link": "https://reason.com/2026/10/22/d-c-s-national-guard-deployment-at-1-year/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Crime has been dropping nationwide, a trend that started before Trump took office.",
+   "published": "2026-10-22T10:00:04+00:00"
+  },
+  {
+   "id": "bcfb43295ae1",
+   "title": "In praise of Notre Dame: What a football coach’s kindness to a BYU player teaches about faith",
+   "link": "https://www.deseret.com/sports/2026/10/22/football-coach-kindness-to-byu-player-teaches-faith-byu-notre-dame-football/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "If you were one of the 13.2 million viewers who tuned in to watch Brigham Young University face off against Notre Dame on the football field this weekend, then you witnessed a truly great game. There were thrilling shows of athleticism, dramatic shifts in momentum, and all the…",
+   "published": "2026-10-22T10:00:01+00:00"
+  },
+  {
+   "id": "9be8145220a7",
+   "title": "‘I feel great about that group’: Loss of star running back LJ Martin hasn’t slowed No. 2 BYU’s efficient offense",
+   "link": "https://www.deseret.com/sports/2026/10/22/byu-football-cougars-running-backs-lj-martin-preston-rex-journee-tonga/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A lot of unsung heroes emerged in BYU’s statement-making win over then-No. 2 Notre Dame last Saturday, complementing the incredible and unforgettable performances of quarterback Bear Bachmeier and linebacker Cade Uluave. Tuesday, the sophomore from Murrieta, California, was…",
+   "published": "2026-10-22T10:00:00+00:00"
+  },
+  {
+   "id": "d7360fb7449a",
+   "title": "Matthew McConaughey is singing the praises of independents. Could his advice give the midterms to Democrats?",
+   "link": "https://www.deseret.com/opinion/2026/10/22/matthew-mcconaughey-independents-joe-manchin/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A version of this article was first published in the Right to the Point newsletter. Sign up to receive the newsletter in your inbox every Wednesday morning and to vote in subscriber-only polls. Speaking to the nation’s governors in Utah in 2024, Matthew McConaughey said he was…",
+   "published": "2026-10-22T10:00:00+00:00"
+  },
+  {
+   "id": "31622a71a036",
+   "title": "A 28-year-old Republican outlines the GOP’s post-Trump future in a district Harris won by 24 points",
+   "link": "https://www.deseret.com/politics/2026/10/22/utah-republican-nominee-for-congress-outlines-gen-z-vision-for-conservative-movement-after-trump/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Utah’s 1st Congressional District, which favors Democrats by double digits, is an unlikely place to revamp the conservative movement. But that is exactly what Republican nominee Riley Owen set out to do on Wednesday. Surrounded by a handful of college-age supporters, the…",
+   "published": "2026-10-22T10:00:00+00:00"
+  },
+  {
+   "id": "204feb401631",
+   "title": "Is this the race that will decide who controls the Senate?",
+   "link": "https://www.deseret.com/politics/2026/10/22/michigan-senate-race/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "DETROIT — Political signs litter street corners and are propped up on front lawns in neighborhoods across metro Detroit. Many feature the names of the state’s two Senate candidates: Republican Mike Rogers and Democrat Abdul El-Sayed. Michigan, a perennial battleground state, is…",
+   "published": "2026-10-22T10:00:00+00:00"
+  },
+  {
+   "id": "6fefe5a8c215",
+   "title": "The Cornell rape case has surfaced a hidden divide among progressives",
+   "link": "https://www.vox.com/politics/507219/cornell-seven-new-york-voluntary-intoxication-loophole",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The harrowing allegations of rape at a Cornell University fraternity have been rippling out in both New York state and national politics. Democrats have tended to voice sympathy with the accuser, saying that they stand with her and other victims. Rep. Alexandria Ocasio-Cortez…",
+   "published": "2026-10-22T10:00:00+00:00"
+  },
+  {
+   "id": "f218513416a6",
+   "title": "Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service",
+   "link": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The post Ballot Rejections Soared in Rural Counties After USPS Reduced Mail Service appeared first on ProPublica .",
+   "published": "2026-10-22T10:00:00+00:00"
+  },
+  {
+   "id": "5d7e47550e6b",
+   "title": "Jay-Z’s Foray into Gospel Music Met with Skepticism",
+   "link": "https://www.christianitytoday.com/2026/10/jay-zs-foray-into-gospel-music-met-with-skepticism/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Veteran gospel recording artist Marvin Sapp announced in July his new distribution deal with Roc Nation, the entertainment company founded by rapper and businessman Jay-Z. The partnership, Sapp remarked at the time, is a “reminder that—as the scripture says—with God all things…",
+   "published": "2026-10-22T10:00:00+00:00"
+  },
+  {
+   "id": "6ddb44850a1c",
+   "title": "UK Christians Question Using the Term Christian Nationalism",
+   "link": "https://www.christianitytoday.com/2026/10/uk-christian-nationalism-far-right/",
+   "source": "Christianity Today",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "While advising the bishops of the Church of England on the term Christian nationalism earlier this year, Luke Bretherton, regius professor of moral and pastoral theology at the University of Oxford, had a straightforward piece of advice: Don’t use it. “The term Christian…",
+   "published": "2026-10-22T10:00:00+00:00"
+  },
+  {
+   "id": "98dfcde36ea0",
+   "title": "9 Questions to Ask a Financial Adviser (and Best Answers)",
+   "link": "https://www.kiplinger.com/investing/wealth-management/questions-to-ask-a-financial-adviser",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Asking financial advisers the right questions upfront can help ensure they offer the transparency and behavioral discipline needed to protect your future.",
+   "published": "2026-10-22T10:00:00+00:00"
+  },
+  {
+   "id": "68e3eb069c80",
+   "title": "Healthspan Wealth Launches Platform for Advisors",
+   "link": "https://www.wealthmanagement.com/advisor-support-platforms/healthspan-wealth-launches-platform-for-advisors",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Founders Thomas West and Suzanne Schmitt built the AI-driven tool to help advisors coordinate health and longevity planning across families, care teams and other professionals.",
+   "published": "2026-10-22T10:00:00+00:00"
+  },
+  {
+   "id": "3f5a397545d3",
+   "title": "Can European leaders fix the cost-of-living crisis?",
+   "link": "https://www.aljazeera.com/video/counting-the-cost/2026/10/22/can-european-leaders-fix-the-cost-of-living-crisis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Anger over housing, wages and public services tests European governments facing debt pressures and looming elections.",
+   "published": "2026-10-22T09:58:21+00:00"
+  },
+  {
+   "id": "a14cb43888a5",
+   "title": "Russia and Ukraine trade attacks despite pledging to resume peace talks",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Overnight attacks on Kyiv injured 15 people, while two were injured in Moscow as Russia said it intercepted 163 drones.",
+   "published": "2026-10-22T09:57:47+00:00"
+  },
+  {
+   "id": "f901f0374d92",
+   "title": "Meta’s stock falls in early trading amid broader sector selloff, despite well-received results",
+   "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Meta’s core advertising business delivered a strong quarter, but investors are now eyeing promising new businesses around the Muse personal assistant.",
+   "published": "2026-10-22T09:55:00+00:00"
+  },
+  {
+   "id": "cee7c4debd15",
+   "title": "Police investigate Married at First Sight Australia after 'inappropriate' allegations",
+   "link": "https://www.bbc.co.uk/news/articles/cry83vyw3y4lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "New South Wales Police say inquiries took place \"following a report of inappropriate content being shared\".",
+   "published": "2026-10-22T09:47:54+00:00"
+  },
+  {
+   "id": "afb82d37ddf9",
+   "title": "Criminals who refuse to attend sentencing face losing prison privileges under new rules",
+   "link": "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "England and Wales judges to be able to keep inmates in cells for longer or stop visits if they refuse to face victims’ families in court Offenders who refuse to face their victims’ families in court for sentencing could be stripped of privileges or kept in cells for weeks under…",
+   "published": "2026-10-22T09:47:50+00:00"
+  },
+  {
+   "id": "432aaa725242",
+   "title": "John Anderson, five-time US country chart-topper, dies aged 71",
+   "link": "https://www.theguardian.com/music/2026/oct/22/john-anderson-five-time-us-country-chart-topper-dies-aged-71",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Florida-born singer-songwriter had major hits with Swingin’, Seminole Wind and Straight Tequila Night John Anderson, the traditionalist US country singer whose extensive body of work included five No 1 hits on the country charts, has died aged 71. The news was announced on…",
+   "published": "2026-10-22T09:45:22+00:00"
+  },
+  {
+   "id": "73b881cebc94",
+   "title": "Brazil’s president appeals to undecided voters ahead of run-off",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Brazil’s two presidential candidates Lula and Bolsonaro are trying to win over the 30 million voters.",
+   "published": "2026-10-22T09:42:42+00:00"
   },
   {
    "id": "bc5e2a8c4186",
@@ -207,7 +639,7 @@
   },
   {
    "id": "b3a22a2599ee",
-   "title": "Some New Yorkers hail ban on horse-drawn carriages, but drivers fear for incomes",
+   "title": "Some New Yorkers back ban on horse-drawn carriages, but drivers fear for incomes",
    "link": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -315,7 +747,7 @@
   },
   {
    "id": "efff9587d64f",
-   "title": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced",
+   "title": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 displaced",
    "link": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -554,18 +986,6 @@
    "published": "2026-10-22T08:33:01+00:00"
   },
   {
-   "id": "4febfa9c0ba5",
-   "title": "Two European women held captive for more than a year in Niger freed in Libya",
-   "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The aid workers from Switzerland and Austria are due to fly home on Thursday, reports say.",
-   "published": "2026-10-22T08:21:13+00:00"
-  },
-  {
    "id": "e03abeb252f0",
    "title": "Russian strikes hit Kyiv after Witkoff meets Putin",
    "link": "https://www.aljazeera.com/news/2026/10/22/russian-strikes-hit-kyiv-after-witkoff-meets-putin?traffic_source=rss",
@@ -576,18 +996,6 @@
    "category_hint": null,
    "summary": "Ukraine says 'appeasement' will not end war as Russian attacks kill 1, injure 22 in its capital.",
    "published": "2026-10-22T08:18:39+00:00"
-  },
-  {
-   "id": "63ebaa292aea",
-   "title": "Celebrity shark guided out of South Korea canal refuses to swim out to sea",
-   "link": "https://www.bbc.co.uk/news/articles/cr3wv99614deo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
-   "published": "2026-10-22T08:15:48+00:00"
   },
   {
    "id": "0a3ba3c81697",
@@ -648,18 +1056,6 @@
    "category_hint": null,
    "summary": "Farmers will be eligible to receive one-time payments from the U.S. Department of Agriculture to provide relief for high fuel and input costs. USDA and President Donald Trump announced Monday night at a rally in Kansas that farmers would have $8 billion made available in the…",
    "published": "2026-10-22T08:00:05+00:00"
-  },
-  {
-   "id": "afb82d37ddf9",
-   "title": "Criminals who refuse to attend sentencing face losing prison privileges under new rules",
-   "link": "https://www.theguardian.com/law/2026/oct/22/criminals-who-refuse-to-attend-sentencing-could-lose-prison-privileges-under-new-rules",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "England and Wales judges to be able to keep inmates in their cells for longer or stop visits if they refuse to face victims’ families in court Offenders who refuse to face their victims’ families in court for sentencing could be stripped of privileges or kept in cells for weeks…",
-   "published": "2026-10-22T07:54:17+00:00"
   },
   {
    "id": "79fb1bad8355",
@@ -1608,18 +2004,6 @@
    "category_hint": null,
    "summary": "US State Department says Iran-aligned Houthis have 'increasingly ⁠⁠engaged in hostilities' against Saudi Arabia.",
    "published": "2026-10-21T23:13:35+00:00"
-  },
-  {
-   "id": "f901f0374d92",
-   "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
-   "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Meta’s core advertising business delivered a strong quarter, but investors are eyeing promising new businesses around the Muse personal assistant",
-   "published": "2026-10-21T23:07:00+00:00"
   },
   {
    "id": "e28037d5cfc2",
@@ -2688,18 +3072,6 @@
    "category_hint": null,
    "summary": "Christina Applegate, the actor who has been one of the most visible faces of multiple sclerosis since her 2021 diagnosis, made a stunning revelation this week: She does not have MS after all. And her doctors still don’t know what is causing her debilitating symptoms. “I’m back…",
    "published": "2026-10-21T19:30:00+00:00"
-  },
-  {
-   "id": "106354a89d25",
-   "title": "Nigeria's first Ebola patient holidayed in Uganda, officials say",
-   "link": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The wife of a diplomat based in Abuja travelled to Kampala for a vacation.",
-   "published": "2026-10-21T19:29:40+00:00"
   },
   {
    "id": "2acc09331c09",
@@ -78198,17 +78570,6 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "summary": "In the 1960s, the psychologist Harry Harlow placed newborn rhesus monkeys in clean, temperature-controlled cages with food, water and everything they seemed to need. They lacked for only one thing in this University of Wisconsin experiment: contact with other monkeys. The…",
-   "published": "2026-10-01T10:00:00+00:00"
-  },
-  {
-   "id": "8557d17216ca",
-   "title": "You’re supposed to get one free doctor’s visit every year. So why are so many Americans being charged?",
-   "link": "https://www.vox.com/the-highlight/504171/annual-doctor-appointment-visit-cost-preventive",
-   "source": "Vox",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "After moving to West Virginia last year, Steve Kuo signed up for a new insurance plan that would cost him $500 a month. But there was one upside: He knew he was entitled to a free preventive visit. He wanted to take advantage of it, so he made an appointment at a clinic near…",
    "published": "2026-10-01T10:00:00+00:00"
   },
   {
