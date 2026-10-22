@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-22",
+ "type": "reflection",
+ "circle": null,
+ "generated": "2026-10-22T05:49:20.030134-04:00",
+ "emergencies": [],
+ "inspiring": [
+  {
+   "id": "c51c5fb14ab9",
+   "title": "The People Rewriting the Rules: Five Unexpected Stories from New York",
+   "link": "https://substack.fixthenews.com/p/the-people-rewriting-the-rules-five-6d5",
+   "source": "Fix the News",
+   "published": "2026-10-16T11:44:22+00:00",
+   "summary": "",
+   "circle": "international",
+   "category": "good_in_world",
+   "story_key": "people-rewriting-rules-five-unexpected",
+   "composite": 8.75,
+   "bar": 9.0,
+   "decision": "borderline",
+   "reason": "Keyword estimate (no Claude API key configured).",
+   "flourishing": 7,
+   "domain": 0,
+   "durability": 7,
+   "review_status": "unreviewed",
+   "review_reason": "",
+   "author": null,
+   "label": "headline only, not reviewed",
+   "why_it_matters": "",
+   "talk_to": ""
+  }
+ ],
+ "scored_by": [
+  "heuristic"
+ ],
+ "category_counts": {
+  "finance": 0,
+  "good_in_world": 1,
+  "other": 0
+ }
+}
