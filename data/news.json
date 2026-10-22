@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T00:57:01.446178+00:00",
+ "generated": "2026-10-22T01:46:43.338174+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -134,16 +134,16 @@
  ],
  "items": [
   {
-   "id": "ae1058f1d92c",
-   "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
-   "link": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
+   "id": "ec85a7e908be",
+   "title": "‘Almost looks fake’: two Sydney beaches closed after whale carcass washes up",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/22/coogee-maroubra-beaches-closed-whale-carcass",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Facing a potentially giant tax bill that could threaten his voting power, Zuckerberg was days away from listing his Palo Alto home when Meta agreed to create a new class of stock.",
-   "published": "2026-10-22T00:48:00+00:00"
+   "summary": "Swimming banned at Maroubra and Coogee while council prioritises ‘culturally respectful’ removal of remains Coogee and Maroubra beaches have been closed as a precaution after a whale carcass washed up on the rocks between the two busy swimming and surfing spots in Sydney ’s…",
+   "published": "2026-10-22T01:31:15+00:00"
   },
   {
    "id": "0ae74849b12d",
@@ -155,7 +155,91 @@
    "flourishing_feed": false,
    "category_hint": null,
    "summary": "‘That was great, man. Wow. Man, I loved that,’ the president says from podium as multiple protesters interrupt his remarks Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The Israeli military has detained…",
-   "published": "2026-10-22T00:34:52+00:00"
+   "published": "2026-10-22T01:26:51+00:00"
+  },
+  {
+   "id": "1f5f6f9d6a5d",
+   "title": "‘Man, I loved that’: Trump cheers South Carolina rally attender who hit protester",
+   "link": "https://www.theguardian.com/us-news/2026/oct/21/trump-south-carolina-rally-darline-graham",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "President was reportedly heckled at least nine times during campaign event for Darline Graham Multiple protesters were removed from Donald Trump’s rally at South Carolina’s Clemson University on Wednesday, including one who was apparently punched by a rally attender – to the US…",
+   "published": "2026-10-22T01:23:04+00:00"
+  },
+  {
+   "id": "58fea97a0d5e",
+   "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
+   "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’ Vladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve Witkoff in St Petersburg on…",
+   "published": "2026-10-22T01:16:20+00:00"
+  },
+  {
+   "id": "d730e45e0b3f",
+   "title": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
+   "link": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novel The publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list last month, has…",
+   "published": "2026-10-22T01:13:01+00:00"
+  },
+  {
+   "id": "69a8302c4a52",
+   "title": "Colombian president purges National Museum of works promoting ‘communism’",
+   "link": "https://www.aljazeera.com/news/2026/10/22/colombian-president-purges-national-museum-of-works-promoting-communism?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Far-right President Abelardo de la Espriella says he will wage a 'counterrevolution' against cultural institutions.",
+   "published": "2026-10-22T01:09:40+00:00"
+  },
+  {
+   "id": "d8270eea1832",
+   "title": "Sam Wood makes bid for bail over domestic violence charges to supreme court",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/22/sam-wood-bail-supreme-court-queensland-domestic-violence-arrest-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Former reality star and wellness influencer stands accused of choking and assaulting wife at Noosa in Queensland Get our breaking news email , free app or daily news podcast Former reality television star Sam Wood will go to the Queensland supreme court seeking release from…",
+   "published": "2026-10-22T01:02:30+00:00"
+  },
+  {
+   "id": "924ce0650976",
+   "title": "Brother of George W Bush endorses Democratic Senate candidate in Texas",
+   "link": "https://www.aljazeera.com/news/2026/10/22/brother-of-george-bush-endorses-democratic-senate-candidate-in-texas?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Neil Bush says that he voted for Democrat James Talarico due to reservations about Republican candidate Ken Paxton.",
+   "published": "2026-10-22T01:01:52+00:00"
+  },
+  {
+   "id": "ae1058f1d92c",
+   "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
+   "link": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Facing a potentially giant tax bill that could threaten his voting power, Zuckerberg was days away from listing his Palo Alto home when Meta agreed to create a new class of stock.",
+   "published": "2026-10-22T00:48:00+00:00"
   },
   {
    "id": "286892780cea",
@@ -183,14 +267,14 @@
   },
   {
    "id": "b0a6f5fee4d8",
-   "title": "Citing 'challenges,' AIPAC halts endorsements and direct contributions to candidates",
+   "title": "AIPAC halts endorsements and direct contributions to candidates",
    "link": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
    "source": "NPR News",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "The pro-Israel lobbying group and influential political donor announced it would no longer endorse candidates or give directly to campaigns, instead mobilizing its members to give individually.",
+   "summary": "The pro-Israel lobbying group and influential political funder announced it would no longer endorse candidates or give directly to campaigns. AIPAC's affiliated super PAC, though, will continue.",
    "published": "2026-10-22T00:22:48+00:00"
   },
   {
@@ -806,18 +890,6 @@
    "published": "2026-10-21T21:25:21+00:00"
   },
   {
-   "id": "58fea97a0d5e",
-   "title": "Putin orders release of jailed American as he meets Trump envoy for Ukraine talks",
-   "link": "https://www.theguardian.com/world/2026/oct/21/putin-witkoff-russia-ukraine-trump-stephen-hubbard-release",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Russia frees Stephen Hubbard after US request while Steve Witkoff praises Putin, wanted by ICC as war criminal, as a ‘humanitarian’ US politics live – latest updates Vladimir Putin ordered the release of an American man from a Russian jail as he met Donald Trump’s envoy Steve…",
-   "published": "2026-10-21T21:23:37+00:00"
-  },
-  {
    "id": "af29fe2b35db",
    "title": "Report: Utah starting offensive guard Kelvin Obot out vs. Houston",
    "link": "https://www.deseret.com/sports/2026/10/21/report-utah-utes-starting-og-kelvin-obot-out-vs-houston/",
@@ -1054,7 +1126,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Early on Thursday morning local time, South Korea's oceans ministry said the shark had been successfully guided out of the canal.",
+   "summary": "It is thought the shark may have been drawn to the canal by unusually warm water and plenty of fish.",
    "published": "2026-10-21T20:31:47+00:00"
   },
   {
