@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T17:42:42.527815+00:00",
+ "generated": "2026-10-22T18:53:49.558879+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -13,8 +13,8 @@
   },
   {
    "name": "Indianapolis Business Journal",
-   "ok": false,
-   "error": "TimeoutError: The read operation timed out"
+   "ok": true,
+   "count": 10
   },
   {
    "name": "NPR News",
@@ -134,6 +134,354 @@
  ],
  "items": [
   {
+   "id": "e656b65c536f",
+   "title": "S. 3897, Officer John Barnes and Chief Michael Ansbro Public Safety Officers’ Benefit Program Expansion Act of 2026",
+   "link": "https://www.cbo.gov/publication/62875",
+   "source": "Congressional Budget Office",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "As passed by the Senate on August 7, 2026",
+   "published": "2026-10-22T18:50:00+00:00"
+  },
+  {
+   "id": "769be490b40b",
+   "title": "Mariner Wealth Advisors Seeks $150M in Additional Debt for Acquisitions",
+   "link": "https://www.wealthmanagement.com/ria-news/mariner-wealth-advisors-seeks-150-million-in-additional-debt-for-acquisitions",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The planned borrowing would boost Mariner’s term loan to $1.3 billion as Moody’s expects leverage to rise to 6.7x EBITDA by year-end.",
+   "published": "2026-10-22T18:44:05+00:00"
+  },
+  {
+   "id": "8006443cbc11",
+   "title": "Todd Blanche fails to rule out DoJ weighing in on states’ election results certifying process – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Attorney general says ‘there’s scenarios we could all come up with’ when asked if DoJ would intercede to stop states from certifying election Sign up for the Breaking News US email How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer…",
+   "published": "2026-10-22T18:39:07+00:00"
+  },
+  {
+   "id": "f34f1480d766",
+   "title": "Moderna’s stock tumbles after reported leak of data for cancer vaccine",
+   "link": "https://www.marketwatch.com/story/modernas-stock-tumbles-after-reported-leak-of-data-for-cancer-vaccine-dcc897c1?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Moderna and Merck are expected to share the Phase 3 data for their experimental cancer vaccine this weekend at a medical conference.",
+   "published": "2026-10-22T18:35:00+00:00"
+  },
+  {
+   "id": "2ab4ef0d993d",
+   "title": "What Happens to Representative Ilhan Omar's Congressional Seat if the United States Files Suit to Denaturalize Her?",
+   "link": "https://reason.com/volokh/2026/10/22/what-happens-to-representative-ilhan-omars-congressional-seat-if-the-united-states-files-suit-to-denaturalize-her/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "[This post was co-authored with Professor Seth Barrett Tillman.] There have been many news reports suggesting that the United States… The post What Happens to Representative Ilhan Omar's Congressional Seat if the United States Files Suit to Denaturalize Her? appeared first on…",
+   "published": "2026-10-22T18:34:18+00:00"
+  },
+  {
+   "id": "0453d8a3f103",
+   "title": "CDC denies approval for high-volume measles test, citing ‘other priorities’",
+   "link": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-test-denied",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "California, Oregon, Washington and Hawaii health officials ask CDC, ‘prioritizing emerging technologies’, to reconsider California and Washington asked the US Centers for Disease Control and Prevention (CDC) in May to validate a new way to test for measles – but after waiting…",
+   "published": "2026-10-22T18:30:39+00:00"
+  },
+  {
+   "id": "4e52348834c0",
+   "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+   "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+   "published": "2026-10-22T18:26:56+00:00"
+  },
+  {
+   "id": "de3884a8f106",
+   "title": "Video footage of Kohen Wiley shooting released after toddler’s death deemed ‘justified’",
+   "link": "https://www.theguardian.com/us-news/2026/oct/22/video-kohen-wiley-shooting",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "‘The word ‘justified’ have haunted me since Monday,’’ the child’s maternal grandmother says Since the Mississippi attorney general, Lynn Fitch, announced on Monday that the police shooting of Kohen Wiley, a one-year-old baby, “was justified”, footage of the shooting has been…",
+   "published": "2026-10-22T18:21:49+00:00"
+  },
+  {
+   "id": "4f79702d4269",
+   "title": "State Regulators Fear SEC Crypto Proposals Put 'Thumb On The Scale'",
+   "link": "https://www.wealthmanagement.com/regulation-compliance/state-regulators-urge-sec-to-pull-crypto-rule-proposal",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "In a comment letter, state regulators urged the SEC to withdraw its new crypto-related proposed rule. Other letters in support and opposition came from politicians, consumer protection advocates and digital asset companies.",
+   "published": "2026-10-22T18:20:42+00:00"
+  },
+  {
+   "id": "c6528b89d871",
+   "title": "Israel frees suspects in two settler attacks as West Bank pogroms intensify",
+   "link": "https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israeli court releases nine settler suspects over West Bank attacks as investigations into recent assaults continue.",
+   "published": "2026-10-22T18:17:29+00:00"
+  },
+  {
+   "id": "91a852a1ecea",
+   "title": "Every Briton should stockpile water and food supplies, government advises",
+   "link": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Be Ready campaign aims to prepare UK for impact of climate crisis, technological dependency and threats by hostile state Every Briton is being urged to stock up to nine litres of bottled water and three days’ worth of food in new government guidance designed to ensure that…",
+   "published": "2026-10-22T18:10:11+00:00"
+  },
+  {
+   "id": "43ef9458edd5",
+   "title": "Trump says NBA star LeBron James disrespected US national anthem",
+   "link": "https://www.aljazeera.com/sports/2026/10/22/trump-says-nba-star-lebron-james-disrespected-us-national-anthem?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "NBA superstar LeBron James criticised by US President ⁠Donald ⁠Trump for disrespctful behaviour during national anthem.",
+   "published": "2026-10-22T18:05:52+00:00"
+  },
+  {
+   "id": "dd690832bcb4",
+   "title": "Former Utah tight end Dalton Kincaid named ‘College GameDay’ guest picker",
+   "link": "https://www.deseret.com/sports/2026/10/22/utah-utes-college-gameday-guest-picker-dalton-kincaid/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Former Ute and current Buffalo Bills tight end Dalton Kincaid will make his return to Salt Lake City as the guest picker for ESPN’s “College GameDay” this Saturday. “Unfortunately, my picks last week, I think I went 1 for 10 in the tight end room, so I’ve got an uphill battle,”…",
+   "published": "2026-10-22T18:05:46+00:00"
+  },
+  {
+   "id": "d866bc2baaef",
+   "title": "Energy secretary appears to U-turn on opposition to tougher migration rules",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Miatta Fahnbulleh says reference to ‘awkward’ interview was meant to be lighthearted and self-deprecating The energy secretary has been forced to clarify that she backs Shabana Mahmood’s migration policy, after earlier joking that she had not been able to “lie” about supporting…",
+   "published": "2026-10-22T18:04:58+00:00"
+  },
+  {
+   "id": "708aeea984df",
+   "title": "Opinion: Teach young people the difference between investing and gambling",
+   "link": "https://www.deseret.com/opinion/2026/10/22/investing-is-not-the-same-as-gambling/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "This is the reason Americans ought to be afraid of the growing proliferation of prediction markets. A recent survey by Betterment has found that 52% of Gen Z investors now say they are redirecting some investment money toward online sports wagers. Meanwhile, a survey by U.S.…",
+   "published": "2026-10-22T18:00:51+00:00"
+  },
+  {
+   "id": "bd4be76e36ec",
+   "title": "Amy Winehouse musical in development for West End",
+   "link": "https://www.theguardian.com/music/2026/oct/22/amy-winehouse-musical-west-end",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Stage show based on late singer reportedly set to feature her best-loved songs with involvement from her father Mitch A musical based on Amy Winehouse is in development for London’s West End. The project is still in early stages with Catherine Schreiber, a Tony award-winning…",
+   "published": "2026-10-22T18:00:51+00:00"
+  },
+  {
+   "id": "2ad67bca7ade",
+   "title": "John Oliver Warned Against Cherry-Picked Studies. Then He Cherry-Picked His Own.",
+   "link": "https://reason.com/video/2026/10/22/john-oliver-warned-against-cherry-picked-studies-then-he-cherry-picked-his-own/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Do as he says, not as he does.",
+   "published": "2026-10-22T18:00:13+00:00"
+  },
+  {
+   "id": "60a7fae91dc3",
+   "title": "‘Chop wood and carry water’: Utah offensive line’s mantra emboldens it heading into teeth of schedule",
+   "link": "https://www.deseret.com/sports/2026/10/22/chop-wood-and-carry-water-utah-offensive-lines-mantra-emboldens-it-heading-into-teeth-of-schedule/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "This article was first published in the Ute Insiders newslett er . Sign up to receive the newsletter in your inbox each Wednesday night. During Utah’s fall camp, offensive line coach Jordan Gross had his group read “Chop Wood Carry Water: How to Fall In Love With the Process of…",
+   "published": "2026-10-22T18:00:00+00:00"
+  },
+  {
+   "id": "294d4d42c19b",
+   "title": "The Vice Economy",
+   "link": "https://thedispatch.com/podcast/the-skiff/the-vice-economy/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Is the GOP Abandoning Its Traditional Values?",
+   "published": "2026-10-22T17:59:29+00:00"
+  },
+  {
+   "id": "69e6ec68ad9d",
+   "title": "Unsafe water, burning eyes and kerosene slicks: residents demand answers on River Taff leak",
+   "link": "https://www.theguardian.com/environment/2026/oct/22/residents-river-taff-leak-wales-ge-aerospace",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "People near South Wales river told to keep windows and doors shut after 1,000s of litres of kerosene from a GE Aerospace site got into the water Oily slicks of kerosene still appeared to be leaking into the River Taff this week, several days after a breach of thousands of…",
+   "published": "2026-10-22T17:58:51+00:00"
+  },
+  {
+   "id": "b1e85441ddf8",
+   "title": "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+   "link": "https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The US has pushed back on the IRGC's claims, dismissing them as an attempt to increase oil prices ahead of US elections.",
+   "published": "2026-10-22T17:58:04+00:00"
+  },
+  {
+   "id": "052727cfe401",
+   "title": "High school girls soccer: 6A/5A/4A state tournament championship previews",
+   "link": "https://www.deseret.com/sports/2026/10/22/high-school-girls-soccer-6a-5a-4a-state-championship-previews/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "6A Championship No. 1 Lone Peak vs. No. 2 Davis Lone Peak and Davis meet Friday at 10 a.m. at Zions Bank Stadium for the 6A girls soccer championship. It’s a rematch of the 2024 title game. In that 2024 final, No. 1 Lone Peak shut out No. 3 Davis 2-0 to win its second straight…",
+   "published": "2026-10-22T17:56:23+00:00"
+  },
+  {
+   "id": "cde1f9009f38",
+   "title": "RBC Lures UBS Overseeing More Than $1B in Pittsburgh",
+   "link": "https://www.wealthmanagement.com/wirehouse-news/rbc-lures-ubs-team-in-pittsburgh-overseeing-more-than-1b",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "RBC Wealth Management clocks another win from UBS as it seeks to meet a rapid growth goal for advisors in the United States.",
+   "published": "2026-10-22T17:54:40+00:00"
+  },
+  {
+   "id": "ca69a5b65ecc",
+   "title": "Ukraine hit by strikes after Russia agrees to new peace talks",
+   "link": "https://www.bbc.co.uk/news/videos/c9146p1vx888o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The three waves of Russian missiles were launched at hours after Russia said it was \"ready in principle\" to resume peace talks with the US and Ukraine.",
+   "published": "2026-10-22T17:49:13+00:00"
+  },
+  {
+   "id": "7854dabaf85a",
+   "title": "5 Stocks to Avoid as Interest Rates Rise This Fall",
+   "link": "https://www.kiplinger.com/investing/stocks-to-avoid-as-interest-rates-rise",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Rising interest rates mean higher borrowing costs and challenge companies with bad balance sheets. Here are five stocks to avoid as interest rates rise.",
+   "published": "2026-10-22T17:48:32+00:00"
+  },
+  {
+   "id": "1b94e6fd981b",
+   "title": "US-sanctioned ICC wins top EU human rights award",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/us-sanctioned-icc-wins-top-eu-human-rights-award?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The EU has awarded the International Criminal Court its top human rights award.",
+   "published": "2026-10-22T17:46:03+00:00"
+  },
+  {
+   "id": "d7ed585b0b58",
+   "title": "Total ban on protests in Marseille and Lyon after riots",
+   "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+   "published": "2026-10-22T17:45:44+00:00"
+  },
+  {
+   "id": "b7e5a8a27bef",
+   "title": "‘Longer we wait, worse it gets’: Struggle of Gaza’s breast cancer patients",
+   "link": "https://www.aljazeera.com/features/2026/10/22/longer-we-wait-worse-it-gets-struggle-of-gazas-breast-cancer-patients?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Breast cancer patients in Gaza face delayed diagnoses, medicine shortages and limited access to scans and treatment.",
+   "published": "2026-10-22T17:40:24+00:00"
+  },
+  {
+   "id": "0d099edba8d7",
+   "title": "Foreign national beaten to death by a mob in South Africa",
+   "link": "https://www.aljazeera.com/news/2026/10/22/foreign-national-beaten-to-death-by-a-mob-in-south-africa?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Police say a 50-person mob in Durban killed a man amid a wave of anti-migrant marches.",
+   "published": "2026-10-22T17:35:44+00:00"
+  },
+  {
    "id": "cf247d44d60e",
    "title": "FCC Chair Brendan Carr Echoes Trump, Threatens Broadcasters Over 'Fake Polls'",
    "link": "https://reason.com/2026/10/22/fcc-chair-brendan-carr-echoes-trump-threatens-broadcasters-over-fake-polls/",
@@ -180,6 +528,18 @@
    "category_hint": null,
    "summary": "England captain Brook hits 202 in record ODI time, but Sri Lanka hit a six to win by two wickets with one ball to spare.",
    "published": "2026-10-22T17:28:55+00:00"
+  },
+  {
+   "id": "0faa9c048a2d",
+   "title": "Trump says he asked Google CEO to rename Atlantic Ocean on Maps",
+   "link": "https://www.theguardian.com/us-news/2026/oct/22/trump-atlantic-ocean-rename-google",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Tech company previously complied with president’s demand to rename Gulf of Mexico as Gulf of America Donald Trump said Google rejected his request to rename the Atlantic Ocean after himself or America. Speaking at a rally in South Carolina on Wednesday, the president said he…",
+   "published": "2026-10-22T17:27:05+00:00"
   },
   {
    "id": "d76941bb4a20",
@@ -242,18 +602,6 @@
    "published": "2026-10-22T17:22:52+00:00"
   },
   {
-   "id": "8006443cbc11",
-   "title": "Republican governor of Ohio calls on Vivek Ramaswamy to take down ‘deeply troubling’ campaign ad – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Mike DeWine, outgoing governor, says it was ‘wrong’ for campaign to have run ad featuring estranged mother of Ramaswamy’s Democratic opponent Sign up for the Breaking News US email How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer…",
-   "published": "2026-10-22T17:22:46+00:00"
-  },
-  {
    "id": "4e22dc253b98",
    "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
    "link": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
@@ -276,6 +624,18 @@
    "category_hint": null,
    "summary": "Beth Kobliner, author of “Get a Financial Life,” explains why today’s young people face a tougher financial world and reveals the three money moves she would make first.",
    "published": "2026-10-22T17:21:00+00:00"
+  },
+  {
+   "id": "82fba5d5fb87",
+   "title": "Dollar General agrees to nearly $1.9m settlement for overcharging New York customers",
+   "link": "https://www.theguardian.com/us-news/2026/oct/22/dollar-general-settlement-price-gouging",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Government inspections showed overcharges as high as 39% on some items. The discount store giant was the subject of a 2025 investigation by the Guardian Dollar General, the nation’s largest dollar-store chain, has agreed to a $1.875m deal to settle allegations that it…",
+   "published": "2026-10-22T17:19:07+00:00"
   },
   {
    "id": "02468dd81f75",
@@ -408,18 +768,6 @@
    "category_hint": null,
    "summary": "Alleged victim told her parents and others about attack and was encouraged to go to police but she feared she would not be believed A woman told her mother that Russell Brand had raped her and “didn’t stop even when she screamed out in pain”, a court has heard. The woman also…",
    "published": "2026-10-22T16:52:27+00:00"
-  },
-  {
-   "id": "0453d8a3f103",
-   "title": "CDC denies approval for high-volume measles test, citing ‘other priorities’",
-   "link": "https://www.theguardian.com/us-news/2026/oct/22/cdc-measles-test-denied",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "California, Oregon, Washington and Hawaii health officials ask CDC, ‘prioritizing emerging technologies’, to reconsider California and Washington asked the US Centers for Disease Control and Prevention (CDC) in May to validate a new way to test for measles – but after waiting…",
-   "published": "2026-10-22T16:49:21+00:00"
   },
   {
    "id": "c61a1a7d1c1c",
@@ -578,18 +926,6 @@
    "published": "2026-10-22T16:22:30+00:00"
   },
   {
-   "id": "4e52348834c0",
-   "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
-   "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
-   "published": "2026-10-22T16:16:49+00:00"
-  },
-  {
    "id": "7d53c7fea30c",
    "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – as it happened",
    "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
@@ -663,7 +999,7 @@
   },
   {
    "id": "587ced71144b",
-   "title": "Israeli attacks in Gaza kill four, including a young girl",
+   "title": "Israeli attacks kill four as famine risk looms in Gaza",
    "link": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -723,14 +1059,14 @@
   },
   {
    "id": "a114d5324147",
-   "title": "Macron bans ‘illegitimate‘ protests in France as he tries to get a grip on unrest",
+   "title": "Macron bans ‘illegitimate’ protests in France as he tries to get a grip on unrest",
    "link": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "French president will decide on concrete ‘next steps’ regarding demonstrations called for Saturday and after, as part of tough response to recent rioting Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases Emmanuel Macron has said…",
+   "summary": "French president also says he will decide on concrete ‘next steps’ for the next nationwide demonstrations Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases Emmanuel Macron has said “illegitimate” demonstrations will be banned over the…",
    "published": "2026-10-22T15:54:13+00:00"
   },
   {
@@ -888,18 +1224,6 @@
    "category_hint": null,
    "summary": "Plus: Kagan is still defending the Court from the “bum rap” that it is pro-Trump.",
    "published": "2026-10-22T15:23:47+00:00"
-  },
-  {
-   "id": "d7ed585b0b58",
-   "title": "French weekend protests to be limited to union demos only, says Macron",
-   "link": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed.",
-   "published": "2026-10-22T15:22:48+00:00"
   },
   {
    "id": "a661a735bdb1",
@@ -1452,18 +1776,6 @@
    "category_hint": null,
    "summary": "Residents in Yemen’s Taiz are facing severe food and water shortages as a Houthi blockade cuts off a key supply route.",
    "published": "2026-10-22T13:42:26+00:00"
-  },
-  {
-   "id": "91a852a1ecea",
-   "title": "UK must prepare for infrastructure attacks by hostile states, says Streeting",
-   "link": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Warning by defence secretary comes as he opens a tank gun barrel factory in the West Midlands Business live – latest updates The defence secretary, Wes Streeting, has said Britain should prepare for the threat of “state-sponsored terrorism” by hostile powers targeting everyday…",
-   "published": "2026-10-22T13:38:22+00:00"
   },
   {
    "id": "4dcfba5c0d2d",
@@ -11783,6 +12095,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
+   "category_hint": null,
    "summary": "While there are some points of division in our country about race, there are also points of commonality and intersectionality. There are experiences that unite Americans, that galvanize us and bring us hope. They are something we can all celebrate. One such experience is the…",
    "published": "2026-10-20T10:00:01+00:00"
   },
@@ -21944,12 +22257,13 @@
   },
   {
    "id": "93c9c7e7bbf9",
-   "title": "Pope’s lung cancer reminder nonsmokers can be at risk. What to know",
+   "title": "Pope’s lung cancer is a reminder nonsmokers can be at risk. What to know",
    "link": "https://www.deseret.com/lifestyle/2026/10/16/pope-lung-cancer-intermountain-health-nonsmoking-risk-factors-recovery-treatment/",
    "source": "Deseret News",
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
+   "category_hint": null,
    "summary": "Pope Leo XIV’s lung cancer diagnosis and surgery are good reminders that even those who never smoked can get lung cancer, too. Friday, Dr. John Stringham, an Intermountain Health thoracic and oncology surgeon, briefed the media on other risk factors. The American Cancer Society…",
    "published": "2026-10-16T21:30:50+00:00"
   },
