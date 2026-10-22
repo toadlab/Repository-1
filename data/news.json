@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T15:47:26.502520+00:00",
+ "generated": "2026-10-22T16:47:33.118450+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -134,15 +134,363 @@
  ],
  "items": [
   {
+   "id": "de96d20d799a",
+   "title": "RIA Edge Panel: Why a Good M&A Strategy Must Stay Focused on Organic Growth",
+   "link": "https://www.wealthmanagement.com/ria-news/ria-edge-panel-why-a-good-m-a-strategy-must-stay-focused-on-organic-growth",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "RIA leaders from EP Wealth, Snowden Lane and Bogart Wealth all stressed their firms’ focus on organic growth as part of and often above, dealmaking.",
+   "published": "2026-10-22T16:44:27+00:00"
+  },
+  {
+   "id": "e5f2961ef0d5",
+   "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+   "link": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+   "published": "2026-10-22T16:40:07+00:00"
+  },
+  {
+   "id": "deb5b545fd79",
+   "title": "Revealed: billionaire Reform donor was in business with foundation linked to Iranian regime",
+   "link": "https://www.theguardian.com/politics/2026/oct/22/reform-farage-donor-business-ties-iran-ayatollahs",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Exclusive: Sasan Ghandehari’s partnership with religious foundation raises questions about past dealings with republic criticised by Nigel Farage Nigel Farage’s newest billionaire donor was in business with a powerful Iranian religious foundation under the authority of the…",
+   "published": "2026-10-22T16:39:49+00:00"
+  },
+  {
+   "id": "23123d4dd14f",
+   "title": "How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "With ICE arrests and detentions at their highest levels, immigration remains a key issue for voters less than two weeks before election day. From mass raids to quiet crackdown: a timeline of Trump’s strategic ICE pivot Richard Wolfe, Maine asks in a callout question: Why can’t…",
+   "published": "2026-10-22T16:37:32+00:00"
+  },
+  {
+   "id": "906cc11dc9d7",
+   "title": "Albanian lawmakers scuffle in parliament as street protests continue",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Albanian lawmakers have scuffled in parliament, throwing objects at one another and ripping microphones from desks.",
+   "published": "2026-10-22T16:35:12+00:00"
+  },
+  {
+   "id": "2f2c89e5760b",
+   "title": "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
+   "link": "https://www.marketwatch.com/story/ai-is-on-trial-bond-yields-sink-below-5-as-investors-look-for-safety-dbc86ee9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Investors are flooding back into Treasurys for safety to hedge the risks of more AI fallout in stock and credit markets.",
+   "published": "2026-10-22T16:35:00+00:00"
+  },
+  {
+   "id": "5219cae68209",
+   "title": "FIFA announces USA to host first Women’s Club World Cup in 2028",
+   "link": "https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "FIFA to stage inaugural Women's Club World Cup, with 16 of football's top teams, in United States in 2028.",
+   "published": "2026-10-22T16:34:38+00:00"
+  },
+  {
+   "id": "14b068992fe7",
+   "title": "Downing Street rejects Witkoff’s description of Putin as a ‘humanitarian’",
+   "link": "https://www.theguardian.com/world/2026/oct/22/downing-street-us-envoy-witkoff-putin-humanitarian",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "No 10 says Russian president ‘has killed thousands of people, both innocent Ukrainians and his own people’ Downing Street has rejected the description of Vladimir Putin as a “humanitarian” made by Donald Trump’s chief negotiator on the Ukraine war. Steve Witkoff met the Russian…",
+   "published": "2026-10-22T16:33:28+00:00"
+  },
+  {
+   "id": "be9481d2600e",
+   "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+   "published": "2026-10-22T16:30:52+00:00"
+  },
+  {
+   "id": "8006443cbc11",
+   "title": "Republican governor of Ohio calls on Vivek Ramaswamy to take down ‘deeply troubling’ campaign ad – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Mike DeWine, outgoing governor, says it was ‘wrong’ for campaign to have run ad featuring estranged mother of Ramaswamy’s Democratic opponent Sign up for the Breaking News US email How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer…",
+   "published": "2026-10-22T16:26:08+00:00"
+  },
+  {
+   "id": "9e50a08db637",
+   "title": "Opinion: Amendment B will protect Utah taxpayers, vote yes",
+   "link": "https://www.deseret.com/opinion/2026/10/22/amendment-b-protects-utah-taxpayers/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Without a competitive congressional or statewide race taking place in the state, much of the energy and attention in Utah political circles has focused in on Amendment B on this year’s ballot. Rightfully so. This is an important amendment to consider. What the amendment…",
+   "published": "2026-10-22T16:23:36+00:00"
+  },
+  {
+   "id": "17f11e97d9cc",
+   "title": "Investment Roundup: ACORE Capital Adds Wealth Division",
+   "link": "https://www.wealthmanagement.com/real-estate/investment-roundup-acore-capital-adds-wealth-division",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "In other developments, Morningstar and Bountiful team up on faith-based investments and and CAIA adds an evergreen fund credential.",
+   "published": "2026-10-22T16:22:30+00:00"
+  },
+  {
+   "id": "4e52348834c0",
+   "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
+   "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+   "published": "2026-10-22T16:16:49+00:00"
+  },
+  {
+   "id": "7d53c7fea30c",
+   "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has said Tell us: have you been affected by the PHP code flaw? The Office for National Statistics has also published a report on the gender pay gap . It says:…",
+   "published": "2026-10-22T16:16:40+00:00"
+  },
+  {
+   "id": "8af10dc0e103",
+   "title": "Crowd of 50 beats foreigner to death in South Africa",
+   "link": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
+   "published": "2026-10-22T16:15:25+00:00"
+  },
+  {
+   "id": "4cb2c8700069",
+   "title": "Estate Planning Valuations in a High-Rate Environment",
+   "link": "https://www.wealthmanagement.com/estate-planning/estate-planning-valuations-in-a-high-rate-environment",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Softer demand may create a potential window for more tax-efficient wealth transfers.",
+   "published": "2026-10-22T16:14:38+00:00"
+  },
+  {
+   "id": "6b521027a82a",
+   "title": "Trump disinvited international election observers. Here’s what that could mean.",
+   "link": "https://www.csmonitor.com/USA/Politics/2026/1022/us-election-security-international-observers?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "President Trump’s decision not to invite international election observers for the midterms could send a troubling message in the U.S. and abroad, experts say.",
+   "published": "2026-10-22T16:11:24+00:00"
+  },
+  {
+   "id": "e0efd8627b18",
+   "title": "South Africa crush Australia by an innings to level cricket Test series",
+   "link": "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "South Africa storm back to crush Australia by an innings in the second Test and level the series 1-1 with one to play.",
+   "published": "2026-10-22T16:09:44+00:00"
+  },
+  {
+   "id": "a5db1e1e482f",
+   "title": "Burnham to become first PM to appear on Gogglebox in episode filmed at No 10",
+   "link": "https://www.theguardian.com/politics/2026/oct/22/andy-burnham-gogglebox-charity-episode",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The PM is heard having a long discussion about crisps in the trailer to the show, which is in aid of Stand Up To Cancer From ranking his favourite crisps in the pub to complaining about people watching TikToks out loud on the train, Andy Burnham has made efforts to show he has…",
+   "published": "2026-10-22T16:07:50+00:00"
+  },
+  {
+   "id": "587ced71144b",
+   "title": "Israeli attacks in Gaza kill four, including a young girl",
+   "link": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Four Palestinians killed as Israeli military expands control across Gaza, displacing millions and destroying homes.",
+   "published": "2026-10-22T16:06:55+00:00"
+  },
+  {
+   "id": "16cd87e46c1f",
+   "title": "Pope Leo doesn’t need further cancer treatment, Vatican announces",
+   "link": "https://www.deseret.com/faith/2026/10/22/pope-leo-cancer-needs-no-further-treatment/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Pope Leo XIV will not require further cancer treatment after a successful surgery to remove part of his right lung, the Vatican announced Wednesday. The pope underwent surgery on Oct. 13 to address a localized nodule that later tested positive for pulmonary adenocarcinoma, a…",
+   "published": "2026-10-22T16:06:13+00:00"
+  },
+  {
+   "id": "667ad3309578",
+   "title": "Italy and Spain lift border controls after months of tension over Ceuta",
+   "link": "https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "More than 70,000 people entered Ceuta irregularly from Morocco, triggering border security concerns in the EU bloc.",
+   "published": "2026-10-22T16:04:21+00:00"
+  },
+  {
+   "id": "0f6948a4e089",
+   "title": "Trickeration tryout: Why WR Kyler Kasper was tabbed to toss the pass to Bear Bachmeier against Notre Dame",
+   "link": "https://www.deseret.com/sports/2026/10/22/kyler-kasper-byu-football-gadget-play-trick-bear-bachmeier-thrower-catcher-roderick/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "When 6-foot-6 BYU receiver Kyler Kasper told his teammates and coaches he could throw a pretty good long pass a few weeks ago, they didn’t really believe him. But all it took was one toss by the Oregon transfer to convince gadget-play designer and offensive coordinator Aaron…",
+   "published": "2026-10-22T16:00:00+00:00"
+  },
+  {
+   "id": "8487bcceecf1",
+   "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+   "link": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+   "published": "2026-10-22T15:56:36+00:00"
+  },
+  {
+   "id": "a114d5324147",
+   "title": "Macron bans ‘illegitimate‘ protests in France as he tries to get a grip on unrest",
+   "link": "https://www.theguardian.com/world/2026/oct/22/macron-ban-illegitimate-demonstrations-france-unrest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "French president will decide on concrete ‘next steps’ regarding demonstrations called for Saturday and after, as part of tough response to recent rioting Angry lawyers and bewildered defendants: the fallout from fast-tracking French rioting cases Emmanuel Macron has said…",
+   "published": "2026-10-22T15:54:13+00:00"
+  },
+  {
+   "id": "c809d98d777d",
+   "title": "The Dynamics of Abundance",
+   "link": "https://thedispatch.com/newsletter/dispatch-markets/billionaires-europe-united-states-inheritance-entrepreneurs/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Why America makes new fortunes and Europe preserves old ones.",
+   "published": "2026-10-22T15:50:14+00:00"
+  },
+  {
+   "id": "5e76ea468337",
+   "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
+   "link": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Experts say Russia is trying to destroy energy infrastructure before winter and US ‘appeasement and flattery’ will not achieve peace Europe live – latest updates Russia has carried out a massive “demonstrative” attack on Ukraine, bombarding Kyiv with ballistic missiles just…",
+   "published": "2026-10-22T15:46:56+00:00"
+  },
+  {
+   "id": "036e9e400d41",
+   "title": "Pete Hegseth reportedly authorizes DHS to test ‘heat ray’ at US-Mexico border",
+   "link": "https://www.theguardian.com/us-news/2026/oct/22/heat-ray-mexico-border-dhs",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Pentagon’s Active Denial System shoots energy beam that causes ‘sensation of intense heat on surface of skin’ Pete Hegseth , the US secretary of defense, reportedly signed a memo last month permitting the Department of Homeland Security (DHS) to test a non-lethal “heat ray”…",
+   "published": "2026-10-22T15:40:41+00:00"
+  },
+  {
+   "id": "19a57bfbd269",
+   "title": "RFK Jr. Wants To Cut Red Tape in Kidney Care. He Should Go Further.",
+   "link": "https://reason.com/2026/10/22/rfk-jr-wants-to-cut-red-tape-in-kidney-care-he-should-go-further/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "HHS recognizes that government regulations have stifled competition. Its plan does little to reduce the government's grip on the market.",
+   "published": "2026-10-22T15:40:22+00:00"
+  },
+  {
    "id": "771f8b81cd83",
-   "title": "Meta strikes deal with Zuckerberg to help him foot billionaire tax bill",
+   "title": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
    "link": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Chief executive agrees to remain in California for eight years even if the state brings in a one-off wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires. The social media company behind Facebook,…",
+   "summary": "Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth tax Meta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires. The social media company behind Facebook, Instagram…",
    "published": "2026-10-22T15:40:03+00:00"
   },
   {
@@ -158,16 +506,16 @@
    "published": "2026-10-22T15:37:10+00:00"
   },
   {
-   "id": "8006443cbc11",
-   "title": "Republican governor of Ohio calls on Vivek Ramaswamy to take down ‘deeply troubling’ campaign ad – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "1733c83c93f8",
+   "title": "Real Madrid’s complaint over La Liga chief’s Nazi slant sent to tribunal",
+   "link": "https://www.aljazeera.com/sports/2026/10/22/real-madrids-complaint-over-la-liga-chiefs-nazi-slant-sent-to-tribunal?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Mike DeWine, outgoing governor, says it was ‘wrong’ for campaign to have run ad featuring estranged mother of Ramaswamy’s Democratic opponent Sign up for the Breaking News US email How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer…",
-   "published": "2026-10-22T15:35:19+00:00"
+   "summary": "La Liga ⁠chief ⁠Javier Tebas compared Real Madrid's communication to Nazi propaganda and now faces a tribunal in Spain.",
+   "published": "2026-10-22T15:35:07+00:00"
   },
   {
    "id": "6096203d9cf4",
@@ -254,18 +602,6 @@
    "published": "2026-10-22T15:22:48+00:00"
   },
   {
-   "id": "a5db1e1e482f",
-   "title": "Burnham to become first PM to appear on Gogglebox in episode filmed at No 10",
-   "link": "https://www.theguardian.com/politics/2026/oct/22/andy-burnham-gogglebox-charity-episode",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The PM is heard having a long discussion about crisps in the trailer to the show, which is in aid of Stand Up To Cancer From ranking his favourite crisps in the pub to complaining about people watching TikToks out loud on the train, Andy Burnham has made efforts to show he has…",
-   "published": "2026-10-22T15:18:57+00:00"
-  },
-  {
    "id": "a661a735bdb1",
    "title": "‘Looksmaxxing’ influencer Clavicular pleads not guilty to raping teen",
    "link": "https://www.theguardian.com/us-news/2026/oct/22/clavicular-pleads-not-guilty-rape",
@@ -274,7 +610,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "The social media personality denies allegations he gave a girl alcohol until she was drunk and sexually assaulted her The “looksmaxxing” livestreamer Braden Peters, better known by his stage name Clavicular , pleaded not guilty Thursday to charges that he raped a 17-year-old…",
+   "summary": "The social media personality denies allegations he gave a girl alcohol until she was drunk and sexually assaulted her The “looksmaxxing” livestreamer Braden Peters, better known by his stage name Clavicular , pleaded not guilty on Thursday to charges that he raped a 17-year-old…",
    "published": "2026-10-22T15:17:49+00:00"
   },
   {
@@ -288,18 +624,6 @@
    "category_hint": null,
    "summary": "Federal authorities allege state senator L Louise Lucas, a vocal Trump critic, led a ‘criminal marijuana enterprise’ Virginia state senator L Louise Lucas, one of the state’s most powerful Democrats, was charged on Thursday in connection with what federal authorities alleged…",
    "published": "2026-10-22T15:15:58+00:00"
-  },
-  {
-   "id": "7d53c7fea30c",
-   "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has said Tell us: have you been affected by the PHP code flaw? The Office for National Statistics has also published a report on the gender pay gap . It says:…",
-   "published": "2026-10-22T15:14:35+00:00"
   },
   {
    "id": "8d5d3214905a",
@@ -442,7 +766,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "On trade, investment and innovation, leaders will work toward conclusion of a Canada-Turkiye Free Trade Agreement.",
+   "summary": "On trade, investment and innovation, leaders will work towards conclusion of a Canada-Turkiye Free Trade Agreement.",
    "published": "2026-10-22T15:00:37+00:00"
   },
   {
@@ -902,18 +1226,6 @@
    "published": "2026-10-22T13:30:04+00:00"
   },
   {
-   "id": "23123d4dd14f",
-   "title": "How will Trump’s mass deportation agenda shape the US midterm elections? Our reporters answer your questions",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/immigration-ice-mass-deportation-trump-midterm-elections",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "With ICE arrests and detentions at their highest levels, immigration remains a key issue for voters less than two weeks before election day. Sign in or sign up to join the conversation From mass raids to quiet crackdown: a timeline of Trump’s strategic ICE pivot It’s our last…",
-   "published": "2026-10-22T13:29:33+00:00"
-  },
-  {
    "id": "4febfa9c0ba5",
    "title": "Two European women held captive for more than a year in Niger freed in Libya",
    "link": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
@@ -1366,7 +1678,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Iran’s IRGC says it hit four vessels in the northern Gulf and three more struck mines near the strait of Hormuz Shipping workers: how is the Middle East conflict affecting you? Business live – latest updates Oil prices jumped to a five-month high on Thursday after ​attacks in…",
+   "summary": "Iran’s IRGC says it hit four vessels in the northern Gulf and three more struck mines near the strait of Hormuz Shipping workers: how is the Middle East conflict affecting you? Oil prices jumped to a five-month high on Thursday after ​attacks in Saudi Arabia and hits to tankers…",
    "published": "2026-10-22T11:28:11+00:00"
   },
   {
@@ -1620,18 +1932,6 @@
    "category_hint": null,
    "summary": "Bukangi the shark became an unlikely sensation after it was spotted in a canal in Busan weeks ago.",
    "published": "2026-10-22T10:16:35+00:00"
-  },
-  {
-   "id": "5e76ea468337",
-   "title": "Russia bombards Kyiv with missiles hours after agreeing to resume talks with Ukraine",
-   "link": "https://www.theguardian.com/world/2026/oct/22/russia-missile-attack-kyiv-hours-after-agreeing-to-talks-ukraine",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Experts say Russia is trying to destroy energy infrastructure before winter and US ‘appeasement and flattery’ will not achieve peace Europe live – latest updates Russia has carried out a massive “demonstrative” attack on Ukraine, bombarding Kyiv with ballistic missiles just…",
-   "published": "2026-10-22T10:14:23+00:00"
   },
   {
    "id": "8557d17216ca",
