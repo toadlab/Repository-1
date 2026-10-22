@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T23:43:19.526368+00:00",
+ "generated": "2026-10-22T00:57:01.446178+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -134,6 +134,150 @@
  ],
  "items": [
   {
+   "id": "ae1058f1d92c",
+   "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
+   "link": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Facing a potentially giant tax bill that could threaten his voting power, Zuckerberg was days away from listing his Palo Alto home when Meta agreed to create a new class of stock.",
+   "published": "2026-10-22T00:48:00+00:00"
+  },
+  {
+   "id": "0ae74849b12d",
+   "title": "Trump praises supporter for allegedly punching protester during rally for Darline Graham in South Carolina – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "‘That was great, man. Wow. Man, I loved that,’ the president says from podium as multiple protesters interrupt his remarks Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The Israeli military has detained…",
+   "published": "2026-10-22T00:34:52+00:00"
+  },
+  {
+   "id": "286892780cea",
+   "title": "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+   "link": "https://www.theguardian.com/world/2026/oct/22/us-diplomats-told-to-leave-saudi-arabia-amid-houthi-attacks",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Reports emerge of similar withdrawals in UAE, Jordan, Qatar and Bahrain amid concerns about a return to conflict with Iran after US midterm elections The US state department has ordered some diplomats and the families of US government employees to leave Saudi Arabia, as the…",
+   "published": "2026-10-22T00:26:50+00:00"
+  },
+  {
+   "id": "04efaaa6c1e0",
+   "title": "One killed, eight injured in attack on Saudi Arabia’s King Fahd airport",
+   "link": "https://www.aljazeera.com/news/2026/10/22/one-killed-eight-injured-in-attack-on-saudi-arabias-king-fahd-airport-2?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Injured immediately transported to hospitals as aviation authority says updates will be forthcoming.",
+   "published": "2026-10-22T00:25:41+00:00"
+  },
+  {
+   "id": "b0a6f5fee4d8",
+   "title": "Citing 'challenges,' AIPAC halts endorsements and direct contributions to candidates",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6011531/aipac-campaign-contributions-israel-democrats",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The pro-Israel lobbying group and influential political donor announced it would no longer endorse candidates or give directly to campaigns, instead mobilizing its members to give individually.",
+   "published": "2026-10-22T00:22:48+00:00"
+  },
+  {
+   "id": "a0fe527cea7c",
+   "title": "The Justice Department begins notifying counties where it wants to monitor elections",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The department has long deployed election monitors, but the Trump administration's unprecedented steps to try to wrestle control over elections have led to new concerns about DOJ monitoring this year.",
+   "published": "2026-10-22T00:18:47+00:00"
+  },
+  {
+   "id": "897d5ba131d8",
+   "title": "World leaders warn of security flaws found in PHP programming language",
+   "link": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "AI was used to pinpoint two vulnerabilities in the PHP language, used by about 70 percent of websites.",
+   "published": "2026-10-22T00:10:27+00:00"
+  },
+  {
+   "id": "6f2bb2e75b6b",
+   "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Iran's IRGC threatens to invade any country that attacks it under a new 'offensive and asymmetrical' doctrine.",
+   "published": "2026-10-22T00:00:00+00:00"
+  },
+  {
+   "id": "02aaa81a383a",
+   "title": "2026 Parry’s Power Guide: Predicting Week 1 of the high school football playoffs",
+   "link": "https://www.deseret.com/sports/2026/10/21/high-school-football-parrys-power-guide-playoffs-week-1/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Class 3A Favored Team Rating Diff. Rating Underdog Edward’s Edge CANYON VIEW 61.1 3.0 58.1 Manti Canyon View Cedar City 68.8 17.4 51.4 NORTH SANPETE Cedar GRANTSVILLE 61.2 56.0 5.2 Ben Lomond Grantsville OGDEN 56.4 21.6 34.8 Union Ogden RICHFIELD 73.6 52.4 21.2 Carbon Richfield…",
+   "published": "2026-10-21T23:57:20+00:00"
+  },
+  {
+   "id": "4cb682029f57",
+   "title": "US accuses Canada of election interference ahead of midterms",
+   "link": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference.",
+   "published": "2026-10-21T23:52:21+00:00"
+  },
+  {
+   "id": "35ac6cf2c6d1",
+   "title": "The real reasons US politicians are getting older",
+   "link": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+   "published": "2026-10-21T23:52:12+00:00"
+  },
+  {
+   "id": "2b218285c78e",
+   "title": "What happened during Witkoff and Kushner’s latest meeting with Putin",
+   "link": "https://www.aljazeera.com/news/2026/10/21/what-happened-during-witkoff-and-kushners-latest-meeting-with-putin?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The latest round of negotiations comes amid growing concerns in Kyiv the US is backing away from its support of Ukraine.",
+   "published": "2026-10-21T23:52:00+00:00"
+  },
+  {
    "id": "d9088c8070df",
    "title": "Officials confirm flesh-eating New World screwworm parasite found in US wildlife",
    "link": "https://www.theguardian.com/us-news/2026/oct/21/new-world-screwworm-texas",
@@ -242,6 +386,18 @@
    "published": "2026-10-21T23:07:00+00:00"
   },
   {
+   "id": "e28037d5cfc2",
+   "title": "Trump's green card curbs test Indian tech workers' American dream",
+   "link": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+   "published": "2026-10-21T23:06:37+00:00"
+  },
+  {
    "id": "cdbb7c710f75",
    "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
    "link": "https://www.theguardian.com/world/2026/oct/21/macron-trump-foreign-leaders-stupid-comments-france-unrest",
@@ -255,7 +411,7 @@
   },
   {
    "id": "f14760526edf",
-   "title": "Australian politicians say they are paying thousands for their own security upgrades amid rising threats",
+   "title": "Labor, Coalition and crossbench MPs afraid at home and work after alleged attack on Helen Haines",
    "link": "https://www.theguardian.com/australia-news/2026/oct/22/politicians-say-they-are-paying-thousands-for-own-security-upgrades-amid-rising-threats-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -314,16 +470,16 @@
    "published": "2026-10-21T23:01:03+00:00"
   },
   {
-   "id": "0ae74849b12d",
-   "title": "JD Vance says he is ‘a little bit disgusted’ by Republicans who criticized Ramaswamy campaign ad – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/21/donald-trump-south-carolina-data-centers-midterms-ukraine-witkoff-russia-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "246c973740cc",
+   "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+   "link": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Vice-president says GOP representatives should ‘stop whining’ about advertisement featuring estranged mother of Ramaswamy’s Democrat opponent Sign up for Breaking News US email Send us your questions about immigration and the midterms Reporting from Jerusalem The Israeli…",
-   "published": "2026-10-21T22:53:08+00:00"
+   "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood.",
+   "published": "2026-10-21T22:59:18+00:00"
   },
   {
    "id": "16abcdbf19fb",
