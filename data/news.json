@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T23:42:14.004501+00:00",
+ "generated": "2026-10-23T01:00:58.356091+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 39
+   "count": 37
   },
   {
    "name": "The Guardian World",
@@ -134,6 +134,126 @@
  ],
  "items": [
   {
+   "id": "ac853f5f9dd5",
+   "title": "Department of Justice opens criminal investigation into Corey Lewandowski",
+   "link": "https://www.theguardian.com/us-news/2026/oct/22/corey-lewandowski-trump-criminal-investigation",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Ex-Trump adviser and former top aide for homeland security alleged to have profited off government role Corey Lewandowski, a former political adviser to Donald Trump and ⁠top aide at the Department ⁠of Homeland Security, ​is under criminal investigation over allegations he…",
+   "published": "2026-10-23T00:55:02+00:00"
+  },
+  {
+   "id": "8006443cbc11",
+   "title": "Trump defends Ohio Democrat’s estranged mother after Ramaswamy’s widely criticized campaign ad – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Trump defends Amy Acton’s estranged mother, who stayed with her husband charged with raping her daughter, and touts Vivek Ramaswamy’s ‘well coordinated’ attack ad Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply…",
+   "published": "2026-10-23T00:52:11+00:00"
+  },
+  {
+   "id": "a3a85aa7fa5a",
+   "title": "Tibet rocked by 7.0-magnitude earthquake",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/tibet-rocked-by-7-0-magnitude-earthquake?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Tibet rocked by 7.0-magnitude earthquake",
+   "published": "2026-10-23T00:33:16+00:00"
+  },
+  {
+   "id": "8a38805ece8d",
+   "title": "Massive student-led rally marches in Belgrade ahead of Serbian election",
+   "link": "https://www.theguardian.com/world/2026/oct/23/serbia-election-student-list-rally-belgrade-aleksandar-vucic",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Student List movement hopes to oust the party of veteran leader Aleksandar Vucic in a pivotal vote on Sunday Explained: what’s at stake in Serbia’s election? The key players, main issues and potential fallout About 150,000 supporters of Serbia’s opposition student movement…",
+   "published": "2026-10-23T00:22:56+00:00"
+  },
+  {
+   "id": "be9481d2600e",
+   "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+   "published": "2026-10-23T00:10:46+00:00"
+  },
+  {
+   "id": "465972919286",
+   "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Trump indicates new strikes on Iran, saying the US has knocked the 'hell out' of the country.",
+   "published": "2026-10-23T00:00:00+00:00"
+  },
+  {
+   "id": "5b870876e356",
+   "title": "Australia offers astronaut Katherine Bennell-Pegg for space mission to International Space Station",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/23/australian-astronaut-katherine-bennell-pegg-2028-space-mission",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Australian of the Year would become the first astronaut in space to qualify under the Australian flag if she embarks on the 2028 mission Get our breaking news email , free app or daily news podcast The federal government has sent an offer to the European Space Agency (ESA) to…",
+   "published": "2026-10-22T23:51:24+00:00"
+  },
+  {
+   "id": "9e090bd54744",
+   "title": "UK Conservative Party leader responds to Al Jazeera investigation",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/uk-conservative-party-leader-responds-to-al-jazeera-investigation?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "UK Conservative Party MP says the party does not condone former member's conduct, revealed in Al Jazeera investigation.",
+   "published": "2026-10-22T23:34:46+00:00"
+  },
+  {
+   "id": "212482c882de",
+   "title": "Almost all shallow-water coral reefs now face extinction risk, study warns",
+   "link": "https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "World authority on threatened wildlife classifies 96 percent of assessed coral reef systems as \"critically endangered\".",
+   "published": "2026-10-22T23:32:13+00:00"
+  },
+  {
+   "id": "cbb52ea7b677",
+   "title": "Rebel Wilson secures another Australian court win as co-producers of The Deb awarded just $10",
+   "link": "https://www.theguardian.com/film/2026/oct/23/rebel-wilson-australian-court-win-co-producers-the-deb-film-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "NSW supreme court judge otherwise dismisses case brought by film’s co-producers and awards Wilson almost $400,000 after star countersued Australian A-lister Rebel Wilson has secured a major court victory after co-producers of her debut film accused her of sabotage, lying and…",
+   "published": "2026-10-22T23:31:22+00:00"
+  },
+  {
    "id": "bc35bf371d86",
    "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
    "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
@@ -178,7 +298,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Violent storms overnight knocked over utility poles and trees and carried thunder and heavy winds through state Yet more severe weather struck Thursday in the US south-west as the Four Corners region surveyed blown-away roofs, trees knocked onto homes and power lines downed…",
+   "summary": "Violent storms overnight knocked over utility poles and trees and carried thunder and heavy winds through state Yet more severe weather struck Thursday in the US south-west as the Four Corners region surveyed blown-away roofs, trees knocked on to homes and power lines downed…",
    "published": "2026-10-22T23:15:40+00:00"
   },
   {
@@ -192,18 +312,6 @@
    "category_hint": null,
    "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
    "published": "2026-10-22T23:15:00+00:00"
-  },
-  {
-   "id": "8006443cbc11",
-   "title": "Trump defends Ohio Democrat’s estranged mother after Ramaswamy’s widely criticized campaign ad – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Trump defends Amy Acton’s estranged mother, who stayed with her husband charged with raping her daughter, and touts Vivek Ramaswamy’s ‘well coordinated’ attack ad Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply…",
-   "published": "2026-10-22T23:07:27+00:00"
   },
   {
    "id": "3ad1032e42a0",
@@ -1824,18 +1932,6 @@
    "category_hint": null,
    "summary": "25-01602.pdf Anonymous (not verified) Thu, 10/22/2026 - 13:15 Case ID 25-01602 Forum FINRA Document Type Award Claimants Wayne Robin Respondents Newedge Securities, LLC Neutrals Lynne M. Gomez Robert Sullivan Tyler Sheryl Norman Hearing Site Houston, TX Award Document…",
    "published": "2026-10-22T17:15:01+00:00"
-  },
-  {
-   "id": "be9481d2600e",
-   "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-   "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
-   "published": "2026-10-22T17:14:04+00:00"
   },
   {
    "id": "b853ddd115d8",
