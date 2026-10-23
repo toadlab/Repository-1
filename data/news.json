@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T20:46:43.279221+00:00",
+ "generated": "2026-10-23T21:44:40.726885+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 30
+   "count": 21
   },
   {
    "name": "The Guardian World",
@@ -134,6 +134,246 @@
  ],
  "items": [
   {
+   "id": "08b1f084a5d3",
+   "title": "How Brazil’s ‘labor revolution’ pushed an aspiring middle class to the political right",
+   "link": "https://www.csmonitor.com/World/Americas/2026/1023/brazil-lula-bolsonaro-working-class?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Luiz Inácio Lula da Silva built his political movement on workers’ rights and social mobility. Ahead of the presidential runoff, that might not be enough anymore.",
+   "published": "2026-10-23T21:40:05+00:00"
+  },
+  {
+   "id": "7fc7e5d29841",
+   "title": "Trump Wants To Force Data Centers To 'Make Their Own Electricity.' Deregulation Would Work Better.",
+   "link": "https://reason.com/2026/10/23/trump-wants-to-force-data-centers-to-make-their-own-electricity-deregulation-would-work-better/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The president joins a long list of politicians who think the government knows best when it comes to data centers.",
+   "published": "2026-10-23T21:30:03+00:00"
+  },
+  {
+   "id": "e4a6ee6e7618",
+   "title": "Latest Latter-day Saint handbook update adds guidance for weekly Sunday meetings",
+   "link": "https://www.deseret.com/faith/2026/10/23/latest-lds-general-handbook-updates-october-2026/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "New guidance for Latter-day Saints on implementing the faith’s new Sunday schedule and improving gospel learning at home and at church were among the latest updates to the General Handbook of The Church of Jesus Christ of Latter-day Saints. Other changes included adding…",
+   "published": "2026-10-23T21:27:16+00:00"
+  },
+  {
+   "id": "9e730396b729",
+   "title": "‘It’s hard for me to sleep at night’: Keyonte George on Jazz home opener",
+   "link": "https://www.deseret.com/sports/2026/10/23/its-hard-for-me-to-sleep-at-night-keyonte-george-on-jazz-home-opener/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Pretty much all of the Jazz players had left the court after the shootaround buzzer sounded Friday morning. Keyonte George wasn’t quite ready to go. With star rookie Darryn Peterson beside him and a couple of trainers, George stayed on the court putting up extra shots ahead of…",
+   "published": "2026-10-23T21:16:40+00:00"
+  },
+  {
+   "id": "e88b48cb20e3",
+   "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
+   "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
+   "published": "2026-10-23T21:13:00+00:00"
+  },
+  {
+   "id": "193d5b0d7f30",
+   "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
+   "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&T and T-Mobile.",
+   "published": "2026-10-23T21:11:00+00:00"
+  },
+  {
+   "id": "75ac375742d7",
+   "title": "Pending U.S. home sales hit a new low",
+   "link": "https://www.deseret.com/u-s-world/2026/10/23/number-of-us-homes-under-contract-at-a-record-low-pending-home-sales-also-down-in-utah/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Pending home sales in the U.S. just fell to the lowest level on record. For the four weeks ending Oct. 18, there were 281,749 homes for sale nationwide where an offer had been accepted, a 1.9% dip from the previous week and down 14.4% from the same period a year ago, according…",
+   "published": "2026-10-23T21:08:36+00:00"
+  },
+  {
+   "id": "1dadde584896",
+   "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
+   "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The first Phase 3 data for a cancer vaccine has raised questions about whether the potential new treatment is needed.",
+   "published": "2026-10-23T21:06:00+00:00"
+  },
+  {
+   "id": "095b52220f57",
+   "title": "The U.K.'s Online Safety Act Has Been a Failure. Regulators Want To Broaden It Anyway.",
+   "link": "https://reason.com/2026/10/23/the-u-k-s-online-safety-act-has-been-a-failure-regulators-want-to-broaden-it-anyway/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A new report reveals more shortcomings of the U.K.’s Online Safety Act.",
+   "published": "2026-10-23T21:05:55+00:00"
+  },
+  {
+   "id": "d481eb1948d4",
+   "title": "BYU’s Cosmo gets his own bobblehead after win over Notre Dame",
+   "link": "https://www.deseret.com/sports/2026/10/23/byu-mascot-cosmo-the-cougar-gets-new-bobblehead/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "BYU fans can now bring Cosmo the Cougar home — in the form of a new bobblehead. The National Bobblehead Hall of Fame and Museum unveiled its limited edition BYU Cougars Cosmo the Cougar Cosmobile Bobblehead on Friday in celebration of BYU’s 28-24 win over Notre Dame and the…",
+   "published": "2026-10-23T21:00:50+00:00"
+  },
+  {
+   "id": "8ce09548c28f",
+   "title": "Argentina drops investigation into President Milei over crypto fraud",
+   "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it.",
+   "published": "2026-10-23T20:59:39+00:00"
+  },
+  {
+   "id": "7d133e8d5a34",
+   "title": "‘Generation Right’: Israeli youth show strong support for the right",
+   "link": "https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.",
+   "published": "2026-10-23T20:52:32+00:00"
+  },
+  {
+   "id": "a5b1976381f2",
+   "title": "How Helping Someone Buy Drugs Can Send You to Prison for 20 Years",
+   "link": "https://reason.com/2026/10/23/how-helping-someone-buy-drugs-can-send-you-to-prison-for-20-years/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "State and federal prosecutors responded to fentanyl overdoses by treating accidents as homicides.",
+   "published": "2026-10-23T20:50:01+00:00"
+  },
+  {
+   "id": "a1e825d710f2",
+   "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
+   "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "As she faces a tough midterm race, the five-term GOP senator is touting her successful lobbying effort against certain tariffs on Canada",
+   "published": "2026-10-23T20:50:00+00:00"
+  },
+  {
+   "id": "a580c2639aed",
+   "title": "Trump repeats false claim that other Dan Sullivan on Alaska ballot is ‘cheating’ during Florida rally - live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Dan S Sullivan, the incumbent, will face Dan J Sullivan, a retired schoolteacher who is also a registered Republican. On stage, Trump claimed again that this is a move orchestrated to boost Democrat Mary Peltola Sign up for the Breaking News US email With less than two weeks…",
+   "published": "2026-10-23T20:46:02+00:00"
+  },
+  {
+   "id": "146bcd971e2e",
+   "title": "FCC Democrat warns broadcasters to resist Trump’s media pressure tactics",
+   "link": "https://www.aljazeera.com/economy/2026/10/23/fcc-democrat-warns-broadcasters-to-resist-trumps-media-pressure-tactics?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Democrat Anna Gomez warns broadcasters against yielding to the Trump-era FCC's claims of fake polls and news distortions.",
+   "published": "2026-10-23T20:44:14+00:00"
+  },
+  {
+   "id": "889a68295e98",
+   "title": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says",
+   "link": "https://www.aljazeera.com/news/2026/10/23/time-running-out-to-reach-yemens-taiz-amid-deepening-crisis-un-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "More than 800,000 people have been cut off from aid since the Houthis encircled Taiz city in early October.",
+   "published": "2026-10-23T20:44:02+00:00"
+  },
+  {
+   "id": "75f28b8f0461",
+   "title": "Why is the UK at the forefront of AI-driven job cuts?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/10/23/why-is-the-uk-at-the-forefront-of-ai-driven-job-cuts?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "AI-linked job losses in the UK are running at twice the rate of US and Germany.",
+   "published": "2026-10-23T20:43:47+00:00"
+  },
+  {
+   "id": "073199cb12f4",
+   "title": "Why Would Trump Make A Deal With A Judge Who Ruled Illegal Aliens Have A Right To \"Locomotion\" In The United States?",
+   "link": "https://reason.com/volokh/2026/10/23/why-would-trump-make-a-deal-with-a-judge-who-ruled-illegal-aliens-have-a-right-to-locomotion-in-the-united-states/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "And does Todd Butler agree with Judge Southwick that denying a bond hearing to illegal aliens is an affront to freedom “at its most basic”?",
+   "published": "2026-10-23T20:42:22+00:00"
+  },
+  {
+   "id": "46bf7963872f",
+   "title": "Why is Trump questioning Ilhan Omar’s name?",
+   "link": "https://www.aljazeera.com/news/2026/10/23/why-is-trump-questioning-ilhan-omars-name?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A Justice Department filing listed a different name for her, prompting Trump to call for her resignation.",
+   "published": "2026-10-23T20:37:19+00:00"
+  },
+  {
    "id": "a64d51764e73",
    "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
    "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
@@ -142,7 +382,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of its tariffs on Canada on Friday to “better serve the public interest” the White House said, handing a win to Susan Collins, the embattled…",
+   "summary": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of the US’s tariffs on Canada on Friday to “better serve the public interest” the White House said, handing a win to Susan Collins, the…",
    "published": "2026-10-23T20:36:12+00:00"
   },
   {
@@ -228,18 +468,6 @@
    "category_hint": null,
    "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
    "published": "2026-10-23T20:18:13+00:00"
-  },
-  {
-   "id": "a580c2639aed",
-   "title": "Trump repeats false claim that other Dan Sullivan on Alaska ballot is ‘cheating’ during Florida rally - live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Dan S Sullivan, the incumbent, will face Dan J Sullivan, a retired schoolteacher who is also a registered Republican. On stage, Trump claimed again that this is a move orchestrated to boost Democrat Mary Peltola Sign up for the Breaking News US email With less than two weeks…",
-   "published": "2026-10-23T20:17:18+00:00"
   },
   {
    "id": "8749ec8fc5ea",
@@ -442,7 +670,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Four artists created a non-spooky, storybook adventure in Irvington for Halloween. The post Help find the missing librarian at ‘Library of Legends’ appeared first on Mirror Indy .",
+   "summary": "Four artists created a live-action storybook adventure in Irvington for Halloween. The post Help find the missing librarian at ‘Library of Legends’ appeared first on Mirror Indy .",
    "published": "2026-10-23T19:40:29+00:00"
   },
   {
@@ -588,18 +816,6 @@
    "category_hint": null,
    "summary": "Finally, we are going to find out how good Utah’s football team really is. At last, the Utes are going to pick on someone their own size, as it were. Two months into the season, we will see if they really are one of the best teams in the nation. At this point, it’s a mystery.…",
    "published": "2026-10-23T19:00:00+00:00"
-  },
-  {
-   "id": "1dadde584896",
-   "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
-   "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The first Phase 3 data for a cancer vaccine has raised questions about whether the potential new treatment is needed.",
-   "published": "2026-10-23T18:58:00+00:00"
   },
   {
    "id": "827942467ba3",
@@ -891,7 +1107,7 @@
   },
   {
    "id": "8c2907901aca",
-   "title": "Many feared trapped after multistorey building collapses in Kenya",
+   "title": "Several people missing after multistorey building collapses in Kenya",
    "link": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -1491,7 +1707,7 @@
   },
   {
    "id": "8bbed367df58",
-   "title": "Watch: CCTV footage appears to show gunmen near church in Jordan",
+   "title": "Watch: CCTV footage shows gunmen near church in Jordan",
    "link": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -1836,18 +2052,6 @@
    "category_hint": null,
    "summary": "Proposition 39's requirements aren't overly obtrusive, only unnecessary.",
    "published": "2026-10-23T14:40:44+00:00"
-  },
-  {
-   "id": "e88b48cb20e3",
-   "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-   "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
-   "published": "2026-10-23T14:40:00+00:00"
   },
   {
    "id": "1e79bac9744b",
@@ -2484,18 +2688,6 @@
    "category_hint": null,
    "summary": "Tsuneyasu Miyamoto says it will be difficult for Saudi Arabia to host next year's tournament as scheduled.",
    "published": "2026-10-23T11:34:59+00:00"
-  },
-  {
-   "id": "193d5b0d7f30",
-   "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
-   "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&T and T-Mobile.",
-   "published": "2026-10-23T11:32:00+00:00"
   },
   {
    "id": "6f254b93b609",
