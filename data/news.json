@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T14:51:26.358112+00:00",
+ "generated": "2026-10-23T15:50:14.140324+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "name": "The Guardian World",
@@ -135,27 +135,339 @@
  "items": [
   {
    "id": "f8deac049ef3",
-   "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+   "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
    "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-   "published": "2026-10-23T14:48:10+00:00"
+   "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+   "published": "2026-10-23T15:48:04+00:00"
+  },
+  {
+   "id": "7dede5f33e69",
+   "title": "Federal election monitors are coming to Indy. What does that mean?",
+   "link": "https://mirrorindy.org/donald-trump-doj-election-monitors-indianapolis-marion-lake-county/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "On Election Day, you can call 317-327-VOTE to reach someone from the county election board for help. The post Federal election monitors are coming to Indy. What does that mean? appeared first on Mirror Indy .",
+   "published": "2026-10-23T15:46:04+00:00"
+  },
+  {
+   "id": "c67f934dc6f7",
+   "title": "He Won a City Council Seat by Openly Admitting How Little He Wants the Job",
+   "link": "https://reason.com/2026/10/23/he-won-a-city-council-seat-by-openly-admitting-how-little-he-wants-the-job/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "\"I barely want to do this,\" Brady Rogers admitted. Voters apparently appreciated the honesty.",
+   "published": "2026-10-23T15:45:05+00:00"
+  },
+  {
+   "id": "6f70964a9f43",
+   "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was…",
+   "published": "2026-10-23T15:39:30+00:00"
   },
   {
    "id": "7718246191f0",
-   "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+   "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
    "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
-   "published": "2026-10-23T14:45:43+00:00"
+   "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+   "published": "2026-10-23T15:37:07+00:00"
+  },
+  {
+   "id": "9436a73cecee",
+   "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
+   "link": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Security forces to include elite units usually used for counter-terrorism after worst street violence in years Europe live – latest updates France will deploy about 70,000 police around the country on Saturday as the government seeks to prevent more civil unrest after some of…",
+   "published": "2026-10-23T15:34:21+00:00"
+  },
+  {
+   "id": "a580c2639aed",
+   "title": "Trump’s justice department sues to block Senate race certification in Alaska if Republican loses – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Preliminary lawsuit claims there could be ‘voter confusion’ about the two Dan Sullivans on the ballot, which could influence the race’s outcome in favor of the Democratic nominee, Mary Peltola Sign up for the Breaking News US email With less than two weeks until the midterms,…",
+   "published": "2026-10-23T15:32:36+00:00"
+  },
+  {
+   "id": "beea5e363697",
+   "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+   "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
+   "published": "2026-10-23T15:31:00+00:00"
+  },
+  {
+   "id": "1b53825f47c1",
+   "title": "Oil spill washes up on UAE beaches after tanker strike",
+   "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+   "published": "2026-10-23T15:30:47+00:00"
+  },
+  {
+   "id": "5347caf54b2c",
+   "title": "Free Speech Union hit by internal allegations of racism and sexually inappropriate remarks",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/23/free-speech-union-allegations-racism-sexually-inappropriate-remarks",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Exclusive: Key figure in campaign group accused of saying she would ‘never hire a black person’, and second figure discussed Sydney Sweeney’s ‘assets’ The Free Speech Union (FSU) is reeling from internal grievances involving allegations of racism, workplace discrimination and…",
+   "published": "2026-10-23T15:30:07+00:00"
+  },
+  {
+   "id": "04aa7a3610de",
+   "title": "El Fasher’s dark anniversary, a worsening siege in Yemen, and protests in Paris: The Cheat Sheet",
+   "link": "https://www.thenewhumanitarian.org/news/2026/10/23/el-fashers-siege-yemen-protests-paris-cheat-sheet",
+   "source": "The New Humanitarian",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A weekly read to keep you in the loop on humanitarian issues.",
+   "published": "2026-10-23T15:24:58+00:00"
+  },
+  {
+   "id": "56f729f824aa",
+   "title": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
+   "link": "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned.",
+   "published": "2026-10-23T15:24:35+00:00"
+  },
+  {
+   "id": "9f9b06c94452",
+   "title": "How Much Do You Know About Stock Market Seasonality? Take Our Quiz to Find Out",
+   "link": "https://www.kiplinger.com/puzzles/quizzes/how-much-do-you-know-about-stock-market-seasonality-take-our-quiz-to-find-out",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Is stock market seasonality signal or noise? Let's talk about patterns and tendencies we see across the trading and investing calendar.",
+   "published": "2026-10-23T15:22:16+00:00"
+  },
+  {
+   "id": "9bd0b476b354",
+   "title": "Whatever the outcome, Nov. 3 is a pivot point for Trump",
+   "link": "https://www.csmonitor.com/USA/Politics/2026/1023/midterm-elections-trump-lame-duck?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The midterm vote may put Democrats in control of Congress. Attention will also shift toward 2028. That doesn’t mean President Trump will exit the stage.",
+   "published": "2026-10-23T15:21:47+00:00"
+  },
+  {
+   "id": "00001adecbdc",
+   "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she was…",
+   "published": "2026-10-23T15:16:14+00:00"
+  },
+  {
+   "id": "45f546718dbb",
+   "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
+   "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way.",
+   "published": "2026-10-23T15:15:18+00:00"
+  },
+  {
+   "id": "9fe43c2afc4c",
+   "title": "Reader Q&A: what’s next for France? Ask our Europe columnists – live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Guardian Europe columnists Rokhaya Diallo and Alexander Hurst are taking questions from readers about the riots and protests in France. Join the discussion in the comments here . Michael Wolfcarius asks: I cannot understand why the Guardian is selecting dots instead of joining…",
+   "published": "2026-10-23T15:12:53+00:00"
+  },
+  {
+   "id": "06f48cab5bcc",
+   "title": "Carrick accepts blame for Man United slump, but ‘confident’ of a turnaround",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/carrick-accepts-blame-for-man-united-slump-confident-he-can-turn-things?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Manchester United make worst start to a season in 40 years, but Michael Carrick 'confident' ahead of Bournemouth game.",
+   "published": "2026-10-23T15:04:44+00:00"
+  },
+  {
+   "id": "ea9f04c6fe4e",
+   "title": "Could a Libertarian Swing the Texas Senate Race?",
+   "link": "https://reason.com/podcast/2026/10/23/could-a-libertarian-swing-the-texas-senate-race/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Libertarian Senate candidate Ted Brown discusses Ken Paxton's corruption scandals, James Talarico's economic policies, and why Texas isn't as free as Republicans claim.",
+   "published": "2026-10-23T15:00:49+00:00"
+  },
+  {
+   "id": "8d8f0046bd07",
+   "title": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",
+   "link": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "You have to do the math to figure out your best tax strategy in retirement, and converting might not be for you.",
+   "published": "2026-10-23T15:00:00+00:00"
+  },
+  {
+   "id": "ed8897de8288",
+   "title": "US justice department investigating Corey Lewandowski over DHS role",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain.",
+   "published": "2026-10-23T14:58:19+00:00"
+  },
+  {
+   "id": "cb9eec62df6f",
+   "title": "Russia and Ukraine agree to local ceasefire in Oleshky amid deepening humanitarian crisis",
+   "link": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "People in Russian-occupied city facing severe shortages of food, water and electricity, with some reportedly surviving on weeds The White House said on Friday that Russia and Ukraine had agreed to a ceasefire in the Russian-occupied city of Oleshky, where a deepening…",
+   "published": "2026-10-23T14:57:50+00:00"
+  },
+  {
+   "id": "e37ec45814fd",
+   "title": "Who Wears the Cost?",
+   "link": "https://www.wealthmanagement.com/artificial-intelligence/rias-end-up-paying-for-hidden-vendor-api-fees",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Platform fees for API access and AI agent calls keep landing on advisors' desks, whereas industry history illustrates that openness benefits everyone without hurting profit margins.",
+   "published": "2026-10-23T14:56:58+00:00"
+  },
+  {
+   "id": "b3f7f2106600",
+   "title": "What to know as Brazil prepares for tense presidential run-off",
+   "link": "https://www.aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Polls show leftist incumbent Lula closing gap on right-wing rival Flavio Bolsonaro ahead of second round of voting.",
+   "published": "2026-10-23T14:56:05+00:00"
+  },
+  {
+   "id": "9aacb8d55d56",
+   "title": "Prince William makes surprise appearance on Graham Norton show",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/23/prince-william-graham-norton-show",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Cate Blanchett and Hannah Waddingham join William on sofa for special edition to celebrate prince’s Earthshot prize The Prince of Wales has braved the chatshow sofa, making a surprise appearance on The Graham Norton Show. In the pre-recorded show, to be aired on Friday on BBC…",
+   "published": "2026-10-23T14:52:06+00:00"
+  },
+  {
+   "id": "60a3dfae1da4",
+   "title": "US supreme court sides with Republicans on rejecting student IDs in New Hampshire midterms",
+   "link": "https://www.theguardian.com/us-news/2026/oct/23/supreme-court-student-ids-new-hampshire-midterms",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Voting rights advocates say directive would disenfranchise young and low-income voters, but Republicans say it’s needed to combat voter fraud US politics live – latest updates The US supreme court has cleared the way for New Hampshire to prohibit student IDs as a form of voter…",
+   "published": "2026-10-23T14:51:46+00:00"
+  },
+  {
+   "id": "e52a02fc6249",
+   "title": "UK politics: Andy Burnham warns of ‘winter of greater flooding’ – as it happened",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The prime minister said the government is having conversation about emergency preparedness A DUP minister has said he is confident MP Carla Lockhart will stay in the party despite leaving its main decision-making body amid a row with party leadership over the future of…",
+   "published": "2026-10-23T14:50:49+00:00"
+  },
+  {
+   "id": "9365134e31de",
+   "title": "WealthStack Roundup: Syntax Integrates With Schwab's iRebal to Streamline Direct Indexing",
+   "link": "https://www.wealthmanagement.com/artificial-intelligence/syntax-direct-links-with-schwabs-irebal-platform",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "In addition, news from next-generation CRM provider FinTurk, Zocks and LPL, and Masttro appoints a COO.",
+   "published": "2026-10-23T14:48:54+00:00"
   },
   {
    "id": "0cec7cbd2429",
@@ -182,30 +494,6 @@
    "published": "2026-10-23T14:40:00+00:00"
   },
   {
-   "id": "6f70964a9f43",
-   "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was…",
-   "published": "2026-10-23T14:39:41+00:00"
-  },
-  {
-   "id": "9fe43c2afc4c",
-   "title": "Reader Q&A: what’s next for France? Ask our Europe columnists – live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Guardian Europe columnists Rokhaya Diallo and Alexander Hurst are taking questions from readers about the riots and protests in France. Join the discussion in the comments here . Ann-Marie Thompson asks: Could you explore the degree of overlap between the two periods of…",
-   "published": "2026-10-23T14:35:46+00:00"
-  },
-  {
    "id": "1e79bac9744b",
    "title": "\"The District Court—or Perhaps, Being Charitable, Its AI Agent—Ignored and Manipulated Governing Law, Apparently to Satisfy a Policy Agenda\"",
    "link": "https://reason.com/volokh/2026/10/23/the-district-court-or-perhaps-being-charitable-its-ai-agent-ignored-and-manipulated-governing-law-apparently-to-satisfy-a-policy-agenda/",
@@ -228,18 +516,6 @@
    "category_hint": null,
    "summary": "After Brody called out the ‘death and misery’ in Palestine, the Netflix hit’s Jewish creator said they don’t see eye to eye The creator of the hit Netflix comedy Nobody Wants This has responded to star Adam Brody’s recent support of Palestine amid the Israel-Gaza war .…",
    "published": "2026-10-23T14:33:52+00:00"
-  },
-  {
-   "id": "45f546718dbb",
-   "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
-   "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way.",
-   "published": "2026-10-23T14:31:51+00:00"
   },
   {
    "id": "cfa2757acc9e",
@@ -276,18 +552,6 @@
    "category_hint": null,
    "summary": "Warning signs are emerging that consumers will be hit with rising prices.",
    "published": "2026-10-23T14:23:00+00:00"
-  },
-  {
-   "id": "a580c2639aed",
-   "title": "Trump to rally in Florida after stoking Ramaswamy ad furor – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Trump to campaign for gubernatorial candidate Byron Donalds, who has distanced himself from president; Trump doubled down on support for Ramaswamy Sign up for the Breaking News US email The White House has issued a statement saying first lady Melania Trump has helped broker a…",
-   "published": "2026-10-23T14:20:24+00:00"
   },
   {
    "id": "a77c5e49ae6b",
@@ -446,18 +710,6 @@
    "published": "2026-10-23T13:50:26+00:00"
   },
   {
-   "id": "e52a02fc6249",
-   "title": "Andy Burnham warns of ‘winter of greater flooding’ – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The prime minister said the government is having conversation about emergency preparedness A DUP minister has said he is confident MP Carla Lockhart will stay in the party despite leaving its main decision-making body amid a row with party leadership over the future of…",
-   "published": "2026-10-23T13:47:30+00:00"
-  },
-  {
    "id": "94cc2f7522e4",
    "title": "Dembele to miss Ballon d’Or event as PSG game moved amid protests in France",
    "link": "https://www.aljazeera.com/sports/2026/10/23/dembele-to-miss-ballon-dor-event-as-psg-game-moved-amid-protests-in-france?traffic_source=rss",
@@ -495,7 +747,7 @@
   },
   {
    "id": "5c1f276a311b",
-   "title": "Gunmen open fire at church in Jordan, killing several people",
+   "title": "At least seven killed after gunmen open fire at church in Jordan",
    "link": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -698,18 +950,6 @@
    "published": "2026-10-23T13:00:00+00:00"
   },
   {
-   "id": "00001adecbdc",
-   "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she was…",
-   "published": "2026-10-23T12:59:38+00:00"
-  },
-  {
    "id": "8b18fe995405",
    "title": "Andy Burnham says he has emergency stockpile of beans, soup and Twiglets",
    "link": "https://www.theguardian.com/society/2026/oct/23/andy-burnham-emergency-stockpile-twiglets",
@@ -900,30 +1140,6 @@
    "category_hint": null,
    "summary": "Ukraine to team up with Finnish firms as Starshield problems, started amid Trump-Zelenskyy jibes, continue.",
    "published": "2026-10-23T12:16:50+00:00"
-  },
-  {
-   "id": "beea5e363697",
-   "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-   "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
-   "published": "2026-10-23T12:16:00+00:00"
-  },
-  {
-   "id": "cb9eec62df6f",
-   "title": "Ukraine troops report continuing Starlink problems despite Trump claims",
-   "link": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Communications system still faces speed restrictions after US president said Musk had resumed full service Trump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row? Ukrainian forces continue to report widespread disruptions to the Starlink satellite network ,…",
-   "published": "2026-10-23T12:09:08+00:00"
   },
   {
    "id": "9c76ff8a0b2a",
@@ -4992,18 +5208,6 @@
    "category_hint": null,
    "summary": "Israel can inflict devastating damage on Iran, but analysts question its ability to overthrow Tehran’s government.",
    "published": "2026-10-22T14:55:59+00:00"
-  },
-  {
-   "id": "9365134e31de",
-   "title": "WealthStack Roundup: Syntax Integrates With Schwab's iRebal to Streamline Direct Indexing",
-   "link": "https://www.wealthmanagement.com/artificial-intelligence/syntax-direct-links-with-schwabs-irebal-platform",
-   "source": "WealthManagement.com",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "In addition, news from next-generation CRM provider FinTurk, Zocks and LPL, and Masttro appoints a COO.",
-   "published": "2026-10-22T14:48:54+00:00"
   },
   {
    "id": "1700d4664518",
@@ -11184,7 +11388,7 @@
   },
   {
    "id": "56345e4096aa",
-   "title": "An Expert Guide to California Retirement Costs and Taxes",
+   "title": "California Dreaming About Retirement? A Guide to Costs and Taxes",
    "link": "https://www.kiplinger.com/retirement/retirement-planning/retirement-california-what-to-consider",
    "source": "Kiplinger",
    "circle_hint": "national",
@@ -14516,7 +14720,7 @@
   },
   {
    "id": "06eeb2966e3e",
-   "title": "Take the Celebrity Estate Planning Quiz: Are You Sting, Shaq or Elton?",
+   "title": "Which Celebrity Are You Most Like When It Comes to Inheritance?",
    "link": "https://www.kiplinger.com/puzzles/quizzes/celebrity-estate-planning-quiz-are-you-sting-shaq-or-elton",
    "source": "Kiplinger",
    "circle_hint": "national",
