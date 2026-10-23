@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T11:46:41.757287+00:00",
+ "generated": "2026-10-23T12:55:29.217188+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "name": "The Guardian World",
@@ -134,16 +134,268 @@
  ],
  "items": [
   {
+   "id": "7718246191f0",
+   "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+   "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
+   "published": "2026-10-23T12:48:52+00:00"
+  },
+  {
    "id": "d7c780964626",
-   "title": "At least one dead and four injured in Paris suburb shooting",
+   "title": "Anti-terror police investigate as one person killed in shooting near Paris",
    "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Anti-terrorism police have taken up the investigation into the incident in Trappes, to the west of Paris.",
-   "published": "2026-10-23T11:44:12+00:00"
+   "summary": "French Prime Minister Sébastien Lecornu describes the gun attack in Trappes as \"very serious\".",
+   "published": "2026-10-23T12:47:01+00:00"
+  },
+  {
+   "id": "274b664a49a6",
+   "title": "Authorities investigating whether first Kenyan and Nigerian Ebola cases crossed paths",
+   "link": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries.",
+   "published": "2026-10-23T12:41:39+00:00"
+  },
+  {
+   "id": "a580c2639aed",
+   "title": "Trump to rally in Florida after stoking Ramaswamy ad furor – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Trump to campaign for gubernatorial candidate Byron Donalds, who has distanced himself from president; Trump doubled down on support for Ramaswamy Sign up for the Breaking News US email The ongoing slowdown to Ukraine’s access to Starshield – the modified military-grade version…",
+   "published": "2026-10-23T12:36:46+00:00"
+  },
+  {
+   "id": "6f70964a9f43",
+   "title": "France to deploy 70,000 officers as it braces for weekend of protests – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Interior minister Laurent Nuñez defended blanket bans on demonstrations in some parts of France The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was killed and four others injured. Police…",
+   "published": "2026-10-23T12:33:50+00:00"
+  },
+  {
+   "id": "e52a02fc6249",
+   "title": "Andy Burnham warns of ‘winter of greater flooding’ – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The prime minister said the government is having conversation about emergency preparedness A DUP minister has said he is confident MP Carla Lockhart will stay in the party despite leaving its main decision-making body amid a row with party leadership over the future of…",
+   "published": "2026-10-23T12:30:03+00:00"
+  },
+  {
+   "id": "56a44e90c3a0",
+   "title": "9 Changes to Social Security in 2027",
+   "link": "https://www.kiplinger.com/retirement/social-security/changes-coming-to-social-security-in-2027",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Higher payouts, new tax limits and updated earnings rules are coming in January. Here is everything retirees and workers need to know.",
+   "published": "2026-10-23T12:30:00+00:00"
+  },
+  {
+   "id": "32552bb5674f",
+   "title": "Smart financial advisers are dropping ROI, NAV and QCD for plain English when talking to clients",
+   "link": "https://www.marketwatch.com/story/smart-financial-advisers-are-dropping-roi-nav-and-qcd-for-plain-english-when-talking-to-clients-2a16fc6f?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Not everyone is familiar with the ABCs of financial planning",
+   "published": "2026-10-23T12:30:00+00:00"
+  },
+  {
+   "id": "48614122c07c",
+   "title": "Potholes, bus fares and headphone dodgers: will Burnham’s strategy of ‘everyday fixes’ succeed?",
+   "link": "https://www.theguardian.com/politics/2026/oct/23/andy-burnham-everyday-fixes-strategy-bus-fares-pubs-potholes-headphone-dodgers",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "New PM has prioritised small fixes to show voters Labour can make a real difference, and government insiders are delighted at the public’s reaction In the first episode of Armando Iannucci’s political satire The Thick of It, the hapless minister Hugh Abbot is in the back of a…",
+   "published": "2026-10-23T12:26:53+00:00"
+  },
+  {
+   "id": "e00ac2bcec87",
+   "title": "It’s been a painful month for hedge funds. To turn it around, they are shorting U.S. stocks.",
+   "link": "https://www.marketwatch.com/story/its-been-a-painful-month-for-hedge-funds-to-turn-it-around-they-are-shorting-u-s-stocks-d36ee922?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "In response to losses on popular trades, hedge funds are now shorting U.S. stocks aggressively to try and win back some performance.",
+   "published": "2026-10-23T12:23:00+00:00"
+  },
+  {
+   "id": "f1b3ea18d95c",
+   "title": "Trump’s top border official defends Big Bend border wall plan despite mounting opposition",
+   "link": "https://www.theguardian.com/us-news/2026/oct/23/trump-border-official-big-bend-border-wall",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "CBP commissioner Rodney Scott says $46bn Texas project is justified amid court-ordered pause on wall’s construction The Trump administration’s top border official defended plans to build a wall and other infrastructure in the Big Bend of Texas despite mounting opposition…",
+   "published": "2026-10-23T12:18:25+00:00"
+  },
+  {
+   "id": "b78a7fe60811",
+   "title": "Are parents in France and Italy liable for damage caused by student protesters?",
+   "link": "https://www.aljazeera.com/news/2026/10/23/are-parents-in-france-and-italy-liable-for-damage-caused-by-student-protesters?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Parents could face financial penalties if their children participate in vandalism or looting during demonstrations.",
+   "published": "2026-10-23T12:18:01+00:00"
+  },
+  {
+   "id": "ee718a6b45b0",
+   "title": "Denmark to ban mink farming in government U-turn",
+   "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
+   "published": "2026-10-23T12:17:45+00:00"
+  },
+  {
+   "id": "047727599cac",
+   "title": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Huge waves were seen crashing into Taiwan’s northeastern coast as Typhoon Champi approached with winds reaching 191 km/h",
+   "published": "2026-10-23T12:17:20+00:00"
+  },
+  {
+   "id": "cabb206d6003",
+   "title": "Ukraine plans independent satellite system as Starlink issues persist",
+   "link": "https://www.aljazeera.com/news/2026/10/23/ukraine-plans-independent-satellite-system-as-starlink-issues-persist?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Ukraine to team up with Finnish firms as Starshield problems, started amid Trump-Zelenskyy jibes, continue.",
+   "published": "2026-10-23T12:16:50+00:00"
+  },
+  {
+   "id": "beea5e363697",
+   "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+   "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
+   "published": "2026-10-23T12:16:00+00:00"
+  },
+  {
+   "id": "cb9eec62df6f",
+   "title": "Ukraine troops report ongoing problems with Starlink satellite network",
+   "link": "https://www.theguardian.com/world/2026/oct/23/ukraine-troops-report-ongoing-problems-with-starlink-satellite-network",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Communications system still faces speed restrictions despite Trump claim that Musk had resumed full service Trump, Musk, Zelenskyy: who is blaming who in the Ukraine-Starlink row? Ukrainian forces continue to report widespread disruptions to the Starlink satellite network ,…",
+   "published": "2026-10-23T12:09:08+00:00"
+  },
+  {
+   "id": "4600179b6c8e",
+   "title": "Thousands of homes without power as Storm Austen hits south-west England",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Dozens of schools in Cornwall also affected by conditions as another storm heads for Scotland, Northern Ireland and the north of England Thousands of homes are without power and schools have been closed as the first named storm of the year hit UK shores. Storm Austen brought…",
+   "published": "2026-10-23T12:08:21+00:00"
+  },
+  {
+   "id": "9c76ff8a0b2a",
+   "title": "Memories Over Money: A Lesson in True Wealth",
+   "link": "https://www.kiplinger.com/retirement/happy-retirement/memories-over-money",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "While financial security is important, the real secret to happiness is building a \"memory balance sheet\" of unforgettable experiences with the people you love.",
+   "published": "2026-10-23T12:00:00+00:00"
+  },
+  {
+   "id": "6a64a8e8d933",
+   "title": "‘An orchestra being gassed should be an alarm signal’: the musical activists targeted in Paris",
+   "link": "https://www.theguardian.com/world/2026/oct/23/france-protests-new-world-orchestra-gassed-paris-police",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "New World Orchestra’s musicians are shocked at French police targeting peaceful gathering with teargas Europe live – latest updates As riot police encircled Place de la République last week, lobbing teargas canisters to disperse demonstrators, the conductor Étienne Jarrier and…",
+   "published": "2026-10-23T11:57:00+00:00"
+  },
+  {
+   "id": "ff626304cbc4",
+   "title": "Puppy love: Finnish 24-hour newborn pup livestream is TV smash hit",
+   "link": "https://www.theguardian.com/world/2026/oct/23/finnish-24-hour-puppy-dog-newborn-livestream-tv-smash-hit",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Show features live chat sessions with breeders, a podcast and updates on dogs’ progress from birth to weigh-ins A 24-hour Finnish TV show dedicated entirely to the live progress of a dog and her six newborn puppies is drawing millions of viewers. As well as a 24-hour webcam,…",
+   "published": "2026-10-23T11:52:11+00:00"
+  },
+  {
+   "id": "daee4efc2ca5",
+   "title": "US-Iran war, then and now: How the landscape has changed since February",
+   "link": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The positions of Washington and Tehran have changed dramatically since US-Israeli strikes began the war, analysts say.",
+   "published": "2026-10-23T11:43:53+00:00"
   },
   {
    "id": "d139ede9e737",
@@ -158,44 +410,20 @@
    "published": "2026-10-23T11:35:51+00:00"
   },
   {
-   "id": "e52a02fc6249",
-   "title": "Andy Burnham warns of ‘winter of greater flooding’ – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
-   "source": "The Guardian World",
+   "id": "7deaa9040642",
+   "title": "Saudi Arabia security puts Asian Cup in doubt: Japan football chief",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "The prime minister said the government is having conversation about emergency preparedness A DUP minister has said he is confident MP Carla Lockhart will stay in the party despite leaving its main decision-making body amid a row with party leadership over the future of…",
-   "published": "2026-10-23T11:35:25+00:00"
-  },
-  {
-   "id": "a580c2639aed",
-   "title": "Trump to rally in Florida after stoking Ramaswamy ad furor – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Trump to campaign for gubernatorial candidate Byron Donalds, who has distanced himself from president; Trump doubled down on support for Ramaswamy Good morning and welcome to our live coverage of US politics. Donald Trump is travelling to Florida today to speak at another rally…",
-   "published": "2026-10-23T11:35:16+00:00"
-  },
-  {
-   "id": "4600179b6c8e",
-   "title": "Thousands of homes without power as Storm Austen hits south-west England",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Dozens of schools in Cornwall also affected by conditions as another storm heads for Scotland, Northern Ireland and the north of England Thousands of homes are without power and schools have been closed as the first named storm of the year hits UK shores. Storm Austen brought…",
-   "published": "2026-10-23T11:32:25+00:00"
+   "summary": "Tsuneyasu Miyamoto says it will be difficult for Saudi Arabia to host next year's tournament as scheduled.",
+   "published": "2026-10-23T11:34:59+00:00"
   },
   {
    "id": "193d5b0d7f30",
-   "title": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.",
+   "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
    "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
@@ -230,6 +458,18 @@
    "published": "2026-10-23T11:30:00+00:00"
   },
   {
+   "id": "0db22b6fbf8d",
+   "title": "What will you do with your one precious wildlife?",
+   "link": "https://www.vox.com/climate/507355/midterms-2026-wildlife-ballot-measure",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "When millions of voters fill out their ballots this November, they won’t just be choosing elected representatives. Many states are offering the chance to impact conservation and wildlife as well, through ballot measures focused on things like dedicating more money to habitat…",
+   "published": "2026-10-23T11:30:00+00:00"
+  },
+  {
    "id": "00001adecbdc",
    "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
    "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
@@ -238,8 +478,20 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Meghan also reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she…",
+   "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she was…",
    "published": "2026-10-23T11:28:44+00:00"
+  },
+  {
+   "id": "5b4ffbd10ebb",
+   "title": "‘Pink blooms from among the rubble’: Battling breast cancer in Gaza",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/pink-blooms-from-among-the-rubble-battling-breast-cancer-in-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Health workers in Gaza are participating in a breast cancer campaign called ‘pink blooms from among the rubble’.",
+   "published": "2026-10-23T11:27:35+00:00"
   },
   {
    "id": "e207000608a1",
@@ -276,18 +528,6 @@
    "category_hint": null,
    "summary": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
    "published": "2026-10-23T11:22:25+00:00"
-  },
-  {
-   "id": "6f70964a9f43",
-   "title": "France to deploy 70,000 officers as it braces for weekend of protests – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Interior minister Laurent Nuñez defended blanket bans on demonstrations in some parts of France The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was killed and four others injured. Police…",
-   "published": "2026-10-23T11:21:40+00:00"
   },
   {
    "id": "676bfadc26ed",
@@ -418,12 +658,12 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Investigation marks a rare move by the DoJ against an ally of the US president. Plus, why the world’s coral reefs are facing a dire future Good morning. Corey Lewandowski, a former political adviser to Donald Trump and ⁠top aide at the Department ⁠of Homeland Security, ​is…",
+   "summary": "Investigation marks rare move by DoJ against an ally of the US president. Plus, why the world’s coral reefs are facing a dire future Good morning. Corey Lewandowski, a former political adviser to Donald Trump and ⁠top aide at the Department ⁠of Homeland Security, ​is under…",
    "published": "2026-10-23T10:53:00+00:00"
   },
   {
    "id": "e1bf558d65ce",
-   "title": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.",
+   "title": "France is getting its credit rating reviewed. The French debt turmoil has helped turn U.S. Treasury yields around. What comes next?",
    "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
    "source": "MarketWatch",
    "circle_hint": "national",
@@ -494,18 +734,6 @@
    "published": "2026-10-23T10:29:00+00:00"
   },
   {
-   "id": "7718246191f0",
-   "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-   "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
-   "published": "2026-10-23T10:26:06+00:00"
-  },
-  {
    "id": "550a37e4dbfb",
    "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
    "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
@@ -516,18 +744,6 @@
    "category_hint": null,
    "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
    "published": "2026-10-23T10:23:07+00:00"
-  },
-  {
-   "id": "ff626304cbc4",
-   "title": "Puppy love: Finnish 24-hour newborn pup livestream is TV smash hit",
-   "link": "https://www.theguardian.com/world/2026/oct/23/finnish-24-hour-puppy-dog-newborn-livestream-tv-smash-hit",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Show features live chat sessions with breeders, a podcast and updates on dogs’ progress from birth to weigh-ins A 24-hour Finnish TV show dedicated entirely to the live progress of a dog and her six newborn puppies is drawing millions of viewers. As well as a 24-hour webcam,…",
-   "published": "2026-10-23T10:22:16+00:00"
   },
   {
    "id": "1c44ce36b70f",
@@ -639,7 +855,7 @@
   },
   {
    "id": "9f86c3414f2c",
-   "title": "Korean Churches Are Breaking from Traditions to Bring Back Youth",
+   "title": "Korean Churches Are Breaking from Tradition to Bring Back Youth",
    "link": "https://www.christianitytoday.com/2026/10/korean-churches-youth-decline/",
    "source": "Christianity Today",
    "circle_hint": "national",
@@ -830,18 +1046,6 @@
    "published": "2026-10-23T09:15:36+00:00"
   },
   {
-   "id": "beea5e363697",
-   "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-   "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
-   "published": "2026-10-23T09:15:00+00:00"
-  },
-  {
    "id": "17adfec61734",
    "title": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
    "link": "https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss",
@@ -987,7 +1191,7 @@
   },
   {
    "id": "c5d2196db11e",
-   "title": "Gen Z candidates in both parties aim to tackle high housing costs",
+   "title": "Gen Z is 'in the thick' of high housing costs. These candidates aim to solve it",
    "link": "https://www.npr.org/2026/10/23/nx-s1-5983813/gen-z-candidates-midterms-housing-affordability",
    "source": "NPR News",
    "circle_hint": "national",
