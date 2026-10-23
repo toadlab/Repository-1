@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T17:43:18.118860+00:00",
+ "generated": "2026-10-23T18:53:20.883647+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -33,8 +33,8 @@
   },
   {
    "name": "Deseret News",
-   "ok": false,
-   "error": "ParseError: no element found: line 1, column 38"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Vox",
@@ -134,15 +134,339 @@
  ],
  "items": [
   {
+   "id": "9c464aa25357",
+   "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+   "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
+   "published": "2026-10-23T18:52:17+00:00"
+  },
+  {
+   "id": "84166c5b572c",
+   "title": "2024081404601 Daniel Robert Moruzzi CRD 2315352 AWC ks.pdf",
+   "link": "https://www.finra.org/node/390876",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "2024081404601 Daniel Robert Moruzzi CRD 2315352 AWC ks.pdf Anonymous (not verified) Fri, 10/23/2026 - 14:50 Case ID 2024081404601 Document Number 7061ec49 Document Type AWCs (Letters of Acceptance, Waiver, and Consent) Individuals Daniel Robert Moruzzi Action Date Fri,…",
+   "published": "2026-10-23T18:50:01+00:00"
+  },
+  {
+   "id": "2b8e044cb0ca",
+   "title": "Church is attacked in Jordan in region known for interfaith coexistence",
+   "link": "https://www.csmonitor.com/World/Middle-East/2026/1023/jordan-christian-church-attacked-abdullah-interfaith?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Three gunmen attacked a church during a funeral in an area of Jordan known for Christian-Muslim coexistence. Jordan swiftly moved to protect Christian houses of worship around the country.",
+   "published": "2026-10-23T18:47:38+00:00"
+  },
+  {
+   "id": "0387be056dd8",
+   "title": "Think annuities are a rip-off? Now might be the perfect time to reconsider.",
+   "link": "https://www.marketwatch.com/story/think-annuities-are-a-rip-off-now-might-be-the-perfect-time-to-reconsider-6b3a2f88?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Also in Weekend Reads: How to change your approach as the stock-market seesaws, some good news for home buyers, and advice from The Moneyist.",
+   "published": "2026-10-23T18:43:00+00:00"
+  },
+  {
+   "id": "b7a5b65204a1",
+   "title": "Israel locks down occupied West Bank after Hebron shooting",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.",
+   "published": "2026-10-23T18:38:26+00:00"
+  },
+  {
+   "id": "3a99c0d94431",
+   "title": "Kalshi's CEO Wants 1 Set of Rules. The States Want 50.",
+   "link": "https://reason.com/2026/10/23/kalshis-ceo-wants-1-set-of-rules-the-states-want-50/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Tarek Mansour argues prediction markets can police insider trading themselves, but regulators still see a gambling app.",
+   "published": "2026-10-23T18:37:10+00:00"
+  },
+  {
+   "id": "1bc5822d05f2",
+   "title": "Lido CEO Signals Openness to International Expansion",
+   "link": "https://www.wealthmanagement.com/ria-edge/lido-ceo-signals-openness-to-international-expansion",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Lido Advisors CEO Ken Stern outlined his firm’s growth ambitions at RIA Edge Orange County.",
+   "published": "2026-10-23T18:37:04+00:00"
+  },
+  {
+   "id": "a580c2639aed",
+   "title": "Trump touts lawsuit to block Senate race certification in Alaska: ‘I’m the one that said do it’ – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Preliminary lawsuit claims there could be ‘voter confusion’ about the two Dan Sullivans on the ballot, which could influence the race’s outcome in favor of the Democratic nominee, Mary Peltola Sign up for the Breaking News US email With less than two weeks until the midterms,…",
+   "published": "2026-10-23T18:37:01+00:00"
+  },
+  {
+   "id": "299b2ae0679d",
+   "title": "First Presbyterian Church to host 40th annual Scottish heritage events",
+   "link": "https://www.deseret.com/entertainment/2026/10/23/first-presbyterian-church-to-host-40th-annual-scottish-heritage-events/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The First Presbyterian Church of Salt Lake City is honoring its Scottish heritage by hosting the 40th annual Scottish Festival on Saturday. The next day, the church will hold the Kirkin' o' th' Tartan.",
+   "published": "2026-10-23T18:35:58+00:00"
+  },
+  {
+   "id": "6f70964a9f43",
+   "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was…",
+   "published": "2026-10-23T18:35:07+00:00"
+  },
+  {
+   "id": "e7069ed06b4d",
+   "title": "Severe flooding in US west triggers rooftop rescues and evacuation orders",
+   "link": "https://www.theguardian.com/us-news/2026/oct/23/severe-flooding-west-triggers-rescues-evacuations",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Some in the Four Corners region – which includes Colorado, New Mexico, Arizona and Utah – ordered to shelter in place Severe flooding in the Four Corners region on Friday led to water rescues – some from rooftops – and impassable roads, with some residents being told to…",
+   "published": "2026-10-23T18:32:23+00:00"
+  },
+  {
+   "id": "bf8f2e4726c1",
+   "title": "Ohio could decide control of the Senate. Its rural voters might decide the winner",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-6012809/ohio-senate-governor-election-rural-voters",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Ohio has been a reliably red state for several elections but it's competitive this year. If Democrats want to prevail, they'll have to win people who have backed Republicans, like rural voters.",
+   "published": "2026-10-23T18:30:00+00:00"
+  },
+  {
+   "id": "8416e9aa1929",
+   "title": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
+   "link": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Oil has climbed back to an Iran-war high and may soon go higher, if the U.S. and Israel strike Iran after their respective voters go to the polls in the coming days.",
+   "published": "2026-10-23T18:30:00+00:00"
+  },
+  {
+   "id": "58195d059222",
+   "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
+   "link": "https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote.",
+   "published": "2026-10-23T18:22:51+00:00"
+  },
+  {
+   "id": "f1143edd96c8",
+   "title": "Criminals recruiting children to damage Greater Manchester HMOs, police believe",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/23/children-being-exploited-by-criminals-to-target-greater-manchester-hmos-police-say",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Houses being targeted because they are thought to hold immigrants, with dozens of properties affected in recent weeks Criminals are recruiting vulnerable people, including children, to damage houses suspected of being HMOs, police in Manchester believe. In recent weeks, dozens…",
+   "published": "2026-10-23T18:19:43+00:00"
+  },
+  {
+   "id": "c98a631c6a9d",
+   "title": "Can Nvidia’s stock become a safe haven as Wall Street rethinks the AI trade?",
+   "link": "https://www.marketwatch.com/story/can-nvidias-stock-become-a-safe-haven-as-wall-street-rethinks-the-ai-trade-64862936?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Investors favored flashier AI plays earlier this year, but some analysts say Nvidia’s dependability could now hold more appeal.",
+   "published": "2026-10-23T18:19:00+00:00"
+  },
+  {
+   "id": "45f546718dbb",
+   "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+   "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+   "published": "2026-10-23T18:10:56+00:00"
+  },
+  {
+   "id": "ec0890d97ed9",
+   "title": "Raymond James Recruits $700M Advisor Team from Truist",
+   "link": "https://www.wealthmanagement.com/ibd-news/raymond-james-recruits-700m-advisor-team-from-truist",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Southwest Florida team joins Raymond James’ Financial Institutions Division through Pinnacle Financial Partners’ investment program.",
+   "published": "2026-10-23T18:10:26+00:00"
+  },
+  {
+   "id": "37eb0352be5b",
+   "title": "Opinion: Utah’s energy future demands bipartisan action on permitting",
+   "link": "https://www.deseret.com/opinion/2026/10/23/utahs-energy-future-needs-bipartisan-action-on-permitting/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Utah faces a critical moment. As the state and country face unprecedented energy demand and rising costs, there is a real opportunity to strengthen America’s infrastructure: the Bipartisan American Affordability and Jobs Act. This permitting reform bill should be enacted by…",
+   "published": "2026-10-23T18:07:27+00:00"
+  },
+  {
+   "id": "c6774898dfae",
+   "title": "For Serbia’s students, years of protest come down to this weekend’s elections",
+   "link": "https://www.csmonitor.com/World/Europe/2026/1023/serbia-election-vucic-student-list-corruption-protests?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Serbia goes to the polls this weekend, as a student-led protest movement tries to oust the illiberal ruling party that’s widely regarded as corrupt.",
+   "published": "2026-10-23T18:00:11+00:00"
+  },
+  {
+   "id": "1c7374968b75",
+   "title": "Should you let a chatbot manage your money?",
+   "link": "https://www.vox.com/advice/507505/chatgpt-ai-personal-finance-advice",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A complaint I hear a lot from my millennial peers is that our parents didn’t teach us enough about money. I can say that personal finance wasn’t dinner table conversation in my house, and even as I went off to college and started fending for myself, it was almost a taboo…",
+   "published": "2026-10-23T18:00:00+00:00"
+  },
+  {
+   "id": "831253561d80",
+   "title": "Trump administration sues to block possible Democratic win in Alaska",
+   "link": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The lawsuit raises concerns the US administration may be looking to meddle in some of this midterm cycle’s races.",
+   "published": "2026-10-23T17:57:54+00:00"
+  },
+  {
+   "id": "8c2907901aca",
+   "title": "Many feared trapped after multistorey building collapses in Kenya",
+   "link": "https://www.aljazeera.com/news/2026/10/23/many-feared-trapped-after-multistorey-building-collapses-in-kenya?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Officials say building in Nairobi's Eastleigh area had no occupation certificate, but ground floor was in use.",
+   "published": "2026-10-23T17:49:04+00:00"
+  },
+  {
+   "id": "52d658ffb9c8",
+   "title": "Yamal, Mbappe in El Clasico spotlight as 40 cameras dedicated to coverage",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/yamal-mbappe-in-el-clasico-spotlight-as-40-cameras-dedicated-to-coverage?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The coverage includes ultra-high-definition filming, slow-motion replays, and individual player tracking techniques.",
+   "published": "2026-10-23T17:47:20+00:00"
+  },
+  {
+   "id": "467973b301aa",
+   "title": "After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft",
+   "link": "https://www.propublica.org/article/snap-theft-chip-cards-trump-rule",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The post After Millions in Stolen SNAP Benefits, Trump Administration Moves to Fight Theft appeared first on ProPublica .",
+   "published": "2026-10-23T17:45:00+00:00"
+  },
+  {
+   "id": "094572e1413b",
+   "title": "Bayern coach Kompany taken to hospital after collapsing during training",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/bayern-coach-kompany-taken-to-hospital-after-collapsing-during-training?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Belgian had been ​nursing a virus in recent days and had ⁠missed some of his team's training sessions.",
+   "published": "2026-10-23T17:44:05+00:00"
+  },
+  {
+   "id": "d8c923782b59",
+   "title": "Mississippi Cop Who Shot 1-Year-Old Kohen Wiley Resigns After State Calls Shooting 'Justified'",
+   "link": "https://reason.com/2026/10/23/mississippi-cop-who-shot-1-year-old-kohen-wiley-resigns-after-state-calls-shooting-justified/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The resignation comes after the release of bodycam footage that raised questions about the police's handling of the incident.​",
+   "published": "2026-10-23T17:40:37+00:00"
+  },
+  {
    "id": "1140dc2a38e5",
-   "title": "Developer proposes turning to Washington Square into a luxury resort",
+   "title": "Developer proposes turning Washington Square into a luxury resort",
    "link": "https://mirrorindy.org/developer-plan-resort-washington-square-mall-far-eastside-indianapolis/",
    "source": "Mirror Indy",
    "circle_hint": "state",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Residents want change, but are skeptical development will move forward. The post Developer proposes turning to Washington Square into a luxury resort appeared first on Mirror Indy .",
+   "summary": "Residents want change, but are skeptical development will move forward. The post Developer proposes turning Washington Square into a luxury resort appeared first on Mirror Indy .",
    "published": "2026-10-23T17:38:59+00:00"
   },
   {
@@ -156,6 +480,54 @@
    "category_hint": null,
    "summary": "Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback.",
    "published": "2026-10-23T17:35:14+00:00"
+  },
+  {
+   "id": "56f7f0de4ff5",
+   "title": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israeli Prime Minister Benjamin Netanyahu orders a “full lockdown” of the occupied West Bank following a shooting.",
+   "published": "2026-10-23T17:30:51+00:00"
+  },
+  {
+   "id": "403e38432d55",
+   "title": "BYU ‘trap game ahead’: And isn’t it fantastic?",
+   "link": "https://www.deseret.com/sports/2026/10/23/byu-trap-game-ahead-and-isnt-it-fantastic/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "If No. 2-ranked BYU was an ocean liner sailing the high seas, someone might call out, “Iceberg ahead!” But since the Cougars are playing in 80-degree sunshine in Orlando, Florida, on Saturday, I’ll go with, “Trap game ahead!” The Big 12 battle at UCF (1:30 p.m. MDT, Fox) has…",
+   "published": "2026-10-23T17:30:00+00:00"
+  },
+  {
+   "id": "87debbd9e64e",
+   "title": "US consumer sentiment hits a near-record low before midterm elections",
+   "link": "https://www.aljazeera.com/economy/2026/10/23/us-consumer-sentiment-hits-a-near-record-low-before-midterm-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Independent voters’ economic anxieties highlight political implications of plummeting US consumer sentiment.",
+   "published": "2026-10-23T17:26:21+00:00"
+  },
+  {
+   "id": "f2ee87d193ee",
+   "title": "Romania blames Russia after drone sinks ship in the Black Sea",
+   "link": "https://www.aljazeera.com/news/2026/10/23/romania-blames-russia-after-drone-sinks-ship-in-the-black-sea?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "One sailor killed and three others missing after Comoros-flagged Khoryv hit near Romanian waters.",
+   "published": "2026-10-23T17:26:13+00:00"
   },
   {
    "id": "9dd041805e7f",
@@ -194,6 +566,18 @@
    "published": "2026-10-23T17:22:11+00:00"
   },
   {
+   "id": "e86d9c153530",
+   "title": "Why Chinese families are rushing to buy gold",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-chinese-families-are-rushing-to-buy-gold?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "China is experiencing a gold rush as families buy more of it, but not necessarily to wear as jewellery.",
+   "published": "2026-10-23T17:20:22+00:00"
+  },
+  {
    "id": "29b110fe8dec",
    "title": "US and Israel are warned against launching fresh strikes on Iran",
    "link": "https://www.theguardian.com/world/2026/oct/23/european-middle-eastern-ministers-summit-iran-us-israel",
@@ -218,18 +602,6 @@
    "published": "2026-10-23T17:14:59+00:00"
   },
   {
-   "id": "6f70964a9f43",
-   "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was…",
-   "published": "2026-10-23T17:14:16+00:00"
-  },
-  {
    "id": "00001adecbdc",
    "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
    "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
@@ -240,18 +612,6 @@
    "category_hint": null,
    "summary": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she was…",
    "published": "2026-10-23T17:14:16+00:00"
-  },
-  {
-   "id": "a580c2639aed",
-   "title": "Trump’s justice department sues to block Senate race certification in Alaska if Republican loses – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Preliminary lawsuit claims there could be ‘voter confusion’ about the two Dan Sullivans on the ballot, which could influence the race’s outcome in favor of the Democratic nominee, Mary Peltola Sign up for the Breaking News US email With less than two weeks until the midterms,…",
-   "published": "2026-10-23T17:13:13+00:00"
   },
   {
    "id": "f74ca69da0bd",
@@ -326,6 +686,18 @@
    "published": "2026-10-23T16:59:51+00:00"
   },
   {
+   "id": "2bc18ad853e2",
+   "title": "Opinion: It’s not money or duty that sparks more childbearing",
+   "link": "https://www.deseret.com/opinion/2026/10/23/joy-not-money-motivates-people-to-have-children/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Almost every country trying to solve its falling birth rate makes the same fundamental mistake: assuming people just need a bigger check from the government. But throwing money at the baby bust consistently fails for a simple reason — people don’t primarily have children out of…",
+   "published": "2026-10-23T16:52:26+00:00"
+  },
+  {
    "id": "d139ede9e737",
    "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
    "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
@@ -339,15 +711,39 @@
   },
   {
    "id": "9c4b47b27a89",
-   "title": "Reform braces for Farage standards verdict over undeclared £5m gift",
+   "title": "Reform UK braces for Farage standards verdict over undeclared £5m gift",
    "link": "https://www.theguardian.com/politics/2026/oct/23/reform-braces-farage-standards-verdict-undeclared-5m-gift",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Party insiders say they expect initial verdict to be against leader and are preparing to appeal against adverse findings Nigel Farage’s Reform is braced for a negative report from the standards commissioner over his failure to declare a £5m gift from crypto billionaire…",
+   "summary": "Party insiders say they expect initial verdict to be against leader and are preparing to appeal against adverse findings Nigel Farage’s Reform is braced for a negative report from the standards commissioner over his failure to declare a £5m gift from the crypto billionaire…",
    "published": "2026-10-23T16:45:14+00:00"
+  },
+  {
+   "id": "2dab2628e747",
+   "title": "How to attend and watch ‘College GameDay’ at Utah",
+   "link": "https://www.deseret.com/sports/2026/10/23/how-to-attend-and-watch-college-gameday-university-of-utah-utes/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“College GameDay” is back at the University of Utah. For the third time in four years, ESPN’s traveling pregame show will originate from Presidents Circle on Utah’s campus ahead of a big-time matchup between No. 10 Utah and No. 14 Houston. Only Alabama and Ohio State have…",
+   "published": "2026-10-23T16:45:00+00:00"
+  },
+  {
+   "id": "c2d35c0ef766",
+   "title": "Trump administration sues to block Alaska Senate results if Republican loses, citing confusion over 2 Dan Sullivans",
+   "link": "https://www.deseret.com/politics/2026/10/23/trump-administration-sues-alaska-senate-results/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Trump administration is suing the state of Alaska over its Senate election results more than a week before Election Day, possibly putting the outcome in question for a race that could determine the balance of power in Congress. The Justice Department on Thursday filed a…",
+   "published": "2026-10-23T16:44:35+00:00"
   },
   {
    "id": "0624c4717176",
@@ -422,18 +818,6 @@
    "published": "2026-10-23T16:35:48+00:00"
   },
   {
-   "id": "45f546718dbb",
-   "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-   "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
-   "published": "2026-10-23T16:33:11+00:00"
-  },
-  {
    "id": "4600179b6c8e",
    "title": "Thousands of homes without power as Storm Austen hits south-west England",
    "link": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
@@ -442,7 +826,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Dozens of schools in Cornwall also affected as another storm heads for Scotland, Northern Ireland and the north of England Thousands of homes are without power and schools were closed as the first named storm of the year hit UK shores. Storm Austen brought severe conditions to…",
+   "summary": "Dozens of schools in Cornwall also affected as Storm Boelo heads for Scotland, Northern Ireland and north of England Thousands of homes are without power and schools were closed as the first named storm of the year hit UK shores. Storm Austen brought severe conditions to parts…",
    "published": "2026-10-23T16:30:39+00:00"
   },
   {
@@ -454,7 +838,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "A further escalation would 'create nothing but losers', the French foreign minister warns after joint Istanbul meeting .",
+   "summary": "An escalation would 'create nothing but losers', French foreign minister says as US official warns of possible strike.",
    "published": "2026-10-23T16:29:51+00:00"
   },
   {
@@ -482,6 +866,18 @@
    "published": "2026-10-23T16:27:43+00:00"
   },
   {
+   "id": "68e22b09b40d",
+   "title": "First lady Melania Trump secures Russia-Ukraine ceasefire for aid to one city",
+   "link": "https://www.deseret.com/politics/2026/10/23/first-lady-melania-trump-secures-ceasefire-between-russia-ukraine-for-aid-delivery-to-one-city/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "First lady Melania Trump announced Friday that she had successfully secured a ceasefire between Russia and Ukraine, localized to one city, to allow for humanitarian aid to enter and civilians to be evacuated. The localized ceasefire in Oleshky, Ukraine, will begin on Oct. 29,…",
+   "published": "2026-10-23T16:27:27+00:00"
+  },
+  {
    "id": "bfc017780e85",
    "title": "Deals & Moves: Commonwealth Breakaway Kintra Lures Team from LPL",
    "link": "https://www.wealthmanagement.com/ria-news/deals-moves-commonwealth-breakaway-kintra-lures-peer-team-from-lpl",
@@ -494,16 +890,16 @@
    "published": "2026-10-23T16:23:44+00:00"
   },
   {
-   "id": "9c464aa25357",
-   "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-   "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
+   "id": "90b9552d017f",
+   "title": "Opinion: The U.K. is waging war on smoking. Could Utah ‘snuff out’ vaping?",
+   "link": "https://www.deseret.com/opinion/2026/10/23/could-uk-smoking-ban-work-in-utah/",
+   "source": "Deseret News",
+   "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
-   "published": "2026-10-23T16:19:36+00:00"
+   "summary": "The U.K. approved the Tobacco and Vapes Bill in April 2026, making it the first country in the world to successfully implement a plan to phase out all tobacco products over time. Anyone born on or after Jan. 1, 2009, is prohibited from purchasing tobacco products. The goal:…",
+   "published": "2026-10-23T16:22:24+00:00"
   },
   {
    "id": "d7c780964626",
@@ -614,6 +1010,18 @@
    "published": "2026-10-23T16:00:00+00:00"
   },
   {
+   "id": "d1c625f632fc",
+   "title": "Utah State at Texas State: How to watch, listen to or stream the game",
+   "link": "https://www.deseret.com/sports/2026/10/23/utah-state-texas-state-how-to-watch-stream-game/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Utah State (2-4, 1-1 Pac-12) at Texas State (3-3, 1-1 Pac-12) Kickoff: Saturday, 5:30 p.m. MDT Venue: UFCU Stadium TV: CBS Sports Network Radio: Aggie Sports Network (KZNS 1280 The Zone) Series: Utah State has only played Texas State once, back when the Aggies and Bobcats were…",
+   "published": "2026-10-23T16:00:00+00:00"
+  },
+  {
    "id": "8bbed367df58",
    "title": "Watch: CCTV footage appears to show gunmen near church in Jordan",
    "link": "https://www.bbc.co.uk/news/videos/c39wz712q0kzo?at_medium=RSS&at_campaign=rss",
@@ -648,6 +1056,30 @@
    "category_hint": null,
    "summary": "Guardian Europe columnists Rokhaya Diallo and Alexander Hurst answered your questions about the recent protests in France, the role of the French police, foreign influence and the upcoming presidential election. Michael Wolfcarius asks: I cannot understand why the Guardian is…",
    "published": "2026-10-23T15:56:31+00:00"
+  },
+  {
+   "id": "dbb883d32fab",
+   "title": "Deseret News archives: When Brigham Young Academy became a university",
+   "link": "https://www.deseret.com/utah/2024/10/23/deseret-news-archives-when-brigham-young-academy-became-a-university/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Editor’a note: This story was originally published on Oct. 23, 2024. A look back at local, national and world events through Deseret News archives. On Oct. 23, 1903, a unique university was born in Provo, Utah. The school’s origins began in 1875, formed as Brigham Young…",
+   "published": "2026-10-23T15:56:20+00:00"
+  },
+  {
+   "id": "6a00d137644b",
+   "title": "These airports offer easy access to ski areas",
+   "link": "https://www.deseret.com/lifestyle/2026/10/23/us-airports-easy-access-ski-resorts-salt-lake-city-snowbird-brighton/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Utah has a lot going for it when it comes to skiing and snowboarding. Typically, there’s ample snowfall dubbed “the greatest snow on Earth,” making some of the best powder skiing and riding in the world. Sixteen resorts across the state, the majority in close proximity to Salt…",
+   "published": "2026-10-23T15:56:04+00:00"
   },
   {
    "id": "8b54fe70f1c0",
@@ -1654,7 +2086,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "When millions of voters fill out their ballots this November, they won’t just be choosing elected representatives. Many states are offering the chance to impact conservation and wildlife as well, through ballot measures focused on things like dedicating more money to habitat…",
+   "summary": "When millions of voters fill out their ballots in November, they won’t just be choosing elected representatives. Many states are offering the chance to impact conservation and wildlife as well, through ballot measures focused on things like dedicating more money to habitat…",
    "published": "2026-10-23T11:30:00+00:00"
   },
   {
@@ -1982,6 +2414,54 @@
    "published": "2026-10-23T10:00:27+00:00"
   },
   {
+   "id": "46105991bc1e",
+   "title": "‘BYU changed my life’: Danny Ainge glows with gratitude at College Basketball Hall of Fame induction",
+   "link": "https://www.deseret.com/sports/2026/10/23/danny-ainge-byu-college-basketball-hall-of-fame-induction-ceremony-2026/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "KANSAS CITY — Danny Ainge could easily just talk about himself. Over the past half century, he’s claimed a wider range of athletic accomplishments than almost anyone else could ever dream of. It’s tough enough to crack the professional ranks in one sport. Ainge did it in two.…",
+   "published": "2026-10-23T10:00:01+00:00"
+  },
+  {
+   "id": "0048a9ef8f0a",
+   "title": "Utah business, government leaders deepen connections in Ireland",
+   "link": "https://www.deseret.com/politics/2026/10/23/utah-governor-meets-with-prime-minister-of-ireland/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Ireland was nicknamed the “Celtic Tiger” in the 1990s because of its enthusiastic and aggressive efforts to attract companies — especially American companies — to its emerald shores. Thirty years later, it is a European economic powerhouse and is still effectively courting…",
+   "published": "2026-10-23T10:00:01+00:00"
+  },
+  {
+   "id": "417f2b155054",
+   "title": "The DOJ is sending election monitors to Utah. The state’s voters already trust the process",
+   "link": "https://www.deseret.com/politics/2026/10/23/utah-voters-confident-in-election-doj-sending-monitors/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Utah voters are overwhelmingly confident in the state’s election process, new polling shows. Lt. Gov. Deidre Henderson, who oversees state elections, doesn’t want that to change — even as the Justice Department said it will send officials to monitor the midterms next month.…",
+   "published": "2026-10-23T10:00:01+00:00"
+  },
+  {
+   "id": "d2e4d1999650",
+   "title": "Opinion: ‘There’s still a human being in there’ — what ‘The Vanishing Family’ teaches us about the worth of a life",
+   "link": "https://www.deseret.com/opinion/2026/10/22/the-vanishing-family-dementia-medical-aid-in-dying-canada/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Canada is having some second thoughts. A couple of weeks ago, leaders announced that they will not allow people suffering from mental illness alone to seek medically assisted death. Sean Fraser, the country’s minister of justice, told reporters that “while there is not a…",
+   "published": "2026-10-23T10:00:01+00:00"
+  },
+  {
    "id": "7e9cece337c8",
    "title": "How to ban gerrymandering when the Supreme Court is stacked against you",
    "link": "https://www.vox.com/politics/507376/supreme-court-gerrymandering-ban-for-the-people",
@@ -2027,6 +2507,18 @@
    "flourishing_feed": false,
    "category_hint": null,
    "summary": "How much do you know about your family's life insurance and financial planning? Talking about it will create clarity now, before it becomes urgent.",
+   "published": "2026-10-23T10:00:00+00:00"
+  },
+  {
+   "id": "43600e4f0c66",
+   "title": "When free speech collides with OnlyFans",
+   "link": "https://www.deseret.com/education/2026/10/23/onlyfans-free-speech-pornography-community-standards/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The First Amendment of the U.S. Constitution gives Americans the right to free speech. But does it give them the right to make pornographic content as a side gig? That’s the question at the heart of several cases involving educators who were fired after their employers learned…",
    "published": "2026-10-23T10:00:00+00:00"
   },
   {
@@ -2714,6 +3206,18 @@
    "published": "2026-10-23T06:11:17+00:00"
   },
   {
+   "id": "8e16567b6412",
+   "title": "Is it time for the Mammoth to consider other goalie options?",
+   "link": "https://www.deseret.com/sports/2026/10/23/utah-mammoth-lose-5-3-to-seattle-kraken/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Utah Mammoth have one of the most dynamic, exciting forward groups in the NHL and their defensemen are proving to be more than the sum of their parts. But without consistent goaltending, it’s hard to win. That was the case in Utah’s 5-3 loss to the Seattle Kraken Thursday.…",
+   "published": "2026-10-23T06:06:58+00:00"
+  },
+  {
    "id": "757040d4991f",
    "title": "EU entering winter with lowest gas reserves on record, IEA boss warns",
    "link": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss",
@@ -3180,6 +3684,18 @@
    "category_hint": null,
    "summary": "Demonstrators gathered on the sixth anniversary of a near-total abortion ban imposed by Poland's highest court.",
    "published": "2026-10-23T00:54:51+00:00"
+  },
+  {
+   "id": "8cf02297dfbe",
+   "title": "High school girls soccer: Maeser Prep, Waterford get dominant wins in 2A semifinals",
+   "link": "https://www.deseret.com/sports/2026/10/22/high-school-girls-soccer-2a-semifinal-recap/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Here’s a recap of Thursday’s 2A girls soccer semifinals held at Zions Bank Stadium in Herriman, with No. 1 Maeser Prep and No. 2 Waterford advancing to Saturday’s final at 2 p.m. Maeser Prep 5, American Leadership 0 Top-seeded Maeser Prep looked every bit the 2A favorite as it…",
+   "published": "2026-10-23T00:52:40+00:00"
   },
   {
    "id": "c85279feeab5",
@@ -23565,7 +24081,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Thursday, Oct. 22, 2026 TELEVISION FOOTBALL JMU at Appalachian St., ESPNU, 5 p.m. Liberty at Kennesaw St., CBSSN, 5 p.m. ECU at Memphis, ESPN2, 5:30 p.m. GOLF Genesis Championship, GOLF, 5:30 a.m. Bermuda Championship, GOLF, 11 a.m. BMW Ladies Championship, GOLF, 8 p.m. NBA…",
+   "summary": "Friday, Oct. 23, 2026 TELEVISION FOOTBALL N.C. Central at Delaware St., ESPN2, 3 p.m. Duke at Virginia, ESPN, 5 p.m. UMass at UConn, CBSSN, 5 p.m. Union at Ogden, KSL 5.3, 5 p.m. Yale at Penn, ESPNU, 5 p.m. Army at Tulsa, ESPN2, 6:30 p.m. Air Force at Wyoming, KUCW, 7 p.m.…",
    "published": "2026-10-18T06:00:00+00:00"
   },
   {
