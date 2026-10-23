@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T10:44:26.204748+00:00",
+ "generated": "2026-10-23T11:46:41.757287+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 31
+   "count": 24
   },
   {
    "name": "The Guardian World",
@@ -134,6 +134,306 @@
  ],
  "items": [
   {
+   "id": "d7c780964626",
+   "title": "At least one dead and four injured in Paris suburb shooting",
+   "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Anti-terrorism police have taken up the investigation into the incident in Trappes, to the west of Paris.",
+   "published": "2026-10-23T11:44:12+00:00"
+  },
+  {
+   "id": "d139ede9e737",
+   "title": "Oil hits five-month high amid fears US will renew strikes on Iran",
+   "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Brent crude rises to $114.72 a barrel after Tehran threatens retaliatory attacks on Gulf oil and tech facilities Business live – latest updates Oil has hit its highest level in more than five months as fears of fresh escalation in the Middle East conflict grip the energy…",
+   "published": "2026-10-23T11:35:51+00:00"
+  },
+  {
+   "id": "e52a02fc6249",
+   "title": "Andy Burnham warns of ‘winter of greater flooding’ – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The prime minister said the government is having conversation about emergency preparedness A DUP minister has said he is confident MP Carla Lockhart will stay in the party despite leaving its main decision-making body amid a row with party leadership over the future of…",
+   "published": "2026-10-23T11:35:25+00:00"
+  },
+  {
+   "id": "a580c2639aed",
+   "title": "Trump to rally in Florida after stoking Ramaswamy ad furor – US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Trump to campaign for gubernatorial candidate Byron Donalds, who has distanced himself from president; Trump doubled down on support for Ramaswamy Good morning and welcome to our live coverage of US politics. Donald Trump is travelling to Florida today to speak at another rally…",
+   "published": "2026-10-23T11:35:16+00:00"
+  },
+  {
+   "id": "4600179b6c8e",
+   "title": "Thousands of homes without power as Storm Austen hits south-west England",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/23/storm-austen-weather-updates-thousands-without-power-south-west-england",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Dozens of schools in Cornwall also affected by conditions as another storm heads for Scotland, Northern Ireland and the north of England Thousands of homes are without power and schools have been closed as the first named storm of the year hits UK shores. Storm Austen brought…",
+   "published": "2026-10-23T11:32:25+00:00"
+  },
+  {
+   "id": "193d5b0d7f30",
+   "title": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.",
+   "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&T and T-Mobile.",
+   "published": "2026-10-23T11:32:00+00:00"
+  },
+  {
+   "id": "6f254b93b609",
+   "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+   "link": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system during their long siege and subsequent takeover of the city in Darfur a year ago. BBC Africa correspondent Barbara Plett Usher explains.",
+   "published": "2026-10-23T11:30:32+00:00"
+  },
+  {
+   "id": "416da049baf3",
+   "title": "How Much International Exposure (If Any) Should Your ETF Portfolio Have?",
+   "link": "https://www.kiplinger.com/investing/etfs/international-exposure-in-etf-portfolio",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "International stocks can improve diversification, but U.S. investors still need to decide how much foreign exposure belongs in an ETF portfolio.",
+   "published": "2026-10-23T11:30:00+00:00"
+  },
+  {
+   "id": "00001adecbdc",
+   "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Meghan also reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she…",
+   "published": "2026-10-23T11:28:44+00:00"
+  },
+  {
+   "id": "e207000608a1",
+   "title": "The stock market is splitting in two. Is that signaling trouble ahead, or just a new set of winners?",
+   "link": "https://www.marketwatch.com/story/the-stock-market-is-splitting-in-two-is-that-signaling-trouble-ahead-or-just-a-new-set-of-winners-f51aaeab?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Tech stocks are slumping — even as more than 300 S&P 500 constituents rose Thursday — and Treasurys are rallying. Here’s what may be changing.",
+   "published": "2026-10-23T11:24:00+00:00"
+  },
+  {
+   "id": "de2759669676",
+   "title": "The mega-Maga contender in deep-red Florida who doesn’t want to talk about Trump",
+   "link": "https://www.theguardian.com/us-news/2026/oct/23/byron-donalds-florida-trump",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Byron Donalds removed mentions of the president from his website and has barely uttered his name – will his ploy prove successful in a tight governor’s race? It took Byron Donalds, addressing a wildly supportive crowd at a rally in Florida’s bluest county, some time to list…",
+   "published": "2026-10-23T11:22:38+00:00"
+  },
+  {
+   "id": "537af07b2733",
+   "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+   "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
+   "published": "2026-10-23T11:22:25+00:00"
+  },
+  {
+   "id": "6f70964a9f43",
+   "title": "France to deploy 70,000 officers as it braces for weekend of protests – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Interior minister Laurent Nuñez defended blanket bans on demonstrations in some parts of France The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was killed and four others injured. Police…",
+   "published": "2026-10-23T11:21:40+00:00"
+  },
+  {
+   "id": "676bfadc26ed",
+   "title": "Exclusive: Leaked trove reveals extent of far-right AfD’s efforts to court Trump and Maga allies",
+   "link": "https://www.theguardian.com/us-news/2026/oct/23/trump-afd-maga-allies",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Documents show German party’s scramble to request support after president’s 2016 election win and co-leader’s pursuit of Steve Bannon A data leak from Germany’s far-right German Alternative für Deutschland (AfD) has revealed the extent of efforts by the party to court Donald…",
+   "published": "2026-10-23T11:07:00+00:00"
+  },
+  {
+   "id": "20edde206dd8",
+   "title": "France tightens security in anticipation of weekend protests",
+   "link": "https://www.aljazeera.com/news/2026/10/23/france-tightens-security-in-anticipation-of-weekend-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Gatherings banned and curfews extended as cities lock down in an effort to avert further unrest.",
+   "published": "2026-10-23T11:05:13+00:00"
+  },
+  {
+   "id": "9c464aa25357",
+   "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+   "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+   "published": "2026-10-23T11:01:08+00:00"
+  },
+  {
+   "id": "518fa729facc",
+   "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
+   "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "‘It’s a take-back trade,’ says PGIM’s Tipp. ‘Not an all-out fear of recession type of situation.’",
+   "published": "2026-10-23T11:01:00+00:00"
+  },
+  {
+   "id": "21583a785d39",
+   "title": "Today in Supreme Court History: October 23, 1991",
+   "link": "https://reason.com/volokh/2026/10/23/today-in-supreme-court-history-october-23-1991-8/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "10/23/1991: Justice Clarence Thomas takes oath. The post Today in Supreme Court History: October 23, 1991 appeared first on Reason Magazine.",
+   "published": "2026-10-23T11:00:51+00:00"
+  },
+  {
+   "id": "a1b9c79245fd",
+   "title": "The U.S. Tax System Gets a Middling Score",
+   "link": "https://reason.com/2026/10/23/the-u-s-tax-system-gets-a-middling-score/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Fortunately, we do better on overall economic freedom, despite losing ground.",
+   "published": "2026-10-23T11:00:35+00:00"
+  },
+  {
+   "id": "a06ee4e70f77",
+   "title": "What’s up with Trump’s unhinged rants on male candidates’ bodies at rallies?",
+   "link": "https://www.theguardian.com/us-news/2026/oct/23/trump-midterm-rallies-male-bodies",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Trump’s latest tactic to champion Republicans at midterm rallies? Assessing men’s bodies in meticulous detail Speaking at a rally in Youngstown, Ohio, earlier this month, to support the Republican senator Jon Husted, Donald Trump broke from his prepared remarks. Trump said he…",
+   "published": "2026-10-23T11:00:32+00:00"
+  },
+  {
+   "id": "717650a21171",
+   "title": "The Amish have historically never voted. That’s changing in Indiana",
+   "link": "https://mirrorindy.org/amish-voting-indiana-midterms/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Two officials in Elkhart County are pushing more to cast ballots The post The Amish have historically never voted. That’s changing in Indiana appeared first on Mirror Indy .",
+   "published": "2026-10-23T11:00:00+00:00"
+  },
+  {
+   "id": "bb540fbc012c",
+   "title": "Why Meta is charging to post more hyperlinks",
+   "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Social media sites aren't the biggest fans of people leaving via hyperlinks. In fact, Meta has made it subscription-worthy for a Facebook Page to post more than two hyperlinks per month. What's the rationale for companies want to keep you on their site?",
+   "published": "2026-10-23T11:00:00+00:00"
+  },
+  {
+   "id": "5ded994b6b70",
+   "title": "Colleges can do more to prevent sexual assault. Here’s where to start.",
+   "link": "https://www.vox.com/life/507369/colleges-sexual-assault-jane-doe-cornell-frats-greek-life",
+   "source": "Vox",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Last month, a former Cornell University student identified in court papers as “Jane Doe” sued her university and seven members of the Chi Phi fraternity, alleging they raped her at the group’s house in October 2024. Cornell’s own disciplinary process for the incident had ended…",
+   "published": "2026-10-23T11:00:00+00:00"
+  },
+  {
+   "id": "dc0398c6f00b",
+   "title": "First Thing: Former DHS aide Lewandowski investigated over claims he profited from government role",
+   "link": "https://www.theguardian.com/us-news/2026/oct/23/first-thing-corey-lewandowski-under-investigation-homeland-security",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Investigation marks a rare move by the DoJ against an ally of the US president. Plus, why the world’s coral reefs are facing a dire future Good morning. Corey Lewandowski, a former political adviser to Donald Trump and ⁠top aide at the Department ⁠of Homeland Security, ​is…",
+   "published": "2026-10-23T10:53:00+00:00"
+  },
+  {
+   "id": "e1bf558d65ce",
+   "title": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around.",
+   "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Moody’s is set to update its rating on France’s debt after U.S. markets close on Friday.",
+   "published": "2026-10-23T10:45:00+00:00"
+  },
+  {
    "id": "61c3223482b4",
    "title": "Malawi opposition demands answers over president's prolonged stay abroad",
    "link": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
@@ -144,6 +444,30 @@
    "category_hint": null,
    "summary": "This is President Peter Mutharika's fifth visit to South Africa this year.",
    "published": "2026-10-23T10:36:01+00:00"
+  },
+  {
+   "id": "cbf07a885bc9",
+   "title": "Retail sales in Great Britain fall as struggling households cut back",
+   "link": "https://www.theguardian.com/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Latest negative economic update comes as John Healey prepares to announce budget next week Business live – latest updates Retail sales in Great Britain fell more steeply than expected last month, the latest negative economic update before the chancellor, John Healey, announces…",
+   "published": "2026-10-23T10:35:55+00:00"
+  },
+  {
+   "id": "a86a51f086ed",
+   "title": "Boom in weight-loss drugs could lead to fall in beer sales, Heineken warns UK pubs",
+   "link": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "World’s second largest brewer says use of drugs such as Wegovy can reduce desire to drink alcohol • Business live – latest updates Heineken has warned British bars and pubs that the boom in popularity of weight-loss drugs could lead to a fall in sales of beer and cider. The…",
+   "published": "2026-10-23T10:33:37+00:00"
   },
   {
    "id": "69e5c945c4eb",
@@ -178,7 +502,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
+   "summary": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
    "published": "2026-10-23T10:26:06+00:00"
   },
   {
@@ -216,30 +540,6 @@
    "category_hint": null,
    "summary": "This story was originally published in The Highlight. To get access to member-exclusive stories like this every month, become a Vox Member today. In the moody alcoves of a lobby bar in Chicago in 2021 over French 75s, Dr. Louise King, a gynecologic surgeon, and Katie L. Watson,…",
    "published": "2026-10-23T10:22:00+00:00"
-  },
-  {
-   "id": "a86a51f086ed",
-   "title": "Boom in weight-loss drugs could lead to fall in beer sales, Heineken warns UK pubs",
-   "link": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "World’s second largest brewer says use of drugs such as Wegovy can reduce desire to drink alcohol Heineken has warned British bars and pubs that the boom in popularity of weight-loss drugs could lead to a fall in sales of beer and cider. The world’s second-largest brewer sent a…",
-   "published": "2026-10-23T10:21:41+00:00"
-  },
-  {
-   "id": "6f70964a9f43",
-   "title": "Starlink access for Ukraine limited after Trump’s claims satellite service restored, officials say – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The satellite service was still operating at a cap of 161km/hr, crippling key air defences The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was killed and four others injured. Police said…",
-   "published": "2026-10-23T10:21:09+00:00"
   },
   {
    "id": "ff3a9907d150",
@@ -288,18 +588,6 @@
    "category_hint": null,
    "summary": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
    "published": "2026-10-23T10:14:33+00:00"
-  },
-  {
-   "id": "e52a02fc6249",
-   "title": "Andy Burnham warns of ‘winter of greater flooding’ – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The prime minister said the government is having conversation about emergency preparedness As south west England deals with the aftermath of Storm Austen, Andy Burnham said the United Kingdom could face “a winter of greater flooding”. The prime minister was asked if the…",
-   "published": "2026-10-23T10:14:07+00:00"
   },
   {
    "id": "eee3d0d409c3",
@@ -470,18 +758,6 @@
    "published": "2026-10-23T09:37:12+00:00"
   },
   {
-   "id": "9c464aa25357",
-   "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-   "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
-   "published": "2026-10-23T09:36:43+00:00"
-  },
-  {
    "id": "542dd6f753e4",
    "title": "This market signal just occurred for only the second time since 1999. Here’s what happened and what it means.",
    "link": "https://www.marketwatch.com/story/this-market-signal-just-occurred-for-only-the-second-time-since-1999-heres-what-happened-and-what-it-means-a126cf31?mod=mw_rss_topstories",
@@ -518,18 +794,6 @@
    "published": "2026-10-23T09:30:05+00:00"
   },
   {
-   "id": "e1bf558d65ce",
-   "title": "France is getting its credit rating reviewed by Moody’s. What to expect as French debt turmoil spills overseas.",
-   "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Moody’s is set to update its rating on France’s debt after U.S. markets close on Friday.",
-   "published": "2026-10-23T09:28:00+00:00"
-  },
-  {
    "id": "c9543d950bad",
    "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
    "link": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
@@ -550,7 +814,7 @@
    "domain_feed": true,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a post-results bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
+   "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
    "published": "2026-10-23T09:19:00+00:00"
   },
   {
@@ -612,18 +876,6 @@
    "category_hint": null,
    "summary": "Israel's election heats up over ultra-Orthodox conscription debate, reflecting deep societal and political divides.",
    "published": "2026-10-23T09:03:39+00:00"
-  },
-  {
-   "id": "193d5b0d7f30",
-   "title": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.",
-   "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Reports of Starlink’s discussions with cell-tower owners were taken badly by shareholders of Verizon, AT&T and T-Mobile.",
-   "published": "2026-10-23T09:01:00+00:00"
   },
   {
    "id": "d304b3899e9e",
@@ -998,18 +1250,6 @@
    "published": "2026-10-23T07:37:12+00:00"
   },
   {
-   "id": "cbf07a885bc9",
-   "title": "Retail sales in Great Britain fall as struggling households cut back",
-   "link": "https://www.theguardian.com/business/2026/oct/23/retail-sales-in-great-britain-fall-as-struggling-households-cut-back",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Latest negative economic update comes as John Healey is due to announce budget next week Business live – latest updates Retail sales in Great Britain fell more steeply than expected last month, the latest negative economic update before the chancellor, John Healey, announces…",
-   "published": "2026-10-23T07:34:42+00:00"
-  },
-  {
    "id": "eea4f31f94f2",
    "title": "UK consumer confidence falls at fastest rate since Brexit vote as cost of living bites",
    "link": "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
@@ -1224,6 +1464,18 @@
    "category_hint": null,
    "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
    "published": "2026-10-23T05:16:37+00:00"
+  },
+  {
+   "id": "09032effd3dd",
+   "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+   "link": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
+   "published": "2026-10-23T05:05:03+00:00"
   },
   {
    "id": "0ad4f80342a9",
@@ -1898,18 +2150,6 @@
    "published": "2026-10-22T22:08:35+00:00"
   },
   {
-   "id": "518fa729facc",
-   "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
-   "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "‘It’s a take-back trade,’ says PGIM’s Tipp. ‘Not an all-out fear of recession type of situation.’",
-   "published": "2026-10-22T22:07:00+00:00"
-  },
-  {
    "id": "6e4ba4859569",
    "title": "Israel’s election choices will be felt far beyond its borders",
    "link": "https://www.csmonitor.com/Perspectives/Essays/2026/1022/israel-netanyahu-eisenkot-election-iran-trump?icid=rss",
@@ -2331,7 +2571,7 @@
   },
   {
    "id": "2ad5387f6f49",
-   "title": "Watch: 'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+   "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
    "link": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
