@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T03:46:43.604596+00:00",
+ "generated": "2026-10-23T04:45:26.164344+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": true,
-   "count": 20
+   "ok": false,
+   "error": "HTTPError: HTTP Error 404: Not Found"
   },
   {
    "name": "Federal Register: IRS",
@@ -133,6 +133,102 @@
   }
  ],
  "items": [
+  {
+   "id": "ae1637aae470",
+   "title": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
+   "link": "https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Karachi's last two African elephants remain in captivity. Their sisters are already dead. Will they survive?",
+   "published": "2026-10-23T04:27:55+00:00"
+  },
+  {
+   "id": "dd6cd0671797",
+   "title": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
+   "link": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israeli pogroms on Palestinian farmers and their lands during the olive harvest season intensify.",
+   "published": "2026-10-23T04:09:28+00:00"
+  },
+  {
+   "id": "6d1c11498368",
+   "title": "Magnitude-7 earthquake hits China’s Tibet, killing at least 16 and destroying hundreds of homes",
+   "link": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Search and rescue efforts under way after quake strikes region’s north, officials say, while at least seven aftershocks recorded A magnitude-7 earthquake has hit China’s Tibet region, killing at least 16 people, injuring 54 and collapsing hundreds of homes in the northern…",
+   "published": "2026-10-23T04:04:35+00:00"
+  },
+  {
+   "id": "a4567f47f96e",
+   "title": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn",
+   "link": "https://www.theguardian.com/environment/2026/oct/23/heat-killed-staggering-50000-people-european-cities-this-summer-experts",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "People succumbed to heat at highest rates in Malta, Italy and Hungary, with health issues, loneliness and poverty exacerbating toll Heat killed a record 50,000 people in European cities this summer, new research suggests, with scientists blaming climate breakdown for two in…",
+   "published": "2026-10-23T04:01:01+00:00"
+  },
+  {
+   "id": "d93b4fe89e80",
+   "title": "Liechtenstein prince’s ‘surreal’ abortion veto dismays campaigners",
+   "link": "https://www.theguardian.com/world/2026/oct/23/liechtenstein-princes-surreal-abortion-veto-dismays-campaigners",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Alois uses the first veto of his reign to quash parliament-approved bill backed by a national petition The hereditary prince of Liechtenstein has used his veto for the first time in his reign to quash a bill aimed at bringing abortion laws in line with much of Europe. The…",
+   "published": "2026-10-23T04:00:06+00:00"
+  },
+  {
+   "id": "eea4f31f94f2",
+   "title": "UK consumer confidence falls at fastest rate since Covid as cost of living bites",
+   "link": "https://www.theguardian.com/business/2026/oct/23/uk-consumer-confidence-falls-fastest-since-covid-cost-of-living",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Economic fallout from war in Middle East adds to pressures on consumers and on chancellor before budget Consumer confidence in the UK has fallen at the fastest rate outside the Covid pandemic since the 2016 Brexit vote as the escalating economic damage from the war in the…",
+   "published": "2026-10-23T04:00:05+00:00"
+  },
+  {
+   "id": "285d91730b99",
+   "title": "What will Trump do if he loses in November? Your questions answered – podcast",
+   "link": "https://www.theguardian.com/politics/audio/2026/oct/23/us-midterm-elections-donald-trump-your-questions-answered-podcast",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Will Donald Trump accept a ‘blue wave’ if it happens? Have young people turned away from centrist politics for ever? Will the US ever recover its image on the world stage? Jonathan Freedland is joined by the Guardian US columnist Moira Donegan to answer these questions and more…",
+   "published": "2026-10-23T04:00:05+00:00"
+  },
+  {
+   "id": "27aedf231eb6",
+   "title": "Nationals leader Matt Canavan eyes move to lower house as pollster warns of One Nation wipeout",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/23/nationals-leader-matt-canavan-lower-house-capricornia-one-nation-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Michelle Landry announces she will not recontest her Queensland seat of Capricornia at the next election Get our new political email , free app or daily news podcast Matt Canavan could attempt a switch to the House of Representatives after a colleague announced her looming…",
+   "published": "2026-10-23T03:59:41+00:00"
+  },
   {
    "id": "de45d5661eff",
    "title": "Mother sought advice from Alan Jones after broadcaster’s alleged indecent assault of her son, court hears",
@@ -279,7 +375,7 @@
   },
   {
    "id": "440704cf6a74",
-   "title": "‘I’ve killed someone’: Beau Lamarre-Condon allegedly confessed to friend and asked for help cleaning ‘mess’, court told",
+   "title": "‘I’ve killed people’: Beau Lamarre-Condon allegedly confessed to friend and asked for help cleaning ‘mess’, court told",
    "link": "https://www.theguardian.com/australia-news/2026/oct/23/beau-lamarre-condon-allegedly-confessed-to-friend-murder-trial-court-ntwnfb",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -106153,17 +106249,6 @@
    "flourishing_feed": false,
    "summary": "Labor union membership continues to climb in the United States, though the increase remains sharply divided by the politics of individual states. Last year, the nation added more than 411,000 union members — the largest annual growth since 2008, according to a study published…",
    "published": "2026-09-08T08:00:02+00:00"
-  },
-  {
-   "id": "96e8829d6a7a",
-   "title": "Car Loan Interest Deduction",
-   "link": "https://www.federalregister.gov/documents/2026/09/08/2026-18219/car-loan-interest-deduction",
-   "source": "Federal Register: IRS",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "This document contains final regulations regarding the deduction for certain taxpayers for an amount up to $10,000 of qualified passenger vehicle loan interest. This document also contains final regulations regarding new information reporting requirements for certain persons…",
-   "published": "2026-09-08T04:00:00+00:00"
   }
  ]
 }
