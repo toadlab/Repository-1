@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T05:45:01.207465+00:00",
+ "generated": "2026-10-23T06:57:31.775572+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 27
+   "count": 28
   },
   {
    "name": "The Guardian World",
@@ -133,6 +133,126 @@
   }
  ],
  "items": [
+  {
+   "id": "325ad236f113",
+   "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+   "link": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
+   "published": "2026-10-23T06:26:25+00:00"
+  },
+  {
+   "id": "94eaec9459ac",
+   "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms More than a week after allegations that Greens senator Jordon Steele-John had behaved inappropriately towards women made headlines, his position in the…",
+   "published": "2026-10-23T06:22:10+00:00"
+  },
+  {
+   "id": "bcbd955c935c",
+   "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+   "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
+   "published": "2026-10-23T06:15:00+00:00"
+  },
+  {
+   "id": "bdfffb54a88e",
+   "title": "FIFA President Infantino’s re-election endorsed in U-turn by Asian football",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Support crucial from 47-nation AFC's president, who was critic of Gianni Infantino over failed private investment plan.",
+   "published": "2026-10-23T06:11:27+00:00"
+  },
+  {
+   "id": "f9499c5b58bc",
+   "title": "Manchester United labelled ‘babies’ by club legend Wayne Rooney",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/manchester-united-labelled-clowns-by-club-legend-wayne-rooney?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Manchester United manager Michael Carrick is under growing pressure, but club legend Wayne Rooney takes aim at players.",
+   "published": "2026-10-23T06:11:17+00:00"
+  },
+  {
+   "id": "757040d4991f",
+   "title": "EU entering winter with lowest gas reserves on record, IEA boss warns",
+   "link": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Al Jazeera interviews Fatih Birol in Berlin as the Iran war disrupts global energy supplies.",
+   "published": "2026-10-23T06:02:15+00:00"
+  },
+  {
+   "id": "6581114c2a0d",
+   "title": "EU leaders to press Burnham to pay more towards Ukraine’s defence",
+   "link": "https://www.theguardian.com/world/2026/oct/23/eu-uk-summit-burnham-ukraine-defence",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Officials will call on UK to ‘step up’ financial support at Brussels summit – with post-Brexit issues also on agenda EU leaders will press Andy Burnham at a summit in Brussels to contribute more to Ukraine’s defence effort in 2027. EU officials argue that the UK, Canada and…",
+   "published": "2026-10-23T06:00:03+00:00"
+  },
+  {
+   "id": "1fde91062570",
+   "title": "‘We’ve lost a basic sense of politeness’: UK readers reveal daily reality of public transport",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/23/antisocial-behaviour-public-transport-burnham-campaign",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Regular users detail their frustrations – and question whether Andy Burnham’s crackdown on antisocial behaviour will actually work Andy Burnham has announced a campaign against nuisance behaviour on public transport, including “headphone dodgers” who play loud music . “We’ve…",
+   "published": "2026-10-23T06:00:02+00:00"
+  },
+  {
+   "id": "feec98bedb1e",
+   "title": "Friday briefing: How a leaderless student group is challenging power in Serbia",
+   "link": "https://www.theguardian.com/world/2026/oct/23/friday-briefing-how-a-leaderless-student-group-is-challenging-power-in-serbia",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "In today’s newsletter: ​Born from the fury surrounding the deadly Novi Sad station collapse, Serbia’s Student List has taken its protests all the way to the elections in an unprecedented grassroots campaign Good morning. As waves of youth-led protests swell across Europe,…",
+   "published": "2026-10-23T05:43:19+00:00"
+  },
+  {
+   "id": "bc35bf371d86",
+   "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+   "published": "2026-10-23T05:16:37+00:00"
+  },
   {
    "id": "0ad4f80342a9",
    "title": "Putin Wants His Own Munich",
@@ -603,14 +723,14 @@
   },
   {
    "id": "465972919286",
-   "title": "Iran war live: Trump hints new strikes, says US knocked ‘hell out’ of Iran",
+   "title": "Iran war live: European, Mideast ministers meet in Istanbul for talks",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/23/trump-hints-new-strikes-says-us-knocked-hell-out-of-iran?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Trump indicates new strikes on Iran, saying the US has knocked the 'hell out' of the country.",
+   "summary": "European and Mideast foreign ministers meet in Istanbul for talks on the Strait of Hormuz and regional crises.",
    "published": "2026-10-23T00:00:00+00:00"
   },
   {
@@ -662,18 +782,6 @@
    "published": "2026-10-22T23:31:22+00:00"
   },
   {
-   "id": "bc35bf371d86",
-   "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The quake hit a mountainous, sparsely-populated region in north-eastern Tibet.",
-   "published": "2026-10-22T23:22:45+00:00"
-  },
-  {
    "id": "ef3835611c59",
    "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
    "link": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo?at_medium=RSS&at_campaign=rss",
@@ -687,7 +795,7 @@
   },
   {
    "id": "550a37e4dbfb",
-   "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+   "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
    "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -795,7 +903,7 @@
   },
   {
    "id": "84738a388b9c",
-   "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+   "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
    "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -3134,18 +3242,6 @@
    "published": "2026-10-22T14:34:46+00:00"
   },
   {
-   "id": "325ad236f113",
-   "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-   "link": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
-   "published": "2026-10-22T14:33:06+00:00"
-  },
-  {
    "id": "f5600c1702b9",
    "title": "Private Credit Group Says Market Fears Are Divorced From Reality",
    "link": "https://www.wealthmanagement.com/alternative-investments/private-credit-group-says-market-fears-are-divorced-from-reality",
@@ -3168,18 +3264,6 @@
    "category_hint": null,
    "summary": "'We’re not against anyone and we’re not in favour of anyone,' says AFC President Sheikh Salman bin Ebrahim Al Khalifa.",
    "published": "2026-10-22T14:31:28+00:00"
-  },
-  {
-   "id": "bcbd955c935c",
-   "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-   "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
-   "published": "2026-10-22T14:30:00+00:00"
   },
   {
    "id": "c9145985996c",
