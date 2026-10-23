@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T08:48:54.437446+00:00",
+ "generated": "2026-10-23T09:46:51.781208+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -134,6 +134,42 @@
  ],
  "items": [
   {
+   "id": "ba57adb7a991",
+   "title": "Israel orders closure of West Bank after soldiers kill 2 men behind an alleged attack",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-6013333/netanyahu-closure-west-bank",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israeli soldiers shot and killed two men who the military said had launched an attack near the city of Hebron in the occupied West Bank on Friday morning. At least five people were injured, including some critically.",
+   "published": "2026-10-23T09:40:32+00:00"
+  },
+  {
+   "id": "77fd204f109f",
+   "title": "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
+   "link": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Governments around the world are rushing to implement safety measures after AI technology found 'severe' vulnerabilities in a key programming language called PHP.",
+   "published": "2026-10-23T09:37:38+00:00"
+  },
+  {
+   "id": "c0417de83a3e",
+   "title": "Briton facing forced separation from baby son after Sweden orders his deportation",
+   "link": "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Exclusive: Photographer Simon Montgomery told ‘state’s interest in regulated immigration’ outweighs his family concerns UK politics live – latest updates Europe live – latest updates A British photographer is facing deportation from Sweden and forced separation from his…",
+   "published": "2026-10-23T09:37:12+00:00"
+  },
+  {
    "id": "9c464aa25357",
    "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
    "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
@@ -142,8 +178,56 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
-   "published": "2026-10-23T08:36:32+00:00"
+   "summary": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+   "published": "2026-10-23T09:36:43+00:00"
+  },
+  {
+   "id": "542dd6f753e4",
+   "title": "This market signal just occurred for only the second time since 1999. Here’s what happened and what it means.",
+   "link": "https://www.marketwatch.com/story/this-market-signal-just-occurred-for-only-the-second-time-since-1999-heres-what-happened-and-what-it-means-a126cf31?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "An unusual occurrence with breadth and the stock market just occurred.",
+   "published": "2026-10-23T09:35:00+00:00"
+  },
+  {
+   "id": "fb228bc65512",
+   "title": "What role does the military play in Israeli schools?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "For Israeli teenagers, military life ordinarily kicks off in school.",
+   "published": "2026-10-23T09:32:33+00:00"
+  },
+  {
+   "id": "ba54eb4a10c0",
+   "title": "Pulaku: The two faces of Nigeria’s vigilantes",
+   "link": "https://www.aljazeera.com/features/longform/2026/10/23/pulaku-the-two-faces-of-nigerias-vigilantes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Allegations of torture and abuse shadow a Fulani-led vigilante group despite its role in clamping down on kidnappers.",
+   "published": "2026-10-23T09:30:05+00:00"
+  },
+  {
+   "id": "e1bf558d65ce",
+   "title": "France is getting its credit rating reviewed by Moody’s. What to expect as French debt turmoil spills overseas.",
+   "link": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Moody’s is set to update its rating on France’s debt after U.S. markets close on Friday.",
+   "published": "2026-10-23T09:28:00+00:00"
   },
   {
    "id": "6f70964a9f43",
@@ -154,8 +238,368 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "The satellite service was still operating at a cap of 161km/hr, crippling key air defences In Vienna this morning, Austria’s foreign ministry has announced it is kicking out another four Russian diplomats over “activities incompatible ⁠with their diplomatic status” – a…",
-   "published": "2026-10-23T08:31:34+00:00"
+   "summary": "The satellite service was still operating at a cap of 161km/hr, crippling key air defences But Macron’s government has ramped up restrictions and protest curbs, to try and stop the looting and ransacking we saw on the fringes of the wider peaceful demonstrations last week.…",
+   "published": "2026-10-23T09:26:52+00:00"
+  },
+  {
+   "id": "e52a02fc6249",
+   "title": "Government won’t put together ‘shopping list’ for public to stockpile for emergency – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Ministers have repeated several warnings in the last 18 months about the threat of hybrid attacks from overseas Andy Burnham is “determined” to introduce the tourist tax across the country and could overrule councils and elected mayors, the Times has reported. Burnham told an…",
+   "published": "2026-10-23T09:22:32+00:00"
+  },
+  {
+   "id": "e88b48cb20e3",
+   "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
+   "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a post-results bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
+   "published": "2026-10-23T09:19:00+00:00"
+  },
+  {
+   "id": "887dc38636d0",
+   "title": "Javier Milei's Case Against AI Regulation",
+   "link": "https://reason.com/2026/10/23/quote-keep-ai-unregulated/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "\"Keep AI unregulated,\" the Argentine president wrote in support of his proposed plan to boost artificial intelligence.",
+   "published": "2026-10-23T09:15:36+00:00"
+  },
+  {
+   "id": "beea5e363697",
+   "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+   "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
+   "published": "2026-10-23T09:15:00+00:00"
+  },
+  {
+   "id": "17adfec61734",
+   "title": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Rwanda's controversial Formula One GP leads Lewis Hamilton to call for freedom for DR Congo, while renewing Palestine plea.",
+   "published": "2026-10-23T09:12:46+00:00"
+  },
+  {
+   "id": "e635f4785570",
+   "title": "Israeli military kills two in gun battle in occupied West Bank",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israel’s PM is preparing to order a shutdown in the occupied West Bank lockdown after a shooting near Hebron.",
+   "published": "2026-10-23T09:12:38+00:00"
+  },
+  {
+   "id": "a86a51f086ed",
+   "title": "Boom in weight-loss drugs could lead to drop in beer sales, Heineken warns British pubs",
+   "link": "https://www.theguardian.com/business/2026/oct/23/weight-loss-drugs-beer-sales-heineken-british-pubs-wegovy",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "World’s second largest brewer says use of drugs such as Wegovy can reduce desire to drink alcohol Heineken has warned British bars and pubs that the boom in popularity of weight-loss drugs could lead to a fall in sales of beer and cider. The world’s second largest brewer sent a…",
+   "published": "2026-10-23T09:08:36+00:00"
+  },
+  {
+   "id": "0b01b800f0fd",
+   "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
+   "link": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israel's election heats up over ultra-Orthodox conscription debate, reflecting deep societal and political divides.",
+   "published": "2026-10-23T09:03:39+00:00"
+  },
+  {
+   "id": "193d5b0d7f30",
+   "title": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.",
+   "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Reports of Starlink’s discussions with cell-tower owners were taken badly by shareholders of Verizon, AT&T and T-Mobile.",
+   "published": "2026-10-23T09:01:00+00:00"
+  },
+  {
+   "id": "d304b3899e9e",
+   "title": "Commentary: Schools are making cuts even though more money is coming in",
+   "link": "https://indianacapitalchronicle.com/2026/10/23/are-schools-really-seeing-cuts-what-you-need-to-know/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Many of you will see a property tax referendum for your local school district on your ballot this year. And you have likely heard lots of concern from superintendents and school boards about cuts to their funding. I wanted to give you some important context before you make your…",
+   "published": "2026-10-23T09:00:53+00:00"
+  },
+  {
+   "id": "e98f008fb76f",
+   "title": "White House visits, overseas conferences among Indiana officials’ $132K in travel expenses",
+   "link": "https://indianacapitalchronicle.com/2026/10/23/white-house-visits-overseas-conferences-among-indiana-officials-132k-in-travel-expenses/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Gov. Mike Braun led Indiana’s top officials in reported travel expenses last fiscal year, narrowly outspending Secretary of State Diego Morales even as most of the governor’s travel kept him within Indiana. Other officials ventured farther. Their schedules included a White…",
+   "published": "2026-10-23T09:00:44+00:00"
+  },
+  {
+   "id": "5a7fd928fad6",
+   "title": "Alexa and Siri aren’t in this tech guru’s friend group",
+   "link": "https://www.csmonitor.com/Arts-Culture/Books/2026/1023/sherry-turkle-artificial-intimacy-book-review?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Sherry Turkle’s new book cautions against forming attachments with AI chatbots.",
+   "published": "2026-10-23T09:00:16+00:00"
+  },
+  {
+   "id": "23b9f81548bf",
+   "title": "Side hustles change the way young people in UK see work and careers",
+   "link": "https://www.csmonitor.com/World/Europe/2026/1023/side-hustle-uk-twentysomethings-young-jobs?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Faced with dwindling job opportunities, high property prices, and student debt, young people are looking at alternative ways of making a living.",
+   "published": "2026-10-23T09:00:10+00:00"
+  },
+  {
+   "id": "4efa46bed3b6",
+   "title": "How Much Contempt Does Javier Milei Have for the State?",
+   "link": "https://reason.com/2026/10/23/quote-my-contempt-for-the-state-is-infinite/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A notable quote from the Argentine leader's 2024 Economist interview",
+   "published": "2026-10-23T09:00:01+00:00"
+  },
+  {
+   "id": "bde5ba6b5d95",
+   "title": "Fewer Indiana students are missing school, but high schoolers are still absent the most",
+   "link": "https://mirrorindy.org/fewer-indiana-students-are-missing-school-but-high-schoolers-are-still-absent-the-most/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The state average is now 14.9% of students chronically absent for the 2025-26 school year. The post Fewer Indiana students are missing school, but high schoolers are still absent the most appeared first on Mirror Indy .",
+   "published": "2026-10-23T09:00:00+00:00"
+  },
+  {
+   "id": "d6c6c00f9358",
+   "title": "Auto repair shop withdraws proposal to develop southside wetland",
+   "link": "https://mirrorindy.org/franklin-township-indianapolis-pleasant-run-creek-watershed-rezone-petition-withdrawn-southside-metropolitan-development-commission/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Franklin Township neighbors hope to create a nature preserve instead. The post Auto repair shop withdraws proposal to develop southside wetland appeared first on Mirror Indy .",
+   "published": "2026-10-23T09:00:00+00:00"
+  },
+  {
+   "id": "c83ad421c3c5",
+   "title": "What if you gave yourself a day to cancel all the plans you dread?",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-6011089/how-to-plan-a-say-no-retreat",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "It's a day to think about all the upcoming appointments and commitments you're dreading — and then decline some of them. Writer Caroline Sylge shares a suggested schedule for the day.",
+   "published": "2026-10-23T09:00:00+00:00"
+  },
+  {
+   "id": "5132526dc6dc",
+   "title": "With jet fuel prices near a record, holiday airfares soar higher",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-6009506/jet-fuel-price-holiday-airfare",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "If you're planning to fly this holiday season, be prepared to pay more than you did last year. The price of jet fuel — one of airlines' biggest expenses — is close to an all-time high in the U.S.",
+   "published": "2026-10-23T09:00:00+00:00"
+  },
+  {
+   "id": "c5d2196db11e",
+   "title": "Gen Z candidates in both parties aim to tackle high housing costs",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-5983813/gen-z-candidates-midterms-housing-affordability",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Young candidates who rent or live with parents say their generation is \"in the thick\" of the country's housing affordability crisis. They argue this gives them new energy to solve it for everyone.",
+   "published": "2026-10-23T09:00:00+00:00"
+  },
+  {
+   "id": "7b7ab11236b5",
+   "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Kim Aris tells NPR his mother sounds strong but is in pain. He says she is held at a residence in the capital.",
+   "published": "2026-10-23T09:00:00+00:00"
+  },
+  {
+   "id": "73498a44908c",
+   "title": "Amid Trump's assaults on DEI, how one university is elevating Black students",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-5797959/one-university-elevating-black-students",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "As many colleges roll back or eliminate such programs, Sacramento State has expanded its offerings for students of color.",
+   "published": "2026-10-23T09:00:00+00:00"
+  },
+  {
+   "id": "51bfe497d9fa",
+   "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future.",
+   "published": "2026-10-23T09:00:00+00:00"
+  },
+  {
+   "id": "839784e79f8c",
+   "title": "Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act.",
+   "link": "https://www.propublica.org/article/bird-flu-mink-farm-utah-human-risk",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The post Bird Flu Is Raging on a Mink Farm. It Could Spark a Human Pandemic, Experts Say, but Officials Won’t Act. appeared first on ProPublica .",
+   "published": "2026-10-23T09:00:00+00:00"
+  },
+  {
+   "id": "264f906817a0",
+   "title": "NBA star Precious Achiuwa signs on for $1.8 million condo in luxury Miami tower",
+   "link": "https://www.marketwatch.com/story/nba-star-precious-achiuwa-signs-on-for-1-8-million-condo-in-luxury-miami-tower-95d899c2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Sacramento Kings forward Precious Achiuwa has signed for a $1.84M condo inside a lavish Miami development that has already attracted several high-profile athletes.",
+   "published": "2026-10-23T08:59:00+00:00"
+  },
+  {
+   "id": "9fe43c2afc4c",
+   "title": "Reader Q&A: what’s next for France? Ask our Europe columnists",
+   "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from readers about the riots and protests in France at 3pm BST / 4pm CEST today. Send your questions by email now to conversations@theguardian.com or join the discussion in the comments…",
+   "published": "2026-10-23T08:54:53+00:00"
+  },
+  {
+   "id": "2df09231ada9",
+   "title": "Macron to meet student groups: Where are France’s protests heading?",
+   "link": "https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "President to meet for first time with student representatives on Friday before further protests.",
+   "published": "2026-10-23T08:50:23+00:00"
+  },
+  {
+   "id": "db2a67dade49",
+   "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+   "link": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
+   "published": "2026-10-23T08:45:58+00:00"
+  },
+  {
+   "id": "fa13dae017a1",
+   "title": "Morning news brief",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-6003504/morning-news-brief",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "U.S. and Israel are planning for a possible attack on Iran, millions of Americans have voted early, judge orders President Trump to sit for deposition in BBC lawsuit.",
+   "published": "2026-10-23T08:44:19+00:00"
+  },
+  {
+   "id": "fffac6dc833b",
+   "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "LeBron James enjoys 114-106 NBA victory over Cleveland Cavaliers, hours after US president calls him a 'disgrace'.",
+   "published": "2026-10-23T08:42:10+00:00"
+  },
+  {
+   "id": "9c9b369cb67e",
+   "title": "Israeli forces accused of killing disabled man in Syria raid",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israeli forces reportedly shot dead a Syrian man with an intellectual disability and hearing problems, during a raid.",
+   "published": "2026-10-23T08:35:44+00:00"
   },
   {
    "id": "a0cbb500670e",
@@ -180,18 +624,6 @@
    "category_hint": null,
    "summary": "Storm Adam brings heavy rain to Valencia, Alicante and Balearic Islands, as Storm Austen gusts strike England and Wales Storm Adam brought torrential rain to eastern Spain earlier this week. In Pego, Alicante, 632mm fell in 36 hours with 430mm of this falling in just six hours,…",
    "published": "2026-10-23T08:16:30+00:00"
-  },
-  {
-   "id": "e52a02fc6249",
-   "title": "Government won’t put together ‘shopping list’ for public to stockpile for emergency – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Ministers have repeated several warnings in the last 18 months about the threat of hybrid attacks from overseas Andy Burnham has been meeting armed forces veterans and Royal British Legion Poppy Appeal collectors to mark the start of the year’s campaign. Burnham welcomed them…",
-   "published": "2026-10-23T08:12:30+00:00"
   },
   {
    "id": "a4b8ee71c378",
@@ -262,7 +694,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Search and rescue efforts under way after quake strikes region’s north, officials say, with at least seven aftershocks recorded A magnitude-7 earthquake has hit Tibet, killing at least 16 people, injuring 54 and destroying hundreds of homes in the northern regional city of…",
+   "summary": "Search and rescue efforts under way after quake strikes region’s north, with at least seven aftershocks recorded A magnitude-7 earthquake has hit Tibet, killing at least 16 people, injuring 54 and destroying hundreds of homes in the northern regional city of Nagqu, official…",
    "published": "2026-10-23T07:53:58+00:00"
   },
   {
@@ -663,14 +1095,14 @@
   },
   {
    "id": "dd6cd0671797",
-   "title": "Israeli military kills 2 in Hebron gun battle as tensions soar in West Bank",
+   "title": "Israel preparing full lockdown of occupied West Bank after Hebron gunfight",
    "link": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Violence flares as Israeli pogroms heighten tension across Palestinian territory.",
+   "summary": "Clampdown comes as Israeli pogroms heighten tensions and spread violence across Palestinian territory.",
    "published": "2026-10-23T04:09:28+00:00"
   },
   {
@@ -2724,18 +3156,6 @@
    "category_hint": null,
    "summary": "The Brazilian president accuses the tech firm of favouring Flávio Bolsonaro, which it denies.",
    "published": "2026-10-22T17:01:47+00:00"
-  },
-  {
-   "id": "9fe43c2afc4c",
-   "title": "Reader Q&A: What’s next for France after a weekend of riots? Ask our Europe columnists",
-   "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "At 3pm BST / 4pm CEST Friday 23 Oct , Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from our readers about the riots and protests in France. Send your questions by email now to conversations@theguardian.com , or join the discussion…",
-   "published": "2026-10-22T16:54:48+00:00"
   },
   {
    "id": "ac78bf1e64af",
@@ -106648,28 +107068,6 @@
    "flourishing_feed": false,
    "summary": "When a powerful storm tore through Gary, Indiana, knocking out the power for two weeks, Tiffany Harrison, a mother of three, had to throw out all of the food that had spoiled in her fridge and deep freezer. It was a big hit to her family in this majority-Black city where…",
    "published": "2026-09-08T17:31:37+00:00"
-  },
-  {
-   "id": "fbe8bfbea441",
-   "title": "$68 billion is up for grabs in Medicaid. Who wants it?",
-   "link": "https://indianacapitalchronicle.com/2026/09/08/68-billion-is-up-for-grabs-in-medicaid-who-wants-it/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "What would you do with $68 billion? That is the size of the decision Indiana is about to make. The state recently launched a procurement so large it will determine who delivers health care to nearly 1.5 million Hoosiers. The companies that win will not be building highways or…",
-   "published": "2026-09-08T09:00:19+00:00"
-  },
-  {
-   "id": "4882a1bba833",
-   "title": "What’s the Lincoln Party? Ballard’s secretary of state run could expand Indiana ballot access",
-   "link": "https://indianacapitalchronicle.com/2026/09/08/whats-the-lincoln-party-ballards-secretary-of-state-run-could-expand-indiana-ballot-access/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Former Indianapolis Mayor Greg Ballard touts his run for secretary of state under the new Lincoln Party banner as a way to burst open an easier path for independent-minded candidates to make the election ballot. ClaraMary Winebrenner, a Republican office…",
-   "published": "2026-09-08T09:00:10+00:00"
   }
  ]
 }
