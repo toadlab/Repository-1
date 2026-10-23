@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T19:43:42.525336+00:00",
+ "generated": "2026-10-23T20:46:43.279221+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "name": "The Guardian World",
@@ -134,6 +134,282 @@
  ],
  "items": [
   {
+   "id": "a64d51764e73",
+   "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+   "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Republican senator faces critical re-election battle in state where president’s trade war has outraged voters Donald Trump dropped some of its tariffs on Canada on Friday to “better serve the public interest” the White House said, handing a win to Susan Collins, the embattled…",
+   "published": "2026-10-23T20:36:12+00:00"
+  },
+  {
+   "id": "ab1437d9e006",
+   "title": "Mikhail Sergachev didn’t choose a leadership role. It chose him",
+   "link": "https://www.deseret.com/sports/2026/10/23/mikhail-sergachev-utah-mammoth-leadership/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Mikhail Sergachev arrived in Utah in a unique situation. The trade happened four days after his 26th birthday and two days before his no-trade clause kicked in. The newly arrived Utah Hockey Club was one of the youngest teams in the NHL, so despite Sergachev’s young age, his…",
+   "published": "2026-10-23T20:30:00+00:00"
+  },
+  {
+   "id": "e8b5cc53cebe",
+   "title": "5 Questions About Power of Attorney After Seeing 'You Can See Everything'",
+   "link": "https://www.kiplinger.com/retirement/estate-planning/questions-about-power-of-attorney-after-you-can-see-everything-elizabeth-holmes",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The new documentary \"You Can See Everything\" about Elizabeth Holmes prompted some questions about power of attorney privileges.",
+   "published": "2026-10-23T20:27:13+00:00"
+  },
+  {
+   "id": "afd3e11edb56",
+   "title": "‘Good morning, Israel’: An Arab-run radio station aims to tell the full story",
+   "link": "https://www.csmonitor.com/World/Middle-East/2026/1023/nazareth-israel-arab-palestinian-radio-nas?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Nas Radio has become an important source of news and information for Arab citizens in Israel.",
+   "published": "2026-10-23T20:21:58+00:00"
+  },
+  {
+   "id": "ada5a338697a",
+   "title": "Indiana police officer arrested for using Flock cameras to search wife",
+   "link": "https://www.theguardian.com/us-news/2026/oct/23/indiana-police-arrest-flock-wife",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Justin Craig charged with official misconduct and fraud, after searching plates of wife and ‘previous acquaintance’ An Indiana police officer has been arrested on allegations that he misused Flock cameras hundreds of times in a case involving his wife and a previous…",
+   "published": "2026-10-23T20:19:56+00:00"
+  },
+  {
+   "id": "8416e9aa1929",
+   "title": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
+   "link": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Oil has climbed back to an Iran-war high and may soon go higher, if the U.S. and Israel strike Iran after their respective voters go to the polls in the coming days.",
+   "published": "2026-10-23T20:19:00+00:00"
+  },
+  {
+   "id": "7cf7738543d3",
+   "title": "The U.S. economy is great by this measure, and the good times aren’t over. So why are Americans so sour?",
+   "link": "https://www.marketwatch.com/story/the-u-s-economy-is-great-by-this-measure-and-the-good-times-arent-over-so-why-are-americans-so-sour-4be897db?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A once-in-a-generation investment boom has created lots of winners — but many Americans are feeling left out.",
+   "published": "2026-10-23T20:19:00+00:00"
+  },
+  {
+   "id": "e30bbbd76536",
+   "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+   "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+   "published": "2026-10-23T20:18:13+00:00"
+  },
+  {
+   "id": "a580c2639aed",
+   "title": "Trump repeats false claim that other Dan Sullivan on Alaska ballot is ‘cheating’ during Florida rally - live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Dan S Sullivan, the incumbent, will face Dan J Sullivan, a retired schoolteacher who is also a registered Republican. On stage, Trump claimed again that this is a move orchestrated to boost Democrat Mary Peltola Sign up for the Breaking News US email With less than two weeks…",
+   "published": "2026-10-23T20:17:18+00:00"
+  },
+  {
+   "id": "8749ec8fc5ea",
+   "title": "No. 10 Utah vs. No. 14: How to watch, listen to or stream the game",
+   "link": "https://www.deseret.com/sports/2026/10/23/how-to-watch-utah-vs-houston-as-college-gameday-comes-to-salt-lake/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Houston (6-1, 3-1) at No. 10 Utah (6-0, 3-0) Kickoff: Saturday, 8:15 p.m. MDT Venue: Rice-Eccles Stadium TV: ESPN Livestream: ESPN app with participating TV provider Radio: ESPN 700 AM/92.1 FM /KZNS 1280 Series: Houston is undefeated all-time against the Utes with five wins…",
+   "published": "2026-10-23T20:15:00+00:00"
+  },
+  {
+   "id": "af134029c071",
+   "title": "Dow Drops 652 Points as Oil, Treasury Yields Rise: Stock Market Today",
+   "link": "https://www.kiplinger.com/investing/stocks/dow-drops-652-points-as-oil-treasury-yields-rise-stock-market-today",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Tensions between the U.S. and Iran rattled markets and lifted oil prices ahead of next week's Fed meeting.",
+   "published": "2026-10-23T20:09:23+00:00"
+  },
+  {
+   "id": "dcfed4b2e0b1",
+   "title": "Russia, Ukraine agree to Melania Trump-brokered localised ceasefire",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire in Oleshky.",
+   "published": "2026-10-23T20:02:21+00:00"
+  },
+  {
+   "id": "612de26aaba8",
+   "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+   "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I’m 32 years old and feel like I should know how to do this stuff by now.”",
+   "published": "2026-10-23T20:02:00+00:00"
+  },
+  {
+   "id": "5777b24c58cb",
+   "title": "Trump’s broken promises: economy, war and ICE",
+   "link": "https://www.aljazeera.com/video/head-to-head/2026/10/23/trumps-broken-promises-economy-war-and-ice?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Mehdi Hasan debates ex-Trump adviser Steve Cortes on the economy, Trump’s immigration policies and Islamophobia.",
+   "published": "2026-10-23T20:01:21+00:00"
+  },
+  {
+   "id": "beea5e363697",
+   "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+   "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
+   "published": "2026-10-23T20:00:00+00:00"
+  },
+  {
+   "id": "c7fd78983f2e",
+   "title": "Judge weighing whether Election Commission must take up complaints before Election Day",
+   "link": "https://indianacapitalchronicle.com/2026/10/23/judge-weighing-whether-election-commission-must-take-up-complaints-before-election-day/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "An attorney for the state argued Friday that the Indiana Election Commission has no obligation to consider campaign misconduct allegations ahead of Election Day.",
+   "published": "2026-10-23T19:57:49+00:00"
+  },
+  {
+   "id": "e5219638d4ca",
+   "title": "Tigray rebels urged to disarm as commander vows to fight Ethiopia’s gov’t",
+   "link": "https://www.aljazeera.com/news/2026/10/23/tigray-official-urges-rebels-to-disarm?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Rebel commander pledged to continue fighting government-allied forces who seized Ethiopia's Tigray capital.",
+   "published": "2026-10-23T19:55:44+00:00"
+  },
+  {
+   "id": "6f70964a9f43",
+   "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – as it happened",
+   "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was…",
+   "published": "2026-10-23T19:51:21+00:00"
+  },
+  {
+   "id": "8aae5d6062f5",
+   "title": "Under Proposed Treasury Rule, Corporate Homebuyers Who Don't Track Their Receipts Face $1 Million Fines",
+   "link": "https://reason.com/2026/10/23/under-proposed-treasury-rule-corporate-homebuyers-who-dont-track-their-receipts-face-1-million-fines/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The proposed regulations implement the restrictions on large investor purchases of single-family homes passed by Congress this year.",
+   "published": "2026-10-23T19:50:09+00:00"
+  },
+  {
+   "id": "685ee1a1e308",
+   "title": "Even the wealthy increasingly want all-inclusive resorts",
+   "link": "https://www.marketwatch.com/story/even-the-wealthy-increasingly-want-all-inclusive-resorts-118caa9b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Nearly 80% of all-inclusive resorts have become ‘luxury or upper upscale,’ Bernstein analysts say, as the industry seeks higher-income travelers able to weather inflation.",
+   "published": "2026-10-23T19:49:00+00:00"
+  },
+  {
+   "id": "45f546718dbb",
+   "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+   "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+   "published": "2026-10-23T19:46:30+00:00"
+  },
+  {
+   "id": "0e9cfe2fac9f",
+   "title": "Ecuador judge orders pre-trial detention of leftist presidential candidate",
+   "link": "https://www.aljazeera.com/news/2026/10/23/ecuador-judge-orders-pre-trial-detention-of-leftist-presidential-candidate?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Luisa Gonzalez, who lost to right-wing president Daniel Noboa in 2023, has called the arrest political persecution.",
+   "published": "2026-10-23T19:45:26+00:00"
+  },
+  {
+   "id": "64994eae2c60",
+   "title": "This Utah theater has become a cultural destination. Here are my top 10 shows",
+   "link": "https://www.deseret.com/entertainment/2026/10/23/eccles-theater-best-shows-salt-lake-city-utah/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Over the 10 years since the Eccles Theater on Salt Lake City’s Main Street opened its doors, the initial projections and expectations for the roughly 2,500-seat venue have been exceeded by far. The theater has transformed into a cultural destination in the West, driving over…",
+   "published": "2026-10-23T19:44:54+00:00"
+  },
+  {
    "id": "d7c780964626",
    "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
    "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
@@ -144,6 +420,18 @@
    "category_hint": null,
    "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
    "published": "2026-10-23T19:42:08+00:00"
+  },
+  {
+   "id": "294b88577741",
+   "title": "Elections in four nations highlight the role of rule of law",
+   "link": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/1023/Elections-in-four-nations-highlight-the-role-of-rule-of-law?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Amid a global authoritarian drift, citizens of Brazil, Serbia, Israel, and the United States have an opportunity to uphold democratic and economic freedoms.",
+   "published": "2026-10-23T19:41:30+00:00"
   },
   {
    "id": "cdb30e4a762a",
@@ -195,7 +483,7 @@
   },
   {
    "id": "f8deac049ef3",
-   "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+   "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
    "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -204,6 +492,18 @@
    "category_hint": null,
    "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
    "published": "2026-10-23T19:30:19+00:00"
+  },
+  {
+   "id": "b2cce9a62d2a",
+   "title": "The New Rules of Record Keeper Selection",
+   "link": "https://www.wealthmanagement.com/rpa-news/record-keepers-must-tailor-service-to-advisor-type",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Study data show advocacy scores alone do not secure new plans; specialists, hybrids and wealth advisors each need distinct record keeper support to grow their practices efficiently.",
+   "published": "2026-10-23T19:29:43+00:00"
   },
   {
    "id": "b9ba66e4fbae",
@@ -219,7 +519,7 @@
   },
   {
    "id": "495a65e1a1a8",
-   "title": "Macron condemns racism after one killed in terrorist shooting near Paris",
+   "title": "Macron condemns racism after one killed in ‘terrorist’ shooting near Paris",
    "link": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -240,18 +540,6 @@
    "category_hint": null,
    "summary": "A rare tornado in Heber-Overgaard, Arizona, touched down Wednesday around 7:15 p.m., leaving a man with life-threatening injuries, two dozen structures damaged and many power lines destroyed, 12 News reported . Arizona has averaged 3.9 tornadoes a year since 1950 — far below…",
    "published": "2026-10-23T19:21:28+00:00"
-  },
-  {
-   "id": "a580c2639aed",
-   "title": "Trump touts lawsuit to block Senate race certification in Alaska: ‘I’m the one that said do it’ – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Preliminary lawsuit claims there could be ‘voter confusion’ about the two Dan Sullivans on the ballot, which could influence the race’s outcome in favor of the Democratic nominee, Mary Peltola Sign up for the Breaking News US email With less than two weeks until the midterms,…",
-   "published": "2026-10-23T19:20:31+00:00"
   },
   {
    "id": "f1d836a1f142",
@@ -278,18 +566,6 @@
    "published": "2026-10-23T19:16:00+00:00"
   },
   {
-   "id": "685ee1a1e308",
-   "title": "Even the wealthy increasingly want all-inclusive resorts",
-   "link": "https://www.marketwatch.com/story/even-the-wealthy-increasingly-want-all-inclusive-resorts-118caa9b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Nearly 80% of all-inclusive resorts have become ‘luxury or upper upscale,’ Bernstein analysts say, as the industry seeks higher-income travelers able to weather inflation",
-   "published": "2026-10-23T19:13:00+00:00"
-  },
-  {
    "id": "f4772cfd0db3",
    "title": "Utah Housing Corporation shakeup continues as president and CEO resigns",
    "link": "https://www.deseret.com/entertainment/2026/10/23/utah-housing-commission-leader-resigns/",
@@ -300,18 +576,6 @@
    "category_hint": null,
    "summary": "The president and CEO of Utah Housing Corporation has submitted his resignation. The organization, an independent state entity that’s designed to help create affordable housing opportunities, announced Friday that David Damschen will leave his position once a replacement is…",
    "published": "2026-10-23T19:10:32+00:00"
-  },
-  {
-   "id": "6f70964a9f43",
-   "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was…",
-   "published": "2026-10-23T19:03:34+00:00"
   },
   {
    "id": "96732407bd63",
@@ -530,18 +794,6 @@
    "published": "2026-10-23T18:30:00+00:00"
   },
   {
-   "id": "8416e9aa1929",
-   "title": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
-   "link": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Oil has climbed back to an Iran-war high and may soon go higher, if the U.S. and Israel strike Iran after their respective voters go to the polls in the coming days.",
-   "published": "2026-10-23T18:30:00+00:00"
-  },
-  {
    "id": "58195d059222",
    "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
    "link": "https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss",
@@ -576,18 +828,6 @@
    "category_hint": null,
    "summary": "Investors favored flashier AI plays earlier this year, but some analysts say Nvidia’s dependability could now hold more appeal.",
    "published": "2026-10-23T18:19:00+00:00"
-  },
-  {
-   "id": "45f546718dbb",
-   "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-   "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
-   "published": "2026-10-23T18:10:56+00:00"
   },
   {
    "id": "ec0890d97ed9",
@@ -1394,18 +1634,6 @@
    "published": "2026-10-23T15:34:21+00:00"
   },
   {
-   "id": "beea5e363697",
-   "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-   "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
-   "published": "2026-10-23T15:31:00+00:00"
-  },
-  {
    "id": "1b53825f47c1",
    "title": "Oil spill washes up on UAE beaches after tanker strike",
    "link": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
@@ -1455,7 +1683,7 @@
   },
   {
    "id": "9f9b06c94452",
-   "title": "How Much Do You Know About Stock Market Seasonality? Take Our Quiz to Find Out",
+   "title": "How Much Do You Know About Stock Market Seasonality?",
    "link": "https://www.kiplinger.com/puzzles/quizzes/how-much-do-you-know-about-stock-market-seasonality-take-our-quiz-to-find-out",
    "source": "Kiplinger",
    "circle_hint": "national",
@@ -36666,6 +36894,7 @@
    "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
+   "category_hint": null,
    "summary": "The artist Jonathon Keats is standing on a bluff overlooking a remote valley in the Arizona desert, about 40 miles from the United States-Mexico border . In his hands, and aiming toward the mountainous horizon, is a camera-esque contraption that looks like something out of…",
    "published": "2026-10-14T17:28:50+00:00"
   },
