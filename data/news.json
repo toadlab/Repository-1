@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T13:52:13.301628+00:00",
+ "generated": "2026-10-23T14:51:26.358112+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 28
   },
   {
    "name": "The Guardian World",
@@ -134,16 +134,148 @@
  ],
  "items": [
   {
+   "id": "f8deac049ef3",
+   "title": "Melania Trump brokers truce for Ukraine city 'on brink of disaster', White House says",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+   "published": "2026-10-23T14:48:10+00:00"
+  },
+  {
+   "id": "7718246191f0",
+   "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+   "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
+   "published": "2026-10-23T14:45:43+00:00"
+  },
+  {
+   "id": "0cec7cbd2429",
+   "title": "California Republicans Pushing New Voter ID Law Are Motivated by Trump's 'Stolen Election' Fantasies",
+   "link": "https://reason.com/2026/10/23/california-republicans-pushing-new-voter-id-law-are-motivated-by-trumps-stolen-election-fantasies/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Proposition 39's requirements aren't overly obtrusive, only unnecessary.",
+   "published": "2026-10-23T14:40:44+00:00"
+  },
+  {
+   "id": "e88b48cb20e3",
+   "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
+   "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
+   "published": "2026-10-23T14:40:00+00:00"
+  },
+  {
+   "id": "6f70964a9f43",
+   "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was…",
+   "published": "2026-10-23T14:39:41+00:00"
+  },
+  {
+   "id": "9fe43c2afc4c",
+   "title": "Reader Q&A: what’s next for France? Ask our Europe columnists – live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Guardian Europe columnists Rokhaya Diallo and Alexander Hurst are taking questions from readers about the riots and protests in France. Join the discussion in the comments here . Ann-Marie Thompson asks: Could you explore the degree of overlap between the two periods of…",
+   "published": "2026-10-23T14:35:46+00:00"
+  },
+  {
+   "id": "1e79bac9744b",
+   "title": "\"The District Court—or Perhaps, Being Charitable, Its AI Agent—Ignored and Manipulated Governing Law, Apparently to Satisfy a Policy Agenda\"",
+   "link": "https://reason.com/volokh/2026/10/23/the-district-court-or-perhaps-being-charitable-its-ai-agent-ignored-and-manipulated-governing-law-apparently-to-satisfy-a-policy-agenda/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A short excerpt from the long opinion in Jackson Fed. of Teachers v. Fitch, decided yesterday by Fifth Circuit Judge… The post \"The District Court—or Perhaps, Being Charitable, Its AI Agent—Ignored and Manipulated Governing Law, Apparently to Satisfy a Policy Agenda\" appeared…",
+   "published": "2026-10-23T14:35:32+00:00"
+  },
+  {
+   "id": "beda7b5f8d99",
+   "title": "Nobody Wants This creator says she disagrees with Adam Brody’s ‘free Palestine’ comments",
+   "link": "https://www.theguardian.com/tv-and-radio/2026/oct/23/nobody-wants-this-adam-brody-palestine-comments",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "After Brody called out the ‘death and misery’ in Palestine, the Netflix hit’s Jewish creator said they don’t see eye to eye The creator of the hit Netflix comedy Nobody Wants This has responded to star Adam Brody’s recent support of Palestine amid the Israel-Gaza war .…",
+   "published": "2026-10-23T14:33:52+00:00"
+  },
+  {
    "id": "45f546718dbb",
-   "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
+   "title": "Six shot dead by gunmen at church funeral in Jordan, officials say",
    "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Another 10 people are injured in the southern Karak governorate, and a manhunt is now under way.",
-   "published": "2026-10-23T13:37:20+00:00"
+   "summary": "Another 28 people are injured in the southern Karak governorate, and a manhunt is now under way.",
+   "published": "2026-10-23T14:31:51+00:00"
+  },
+  {
+   "id": "cfa2757acc9e",
+   "title": "Allegations against Thomas Markle Sr challenge media’s Meghan narrative",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/23/thomas-markle-sr-allegations-challenge-media-meghan-narrative",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Duchess of Sussex’s decision to cut ties with elderly father cast in new light as he faces sexual abuse image claims Meghan ‘deeply distressed’ by allegations against father The depiction of the Duchess of Sussex by certain sections of the media has often been one of a…",
+   "published": "2026-10-23T14:31:42+00:00"
+  },
+  {
+   "id": "c25c8f11db82",
+   "title": "Young Americans are giving up on cars. It’s a path to financial freedom for some.",
+   "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
+   "published": "2026-10-23T14:29:00+00:00"
+  },
+  {
+   "id": "59f8ef9c794b",
+   "title": "Surging economy gets off to a good start in the fourth quarter — but there’s one big problem",
+   "link": "https://www.marketwatch.com/story/surging-economy-gets-off-to-a-good-start-in-the-fourth-quarter-but-theres-one-big-problem-5657f399?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Warning signs are emerging that consumers will be hit with rising prices.",
+   "published": "2026-10-23T14:23:00+00:00"
   },
   {
    "id": "a580c2639aed",
@@ -154,8 +286,224 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Trump to campaign for gubernatorial candidate Byron Donalds, who has distanced himself from president; Trump doubled down on support for Ramaswamy Sign up for the Breaking News US email With only 11 days until the midterm elections, and with more than 20m early votes cast ,…",
-   "published": "2026-10-23T13:35:40+00:00"
+   "summary": "Trump to campaign for gubernatorial candidate Byron Donalds, who has distanced himself from president; Trump doubled down on support for Ramaswamy Sign up for the Breaking News US email The White House has issued a statement saying first lady Melania Trump has helped broker a…",
+   "published": "2026-10-23T14:20:24+00:00"
+  },
+  {
+   "id": "a77c5e49ae6b",
+   "title": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
+   "link": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Two soldiers and two Palestinians killed in exchange of fire outside Hebron, where Israeli military says it thwarted ‘terror attack’ Benjamin Netanyahu has ordered the army to prepare for a “very extensive” operation in the occupied West Bank after two Israeli soldiers and two…",
+   "published": "2026-10-23T14:19:30+00:00"
+  },
+  {
+   "id": "8df9352509be",
+   "title": "PSG v Lyon moved as Paris prepares for more protests",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
+   "published": "2026-10-23T14:18:41+00:00"
+  },
+  {
+   "id": "2a2354391047",
+   "title": "Conte dismisses reports of Man United takeover with Carrick’s job uncertain",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Ex-Chelsea boss Antonio Conte denies Manchester United link, says reports he demanded full control of club 'unfounded'.",
+   "published": "2026-10-23T14:16:14+00:00"
+  },
+  {
+   "id": "5c96b22d487c",
+   "title": "Will a macaque eat a grape sitting on a pile of poo? A study on germaphobia",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-6009527/monkey-macaque-germs-virus-outbreak",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "When an outbreak strikes, humans try to avoid germs. (Remember wiping off groceries at the start of the pandemic?) What about ... monkeys?",
+   "published": "2026-10-23T14:16:10+00:00"
+  },
+  {
+   "id": "b5a7dc3f2718",
+   "title": "Mississippi releases video of 1-year-old’s fatal police shooting",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Mississippi released bodycam footage of the fatal shooting of 1-year-old Kohen Wiley.",
+   "published": "2026-10-23T14:15:52+00:00"
+  },
+  {
+   "id": "d7c780964626",
+   "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+   "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+   "published": "2026-10-23T14:15:23+00:00"
+  },
+  {
+   "id": "1a41f3b5e5df",
+   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+   "published": "2026-10-23T14:15:00+00:00"
+  },
+  {
+   "id": "09cd5d6048f5",
+   "title": "Family Separation Drama Fjord Is a Haunting Depiction of Unchecked State Power",
+   "link": "https://reason.com/2026/10/23/family-separation-drama-fjord-is-a-haunting-depiction-of-unchecked-state-power/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "This is what it looks like when your children are taken by the state.",
+   "published": "2026-10-23T14:14:10+00:00"
+  },
+  {
+   "id": "b74f7652e722",
+   "title": "SEC Announces Fiscal Year 2027 Examination Priorities",
+   "link": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+   "source": "SEC Press Releases",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Securities and Exchange Commission today announced the Division of Examinations’ Fiscal Year 2027 examination priorities. The annual report identifies key areas of focus as the Division carries out its mission to promote compliance, prevent fraud,…",
+   "published": "2026-10-23T14:10:00+00:00"
+  },
+  {
+   "id": "8e2b93abe37f",
+   "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+   "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+   "published": "2026-10-23T14:00:00+00:00"
+  },
+  {
+   "id": "9cd41a2cc7c2",
+   "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
+   "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Switzerland says patient is wife of Swiss diplomat and believed to have contracted virus while travelling in Uganda Health officials across Africa are racing to determine how Nigeria’s first Ebola patient ⁠in more than a decade ⁠became infected, amid fears ​the outbreak could…",
+   "published": "2026-10-23T13:57:11+00:00"
+  },
+  {
+   "id": "42dd1f962690",
+   "title": "UK government to make unprecedented intervention in setting of water bills",
+   "link": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Exclusive: Angela Eagle tells utility bosses next price review ‘must focus on value for money for customers’ UK politics live – latest updates Ministers will make an unprecedented intervention in water bills and how companies prioritise investment, directing bosses to bring…",
+   "published": "2026-10-23T13:51:10+00:00"
+  },
+  {
+   "id": "5edeee1dcdd8",
+   "title": "Finland nearing opening of world’s first permanent nuclear waste repository",
+   "link": "https://www.aljazeera.com/news/2026/10/23/finland-nearing-opening-of-worlds-first-permanent-nuclear-waste-repository?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Facilities are being built in many countries, but Finland is the first to licence its underground storage facility.",
+   "published": "2026-10-23T13:50:26+00:00"
+  },
+  {
+   "id": "e52a02fc6249",
+   "title": "Andy Burnham warns of ‘winter of greater flooding’ – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The prime minister said the government is having conversation about emergency preparedness A DUP minister has said he is confident MP Carla Lockhart will stay in the party despite leaving its main decision-making body amid a row with party leadership over the future of…",
+   "published": "2026-10-23T13:47:30+00:00"
+  },
+  {
+   "id": "94cc2f7522e4",
+   "title": "Dembele to miss Ballon d’Or event as PSG game moved amid protests in France",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/dembele-to-miss-ballon-dor-event-as-psg-game-moved-amid-protests-in-france?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Paris Saint-Germain's game has been postponed following a request by police amid a wave of violent protests in France.",
+   "published": "2026-10-23T13:46:12+00:00"
+  },
+  {
+   "id": "fe9a8e55e2a7",
+   "title": "Kenya’s marathon champion Peres Jepchirchir provisionally banned by AIU",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/kenyas-marathon-champion-peres-jepchirchir-provisionally-banned-by-aiu?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Jepchirchir tested positive for banned blood booster EPO in a sample taken before her Sydney Marathon win in August.",
+   "published": "2026-10-23T13:45:21+00:00"
+  },
+  {
+   "id": "ef1bd5200877",
+   "title": "Melania Trump ‘secured ceasefire’ in Ukrainian city of Oleshky: White House",
+   "link": "https://www.aljazeera.com/news/2026/10/23/white-house-says-melania-trump-secured-a-ceasefire-in-ukraines-oleshky?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "No confirmation from Russia or Ukraine as White House says 'localised' ceasefire to take effect in Oleshky.",
+   "published": "2026-10-23T13:39:06+00:00"
+  },
+  {
+   "id": "5c1f276a311b",
+   "title": "Gunmen open fire at church in Jordan, killing several people",
+   "link": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Survivors say two masked men began shooting as dozens attended a funeral procession.",
+   "published": "2026-10-23T13:32:40+00:00"
   },
   {
    "id": "c29c14b11a60",
@@ -182,18 +530,6 @@
    "published": "2026-10-23T13:30:00+00:00"
   },
   {
-   "id": "e52a02fc6249",
-   "title": "Andy Burnham warns of ‘winter of greater flooding’ – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The prime minister said the government is having conversation about emergency preparedness A DUP minister has said he is confident MP Carla Lockhart will stay in the party despite leaving its main decision-making body amid a row with party leadership over the future of…",
-   "published": "2026-10-23T13:29:22+00:00"
-  },
-  {
    "id": "d139ede9e737",
    "title": "Oil price rises above $115 a barrel amid fears US will renew strikes on Iran",
    "link": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
@@ -202,32 +538,8 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf oil and tech facilities Business live – latest updates Oil has hit its highest level in more than five months as fears of fresh escalation in the Middle East conflict grip the energy markets. Brent…",
+   "summary": "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentres Business live – latest updates Oil has hit its highest level in more than five months as fears of fresh escalation in the Middle East conflict grip the energy markets. Brent…",
    "published": "2026-10-23T13:27:04+00:00"
-  },
-  {
-   "id": "d7c780964626",
-   "title": "Anti-terror police investigate as one person killed in shooting near Paris",
-   "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "French Prime Minister Sébastien Lecornu says the suspected gunman has been apprehended.",
-   "published": "2026-10-23T13:26:48+00:00"
-  },
-  {
-   "id": "a77c5e49ae6b",
-   "title": "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
-   "link": "https://www.theguardian.com/world/2026/oct/23/netanyahu-orders-very-extensive-operation-west-bank-two-israeli-soldiers-killed",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Israel’s prime minister gives order after military says it thwarted ‘terror attack’ by two armed Palestinians Benjamin Netanyahu has ordered the army to prepare for a “very extensive” operation in the occupied West Bank after two Israeli soldiers and two Palestinians were…",
-   "published": "2026-10-23T13:26:32+00:00"
   },
   {
    "id": "c426ba3e01a1",
@@ -262,7 +574,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Dozens of schools in Cornwall also affected by conditions as another storm heads for Scotland, Northern Ireland and the north of England Thousands of homes are without power and schools have been closed as the first named storm of the year hit UK shores. Storm Austen brought…",
+   "summary": "Dozens of schools in Cornwall also affected as another storm heads for Scotland, Northern Ireland and the north of England Thousands of homes are without power and schools have been closed as the first named storm of the year hit UK shores. Storm Austen brought severe…",
    "published": "2026-10-23T13:23:38+00:00"
   },
   {
@@ -326,20 +638,8 @@
    "published": "2026-10-23T13:12:36+00:00"
   },
   {
-   "id": "6f70964a9f43",
-   "title": "France to deploy 70,000 officers as it braces for weekend of protests – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Interior minister Laurent Nuñez defended blanket bans on demonstrations in some parts of France The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was killed and four others injured. Police…",
-   "published": "2026-10-23T13:10:24+00:00"
-  },
-  {
    "id": "cabbcfe8d74e",
-   "title": "Met police searching for suspect after man shot near Royal Artillery Barracks",
+   "title": "Met police searching for suspect after man shot near Royal Artillery barracks",
    "link": "https://www.theguardian.com/uk-news/2026/oct/23/shooting-royal-artillery-barracks-woolwich-london",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -456,18 +756,6 @@
    "category_hint": null,
    "summary": "Cameroonians are wondering who Biya will appoint as vice president and possible successor.",
    "published": "2026-10-23T12:52:28+00:00"
-  },
-  {
-   "id": "7718246191f0",
-   "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-   "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
-   "published": "2026-10-23T12:48:52+00:00"
   },
   {
    "id": "dd2f644cf489",
@@ -735,7 +1023,7 @@
   },
   {
    "id": "0db22b6fbf8d",
-   "title": "What will you do with your one precious wildlife?",
+   "title": "Wild animals can’t vote. Here’s where they’re on the ballot anyway.",
    "link": "https://www.vox.com/climate/507355/midterms-2026-wildlife-ballot-measure",
    "source": "Vox",
    "circle_hint": "national",
@@ -867,7 +1155,7 @@
   },
   {
    "id": "a06ee4e70f77",
-   "title": "What’s up with Trump’s unhinged fixation on male candidates’ bodies at rallies?",
+   "title": "What’s up with Trump’s unhinged fixation on male candidates’ bodies?",
    "link": "https://www.theguardian.com/us-news/2026/oct/23/trump-midterm-rallies-male-bodies",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -903,7 +1191,7 @@
   },
   {
    "id": "5ded994b6b70",
-   "title": "Colleges can do more to prevent sexual assault. Here’s where to start.",
+   "title": "We’ve spent decades fighting campus sexual assault. Why haven’t colleges figured it out?",
    "link": "https://www.vox.com/life/507369/colleges-sexual-assault-jane-doe-cornell-frats-greek-life",
    "source": "Vox",
    "circle_hint": "national",
@@ -1034,18 +1322,6 @@
    "published": "2026-10-23T10:20:31+00:00"
   },
   {
-   "id": "8e2b93abe37f",
-   "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-   "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-   "published": "2026-10-23T10:15:00+00:00"
-  },
-  {
    "id": "4f67e17af976",
    "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
    "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
@@ -1140,18 +1416,6 @@
    "category_hint": null,
    "summary": "How much do you know about your family's life insurance and financial planning? Talking about it will create clarity now, before it becomes urgent.",
    "published": "2026-10-23T10:00:00+00:00"
-  },
-  {
-   "id": "9fe43c2afc4c",
-   "title": "Reader Q&A: what’s next for France? Ask our Europe columnists",
-   "link": "https://www.theguardian.com/world/live/2026/oct/21/france-riots-protests-reader-questions-rokhaya-dallio-alexander-hurst",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Guardian Europe columnists Rokhaya Diallo and Alexander Hurst will be live taking questions from readers about the riots and protests in France at 3pm BST / 4pm CEST today. Send your questions by email now to conversations@theguardian.com or join the discussion in the comments…",
-   "published": "2026-10-23T09:59:35+00:00"
   },
   {
    "id": "e8b82648c5eb",
@@ -1284,18 +1548,6 @@
    "category_hint": null,
    "summary": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
    "published": "2026-10-23T09:23:53+00:00"
-  },
-  {
-   "id": "e88b48cb20e3",
-   "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-   "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
-   "published": "2026-10-23T09:19:00+00:00"
   },
   {
    "id": "887dc38636d0",
@@ -2484,18 +2736,6 @@
    "category_hint": null,
    "summary": "CQC research finds long delays are making conditions harder to treat and highlights regional disparities in care Thousands of children in England are experiencing some of the sharpest rises in waiting times for healthcare in the history of the NHS, a report has revealed. While…",
    "published": "2026-10-22T23:01:52+00:00"
-  },
-  {
-   "id": "1a41f3b5e5df",
-   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-   "published": "2026-10-22T23:00:00+00:00"
   },
   {
    "id": "1faf2dc28010",
@@ -4130,18 +4370,6 @@
    "published": "2026-10-22T16:48:05+00:00"
   },
   {
-   "id": "c25c8f11db82",
-   "title": "Young Americans are giving up their cars. It’s a path to financial freedom, for some.",
-   "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things",
-   "published": "2026-10-22T16:48:00+00:00"
-  },
-  {
    "id": "9b4a059e7e62",
    "title": "Zuckerberg’s California tax move is a win for Meta — and for him",
    "link": "https://www.marketwatch.com/story/zuckerbergs-california-tax-move-is-a-win-for-meta-and-for-him-aa049c94?mod=mw_rss_topstories",
@@ -4764,6 +4992,18 @@
    "category_hint": null,
    "summary": "Israel can inflict devastating damage on Iran, but analysts question its ability to overthrow Tehran’s government.",
    "published": "2026-10-22T14:55:59+00:00"
+  },
+  {
+   "id": "9365134e31de",
+   "title": "WealthStack Roundup: Syntax Integrates With Schwab's iRebal to Streamline Direct Indexing",
+   "link": "https://www.wealthmanagement.com/artificial-intelligence/syntax-direct-links-with-schwabs-irebal-platform",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "In addition, news from next-generation CRM provider FinTurk, Zocks and LPL, and Masttro appoints a COO.",
+   "published": "2026-10-22T14:48:54+00:00"
   },
   {
    "id": "1700d4664518",
