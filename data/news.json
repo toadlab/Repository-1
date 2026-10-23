@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T18:53:20.883647+00:00",
+ "generated": "2026-10-23T19:43:42.525336+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -134,6 +134,246 @@
  ],
  "items": [
   {
+   "id": "d7c780964626",
+   "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
+   "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+   "published": "2026-10-23T19:42:08+00:00"
+  },
+  {
+   "id": "cdb30e4a762a",
+   "title": "Help find the missing librarian at ‘Library of Legends’",
+   "link": "https://mirrorindy.org/backlot-irvington-halloween-festival/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Four artists created a non-spooky, storybook adventure in Irvington for Halloween. The post Help find the missing librarian at ‘Library of Legends’ appeared first on Mirror Indy .",
+   "published": "2026-10-23T19:40:29+00:00"
+  },
+  {
+   "id": "0357dca93a3a",
+   "title": "Even Under Mamdani, New York City's Ballot Questions Might Cut Red Tape and Public Review Hearings",
+   "link": "https://reason.com/2026/10/23/even-under-mamdani-new-york-citys-ballot-questions-might-cut-red-tape-and-public-review-hearings/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Mamdani’s Commission on Government Efficiency put forward ballot proposals to cut red tape.",
+   "published": "2026-10-23T19:35:11+00:00"
+  },
+  {
+   "id": "9cf48ddcea97",
+   "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-6012296/ai-department-of-defense-war",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Pentagon is building weapons and projects with AI capabilities that officials say don't always closely adhere to the agency's own guidelines for AI, according to a congressional watchdog report published in October.",
+   "published": "2026-10-23T19:31:15+00:00"
+  },
+  {
+   "id": "22b4f84e3d0a",
+   "title": "Short Circuit: An inexhaustive weekly compendium of rulings from the federal courts of appeal",
+   "link": "https://reason.com/volokh/2026/10/23/short-circuit-an-inexhaustive-weekly-compendium-of-rulings-from-the-federal-courts-of-appeal-82/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Rebellions, rebels without a cause, and military discounts.",
+   "published": "2026-10-23T19:30:24+00:00"
+  },
+  {
+   "id": "f8deac049ef3",
+   "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+   "published": "2026-10-23T19:30:19+00:00"
+  },
+  {
+   "id": "b9ba66e4fbae",
+   "title": "Trump Sues to Block Alaska Senate Election Results Because of Potential Voter \"Confusion\"",
+   "link": "https://reason.com/volokh/2026/10/23/trump-sues-to-block-alaska-senate-election-results-because-potential-voter-confusion/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The administration claims voters might be confused between two candidates named \"Dan Sullivan.\"",
+   "published": "2026-10-23T19:23:34+00:00"
+  },
+  {
+   "id": "495a65e1a1a8",
+   "title": "Macron condemns racism after one killed in terrorist shooting near Paris",
+   "link": "https://www.theguardian.com/world/2026/oct/23/macron-condemns-racism-after-one-killed-in-terrorist-shooting-near-paris",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Gunman opens fire from car in Trappes and Verrière, killing one and injuring five others, including a 12-year-old girl Emmanuel Macron has condemned racism in French society after a gunman opened fire from a car west of Paris on Friday, killing one person, wounding a…",
+   "published": "2026-10-23T19:23:14+00:00"
+  },
+  {
+   "id": "d515a0eddf97",
+   "title": "Rare Arizona tornado might signal a record-breaking El Niño winter",
+   "link": "https://www.deseret.com/environment/2026/10/23/arizona-tornado-might-signal-el-nino-winter/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A rare tornado in Heber-Overgaard, Arizona, touched down Wednesday around 7:15 p.m., leaving a man with life-threatening injuries, two dozen structures damaged and many power lines destroyed, 12 News reported . Arizona has averaged 3.9 tornadoes a year since 1950 — far below…",
+   "published": "2026-10-23T19:21:28+00:00"
+  },
+  {
+   "id": "a580c2639aed",
+   "title": "Trump touts lawsuit to block Senate race certification in Alaska: ‘I’m the one that said do it’ – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Preliminary lawsuit claims there could be ‘voter confusion’ about the two Dan Sullivans on the ballot, which could influence the race’s outcome in favor of the Democratic nominee, Mary Peltola Sign up for the Breaking News US email With less than two weeks until the midterms,…",
+   "published": "2026-10-23T19:20:31+00:00"
+  },
+  {
+   "id": "f1d836a1f142",
+   "title": "High school girls soccer: Lone Peak blanks Davis to cap remarkable turnaround this season with 6A title",
+   "link": "https://www.deseret.com/sports/2026/10/23/high-school-girls-soccer-6a-state-championship/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "It’s not how you start, but how you finish. That analogy came to define Lone Peak’s 2026 season. With a slew of new starters and contributors this season, Lone Peak got off to a rocky 1-3 start that had many wondering, ‘What’s going on with Lone Peak?’ Internally, though, the…",
+   "published": "2026-10-23T19:19:45+00:00"
+  },
+  {
+   "id": "8e2b93abe37f",
+   "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+   "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+   "published": "2026-10-23T19:16:00+00:00"
+  },
+  {
+   "id": "685ee1a1e308",
+   "title": "Even the wealthy increasingly want all-inclusive resorts",
+   "link": "https://www.marketwatch.com/story/even-the-wealthy-increasingly-want-all-inclusive-resorts-118caa9b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Nearly 80% of all-inclusive resorts have become ‘luxury or upper upscale,’ Bernstein analysts say, as the industry seeks higher-income travelers able to weather inflation",
+   "published": "2026-10-23T19:13:00+00:00"
+  },
+  {
+   "id": "f4772cfd0db3",
+   "title": "Utah Housing Corporation shakeup continues as president and CEO resigns",
+   "link": "https://www.deseret.com/entertainment/2026/10/23/utah-housing-commission-leader-resigns/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The president and CEO of Utah Housing Corporation has submitted his resignation. The organization, an independent state entity that’s designed to help create affordable housing opportunities, announced Friday that David Damschen will leave his position once a replacement is…",
+   "published": "2026-10-23T19:10:32+00:00"
+  },
+  {
+   "id": "6f70964a9f43",
+   "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was…",
+   "published": "2026-10-23T19:03:34+00:00"
+  },
+  {
+   "id": "96732407bd63",
+   "title": "When No. 10 Utah plays No. 14 Houston Saturday at Rice-Eccles, it will be telling",
+   "link": "https://www.deseret.com/sports/2026/10/23/utah-utes-houston-cougars-showdown-commentary/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Finally, we are going to find out how good Utah’s football team really is. At last, the Utes are going to pick on someone their own size, as it were. Two months into the season, we will see if they really are one of the best teams in the nation. At this point, it’s a mystery.…",
+   "published": "2026-10-23T19:00:00+00:00"
+  },
+  {
+   "id": "1dadde584896",
+   "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
+   "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The first Phase 3 data for a cancer vaccine has raised questions about whether the potential new treatment is needed.",
+   "published": "2026-10-23T18:58:00+00:00"
+  },
+  {
+   "id": "827942467ba3",
+   "title": "SEC Examiners' 2027 Focus Includes Firms' Protections Against AI Phishing, Deepfakes",
+   "link": "https://www.wealthmanagement.com/regulation-compliance/sec-sharpens-ai-oversight-focus-in-2027-exam-priorities",
+   "source": "WealthManagement.com",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The SEC's exam division plans to probe how firms govern AI use, from deepfake threats to vendor risk, while also prioritizing illiquid products and Reg S-P readiness.",
+   "published": "2026-10-23T18:57:35+00:00"
+  },
+  {
+   "id": "02e52e96bd43",
+   "title": "Q&A: Aleesia Johnson talks referendum, budget cuts, IPS’ future",
+   "link": "https://mirrorindy.org/ips-superintendent-aleesia-johnson-interview-indianapolis-referendum-2026-election/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The IPS chief sat down with Mirror Indy to answer big questions facing Indy schools. The post Q&A: Aleesia Johnson talks referendum, budget cuts, IPS’ future appeared first on Mirror Indy .",
+   "published": "2026-10-23T18:57:05+00:00"
+  },
+  {
+   "id": "d62804394c79",
+   "title": "Aston Villa vs Manchester City: Premier League – teams, prediction, lineups",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/aston-villa-vs-manchester-city-premier-league-teams-prediction-lineups?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Man City are the only team with a perfect Premier League record, but face a Villa side determined to climb the table.",
+   "published": "2026-10-23T18:55:18+00:00"
+  },
+  {
    "id": "9c464aa25357",
    "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
    "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
@@ -158,6 +398,18 @@
    "published": "2026-10-23T18:50:01+00:00"
   },
   {
+   "id": "e6978f097eea",
+   "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+   "link": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "After discovery of severe bug in the PHP programming language, executives warn of ‘vulnerability tsunami’ Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week. They are predicting that artificial intelligence tools will expose…",
+   "published": "2026-10-23T18:48:48+00:00"
+  },
+  {
    "id": "2b8e044cb0ca",
    "title": "Church is attacked in Jordan in region known for interfaith coexistence",
    "link": "https://www.csmonitor.com/World/Middle-East/2026/1023/jordan-christian-church-attacked-abdullah-interfaith?icid=rss",
@@ -170,6 +422,18 @@
    "published": "2026-10-23T18:47:38+00:00"
   },
   {
+   "id": "2541c014fd92",
+   "title": "Mysterious ‘black triangles’ spotted over sensitive US site, new Pentagon UFO files reveal",
+   "link": "https://www.theguardian.com/world/2026/oct/23/ufo-pentagon-files",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Unidentified object vanished suddenly and silently, anonymous senior military observers claim Two senior military observers say they watched a mysterious black triangular object flying at an extraordinarily high speed over a sensitive site in the western US earlier this year,…",
+   "published": "2026-10-23T18:45:43+00:00"
+  },
+  {
    "id": "0387be056dd8",
    "title": "Think annuities are a rip-off? Now might be the perfect time to reconsider.",
    "link": "https://www.marketwatch.com/story/think-annuities-are-a-rip-off-now-might-be-the-perfect-time-to-reconsider-6b3a2f88?mod=mw_rss_topstories",
@@ -180,6 +444,18 @@
    "category_hint": null,
    "summary": "Also in Weekend Reads: How to change your approach as the stock-market seesaws, some good news for home buyers, and advice from The Moneyist.",
    "published": "2026-10-23T18:43:00+00:00"
+  },
+  {
+   "id": "4914cbe55e35",
+   "title": "Epstein-linked billionaire Glenn Dubin stepped down from Mount Sinai board earlier this year",
+   "link": "https://www.theguardian.com/us-news/2026/oct/23/billionaire-glenn-dubin-mount-sinai-board-epstein-links",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The board change is the latest development for the renowned New York hospital plagued by revelations related to Jeffrey Epstein Hedge fund billionaire Glenn Dubin, one of several Wall Street figures whose relationship with Jeffrey Epstein is facing scrutiny, has stepped down…",
+   "published": "2026-10-23T18:42:41+00:00"
   },
   {
    "id": "b7a5b65204a1",
@@ -218,18 +494,6 @@
    "published": "2026-10-23T18:37:04+00:00"
   },
   {
-   "id": "a580c2639aed",
-   "title": "Trump touts lawsuit to block Senate race certification in Alaska: ‘I’m the one that said do it’ – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Preliminary lawsuit claims there could be ‘voter confusion’ about the two Dan Sullivans on the ballot, which could influence the race’s outcome in favor of the Democratic nominee, Mary Peltola Sign up for the Breaking News US email With less than two weeks until the midterms,…",
-   "published": "2026-10-23T18:37:01+00:00"
-  },
-  {
    "id": "299b2ae0679d",
    "title": "First Presbyterian Church to host 40th annual Scottish heritage events",
    "link": "https://www.deseret.com/entertainment/2026/10/23/first-presbyterian-church-to-host-40th-annual-scottish-heritage-events/",
@@ -242,18 +506,6 @@
    "published": "2026-10-23T18:35:58+00:00"
   },
   {
-   "id": "6f70964a9f43",
-   "title": "Melania Trump has helped broker ceasefire in Russian-occupied Ukrainian town, says White House – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/23/starlink-ukraine-musk-trump-russia-black-sea-strikes-france-milan-europe-protests-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Residents in Oleshky have been enduring a worsening humanitarian crisis due to the lack of food, electricity and other resources The French prime minister Sébastien Lecornu has just issued a statement on a shooting in a town west of Paris this morning where one person was…",
-   "published": "2026-10-23T18:35:07+00:00"
-  },
-  {
    "id": "e7069ed06b4d",
    "title": "Severe flooding in US west triggers rooftop rescues and evacuation orders",
    "link": "https://www.theguardian.com/us-news/2026/oct/23/severe-flooding-west-triggers-rescues-evacuations",
@@ -262,7 +514,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Some in the Four Corners region – which includes Colorado, New Mexico, Arizona and Utah – ordered to shelter in place Severe flooding in the Four Corners region on Friday led to water rescues – some from rooftops – and impassable roads, with some residents being told to…",
+   "summary": "At least one injured after flooding in Four Corners region – which includes Colorado, New Mexico, Arizona and Utah Severe flooding in the Four Corners region on Friday led to water rescues – some from rooftops – and impassable roads, with some residents being told to evacuate…",
    "published": "2026-10-23T18:32:23+00:00"
   },
   {
@@ -394,7 +646,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "The lawsuit raises concerns the US administration may be looking to meddle in some of this midterm cycle’s races.",
+   "summary": "President Donald Trump took credit for the action amid growing concerns the US government could meddle in midterm races.",
    "published": "2026-10-23T17:57:54+00:00"
   },
   {
@@ -674,18 +926,6 @@
    "published": "2026-10-23T17:00:00+00:00"
   },
   {
-   "id": "f8deac049ef3",
-   "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-   "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-   "published": "2026-10-23T16:59:51+00:00"
-  },
-  {
    "id": "2bc18ad853e2",
    "title": "Opinion: It’s not money or duty that sparks more childbearing",
    "link": "https://www.deseret.com/opinion/2026/10/23/joy-not-money-motivates-people-to-have-children/",
@@ -902,18 +1142,6 @@
    "published": "2026-10-23T16:22:24+00:00"
   },
   {
-   "id": "d7c780964626",
-   "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
-   "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
-   "published": "2026-10-23T16:17:02+00:00"
-  },
-  {
    "id": "ffb07b720f11",
    "title": "Which is really England’s oldest pub? Tree-ring dating helps settle debate",
    "link": "https://www.theguardian.com/culture/2026/oct/23/oldest-pubs-inns-historic-england-archaeologist",
@@ -939,7 +1167,7 @@
   },
   {
    "id": "9dc69106812c",
-   "title": "One person killed in suspected ‘Islamophobic’ shooting near Paris",
+   "title": "One killed as Elysee calls Paris area shooting ‘racist, terrorist attack’",
    "link": "https://www.aljazeera.com/news/2026/10/23/one-person-killed-in-suspected-islamophobic-shooting-near-paris?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -1524,18 +1752,6 @@
    "category_hint": null,
    "summary": "The Securities and Exchange Commission today announced the Division of Examinations’ Fiscal Year 2027 examination priorities. The annual report identifies key areas of focus as the Division carries out its mission to promote compliance, prevent fraud,…",
    "published": "2026-10-23T14:10:00+00:00"
-  },
-  {
-   "id": "8e2b93abe37f",
-   "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-   "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-   "published": "2026-10-23T14:00:00+00:00"
   },
   {
    "id": "9cd41a2cc7c2",
@@ -3864,6 +4080,18 @@
    "category_hint": null,
    "summary": "CQC research finds long delays are making conditions harder to treat and highlights regional disparities in care Thousands of children in England are experiencing some of the sharpest rises in waiting times for healthcare in the history of the NHS, a report has revealed. While…",
    "published": "2026-10-22T23:01:52+00:00"
+  },
+  {
+   "id": "8781d9e397cf",
+   "title": "Khyiris Tonga talks faith and serving a mission in Chiefs social media video",
+   "link": "https://www.deseret.com/sports/2026/10/22/kansas-city-chiefs-khyiris-tonga-religion/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Kansas City Chiefs defensive tackle Khyiris Tonga was featured in a recent video shared by the Kansas City Chiefs as part of their social media video series, “Under the Helmet.” The Chiefs defensive tackle used the opportunity to talk about his faith and his missionary service…",
+   "published": "2026-10-22T22:58:46+00:00"
   },
   {
    "id": "1faf2dc28010",
