@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T04:45:26.164344+00:00",
+ "generated": "2026-10-23T05:45:01.207465+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 37
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -88,8 +88,8 @@
   },
   {
    "name": "Federal Reserve",
-   "ok": false,
-   "error": "HTTPError: HTTP Error 404: Not Found"
+   "ok": true,
+   "count": 20
   },
   {
    "name": "Federal Register: IRS",
@@ -133,6 +133,138 @@
   }
  ],
  "items": [
+  {
+   "id": "0ad4f80342a9",
+   "title": "Putin Wants His Own Munich",
+   "link": "https://thedispatch.com/article/putin-xi-jinping-trump-munich-summit/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A summit with Trump and Xi would be a gift to an expansionist dictator, 88 years after the betrayal of Czechoslovakia.",
+   "published": "2026-10-23T05:04:00+00:00"
+  },
+  {
+   "id": "2e25c66205e6",
+   "title": "What went right this week: the good news that matters",
+   "link": "https://www.positive.news/society/good-news-stories-from-week-43-of-2026/",
+   "source": "Positive News",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": true,
+   "category_hint": "good_in_world",
+   "summary": "Rewilding gave low-lying islands hope, a basic income trial showed promise, and a Bangladeshi factory won an award, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+   "published": "2026-10-23T05:00:52+00:00"
+  },
+  {
+   "id": "730477cf8a23",
+   "title": "Some of Europe’s highest energy costs expected in Britain this winter",
+   "link": "https://www.theguardian.com/business/2026/oct/23/europe-highest-energy-costs-great-britain-this-winter",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Official forecasts show country will meet energy demand by paying high prices to secure imports Great Britain is expected to pay some of the highest energy costs in Europe this winter as its reliance on imports to ensure a steady supply is forecast to deepen. Energy system…",
+   "published": "2026-10-23T05:00:03+00:00"
+  },
+  {
+   "id": "b0f8a2984f7d",
+   "title": "Milan braces for more unrest as debate intensifies over Italy’s ‘lost generation’",
+   "link": "https://www.theguardian.com/world/2026/oct/23/milan-unrest-italy-lost-generation-protests",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Protests and fringe violence expose sharp divide between marginalised and immigrant youth and those with greater prospects Martina Miccichè was filming riot police kicking and beating a teenager with batons as they dragged him along Piazza del Duomo, the central Milan square…",
+   "published": "2026-10-23T05:00:01+00:00"
+  },
+  {
+   "id": "ffe60937970a",
+   "title": "A Leftist Who Defies Victim Culture",
+   "link": "https://thedispatch.com/article/leftism-liu-victim-culture-millennials/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Catherine Liu’s Marxism doesn’t come with wokeness.",
+   "published": "2026-10-23T05:00:00+00:00"
+  },
+  {
+   "id": "ef416d3c6c0e",
+   "title": "They Wrecked Eisenhower’s World",
+   "link": "https://thedispatch.com/article/eisenhower-trump-hegseth-nato/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Trump and his cronies have torn a hole in the globe, in more ways than one.",
+   "published": "2026-10-23T05:00:00+00:00"
+  },
+  {
+   "id": "028659998935",
+   "title": "Youth mobility scheme may be delayed to ensure success of UK-EU summit",
+   "link": "https://www.theguardian.com/world/2026/oct/23/uk-eu-brexit-reset-youth-mobility-scheme-summit",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Visa quotas, university fees and NHS surcharges remain sticking points ahead of post-Brexit negotiations next month A deadline for a youth mobility scheme between the EU and the UK could be deferred by six months in a bid to ensure Andy Burnham has a successful “reset” summit…",
+   "published": "2026-10-23T05:00:00+00:00"
+  },
+  {
+   "id": "f19075763eaf",
+   "title": "MoD seeks out-of-court resolution over compensation battle with gay veterans",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/23/mod-wes-streeting-legal-battle-gay-veterans",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Exclusive: West Streeting says MoD in talks amid legal challenge by LGBT staff forced out of military Wes Streeting is pursuing an out-of-court resolution to a legal battle over compensation for gay veterans who were forced to resign from the armed forces because of their…",
+   "published": "2026-10-23T05:00:00+00:00"
+  },
+  {
+   "id": "6e9d9567e202",
+   "title": "Jim Chalmers faces a world of hard choices where the solution to one problem makes the other worse",
+   "link": "https://www.theguardian.com/business/2026/oct/23/jim-chalmers-hard-choices-economy-inflation-unemployment",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "High inflation, low growth and rising unemployment can be added to the federal treasurer’s wall of worries Get our new political email , free app or daily news podcast Jim Chalmers in a speech last week offered the scant encouragement that the economy would be “a bit better” in…",
+   "published": "2026-10-23T04:54:47+00:00"
+  },
+  {
+   "id": "2b89475cfd25",
+   "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Officials say they both travelled through Entebbe International Airport on 3 October.",
+   "published": "2026-10-23T04:54:25+00:00"
+  },
+  {
+   "id": "38ff3dd21328",
+   "title": "Grenade exercise sparked deadly fire at Canada military base, army says",
+   "link": "https://www.aljazeera.com/news/2026/10/23/grenade-exercise-sparked-deadly-fire-at-canada-military-base-army-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "High winds propelled the blaze across the army base in Wainwright, killing four soldiers and injuring dozens more.",
+   "published": "2026-10-23T04:41:24+00:00"
+  },
   {
    "id": "ae1637aae470",
    "title": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
@@ -939,14 +1071,14 @@
   },
   {
    "id": "8f9cdf7f86e4",
-   "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet, Xinhua reports",
+   "title": "Magnitude 7 earthquake kills 16 people in China’s Tibet",
    "link": "https://www.aljazeera.com/news/2026/10/22/magnitude-7-earthquake-kills-16-people-in-chinas-tibet-xinhua-reports?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "The powerful earthquake has injured 32 others so far, local medics report.",
+   "summary": "The powerful earthquake has injured 46 others so far, local official media reports.",
    "published": "2026-10-22T21:23:01+00:00"
   },
   {
