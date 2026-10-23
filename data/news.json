@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T01:49:22.558765+00:00",
+ "generated": "2026-10-23T02:46:13.361717+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -134,16 +134,112 @@
  ],
  "items": [
   {
+   "id": "b18c9fdaee26",
+   "title": "Trump backs Ramaswamy ad featuring rival Amy Acton’s estranged mother",
+   "link": "https://www.aljazeera.com/news/2026/10/23/trump-backs-ramaswamy-ad-featuring-rival-amy-actons-estranged-mother?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Trump advises the Republican gubernatorial candidate to keep running the controversial advertisement.",
+   "published": "2026-10-23T02:22:24+00:00"
+  },
+  {
+   "id": "68b6212ae6f6",
+   "title": "Engling, Bayh duel over key differences in secretary of state race",
+   "link": "https://indianacapitalchronicle.com/2026/10/22/engling-bayh-duel-over-key-differences-in-secretary-of-state-race/",
+   "source": "Indiana Capital Chronicle",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Democrat Beau Bayh and Republican Max Engling agree on one thing: Indiana’s next secretary of state must investigate Diego Morales, the scandal-plagued outgoing incumbent. But the candidates offered contrasting visions of who should lead such an investigation in the final…",
+   "published": "2026-10-23T02:12:56+00:00"
+  },
+  {
+   "id": "03847cdb769b",
+   "title": "Ilhan Omar plans to move out of her Washington DC home after federal raid",
+   "link": "https://www.aljazeera.com/news/2026/10/23/ilhan-omar-plans-to-move-out-of-her-washington-dc-home-after-federal-raid?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "US federal agents raided the congresswoman’s home last week as part of an investigation into alleged immigration fraud.",
+   "published": "2026-10-23T02:09:38+00:00"
+  },
+  {
+   "id": "e9711ab8c014",
+   "title": "Brazil’s election and the battle for the Amazon – podcast",
+   "link": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Our Latin America correspondent, Tom Phillips, heads to Roraima to hear what’s at stake for the rainforest and the communities that live there in the Brazilian presidential runoff on Sunday. Send your comments and questions to tif.questions@theguardian.com For the Amazon and…",
+   "published": "2026-10-23T02:00:56+00:00"
+  },
+  {
    "id": "8006443cbc11",
-   "title": "Trump tells Iowa rally crowd he encouraged Ramaswamy to keep running widely criticized campaign ad – live",
+   "title": "Trump tells Iowa rally crowd he encouraged Ramaswamy to keep running widely criticized campaign ad – as it happened",
    "link": "https://www.theguardian.com/us-news/live/2026/oct/22/vivek-ramaswamy-ohio-trump-vance-us-midterm-elections-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Trump again defends Amy Acton’s estranged mother, who stayed with her husband charged with raping her daughter; Iowa Republican Senate candidate Ashley Hinson denounced ad earlier today Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy…",
-   "published": "2026-10-23T01:39:48+00:00"
+   "summary": "This live blog is now closed. Sign up for the Breaking News US email Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad Reporting from Anchorage, Alaska Mary Peltola’s campaign to represent Alaska in the US Senate has taken her to parts of the…",
+   "published": "2026-10-23T01:59:51+00:00"
+  },
+  {
+   "id": "90c2a7e4c33d",
+   "title": "Flu cases rise on west coast earlier than usual as US health experts encourage vaccine",
+   "link": "https://www.theguardian.com/us-news/2026/oct/22/flu-cases-west-coast-cdc",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "California flu test rate at 9.65%, higher than normal 1% rate for early October, amid mutation of H1N1 influenza A strain Flu cases on the west coast are on the rise months earlier than normal, prompting US health experts to stress the importance of the annual vaccine. Flu…",
+   "published": "2026-10-23T01:50:38+00:00"
+  },
+  {
+   "id": "3df75bcb8d2c",
+   "title": "Will ICE agents play a role in the 2026 US midterm elections?",
+   "link": "https://www.aljazeera.com/news/2026/10/23/will-ice-agents-play-a-role-in-the-2026-us-midterm-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Rights groups are worried the agency at the heart of Trump's immigration crackdown could sway the vote on election day.",
+   "published": "2026-10-23T01:47:39+00:00"
+  },
+  {
+   "id": "a3c44a432a3d",
+   "title": "Trump says Musk restored Ukraine’s Starlink access amid Russia war",
+   "link": "https://www.aljazeera.com/news/2026/10/23/trump-says-musk-restored-ukraines-starlink-access-amid-russia-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Trump has declined to comment on the process that led Starlink to lift speed and access restrictions on Ukraine.",
+   "published": "2026-10-23T01:46:40+00:00"
+  },
+  {
+   "id": "440704cf6a74",
+   "title": "‘I’ve killed someone’: Beau Lamarre-Condon allegedly confessed to friend and asked for help moving bodies, court told",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/23/beau-lamarre-condon-allegedly-confessed-to-friend-murder-trial-court-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Friend tells jury Lamarre-Condon told him in early 2024 ‘I shot the first one through the head and the second one through the door’ Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon allegedly confessed to killing two men, telling his friend it was…",
+   "published": "2026-10-23T01:46:06+00:00"
   },
   {
    "id": "be9481d2600e",
@@ -166,7 +262,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Camm, who resigned following months of pressure over her handling of state’s child safety system, cited Helen Haines attack as reason for departure Get our new political email , free app or daily news podcast Queensland minister Amanda Camm has resigned from cabinet following…",
+   "summary": "Camm, who resigned following months of pressure over her handling of state’s child safety system, cited Helen Haines attack as reason for departure Get our new political email , free app or daily news podcast The Queensland minister Amanda Camm has resigned from cabinet…",
    "published": "2026-10-23T01:22:45+00:00"
   },
   {
@@ -286,7 +382,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "NSW supreme court judge otherwise dismisses case brought by film’s co-producers and awards Wilson almost $400,000 after star countersued Australian A-lister Rebel Wilson has secured a major court victory after co-producers of her debut film accused her of sabotage, lying and…",
+   "summary": "NSW supreme court judge otherwise dismisses case brought by film’s co-producers and awards Wilson almost $400,000 after star countersued Rebel Wilson has been ordered to pay A$10 (US$7, £5) in damages after emerging victorious from a bitter legal spat with her latest film’s…",
    "published": "2026-10-22T23:31:22+00:00"
   },
   {
