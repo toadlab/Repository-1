@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T06:54:38.782695+00:00",
+ "generated": "2026-10-24T07:44:53.148307+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 25
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -133,6 +133,174 @@
   }
  ],
  "items": [
+  {
+   "id": "f8deac049ef3",
+   "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+   "published": "2026-10-24T07:17:44+00:00"
+  },
+  {
+   "id": "55b0f464ca01",
+   "title": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
+   "link": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.",
+   "published": "2026-10-24T07:09:55+00:00"
+  },
+  {
+   "id": "d152da5dced3",
+   "title": "North Korea’s Kim Jong Un arrives in China, South Korean media says",
+   "link": "https://www.aljazeera.com/news/2026/10/24/north-koreas-kim-jong-un-arrives-in-china-south-korean-media-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The visit comes about a week after a major new bridge linking the two countries was officially opened.",
+   "published": "2026-10-24T07:07:20+00:00"
+  },
+  {
+   "id": "40b769a71c9a",
+   "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+   "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks.",
+   "published": "2026-10-24T07:04:13+00:00"
+  },
+  {
+   "id": "29c8a5b72fca",
+   "title": "‘You need persistence’: the Norfolk couple who took on environmental regulators three times – and won",
+   "link": "https://www.theguardian.com/environment/2026/oct/24/norfolk-couple-who-took-on-environmental-regulators-three-times-and-won",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Tim and Geli Harris have spent more than a decade fighting to protect Catfield Fen, a rare wetland in the Norfolk Broads Polluters and regulators who fail to stop pollution must quake in their boots when they receive a letter from the lawyers for Tim and Geli Harris. The…",
+   "published": "2026-10-24T07:00:27+00:00"
+  },
+  {
+   "id": "beea5e363697",
+   "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+   "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
+   "published": "2026-10-24T07:00:00+00:00"
+  },
+  {
+   "id": "4d1b66213c74",
+   "title": "Innuendoctober | Ruminant",
+   "link": "https://thedispatch.com/podcast/remnant/innuendoctober-ruminant/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Of mob bosses and House members.",
+   "published": "2026-10-24T07:00:00+00:00"
+  },
+  {
+   "id": "27144a1e6660",
+   "title": "Open Thread",
+   "link": "https://reason.com/volokh/2026/10/24/open-thread-367/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "What’s on your mind?",
+   "published": "2026-10-24T07:00:00+00:00"
+  },
+  {
+   "id": "c3bfbb2c447c",
+   "title": "COP17 puts Armenia’s environmental record in the spotlight",
+   "link": "https://www.aljazeera.com/opinions/2026/10/24/cop17-puts-armenias-environmental-record-in-the-spotlight?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "As Yerevan hosts the global biodiversity summit, concerns over mining and environmental protection deserve scrutiny.",
+   "published": "2026-10-24T06:52:41+00:00"
+  },
+  {
+   "id": "810c1d05b838",
+   "title": "Opposition deepfake video of Spanish PM’s wife sparks outrage before election",
+   "link": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoing A political ad from Spain’s main opposition party that used a deepfake video of the prime minister’s wife has sparked outrage and set off a wider debate on AI, as the…",
+   "published": "2026-10-24T06:51:53+00:00"
+  },
+  {
+   "id": "5894571d1482",
+   "title": "Ronaldinho’s comeback with Ravenna at 46 set for next month at Forli",
+   "link": "https://www.aljazeera.com/sports/2026/10/24/ronaldinhos-comeback-with-ravenna-at-46-set-for-next-month-at-forli?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Ex-Barcelona forward to make November return, having last played for Brazilian club Fluminense in 2015.",
+   "published": "2026-10-24T06:51:26+00:00"
+  },
+  {
+   "id": "69314b9589da",
+   "title": "“Culture is stagnant, so politics is stuck” – playwright James Graham | Radical Thinking – podcast",
+   "link": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/24/culture-is-stagnant-so-politics-is-stuck-playwright-james-graham-radical-thinking-podcast",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Are we doomscrolling our way into a democratic crisis? That’s what the playwright James Graham fears may be happening, as he suggests that our algorithms have led us into ‘a massive crisis of the new’ and are preventing us from imagining a different future Watch the full…",
+   "published": "2026-10-24T06:45:26+00:00"
+  },
+  {
+   "id": "5a20ecc2d15e",
+   "title": "Keeping the world safe when no one is in charge",
+   "link": "https://www.aljazeera.com/opinions/2026/10/24/keeping-the-world-safe-when-no-one-is-in-charge?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "As AI creates new threats and power becomes fragmented, international cooperation is more vital than ever.",
+   "published": "2026-10-24T06:45:18+00:00"
+  },
+  {
+   "id": "bee7f7bd540a",
+   "title": "Lionel Messi receives top Spanish award in recognition of social work",
+   "link": "https://www.aljazeera.com/sports/2026/10/24/lionel-messi-receives-top-spanish-award-in-recognition-of-social-work?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Messi awarded the Princess of Asturias Award for his work for disadvantaged children's access to health and education.",
+   "published": "2026-10-24T06:44:29+00:00"
+  },
   {
    "id": "cc84288b4a7b",
    "title": "Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria",
@@ -574,7 +742,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "The Independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+   "summary": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
    "published": "2026-10-24T01:55:15+00:00"
   },
   {
@@ -648,6 +816,18 @@
    "category_hint": null,
    "summary": "Intense rainfall slammed the Four Corners region late this week. As rivers flooded, towns declared evacuations and emergencies and made rescues.",
    "published": "2026-10-24T00:40:42+00:00"
+  },
+  {
+   "id": "a344deb0b7ae",
+   "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+   "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets.",
+   "published": "2026-10-24T00:36:47+00:00"
   },
   {
    "id": "ed7adddd60cf",
@@ -854,6 +1034,18 @@
    "published": "2026-10-23T22:49:00+00:00"
   },
   {
+   "id": "33a36b73982c",
+   "title": "Father who killed Oregon school shooter describes anguish over children he couldn't save",
+   "link": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Kaylub Giamanco, has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
+   "published": "2026-10-23T22:47:07+00:00"
+  },
+  {
    "id": "94eaec9459ac",
    "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
    "link": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
@@ -888,6 +1080,18 @@
    "category_hint": null,
    "summary": "The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.",
    "published": "2026-10-23T22:33:48+00:00"
+  },
+  {
+   "id": "12660d8e1a47",
+   "title": "Who actually controls Ukraine's access to Starlink?",
+   "link": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it.",
+   "published": "2026-10-23T22:24:36+00:00"
   },
   {
    "id": "8ab1b03abc84",
@@ -1430,18 +1634,6 @@
    "published": "2026-10-23T20:01:21+00:00"
   },
   {
-   "id": "beea5e363697",
-   "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-   "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
-   "published": "2026-10-23T20:00:00+00:00"
-  },
-  {
    "id": "c7fd78983f2e",
    "title": "Judge weighing whether Election Commission must take up complaints before Election Day",
    "link": "https://indianacapitalchronicle.com/2026/10/23/judge-weighing-whether-election-commission-must-take-up-complaints-before-election-day/",
@@ -1608,18 +1800,6 @@
    "category_hint": null,
    "summary": "Rebellions, rebels without a cause, and military discounts.",
    "published": "2026-10-23T19:30:24+00:00"
-  },
-  {
-   "id": "f8deac049ef3",
-   "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-   "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
-   "published": "2026-10-23T19:30:19+00:00"
   },
   {
    "id": "b2cce9a62d2a",
@@ -2388,18 +2568,6 @@
    "category_hint": null,
    "summary": "Residents of Madama describe being cut off from hospitals, schools, and olive groves as Israeli forces blockade village.",
    "published": "2026-10-23T16:37:59+00:00"
-  },
-  {
-   "id": "810c1d05b838",
-   "title": "Opposition deepfake video sparks outrage in Spain ahead of election",
-   "link": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoing A political ad from Spain’s main opposition party that used a deepfake video of the prime minister’s wife has sparked outrage and set off a wider debate on AI, as the…",
-   "published": "2026-10-23T16:35:48+00:00"
   },
   {
    "id": "4cda5f4ce749",
