@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T04:43:55.808335+00:00",
+ "generated": "2026-10-24T05:44:38.043597+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 21
+   "count": 24
   },
   {
    "name": "The Guardian World",
@@ -133,6 +133,138 @@
   }
  ],
  "items": [
+  {
+   "id": "68ed1f11ce80",
+   "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
+   "link": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.",
+   "published": "2026-10-24T05:29:07+00:00"
+  },
+  {
+   "id": "d5b807bd61ce",
+   "title": "Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege",
+   "link": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.",
+   "published": "2026-10-24T05:20:35+00:00"
+  },
+  {
+   "id": "d7f3a9775fc1",
+   "title": "How Brazil's changing working class is reshaping the presidential race",
+   "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
+   "published": "2026-10-24T05:05:44+00:00"
+  },
+  {
+   "id": "3eeae7ee8527",
+   "title": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
+   "link": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.",
+   "published": "2026-10-24T05:04:32+00:00"
+  },
+  {
+   "id": "6467e4644dc1",
+   "title": "The rise of AI election ads in US midterms campaign",
+   "link": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.",
+   "published": "2026-10-24T05:03:44+00:00"
+  },
+  {
+   "id": "37a7894265f0",
+   "title": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
+   "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The prime minister has defined and dominated his country’s politics for three decades and is putting his rivals on the defensive before Tuesday’s general election They chant his name, they cheer and clap – and yet he is not the most dominant person in the room. Looming over the…",
+   "published": "2026-10-24T05:00:24+00:00"
+  },
+  {
+   "id": "bf6279ad02f6",
+   "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Chancellor says government to commit hundreds of millions to develop ‘distinctively British’ approach to AI John Healey has pledged to use Wednesday’s budget to harness the power of artificial intelligence to bolster Britain’s security and prosperity against the risks in the…",
+   "published": "2026-10-24T05:00:24+00:00"
+  },
+  {
+   "id": "fe7967f82b14",
+   "title": "‘Comfort in a bowl’: porridge hotter than ever as fibremaxxers get their oats",
+   "link": "https://www.theguardian.com/food/2026/oct/24/comfort-in-a-bowl-porridge-hotter-than-ever-as-fibremaxxers-get-their-oats",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Humble breakfast staple at heart of trend stirred up by health concerns and hearty spoonfuls of nostalgia The clocks may be going back in the UK this weekend, but the biggest sign winter is coming is a steaming bowl of porridge on a breakfast table. A staple for centuries,…",
+   "published": "2026-10-24T05:00:23+00:00"
+  },
+  {
+   "id": "ac31f9bd56b6",
+   "title": "The Mystery of Springfield’s Park",
+   "link": "https://thedispatch.com/article/springfield-massachusetts-forest-park/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "How did this smaller city in Massachusetts wind up with a park so big?",
+   "published": "2026-10-24T05:00:00+00:00"
+  },
+  {
+   "id": "f50984ed768d",
+   "title": "Driving With My Daughter, One Song at a Time",
+   "link": "https://thedispatch.com/article/california-country-music-daughter-autism/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "What my nonverbal daughter has taught me about country music in California.",
+   "published": "2026-10-24T05:00:00+00:00"
+  },
+  {
+   "id": "4c3ee0327ce4",
+   "title": "Massive oil slick seen weeks after tanker struck off UAE’s coast",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/massive-oil-slick-seen-weeks-after-tanker-struck-off-uaes-coast?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "An oil spill off the UAE coast has prompted beach closures after a vessel reportedly hit a naval mine in early October.",
+   "published": "2026-10-24T04:48:40+00:00"
+  },
   {
    "id": "19176c4ba8b2",
    "title": "No. 2 BYU vs. UCF: How to watch, listen to or stream Saturday’s matchup",
@@ -459,7 +591,7 @@
   },
   {
    "id": "1bbc15ef5df1",
-   "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
+   "title": "Iran war live: Saudi Arabia downs Houthi ballistic missile targeting Riyadh",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -506,6 +638,18 @@
    "published": "2026-10-23T23:18:24+00:00"
   },
   {
+   "id": "cacaf0129d2f",
+   "title": "Are California voters about to impose world's first 'tax on billionaires'?",
+   "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
+   "published": "2026-10-23T23:11:31+00:00"
+  },
+  {
    "id": "0258491472d0",
    "title": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
    "link": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
@@ -514,7 +658,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Authorities warn of 'destructive winds' and urge residents to shelter as the storm passes the island's northeast.",
+   "summary": "Storm topples trees, triggers brief flooding, disrupts power lines and forces 5,000 people to evacuate.",
    "published": "2026-10-23T23:10:54+00:00"
   },
   {
@@ -528,6 +672,30 @@
    "category_hint": null,
    "summary": "Kaylub Giamanco recounts the day he confronted the Silver Rail elementary school shooter, who killed three boys and one teacher The Oregon father hailed as a hero for stopping a school shooting last week spoke for the first time about the incident, describing his experience and…",
    "published": "2026-10-23T23:10:42+00:00"
+  },
+  {
+   "id": "0ff8532abe0e",
+   "title": "Ruins of Limoges city hall a symbol of France divided by national protests",
+   "link": "https://www.bbc.co.uk/news/articles/cxyvrged14d0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Younger Limoges residents see the destruction of their town hall as unfortunate collateral damage in a wider movement. For others, the fire was an unacceptable tragedy.",
+   "published": "2026-10-23T23:09:16+00:00"
+  },
+  {
+   "id": "c4c48ac64982",
+   "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+   "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
+   "published": "2026-10-23T23:08:23+00:00"
   },
   {
    "id": "511699acd4d7",
@@ -1500,6 +1668,18 @@
    "category_hint": null,
    "summary": "2024081404601 Daniel Robert Moruzzi CRD 2315352 AWC ks.pdf Anonymous (not verified) Fri, 10/23/2026 - 14:50 Case ID 2024081404601 Document Number 7061ec49 Document Type AWCs (Letters of Acceptance, Waiver, and Consent) Individuals Daniel Robert Moruzzi Action Date Fri,…",
    "published": "2026-10-23T18:50:01+00:00"
+  },
+  {
+   "id": "5678b2c2c0f9",
+   "title": "Trump administration sues to block certification of upcoming Alaska election",
+   "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
+   "published": "2026-10-23T18:49:14+00:00"
   },
   {
    "id": "e6978f097eea",
