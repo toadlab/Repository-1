@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T10:44:02.036940+00:00",
+ "generated": "2026-10-24T11:43:57.062032+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 26
+   "count": 28
   },
   {
    "name": "The Guardian World",
@@ -134,6 +134,54 @@
  ],
  "items": [
   {
+   "id": "1ea74ab0e2c8",
+   "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
+   "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.",
+   "published": "2026-10-24T11:30:00+00:00"
+  },
+  {
+   "id": "58e4701fe15e",
+   "title": "Storm Boelo to bring gusts of up to 80mph and heavy rain to parts of UK",
+   "link": "https://www.theguardian.com/world/2026/oct/24/storm-boelo-80mph-winds-heavy-rain-northern-uk",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Second named storm in as many days will hit northern parts of UK as thousands remain without power after Friday’s Storm Austen The UK is bracing for a second storm this weekend, as strong winds and heavy rain are expected to disrupt travel and cause further power cuts in the…",
+   "published": "2026-10-24T11:24:19+00:00"
+  },
+  {
+   "id": "3c59e84754ba",
+   "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+   "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+   "published": "2026-10-24T11:23:59+00:00"
+  },
+  {
+   "id": "8b4dc9f3945d",
+   "title": "Ukraine says Starlink connection 'now stable' after network limits",
+   "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+   "published": "2026-10-24T11:17:35+00:00"
+  },
+  {
    "id": "85a48481e4d4",
    "title": "Protests begin across France, with shops, businesses and tourist sites closed – Europe live",
    "link": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
@@ -142,8 +190,128 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "France will deploy 70,000 officers around the country, while protests are also expected in Italy, Spain, Austria, Portugal, Albania and Ireland Late last night, Paris police also ordered a change in the route for the main march that’s been organised by trade unions. Originally,…",
-   "published": "2026-10-24T10:26:18+00:00"
+   "summary": "France will deploy 70,000 officers around the country, while protests are also expected in Italy, Spain, Austria, Portugal, Albania and Ireland Jesse, 40, a charity worker from the north of Paris, had turned out for the street march. She said: “I’m so angry. I’m here to support…",
+   "published": "2026-10-24T11:13:31+00:00"
+  },
+  {
+   "id": "c75bfd9e01cf",
+   "title": "German police detain suspect after fire engulfs Hitler’s Eagle’s Nest",
+   "link": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "No injuries were reported at the building, while police said a ‘suspicious person’ had been taken into custody.",
+   "published": "2026-10-24T11:01:05+00:00"
+  },
+  {
+   "id": "1cb098e4b2ad",
+   "title": "Today in Supreme Court History: October 24, 1894",
+   "link": "https://reason.com/volokh/2026/10/24/today-in-supreme-court-history-october-24-1894-8/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "10/24/1894: U.S. v. E.C. Knight argued. The post Today in Supreme Court History: October 24, 1894 appeared first on Reason Magazine.",
+   "published": "2026-10-24T11:00:58+00:00"
+  },
+  {
+   "id": "8c3c0d77cfdc",
+   "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
+   "link": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Critics decry Trump administration rule that lets hunters lure bears with human foods on federal lands in Alaska A new Trump administration rule allows hunters to bait bears on federal lands in Alaska with bacon, doughnuts, meat scraps or other human foods typically used to…",
+   "published": "2026-10-24T11:00:32+00:00"
+  },
+  {
+   "id": "681a087ea6d3",
+   "title": "No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states",
+   "link": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Leading restaurateur says Gulf countries actively help businesses set up, while east Asia has a better work ethic Some of London’s top restaurants are opening branches in Dubai because of a “tax tsunami” in the UK and better work ethic abroad, according to a leading…",
+   "published": "2026-10-24T11:00:31+00:00"
+  },
+  {
+   "id": "12d28c168b5c",
+   "title": "Is London really the most-taxed city? Banks accused of cherrypicking data",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Lobby group’s figures, shared with John Healey, are misleading as they do not include major rival Paris, say campaigners A banking lobby group has been accused of cherrypicking data and trying to mislead the British government by claiming a tax rise for banks at next week’s…",
+   "published": "2026-10-24T11:00:31+00:00"
+  },
+  {
+   "id": "5b15fa73b2d6",
+   "title": "Medical experts shocked by Tennessee team’s ‘malpractice’ in Christa Pike’s failed execution",
+   "link": "https://www.theguardian.com/us-news/2026/oct/24/christa-pike-execution-medical-experts",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "New details of IV team’s attempts to find a vein shared by Pike’s lawyer ‘shocked and disturbed’ practitioners Medical experts have expressed shock at the apparent incompetence shown by Tennessee’s execution team during the failed lethal injection of Christa Pike, the prisoner…",
+   "published": "2026-10-24T11:00:30+00:00"
+  },
+  {
+   "id": "b8370c1ca571",
+   "title": "Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness.",
+   "link": "https://www.marketwatch.com/story/do-machines-have-feelings-ai-has-philosophers-and-tech-leaders-rethinking-consciousness-00e5ad78?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "As AI models become more advanced, tech leaders and philosophers are mulling the relationship between humanity and technology.",
+   "published": "2026-10-24T11:00:00+00:00"
+  },
+  {
+   "id": "e5d02a42b27b",
+   "title": "Bayern say coach Kompany ‘stable’ in hospital but will be out for weeks",
+   "link": "https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Bayern Munich coach Vincent Kompany collapsed during training on Friday but is said to be 'stable' in hospital.",
+   "published": "2026-10-24T10:59:34+00:00"
+  },
+  {
+   "id": "02167c263e87",
+   "title": "The Man Who Put American Art on the Map",
+   "link": "https://thedispatch.com/newsletter/dispatch-culture/frederic-edwin-church-art-landscapes-olana/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Frederic Edwin Church captured his young country’s natural beauty in paint.",
+   "published": "2026-10-24T10:50:00+00:00"
+  },
+  {
+   "id": "e57f8516fd62",
+   "title": "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
+   "link": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Monitoring group reports more Muslims in Europe face racial discrimination as 'terrorist' attack kills one in France.",
+   "published": "2026-10-24T10:47:07+00:00"
   },
   {
    "id": "4ebdb696244c",
@@ -156,18 +324,6 @@
    "category_hint": null,
    "summary": "Footage broadcast on state TV shows three attackers approaching Greek Orthodox church and firing shots Eight people have been killed after gunmen opened fire at a funeral at a church in Jordan in a rare attack ⁠on the country’s Christian minority. Authorities described the…",
    "published": "2026-10-24T10:23:13+00:00"
-  },
-  {
-   "id": "3c59e84754ba",
-   "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-   "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-   "published": "2026-10-24T10:22:34+00:00"
   },
   {
    "id": "d6b75725b06c",
@@ -326,6 +482,18 @@
    "published": "2026-10-24T09:46:53+00:00"
   },
   {
+   "id": "d783cc6b4b3c",
+   "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+   "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The children were subsequently rescued from the water, police say.",
+   "published": "2026-10-24T09:45:47+00:00"
+  },
+  {
    "id": "d7177b581f53",
    "title": "Seven missing after multi-storey building collapses in Kenya's capital",
    "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
@@ -370,7 +538,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Visit by train over New Yalu River Bridge marks North Korean leader’s first known trip abroad in more than a year Kim Jong-un has travelled to China over a newly opened bridge marking the North Korean leader’s first known trip abroad in more than a year, South Korean officials…",
+   "summary": "Visit by train over New Yalu River Bridge marks North Korean leader’s first known trip abroad in more than a year Kim Jong-un has travelled to China over a newly opened bridge marking the North Korean leader’s first known trip abroad in more than a year. A South Korean…",
    "published": "2026-10-24T09:34:40+00:00"
   },
   {
