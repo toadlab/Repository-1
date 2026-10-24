@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T13:42:08.265215+00:00",
+ "generated": "2026-10-24T14:42:53.885432+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 28
+   "count": 29
   },
   {
    "name": "The Guardian World",
@@ -134,6 +134,162 @@
  ],
  "items": [
   {
+   "id": "85a48481e4d4",
+   "title": "Thousands march in Paris and other French cities as protests take place across Europe – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march. She said: “I’m so angry. I’m here to support…",
+   "published": "2026-10-24T14:29:21+00:00"
+  },
+  {
+   "id": "cc84288b4a7b",
+   "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
+   "link": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany German police have arrested a 33-year-old German citizen after a fire ripped through Adolf Hitler’s former mountain retreat in Bavaria, leaving the historic Nazi…",
+   "published": "2026-10-24T14:28:15+00:00"
+  },
+  {
+   "id": "4ebdb696244c",
+   "title": "Nine killed and 40 injured after gunmen open fire at church funeral in Jordan",
+   "link": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Footage broadcast on state TV shows three attackers approaching Greek Orthodox church and firing shots Nine people have been killed after gunmen opened fire at a funeral at a church in Jordan in a rare attack ⁠on the country’s Christian minority. Authorities described the…",
+   "published": "2026-10-24T14:24:15+00:00"
+  },
+  {
+   "id": "8d8f0046bd07",
+   "title": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",
+   "link": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "You have to do the math to figure out your best tax strategy in retirement, and converting might not be for you.",
+   "published": "2026-10-24T14:24:00+00:00"
+  },
+  {
+   "id": "3c59e84754ba",
+   "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+   "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+   "published": "2026-10-24T14:16:05+00:00"
+  },
+  {
+   "id": "c25c8f11db82",
+   "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
+   "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
+   "published": "2026-10-24T14:06:00+00:00"
+  },
+  {
+   "id": "307a06b202f6",
+   "title": "Man City beaten at Aston Villa as perfect Premier League start ends",
+   "link": "https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.",
+   "published": "2026-10-24T14:04:27+00:00"
+  },
+  {
+   "id": "4e3ea013b333",
+   "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+   "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“Nothing has been set aside for his needs.”",
+   "published": "2026-10-24T14:00:00+00:00"
+  },
+  {
+   "id": "668003b2c662",
+   "title": "Do abstaining voters hold the key to Brazil’s 2026 presidential election?",
+   "link": "https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Some 21 percent of Brazilian adults did not cast a ballot in the first round of voting. Will they affect the run-off?",
+   "published": "2026-10-24T13:58:14+00:00"
+  },
+  {
+   "id": "cccf0887b1b3",
+   "title": "Met says it shared allegations about Meghan’s father with her but not other forces",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/24/met-admits-it-did-not-pass-on-2019-letter-about-meghan-markle-father-thomas-markle-allegations-",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Scotland Yard says it shared letter about Thomas Markle Sr allegations in 2019 but did not pass claims to other agencies The Metropolitan police have confirmed they gave a letter to the Duchess of Sussex in 2019 concerning “alleged offending” involving her father, after…",
+   "published": "2026-10-24T13:52:58+00:00"
+  },
+  {
+   "id": "e4fa44b58022",
+   "title": "Rybakina readies for title defence at Ningbo Open in final with Fernandez",
+   "link": "https://www.aljazeera.com/sports/2026/10/24/rybakina-readies-for-title-defence-at-ningbo-open-in-final-with-fernandez?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The world number one will face Leylah Fernandez in the final after the unseeded Canadian beat Czech Marie Bouzkova.",
+   "published": "2026-10-24T13:52:08+00:00"
+  },
+  {
+   "id": "2231135c6700",
+   "title": "Sudan’s soaring fuel prices make getting by harder for workers",
+   "link": "https://www.aljazeera.com/economy/2026/10/24/sudans-soaring-fuel-prices-makes-getting-by-harder-for-workers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Sudan is suffering from a cost-of-living crisis affecting millions across the country.",
+   "published": "2026-10-24T13:51:08+00:00"
+  },
+  {
+   "id": "22f134b46229",
+   "title": "Who was behind the deadly church shooting in Jordan?",
+   "link": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Authorities are investigating the rare attack on a Christian church; the assailants remain unidentified and at large.",
+   "published": "2026-10-24T13:39:26+00:00"
+  },
+  {
    "id": "11b3fb95d955",
    "title": "Investors’ recent money moves show a preference for lowering risks over boosting rewards",
    "link": "https://www.marketwatch.com/story/investors-recent-money-moves-show-a-preference-for-quality-over-momentum-within-the-s-p-500-ed6b5149?mod=mw_rss_topstories",
@@ -144,6 +300,18 @@
    "category_hint": null,
    "summary": "Investors have been steadily pouring money into the Invesco S&P 500 Quality ETF this year.",
    "published": "2026-10-24T13:37:00+00:00"
+  },
+  {
+   "id": "149101b2631d",
+   "title": "Kim Jong-un crosses newly opened bridge into China",
+   "link": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "North Korean leader travels over New Yalu River Bridge to meet senior Communist party member Kim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the…",
+   "published": "2026-10-24T13:34:56+00:00"
   },
   {
    "id": "58e4701fe15e",
@@ -170,16 +338,16 @@
    "published": "2026-10-24T13:28:00+00:00"
   },
   {
-   "id": "85a48481e4d4",
-   "title": "Thousands march in Paris as protests take place across Europe – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-   "source": "The Guardian World",
+   "id": "e1399cf88b62",
+   "title": "Netanyahu floats Crypto to bypass sanctions",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march. She said: “I’m so angry. I’m here to support…",
-   "published": "2026-10-24T13:25:45+00:00"
+   "summary": "Netanyahu floats Crypto to bypass sanctions",
+   "published": "2026-10-24T13:27:11+00:00"
   },
   {
    "id": "77413990dbda",
@@ -276,30 +444,6 @@
    "category_hint": null,
    "summary": "Authorities say they are determined to prevent another weekend of looting, burned cars and attacks on public buildings.",
    "published": "2026-10-24T12:55:37+00:00"
-  },
-  {
-   "id": "149101b2631d",
-   "title": "Kim Jong-un crosses newly opened bridge into China",
-   "link": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "North Korean leader travels over New Yalu River Bridge to meet senior Communist party member Kim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour. The North Korean leader arrived in the…",
-   "published": "2026-10-24T12:54:33+00:00"
-  },
-  {
-   "id": "cccf0887b1b3",
-   "title": "Met police confirm giving Duchess of Sussex letter about father’s alleged offending",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/24/met-admits-it-did-not-pass-on-2019-letter-about-meghan-markle-father-thomas-markle-allegations-",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Scotland Yard says it shared information about Thomas Markle Sr allegations in 2019 but did not pass claims to other agencies The Metropolitan police have confirmed they gave a letter to the Duchess of Sussex in 2019 concerning “alleged offending” involving her father, after…",
-   "published": "2026-10-24T12:52:48+00:00"
   },
   {
    "id": "947c5af9b863",
@@ -566,6 +710,18 @@
    "published": "2026-10-24T11:44:16+00:00"
   },
   {
+   "id": "cc7b4b770b1f",
+   "title": "ICC prosecutor says court making ‘significant progress’ despite US sanctions",
+   "link": "https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Nazhat Shameem Khan claims some staff are facing ‘banking difficulties’ but their work is unaffected The deputy prosecutor of the international criminal court has said new US sanctions are beginning to take effect on its staff but insisted they have not hindered the court’s…",
+   "published": "2026-10-24T11:35:22+00:00"
+  },
+  {
    "id": "1ea74ab0e2c8",
    "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
    "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
@@ -588,18 +744,6 @@
    "category_hint": null,
    "summary": "Very often, a viral news story about animals is a comedy to its audience and an unmitigated tragedy to its subjects. That was the case this past weekend, as footage of bands of juvenile cows dashing through the streets of Kansas City stampeded across the internet. The details…",
    "published": "2026-10-24T11:30:00+00:00"
-  },
-  {
-   "id": "3c59e84754ba",
-   "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-   "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-   "published": "2026-10-24T11:23:59+00:00"
   },
   {
    "id": "c75bfd9e01cf",
@@ -722,20 +866,8 @@
    "published": "2026-10-24T10:47:07+00:00"
   },
   {
-   "id": "4ebdb696244c",
-   "title": "Eight killed and 40 injured after gunmen open fire at church funeral in Jordan",
-   "link": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Footage broadcast on state TV shows three attackers approaching Greek Orthodox church and firing shots Eight people have been killed after gunmen opened fire at a funeral at a church in Jordan in a rare attack ⁠on the country’s Christian minority. Authorities described the…",
-   "published": "2026-10-24T10:23:13+00:00"
-  },
-  {
    "id": "d6b75725b06c",
-   "title": "France braces for another day of mass protests as security on high alert",
+   "title": "France security on high alert as another day of mass protests kicks off",
    "link": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -744,18 +876,6 @@
    "category_hint": null,
    "summary": "Several planned marches in major cities in France have been banned by authorities, provoking an uproar by rights groups.",
    "published": "2026-10-24T10:04:25+00:00"
-  },
-  {
-   "id": "cc84288b4a7b",
-   "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
-   "link": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany German police have arrested a suspect after a fire ripped through Adolf Hitler’s former mountain retreat in Bavaria, leaving the historic Nazi meeting place –…",
-   "published": "2026-10-24T10:04:04+00:00"
   },
   {
    "id": "7168046d8047",
@@ -936,6 +1056,18 @@
    "category_hint": null,
    "summary": "Polls indicate Brazil's presidential candidates are neck and neck before Sunday's voting.",
    "published": "2026-10-24T09:41:56+00:00"
+  },
+  {
+   "id": "7f64e377f64a",
+   "title": "Three released without charge after fatal arson attack in Ireland",
+   "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+   "published": "2026-10-24T09:38:28+00:00"
   },
   {
    "id": "7ef5328c98db",
@@ -2220,6 +2352,18 @@
    "category_hint": null,
    "summary": "Researchers who track online influence operations say Kremlin-backed groups are renewing tactics they've used to sow distrust and discord in previous elections in the U.S. and around the world.",
    "published": "2026-10-23T21:40:02+00:00"
+  },
+  {
+   "id": "8672db372927",
+   "title": "Israeli PM pledges massive military operation after West Bank checkpoint attack",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israel's Prime Minister is vowing to launch a major military operation in the West Bank in response to an attack by two Palestinian gunmen on an Israeli military checkpoint that killed two soldiers.",
+   "published": "2026-10-23T21:38:54+00:00"
   },
   {
    "id": "7fc7e5d29841",
@@ -3914,18 +4058,6 @@
    "published": "2026-10-23T15:00:49+00:00"
   },
   {
-   "id": "8d8f0046bd07",
-   "title": "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",
-   "link": "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "You have to do the math to figure out your best tax strategy in retirement, and converting might not be for you.",
-   "published": "2026-10-23T15:00:00+00:00"
-  },
-  {
    "id": "ed8897de8288",
    "title": "US justice department investigating Corey Lewandowski over DHS role",
    "link": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
@@ -4044,18 +4176,6 @@
    "category_hint": null,
    "summary": "After Brody called out the ‘death and misery’ in Palestine, the Netflix hit’s Jewish creator said they don’t see eye to eye The creator of the hit Netflix comedy Nobody Wants This has responded to star Adam Brody’s recent support of Palestine amid the Israel-Gaza war .…",
    "published": "2026-10-23T14:33:52+00:00"
-  },
-  {
-   "id": "c25c8f11db82",
-   "title": "Young Americans are giving up on cars. It’s a path to financial freedom for some.",
-   "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
-   "published": "2026-10-23T14:29:00+00:00"
   },
   {
    "id": "59f8ef9c794b",
@@ -4308,18 +4428,6 @@
    "category_hint": null,
    "summary": "Russia’s territorial gains this year are effectively nil as it heads into trilateral talks with Ukraine, US.",
    "published": "2026-10-23T13:17:18+00:00"
-  },
-  {
-   "id": "4e3ea013b333",
-   "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
-   "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“Nothing has been set aside for his needs.”",
-   "published": "2026-10-23T13:15:00+00:00"
   },
   {
    "id": "e82da5b09067",
