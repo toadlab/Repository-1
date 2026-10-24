@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T14:42:53.885432+00:00",
+ "generated": "2026-10-24T15:43:26.063144+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 29
+   "count": 30
   },
   {
    "name": "The Guardian World",
@@ -134,6 +134,102 @@
  ],
  "items": [
   {
+   "id": "8b8ed8195602",
+   "title": "Sam Fender tells fans high ticket prices for Proper Massive tour are ‘getting changed’",
+   "link": "https://www.theguardian.com/music/2026/oct/24/sam-fender-fans-high-ticket-prices-proper-massive-tour-getting-changed",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Fender criticises stadium pricing, calling it ‘bollocks’ and says it ‘won’t be happening’ on his tour Sam Fender has responded to criticism by fans about ticket prices for his 2027 stadium tour by promising he would lower the cost, telling followers on Instagram: “They’re…",
+   "published": "2026-10-24T15:29:29+00:00"
+  },
+  {
+   "id": "8bdea8293ff9",
+   "title": "Money-saving habits to cope with higher prices — from our readers",
+   "link": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "I asked people what they’re doing to make life more affordable today. I’ll definitely be trying some of these.",
+   "published": "2026-10-24T15:27:00+00:00"
+  },
+  {
+   "id": "3c59e84754ba",
+   "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+   "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+   "published": "2026-10-24T15:21:44+00:00"
+  },
+  {
+   "id": "be203e88a274",
+   "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
+   "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I am slightly anxious about purchasing something so big” from an online retailer known for cut-price duplicates of popular clothes and accessories.",
+   "published": "2026-10-24T15:10:00+00:00"
+  },
+  {
+   "id": "d4e1ee2013d3",
+   "title": "Some Communications by Rabbi Shmuley with AI Platforms May Be Discovered in Order to Determine Punitive Damages",
+   "link": "https://reason.com/volokh/2026/10/24/some-communications-by-rabbi-shmuley-with-ai-platforms-may-be-discovered-in-order-to-determine-punitive-damages/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "From Wednesday's decision in Fontainebleau Florida Hotel, LLC v. Botach [Rabbi Shmuley], decided by Magistrate Judge Marty Fulgueira Elfenbein: Plaintiff's… The post Some Communications by Rabbi Shmuley with AI Platforms May Be Discovered in Order to Determine Punitive Damages…",
+   "published": "2026-10-24T15:08:51+00:00"
+  },
+  {
+   "id": "0baab15339d1",
+   "title": "Deseret News archives: The first stock market plunge that preceded the Great Crash",
+   "link": "https://www.deseret.com/utah/2024/10/24/deseret-news-archives-first-stock-market-plunge-in-1929-preceded-great-crash/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Editor’s note: This story was originally published on Oct. 24, 2024. A look back at local, national and world events through Deseret News archives. On Oct. 24, 1929, a massive sell-off at the opening bell of the New York Stock Exchange led to chaos as stockbrokers couldn’t keep…",
+   "published": "2026-10-24T15:07:53+00:00"
+  },
+  {
+   "id": "cd4dcbb52d31",
+   "title": "Security forces deploy as Milan braces for another day of protests",
+   "link": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Italian government has sent hundreds of soldiers to the country's financial hub ahead of anticipated unrest.",
+   "published": "2026-10-24T15:05:58+00:00"
+  },
+  {
+   "id": "99b7eefd019a",
+   "title": "Northern Olympics campaign to get £7m in Healey’s budget",
+   "link": "https://www.theguardian.com/sport/2026/oct/24/northern-olympics-campaign-funds-john-healey-budget",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Fund will support feasibility study for potential bid to host Games in 2040s, backed by northern mayors and top athletes John Healey is to announce a £7m fund to examine a potential future bid to host the Olympics in northern England in his first budget as chancellor. The fund…",
+   "published": "2026-10-24T15:03:24+00:00"
+  },
+  {
    "id": "85a48481e4d4",
    "title": "Thousands march in Paris and other French cities as protests take place across Europe – Europe live",
    "link": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
@@ -143,7 +239,67 @@
    "flourishing_feed": false,
    "category_hint": null,
    "summary": "French police have made 135 arrests, while Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania Jesse, 40, a charity worker from the north of Paris, had turned out for the street march. She said: “I’m so angry. I’m here to support…",
-   "published": "2026-10-24T14:29:21+00:00"
+   "published": "2026-10-24T15:03:17+00:00"
+  },
+  {
+   "id": "a6f5b61b8d7b",
+   "title": "Opinion: ‘We the people’ can make a difference",
+   "link": "https://www.deseret.com/opinion/2026/10/24/we-the-people-can-make-a-difference/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "We rightfully look to our elected officials to solve problems, but sometimes answers come from “ We the People .” When we choose to get involved, we can make more of a difference than we know in helping to find solutions to societal challenges. I practiced primary-care medicine…",
+   "published": "2026-10-24T15:00:00+00:00"
+  },
+  {
+   "id": "723ccbb2385d",
+   "title": "My First $1 Million: Plumber, 56, Cincinnati",
+   "link": "https://www.kiplinger.com/personal-finance/my-first-million-76-plumber-cincinnati",
+   "source": "Kiplinger",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "\"I never once pulled anything out, no matter how bad the market got, like in 2008. I stayed the course, and it has paid off, so far.\"",
+   "published": "2026-10-24T15:00:00+00:00"
+  },
+  {
+   "id": "77f1879b6057",
+   "title": "Why Israeli tourists and investors are unsettling Cypriots",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Cypriots say the influx of Israelis is threatening local businesses and pushing communities out of their neighbourhoods.",
+   "published": "2026-10-24T14:56:47+00:00"
+  },
+  {
+   "id": "db7a4a088b1e",
+   "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+   "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+   "published": "2026-10-24T14:45:30+00:00"
+  },
+  {
+   "id": "5799b8573847",
+   "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
+   "link": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Simon King of Saturna Capital names two stocks tied to base metals, for investors who want to look beyond the beaten path for AI-related trades.",
+   "published": "2026-10-24T14:40:00+00:00"
   },
   {
    "id": "cc84288b4a7b",
@@ -154,8 +310,20 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany German police have arrested a 33-year-old German citizen after a fire ripped through Adolf Hitler’s former mountain retreat in Bavaria, leaving the historic Nazi…",
+   "summary": "About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany Police have arrested a 33-year-old German citizen after a fire ripped through Adolf Hitler’s former mountain retreat in Bavaria, leaving the historic Nazi meeting…",
    "published": "2026-10-24T14:28:15+00:00"
+  },
+  {
+   "id": "2861c27cad41",
+   "title": "Full lockdown of occupied West Bank begins",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Israeli army begins its lockdown and military operations across the West Bank.",
+   "published": "2026-10-24T14:24:19+00:00"
   },
   {
    "id": "4ebdb696244c",
@@ -182,16 +350,28 @@
    "published": "2026-10-24T14:24:00+00:00"
   },
   {
-   "id": "3c59e84754ba",
-   "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-   "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "id": "9b5397f83bd4",
+   "title": "Ukraine says Starlink restored as attacks continue in Russia and Ukraine",
+   "link": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-   "published": "2026-10-24T14:16:05+00:00"
+   "summary": "Negotiators from Ukraine, Russia and the US are expected to meet in Abu Dhabi next month.",
+   "published": "2026-10-24T14:23:40+00:00"
+  },
+  {
+   "id": "ff0d74a08864",
+   "title": "Ballon d’Or 2026: Can Kylian Mbappe’s Real Madrid and France record win it?",
+   "link": "https://www.aljazeera.com/sports/2026/10/24/ballon-dor-2026-can-kylian-mbappes-real-madrid-and-france-record-win-it?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Despite not winning silverware last season, Mbappe has been clear his goal to clinch the Ballon d'Or.",
+   "published": "2026-10-24T14:21:34+00:00"
   },
   {
    "id": "c25c8f11db82",
@@ -7478,18 +7658,6 @@
    "published": "2026-10-22T19:25:26+00:00"
   },
   {
-   "id": "be203e88a274",
-   "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
-   "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I am slightly anxious about purchasing something so big” from an online retailer known for cut-price duplicates of popular clothes and accessories.",
-   "published": "2026-10-22T19:25:00+00:00"
-  },
-  {
    "id": "f1e707adca43",
    "title": "Elizabeth Smart kidnapper waives preliminary hearing for park charges, is working on settlement",
    "link": "https://www.deseret.com/utah/2026/10/22/elizabeth-smart-kiddnapper-waives-preliminary-hearing-for-park-charges-is-working-on-settlement/",
@@ -14030,18 +14198,6 @@
    "published": "2026-10-21T14:51:37+00:00"
   },
   {
-   "id": "8bdea8293ff9",
-   "title": "Money-saving habits to cope with higher prices — from our readers",
-   "link": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "I asked people what they’re doing to make life more affordable today. I’ll definitely be trying some of these.",
-   "published": "2026-10-21T14:49:00+00:00"
-  },
-  {
    "id": "68c606059eb6",
    "title": "How I Changed My Mind (Kind Of) on the Death Penalty",
    "link": "https://www.christianitytoday.com/2026/10/how-i-changed-my-mind-kind-of-on-the-death-penalty/",
@@ -18245,17 +18401,6 @@
    "category_hint": null,
    "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
    "published": "2026-10-20T15:58:57+00:00"
-  },
-  {
-   "id": "5799b8573847",
-   "title": "Looking for AI stocks that are still cheap? Consider these two under-the-radar picks.",
-   "link": "https://www.marketwatch.com/story/looking-for-ai-stocks-that-are-still-cheap-consider-these-two-under-the-radar-picks-b4ca2b28?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Simon King of Saturna Capital names two stocks tied to base metals, for investors who want to look beyond the beaten path for AI-related trades.",
-   "published": "2026-10-20T15:58:00+00:00"
   },
   {
    "id": "c7ec3e118fd3",
@@ -112084,17 +112229,6 @@
    "flourishing_feed": false,
    "summary": "The greatest risk to secure voting in Indiana is a lack of sufficient training for county election workers, secretary of state candidate Greg Ballard said in proposing a standardized statewide training program.",
    "published": "2026-09-09T19:01:24+00:00"
-  },
-  {
-   "id": "ff25d1fcc149",
-   "title": "Dubois County man gets probation after guilty plea in lieutenant governor threat case",
-   "link": "https://indianacapitalchronicle.com/2026/09/09/dubois-county-man-gets-probation-after-guilty-plea-in-lieutenant-governor-threat-case/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "A Dubois County man accused of sending threatening messages to Lt. Gov. Micah Beckwith was sentenced Tuesday to nearly a year of probation after pleading guilty to felony intimidation. Joshua Wasson, 25, of Jasper, pleaded guilty in Dubois Circuit Court to one Level 6 felony…",
-   "published": "2026-09-09T15:28:31+00:00"
   }
  ]
 }
