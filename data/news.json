@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T01:50:16.308806+00:00",
+ "generated": "2026-10-24T02:45:20.223225+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -134,6 +134,66 @@
  ],
  "items": [
   {
+   "id": "4be00a5f1934",
+   "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+   "link": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelled Typhoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, and uprooting trees and severing power as it weakened and ⁠headed north toward…",
+   "published": "2026-10-24T02:22:32+00:00"
+  },
+  {
+   "id": "8edd823a5567",
+   "title": "Empty desks: Headcounts are down at several Utah colleges — but what about K-12 schools?",
+   "link": "https://www.deseret.com/education/2026/10/23/utah-school-enrollment-2026-charter/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "As anticipated, fewer kids are attending Utah’s public K-12 schools. The total enrollment in the Beehive State’s elementary and secondary schools is down 2.4% — from 656,311 K-12 students during the 2025-26 academic year, to 640,471 for 2026-27. Those dips represent more than…",
+   "published": "2026-10-24T02:02:00+00:00"
+  },
+  {
+   "id": "a580c2639aed",
+   "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – as it happened",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "This live blog is now closed. Sign up for the Breaking News US email With less than two weeks until the midterms, my colleague Jonathan Freedland and Guardian US columnist Moira Donegan are answering your questions in this week’s episode of Politics Weekly America. They break…",
+   "published": "2026-10-24T02:01:54+00:00"
+  },
+  {
+   "id": "8cbecf6f9800",
+   "title": "California officials ordered by DoJ to set aside ‘likely’ noncitizen ballots",
+   "link": "https://www.theguardian.com/us-news/2026/oct/23/california-ballots-trump",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Letters from federal prosecutors represent latest escalation as Trump continues to make claims of voter fraud Federal prosecutors sent letters to county registrars across California on Friday demanding that local officials set aside and verify ballots that the Department of…",
+   "published": "2026-10-24T02:00:13+00:00"
+  },
+  {
+   "id": "4ebdb696244c",
+   "title": "Seven killed and 40 injured after gunmen open fire at church funeral in Jordan",
+   "link": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Footage broadcast on state television showed two gunmen who appear to be holding pistols approaching the church and firing shots Gunmen opened fire during a funeral at a church in Jordan on Friday, killing seven people and wounding 40 others, authorities said. The shooting took…",
+   "published": "2026-10-24T01:57:47+00:00"
+  },
+  {
    "id": "df49688f73b1",
    "title": "Pentagon designates China-backed campus cultural centers a threat to US national security",
    "link": "https://www.theguardian.com/us-news/2026/oct/23/pentagon-china-hegseth",
@@ -156,18 +216,6 @@
    "category_hint": null,
    "summary": "President Javier Milei’s role in cryptocurrency launch does not translate into a fraudulent scheme, judge says.",
    "published": "2026-10-24T01:21:18+00:00"
-  },
-  {
-   "id": "a580c2639aed",
-   "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Vivek Ramaswamy campaign ad features Democrat Amy Acton’s estranged mother accusing her of lying about her childhood, but a copy of a 1978 arrest warrant suggests Acton told the truth Sign up for the Breaking News US email With less than two weeks until the midterms, my…",
-   "published": "2026-10-24T01:09:20+00:00"
   },
   {
    "id": "9686b15cacf4",
@@ -243,14 +291,14 @@
   },
   {
    "id": "1bbc15ef5df1",
-   "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
+   "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Israeli army launches a 'targeted' operation in Hebron after a shooting killed two soldiers.",
+   "summary": "Saudi-led coalition says air defences downed a Houthi ballistic missile targeting Riyadh.",
    "published": "2026-10-24T00:00:00+00:00"
   },
   {
@@ -291,7 +339,7 @@
   },
   {
    "id": "0258491472d0",
-   "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
+   "title": "Typhoon Champi hits Taiwan, killing one and injuring hundreds",
    "link": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
