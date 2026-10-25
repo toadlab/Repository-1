@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-25",
+ "type": "reflection",
+ "circle": "hyperlocal",
+ "generated": "2026-10-25T07:33:23.393074-04:00",
+ "emergencies": [],
+ "inspiring": [
+  {
+   "id": "7e278de4b138",
+   "title": "How ‘Artivism’ Is Driving the Resistance in Paris",
+   "link": "https://reasonstobecheerful.world/paris-student-protests-orchestra-artistic-expression/",
+   "source": "Reasons to be Cheerful",
+   "published": "2026-10-23T08:00:26+00:00",
+   "summary": "",
+   "circle": "international",
+   "category": "good_in_world",
+   "story_key": "artivism-driving-resistance-paris",
+   "composite": 5.75,
+   "bar": 9.0,
+   "decision": "exclude",
+   "reason": "Keyword estimate (no Claude API key configured).",
+   "flourishing": 7,
+   "domain": 0,
+   "durability": 4,
+   "review_status": "unreviewed",
+   "review_reason": "",
+   "author": null,
+   "label": "headline only, not reviewed",
+   "why_it_matters": "",
+   "talk_to": ""
+  }
+ ],
+ "scored_by": [
+  "heuristic"
+ ],
+ "category_counts": {
+  "finance": 0,
+  "good_in_world": 1,
+  "other": 0
+ }
+}
