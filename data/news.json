@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T16:23:48.494829+00:00",
+ "generated": "2026-10-25T19:38:58.605163+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "name": "The Guardian World",
@@ -134,20 +134,416 @@
  ],
  "items": [
   {
+   "id": "b58ee10f317f",
+   "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+   "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
+   "published": "2026-10-25T19:30:00+00:00"
+  },
+  {
+   "id": "9709b6826529",
+   "title": "Four-year-old girl dies after falling from east London tower block",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/25/four-year-old-girl-dies-after-falling-from-east-london-tower-block",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Police say the incident, which occurred in Barking, is ‘not believed to be suspicious’ A four-year-old girl has died after falling from a tower block in east London. She was injured after “falling from height” at an address in St Paul’s Road, Barking, on Saturday and later died…",
+   "published": "2026-10-25T19:25:47+00:00"
+  },
+  {
+   "id": "3bf4623a77e7",
+   "title": "Serbia voter turnout highest in decades as students oppose longtime leader",
+   "link": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.",
+   "published": "2026-10-25T19:19:54+00:00"
+  },
+  {
    "id": "1ecafaded844",
-   "title": "Serbia votes as strongman Vučić faces grassroots challenge to 12-year rule – Europe live",
+   "title": "Polls close in Serbia as strongman Vučić faces challenge to 12-year rule – Europe live",
    "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "The Student List movement is taking on authoritarian leader following nearly two years of protests against government and institutional corruption What is at stake in Serbia’s election? Serbia’s former president and now prime ministerial candidate (again) Aleksandar Vučić rose…",
-   "published": "2026-10-25T16:14:37+00:00"
+   "summary": "The Student List movement is taking on authoritarian leader following nearly two years of protests against government and institutional corruption What is at stake in Serbia’s election? The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% by 5pm local time…",
+   "published": "2026-10-25T19:18:49+00:00"
+  },
+  {
+   "id": "d3e62867a420",
+   "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+   "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
+   "published": "2026-10-25T19:14:27+00:00"
+  },
+  {
+   "id": "cdf9ed45b83e",
+   "title": "Suspect in shooting death of Missouri teen on highway charged in second road incident",
+   "link": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Man accused of shooting teen who was driving to a party is also linked to shooting of a vehicle days earlier, police say A man accused in the shooting death of a Missouri teen has been charged in a second shooting incident – both of which involve firing into cars on the…",
+   "published": "2026-10-25T19:12:05+00:00"
+  },
+  {
+   "id": "287df8b24088",
+   "title": "US south-west braces for more storms after enduring days of rain and flooding",
+   "link": "https://www.theguardian.com/us-news/2026/oct/25/four-corners-southwest-rain-flooding-thunderstorms",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "More inclement weather forecast in rain-soaked Four Corners region after evacuations and rescues last week Another round of heavy showers and thunderstorms were expected to hit the south-west US on Sunday after the region endured days of rain that forced evacuations, water…",
+   "published": "2026-10-25T19:02:51+00:00"
+  },
+  {
+   "id": "7585b0fd1918",
+   "title": "Emirati diplomat who helped deliver aid to Gaza enters UN secretary general race",
+   "link": "https://www.theguardian.com/world/2026/oct/25/lana-nusseibeh-emirati-diplomat-enters-un-secretary-general-race",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Lana Nusseibeh has Palestine’s endorsement but faces criticism over the UAE’s human rights record and alleged funding of the RSF in Sudan An Emirati diplomat who as UAE ambassador to the UN helped secure the delivery of humanitarian aid to Gaza has entered the race as a late…",
+   "published": "2026-10-25T19:00:10+00:00"
+  },
+  {
+   "id": "41297b247faf",
+   "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+   "link": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Nobel laureate's homecoming follows national protests demanding free elections.",
+   "published": "2026-10-25T18:55:39+00:00"
+  },
+  {
+   "id": "2df444098b73",
+   "title": "Trump Exempts Some Canadian Products From Section 338 Tariffs - But his Illegal Trade War Continues",
+   "link": "https://reason.com/volokh/2026/10/25/trump-exempts-some-canadian-products-from-section-338-tariffs-but-his-illegal-trade-war-continues/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Courts should still strike down the Section 338 tariffs and import bans that remain in place.",
+   "published": "2026-10-25T18:47:22+00:00"
+  },
+  {
+   "id": "4a8e69aa6aed",
+   "title": "One dead and 82,000 properties without power as Storm Boelo batters UK",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Man, 60, killed by falling tree near Castle Douglas in Scotland as Met Office reports gusts of up to 84mph A 60-year-old man has been killed by a falling tree and more than 82,000 properties have been left without power as Storm Boelo continues to batter Scotland, Northern…",
+   "published": "2026-10-25T18:38:44+00:00"
+  },
+  {
+   "id": "5bbfa8cb397d",
+   "title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
+   "link": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London.",
+   "published": "2026-10-25T18:34:19+00:00"
+  },
+  {
+   "id": "b4c30b6342df",
+   "title": "Venezuelan opposition leader María Machado returns after months in exile",
+   "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+   "published": "2026-10-25T18:29:00+00:00"
+  },
+  {
+   "id": "7b461bef71b0",
+   "title": "Will Michael Carrick be sacked? Man United manager says he doesn’t know",
+   "link": "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Manchester United's 0-3 home loss to Bournemouth has left the 20-time champions winless in eight Premier League games.",
+   "published": "2026-10-25T18:27:53+00:00"
+  },
+  {
+   "id": "2368fa8e2828",
+   "title": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
+   "link": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Kampala says country is Ebola free, but Swiss authorities believe a woman diagnosed in Nigeria was infected in Uganda.",
+   "published": "2026-10-25T18:20:26+00:00"
+  },
+  {
+   "id": "e1f51c701452",
+   "title": "Israeli air strike on Gaza City university kills three people",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City.",
+   "published": "2026-10-25T18:12:13+00:00"
+  },
+  {
+   "id": "44e635dac047",
+   "title": "How far did BYU fall and Utah rise in the latest AP Top 25 poll?",
+   "link": "https://www.deseret.com/sports/2026/10/25/byu-utah-ap-poll-update-ucf-loss-houston-win/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "BYU’s time at No. 2 in the national rankings has come to an abrupt end. Following Saturday’s double-overtime loss at UCF, the Cougars have dropped six spots to No. 8 in the latest AP Top 25 poll. Utah, now the lone unbeaten team in the Big 12 after defeating Houston, has…",
+   "published": "2026-10-25T18:05:36+00:00"
+  },
+  {
+   "id": "b501af5770e9",
+   "title": "Jordan FA chief says AFC Congress ‘pure politics’ at behest of Infantino",
+   "link": "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Prince Ali bin Hussein said nobody was allowed to speak, question, debate or talk to the media at the AFC Congress.",
+   "published": "2026-10-25T18:05:14+00:00"
+  },
+  {
+   "id": "4e3ea013b333",
+   "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+   "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“Nothing has been set aside for his needs.”",
+   "published": "2026-10-25T18:00:00+00:00"
+  },
+  {
+   "id": "2749cf3d2fa8",
+   "title": "US and Israel elections: New leaders, same policies?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues.",
+   "published": "2026-10-25T17:53:23+00:00"
+  },
+  {
+   "id": "fe2d871b9314",
+   "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+   "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Attorney General Todd Blanche defended the Justice Department's suit over Alaska's Senate race in an interview on CNN.",
+   "published": "2026-10-25T17:50:35+00:00"
+  },
+  {
+   "id": "ea8d716875dd",
+   "title": "Can protests in Europe bring about change?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "People have been taking to the streets to demand action.",
+   "published": "2026-10-25T17:39:42+00:00"
+  },
+  {
+   "id": "056844761e8c",
+   "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
+   "link": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The deputy secretary-general of UN's ICT agency says unequal access to AI means poorer nations may be left behind.",
+   "published": "2026-10-25T17:26:22+00:00"
+  },
+  {
+   "id": "e528548a0fbd",
+   "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
+   "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader María Corina Machado has announced she has returned to Venezuela almost a year after she left the country to receive the Nobel…",
+   "published": "2026-10-25T17:18:28+00:00"
+  },
+  {
+   "id": "98798f828d90",
+   "title": "Jerusalem Daily: Israel expels thousands from Hebron",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Jerusalem Daily: Israel expels thousands from Hebron",
+   "published": "2026-10-25T17:12:59+00:00"
+  },
+  {
+   "id": "53edf89bc9aa",
+   "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
+   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+   "published": "2026-10-25T17:00:00+00:00"
+  },
+  {
+   "id": "bcbd955c935c",
+   "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+   "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
+   "published": "2026-10-25T17:00:00+00:00"
+  },
+  {
+   "id": "db3f3a0fab5e",
+   "title": "Opinion: Utah’s forgotten foster youth deserve a chance at adulthood",
+   "link": "https://www.deseret.com/opinion/2026/10/25/seek-those-astray-foster-children/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Every year in Utah, hundreds of children move into foster care. Most will find their way home, or into the arms of a relative, or a family that adopts them. But a smaller group, older, quieter, easier to overlook, ages out of the system entirely. They turn 18 with no family…",
+   "published": "2026-10-25T17:00:00+00:00"
+  },
+  {
+   "id": "1a41f3b5e5df",
+   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+   "published": "2026-10-25T16:45:00+00:00"
+  },
+  {
+   "id": "9a85304c8be6",
+   "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
+   "link": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Just as American cattle went to market, Trump's action added unease to an industry already facing uncertainty.",
+   "published": "2026-10-25T16:42:33+00:00"
+  },
+  {
+   "id": "2af05852f8e0",
+   "title": "Israel’s ‘Generation Right’ could shape Netanyahu’s future",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israels-generation-right-could-shape-netanyahus-future?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The global trend may show young people leaning politically to the left, but in Israel… they’re leaning to the right.",
+   "published": "2026-10-25T16:30:51+00:00"
+  },
+  {
+   "id": "93b2745d2a1f",
+   "title": "Barcelona vs Real Madrid LIVE: La Liga El Clasico",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Follow updates from El Clasico at Camp Nou, including the build-up, analysis and live text commentary of the game.",
+   "published": "2026-10-25T16:30:00+00:00"
+  },
+  {
+   "id": "06d77fb4748a",
+   "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+   "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
+   "published": "2026-10-25T16:18:41+00:00"
+  },
+  {
+   "id": "141205b2c507",
+   "title": "Jordanians mourn victims of deadly church attack",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Jordanians mourn victims of deadly church attack",
+   "published": "2026-10-25T16:16:48+00:00"
   },
   {
    "id": "8a253749b7f4",
-   "title": "Ali G: Who Iz I? stooge says he was in on joke but didn’t tell Sacha Baron Cohen: ‘He’s not going to punk me. I’ll trick him’",
+   "title": "‘He’s not going to punk me. I’ll trick him’: Ali G: Who Iz I? stooge says he was in on joke but didn’t tell Sacha Baron Cohen",
    "link": "https://www.theguardian.com/film/2026/oct/25/ali-g-who-iz-i-stooge-joshua-loudermilk-sacha-baron-cohen",
    "source": "The Guardian World",
    "circle_hint": "international",
@@ -156,6 +552,18 @@
    "category_hint": null,
    "summary": "Exclusive: Joshua Loudermilk says suspicions first raised during filming by gun shaped like wearable plastic bottom: ‘You’re gonna put a butt on top of a butt? You can’t run in that’ • This article contains spoilers for Ali G: Who Iz I? Joshua Loudermilk, one of two men…",
    "published": "2026-10-25T16:13:19+00:00"
+  },
+  {
+   "id": "3d821338de23",
+   "title": "Israeli soldiers beat elderly Palestinian in Hebron",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israeli soldiers beat and injured Hijazi Shawer, a 70-year-old Palestinian shopkeeper and community leader.",
+   "published": "2026-10-25T16:11:37+00:00"
   },
   {
    "id": "911d013c8fa8",
@@ -180,18 +588,6 @@
    "category_hint": null,
    "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
    "published": "2026-10-25T16:05:15+00:00"
-  },
-  {
-   "id": "4a8e69aa6aed",
-   "title": "More than 82,000 properties without power as Storm Boelo batters UK",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Met Office reports gusts of up to 84mph after weather warnings issued across Scotland, Northern Ireland and north of England More than 82,000 properties have been left without power as Storm Boelo continues to batter Scotland, Northern Ireland and the north of England. The…",
-   "published": "2026-10-25T16:01:40+00:00"
   },
   {
    "id": "874917b14fe9",
@@ -219,7 +615,7 @@
   },
   {
    "id": "c96546db1a20",
-   "title": "Seven killed in Gaza as Israel targets university campus and other sites",
+   "title": "Eight killed in Gaza as Israel targets university campus and other sites",
    "link": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -398,18 +794,6 @@
    "published": "2026-10-25T14:30:00+00:00"
   },
   {
-   "id": "cdf9ed45b83e",
-   "title": "Suspect in shooting death of teen on Missouri highway charged in second road incident",
-   "link": "https://www.theguardian.com/us-news/2026/oct/25/shooting-death-teen-missouri-highway",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Man accused of shooting teen, who was driving to a party, has also been linked to shooting of a vehicle days earlier A man accused in the shooting death of a Missouri teen has been charged in a second shooting incident – both of which involve firing into cars on the highway.…",
-   "published": "2026-10-25T14:16:37+00:00"
-  },
-  {
    "id": "f12c641a147d",
    "title": "Gaza content creator tells Al Jazeera how much her award win means",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss",
@@ -574,7 +958,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Cabinet minister says PM’s plea is ‘pragmatism’ but comments risk causing concern among some red wall MPs Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers including Angela Rayner but risks causing…",
+   "summary": "Cabinet minister says PM’s plea is ‘pragmatism’ but comments risk causing concern among some ‘red wall’ MPs Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers including Angela Rayner but risks causing…",
    "published": "2026-10-25T13:31:05+00:00"
   },
   {
@@ -879,7 +1263,7 @@
   },
   {
    "id": "90e508f8fc16",
-   "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+   "title": "This College of Magic turns ordinary kids into cool magicians",
    "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
    "source": "NPR News",
    "circle_hint": "national",
@@ -1090,7 +1474,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "For the first time in school history, UCF has defeated a top-five-ranked team. The Knights stunned No. 2 BYU in double overtime Saturday in Orlando,Florida, marking the program’s biggest upset to date and the high point of its second Scott Frost era. “I think I’ve been part of…",
+   "summary": "For the first time in school history, UCF has defeated a top-five-ranked team. The Knights stunned No. 2 BYU in double overtime Saturday in Orlando, Florida, marking the program’s biggest upset to date and the high point of its second Scott Frost era. “I think I’ve been part of…",
    "published": "2026-10-25T10:00:01+00:00"
   },
   {
@@ -1790,18 +2174,6 @@
    "published": "2026-10-25T03:47:56+00:00"
   },
   {
-   "id": "d3e62867a420",
-   "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-   "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
-   "published": "2026-10-25T03:20:16+00:00"
-  },
-  {
    "id": "8ff3510ef1d1",
    "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
    "link": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
@@ -2378,18 +2750,6 @@
    "published": "2026-10-24T20:22:18+00:00"
   },
   {
-   "id": "4e3ea013b333",
-   "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
-   "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“Nothing has been set aside for his needs.”",
-   "published": "2026-10-24T20:15:00+00:00"
-  },
-  {
    "id": "4ec77be00c15",
    "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
    "link": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
@@ -2760,18 +3120,6 @@
    "category_hint": null,
    "summary": "Market turmoil has created a remarkable opportunity in recent weeks for retirees and those seeking secure, stable income for life.",
    "published": "2026-10-24T16:04:00+00:00"
-  },
-  {
-   "id": "53edf89bc9aa",
-   "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-   "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
-   "published": "2026-10-24T16:00:00+00:00"
   },
   {
    "id": "778b1cefb64a",
@@ -4836,18 +5184,6 @@
    "category_hint": null,
    "summary": "Campaigners call lack of progress ‘staggering’ as online regulator issues review of first nine months of new regime Landmark online safety measures have failed to limit the proportion of children suffering harm from social media, the UK’s online regulator has admitted, in an…",
    "published": "2026-10-23T22:51:50+00:00"
-  },
-  {
-   "id": "1a41f3b5e5df",
-   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-   "published": "2026-10-23T22:49:00+00:00"
   },
   {
    "id": "33a36b73982c",
@@ -7056,18 +7392,6 @@
    "category_hint": null,
    "summary": "Plus: How to be more secure in an age of AI hacking, more Trump administration corruption allegations, Virginia Democrat indicted for marijuana scheme, and more...",
    "published": "2026-10-23T13:30:11+00:00"
-  },
-  {
-   "id": "bcbd955c935c",
-   "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-   "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
-   "published": "2026-10-23T13:30:00+00:00"
   },
   {
    "id": "c426ba3e01a1",
@@ -114578,40 +114902,6 @@
    "flourishing_feed": false,
    "summary": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
    "published": "2026-09-10T20:00:00+00:00"
-  },
-  {
-   "id": "fda8dbd740f2",
-   "title": "Indiana Supreme Court rules Sen. Spencer Deery winner in 3-vote Republican primary",
-   "link": "https://indianacapitalchronicle.com/2026/09/10/outcome-of-3-vote-indiana-senate-recount-now-with-state-supreme-court/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The Indiana Supreme Court on Thursday declared state Sen. Spencer Deery as a three-vote Republican primary winner over a President Donald Trump-endorsed challenger.",
-   "published": "2026-09-10T19:03:44+00:00"
-  },
-  {
-   "id": "e6f766cce731",
-   "title": "SEC Charges Founder and His Two New Jersey-Based Companies in Alleged $16 Million Ponzi Scheme",
-   "link": "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme",
-   "source": "SEC Press Releases",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The Securities and Exchange Commission today charged Ernest Ossei Boateng and two New Jersey-based companies he controls, Intercontinental Wealth Network LLC and I Wealth Network LP, for allegedly raising approximately $16 million from more than 200…",
-   "published": "2026-09-10T17:45:22+00:00"
-  },
-  {
-   "id": "ddea49759769",
-   "title": "Indiana Supreme Court weighs limits of religious exemptions to abortion ban",
-   "link": "https://indianacapitalchronicle.com/2026/09/10/indiana-supreme-court-weighs-limits-of-religious-exemptions-to-abortion-ban/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The attorney general’s office urged Indiana’s highest court Thursday to dismiss a religious freedom challenge to the state’s near-total abortion ban, arguing that women who are not pregnant or seeking abortions have brought their case too soon. But Indiana Supreme Court…",
-   "published": "2026-09-10T17:15:41+00:00"
   }
  ]
 }
