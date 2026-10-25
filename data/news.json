@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T01:14:25.379260+00:00",
+ "generated": "2026-10-25T06:09:28.727465+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "name": "Congressional Budget Office",
@@ -134,6 +134,342 @@
  ],
  "items": [
   {
+   "id": "bd155d2a9eff",
+   "title": "Sports on the air: Here’s what games are on TV and radio for the week of Oct. 25-31",
+   "link": "https://www.deseret.com/sports/2026/10/25/sports-on-the-air-heres-what-games-are-on-tv-and-radio-for-the-week-of-oct-25-31/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Sunday, Oct. 25, 2026 TELEVISION BASKETBALL Bundesliga: Alba Berlin vs. Ratiopharm Ulm, NBA TV, 11 a.m. Exhibition: Duke at Kansas, ESPN, 11 a.m. Lakers at Jazz, KJZZ, 3 p.m. Raptors at Timberwolves, NBA TV, 5 p.m. GOLF Genesis Championship, GOLF, 5:30 a.m. Bermuda…",
+   "published": "2026-10-25T06:00:00+00:00"
+  },
+  {
+   "id": "1a8896615315",
+   "title": "Nigeria’s missing: Families in the northeast still wait for answers",
+   "link": "https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "People across northeastern Nigeria continue searching for loved ones who went missing during years of violence.",
+   "published": "2026-10-25T05:33:41+00:00"
+  },
+  {
+   "id": "f1c6920c44bb",
+   "title": "Election posters, mass tourism and property: Israel’s footprint in Cyprus",
+   "link": "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Cypriots say Israeli money is moving fast and shutting them out as their government embraces Israel as a key ally.",
+   "published": "2026-10-25T05:33:10+00:00"
+  },
+  {
+   "id": "225a0a6c7475",
+   "title": "Behind the scenes of a 1st NHL goal",
+   "link": "https://www.deseret.com/sports/2026/10/24/utah-mammoth-beat-tampa-bay-lightning-5-4-in-overtime/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Both the Tampa Bay Lightning and the Utah Mammoth got to clear the bench to celebrate goals at the Delta Center Saturday night. When the game ended, though, the Mammoth were the only happy team. It was an evening to remember. Lightning superstar and reigning MVP Nikita Kucherov…",
+   "published": "2026-10-25T05:32:30+00:00"
+  },
+  {
+   "id": "170a772b9fa5",
+   "title": "‘Unusually large’ multi-state storm causing severe weather for Australia’s east – with more on the way",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "BoM predicts hail, damaging winds, flash flooding and power outages across southern Queensland, western NSW, the ACT and eastern Victoria on Sunday afternoon Get our breaking news email , free app or daily news podcast Large parts of eastern Australia were put on alert for…",
+   "published": "2026-10-25T05:30:30+00:00"
+  },
+  {
+   "id": "564b78d924ca",
+   "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
+   "link": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Netanyahu and his rivals are tied days from the vote, and both camps are fighting with bots, deepfakes and data.",
+   "published": "2026-10-25T05:27:54+00:00"
+  },
+  {
+   "id": "d53d7259076c",
+   "title": "Catholic Integralism Is the Wrong Kind of Integration",
+   "link": "https://thedispatch.com/article/catholic-church-integralism-constitution/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A religion can have outsized influence without violating the Constitution.",
+   "published": "2026-10-25T05:02:00+00:00"
+  },
+  {
+   "id": "80d5839a1390",
+   "title": "Christianity Today’s Freefall Is Bad News",
+   "link": "https://thedispatch.com/article/christianity-today-new-york-times-evangelicalism/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Christians need more institutions like it, not fewer.",
+   "published": "2026-10-25T05:00:00+00:00"
+  },
+  {
+   "id": "4a6a07884758",
+   "title": "Serbia votes in election pitting longtime leader against student movement",
+   "link": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Polls show populist leader Aleksandar Vucic in a tight race against the anticorruption and anti-authoritarian movement.",
+   "published": "2026-10-25T04:43:06+00:00"
+  },
+  {
+   "id": "7198250a8eee",
+   "title": "Utah State’s offense disappoints in 3-point loss to Texas State",
+   "link": "https://www.deseret.com/sports/2026/10/24/utah-states-offense-disappoints-in-3-point-loss-to-texas-state/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Saturday was a similar story and the same outcome for the Utah State Aggies. All season, the defense has consistently done more than its fair share to give the Aggies a chance, but the offense has not generated enough to put them in a position to win many games. That pattern…",
+   "published": "2026-10-25T04:31:06+00:00"
+  },
+  {
+   "id": "0a5bd0ce690d",
+   "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+   "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+   "published": "2026-10-25T04:16:52+00:00"
+  },
+  {
+   "id": "2e6f81b88d77",
+   "title": "Obama joins El-Sayed in Michigan rally cry before key midterms",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Former US President Barack Obama joined Michigan Senate candidate Abdul El-Sayed at a Detroit rally ahead of midterms.",
+   "published": "2026-10-25T04:06:28+00:00"
+  },
+  {
+   "id": "c7948f0ddc8e",
+   "title": "High school girls volleyball: Rich rallies from 2 sets down, saves championship point to claim 19th state title",
+   "link": "https://www.deseret.com/sports/2026/10/24/high-school-girls-volleyball-1a-state-championship/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Rich had already come back from the brink once. To win the 1A girls volleyball state championship Saturday, the Rebels would have to do it again. Down two sets and trailing St. Joseph 18–14 in the third, Rich appeared headed toward a championship loss. Instead, the Rebels…",
+   "published": "2026-10-25T04:06:21+00:00"
+  },
+  {
+   "id": "10222caa95cf",
+   "title": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
+   "link": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Record diesel prices are kicking Western ranchers while they're down. Drought means they have to buy extra hay, and pay truckers extra to deliver it because of fuel price hikes.",
+   "published": "2026-10-25T04:01:00+00:00"
+  },
+  {
+   "id": "663e02011368",
+   "title": "A Texas Cop Signed on to Help ICE Deport His Neighbors. It Tore the Town Apart.",
+   "link": "https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander",
+   "source": "ProPublica",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The post A Texas Cop Signed on to Help ICE Deport His Neighbors. It Tore the Town Apart. appeared first on ProPublica .",
+   "published": "2026-10-25T04:00:00+00:00"
+  },
+  {
+   "id": "7e551548c43a",
+   "title": "New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors",
+   "link": "https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The settlement is the second-largest after an $880m ​deal reached by the Archdiocese of Los ​Angeles in 2024.",
+   "published": "2026-10-25T03:57:13+00:00"
+  },
+  {
+   "id": "771bd5e18c13",
+   "title": "AFP boss says politicians’ heated rhetoric is fuelling threats against MPs",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/25/afp-commissioner-krissy-barrett-threats-mps-political-debate-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Commissioner Krissy Barrett says women are more often singled out, often with threats of sexual violence Get our breaking news email , free app or daily news podcast Australia’s top federal law enforcement official has drawn a direct link between politicians’ rhetoric and…",
+   "published": "2026-10-25T03:54:43+00:00"
+  },
+  {
+   "id": "c1428068d52f",
+   "title": "Thousands rally in Turkiye over journalist arrests, media shutdowns",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Thousands have protested across Turkiye against the arrests of journalists and restrictions on independent media.",
+   "published": "2026-10-25T03:47:56+00:00"
+  },
+  {
+   "id": "935aa1adb077",
+   "title": "El Clasico awaits a Yamal vs Mbappe showdown on Mourinho’s return to La Liga",
+   "link": "https://www.aljazeera.com/sports/2026/10/25/el-clasico-awaits-a-yamal-vs-mbappe-showdown-on-mourinhos-return-to-la-liga?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Barcelona vs Real Madrid will mark the return of Spanish football's fiercest rivalry between two star-studded teams.",
+   "published": "2026-10-25T03:40:52+00:00"
+  },
+  {
+   "id": "8ff3510ef1d1",
+   "title": "Bulgarians vote for president in shadow of Russia’s war in Ukraine",
+   "link": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The two leading candidates condemn recent deadly Black Sea drone strikes, but differ on the Ukraine war more broadly.",
+   "published": "2026-10-25T02:45:43+00:00"
+  },
+  {
+   "id": "d3a86598c82a",
+   "title": "High school girls soccer: Jessica Miller’s goal lifts Waterford past Maeser Prep for another 2A state crown",
+   "link": "https://www.deseret.com/sports/2026/10/24/high-school-girls-soccer-2a-state-championship/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "An unlikely hero helped Waterford earn its ninth girls soccer title in school history Saturday at Zions Bank Stadium in Herriman. Senior Jessica Miller, who played goalie a year ago, scored the game’s only goal early in the second half to lift the second-seeded Ravens past No.…",
+   "published": "2026-10-25T02:41:10+00:00"
+  },
+  {
+   "id": "ea18dbd932a5",
+   "title": "Reigning MVP breaks all-time points record in Utah",
+   "link": "https://www.deseret.com/sports/2026/10/24/nikita-kucherov-breaks-tampa-bay-lightning-all-time-points-record/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Tampa Bay Lightning have a new all-time points leader, and he broke the record at the Delta Center in Salt Lake City. Nikita Kucherov scored the 1,138th point of his career on a first-period power play assist against the Utah Mammoth on Saturday. Brayden Point, who has…",
+   "published": "2026-10-25T02:18:40+00:00"
+  },
+  {
+   "id": "c2f1350c5dd5",
+   "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Thousands of Israelis rallied against PM Benjamin Netanyahu ahead of elections on Tuesday.",
+   "published": "2026-10-25T02:07:29+00:00"
+  },
+  {
+   "id": "ccbc4bbcc216",
+   "title": "Analysis: Wild and crazy ending aside, No. 2 BYU was outplayed by middling UCF in loss",
+   "link": "https://www.deseret.com/sports/2026/10/24/byu-ucf-cougars-knights-rankings-big-12-road-bounce-house-saturday/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "ORLANDO, Florida — It wasn’t the hangover from the big win over Notre Dame, or the fact that the UCF Knights were more rested and ready after a bye last week. The reason why the No. 2 BYU Cougars saw their undefeated season ruined in front of 45,112 fans at the Bounce House on…",
+   "published": "2026-10-25T02:02:05+00:00"
+  },
+  {
+   "id": "ad19948ea299",
+   "title": "Myanmar’s Aung San Suu Kyi ‘sounds strong’ but is isolated, son says",
+   "link": "https://www.theguardian.com/world/2026/oct/25/myanmar-aung-san-suu-kyi-speaks-son-pr-move",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Kim Aris tells the Guardian chance to speak with detained Nobel laureate was ‘public relations’ move from military leaders Myanmar’s former democratic leader Aung San Suu Kyi appears to be in good physical and mental health but is living in near-complete isolation, her son has…",
+   "published": "2026-10-25T02:00:49+00:00"
+  },
+  {
+   "id": "0ceb972d7219",
+   "title": "Highlights, key plays, photos from No. 10 Utah’s home victory over No. 14 Houston",
+   "link": "https://www.deseret.com/sports/2026/10/24/utah-vs-houston-live-coverage/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "How to watch the game Utah’s matchup with Houston will be televised on ESPN and streamed on the ESPN app . The game kicks off at 8:15 p.m. MDT. Pregame prep Here are a few stories to get you ready for the game between the Utes and the Cougars. Sights and sounds from ‘College…",
+   "published": "2026-10-25T01:57:49+00:00"
+  },
+  {
+   "id": "391f8599ec0f",
+   "title": "‘Horrific’: woman, 19, shot in head in drive-by shooting outside boxing event near Brisbane",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Offenders still at large after shots fired from vehicle outside licensed premises in Loganholme Get our breaking news email , free app or daily news podcast Four people have been injured after a drive-by shooting outside a venue hosting a boxing event, including a 19-year-old…",
+   "published": "2026-10-25T01:41:37+00:00"
+  },
+  {
+   "id": "af9c9f6ea22f",
+   "title": "High school girls soccer: Elle Weston strikes twice late as Ogden captures another 3A state championship",
+   "link": "https://www.deseret.com/sports/2026/10/24/high-school-girls-soccer-3a-state-championship/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The musical group Queen first released its single “We are the Champions” in 1977. It’s unlikely it realized how popular its song would be. Nearly 50 years later, the Ogden girls soccer team could claim it to be its favorite after the Tigers won their second straight 3A…",
+   "published": "2026-10-25T01:31:56+00:00"
+  },
+  {
    "id": "f1af2c275c3f",
    "title": "3 takeaways from No. 2 BYU’s devastating double overtime loss at UCF",
    "link": "https://www.deseret.com/sports/2026/10/24/byu-cougars-lose-ucf-2026-3-takeaways/",
@@ -159,7 +495,7 @@
   },
   {
    "id": "32ee042ed749",
-   "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+   "title": "Obama slams Trump’s ‘cruelty and corruption’ as he rallies Democrats",
    "link": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
@@ -183,14 +519,14 @@
   },
   {
    "id": "7e387a717793",
-   "title": "California leaders rebuke Trump administration’s push over alleged noncitizen voting",
+   "title": "California leader calls attack on alleged noncitizen voting ‘weaponizing the law’",
    "link": "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Election personnel concerned directive to ‘quickly’ verify 20,000 ballots could disenfranchise citizens California’s top leaders have rebuked the Trump administration’s efforts to quash alleged noncitizen voting. Less than two weeks before the midterms, federal prosecutors…",
+   "summary": "State attorney general said Trump’s justice department’s directive to verify 20,000 ballots is completely improper California’s attorney general on Saturday rebuked the Trump administration’s efforts to quash alleged noncitizen voting, calling it “politicizing and weaponizing…",
    "published": "2026-10-25T00:16:17+00:00"
   },
   {
@@ -240,18 +576,6 @@
    "category_hint": null,
    "summary": "BYU picks up another preseason win. The Cougars shook off a slow start to defeat the UNLV Runnin’ Rebels 89-77 in an exhibition matchup Saturday in Las Vegas, having already beaten Nebraska in last week’s tuneup. BYU now sets its sights on the regular season, which begins Nov.…",
    "published": "2026-10-24T23:17:41+00:00"
-  },
-  {
-   "id": "391f8599ec0f",
-   "title": "Four people injured after drive-by shooting outside boxing event south of Brisbane",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Offenders still at large after shots fired from vehicle outside licensed premises in Loganholme Get our breaking news email , free app or daily news podcast Four people have been injured after a drive-by shooting outside a venue hosting a boxing event. Police said they…",
-   "published": "2026-10-24T23:13:32+00:00"
   },
   {
    "id": "a7609cb6d4e8",
@@ -470,18 +794,6 @@
    "published": "2026-10-24T21:10:23+00:00"
   },
   {
-   "id": "0a5bd0ce690d",
-   "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-   "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
-   "published": "2026-10-24T21:09:27+00:00"
-  },
-  {
    "id": "250c5583ffcd",
    "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
    "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
@@ -634,7 +946,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+   "summary": "The BBC's Europe correspondent reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
    "published": "2026-10-24T19:37:35+00:00"
   },
   {
@@ -3663,7 +3975,7 @@
   },
   {
    "id": "8749ec8fc5ea",
-   "title": "No. 10 Utah vs. No. 14: How to watch, listen to or stream the game",
+   "title": "No. 10 Utah vs. No. 14 Houston: How to watch, listen to or stream the game",
    "link": "https://www.deseret.com/sports/2026/10/23/how-to-watch-utah-vs-houston-as-college-gameday-comes-to-salt-lake/",
    "source": "Deseret News",
    "circle_hint": "national",
@@ -112916,17 +113228,6 @@
    "flourishing_feed": false,
    "summary": "The country’s two largest school districts — New York City and Los Angeles — banned most student use of artificial intelligence in classrooms for this school year as anxiety over AI’s effect on learning intensifies. The Los Angeles Unified School District announced last week…",
    "published": "2026-09-10T08:00:53+00:00"
-  },
-  {
-   "id": "0d33db733db0",
-   "title": "Art Advisory Panel-Notice of Closed Meeting",
-   "link": "https://www.federalregister.gov/documents/2026/09/10/2026-18483/art-advisory-panel-notice-of-closed-meeting",
-   "source": "Federal Register: IRS",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Closed meeting of the Art Advisory Panel will be held in New York, NY or virtually via Microsoft Teams. The entire meeting will be closed.",
-   "published": "2026-09-10T04:00:00+00:00"
   }
  ]
 }
