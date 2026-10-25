@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T19:38:58.605163+00:00",
+ "generated": "2026-10-25T22:34:45.842286+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "name": "The Guardian World",
@@ -134,6 +134,378 @@
  ],
  "items": [
   {
+   "id": "1ecafaded844",
+   "title": "Wild scenes of celebration in Belgrade as Vučić concedes Serbian election – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Student List movement projected to have 138 seats in the new parliament, well clear of the 126 required for majority, to Vučić’s 104 Serbian leader Aleksandar Vučić concedes defeat in fiercely contested parliamentary election The latest turnout projection by Ipsos/Cesid…",
+   "published": "2026-10-25T22:28:41+00:00"
+  },
+  {
+   "id": "98b22644aa7a",
+   "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
+   "link": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "French superstar Kylian Mbappe scores brace for Madrid to inflict Barcelona's first domestic defeat of the campaign.",
+   "published": "2026-10-25T22:22:53+00:00"
+  },
+  {
+   "id": "4a8e69aa6aed",
+   "title": "Two dead and 160,000 properties without power as Storm Boelo batters UK",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Man aged 60 and another in his 20s killed by falling trees in Scotland and London as Met Office reports gusts of up to 84mph Two people have been killed and more than 160,000 properties have been left without power as Storm Boelo continues to batter the UK. Two men, one aged 60…",
+   "published": "2026-10-25T22:19:18+00:00"
+  },
+  {
+   "id": "e2bf780ef214",
+   "title": "Australia politics live: MPs to pay tribute to Helen Haines as parliament resumes; Hanson says One Nation cartoons ‘not going anywhere’",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absolutely need to make…",
+   "published": "2026-10-25T22:12:50+00:00"
+  },
+  {
+   "id": "e189f9f1edbd",
+   "title": "Brazil election 2026: Live second round results",
+   "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva, is seeking a new term in a runoff with Flávio Bolsonaro, the son of his convicted predecessor Polls were originally due to close at 17.00BRT, 20.00GMT, but voting was extended…",
+   "published": "2026-10-25T22:11:16+00:00"
+  },
+  {
+   "id": "d33d24266c27",
+   "title": "Deeply divided Israel braces for pivotal election",
+   "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+   "published": "2026-10-25T22:11:13+00:00"
+  },
+  {
+   "id": "81bc7b0e59c4",
+   "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+   "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+   "published": "2026-10-25T22:06:26+00:00"
+  },
+  {
+   "id": "b3a8a79ad8e4",
+   "title": "Why Israel's election is one of the most important in its history",
+   "link": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+   "published": "2026-10-25T22:05:30+00:00"
+  },
+  {
+   "id": "4e5945a0ba0e",
+   "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
+   "link": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "National Rally's Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.",
+   "published": "2026-10-25T21:50:36+00:00"
+  },
+  {
+   "id": "8a527a46b925",
+   "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+   "link": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
+   "published": "2026-10-25T21:41:10+00:00"
+  },
+  {
+   "id": "d72c94e3f4a4",
+   "title": "Marine Le Pen launches French presidential campaign",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Marine Le Pen launches French presidential campaign",
+   "published": "2026-10-25T21:39:13+00:00"
+  },
+  {
+   "id": "5fcd2372390b",
+   "title": "Trump VS California",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Democrats have redrawn district lines in a bid to flip five Republican-held seats in California.",
+   "published": "2026-10-25T21:29:23+00:00"
+  },
+  {
+   "id": "9a9e99d7ebce",
+   "title": "Venezuela’s Machado returns from exile, as doubts over democracy deepen",
+   "link": "https://www.csmonitor.com/World/Americas/2026/1025/venezuela-machado-exile-maduro-rodriguez?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Exiled Nobel laureate María Corina Machado has returned to Venezuela for the first time since December and is testing the U.S.-backed government.",
+   "published": "2026-10-25T21:05:22+00:00"
+  },
+  {
+   "id": "e3d5025bd972",
+   "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
+   "link": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.",
+   "published": "2026-10-25T21:00:02+00:00"
+  },
+  {
+   "id": "3a94b70ec6e9",
+   "title": "Serbian leader Aleksandar Vučić concedes defeat in fiercely contested parliamentary election",
+   "link": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Vučić’s 12-year reign looks to have been ended by record turnout of voters in election provoked by student-led protests Follow the reaction to the result with our liveblog The long-serving leader of Serbia, Aleksandar Vučić, has conceded defeat, ushering in a seismic political…",
+   "published": "2026-10-25T20:58:57+00:00"
+  },
+  {
+   "id": "75c4ca68232f",
+   "title": "Getting older and getting braver at trying new things",
+   "link": "https://www.deseret.com/opinion/2026/10/25/meg-walter-getting-older-and-braver-in-mahjong/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "There’s been something in the air over the last few months. A fundamental shift in the universe, if you will. Messages being carried through the wind. Messages that, if you sit still long enough, you can hear them whisper, “Mahjong.” One day, no one I knew was playing mahjong.…",
+   "published": "2026-10-25T20:52:05+00:00"
+  },
+  {
+   "id": "858466c542a3",
+   "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
+   "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Pennsylvania is the worst hit state, with at least 1,338 cases of measles confirmed in 44 counties so far this year, according to the Pennsylvania Department of Health.",
+   "published": "2026-10-25T20:35:35+00:00"
+  },
+  {
+   "id": "9c09cd737406",
+   "title": "Cabinet split emerges over controversial Rosebank oilfield decision",
+   "link": "https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Chancellor is in favour of North Sea project, but energy secretary has said she is leaning towards rejecting it A cabinet split has emerged over whether to approve drilling at the Rosebank oilfield, with the chancellor, John Healey, in favour of the controversial North Sea…",
+   "published": "2026-10-25T20:29:25+00:00"
+  },
+  {
+   "id": "327b58b5bb40",
+   "title": "Alaska Senate candidate Mary Peltola delays campaign stops after car crash",
+   "link": "https://www.theguardian.com/us-news/2026/oct/25/mary-peltola-family-car-crash-alaska-senate",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Peltola and her family sustained minor injuries after a driver struck the car transporting group to campaign stop Mary Peltola , a Democrat who is running for Alaska ’s lone US Senate seat, and her family suffered minor injuries in a car crash while driving to a campaign stop…",
+   "published": "2026-10-25T20:28:27+00:00"
+  },
+  {
+   "id": "8e2b93abe37f",
+   "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+   "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+   "published": "2026-10-25T20:15:00+00:00"
+  },
+  {
+   "id": "ea5fa123f360",
+   "title": "Can Carrick survive Man United’s slump and Fernandes fallout?",
+   "link": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?",
+   "published": "2026-10-25T20:01:00+00:00"
+  },
+  {
+   "id": "16ac4cf9e62f",
+   "title": "Brazil election results 2026 live: Vote counting begins for Lula, Bolsonaro",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Legal challenges likely as voting hour extension adds tension to Brazil's polarized political landscape.",
+   "published": "2026-10-25T20:00:04+00:00"
+  },
+  {
+   "id": "1a41f3b5e5df",
+   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+   "published": "2026-10-25T20:00:00+00:00"
+  },
+  {
+   "id": "3487935a2552",
+   "title": "Watch: 3 key misses in BYU’s overtime loss to UCF",
+   "link": "https://www.deseret.com/sports/2026/10/25/three-key-plays-that-doomed-byu-vs-ucf/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "For the second consecutive week, BYU staged a nail-biter on national television that took fans and viewers to the final play. This time, however, the joy and field-storming came from the other side, as UCF pulled off a well-earned 39-31 victory in double-overtime . The first…",
+   "published": "2026-10-25T20:00:00+00:00"
+  },
+  {
+   "id": "ccd700de5b8f",
+   "title": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
+   "link": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Making innocent protesters liable for damage would be bad for rule of law and play into far-right hands, say opponents Emmanuel Macron has been accused by trade unions of trying to curb the fundamental French right to protest as the government fast-tracks a bill to make…",
+   "published": "2026-10-25T19:57:40+00:00"
+  },
+  {
+   "id": "ba0b4d973515",
+   "title": "Cabinet ministers back Burnham’s call for debate on return to free movement with EU",
+   "link": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "PM’s plea supported by Angela Rayner, Ed Miliband and business leaders, while some ‘red wall’ MPs voice concern Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers but risked a rift with “red wall” Labour…",
+   "published": "2026-10-25T19:57:13+00:00"
+  },
+  {
+   "id": "e528548a0fbd",
+   "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
+   "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader, María Corina Machado, has announced she has returned to Venezuela almost a year after she left the country to receive the…",
+   "published": "2026-10-25T19:56:56+00:00"
+  },
+  {
+   "id": "62135fdc51f2",
+   "title": "Navajo Nation communities ordered to evacuate due to potential flooding",
+   "link": "https://www.deseret.com/the-west/2026/10/25/navajo-nation-communities-ordered-to-evacuate-due-to-potential-flooding/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Bluff, Montezuma Creek and Aneth were ordered to evacuate Saturday night as the San Juan River water levels continued to rise.",
+   "published": "2026-10-25T19:46:04+00:00"
+  },
+  {
+   "id": "300463f82bee",
+   "title": "The narrative battle over France’s unrest",
+   "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Student protests, police violence and French media obsessed with 'barbarians'.",
+   "published": "2026-10-25T19:36:14+00:00"
+  },
+  {
+   "id": "d3ea6ae7933b",
+   "title": "Iraqis mark seven years since Tishreen protests with reform demands",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Thousands gather in Tahrir Square to mark seven years since Iraq’s 2019 ‘Tishreen’ protests.",
+   "published": "2026-10-25T19:36:05+00:00"
+  },
+  {
+   "id": "ccd810b86e33",
+   "title": "Has Healey’s military-style budget secrecy really played out so differently to past budgets?",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/25/john-healey-chancellor-budget-secrecy",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Chancellor was said to be worried about market-sensitive leaks, yet significant policies have been heavily trailed in the media The public has been told repeatedly that John Healey is so concerned about budget leaks that he has set up defence-style “compartmentalisation” to…",
+   "published": "2026-10-25T19:35:17+00:00"
+  },
+  {
    "id": "b58ee10f317f",
    "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
    "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
@@ -154,32 +526,20 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Police say the incident, which occurred in Barking, is ‘not believed to be suspicious’ A four-year-old girl has died after falling from a tower block in east London. She was injured after “falling from height” at an address in St Paul’s Road, Barking, on Saturday and later died…",
+   "summary": "Police say the incident at an address in Barking is not believed to be suspicious A four-year-old girl has died after falling from a tower block in east London. She was injured after “falling from height” at an address in St Paul’s Road, Barking, on Saturday and died in…",
    "published": "2026-10-25T19:25:47+00:00"
   },
   {
    "id": "3bf4623a77e7",
-   "title": "Serbia voter turnout highest in decades as students oppose longtime leader",
+   "title": "Serbia’s Vucic concedes election defeat to student-led movement",
    "link": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.",
+   "summary": "Vucic says the opposition Student List is projected to win a parliamentary majority after nearly two years of protests.",
    "published": "2026-10-25T19:19:54+00:00"
-  },
-  {
-   "id": "1ecafaded844",
-   "title": "Polls close in Serbia as strongman Vučić faces challenge to 12-year rule – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The Student List movement is taking on authoritarian leader following nearly two years of protests against government and institutional corruption What is at stake in Serbia’s election? The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% by 5pm local time…",
-   "published": "2026-10-25T19:18:49+00:00"
   },
   {
    "id": "d3e62867a420",
@@ -226,7 +586,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Lana Nusseibeh has Palestine’s endorsement but faces criticism over the UAE’s human rights record and alleged funding of the RSF in Sudan An Emirati diplomat who as UAE ambassador to the UN helped secure the delivery of humanitarian aid to Gaza has entered the race as a late…",
+   "summary": "Lana Nusseibeh has Palestine’s endorsement but faces criticism over UAE’s record on human rights and Sudan An Emirati diplomat who as UAE ambassador to the UN helped secure the delivery of humanitarian aid to Gaza has entered the race as a late contender to succeed António…",
    "published": "2026-10-25T19:00:10+00:00"
   },
   {
@@ -252,18 +612,6 @@
    "category_hint": null,
    "summary": "Courts should still strike down the Section 338 tariffs and import bans that remain in place.",
    "published": "2026-10-25T18:47:22+00:00"
-  },
-  {
-   "id": "4a8e69aa6aed",
-   "title": "One dead and 82,000 properties without power as Storm Boelo batters UK",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Man, 60, killed by falling tree near Castle Douglas in Scotland as Met Office reports gusts of up to 84mph A 60-year-old man has been killed by a falling tree and more than 82,000 properties have been left without power as Storm Boelo continues to batter Scotland, Northern…",
-   "published": "2026-10-25T18:38:44+00:00"
   },
   {
    "id": "5bbfa8cb397d",
@@ -410,18 +758,6 @@
    "published": "2026-10-25T17:26:22+00:00"
   },
   {
-   "id": "e528548a0fbd",
-   "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
-   "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader María Corina Machado has announced she has returned to Venezuela almost a year after she left the country to receive the Nobel…",
-   "published": "2026-10-25T17:18:28+00:00"
-  },
-  {
    "id": "98798f828d90",
    "title": "Jerusalem Daily: Israel expels thousands from Hebron",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
@@ -470,18 +806,6 @@
    "published": "2026-10-25T17:00:00+00:00"
   },
   {
-   "id": "1a41f3b5e5df",
-   "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-   "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-   "published": "2026-10-25T16:45:00+00:00"
-  },
-  {
    "id": "9a85304c8be6",
    "title": "Trump’s tariff pause angers some US ranchers, boosts Brazilian beef imports",
    "link": "https://www.aljazeera.com/economy/2026/10/25/trumps-tariff-pause-angers-some-us-ranchers-boosts-brazil-beef-imports?traffic_source=rss",
@@ -507,14 +831,14 @@
   },
   {
    "id": "93b2745d2a1f",
-   "title": "Barcelona vs Real Madrid LIVE: La Liga El Clasico",
+   "title": "Barcelona 1-2 Real Madrid: La Liga El Clasico – as it happened",
    "link": "https://www.aljazeera.com/sports/liveblog/2026/10/25/barcelona-vs-real-madrid-live-la-liga-el-clasico?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Follow updates from El Clasico at Camp Nou, including the build-up, analysis and live text commentary of the game.",
+   "summary": "All the updates as Real Madrid ⁠become ⁠the first side to beat Barcelona in La Liga this season.",
    "published": "2026-10-25T16:30:00+00:00"
   },
   {
@@ -838,7 +1162,19 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Exclusive: RACGP survey reflects Medicare investments, but experts caution quality of care and outcomes also matter Get our new political email , free app or daily news podcast The proportion of general practitioners bulk-billing all of their patients has more than doubled in a…",
+   "summary": "Exclusive: RACGP says results probably reflect Medicare investments but experts caution quality of care and outcomes also matter Follow our Australian politics live blog for latest updates Get our daily political email , free app or daily news podcast The proportion of general…",
+   "published": "2026-10-25T14:00:06+00:00"
+  },
+  {
+   "id": "bb7c1e3b8be8",
+   "title": "‘Extremely disappointed’: WA government seeks reimbursement from Deloitte over flawed university report",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "State paid consultancy firm $166,000 for feasibility study on merging the three tertiary institutions Get our breaking news email , free app or daily news podcast The Western Australian government has said it is “extremely disappointed” and is seeking an “expedited” cost…",
    "published": "2026-10-25T14:00:06+00:00"
   },
   {
@@ -852,18 +1188,6 @@
    "category_hint": null,
    "summary": "Number of videos about British trains doubles in three months as creators find audiences interested in workings of railways They are not just gathered at the end of your local train station platform any more. Now they are on your social media platforms too. Trainspotters have…",
    "published": "2026-10-25T14:00:05+00:00"
-  },
-  {
-   "id": "8e2b93abe37f",
-   "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-   "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-   "published": "2026-10-25T14:00:00+00:00"
   },
   {
    "id": "42a22078bec3",
@@ -948,18 +1272,6 @@
    "category_hint": null,
    "summary": "Serbians turn out in huge numbers for a parliamentary election that could end Aleksandar Vucic’s longstanding reign.",
    "published": "2026-10-25T13:40:10+00:00"
-  },
-  {
-   "id": "ba0b4d973515",
-   "title": "Rayner backs Burnham call for debate on return to free movement with EU",
-   "link": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Cabinet minister says PM’s plea is ‘pragmatism’ but comments risk causing concern among some ‘red wall’ MPs Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers including Angela Rayner but risks causing…",
-   "published": "2026-10-25T13:31:05+00:00"
   },
   {
    "id": "6ffcdfaa21f3",
@@ -114869,39 +115181,6 @@
    "category_hint": "good_in_world",
    "summary": "A name for us is more than a celebration; it is a promise.",
    "published": "2026-09-11T01:07:45+00:00"
-  },
-  {
-   "id": "6c45164058ca",
-   "title": "Indiana Republicans starting ads for Engling a month after Democrat Bayh hit the airwaves",
-   "link": "https://indianacapitalchronicle.com/2026/09/10/indiana-republicans-starting-ads-for-engling-a-month-after-democrat-bayh-hit-the-airwaves/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Indiana Republicans say they’re starting a statewide advertising campaign to boost secretary of state candidate Max Engling — a month after Democratic nominee Beau Bayh’s ads first hit the airwaves.",
-   "published": "2026-09-10T21:00:15+00:00"
-  },
-  {
-   "id": "d4c8495d032c",
-   "title": "Federal judge dismisses complaint against Indiana citizenship verification voting law",
-   "link": "https://indianacapitalchronicle.com/2026/09/10/federal-judge-dismisses-complaint-against-indiana-citizenship-verification-voting-law/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Voting rights groups challenging Indiana's citizenship verification statutes as discriminatory have less than a month to refile their complaint after a federal judge on Thursday dismissed it.",
-   "published": "2026-09-10T20:53:27+00:00"
-  },
-  {
-   "id": "73487937d142",
-   "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
-   "source": "Federal Reserve",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
-   "published": "2026-09-10T20:00:00+00:00"
   }
  ]
 }
