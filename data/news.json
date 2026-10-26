@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T01:12:30.083883+00:00",
+ "generated": "2026-10-26T06:16:22.259457+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 32
+   "count": 35
   },
   {
    "name": "The Guardian World",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 33
+   "count": 31
   },
   {
    "name": "Congressional Budget Office",
@@ -134,8 +134,428 @@
  ],
  "items": [
   {
+   "id": "3084ac86d423",
+   "title": "The French government is hiding behind a ‘riots’ narrative",
+   "link": "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "It is much easier to fearmonger and try to delegitimise the protests than to address students' demands.",
+   "published": "2026-10-26T05:56:04+00:00"
+  },
+  {
+   "id": "e2bf780ef214",
+   "title": "Australia politics live: Zali Steggall accuses Angus Taylor of not ‘reading the room’ in Haines tribute speech",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absolutely need to make…",
+   "published": "2026-10-26T05:54:44+00:00"
+  },
+  {
+   "id": "7a695e6a87c7",
+   "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+   "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local electoral court…",
+   "published": "2026-10-26T05:53:54+00:00"
+  },
+  {
+   "id": "41f94125c4c6",
+   "title": "China’s political elite gather for talks on Communist Party discipline",
+   "link": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The four-day meeting is being watched closely for clues as to the country's direction and future leadership.",
+   "published": "2026-10-26T05:38:41+00:00"
+  },
+  {
+   "id": "c842d852c315",
+   "title": "Former RAAF pilot who allegedly murdered wife was ‘love rat’ and ‘master manipulator’, jury hears",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/26/raaf-pilot-robert-john-crawford-murder-trial-wife-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Robert John Crawford on trial after wife found near ride-on lawnmower on their Toowoomba property Get our breaking news email , free app or daily news podcast A former RAAF pilot was a “love rat” and “master manipulator” who staged his wife’s death to make it appear like an…",
+   "published": "2026-10-26T05:28:02+00:00"
+  },
+  {
+   "id": "e528548a0fbd",
+   "title": "Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela",
+   "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader, María Corina Machado, has announced she has returned to Venezuela almost a year after she left the country to receive the…",
+   "published": "2026-10-26T05:27:12+00:00"
+  },
+  {
+   "id": "31d7afd6c41d",
+   "title": "Aleksandar Vucic, the Serbian leader brought down by students",
+   "link": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Serbia's longtime leader concedes defeat to a student-led protest movement in parliamentary elections.",
+   "published": "2026-10-26T05:24:59+00:00"
+  },
+  {
+   "id": "b4c30b6342df",
+   "title": "Venezuelan opposition leader María Machado returns after months in exile",
+   "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+   "published": "2026-10-26T05:20:19+00:00"
+  },
+  {
+   "id": "a4cc77532cf9",
+   "title": "The Gambia’s first blind magistrate tests a system built for the sighted",
+   "link": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "For a decade, Muhammed Krubally has shown what is possible and what still needs to change.",
+   "published": "2026-10-26T05:18:00+00:00"
+  },
+  {
+   "id": "be4621eee0f1",
+   "title": "Israel’s election: Five key things to know",
+   "link": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Vote comes as Israel is embroiled in multiple wars, faces international criticism and grapples with domestic divisions.",
+   "published": "2026-10-26T05:16:38+00:00"
+  },
+  {
+   "id": "33bf9255e949",
+   "title": "Why AI Can’t Save Your Water Supply",
+   "link": "https://thedispatch.com/article/ai-cyber-security-attacks-infrastructure/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "American critical infrastructure faces increasingly sophisticated hacking campaigns. What is AI’s role in fending them off?",
+   "published": "2026-10-26T05:02:00+00:00"
+  },
+  {
+   "id": "5493c3b481b4",
+   "title": "Social video captures moment Brazil’s election turned",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Video shot by supporters of the candidates in Brazil’s presidential runoff show the moment the result began changing",
+   "published": "2026-10-26T05:01:59+00:00"
+  },
+  {
+   "id": "90d947258172",
+   "title": "Labour urged to plug predicted £400m shortfall in overseas aid funding in 2027",
+   "link": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Official forecast indicates shortfall below 0.3% of national income in promised official development assistance The UK is on course to miss its target of spending 0.3% of national income on international aid by an estimated £400m by the end of next year. Calculations from the…",
+   "published": "2026-10-26T05:00:22+00:00"
+  },
+  {
+   "id": "4abe45421c0d",
+   "title": "Bayeux tapestry becomes pop culture hit as young people more keen to see exhibition than top films",
+   "link": "https://www.theguardian.com/world/2026/oct/26/young-britons-bayeux-tapestry-tickets-british-museum-hollywood-blockbusters",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Monzo says 55% of cardholders’ British Museum payments in first hour of latest ticket release were by people under 35 A 1,000-year-old embroidery may be an unusual candidate for a pop culture moment, but young people are seemingly more willing to shell out for tickets for the…",
+   "published": "2026-10-26T05:00:21+00:00"
+  },
+  {
+   "id": "b42f874af28b",
+   "title": "What We Can Learn from the Man Who Saved Italy",
+   "link": "https://thedispatch.com/article/de-gasperi-italy-fascism-communism/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "How Alcide De Gasperi bested fascism and communism.",
+   "published": "2026-10-26T05:00:00+00:00"
+  },
+  {
+   "id": "ac5f8c161091",
+   "title": "Bolsonaro calls for Brazil election result to be annulled",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Brazil’s right-wing Senator Flavio Bolsonaro has called for the presidential election result to be ‘annulled’.",
+   "published": "2026-10-26T04:36:46+00:00"
+  },
+  {
+   "id": "39f9416d8005",
+   "title": "US appeals court sceptical of Trump’s lawsuit over California voter rolls",
+   "link": "https://www.aljazeera.com/news/2026/10/26/us-appeals-court-sceptical-of-trumps-lawsuit-over-california-voter-rolls?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Judge questions Trump-led effort to exert greater influence over the electoral process ahead of upcoming midterm vote.",
+   "published": "2026-10-26T04:32:48+00:00"
+  },
+  {
+   "id": "44a4cfec0244",
+   "title": "Birthkeeper who allegedly ‘groomed’ pregnant women to fear hospital could face criminal charges",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Victorian coroner hears Emily Lal told Stacey Warnecke that her ‘condition and mindset’ needed to be ‘solid’ to avoid a hospital birth Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast A birthkeeper who…",
+   "published": "2026-10-26T04:29:01+00:00"
+  },
+  {
+   "id": "ce50004f9b31",
+   "title": "Attackers kill nurse, injure health worker responding to DRC Ebola case",
+   "link": "https://www.aljazeera.com/news/2026/10/26/attackers-kill-nurse-injure-health-worker-responding-to-drc-ebola-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The attack in eastern Dr Congo is the latest on health workers and responders to the deadly Ebola outbreak.",
+   "published": "2026-10-26T04:21:26+00:00"
+  },
+  {
+   "id": "6144e963ccb2",
+   "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+   "link": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
+   "published": "2026-10-26T04:05:44+00:00"
+  },
+  {
+   "id": "b06ee7809909",
+   "title": "Australian murderer loses bid to eat Vegemite in prison",
+   "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
+   "published": "2026-10-26T04:05:28+00:00"
+  },
+  {
+   "id": "f778deb2c444",
+   "title": "Trump dials up Islamophobia against Abdul El-Sayed at Michigan Senate rally",
+   "link": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Al Jazeera looks at the key takeaways from the US president's campaign event in Michigan ahead of the midterm vote.",
+   "published": "2026-10-26T04:03:28+00:00"
+  },
+  {
+   "id": "ce847c2a4ef1",
+   "title": "World reacts to Lula’s victory in Brazil’s presidential election",
+   "link": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "International leaders and politicians congratulate the Brazilian president on his re-election.",
+   "published": "2026-10-26T03:50:12+00:00"
+  },
+  {
+   "id": "0a87599b1069",
+   "title": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
+   "link": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The winner of the 2026 Ballon d'Or will be crowned at Monday's gala in London, the first time it has been held in Britain.",
+   "published": "2026-10-26T03:34:59+00:00"
+  },
+  {
+   "id": "27dcab46bf3a",
+   "title": "Covert recording of prison meeting between Beau Lamarre-Condon and friend played to double murder trial",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/26/beau-lamarre-condon-trial-covert-prison-recording-with-friend-played-to-court-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Former police officer accused of shooting dead Jesse Baird and Luke Davies apologised to friend, acknowledging ‘you’re involved because of me’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast A covert…",
+   "published": "2026-10-26T03:26:57+00:00"
+  },
+  {
+   "id": "c79c7ed1d219",
+   "title": "Lula thanks Brazil’s youth for historic election win",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Brazil’s President Luiz Inacio Lula da Silva has won an unprecedented fourth term.",
+   "published": "2026-10-26T03:14:26+00:00"
+  },
+  {
+   "id": "653cf6424691",
+   "title": "Brazil election results 2026: Key takeaways from Lula’s historic win",
+   "link": "https://www.aljazeera.com/news/2026/10/26/brazil-election-2026-key-takeaways-from-lulas-historic-win?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Lula wins a fourth term after a dramatic run-off marred by voting confusion and allegations of interference.",
+   "published": "2026-10-26T02:59:50+00:00"
+  },
+  {
+   "id": "a567d6b0dc4a",
+   "title": "Seoul ‘fabricated’ landmine blast, North Korea tells UN in letter",
+   "link": "https://www.aljazeera.com/news/2026/10/26/seoul-fabricated-landmine-blast-north-korea-tells-un-in-letter?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "South Korea blames Pyongyang for September landmine blast, but North Korea says incident a 'sinister obstructive move'.",
+   "published": "2026-10-26T02:55:15+00:00"
+  },
+  {
+   "id": "63cfd68ed1a2",
+   "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
+   "link": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
+   "published": "2026-10-26T02:53:00+00:00"
+  },
+  {
+   "id": "7a8d4de6bcd2",
+   "title": "‘Someone has been following me’: safety fears after bullet inscribed with ‘RAT’ left on Victorian minister’s car",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Paul Edbrooke says he fears for family’s safety amid heightened concerns for MPs after alleged attack on Helen Haines Get our breaking news email , free app or daily news podcast Victoria’s emergency services minister believes he is being followed and fears for his family’s…",
+   "published": "2026-10-26T02:38:37+00:00"
+  },
+  {
+   "id": "16a43bd4ae19",
+   "title": "Two storms slam northern Europe, cut power to 150,000 homes",
+   "link": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Storms Boelo and Austen kill a man in Scotland and cut electricity to homes in the UK, France and Germany.",
+   "published": "2026-10-26T02:04:31+00:00"
+  },
+  {
+   "id": "db9211a7c25c",
+   "title": "81 years later, a son pays tribute to his father’s WWII mercy ride",
+   "link": "https://www.deseret.com/utah/2026/10/25/son-pays-tribute-to-his-fathers-world-war-2-mercy-ride/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "In the spring of 1945, when the world was at war and the Nazis occupied the Netherlands, 14-year-old Hank Hoole rode a bicycle with metal rims 175 kilometers through the Dutch countryside after delivering food to his father so he wouldn’t starve. Last month, 56-year-old Greg…",
+   "published": "2026-10-26T02:00:00+00:00"
+  },
+  {
+   "id": "e3325c695bc9",
+   "title": "Luka Dončić torches the Jazz, and two other takeaways from Utah’s loss to Lakers",
+   "link": "https://www.deseret.com/sports/2026/10/25/utah-jazz-lose-to-los-angeles-lakers-luka-doncic/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Utah Jazz played its second of a five-game home stand on Sunday and lost 132-123 to the Los Angeles Lakers. Here are three takeaways from the game. Luka Dončić and Austin Reaves burn Utah The first quarter of Sunday’s game with the Lakers was perhaps the best quarter the…",
+   "published": "2026-10-26T01:52:53+00:00"
+  },
+  {
+   "id": "df98bea0a55a",
+   "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+   "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
+   "published": "2026-10-26T01:50:00+00:00"
+  },
+  {
+   "id": "118fef0bf58c",
+   "title": "India's cartoonists built an audience online - now their posts are being restricted",
+   "link": "https://www.bbc.co.uk/news/articles/cm3elp3v7jkdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Indian cartoonists say online restrictions are making satire harder, but they aren't giving up.",
+   "published": "2026-10-26T01:09:41+00:00"
+  },
+  {
    "id": "81bc7b0e59c4",
-   "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+   "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
    "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
@@ -144,6 +564,18 @@
    "category_hint": null,
    "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
    "published": "2026-10-26T01:07:05+00:00"
+  },
+  {
+   "id": "f0f6c2a1f5e4",
+   "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
+   "published": "2026-10-26T01:02:57+00:00"
   },
   {
    "id": "ed0da1b7fd14",
@@ -168,30 +600,6 @@
    "category_hint": null,
    "summary": "Celebrations erupted across Belgrade as Serbia's student-backed movement claimed a major election victory",
    "published": "2026-10-26T00:58:21+00:00"
-  },
-  {
-   "id": "7a695e6a87c7",
-   "title": "Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces",
-   "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Leftist president Luiz Inácio Lula da Silva defeated far-right senator Flávio Bolsonaro and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local…",
-   "published": "2026-10-26T00:58:00+00:00"
-  },
-  {
-   "id": "e2bf780ef214",
-   "title": "Australia politics live: Steggall calls Helen Haines ‘matriarch of crossbench’ as parliament hears emotional tributes to MP",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absolutely need to make…",
-   "published": "2026-10-26T00:55:29+00:00"
   },
   {
    "id": "c9bc0f54887c",
@@ -238,7 +646,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, has staged a dramatic election fightback , defeating…",
+   "summary": "Leftist incumbent Lula says unprecedented comeback was a ‘defeat for denialism’ as Bolsonaro refuses to accept election result Lula wins election in stunning comeback – live updates Luiz Inácio Lula da Silva , the Brazilian president, has staged a dramatic election fightback ,…",
    "published": "2026-10-26T00:19:05+00:00"
   },
   {
@@ -266,18 +674,6 @@
    "published": "2026-10-26T00:15:36+00:00"
   },
   {
-   "id": "7a8d4de6bcd2",
-   "title": "Bullet left on Victorian Labor minister’s car with ‘RAT’ etched on to it",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Paul Edbrooke says he fears for family’s safety amid heightened concerns for MPs after alleged attack on Helen Haines Get our breaking news email , free app or daily news podcast Victoria’s emergency services minister says he fears for his family’s safety after a bullet, etched…",
-   "published": "2026-10-26T00:11:11+00:00"
-  },
-  {
    "id": "64088e786994",
    "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
@@ -291,15 +687,27 @@
   },
   {
    "id": "d420437ab0c6",
-   "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
+   "title": "Iran war live: Saudi, Pakistani and Turkish defence officials due in Tehran",
    "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Trump's statement comes as Iran says renewed US-Israeli attacks 'will achieve no different outcome'.",
+   "summary": "Iran's security chief to meet defence officials from the Mecca Defence Alliance in Tehran as fighting rages in Yemen.",
    "published": "2026-10-26T00:00:00+00:00"
+  },
+  {
+   "id": "226eb026b7b0",
+   "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+   "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+   "published": "2026-10-25T23:44:34+00:00"
   },
   {
    "id": "3a94b70ec6e9",
@@ -338,16 +746,16 @@
    "published": "2026-10-25T23:38:57+00:00"
   },
   {
-   "id": "b4c30b6342df",
-   "title": "Venezuelan opposition leader María Machado returns after months in exile",
-   "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+   "id": "be0f10ab2a6e",
+   "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+   "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-   "published": "2026-10-25T23:33:14+00:00"
+   "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms.",
+   "published": "2026-10-25T23:33:19+00:00"
   },
   {
    "id": "16675e491c28",
@@ -423,14 +831,14 @@
   },
   {
    "id": "4a8e69aa6aed",
-   "title": "Two dead and 160,000 properties without power as Storm Boelo batters UK",
+   "title": "Two dead and tens of thousands of properties without power as Storm Boelo batters UK",
    "link": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Man aged 60 and another in his 20s killed by falling trees in Scotland and London as Met Office reports gusts of up to 84mph Two people have been killed and more than 160,000 properties have been left without power as Storm Boelo continues to batter the UK. Two men, one aged 60…",
+   "summary": "Man aged 60 and another in his 20s killed by falling trees in Scotland and London as Met Office reports gusts of up to 84mph Two people were killed and more than 800,000 properties left without power after Storm Boelo and Storm Austen battered the UK over the weekend. Two men,…",
    "published": "2026-10-25T22:19:18+00:00"
   },
   {
@@ -660,18 +1068,6 @@
    "category_hint": null,
    "summary": "PM’s plea supported by Angela Rayner, Ed Miliband and business leaders, while some ‘red wall’ MPs voice concern Andy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers but risked a rift with “red wall” Labour…",
    "published": "2026-10-25T19:57:13+00:00"
-  },
-  {
-   "id": "e528548a0fbd",
-   "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
-   "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez The Venezuelan opposition leader, María Corina Machado, has announced she has returned to Venezuela almost a year after she left the country to receive the…",
-   "published": "2026-10-25T19:56:56+00:00"
   },
   {
    "id": "62135fdc51f2",
@@ -1308,6 +1704,18 @@
    "category_hint": null,
    "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
    "published": "2026-10-25T14:39:47+00:00"
+  },
+  {
+   "id": "c85cd878b1f9",
+   "title": "Russia to host first Olympic federation world event since Ukraine invasion",
+   "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
+   "published": "2026-10-25T14:34:33+00:00"
   },
   {
    "id": "beea5e363697",
@@ -115340,39 +115748,6 @@
    "flourishing_feed": false,
    "summary": "Twenty-five years after 9/11, the surveillance infrastructure built and expanded in its aftermath has become part of a far larger digital ecosystem — producing tools that can collect and analyze information on a scale unimaginable in 2001. The terrorist attacks of Sept. 11,…",
    "published": "2026-09-11T08:00:16+00:00"
-  },
-  {
-   "id": "29d42612348b",
-   "title": "What went right this week: solutions to save the world, plus more",
-   "link": "https://www.positive.news/society/good-news-stories-from-week-37-of-2026/",
-   "source": "Positive News",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": true,
-   "summary": "Solutions to save the planet, protecting childhood from algorithms, and the new world map, plus more The post What went right this week: solutions to save the world, plus more appeared first on Positive News .",
-   "published": "2026-09-11T05:50:39+00:00"
-  },
-  {
-   "id": "c5e6e105a9f2",
-   "title": "Allocation and Apportionment of Deductions to Foreign Source Section 951A Category Income and Deduction Eligible Income",
-   "link": "https://www.federalregister.gov/documents/2026/09/11/2026-18645/allocation-and-apportionment-of-deductions-to-foreign-source-section-951a-category-income-and",
-   "source": "Federal Register: IRS",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "This document contains proposed regulations related to the allocation and apportionment of deductions to foreign source section 951A category income for foreign tax credit limitation purposes and for purposes of calculating deduction eligible income. The proposed regulations…",
-   "published": "2026-09-11T04:00:00+00:00"
-  },
-  {
-   "id": "40aeb5a597e2",
-   "title": "Information Reporting Regarding Qualified Opportunity Zones and Updated Qualified Opportunity Fund Certification and Decertification Procedures",
-   "link": "https://www.federalregister.gov/documents/2026/09/11/2026-18574/information-reporting-regarding-qualified-opportunity-zones-and-updated-qualified-opportunity-fund",
-   "source": "Federal Register: IRS",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "This document contains proposed regulations that would implement new statutory requirements for qualified opportunity funds to file information returns with the IRS and furnish statements to investors who dispose of investments in those entities and for qualified opportunity…",
-   "published": "2026-09-11T04:00:00+00:00"
   }
  ]
 }
