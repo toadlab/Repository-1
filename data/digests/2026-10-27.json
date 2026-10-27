@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-27",
+ "type": "reflection",
+ "circle": null,
+ "generated": "2026-10-27T06:36:51.999799-04:00",
+ "emergencies": [],
+ "inspiring": [
+  {
+   "id": "c867b4706022",
+   "title": "After The End of Aid",
+   "link": "https://substack.fixthenews.com/p/after-the-end-of-aid",
+   "source": "Fix the News",
+   "published": "2026-10-27T10:04:49+00:00",
+   "summary": "",
+   "circle": "international",
+   "category": "good_in_world",
+   "story_key": "end-aid",
+   "composite": 5.75,
+   "bar": 9.0,
+   "decision": "exclude",
+   "reason": "Keyword estimate (no Claude API key configured).",
+   "flourishing": 7,
+   "domain": 0,
+   "durability": 4,
+   "review_status": "unreviewed",
+   "review_reason": "",
+   "author": null,
+   "label": "headline only, not reviewed",
+   "why_it_matters": "",
+   "talk_to": ""
+  }
+ ],
+ "scored_by": [
+  "heuristic"
+ ],
+ "category_counts": {
+  "finance": 0,
+  "good_in_world": 1,
+  "other": 0
+ }
+}
