@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-29",
+ "type": "reflection",
+ "circle": null,
+ "generated": "2026-10-29T10:22:44.976938-04:00",
+ "emergencies": [],
+ "inspiring": [
+  {
+   "id": "fe147c4007d5",
+   "title": "The Student Exchange Program That Never Leaves the U.S.",
+   "link": "https://reasonstobecheerful.world/america-student-exchange-program-empathy/",
+   "source": "Reasons to be Cheerful",
+   "published": "2026-10-29T08:00:15+00:00",
+   "summary": "",
+   "circle": "international",
+   "category": "good_in_world",
+   "story_key": "student-exchange-program-never-leaves",
+   "composite": 5.75,
+   "bar": 9.0,
+   "decision": "exclude",
+   "reason": "Keyword estimate (no Claude API key configured).",
+   "flourishing": 7,
+   "domain": 0,
+   "durability": 4,
+   "review_status": "unreviewed",
+   "review_reason": "",
+   "author": null,
+   "label": "headline only, not reviewed",
+   "why_it_matters": "",
+   "talk_to": ""
+  }
+ ],
+ "scored_by": [
+  "heuristic"
+ ],
+ "category_counts": {
+  "finance": 0,
+  "good_in_world": 1,
+  "other": 0
+ }
+}
