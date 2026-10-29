@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T21:06:55.551894+00:00",
+ "generated": "2026-10-29T00:59:03.466337+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 24
+   "count": 27
   },
   {
    "name": "The Guardian World",
@@ -134,16 +134,748 @@
  ],
  "items": [
   {
+   "id": "77f745bdfb4d",
+   "title": "Judge denies the Justice Department's bid to stop processing California ballots",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "While the judge rejected the Department of Justice's unprecedented demand in California, the case isn't over yet and will likely be appealed.",
+   "published": "2026-10-29T00:52:50+00:00"
+  },
+  {
+   "id": "ff3cd56cea42",
+   "title": "Judge rebuffs Trump DoJ’s bid to order California to set aside 20,000 ballots",
+   "link": "https://www.theguardian.com/us-news/2026/oct/28/federal-judge-trump-california-ballots",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Justice department had demanded state segregate ballots from people it claimed were non-citizens A federal judge declined to order California election officials to segregate ballots from people the Trump administration claimed were non-citizens, rebuffing a legally thin request…",
+   "published": "2026-10-29T00:48:25+00:00"
+  },
+  {
+   "id": "9dd863424d4e",
+   "title": "Obama campaigns in Georgia as Trump stumps in Ohio in dueling midterms rallies – live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Trump and Obama campaign in key states in the final days before US midterm elections as both parties aim to control Congress Sign up for the Breaking News US email For months, Mary Peltola’s campaign for Alaska’s Senate seat has denied any connection to a separate campaign…",
+   "published": "2026-10-29T00:46:59+00:00"
+  },
+  {
+   "id": "12cf04f2bdb7",
+   "title": "Australian politics live: Labor says ATO could have handled credit card ban better; man cautioned for allegedly stalking MPs",
+   "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Gas reservation policy set for lower house vote today Australia’s domestic gas reservation is set to be debated and voted on in the lower house today. Rather than international base…",
+   "published": "2026-10-29T00:46:25+00:00"
+  },
+  {
+   "id": "bbb36ee048b3",
+   "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police",
+   "published": "2026-10-29T00:36:33+00:00"
+  },
+  {
+   "id": "d34cd8dfe155",
+   "title": "Israelis rally for Jewish-Arab government after election gains",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israelis rallied for a Jewish-Arab gov’t after parties representing Israel’s Arab citizens made gains in the election.",
+   "published": "2026-10-29T00:34:24+00:00"
+  },
+  {
+   "id": "630c78e685a7",
+   "title": "Australian SAS officers knew about unlawful ‘throwdowns’ on dead Afghans, report says",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/29/australian-sas-officers-knew-about-unlawful-throwdowns-on-dead-afghans-report-says-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Nothing done to stop planting weapons on dead Afghans, ADF inspector says, as ‘breakdown of command’ allowed ‘egregious behaviour’ Get our daily political email , free app or daily news podcast Some Australian SAS officers knew that soldiers under their command were using…",
+   "published": "2026-10-29T00:30:25+00:00"
+  },
+  {
+   "id": "64494e6a888c",
+   "title": "Netanyahu bloc loses majority as most ballots counted – as it happened",
+   "link": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "This live blog is now closed – you can read the latest elections news here One apparent loser from Tuesday’s election was far-right national security minister Itamar Ben-Gvir, who was expected to better his party’s result of six seats from the 2022 elections. But instead there…",
+   "published": "2026-10-29T00:24:12+00:00"
+  },
+  {
+   "id": "90fc6b01b04c",
+   "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+   "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "An agreement between the companies could come next week, Bloomberg reported",
+   "published": "2026-10-29T00:20:00+00:00"
+  },
+  {
+   "id": "5525c8574c19",
+   "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
+   "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
+   "published": "2026-10-29T00:17:00+00:00"
+  },
+  {
+   "id": "53d10c0e937a",
+   "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+   "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
+   "published": "2026-10-29T00:15:00+00:00"
+  },
+  {
+   "id": "080c3c0e6eb7",
+   "title": "The major reason Microsoft’s stock is heading higher after earnings",
+   "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
+   "published": "2026-10-29T00:10:00+00:00"
+  },
+  {
+   "id": "6da56d80132c",
+   "title": "High school cross country: Panguitch girls add 7th straight title, Bryce Valley wins boys 1A championship",
+   "link": "https://www.deseret.com/sports/2026/10/28/high-school-cross-country-1a-state-championship/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Panguitch knew this year was going to be as tough as any to win another girls cross country championship in 1A. “This year in our region, five different teams won a region race, and I’ve never seen anything like that before,” said Panguitch coach Danny Yardley. “Our region was…",
+   "published": "2026-10-29T00:01:51+00:00"
+  },
+  {
+   "id": "93c97ed93490",
+   "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+   "link": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Netanyahu's right-wing bloc leads but is falling short of the votes needed to form a government.",
+   "published": "2026-10-29T00:01:07+00:00"
+  },
+  {
+   "id": "bc583f2d7893",
+   "title": "Halloween and daylight saving are coming back to back this year. Here’s what you need to know",
+   "link": "https://www.deseret.com/opinion/2026/10/28/daylight-saving-and-halloween-this-year/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "There’s some good news for anyone who wants to celebrate Halloween to the fullest this year: You will get an extra hour of sleep that night thanks to the end of daylight saving time. It is uncommon for daylight saving time and Halloween to meet, and after this year, it won’t…",
+   "published": "2026-10-29T00:00:00+00:00"
+  },
+  {
+   "id": "ce0b2b4291c7",
+   "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
+   "published": "2026-10-29T00:00:00+00:00"
+  },
+  {
+   "id": "104d3fd68f86",
+   "title": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+   "link": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.",
+   "published": "2026-10-28T23:43:06+00:00"
+  },
+  {
+   "id": "735f4c1ea95b",
+   "title": "Big 12 instituting potential in-game penalties for discriminatory conduct at sporting events",
+   "link": "https://www.deseret.com/sports/2026/10/28/big-12-discriminatory-conduct-policy-updated/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "After the incident last Saturday in which some UCF fans in Orlando directed a derogatory chant at BYU and its sponsoring institution, The Church of Jesus Christ of Latter-day Saints, the Big 12 Conference released a statement Wednesday that outlines some significant updates to…",
+   "published": "2026-10-28T23:34:15+00:00"
+  },
+  {
    "id": "a813b60a7f3c",
-   "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+   "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
    "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports.",
-   "published": "2026-10-28T21:03:49+00:00"
+   "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+   "published": "2026-10-28T23:21:48+00:00"
+  },
+  {
+   "id": "31e52d502e89",
+   "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
+   "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments.",
+   "published": "2026-10-28T23:18:00+00:00"
+  },
+  {
+   "id": "b1e5459eada7",
+   "title": "Menindee Lakes water levels drop to lowest in five years as experts warn of mass fish deaths",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/28/menindee-lakes-water-levels-drop-mass-fish-death-fears",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "NSW government imposes water restrictions after Menindee water volumes fall below 2021 levels Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Water levels at the Menindee Lakes in western New South Wales have fallen to their lowest point…",
+   "published": "2026-10-28T23:15:36+00:00"
+  },
+  {
+   "id": "eeda43363ea5",
+   "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
+   "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics.",
+   "published": "2026-10-28T23:02:00+00:00"
+  },
+  {
+   "id": "f842c13920f9",
+   "title": "Nasdaq, Inc. Comment On Regulatory Notice 26-15",
+   "link": "https://www.finra.org/rules-guidance/notices/comment/nasdaq-inc-comment-regulatory-notice-26-15",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Nasdaq, Inc. Comment On Regulatory Notice 26-15 fnrw-backend Wed, 10/28/2026 - 18:56 Brett Kitt null null Kwadwo Agyapong <Kwadwo.Agyapong@nasdaq.com> Nasdaq, Inc. Regulatory Notice 26-15 Core Official Date Tue, 10/27/2026 - 12:00 Comment File Nasdaq_Brett…",
+   "published": "2026-10-28T22:56:45+00:00"
+  },
+  {
+   "id": "4aea4ad50f58",
+   "title": "Tributes pour in for labor leader Dolores Huerta: ‘Fought for farm workers to the very end’",
+   "link": "https://www.theguardian.com/us-news/2026/oct/28/dolores-huerta-tributes",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Lawmakers, activists and union leaders across the US remember the co-founder of United Farm Workers union Following the news that Dolores Huerta – the civil rights icon who popularized the rallying cry “Sí, se puede! – had died at the age of 96 on Wednesday, activists,…",
+   "published": "2026-10-28T22:48:56+00:00"
+  },
+  {
+   "id": "ca17b3f8c6ea",
+   "title": "Microsoft posts $92.3bn quarterly revenue after offering buyouts to 60,000 employees",
+   "link": "https://www.theguardian.com/technology/2026/oct/28/microsoft-earnings",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Software giant reports $36.6bn in profit, beating Wall Street expectations, as Azure cloud computing division grows 48% Microsoft gained billions of dollars in stock market value Wednesday afternoon after it reported better than expected revenue and profit, just days after it…",
+   "published": "2026-10-28T22:44:58+00:00"
+  },
+  {
+   "id": "05ea812e5c68",
+   "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+   "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
+   "published": "2026-10-28T22:41:00+00:00"
+  },
+  {
+   "id": "5839a08c278f",
+   "title": "UN experts sound alarm at excessive use of force in French student protests",
+   "link": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "UN experts have condemned police crackdowns, warning they deter demonstrators from exercising their rights.",
+   "published": "2026-10-28T22:34:51+00:00"
+  },
+  {
+   "id": "2d0841f08fa6",
+   "title": "The Missing Emergency",
+   "link": "https://thedispatch.com/newsletter/boilingfrogs/trump-midterms-emergency-meddling/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Why hasn’t Trump tried to postpone the midterms?",
+   "published": "2026-10-28T22:30:22+00:00"
+  },
+  {
+   "id": "73403111bde2",
+   "title": "Non-profit group leaks data of more than 40,000 homeland security workers",
+   "link": "https://www.theguardian.com/us-news/2026/oct/28/homeland-security-data-leak",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Information released by Distributed Denial of Secrets is the third such government data disclosure in the last month The leak website Distributed Denial of Secrets said on Wednesday it has released data on more than 40,000 Department ⁠of Homeland Security (DHS) employees,…",
+   "published": "2026-10-28T22:27:01+00:00"
+  },
+  {
+   "id": "6031342a436d",
+   "title": "Trump administration will allow pharmacies to make popular peptides",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6021030/peptides-compounding-enforcement",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Department of Health and Human Services will let small compounding pharmacies make six peptides that haven't been approved by the Food and Drug Administration. It may not be enough to meet demand.",
+   "published": "2026-10-28T22:26:48+00:00"
+  },
+  {
+   "id": "7e76f2377d71",
+   "title": "Utah files criminal charges against popular prediction market platform",
+   "link": "https://www.deseret.com/sports/2026/10/28/utah-files-criminal-charges-kalshi-illegal-gambling-promotion-cftc-sues-utah-block-laws/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Utah filed criminal charges against the popular prediction platform Kalshi and its two founders, alleging the company profited from illegally promoting gambling in the state. The felony and misdemeanor charges in state court in Salt Lake City follow a civil lawsuit Utah filed…",
+   "published": "2026-10-28T22:26:41+00:00"
+  },
+  {
+   "id": "a84839c12a12",
+   "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
+   "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets.",
+   "published": "2026-10-28T22:25:00+00:00"
+  },
+  {
+   "id": "3a67c2235a91",
+   "title": "25-01659.pdf",
+   "link": "https://www.finra.org/node/391036",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "25-01659.pdf Anonymous (not verified) Wed, 10/28/2026 - 18:20 Case ID 25-01659 Forum FINRA Document Type Award Claimants Pavel Zheltov Stuti Kochhar Respondents Charles Schwab & Co., Inc. Neutrals Jeffrey M. Allen Hearing Site San Francisco, CA Award Document 25-01659.pdf…",
+   "published": "2026-10-28T22:20:02+00:00"
+  },
+  {
+   "id": "ca4fb48f7892",
+   "title": "20-01396(3).pdf",
+   "link": "https://www.finra.org/node/391031",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "20-01396(3).pdf Anonymous (not verified) Wed, 10/28/2026 - 18:15 Case ID 20-01396 Forum FINRA Document Type Order to Confirm Claimants David Boral Joseph Rallo Respondents Anthony Lapadula Robert Eide Aegis Capital Corp. Benchmark Investments, Inc. Neutrals James J. Fishman…",
+   "published": "2026-10-28T22:15:02+00:00"
+  },
+  {
+   "id": "d10f7f28c059",
+   "title": "Early takeaways about the new-look Cougars",
+   "link": "https://www.deseret.com/sports/2026/10/28/new-look-cougars-readying-for-season-opener-vs-big-ten-ohio-state/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "This article was first published in the Cougar Insiders newsletter Tuesday. Sign up to receive the newsletter in your inbox each week. The BYU basketball team opens the season against the Big Ten’s Ohio State Nov. 2 in the Delta Center after a pair of preseason non-counting…",
+   "published": "2026-10-28T22:11:46+00:00"
+  },
+  {
+   "id": "bc4ddf4519cc",
+   "title": "24-02628(4).pdf",
+   "link": "https://www.finra.org/node/391026",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "24-02628(4).pdf Anonymous (not verified) Wed, 10/28/2026 - 18:10 Case ID 24-02628 Forum FINRA Document Type Order to Confirm Claimants Sigma Financial Corporation Respondents Edward Murray Neutrals Jeremy Gray Zimmermann Hearing Site Albany, NY Award Document 24-02628(4).pdf…",
+   "published": "2026-10-28T22:10:01+00:00"
+  },
+  {
+   "id": "55fdc1c59946",
+   "title": "Girl seriously injured in wolf attack at German wildlife park",
+   "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+   "published": "2026-10-28T22:08:52+00:00"
+  },
+  {
+   "id": "9cf16528e73b",
+   "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
+   "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador Flávio Bolsonaro declared himself the “true president” of Brazil after losing last Sunday’s presidential election and fleeing to the United States. After landing on a…",
+   "published": "2026-10-28T22:06:46+00:00"
+  },
+  {
+   "id": "b58ee10f317f",
+   "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+   "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
+   "published": "2026-10-28T22:00:00+00:00"
+  },
+  {
+   "id": "6ed457edc71d",
+   "title": "High school cross country: North Summit girls win 6th straight 2A title, Grand boys breakthrough with first-ever crown",
+   "link": "https://www.deseret.com/sports/2026/10/28/high-school-cross-country-2a-state-championship/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "It was a near-perfect day for Grand High cross country at the 2A state meet on Wednesday. In addition to Grand boys winning its first-ever state championship in dramatic fashion, Grand’s favored runners, River Shaw and Hadley Kasprick, both won their respective individual state…",
+   "published": "2026-10-28T21:58:47+00:00"
+  },
+  {
+   "id": "16698dcbb254",
+   "title": "This cereal brand is getting a resealable bag",
+   "link": "https://www.deseret.com/lifestyle/2026/10/28/cheerios-gets-resealable-bag-for-cereal/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Cheerios is providing an upgrade to the cereal experience that cereal lovers have been requesting for years. The General Mills brand teamed up with Ziploc to debut Cheerios with Ziploc PantrySeal, a resealable bag inside the classic cereal box. “General Mills has received…",
+   "published": "2026-10-28T21:57:38+00:00"
+  },
+  {
+   "id": "555c11b428ce",
+   "title": "A bus, a phone and one’s choice — ‘course correction’ possible",
+   "link": "https://www.deseret.com/faith/2026/10/28/church-news-elder-patrick-kearon-on-cellphone-social-media-use-ensign-college-devotional/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Elder Patrick Kearon of the Quorum of the Twelve Apostles told students to reflect upon the way they use their phones, especially as it relates to social media. “You know what it has done or is doing for you,” he said in a devotional at Ensign College in Salt Lake City on…",
+   "published": "2026-10-28T21:57:29+00:00"
+  },
+  {
+   "id": "e1deeb80d149",
+   "title": "New book makes fiery claims about Jared Kushner’s finances in Trump’s first term",
+   "link": "https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Kushner threatens to sue, denying allegations that two slush funds were set up to influence his Middle East role A new book containing incendiary claims about Jared Kushner ’s financial dealings during Donald Trump ’s first term has ignited a political and media firestorm. The…",
+   "published": "2026-10-28T21:56:39+00:00"
+  },
+  {
+   "id": "4bc74ef756da",
+   "title": "24-01280(3).pdf",
+   "link": "https://www.finra.org/node/391021",
+   "source": "FINRA",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "24-01280(3).pdf Anonymous (not verified) Wed, 10/28/2026 - 17:55 Case ID 24-01280 Forum FINRA Document Type Other Claimants Adam Serr Shayla Kelley Respondents Frontier Credit Union Neutrals Katherine Hendricks Dean J. Dietrich Michael R.E. Sanders Hearing Site Boise, ID Award…",
+   "published": "2026-10-28T21:55:01+00:00"
+  },
+  {
+   "id": "e09b89f1e97c",
+   "title": "ICE is Now Even More Unpopular than the IRS",
+   "link": "https://reason.com/volokh/2026/10/28/ice-is-now-even-more-unpopular-than-the-irs/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The agency's growing unpopularity may make it easier to abolish it.",
+   "published": "2026-10-28T21:52:13+00:00"
+  },
+  {
+   "id": "bbc898ce3ab1",
+   "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Defeated presidential candidate Flavio Bolsonaro and his family have arrived in the U.S. after Brazilian authorities ordered him to surrender his passport. He is facing multiple investigations in Brazil.",
+   "published": "2026-10-28T21:46:27+00:00"
+  },
+  {
+   "id": "26998135a717",
+   "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+   "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+   "published": "2026-10-28T21:45:00+00:00"
+  },
+  {
+   "id": "57cf444b547f",
+   "title": "High-speed train crash kills at least 68 people in Spain",
+   "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+   "published": "2026-10-28T21:38:54+00:00"
+  },
+  {
+   "id": "363f8da329ff",
+   "title": "Costa Rica’s mega-prison receives first inmates",
+   "link": "https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose.",
+   "published": "2026-10-28T21:36:16+00:00"
+  },
+  {
+   "id": "1b68da9fdaa8",
+   "title": "Trump Hands Alliant Energy $5.1 Billion in Loans Ahead of Key Midterm Races in Iowa and Wisconsin",
+   "link": "https://reason.com/2026/10/28/trump-hands-alliant-energy-5-1-billion-in-loans-ahead-of-key-midterm-races-in-iowa-and-wisconsin/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "It’s the 10th energy project financed by the Trump administration’s Office of Energy Dominance Financing, which has over $289 billion in loan authority.",
+   "published": "2026-10-28T21:35:50+00:00"
+  },
+  {
+   "id": "64fe446b495f",
+   "title": "Russell Brand tells trial it was wrong to use fame to ‘facilitate’ sex with women",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/28/russell-brand-trial-testimony",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Former comedian, in court on rape and sexual assault charges, says he misused position but ‘consent is more important than sex itself’ Russell Brand has told a court that he was wrong to have used his fame and success to “facilitate” sexual activity with women. The 51-year-old…",
+   "published": "2026-10-28T21:28:22+00:00"
+  },
+  {
+   "id": "46da125cd735",
+   "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
+   "link": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Watered-down version of statement to be issued at end of Montreal summit instead offers ‘ever closer association’ The EU has backed away from its offer to Canada to start talks on becoming an “associate member” after disagreements between members states just as an EU-Canada…",
+   "published": "2026-10-28T21:27:33+00:00"
+  },
+  {
+   "id": "c2cf1e6fc552",
+   "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+   "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+   "published": "2026-10-28T21:24:41+00:00"
+  },
+  {
+   "id": "918ea130dda3",
+   "title": "Indonesian students demand action on wildfires and rising costs",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Hundreds of Indonesian students protested against the government's handling of forest fires and rising costs.",
+   "published": "2026-10-28T21:23:17+00:00"
+  },
+  {
+   "id": "88205e85bbc4",
+   "title": "The Failed Indictment of Cassidy Hutchinson Reflects Grand Jury Resistance to Politically Motivated Charges",
+   "link": "https://reason.com/2026/10/28/the-failed-indictment-of-cassidy-hutchinson-reflects-grand-jury-resistance-to-politically-motivated-charges/",
+   "source": "Reason",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Rejections of the Trump administration's dubious cases are a striking departure from the historical pattern of deference to federal prosecutors.",
+   "published": "2026-10-28T21:20:22+00:00"
+  },
+  {
+   "id": "3198c42b11bc",
+   "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+   "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+   "published": "2026-10-28T21:16:30+00:00"
+  },
+  {
+   "id": "6f123795b128",
+   "title": "Will Ferrin expects BYU to regain focus after disappointing setback to UCF",
+   "link": "https://www.deseret.com/sports/2026/10/28/former-byu-cougars-kicker-will-ferrin-advice-for-cougars/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Focus or the lack of it — it is a story Will Ferrin knows all too well. BYU claims an emotionally charged win. They climb in the polls and garner tons of national respect — and then they stumble against a team they should beat. “Football is an emotional game,” the former BYU…",
+   "published": "2026-10-28T21:16:10+00:00"
+  },
+  {
+   "id": "a650a62a34a0",
+   "title": "Here’s what could follow Israel’s bitterly contested elections",
+   "link": "https://www.csmonitor.com/World/Middle-East/2026/1028/israel-elections-stalemate-netanyahu-opposition-arabs?icid=rss",
+   "source": "Christian Science Monitor",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "There are three main options for Israel’s political path forward. None would be simple or easy.",
+   "published": "2026-10-28T21:15:56+00:00"
+  },
+  {
+   "id": "00e599ec89b3",
+   "title": "Trump administration wants to remove regulations on a super planet-heating gas",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-5995910/trump-wants-remove-regulations-planet-heating-methane",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Trump administration wants to undo a Biden-era rule that would reduce methane emissions from the oil and gas industry.",
+   "published": "2026-10-28T21:15:09+00:00"
+  },
+  {
+   "id": "febeb9d05e69",
+   "title": "Taylor Swift jokes about a prank gone too far by Brad Paisley",
+   "link": "https://www.deseret.com/entertainment/2026/10/28/taylor-swift-nashville-songwriters-hall-of-fame/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Taylor Swift made history once again this week, becoming the youngest artist ever to be inducted into the Nashville Songwriters Hall of Fame. “I knew from the time I wrote my first song that even if it couldn’t be my career, it would be my passion,” Swift said during her speech…",
+   "published": "2026-10-28T21:10:32+00:00"
+  },
+  {
+   "id": "f21ae405ea01",
+   "title": "‘Worldwide legacy’: almost $20m raised to protect majestic tract of land in far north Queensland",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/29/worldwide-legacy-almost-20m-raised-to-protect-majestic-tract-of-land-in-far-north-queensland",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Bush Heritage hopes to buy Wooroora station, which links wet sclerophyll forest and savanna woodland and is home to 12 endangered species Get our breaking news email , free app or daily news podcast A majestic tract of land in far north Queensland that links wet tropics and…",
+   "published": "2026-10-28T21:06:14+00:00"
+  },
+  {
+   "id": "d164d4529abb",
+   "title": "Two scholars challenge 9 common beliefs about abortion — from late-term procedures to doctor shortages",
+   "link": "https://www.deseret.com/opinion/2026/10/28/9-abortion-misconceptions/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "This November, voters in four states will weigh consequential abortion measures: Proposition 1 in Idaho, Question 6 in Nevada, Question 1 in Virginia and Amendment 3 in Missouri, which would repeal the abortion-rights amendment Missouri voters approved in 2024. As a social…",
+   "published": "2026-10-28T21:05:20+00:00"
   },
   {
    "id": "3283a4c90694",
@@ -170,18 +902,6 @@
    "published": "2026-10-28T21:03:01+00:00"
   },
   {
-   "id": "a84839c12a12",
-   "title": "Chipotle expects modestly higher sales this year as drive-thru ‘Chipotlanes’ come to more stores",
-   "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets.",
-   "published": "2026-10-28T20:58:00+00:00"
-  },
-  {
    "id": "1b6e1c9900c5",
    "title": "He Moved Into a Dementia Ward at 21. Here's What He Discovered",
    "link": "https://substack.fixthenews.com/p/he-moved-into-a-dementia-ward-at-2c7",
@@ -204,6 +924,18 @@
    "category_hint": null,
    "summary": "Today the law firm of Weil Gotshal announced that it would wind down. I don't have any connections to the… The post Farewell to Weil appeared first on Reason Magazine.",
    "published": "2026-10-28T20:55:43+00:00"
+  },
+  {
+   "id": "f5738378edfd",
+   "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – as it happened",
+   "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Pedro Sánchez says the government will act with urgency to ‘clarify what has happened, why this tragedy occurred’ Full report from Spain At least 30 people are believed to have died after two high-speed trains collided in the province of Toledo in Spain, with concerns the death…",
+   "published": "2026-10-28T20:53:55+00:00"
   },
   {
    "id": "e17af4c0d470",
@@ -230,18 +962,6 @@
    "published": "2026-10-28T20:49:00+00:00"
   },
   {
-   "id": "12cf04f2bdb7",
-   "title": "Politics live: Chalmers calls social media a ‘business model for hate’; half of young Australians say US a ‘threat’",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/29/labor-treasurer-jim-chalmers-social-media-anthony-albanese-coalition-one-nation-ntwnfb",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Follow the day’s news live Get our breaking news email , free app or daily news podcast The assistant treasurer, Daniel Mulino , has defended his government’s reaction to inflation, telling ABC Radio National: We’re not blaming foreign situations and leaving it at that. I think…",
-   "published": "2026-10-28T20:46:51+00:00"
-  },
-  {
    "id": "0a4511a5640d",
    "title": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
    "link": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
@@ -252,6 +972,18 @@
    "category_hint": null,
    "summary": "Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows.",
    "published": "2026-10-28T20:45:00+00:00"
+  },
+  {
+   "id": "f97ab3187ccb",
+   "title": "Watch: King dances in the streets of the Bahamas capital",
+   "link": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
+   "published": "2026-10-28T20:44:10+00:00"
   },
   {
    "id": "f9050f610ec7",
@@ -276,30 +1008,6 @@
    "category_hint": null,
    "summary": "The company’s new financial targets paint a rosier picture of its AI economics than investors had feared.",
    "published": "2026-10-28T20:38:00+00:00"
-  },
-  {
-   "id": "9dd863424d4e",
-   "title": "Trump rages at Alaska Democrat who reportedly recruited man with same name as Republican opponent – live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Trump, citing New York Times report, says Mary Peltola’s actions to recruit a second Dan Sullivan ‘illegal’ and calls for her disqualification from US Senate race Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race Sign up for the Breaking News US…",
-   "published": "2026-10-28T20:36:19+00:00"
-  },
-  {
-   "id": "f5738378edfd",
-   "title": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – latest updates",
-   "link": "https://www.theguardian.com/world/live/2026/oct/28/spain-train-crash-toledo-europe-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Pedro Sánchez says the government will act with urgency to ‘clarify what has happened, why this tragedy occurred’ Full report from Spain At least 30 people are believed to have died after two high-speed trains collided in the province of Toledo in Spain, with concerns the death…",
-   "published": "2026-10-28T20:30:59+00:00"
   },
   {
    "id": "06a3f8b29dba",
@@ -348,18 +1056,6 @@
    "category_hint": null,
    "summary": "US points to increase in abstentions in General Assembly as evidence that push to isolate Cuba is slowly succeeding.",
    "published": "2026-10-28T20:22:16+00:00"
-  },
-  {
-   "id": "eeda43363ea5",
-   "title": "ServiceNow’s stock slides as earnings miss clouds a raised AI outlook",
-   "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Even with an uptick in multi-million-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics",
-   "published": "2026-10-28T20:22:00+00:00"
   },
   {
    "id": "1fb397db1df2",
@@ -418,7 +1114,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Pete Hoekstra, controversial US ambassador to Canada, has also accused Canadian officials of interfering in US elections The US ambassador Pete Hoekstra has suggested Canada could be blamed if Republicans perform poorly in next week’s midterm elections, the latest intervention…",
+   "summary": "Pete Hoekstra, controversial US ambassador to Canada, has also accused Canadian officials of interfering in US elections The US ambassador has suggested Canada could be blamed if Republicans perform poorly in next week’s midterm elections, the latest intervention from a…",
    "published": "2026-10-28T20:15:07+00:00"
   },
   {
@@ -542,18 +1238,6 @@
    "published": "2026-10-28T20:05:26+00:00"
   },
   {
-   "id": "64494e6a888c",
-   "title": "Israel election results live: Netanyahu bloc loses majority as most ballots counted",
-   "link": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Opposition bloc and Netanyahu’s coalition predicted to fall short of 61 seats needed to form a government, while Palestinian parties set for big gains Full report: Coalition talks loom in Israel Analysis: Rise of Palestinian parties will redraw political landscape Israel…",
-   "published": "2026-10-28T20:03:20+00:00"
-  },
-  {
    "id": "9334fd319165",
    "title": "US envoy reads anti-Castro book during Cuban FM’s UN address",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-envoy-reads-anti-castro-book-during-cuban-fms-un-address?traffic_source=rss",
@@ -564,18 +1248,6 @@
    "category_hint": null,
    "summary": "US envoy reads anti-Castro book during Cuban FM’s UN address",
    "published": "2026-10-28T20:02:42+00:00"
-  },
-  {
-   "id": "64fe446b495f",
-   "title": "Russell Brand tells trial it was wrong to use fame to ‘facilitate’ sex with women",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/28/russell-brand-trial-testimony",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Former comedian, in court on rape and sexual assault charges, says he misused position but ‘consent is more important than sex itself’ Russell Brand has told a court that he was wrong to have used his fame and success to “facilitate” sexual activity with women. The 51-year-old…",
-   "published": "2026-10-28T19:59:16+00:00"
   },
   {
    "id": "4748eb83d255",
@@ -610,7 +1282,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Projections show votes for Palestinian parties surged in a tight contest that drew highest turnout in decades Israel election – live updates Israel election: what we know so far Analysis: Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Israel’s…",
+   "summary": "Projections show votes for Palestinian parties surged in a tight contest that drew highest turnout in decades Israel election: what we know so far Analysis: Rise of Palestinian parties in Knesset will redraw Israel’s political landscape Israel’s future hung in the balance on…",
    "published": "2026-10-28T19:58:27+00:00"
   },
   {
@@ -634,7 +1306,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Anthony Williams is accused of attempting to murder passengers and staff on board a London-bound train last November A knifeman “caused terror and fear on an unimaginable scale” to passengers when he stabbed 10 people on board a London-bound train, a court has heard. Anthony…",
+   "summary": "Anthony Williams is accused of attempting to murder passengers and staff on board a London-bound train last November A knifeman “caused terror and fear on an unimaginable scale” to passengers when he stabbed 10 people on a London-bound train, a court has heard. Anthony…",
    "published": "2026-10-28T19:54:19+00:00"
   },
   {
@@ -874,7 +1546,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Incumbent could turn defeat into another term in office as rival parties erect confected barrier to unseating him Israel election results – live updates Full report: Coalition talks loom in Israel Analysis: Rise of Palestinian parties will redraw political landscape Hours…",
+   "summary": "Incumbent could turn defeat into another term in office as rival parties erect confected barrier to unseating him Full report: Coalition talks loom in Israel Analysis: Rise of Palestinian parties will redraw political landscape Hours before the final results from Israel’s…",
    "published": "2026-10-28T18:54:10+00:00"
   },
   {
@@ -1054,7 +1726,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Passengers describe carriages full of seriously injured people after crash that has claimed at least 68 lives At least 68 killed in Toledo train crash – full report Europe live – latest updates Josimar Medina woke a little before 9am on Wednesday to find himself airborne and…",
+   "summary": "Passengers describe carriages full of seriously injured people after crash that has claimed at least 68 lives At least 68 killed in Toledo train crash – full report Josimar Medina woke a little before 9am on Wednesday to find himself airborne and hurtling through his carriage…",
    "published": "2026-10-28T18:12:01+00:00"
   },
   {
@@ -1306,7 +1978,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Questions were raised before Toledo crash over rail safety in a country where train travel has surged by 40% Deadly Spanish rail collision – latest updates Spain’s high-speed rail network, the most extensive in Europe and the second largest in the world after China, has long…",
+   "summary": "Questions were raised before Toledo crash over rail safety in a country where train travel has surged by 40% Spain’s high-speed rail network, the most extensive in Europe and the second largest in the world after China, has long been a point of pride in the country. But…",
    "published": "2026-10-28T16:56:46+00:00"
   },
   {
@@ -1910,18 +2582,6 @@
    "published": "2026-10-28T14:45:36+00:00"
   },
   {
-   "id": "26998135a717",
-   "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-   "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-   "published": "2026-10-28T14:45:00+00:00"
-  },
-  {
    "id": "7d2a28624fab",
    "title": "Boxer Serrano to hang up gloves in Puerto Rico farewell on January 9",
    "link": "https://www.aljazeera.com/sports/2026/10/28/boxer-serrano-to-hang-up-gloves-in-puerto-rico-farewell-on-january-9?traffic_source=rss",
@@ -2030,18 +2690,6 @@
    "published": "2026-10-28T14:16:24+00:00"
   },
   {
-   "id": "53d10c0e937a",
-   "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-   "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
-   "published": "2026-10-28T14:16:00+00:00"
-  },
-  {
    "id": "ad186d74481c",
    "title": "How big should Democrats go on childcare? We asked a potential 2028 contender.",
    "link": "https://www.vox.com/policy/508062/andy-beshear-wants-washington-to-act-fast-on-childcare",
@@ -2064,18 +2712,6 @@
    "category_hint": null,
    "summary": "Iran is using the threat of spy networks to detain and execute political opponents, analysts say.",
    "published": "2026-10-28T14:03:08+00:00"
-  },
-  {
-   "id": "b1e5459eada7",
-   "title": "Menindee Lakes water levels drop to lowest in five years as experts warn of mass fish deaths",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/28/menindee-lakes-water-levels-drop-mass-fish-death-fears",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "NSW government imposes water restrictions after Menindee water volumes fall below 2021 levels Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Water levels at the Menindee Lakes in western New South Wales have fallen to their lowest point…",
-   "published": "2026-10-28T14:00:07+00:00"
   },
   {
    "id": "9a009548a1c5",
@@ -2124,18 +2760,6 @@
    "category_hint": null,
    "summary": "Talks focused on enhancing trade, reviving Baniyas oil pipeline and achieving stability through cooperation.",
    "published": "2026-10-28T13:47:39+00:00"
-  },
-  {
-   "id": "9cf16528e73b",
-   "title": "Flávio Bolsonaro lands in Miami after Brazil election loss",
-   "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador A private jet carrying the Brazilian far-right senator Flávio Bolsonaro has landed in Miami, Florida, where the losing candidate in Sunday’s presidential election…",
-   "published": "2026-10-28T13:39:01+00:00"
   },
   {
    "id": "2b5190d25efa",
@@ -2319,14 +2943,14 @@
   },
   {
    "id": "cbb56b02282c",
-   "title": "Australia must recruit hundreds more to crew Aukus submarines, retired admiral warns",
+   "title": "‘Don’t be stinky’: recruitment a ‘huge issue’ facing Aukus submarine program",
    "link": "https://www.theguardian.com/world/2026/oct/28/australia-must-recruit-hundreds-more-to-crew-aukus-submarines-retired-admiral-warns",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "As USS Colorado showcases the program in Perth, Peter Briggs says personnel is just one of the ‘huge issues’ it faces Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Australia faces an uphill battle to…",
+   "summary": "As USS Colorado showcases the program in Perth, retired admiral Peter Briggs says personnel is one of the ‘huge issues’ it faces Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Australia faces an uphill…",
    "published": "2026-10-28T12:46:36+00:00"
   },
   {
@@ -4572,18 +5196,6 @@
    "category_hint": null,
    "summary": "Residents in Lebanon and Syria expect little change in Israeli policy after the election.",
    "published": "2026-10-27T20:34:44+00:00"
-  },
-  {
-   "id": "b58ee10f317f",
-   "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-   "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
-   "published": "2026-10-27T20:30:00+00:00"
   },
   {
    "id": "8c8f3522104a",
@@ -9504,18 +10116,6 @@
    "category_hint": null,
    "summary": "In other moves, RBC snags a UBS veteran to lead in southern Texas; American Beacon Partners hires a client portfolio manager from Envestnet; and Meeder Investment hires a new product lead to bolster market penetration.",
    "published": "2026-10-26T17:20:13+00:00"
-  },
-  {
-   "id": "05ea812e5c68",
-   "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-   "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
-   "published": "2026-10-26T17:19:00+00:00"
   },
   {
    "id": "2205c1174b5e",
