@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T22:59:01.999483+00:00",
+ "generated": "2026-10-31T02:24:32.009953+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -13,8 +13,8 @@
   },
   {
    "name": "Indianapolis Business Journal",
-   "ok": true,
-   "count": 10
+   "ok": false,
+   "error": "TimeoutError: The read operation timed out"
   },
   {
    "name": "NPR News",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 37
+   "count": 34
   },
   {
    "name": "The Guardian World",
@@ -134,6 +134,222 @@
  ],
  "items": [
   {
+   "id": "a2f28390745f",
+   "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+   "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+   "published": "2026-10-31T02:12:19+00:00"
+  },
+  {
+   "id": "25d49323b808",
+   "title": "The Indian chef who brought curry to America - then vanished",
+   "link": "https://www.bbc.co.uk/news/articles/crm941n0413o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
+   "published": "2026-10-31T02:02:16+00:00"
+  },
+  {
+   "id": "3a1e46fd30a2",
+   "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+   "link": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
+   "published": "2026-10-31T01:32:33+00:00"
+  },
+  {
+   "id": "3678a59d709f",
+   "title": "Pope Leo becomes first pontiff to vote in US general election",
+   "link": "https://www.aljazeera.com/news/2026/10/31/pope-leo-becomes-first-pontiff-to-vote-in-us-general-election?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Vatican confirms the pope submitted a mail-in ballot in his native Chicago ahead of November 3 midterm elections",
+   "published": "2026-10-31T01:31:44+00:00"
+  },
+  {
+   "id": "b2887bbff8a9",
+   "title": "Global nature talks reach deal but money remains an issue",
+   "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+   "published": "2026-10-31T01:27:05+00:00"
+  },
+  {
+   "id": "159ce70041e1",
+   "title": "Fake polls expose vulnerabilities in US elections ahead of midterms",
+   "link": "https://www.aljazeera.com/news-analysis/2026/10/31/fake-polls-expose-vulnerabilities-in-us-elections-ahead-of-midterms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Fabricated surveys are adding to tensions in the country's increasingly polarised political environment.",
+   "published": "2026-10-31T01:26:34+00:00"
+  },
+  {
+   "id": "be122df54ae4",
+   "title": "Dog walker threatened with gun during ICE arrest in North Hollywood",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/dog-walker-threatened-with-gun-during-ice-arrest-in-north-hollywood?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Footage shows masked ICE agents pointing a handgun at a bystander walking his dogs as they arrest another man in the US.",
+   "published": "2026-10-31T01:23:59+00:00"
+  },
+  {
+   "id": "2983ac9f31ae",
+   "title": "Police deployed during stand-off over control of top Poland court",
+   "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+   "published": "2026-10-31T01:11:43+00:00"
+  },
+  {
+   "id": "008e0f544cd2",
+   "title": "US approves sale of 500 Patriot missiles to Ukraine",
+   "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+   "published": "2026-10-31T00:40:43+00:00"
+  },
+  {
+   "id": "9513d1329393",
+   "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+   "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+   "published": "2026-10-31T00:29:58+00:00"
+  },
+  {
+   "id": "d25d7d5ef965",
+   "title": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
+   "link": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Marco Rubio pulls plug on traditional photo op at meeting of foreign ministers after about one-third of countries threaten boycott The traditional “family photo” to open the G20 foreign ministers’ meeting has been abruptly cancelled in the US after a host of nations – including…",
+   "published": "2026-10-31T00:29:28+00:00"
+  },
+  {
+   "id": "fc5e15d5984c",
+   "title": "Germany and France brace for protests on Halloween weekend",
+   "link": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A wave of youth-led protests has swept Europe, with demonstrators denouncing rising prices and a lack of prospects.",
+   "published": "2026-10-31T00:17:35+00:00"
+  },
+  {
+   "id": "f0722a9954e4",
+   "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
+   "link": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out.",
+   "published": "2026-10-31T00:16:03+00:00"
+  },
+  {
+   "id": "ce7446a01fb7",
+   "title": "A top-secret spy mission, a decades-old scandal – and the Austin Powers-esque saga to lift the lid",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/31/timor-leste-australia-bugging-rex-patrick-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Rex Patrick’s latest transparency fight is over what he calls ‘most open secret in the history of Australian spying’ – maybe even the world Get our daily political email , free app or daily news podcast A campaign to uncover any documents relating to whether Australian spies…",
+   "published": "2026-10-31T00:04:51+00:00"
+  },
+  {
+   "id": "9a514c090ff0",
+   "title": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
+   "link": "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The move threatens to further strain relations between Brazilian President Lula and his Argentinian counterpart, Milei.",
+   "published": "2026-10-31T00:02:06+00:00"
+  },
+  {
+   "id": "95528d0e61c2",
+   "title": "The year Fox saved Halloween and trick-or-treaters",
+   "link": "https://www.deseret.com/sports/2026/10/30/fox-saved-halloween-trick-or-treaters/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Halloween and BYU football are like a Milk Dud — a combination of ingredients that go perfectly together — and thanks to Fox television, they can complement each other Saturday instead of competing. Placing the BYU-Arizona State game in the 1:30 p.m. broadcast window opened the…",
+   "published": "2026-10-31T00:00:00+00:00"
+  },
+  {
+   "id": "7116fb04b341",
+   "title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end soon",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will 'get wrapped up soon'.",
+   "published": "2026-10-31T00:00:00+00:00"
+  },
+  {
+   "id": "66c910d1ce22",
+   "title": "Fans voice support on final night of Macklemore’s ‘Free Palestine’ tour",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/fans-voice-support-on-final-night-of-macklemores-free-palestine-tour?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Al Jazeera spoke to fans attending Macklemore’s ‘Free Palestine’ concert after he was dropped from Ed Sheeran’s tour.",
+   "published": "2026-10-30T23:39:19+00:00"
+  },
+  {
    "id": "78a146cd5bad",
    "title": "Once called ‘Future Boy,’ Shaun White is now shaping snowboarding’s future",
    "link": "https://www.deseret.com/utah/2026/10/30/shaun-white-snowboarding-whitespace-snow-league-halfpipe-park-city-utah-47g/",
@@ -143,7 +359,127 @@
    "flourishing_feed": false,
    "category_hint": null,
    "summary": "Someone hung the nickname “Future Boy” on Shaun White when he arrived on the pro snowboarding scene as a 13-year-old prodigy more than 25 years ago. A story I wrote for the Deseret News in 2003 carried the headline “ Snowboarding sensation proves the future is now. ” White was…",
-   "published": "2026-10-30T22:49:25+00:00"
+   "published": "2026-10-30T23:29:24+00:00"
+  },
+  {
+   "id": "0eb6272f8cb7",
+   "title": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+   "link": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Thailand has prosecuted 294 people since 2020 under its lèse majesté law, with sentences going up to 50 years.",
+   "published": "2026-10-30T23:26:16+00:00"
+  },
+  {
+   "id": "881a51334edc",
+   "title": "Polish police deployed to top court after head judge suspended",
+   "link": "https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Judge's suspension is part of a long dispute over politicisation of the Constitutional Tribunal under former government.",
+   "published": "2026-10-30T23:19:42+00:00"
+  },
+  {
+   "id": "84cc9626a578",
+   "title": "Retired Michigan teacher released from Russian prison believed he would never be freed",
+   "link": "https://www.theguardian.com/us-news/2026/oct/30/retired-michigan-teacher-released-russian-prison",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Stephen Hubbard said that only when he was being taken from Moscow to St Petersburg did he believe he was ‘going somewhere’ In his first comments since recently being released from a Russian prison, a retired Michigan teacher said he only believed he would be freed when he got…",
+   "published": "2026-10-30T23:19:41+00:00"
+  },
+  {
+   "id": "936d143ebe9e",
+   "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+   "link": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky.",
+   "published": "2026-10-30T23:19:17+00:00"
+  },
+  {
+   "id": "96c2dff01623",
+   "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+   "link": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
+   "published": "2026-10-30T23:14:00+00:00"
+  },
+  {
+   "id": "6a6621c65be5",
+   "title": "Why AI could threaten much of the world’s digital infrastructure",
+   "link": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities.",
+   "published": "2026-10-30T23:13:51+00:00"
+  },
+  {
+   "id": "d1fe75e5e8d4",
+   "title": "Alaska prosecutor investigates alleged Democratic plot to confuse voters with second Dan Sullivan",
+   "link": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Mary Peltola denies knowledge as party accused of recruiting spoiler candidate with same name as sitting Republican Alaska Senate race: what to know about Democrats’ alleged ballot-stacking effort The top federal prosecutor in Alaska confirmed on Friday the existence of a…",
+   "published": "2026-10-30T23:13:17+00:00"
+  },
+  {
+   "id": "5d153eca794b",
+   "title": "Democratic lawmakers demand ICE data on detainee miscarriages",
+   "link": "https://www.theguardian.com/us-news/2026/oct/30/democrats-miscarriages-ice-detainees",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Demand comes after Guardian investigation found ICE failed to record data on miscarriages suffered by immigrants in its custody between October 2025 and June 2026 US lawmakers are urgently demanding that Immigration and Customs Enforcement (ICE) disclose how many pregnant…",
+   "published": "2026-10-30T23:01:31+00:00"
+  },
+  {
+   "id": "dc6521a2f435",
+   "title": "No. 8 BYU determined to not let a devastating loss turn into another Saturday against the Sun Devils",
+   "link": "https://www.deseret.com/sports/2026/10/30/byu-asu-ungracious-victors-winners-rivalry-provo-les-big-12-tempe-storming/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Jolly and affable, BYU offensive lineman Bruce Mitchell slightly altered his demeanor when the Cougars’ 28-23 loss to Arizona State two years ago in Tempe was brought up after practice on Tuesday. “That sucked when they stormed the field,” Mitchell recalled. “That certainly…",
+   "published": "2026-10-30T23:00:00+00:00"
+  },
+  {
+   "id": "079f93151133",
+   "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
+   "link": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Judge Ana Reyes calls on US government lawyers to explain contradictory statements about the East Potomac Golf Links.",
+   "published": "2026-10-30T22:58:38+00:00"
   },
   {
    "id": "e143a2432a33",
@@ -180,30 +516,6 @@
    "category_hint": null,
    "summary": "Michigan defensive coordinator Jay Hill isn’t closing the door on future head coaching opportunities. Hill “absolutely” has head coaching aspirations, he told Michigan reporters Wednesday, per a video shared on X by The Michigan Insider’s Brice Marich. Before Hill was hired as…",
    "published": "2026-10-30T22:40:27+00:00"
-  },
-  {
-   "id": "d1fe75e5e8d4",
-   "title": "Alaska prosecutor investigates alleged Democratic plot to confuse voters with second Dan Sullivan",
-   "link": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Mary Peltola denies knowledge as party accused of recruiting spoiler candidate with same name as sitting Republican Alaska Senate race: what to know about Democrats’ alleged ballot-stacking effort The top federal prosecutor in Alaska confirmed on Friday the existence of a…",
-   "published": "2026-10-30T22:35:08+00:00"
-  },
-  {
-   "id": "008e0f544cd2",
-   "title": "US approves sale of 500 Patriot missiles to Ukraine",
-   "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-   "published": "2026-10-30T22:20:52+00:00"
   },
   {
    "id": "1f272cf56cdf",
@@ -492,30 +804,6 @@
    "category_hint": null,
    "summary": "The Iran war has exposed Gulf Arab states’ vulnerabilities, including through their reliance on a U.S. whose priorities are diverging from their own.",
    "published": "2026-10-30T20:57:59+00:00"
-  },
-  {
-   "id": "9513d1329393",
-   "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-   "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
-   "published": "2026-10-30T20:55:18+00:00"
-  },
-  {
-   "id": "2983ac9f31ae",
-   "title": "Police deployed during stand-off over control of top Poland court",
-   "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-   "published": "2026-10-30T20:52:01+00:00"
   },
   {
    "id": "7773efd3cd69",
