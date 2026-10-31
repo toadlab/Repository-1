@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T15:44:54.143389+00:00",
+ "generated": "2026-10-31T19:59:47.279835+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 31
+   "count": 28
   },
   {
    "name": "The Guardian World",
@@ -134,6 +134,234 @@
  ],
  "items": [
   {
+   "id": "3ef1a8112a73",
+   "title": "Clashes erupt between police and protesters in Paris",
+   "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
+   "published": "2026-10-31T19:37:43+00:00"
+  },
+  {
+   "id": "c4dc8656bc86",
+   "title": "No. 6 Utah at Cincinnati live coverage",
+   "link": "https://www.deseret.com/sports/2026/10/31/utah-at-cincinnati-live-coverage-and-updates/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "How to watch the game Utah’s matchup with Cincinnati will be televised on ESPN and streamed on the ESPN app . The game kicks off at 1:45 p.m. MDT. Pregame prep Here are a few stories to get you ready for the game between the Utes and Bearcats. Can No. 6 Utes avoid Halloween…",
+   "published": "2026-10-31T19:34:15+00:00"
+  },
+  {
+   "id": "4b09569c771d",
+   "title": "France seethes again as youth-led protests sweep Europe",
+   "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "French Interior Minister Laurent Nuñez warned of a \"very high risk\" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.",
+   "published": "2026-10-31T19:30:19+00:00"
+  },
+  {
+   "id": "cec364db0601",
+   "title": "Live coverage: Can No. 8 BYU get back in the win column against Arizona State?",
+   "link": "https://www.deseret.com/sports/2026/10/31/byu-cougars-football-live-coverage-arizona-state-2026/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Deseret News is providing live coverage of Saturday’s game between BYU and Arizona State. Check back for updates throughout the game. How to watch the game BYU’s matchup with Arizona State will be broadcast on FOX and can be streamed on the Fox Sports website or app.…",
+   "published": "2026-10-31T19:30:05+00:00"
+  },
+  {
+   "id": "33e01c5eafae",
+   "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+   "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+   "published": "2026-10-31T19:30:00+00:00"
+  },
+  {
+   "id": "c02cb42c8aa4",
+   "title": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+   "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "One evacuated couple says they crossed minefields in Oleshky in a search for food.",
+   "published": "2026-10-31T19:22:26+00:00"
+  },
+  {
+   "id": "5be1df21f034",
+   "title": "How vulnerable are cryptocurrency platforms?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/10/31/how-vulnerable-are-cryptocurrency-platforms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Hackers have targeted Binance, the world’s largest exchange.",
+   "published": "2026-10-31T19:19:29+00:00"
+  },
+  {
+   "id": "3fb3346bf27c",
+   "title": "Palestinians ‘Stealing their own olives’",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "In the occupied West Bank, Israeli settlers have turned olive harvesting into a deadly activity for Palestinians.",
+   "published": "2026-10-31T19:18:32+00:00"
+  },
+  {
+   "id": "f80701f178a4",
+   "title": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
+   "link": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Residents of nearby villages line highway waving flags to greet the evacuees’ convoy from the Russian-occupied city Evacuees from Russian-occupied Oleshky have been reunited with their families after crossing into Ukrainian-held territory on Saturday. The major rescue operation…",
+   "published": "2026-10-31T19:17:22+00:00"
+  },
+  {
+   "id": "b920bc5e7779",
+   "title": "This is where most people go wrong in their 30s and 40s",
+   "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "These big life decisions will determine just how well you retire.",
+   "published": "2026-10-31T19:02:00+00:00"
+  },
+  {
+   "id": "92c9aea9fb2f",
+   "title": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative community Get our daily political email , free app or daily news podcast The prime minister is facing growing discontent within his own…",
+   "published": "2026-10-31T19:00:52+00:00"
+  },
+  {
+   "id": "9235b881d685",
+   "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
+   "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
+   "published": "2026-10-31T19:00:00+00:00"
+  },
+  {
+   "id": "b8cf7ab27f03",
+   "title": "Opinion: Emily Dickinson’s Response to the 1871 Peshtigo Fire",
+   "link": "https://www.deseret.com/opinion/2026/10/31/emily-dickinson-and-the-1871-peshtigo-fire/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "As winter approaches, we should share our resources with neighbors who have lost so much this year. In 2026, Utah wildfires burned over 560,000 acres of land , destroyed hundreds of structures and killed two helicopter firefighters. Such grievous losses bring to mind similar…",
+   "published": "2026-10-31T19:00:00+00:00"
+  },
+  {
+   "id": "97479c450152",
+   "title": "Who is Arafat Minhas, Pakistan cricket’s rising star all-rounder?",
+   "link": "https://www.aljazeera.com/sports/2026/10/31/who-is-arafat-minhas-pakistan-crickets-rising-star-all-rounder?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A calm head on young shoulders, Arafat Minhas has swiftly earned the reputation of a match-winner for Pakistan.",
+   "published": "2026-10-31T18:50:25+00:00"
+  },
+  {
+   "id": "92f071269df9",
+   "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+   "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
+   "published": "2026-10-31T18:50:00+00:00"
+  },
+  {
+   "id": "90a7592b69ed",
+   "title": "London police arrest 139 as hundreds protest Palestine Action ban",
+   "link": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Demonstrations in London and Edinburgh come days before a UK Supreme Court appeal challenging the group's proscription.",
+   "published": "2026-10-31T18:48:29+00:00"
+  },
+  {
+   "id": "c5e05211993f",
+   "title": "Key takeaways from this week's political meeting in Beijing",
+   "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Communist party central committee meeting was focused on discipline and fighting corruption. It comes ahead of next year when Xi is widely expected to try to secure a fourth term.",
+   "published": "2026-10-31T18:42:33+00:00"
+  },
+  {
+   "id": "05ea812e5c68",
+   "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
+   "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
+   "published": "2026-10-31T18:33:00+00:00"
+  },
+  {
+   "id": "149bbee8aa95",
+   "title": "Evacuees of Russian-occupied Oleshky reunited with families",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_evacuees-from-oleshky-reunite-w-families-in-ukraine-311026?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Ukrainian residents evacuated from Russian-occupied city of Oleshky have arrived in Ukrainian-controlled territory.",
+   "published": "2026-10-31T18:32:20+00:00"
+  },
+  {
    "id": "be4683e2306f",
    "title": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
    "link": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
@@ -143,7 +371,355 @@
    "flourishing_feed": false,
    "category_hint": null,
    "summary": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in fines Protesters in Paris have begun marching from Porte de Bagnolet, with demonstrations also taking place in Lille and Lyon . Crowds of people…",
-   "published": "2026-10-31T15:35:15+00:00"
+   "published": "2026-10-31T18:31:38+00:00"
+  },
+  {
+   "id": "062722960b48",
+   "title": "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Met alleges demonstrators ‘meeting to purposefully commit a crime’ in largest such gathering under Burnham Almost 140 people have been arrested at the largest mass demonstrations under Andy Burnham’s premiership opposing the proscription of Palestine Action. Hundreds of people…",
+   "published": "2026-10-31T18:28:30+00:00"
+  },
+  {
+   "id": "c4dba270228b",
+   "title": "Tension and clashes as hundreds of thousands protest again in France",
+   "link": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Authorities say 320,000 march on third consecutive weekend of demonstrations over cost of living and state of schools.",
+   "published": "2026-10-31T18:28:14+00:00"
+  },
+  {
+   "id": "bff7a6f82905",
+   "title": "Police clash with masked rioters after largely peaceful protests across France",
+   "link": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Demonstrations also taking place in Germany, where officers fire teargas to disperse crowds as evening falls Clashes have erupted in Paris, Marseille and other cities after tens of thousands of demonstrators, some in Halloween fancy dress, marched across France in a third wave…",
+   "published": "2026-10-31T18:23:56+00:00"
+  },
+  {
+   "id": "5ba806be5a37",
+   "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
+   "link": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Here are five things to know about the massive hack of the crypto exchange Binance — from how it happened to what it means for the sector.",
+   "published": "2026-10-31T18:11:02+00:00"
+  },
+  {
+   "id": "5116af50e37d",
+   "title": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
+   "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
+   "published": "2026-10-31T18:10:00+00:00"
+  },
+  {
+   "id": "8154006983e5",
+   "title": "My take on daylight saving as an Arizona native",
+   "link": "https://www.deseret.com/u-s-world/2026/10/31/my-take-on-daylight-saving-as-an-arizona-native/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "My older sister used to drive me to our Arizona high school in the mornings — we’d leave the house just after 7 a.m. so we could arrive at school with enough time to walk to our classes by the 7:30 bell. When the air got colder and the sun started rising later, I remember the…",
+   "published": "2026-10-31T18:06:06+00:00"
+  },
+  {
+   "id": "6553b3b2e06d",
+   "title": "Virginia and DC sue to stop Trump’s arch as government looks to start construction",
+   "link": "https://www.theguardian.com/us-news/2026/oct/31/trump-arch-lawsuits-dc-virginia",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Legal challenges to Donald Trump’s proposed memorial arch are mounting even as its construction is imminent The legal challenges to Donald Trump ’s proposed memorial arch are mounting, with the District of Columbia and Virginia suing in federal court on Saturday as the…",
+   "published": "2026-10-31T17:57:45+00:00"
+  },
+  {
+   "id": "763a99da6625",
+   "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+   "published": "2026-10-31T17:53:35+00:00"
+  },
+  {
+   "id": "98e2911bc3e8",
+   "title": "Coventry win leaves Man United on brink of Premier League relegation zone",
+   "link": "https://www.aljazeera.com/sports/2026/10/31/coventry-beat-sunderland-man-united-on-verge-of-premier-league-drop-zone?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Manchester United one place outside the EPL's bottom three as Coventry City climb with 3-1 win over Sunderland.",
+   "published": "2026-10-31T17:51:15+00:00"
+  },
+  {
+   "id": "d45a2073311f",
+   "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+   "link": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.",
+   "published": "2026-10-31T17:49:23+00:00"
+  },
+  {
+   "id": "007f5e4a9621",
+   "title": "Michigan Muslims helped elect Trump. Now their faith is under fire",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Michigan Muslims helped elect Trump. Now their faith is under fire",
+   "published": "2026-10-31T17:38:18+00:00"
+  },
+  {
+   "id": "1afbbf6d0e94",
+   "title": "Brighton shock Man City, closing gap on Premier League leader to two points",
+   "link": "https://www.aljazeera.com/sports/2026/10/31/brighton-shock-man-city-closing-gap-on-premier-league-leader-to-two-points?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Yasin Ayari goal hands third-placed Brighton 1-0 win at Manchester City, with two points separating top three in EPL.",
+   "published": "2026-10-31T17:32:42+00:00"
+  },
+  {
+   "id": "838802137c65",
+   "title": "Jerusalem Daily: Who will form Israel’s next government?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Netanyahu and Eisenkot are locked in a struggle to form a governing coalition in the Knesset.",
+   "published": "2026-10-31T17:29:00+00:00"
+  },
+  {
+   "id": "83e08bd25784",
+   "title": "Medicare used AI to pre-approve patient care, and it immediately led to a large drop in medical services",
+   "link": "https://www.marketwatch.com/story/medicare-used-ai-to-pre-approve-patient-care-and-it-immediately-led-to-a-large-drop-in-medical-services-dc38a210?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Medicare is testing the use of AI to conduct prior authorizations to target wasteful medical spending",
+   "published": "2026-10-31T17:26:00+00:00"
+  },
+  {
+   "id": "3123d22a00d7",
+   "title": "Pakistan beat Sri Lanka as Zaman’s century turns thrilling tri-series final",
+   "link": "https://www.aljazeera.com/sports/2026/10/31/pakistan-beat-sri-lanka-as-zaman-century-turns-thrilling-tri-series-final?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Fakhar Zaman's century outdoes Kamindu Mendis and propels Pakistan to three-wicket win against Sri Lanka in cricket final.",
+   "published": "2026-10-31T17:21:05+00:00"
+  },
+  {
+   "id": "130657e7da43",
+   "title": "A cure for Trump? Why Democratic doctors are running in the 2026 midterms",
+   "link": "https://www.aljazeera.com/news/longform/2026/10/31/a-cure-for-trump-why-democratic-doctors-are-running-in-the-2026-midterms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Democratic doctors aim to convert the backlash against the Trump administration’s health policies into midterm votes.",
+   "published": "2026-10-31T17:19:44+00:00"
+  },
+  {
+   "id": "6d521c1260fd",
+   "title": "Dakar Youth Olympics: Who gets to hold the flame?",
+   "link": "https://www.aljazeera.com/sports/2026/10/31/dakar-youth-olympics-who-gets-to-hold-the-flame?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Senegal makes history by becoming the first African country to host an Olympic event.",
+   "published": "2026-10-31T17:17:21+00:00"
+  },
+  {
+   "id": "752f29a5f40d",
+   "title": "Flavio Bolsonaro says he may run again for Brazilian presidency",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/flavio-bolsonaro-says-he-may-run-again-for-brazilian-presidency?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Flavio Bolsonaro says he may run again for Brazilian presidency",
+   "published": "2026-10-31T17:12:11+00:00"
+  },
+  {
+   "id": "54e58d3ca03c",
+   "title": "Letter to the editor: I’m voting against Amendment B",
+   "link": "https://www.deseret.com/opinion/2026/10/31/letter-im-voting-against-amendment-b/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "In her recent opinion piece, “Why I’m Voting No on Amendment B,” Lisa Halverson explains that “Amendment B would diminish the power of the people.” Like Halverson, I will also be voting against Amendment B. Even as a young child, I knew that participating in our government was…",
+   "published": "2026-10-31T17:00:00+00:00"
+  },
+  {
+   "id": "896568e9efb4",
+   "title": "Emotional reunions with loved ones for Oleshky evacuees",
+   "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents arrived in buses and ambulances following a temporary ceasefire.",
+   "published": "2026-10-31T16:55:47+00:00"
+  },
+  {
+   "id": "a90aeb22599d",
+   "title": "‘He’s in a good place’: Former BYU star Conner Mantz will run first marathon in a year on Sunday",
+   "link": "https://www.deseret.com/sports/2026/10/31/hes-in-a-good-place-former-byu-star-conner-mantz-will-run-first-marathon-in-a-year-on-sunday/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "For the first time in a year, Conner Mantz — the BYU grad and America’s top marathoner for several years — will enter a marathon Sunday morning when he toes the line for the New York City Marathon. The last time he ran a marathon, he produced a still-standing American record of…",
+   "published": "2026-10-31T16:55:14+00:00"
+  },
+  {
+   "id": "353302274bfd",
+   "title": "80% of workers make this 401(k) mistake when they retire",
+   "link": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Other tax repercussions crop up down the road because balances build up, and RMDs get complicated",
+   "published": "2026-10-31T16:46:00+00:00"
+  },
+  {
+   "id": "641fcec3e146",
+   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+   "published": "2026-10-31T16:32:08+00:00"
+  },
+  {
+   "id": "e50b736a7914",
+   "title": "Thousands rally in Berlin as Gen Z plans protests in 30 German cities",
+   "link": "https://www.aljazeera.com/news/2026/10/31/thousands-rally-in-berlin-as-gen-z-plans-protests-in-30-german-cities?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Demonstrations sweeping Europe are inspiring young Germans frustrated by rising costs of living amid military spending.",
+   "published": "2026-10-31T16:28:04+00:00"
+  },
+  {
+   "id": "fa28403f4689",
+   "title": "The meteoric rise of Ella Langley",
+   "link": "https://www.deseret.com/entertainment/2026/10/31/the-rise-of-ella-langley/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Country star Ella Langley is currently experiencing a blockbuster 2026. She broke a record previously held by the legendary Mariah Carey for longest running No. 1 song, with her hit “Choosin’ Texas” spending 25 weeks leading the Billboard Hot 100. That song is currently back at…",
+   "published": "2026-10-31T16:16:17+00:00"
+  },
+  {
+   "id": "1581f6cb400f",
+   "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
+   "link": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Record number of early votes cast, with Democrats outnumbering Republicans in states which collect that information There has been a surge of early voting for the US midterm elections, with millions more Americans going to the polls compared with the last such election amid a…",
+   "published": "2026-10-31T16:13:17+00:00"
+  },
+  {
+   "id": "b42490324db7",
+   "title": "Want guaranteed income in retirement without an annuity? Try laddering I bonds.",
+   "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn’t change your strategy.",
+   "published": "2026-10-31T16:02:00+00:00"
+  },
+  {
+   "id": "8f239ee54da0",
+   "title": "A drone motor in a garage. Natural gas to jet fuel. A power grid under pressure. What Utah builders made in days",
+   "link": "https://www.deseret.com/utah/2026/10/31/utah-builders-race-the-clock-to-turn-ideas-into-working-solutions-at-hard-tech-hackathon/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Most people think they need a factory to start a drone-motor business. Joe Blash is starting with a custom-built machine that can wind motor coils in his garage. Blash’s project was presented at the Hard Tech Hackathon, a three-day event held in Salt Lake City during Utah Hard…",
+   "published": "2026-10-31T16:01:21+00:00"
+  },
+  {
+   "id": "72fa015e8a03",
+   "title": "South Africa hammer Australia as Harmer takes career best bowling of 6-16",
+   "link": "https://www.aljazeera.com/sports/2026/10/31/south-africa-hammer-australia-as-harmer-takes-career-best-bowling-of-6-16?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Simon Harmer picked a career-best 6-16 as South Africa beat Australia by 176 runs to clinch Test series 2-1.",
+   "published": "2026-10-31T15:43:46+00:00"
   },
   {
    "id": "d5ccd387bafd",
@@ -214,7 +790,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Oxfam describes ‘exceptionally challenging’ trading after retail profit reportedly fell 23% amid rise of platforms such as Vinted Profits at some of the UK’s best-known charity shops have plummeted as they face a number of pressures, including from online secondhand clothes…",
+   "summary": "British Heart Foundation describes ‘exceptionally challenging’ trading after Oxfam’s retail profit reportedly fell 23% amid rise of platforms such as Vinted Profits at some of the UK’s best-known charity shops have plummeted as they face a number of pressures, including from…",
    "published": "2026-10-31T15:10:52+00:00"
   },
   {
@@ -314,30 +890,6 @@
    "published": "2026-10-31T14:54:00+00:00"
   },
   {
-   "id": "763a99da6625",
-   "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
-   "published": "2026-10-31T14:53:34+00:00"
-  },
-  {
-   "id": "062722960b48",
-   "title": "More than 100 protest against Palestine Action ban outside US embassy in London",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/31/protest-against-palestine-action-ban-outside-us-embassy-in-london",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Police start arresting demonstrators with Met commander alleging they are ‘essentially meeting to purposefully commit a crime’ Police have started making arrests at the first mass demonstration under Andy Burnham’s premiership opposing the proscription of Palestine Action. More…",
-   "published": "2026-10-31T14:35:57+00:00"
-  },
-  {
    "id": "b49dd95c9b56",
    "title": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
    "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
@@ -372,18 +924,6 @@
    "category_hint": null,
    "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
    "published": "2026-10-31T14:28:15+00:00"
-  },
-  {
-   "id": "92f071269df9",
-   "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-   "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
-   "published": "2026-10-31T14:26:00+00:00"
   },
   {
    "id": "3c65d14c6ae4",
@@ -1438,7 +1978,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "3A Quarterfinals Richfield 31, Grantsville 7 Richfield (10-2) came out strong in their 3A quarterfinal matchup against Grantsville (7-5), scoring two crucial touchdowns in the span of two minutes in the second quarter, setting the stage for a 31-7 victory. Colton White’s…",
+   "summary": "3A Quarterfinals Richfield 31, Grantsville 7 In a dominant performance, the No. 5 Richfield Wildcats (10-2) avenged their earlier season loss to Grantsville by winning 31-7 in the 3A quarterfinals. Richfield’s explosive ground game, highlighted by Colton White’s electrifying…",
    "published": "2026-10-31T06:02:24+00:00"
   },
   {
@@ -4430,18 +4970,6 @@
    "published": "2026-10-30T12:35:00+00:00"
   },
   {
-   "id": "33e01c5eafae",
-   "title": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
-   "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
-   "published": "2026-10-30T12:30:00+00:00"
-  },
-  {
    "id": "cf0c23606db1",
    "title": "The Cost of Dying: Burial and Cremation Prices by State",
    "link": "https://www.kiplinger.com/retirement/estate-planning/the-cost-of-dying-burial-and-cremation-prices-by-state",
@@ -4692,18 +5220,6 @@
    "category_hint": null,
    "summary": "Forums for discussion of feminist and LGBTQ+ views face growing intolerance from Chinese state, say experts Beijing’s annual independent queer film festival has been cancelled after what is understood to have been a campaign of sustained harassment from authorities. Beijing…",
    "published": "2026-10-30T11:04:12+00:00"
-  },
-  {
-   "id": "9235b881d685",
-   "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-   "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
-   "published": "2026-10-30T11:01:00+00:00"
   },
   {
    "id": "87e226491266",
@@ -6578,18 +7094,6 @@
    "published": "2026-10-29T22:01:56+00:00"
   },
   {
-   "id": "05ea812e5c68",
-   "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-   "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
-   "published": "2026-10-29T21:52:00+00:00"
-  },
-  {
    "id": "9d29d8b0fe9b",
    "title": "You Can See Everything, Halloween Costumes, Mary Peltola",
    "link": "https://reason.com/podcast/2026/10/29/you-can-see-everything-halloween-costumes-mary-peltola/",
@@ -7020,18 +7524,6 @@
    "category_hint": null,
    "summary": "Torn between change and stability, Israelis got neither with Tuesday’s vote.",
    "published": "2026-10-29T19:59:53+00:00"
-  },
-  {
-   "id": "353302274bfd",
-   "title": "What’s the first thing most people do with their 401(k) after they retire? Nothing.",
-   "link": "https://www.marketwatch.com/story/whats-the-first-thing-most-people-do-with-their-401-k-after-they-retire-nothing-8a606518?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Other tax repercussions crop up down the road because balances build up, and RMDs get complicated",
-   "published": "2026-10-29T19:56:00+00:00"
   },
   {
    "id": "71d23e892c58",
@@ -11376,18 +11868,6 @@
    "category_hint": null,
    "summary": "The Winter Classic just got a little cooler. It is, of course, one of the grandest games on the NHL schedule in any given year — and it’s the first outdoor game in the Utah Mammoth’s brief history. But the weekend will have something for non-hockey fans, too. Post Malone will…",
    "published": "2026-10-28T20:18:12+00:00"
-  },
-  {
-   "id": "5116af50e37d",
-   "title": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
-   "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
-   "published": "2026-10-28T20:18:00+00:00"
   },
   {
    "id": "96262edbff4d",
@@ -16620,18 +17100,6 @@
    "category_hint": null,
    "summary": "Tehran remains firm on demands despite diplomatic urgency to prevent escalation in the ongoing US-Israeli conflict.",
    "published": "2026-10-27T15:26:59+00:00"
-  },
-  {
-   "id": "b42490324db7",
-   "title": "How to use I-bonds to create guaranteed, inflation-proof income in retirement",
-   "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "The new I-bond interest rate could be 5.5% or 5.4%, but that shouldn’t change your strategy.",
-   "published": "2026-10-27T15:25:00+00:00"
   },
   {
    "id": "4d4c4c86eddc",
@@ -137317,63 +137785,6 @@
    "flourishing_feed": true,
    "summary": "Researchers have identified 51 environmental solutions to save the planet. Here are five of the most promising The post 51 ways to get the planet tipping the right way appeared first on Positive News .",
    "published": "2026-09-17T05:00:50+00:00"
-  },
-  {
-   "id": "668d7f926c52",
-   "title": "Former Indiana utility regulator calls firing a ‘fishing expedition,’ denies spending allegations",
-   "link": "https://indianacapitalchronicle.com/2026/09/16/former-indiana-utility-regulator-calls-firing-a-fishing-expedition-denies-spending-allegations/",
-   "source": "Indiana Capital Chronicle",
-   "circle_hint": "state",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Andy Zay rejected allegations he misspent campaign money — and said he settled because he didn't have the time or money to continued the lawsuit.",
-   "published": "2026-09-16T19:00:15+00:00"
-  },
-  {
-   "id": "5de613ff679c",
-   "title": "CBO's Panel of Health Advisers, 2026",
-   "link": "https://www.cbo.gov/publication/62757",
-   "source": "Congressional Budget Office",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "summary": "CBO announces the members of its Panel of Health Advisers for this year.",
-   "published": "2026-09-16T19:00:00+00:00"
-  },
-  {
-   "id": "fe283a4d738a",
-   "title": "Federal Reserve issues FOMC statement",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-   "source": "Federal Reserve",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Federal Reserve issues FOMC statement",
-   "published": "2026-09-16T18:00:00+00:00"
-  },
-  {
-   "id": "96bceaa064df",
-   "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-   "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-   "source": "Federal Reserve",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-   "published": "2026-09-16T18:00:00+00:00"
-  },
-  {
-   "id": "c87d0bdefa57",
-   "title": "What to Know About Mail-In Voting for the 2026 Midterms",
-   "link": "https://www.propublica.org/article/mail-in-voting-rules-midterm-elections",
-   "source": "ProPublica",
-   "circle_hint": "national",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "The post What to Know About Mail-In Voting for the 2026 Midterms appeared first on ProPublica .",
-   "published": "2026-09-16T17:15:00+00:00"
   }
  ]
 }
