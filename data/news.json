@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T00:18:07.351984+00:00",
+ "generated": "2026-11-06T06:56:39.421900+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -59,7 +59,7 @@
   {
    "name": "BBC World",
    "ok": true,
-   "count": 21
+   "count": 23
   },
   {
    "name": "The Guardian World",
@@ -94,7 +94,7 @@
   {
    "name": "Federal Register: IRS",
    "ok": true,
-   "count": 30
+   "count": 28
   },
   {
    "name": "Congressional Budget Office",
@@ -134,51 +134,651 @@
  ],
  "items": [
   {
-   "id": "aaeb5639b1df",
-   "title": "Beau Lamarre-Condon trial live updates: former police officer continues evidence in double murder trial",
-   "link": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-   "source": "The Guardian World",
+   "id": "1fa742f0630a",
+   "title": "Macau jails pro-democracy campaigner in city's first national security case",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Lamarre-Condon returns to witness box for day two of his evidence. He’s accused of shooting couple Jesse Baird and Luke Davies in Sydney in 2024 Get our breaking news email , free app or daily news podcast Lamarre-Condon wanted to avoid Baird Lamarre-Condon says he did not want…",
-   "published": "2026-11-06T00:07:58+00:00"
+   "summary": "Au Kam San was sentenced to 12 years and six months' jail for \"subversion against the political power of the state\".",
+   "published": "2026-11-06T06:46:21+00:00"
   },
   {
-   "id": "edfe63dac38d",
-   "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
-   "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+   "id": "38b201db5202",
+   "title": "Who is Kozo Tashima, the Japanese official running for FIFA presidency?",
+   "link": "https://www.aljazeera.com/sports/2026/11/6/kozo-tashima-japan-fifa-president-election-gianni-infantino?traffic_source=rss",
    "source": "Al Jazeera",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Trump again said a major Russia-Ukraine deal is 'very close', but gave no specifics.",
-   "published": "2026-11-06T00:06:31+00:00"
+   "summary": "Tashima has served as a football player, coach and bureaucrat, and has a reputation for being a safe pair of hands.",
+   "published": "2026-11-06T06:43:42+00:00"
+  },
+  {
+   "id": "824b61744ffb",
+   "title": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
+   "link": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "In today’s newsletter: From diverted airliners to hacked ​fridges, a string of disruptive incidents has exposed the ​vulnerabilities of modern ​life. ​There is now an increasingly blurred space between peace and conflict, the grey zone. Good morning. A multiplicity of hoax bomb…",
+   "published": "2026-11-06T06:43:04+00:00"
+  },
+  {
+   "id": "f5e4a61e7a5b",
+   "title": "Judge temporarily halts building work on Trump’s triumphal arch",
+   "link": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Federal judge issues 14-day restraining order on any construction work on Washington monument, hours after it was approved by planning commission A federal judge has halted construction work on Donald Trump’s towering triumphal arch for 14 days, a major setback for one of the…",
+   "published": "2026-11-06T06:36:20+00:00"
+  },
+  {
+   "id": "c88026a9b84d",
+   "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "She was shot on 14 December 2025 during Hanukah festival and had been in and out of hospital since Get our breaking news email , free app or daily news podcast A woman who was shot during the Bondi beach terror attack has died in hospital almost 12 months after the massacre.…",
+   "published": "2026-11-06T06:26:03+00:00"
+  },
+  {
+   "id": "b2d385c02ab5",
+   "title": "Blue wave sweeping Congress grows – as it happened",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "This blog is now closed Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Election night brought a series of dramatic developments, unexpected results and closely contested races across the US. We have put together this video…",
+   "published": "2026-11-06T06:19:03+00:00"
+  },
+  {
+   "id": "fa785fffcec5",
+   "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+   "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in…",
+   "published": "2026-11-06T06:16:22+00:00"
+  },
+  {
+   "id": "605f0ede9a7d",
+   "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
+   "link": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.",
+   "published": "2026-11-06T06:06:24+00:00"
+  },
+  {
+   "id": "b21cb09735be",
+   "title": "The Midterms’ Other Big Loser: AI",
+   "link": "https://thedispatch.com/article/midterms-super-pacs-ai-spending/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Spending by pro-AI super PACs couldn’t overcome the industry’s image problem.",
+   "published": "2026-11-06T06:02:00+00:00"
+  },
+  {
+   "id": "694be8b96bfc",
+   "title": "Josh Shapiro Lays His 2028 Groundwork Close to Home",
+   "link": "https://thedispatch.com/article/josh-shapiro-pennsylvania-reelection-2028/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "How the Pennsylvania governor used the midterms to build political capital.",
+   "published": "2026-11-06T06:02:00+00:00"
+  },
+  {
+   "id": "38d8dc70ea3f",
+   "title": "Did a data centre revolt affect the US mid-term election results?",
+   "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
+   "published": "2026-11-06T06:01:13+00:00"
+  },
+  {
+   "id": "08d1ca2229da",
+   "title": "After the Midterms, It’s Ideological Trigonometry for the Democrats",
+   "link": "https://thedispatch.com/article/midterms-democrats-idological-trigonometry/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Democrats won the midterms with three different kinds of candidates. Keeping that coalition together could be more difficult than winning was.",
+   "published": "2026-11-06T06:01:00+00:00"
   },
   {
    "id": "c0beb4b56091",
-   "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+   "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
-   "published": "2026-11-06T00:05:05+00:00"
+   "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+   "published": "2026-11-06T06:00:59+00:00"
+  },
+  {
+   "id": "402519e27b05",
+   "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
+   "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Nine British nationals were among the 15 people who died when fire ripped through the village of Bédar this summer.",
+   "published": "2026-11-06T06:00:46+00:00"
+  },
+  {
+   "id": "84f3d6eeba5d",
+   "title": "Minister tells energy suppliers to do more to help households tackle unpaid bills this winter",
+   "link": "https://www.theguardian.com/business/2026/nov/06/minister-energy-suppliers-help-households-unpaid-bills-debt-relief",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Bosses from Great Britain’s biggest energy companies called to meeting as part of government’s debt relief plan An energy minister has told the bosses of Great Britain’s biggest energy suppliers to do more to help households get on top of their unpaid energy bills this winter,…",
+   "published": "2026-11-06T06:00:44+00:00"
+  },
+  {
+   "id": "cd93e4041065",
+   "title": "Police turn to charities for help with teenagers caught up in online child abuse",
+   "link": "https://www.theguardian.com/society/2026/nov/06/police-charities-pornography-online-child-abuse",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "As new pornography laws come into force, officers say viewing extreme content could lead young people towards abuse images Police forces are turning to specialist charities and partner agencies to cope with the growing number of teenagers caught up in online child abuse. As new…",
+   "published": "2026-11-06T06:00:44+00:00"
+  },
+  {
+   "id": "c15b1fa9a301",
+   "title": "The Countdown to the End of the War in Iran",
+   "link": "https://thedispatch.com/article/midterms-iran-war-trump-congress/",
+   "source": "The Dispatch",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "If Trump doesn’t end the war, Congress will.",
+   "published": "2026-11-06T06:00:00+00:00"
+  },
+  {
+   "id": "4638cd546e34",
+   "title": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
+   "published": "2026-11-06T05:59:54+00:00"
+  },
+  {
+   "id": "54dea1be6b14",
+   "title": "US Justice Department sues Penn State over undocumented students’ tuition",
+   "link": "https://www.aljazeera.com/news/2026/11/6/us-justice-department-sues-penn-state-over-undocumented-students-tuition?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The lawsuit challenges Penn State's policy that allows undocumented students to qualify for reduced tuition rates.",
+   "published": "2026-11-06T05:57:27+00:00"
+  },
+  {
+   "id": "23708090426b",
+   "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024 The day in court: Prosecution begins cross-examination of double murder accused Beau Lamarre-Condon Beau Lamarre-Condon “stands by” his decision…",
+   "published": "2026-11-06T05:17:05+00:00"
+  },
+  {
+   "id": "e3cb7a4059dd",
+   "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
+   "link": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Trump administration hoped to begin construction immediately after a federal panel approved its arch late Thursday. But just after midnight, the judge issued an order blocking work for 14 days.",
+   "published": "2026-11-06T05:05:43+00:00"
+  },
+  {
+   "id": "bfa3680c9519",
+   "title": "Why one Republican won a redrawn Texas district despite blue tsunami",
+   "link": "https://www.aljazeera.com/news/2026/11/6/why-one-republican-won-a-redrawn-texas-district-despite-blue-tsunami?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Republican redistricting largely backfired in Texas and beyond, but one redrawn district delivered for the party.",
+   "published": "2026-11-06T05:03:57+00:00"
+  },
+  {
+   "id": "78d3472e60ec",
+   "title": "What went right this week: the good news that matters",
+   "link": "https://www.positive.news/society/good-news-stories-from-week-45-of-2026/",
+   "source": "Positive News",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": true,
+   "category_hint": "good_in_world",
+   "summary": "Nature was restored at ‘unprecedented scale’, Barbados halted HIV transmission in babies, and a fuel revolution picked up speed, plus more The post What went right this week: the good news that matters appeared first on Positive News .",
+   "published": "2026-11-06T05:00:54+00:00"
+  },
+  {
+   "id": "e5717fc7abd4",
+   "title": "Iraq’s al-Zaidi talks to Trump as Baghdad seeks to stay out of war on Iran",
+   "link": "https://www.aljazeera.com/news/2026/11/6/iraqs-al-zaidi-talks-to-trump-as-baghdad-seeks-to-stay-out-of-war-on-iran?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Call comes as Iraq's top diplomat urges armed groups not to join any Iranian retaliation to US attacks.",
+   "published": "2026-11-06T05:00:47+00:00"
+  },
+  {
+   "id": "d6a510489328",
+   "title": "Trump issues proclamation declaring Oval Office national monument",
+   "link": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Following election losses, the signing marks Trump's third event of the week focused on signature renovation projects.",
+   "published": "2026-11-06T04:48:00+00:00"
+  },
+  {
+   "id": "b739dcae1dc7",
+   "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Anthony Albanese’s government has taken a blow due to Iran war but voter anxiety around cost of living and datacentres may hit harder Get our daily political email , free app or daily news podcast The Democrats’ stunning midterm victory should broaden Australia’s alliance with…",
+   "published": "2026-11-06T04:45:24+00:00"
+  },
+  {
+   "id": "29f9807f818f",
+   "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
+   "link": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
+   "published": "2026-11-06T04:30:26+00:00"
+  },
+  {
+   "id": "462c6288e813",
+   "title": "Trump signs order preventing future presidents from changing Oval Office",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
+   "published": "2026-11-06T04:29:25+00:00"
+  },
+  {
+   "id": "900b45d003bd",
+   "title": "Democratic Socialist Nithya Raman wins LA mayoral race",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/democratic-socialist-nithya-raman-wins-la-mayoral-race?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Nithya Raman's victory in LA marks the second major win for Democratic Socialists in a year.",
+   "published": "2026-11-06T04:29:04+00:00"
+  },
+  {
+   "id": "75dcc31bfecb",
+   "title": "Building wind turbines out of parts found in Gaza’s rubble",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Palestinians in Gaza have made wind turbines to generate electricity, using scraps found in the rubble.",
+   "published": "2026-11-06T04:20:22+00:00"
+  },
+  {
+   "id": "57be31500106",
+   "title": "Logan Cooley’s record-breaking hat trick stokes debate: Who should have gone 1st in the 2022 draft?",
+   "link": "https://www.deseret.com/sports/2026/11/05/utah-mammoth-lose-5-4-in-overtime-to-montreal-canadiens/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "When the Seattle Kraken called Shane Wright’s name with the fourth overall pick at the 2022 NHL Draft, he was visibly shaken. It’s not that he didn’t want to go to Seattle, but rather that for the previous half-decade of his life, he was “supposed” to be that year’s first pick.…",
+   "published": "2026-11-06T04:17:52+00:00"
+  },
+  {
+   "id": "b80ee0b0f34d",
+   "title": "Paraguay’s president impeached amid bank collapse crisis",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Lawmakers have voted to impeach Paraguay’s President Santiago Pena amid a banking collapse that has roiled the country.",
+   "published": "2026-11-06T03:49:33+00:00"
+  },
+  {
+   "id": "51f41770a322",
+   "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+   "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+   "published": "2026-11-06T03:15:00+00:00"
+  },
+  {
+   "id": "2cc9d1550688",
+   "title": "A perfume shop on wheels is betting on the in-person shopping trip",
+   "link": "https://www.deseret.com/utah/2026/11/05/le-labo-on-wheels-brings-in-person-perfume-shopping-to-utah/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "One of Google’s most memorable April Fools’ pranks was 2013’s Google Nose, which offered a scent experience for search engines. As helpful as that would be for bakeries and perfumeries trying to sell their goods online, that technology has yet to become a reality. In the…",
+   "published": "2026-11-06T03:01:00+00:00"
+  },
+  {
+   "id": "b062b2819cee",
+   "title": "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+   "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
+   "published": "2026-11-06T03:00:00+00:00"
+  },
+  {
+   "id": "4424f2cb2dbe",
+   "title": "2 celebrities on ‘Who Wants to Be a Millionaire’ got stumped on the $500,000 question. Then they called Ken Jennings",
+   "link": "https://www.deseret.com/entertainment/2026/11/05/who-wants-to-be-a-millionaire-ken-jennings-lifeline-colin-jost-michael-che/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "When Ken Jennings and Matt Damon cruised to victory on “Who Wants to Be a Millionaire” last season, Damon was quick to acknowledge the person who did most of the heavy lifting. “It is so awesome having Ken Jennings as your partner in a trivia game,” the “Good Will Hunting”…",
+   "published": "2026-11-06T02:48:59+00:00"
+  },
+  {
+   "id": "89aed8ed743f",
+   "title": "Iran’s security chief meets Putin, delivers message from Khamenei",
+   "link": "https://www.aljazeera.com/news/2026/11/6/irans-security-chief-meets-putin-delivers-message-from-khamenei?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Putin meets Iran's top security official to discuss regional security and receives a letter from Mojtaba Khamenei.",
+   "published": "2026-11-06T02:48:19+00:00"
+  },
+  {
+   "id": "aaeb5639b1df",
+   "title": "Beau Lamarre-Condon trial: prosecution begins cross-examination of double murder accused – as it happened",
+   "link": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "This blog has now closed Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’ Get our breaking news email , free app or daily news podcast Lamarre-Condon tells the court he had seen what he assumed to be someone’s…",
+   "published": "2026-11-06T02:30:00+00:00"
+  },
+  {
+   "id": "d875f3c51383",
+   "title": "Liberal bus crashes into shop awning on its first outing of Victorian election campaign",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/06/liberal-jess-wilson-campaign-bus-crashes-into-shop-first-day-victorian-election",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Opposition leader Jess Wilson grimaces as the ‘Jess Express’, carrying Liberals and reporters, backs into the structure in suburban Melbourne Get our breaking news email , free app or daily news podcast The Victorian Liberal party’s first offical day on the campaign trail has…",
+   "published": "2026-11-06T02:28:02+00:00"
+  },
+  {
+   "id": "70c2d1cce37e",
+   "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+   "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
+   "published": "2026-11-06T02:08:57+00:00"
+  },
+  {
+   "id": "81ab69ab79c5",
+   "title": "Gaza turns discarded cooking pots into seawalls",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "As winter approaches, Palestinians in Gaza are turning damaged cooking pots into makeshift seawalls to avoid flooding.",
+   "published": "2026-11-06T02:03:47+00:00"
+  },
+  {
+   "id": "f87b4b52010e",
+   "title": "Hunley’s vision for Indy: free pre-K and 30,000 new homes",
+   "link": "https://mirrorindy.org/indianapolis-mayor-candidate-andrea-hunley-unveils-policies-joe-hogsett-vop-osili/",
+   "source": "Mirror Indy",
+   "circle_hint": "state",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The Democratic mayoral candidate laid out her policy priorities Nov. 5. The post Hunley’s vision for Indy: free pre-K and 30,000 new homes appeared first on Mirror Indy .",
+   "published": "2026-11-06T02:00:41+00:00"
+  },
+  {
+   "id": "e8c0c67decf9",
+   "title": "California governor commutes sentences of more than 500 people on death row",
+   "link": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history.",
+   "published": "2026-11-06T01:39:35+00:00"
+  },
+  {
+   "id": "c9f02ed29f7f",
+   "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+   "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+   "published": "2026-11-06T01:28:03+00:00"
+  },
+  {
+   "id": "8ee71cf200b4",
+   "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+   "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m More than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said. The spiders were hidden inside dirty socks contained in…",
+   "published": "2026-11-06T01:22:49+00:00"
+  },
+  {
+   "id": "cd39b9bf44be",
+   "title": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
+   "link": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Iren announced a new cloud-computing deal and noted that much of its backlog is tied to “investment-grade counterparties.”",
+   "published": "2026-11-06T01:07:00+00:00"
+  },
+  {
+   "id": "cdaa8dc0ee5d",
+   "title": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
+   "link": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
+   "source": "MarketWatch",
+   "circle_hint": "national",
+   "domain_feed": true,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Demand for automated AI protection is on the rise — and manifesting in Cloudflare’s earnings results.",
+   "published": "2026-11-06T01:06:00+00:00"
+  },
+  {
+   "id": "5b9a5fed3d8b",
+   "title": "Trump signs proclamation to try to prevent changes to gold-covered Oval Office",
+   "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-oval-office-design-proclamation",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "President seeks to make Oval Office a national monument to ensure designs are not ‘ripped down by stupid people’ Donald Trump signed a proclamation on Thursday that he says will prevent future administrations from changing his design of the Oval Office and Cabinet Room, spaces…",
+   "published": "2026-11-06T00:29:06+00:00"
+  },
+  {
+   "id": "d85e0362da0f",
+   "title": "Alabama, Florida and Indiana carry out executions on same day",
+   "link": "https://www.theguardian.com/us-news/2026/nov/05/executions-florida-alabama-indiana",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Unusual instance of three states administering the death penalty on the same day previously happened in 2010 Alabama, Florida and Indiana all carried out executions on Thursday in an unusual instance of three states administering the death penalty on the same day. In a…",
+   "published": "2026-11-06T00:27:20+00:00"
+  },
+  {
+   "id": "ed7aaf167d18",
+   "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah.",
+   "published": "2026-11-06T00:19:57+00:00"
+  },
+  {
+   "id": "84abf3b6ae80",
+   "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
+   "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers.",
+   "published": "2026-11-06T00:16:53+00:00"
+  },
+  {
+   "id": "e59b7ed0ae56",
+   "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+   "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Parliament's approval lays the groundwork for further Turkish involvement in Saudi Arabia's conflict with the Houthis.",
+   "published": "2026-11-06T00:15:22+00:00"
+  },
+  {
+   "id": "edfe63dac38d",
+   "title": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+   "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Though the US president said deal was 'very close', he gave no specifics and did not meet visiting Ukrainian delegation.",
+   "published": "2026-11-06T00:06:31+00:00"
   },
   {
    "id": "178f800c3b06",
-   "title": "Policing faces inevitable decline unless number of forces in England and Wales is slashed – Met chief",
+   "title": "Slashing number of police forces in England and Wales is only option, says Met chief",
    "link": "https://www.theguardian.com/uk-news/2026/nov/05/cut-number-of-police-forces-england-hogan-howe-review",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Sir Mark Rowley calls for ‘third greatest revolution in policing’ as major review is expected to propose creation of regional ‘super forces’ Police are heading for failure unless the number of forces in England and Wales is slashed, with their ability to catch criminals…",
+   "summary": "Mark Rowley calls for ‘revolution’ in policing as major review is expected to propose regional ‘super forces’ Police are heading for failure unless the number of forces in England and Wales is slashed, with their ability to catch criminals collapsing and public confidence…",
    "published": "2026-11-06T00:04:37+00:00"
   },
   {
@@ -192,6 +792,18 @@
    "category_hint": null,
    "summary": "Democrats are poised to have a strong majority in the upcoming Congress. The final numbers are still being determined. Here's where things stand in the races that are waiting to be called by the AP.",
    "published": "2026-11-06T00:03:45+00:00"
+  },
+  {
+   "id": "d81699aabec8",
+   "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+   "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+   "published": "2026-11-06T00:02:57+00:00"
   },
   {
    "id": "040b50d57b26",
@@ -230,42 +842,6 @@
    "published": "2026-11-05T23:52:48+00:00"
   },
   {
-   "id": "cdaa8dc0ee5d",
-   "title": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
-   "link": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Demand for automated AI protection is on the rise — and manifesting in Cloudflare’s earnings results.",
-   "published": "2026-11-05T23:50:00+00:00"
-  },
-  {
-   "id": "b2d385c02ab5",
-   "title": "US elections 2026 live: Democrats hold nearly 100 more House seats than Republicans as blue wave continues to grow",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Democrats widen gap in House chamber by flipping more seats, including in Ohio, Arizona and North Carolina; Ted Cruz calls election a ‘Watergate-level repudiation’ Live results | Q&A: Ask your questions about Democrats’ win Sign up for Breaking News US email Election night…",
-   "published": "2026-11-05T23:49:39+00:00"
-  },
-  {
-   "id": "d85e0362da0f",
-   "title": "Florida puts man to death as three US executions scheduled for same day",
-   "link": "https://www.theguardian.com/us-news/2026/nov/05/executions-florida-alabama-indiana",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Indiana executed a man hours earlier, and in Alabama, a man was scheduled to die by injection later Florida carried out a record-tying 19th execution of the year on Thursday in an unusual instance of three states administering the death penalty on the same day. Jesse Guardado…",
-   "published": "2026-11-05T23:48:04+00:00"
-  },
-  {
    "id": "e02fb53b932e",
    "title": "Here are the 2027 capital-gains tax rates for each income level",
    "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
@@ -286,7 +862,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "DSA-backed Raman will lead America's second largest city, promising action on homelessness and affordable housing.",
+   "summary": "DSA-backed Raman will lead the second-largest US city, promising action on homelessness and affordable housing.",
    "published": "2026-11-05T23:46:52+00:00"
   },
   {
@@ -444,18 +1020,6 @@
    "category_hint": null,
    "summary": "Another lucrative sponsorship is coming to BYU Athletics beginning this weekend. On Thursday, the university announced it has come to a multi-year agreement with insurance brokerage Trucordia to place the company’s logo on BYU football helmet bumpers. The new sponsorship will…",
    "published": "2026-11-05T22:22:19+00:00"
-  },
-  {
-   "id": "cd39b9bf44be",
-   "title": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
-   "link": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Iren announced a new cloud-computing deal and noted that much of its backlog is tied to “investment-grade counterparties.”",
-   "published": "2026-11-05T22:21:00+00:00"
   },
   {
    "id": "6d560fe7bab1",
@@ -1071,7 +1635,7 @@
   },
   {
    "id": "e4c83d4954a9",
-   "title": "Sportiqe’s Utah roots run deep. Now its teaming up with the Utah Utes",
+   "title": "Sportiqe’s Utah roots run deep. Now it’s teaming up with the Utah Utes",
    "link": "https://www.deseret.com/sports/2026/11/05/sportiques-utah-roots-run-deep-its-teaming-with-utah-utes/",
    "source": "Deseret News",
    "circle_hint": "national",
@@ -1176,18 +1740,6 @@
    "category_hint": null,
    "summary": "While NHS is identifying more cases, it is failing to meet timescale targets on diagnosis and treatment, experts say Cancer diagnoses in England have hit record highs, with more than 1,000 people a day diagnosed, NHS figures show. But experts warned that although the health…",
    "published": "2026-11-05T18:49:25+00:00"
-  },
-  {
-   "id": "fa785fffcec5",
-   "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
-   "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in…",
-   "published": "2026-11-05T18:48:07+00:00"
   },
   {
    "id": "ee34a295b1d8",
@@ -1383,14 +1935,14 @@
   },
   {
    "id": "155e203a7518",
-   "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+   "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
    "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel Why have more than 30 European flights been hit by bomb threats this week? Hoax bomb threats have caused at least 25 flights across Europe to be disrupted, with some forced to…",
+   "summary": "Planes forced into emergency landings or diversions two days after hoax alerts affected air travel Why have more than 30 European flights been hit by bomb threats this week? Hoax bomb threats have disrupted at least 34 flights across Europe this week, with some forced to make…",
    "published": "2026-11-05T18:17:36+00:00"
   },
   {
@@ -1407,14 +1959,14 @@
   },
   {
    "id": "b4dcd993f868",
-   "title": "Eisenkot backed by more than half of Knesset but Herzog still unsure who should be prime minister",
+   "title": "Israel’s Herzog yet to decide on who should form government as Eisenkot secures significant backing",
    "link": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision",
    "source": "The Guardian World",
    "circle_hint": "international",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Netanyahu rival endorsed by 67 lawmakers but Israeli president says it is still not clear who could break deadlock Gadi Eisenkot, the main rival to Benjamin Netanyahu, secured endorsements on Thursday from a majority of lawmakers to try to form a government but Israel’s…",
+   "summary": "President says he will make a decision on Sunday about who should try to build a government as Netanyahu rival is endorsed by 67 lawmakers Gadi Eisenkot, the main rival to Benjamin Netanyahu, secured endorsements on Thursday from a majority of lawmakers to try to form a…",
    "published": "2026-11-05T18:13:01+00:00"
   },
   {
@@ -4106,18 +4658,6 @@
    "published": "2026-11-04T23:50:34+00:00"
   },
   {
-   "id": "b062b2819cee",
-   "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
-   "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
-   "published": "2026-11-04T23:45:00+00:00"
-  },
-  {
    "id": "644131b2557e",
    "title": "Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say",
    "link": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
@@ -4404,18 +4944,6 @@
    "category_hint": null,
    "summary": "Buy a plate of the restaurant’s biscuits and gravy and get the recipe on Nov. 7. The post Say goodbye to Parkside Public House with a meal appeared first on Mirror Indy .",
    "published": "2026-11-04T22:17:25+00:00"
-  },
-  {
-   "id": "51f41770a322",
-   "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-   "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-   "source": "MarketWatch",
-   "circle_hint": "national",
-   "domain_feed": true,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
-   "published": "2026-11-04T22:15:00+00:00"
   },
   {
    "id": "041cd889a293",
@@ -155611,17 +156139,6 @@
    "flourishing_feed": true,
    "summary": "A striking shot of a gannet flying through the water is among the winners of this year’s award The post Gallery: winning pictures from Bird Photographer of the Year appeared first on Positive News .",
    "published": "2026-09-22T07:00:14+00:00"
-  },
-  {
-   "id": "1e2954a69640",
-   "title": "‘What we have is unique’: the Indian craftsmanship behind global luxury fashion",
-   "link": "https://www.theguardian.com/world/2026/sep/21/the-indian-craftsmanship-behind-luxury-fashion",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "summary": "Generations of artisans from Mumbai to Lucknow have shaped the world’s most coveted designs. Plus, the gen Z memes giving classic Bollywood a new life • Don’t get This is India delivered to your inbox? Sign up here The zardozi embroidery on a Dior dress, the T-strap leather…",
-   "published": "2026-09-22T06:30:37+00:00"
   }
  ]
 }
