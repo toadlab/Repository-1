@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-08",
+ "type": "reflection",
+ "circle": "hyperlocal",
+ "generated": "2026-11-08T05:25:19.939596-05:00",
+ "emergencies": [],
+ "inspiring": [
+  {
+   "id": "a0888cd9ee24",
+   "title": "The Spark: When Communities Own the Land, Housing Stays Affordable",
+   "link": "https://reasonstobecheerful.world/the-spark-community-land-trusts/",
+   "source": "Reasons to be Cheerful",
+   "published": "2026-11-06T08:00:21+00:00",
+   "summary": "",
+   "circle": "international",
+   "category": "good_in_world",
+   "story_key": "spark-when-communities-own-land",
+   "composite": 5.75,
+   "bar": 9.0,
+   "decision": "exclude",
+   "reason": "Keyword estimate (no Claude API key configured).",
+   "flourishing": 7,
+   "domain": 0,
+   "durability": 4,
+   "review_status": "unreviewed",
+   "review_reason": "",
+   "author": null,
+   "label": "headline only, not reviewed",
+   "why_it_matters": "",
+   "talk_to": ""
+  }
+ ],
+ "scored_by": [
+  "heuristic"
+ ],
+ "category_counts": {
+  "finance": 0,
+  "good_in_world": 1,
+  "other": 0
+ }
+}
