@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T22:46:13.845811+00:00",
+ "generated": "2026-11-08T02:30:23.190057+00:00",
  "feeds": [
   {
    "name": "Indiana Capital Chronicle",
@@ -134,16 +134,40 @@
  ],
  "items": [
   {
-   "id": "2836ed32ece6",
-   "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
-   "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-   "source": "The Guardian World",
-   "circle_hint": "international",
+   "id": "cb8c7d763a0a",
+   "title": "High school football: Tayon Blackburn rallies Milford past Monticello for 1A 8-player semifinal victory",
+   "link": "https://www.deseret.com/sports/2026/11/07/high-school-football-1a-8-player-monticello-milford/",
+   "source": "Deseret News",
+   "circle_hint": "national",
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injured Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage and murderous…",
-   "published": "2026-11-07T22:32:41+00:00"
+   "summary": "For the second time this season, Milford put together an impressive come-from-behind victory over Monticello, this time in the 1A 8-player semifinals on Saturday. After rallying from a 16-point deficit at halftime in the regular season, No. 2 seed Milford overcame 12-point…",
+   "published": "2026-11-08T02:21:08+00:00"
+  },
+  {
+   "id": "2684c96b3f73",
+   "title": "What Kalani Sitake said about Morgan Scalley and Devon Dampier after BYU lost to Utah",
+   "link": "https://www.deseret.com/sports/2026/11/07/byu-loses-at-utah-kalani-sitake-postgame-comments/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The first Kalani Sitake vs. Morgan Scalley BYU-Utah matchup ended with Sitake taking a loss to his close friend. Sitake’s Cougars fell to Scalley’s Utes by a 28-20 score Saturday in Salt Lake City, continuing Utah’s undefeated season and snapping BYU’s three-game rivalry win…",
+   "published": "2026-11-08T02:03:40+00:00"
+  },
+  {
+   "id": "6e9886646d83",
+   "title": "High school football: Morgan scores 37 unanswered points to beat Richfield, return to 3A title game",
+   "link": "https://www.deseret.com/sports/2026/11/07/high-school-football-3a-semifinal-richfield-morgan/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Morgan’s first four possessions Saturday in the 3A semifinals ended with an interception, two turnovers on downs and a lost fumble. Richfield turned the two takeaways into nine points, and the Trojans were still looking for their first score when the second quarter began, but…",
+   "published": "2026-11-08T01:52:26+00:00"
   },
   {
    "id": "10a11a207755",
@@ -154,8 +178,176 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
-   "published": "2026-11-07T22:27:30+00:00"
+   "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+   "published": "2026-11-08T01:47:41+00:00"
+  },
+  {
+   "id": "403053207322",
+   "title": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
+   "link": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "El Hierro asks Spanish government for help after more than 3,300 people arrived on boats since start of November.",
+   "published": "2026-11-08T01:37:55+00:00"
+  },
+  {
+   "id": "f3c870c1eac8",
+   "title": "Utah State runs past tired Omaha for 2nd win of the season",
+   "link": "https://www.deseret.com/sports/2026/11/07/utah-state-runs-past-tired-omaha-for-2nd-win-of-the-season/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "To no one’s surprise, playing two games in the Beehive State in less than 24 hours didn’t work out so well for the Omaha Mavericks. Utah State routed the Summit League team 90-56 Saturday afternoon at the Spectrum in a game that tipped off just 17 hours after the final buzzer…",
+   "published": "2026-11-08T01:26:13+00:00"
+  },
+  {
+   "id": "e5980b093e3f",
+   "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+   "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time New Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either…",
+   "published": "2026-11-08T01:00:48+00:00"
+  },
+  {
+   "id": "ae905b2cfb5f",
+   "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.",
+   "published": "2026-11-08T00:50:28+00:00"
+  },
+  {
+   "id": "837013ea750f",
+   "title": "Analysis: Devon Dampier leads Utah to its most important win over BYU since 2008",
+   "link": "https://www.deseret.com/sports/2026/11/07/analysis-utah-utes-beat-byu-cougars-devon-dampier/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Devon Dampier climbed onto a box amid the thousands of red-clad Utah fans who had stormed the Rice-Eccles Stadium field, flashed a “U” and let out a celebratory yell. These were the moments that Dampier came back to Salt Lake City for. Devon Dampier celebrates the win over BYU…",
+   "published": "2026-11-08T00:31:32+00:00"
+  },
+  {
+   "id": "9ed743c29c2e",
+   "title": "Homelessness in the U.S. saw its largest drop in more than a decade last year",
+   "link": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Homelessness declined after years of record-high levels but it still remains at nearly 700,000. The Trump administration and homeless advocacy groups cite different reasons for the drop.",
+   "published": "2026-11-08T00:19:52+00:00"
+  },
+  {
+   "id": "acbc26952a99",
+   "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMs Get our daily political email , free app or daily news podcast Four heritage-listed defence sites, including Sydney’s Victoria Barracks, will remain in public…",
+   "published": "2026-11-08T00:17:28+00:00"
+  },
+  {
+   "id": "99179248bf96",
+   "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
+   "published": "2026-11-08T00:00:56+00:00"
+  },
+  {
+   "id": "5447f2de61c4",
+   "title": "‘Grateful for the players’: What Morgan Scalley said after his first victory against BYU as Utah head coach",
+   "link": "https://www.deseret.com/sports/2026/11/07/what-morgan-scalley-said-after-defeating-kalani-sitake-and-byu/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "The first half of Saturday’s marquee matchup between No. 3 Utah and No. 9 BYU was a bit of a roller coaster, as Utah quickly jumped out to a two-touchdown lead before relinquishing it to a 20-point BYU run before halftime. However, Morgan Scalley’s Utes scored another two…",
+   "published": "2026-11-07T23:57:38+00:00"
+  },
+  {
+   "id": "c9a2b72565b6",
+   "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+   "source": "Al Jazeera",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
+   "published": "2026-11-07T23:45:45+00:00"
+  },
+  {
+   "id": "490dec2cb545",
+   "title": "Analysis: Turnovers, missed tackles and lack of discipline cost No. 9 BYU a chance to upset No. 3 Utah",
+   "link": "https://www.deseret.com/sports/2026/11/07/analysis-byu-utah-utes-cougars-rivalry-game-rice-eccles-stadium-big-12-cfp-turnovers/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "A lot of numbers were thrown around before No. 9 BYU traveled to No. 3 Utah in the most significant football rivalry game in the long, heated and often tumultuous series between the Beehive State foes. When it was over in front of 52,901 at Rice-Eccles Stadium, only one digit…",
+   "published": "2026-11-07T23:34:32+00:00"
+  },
+  {
+   "id": "a1ef8b7275c2",
+   "title": "High school football: Wilkes Weston accounts for 6 touchdowns as Rich advances to 8-player title game",
+   "link": "https://www.deseret.com/sports/2026/11/07/high-school-football-1a-8-player-semifinal-water-canyon-rich/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Wilkes Weston threw for three touchdowns and ran for three more as Rich beat Water Canyon 45–12 in Saturday’s 8-player football semifinals at Zions Bank Stadium. The Rebels will play for their fourth straight state championship next week at Southern Utah University against the…",
+   "published": "2026-11-07T23:09:46+00:00"
+  },
+  {
+   "id": "99da9a3d9290",
+   "title": "3 takeaways from Utah’s rivalry game victory over BYU",
+   "link": "https://www.deseret.com/sports/2026/11/07/3-takeaways-from-utahs-victory-over-byu/",
+   "source": "Deseret News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "As usual, the expected happened Saturday morning and early afternoon at Rice-Eccles Stadium in Salt Lake City. That is, if the expected was to expect the unexpected. After Utah jumped out to a 14-0 start with a couple explosive plays, BYU responded by racking up a 20-point run…",
+   "published": "2026-11-07T22:52:55+00:00"
+  },
+  {
+   "id": "2836ed32ece6",
+   "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
+   "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+   "source": "The Guardian World",
+   "circle_hint": "international",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injured Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage and murderous…",
+   "published": "2026-11-07T22:32:41+00:00"
   },
   {
    "id": "7010193096d3",
@@ -166,7 +358,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Valverde and Guler's first half goals put Madrid in the driving seat and Mbappe added a third in the second half.",
+   "summary": "Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.",
    "published": "2026-11-07T22:21:58+00:00"
   },
   {
@@ -180,6 +372,18 @@
    "category_hint": null,
    "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
    "published": "2026-11-07T22:19:59+00:00"
+  },
+  {
+   "id": "5947a5fa90aa",
+   "title": "The surprising and often forgotten history of economic populism in Texas",
+   "link": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
+   "source": "NPR News",
+   "circle_hint": "national",
+   "domain_feed": false,
+   "flourishing_feed": false,
+   "category_hint": null,
+   "summary": "NPR's Rob Schmitz speaks with Austin-based political commentator David Griscom. He authored a book titled The Myth of Red Texas which tells the story of economic populism in Texas.",
+   "published": "2026-11-07T22:12:07+00:00"
   },
   {
    "id": "d16142210881",
@@ -202,7 +406,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Suspect was influenced by far-right ideology and held ‘ultra-nationalistic’ views, says Polish interior minister Kraków shooting – latest updates Six people have been killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what…",
+   "summary": "Suspect was influenced by far-right ideology and held ‘ultra-nationalistic’ views, says Polish interior minister Six people have been killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called…",
    "published": "2026-11-07T21:19:01+00:00"
   },
   {
@@ -555,7 +759,7 @@
   },
   {
    "id": "d72119534799",
-   "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+   "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, authorities say",
    "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
    "source": "NPR News",
    "circle_hint": "national",
@@ -586,7 +790,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+   "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
    "published": "2026-11-07T18:14:38+00:00"
   },
   {
@@ -598,7 +802,7 @@
    "domain_feed": false,
    "flourishing_feed": false,
    "category_hint": null,
-   "summary": "Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu.",
+   "summary": "Vatican says some 40,000 Catholic faithful attended the pontiff's service in Uruguay's western city of Paysandu.",
    "published": "2026-11-07T18:00:21+00:00"
   },
   {
@@ -1236,18 +1440,6 @@
    "category_hint": null,
    "summary": "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.",
    "published": "2026-11-07T13:50:15+00:00"
-  },
-  {
-   "id": "e5980b093e3f",
-   "title": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
-   "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
-   "source": "The Guardian World",
-   "circle_hint": "international",
-   "domain_feed": false,
-   "flourishing_feed": false,
-   "category_hint": null,
-   "summary": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time New Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either…",
-   "published": "2026-11-07T13:48:18+00:00"
   },
   {
    "id": "64ce7cad7701",
