@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-15",
+ "type": "reflection",
+ "circle": "hyperlocal",
+ "generated": "2026-11-15T12:12:44.177088-05:00",
+ "emergencies": [],
+ "inspiring": [
+  {
+   "id": "a8fa41f3dd7a",
+   "title": "361: The Motherload. Midterms. Mongolia. Manta.",
+   "link": "https://substack.fixthenews.com/p/361-the-motherload-midterms-mongolia",
+   "source": "Fix the News",
+   "published": "2026-11-13T01:05:12+00:00",
+   "summary": "",
+   "circle": "international",
+   "category": "good_in_world",
+   "story_key": "361-motherload-midterms-mongolia-manta",
+   "composite": 5.75,
+   "bar": 9.0,
+   "decision": "exclude",
+   "reason": "Keyword estimate (no Claude API key configured).",
+   "flourishing": 7,
+   "domain": 0,
+   "durability": 4,
+   "review_status": "unreviewed",
+   "review_reason": "",
+   "author": null,
+   "label": "headline only, not reviewed",
+   "why_it_matters": "",
+   "talk_to": ""
+  }
+ ],
+ "scored_by": [
+  "heuristic"
+ ],
+ "category_counts": {
+  "finance": 0,
+  "good_in_world": 1,
+  "other": 0
+ }
+}
