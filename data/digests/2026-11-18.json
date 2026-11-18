@@ -1,0 +1,3927 @@
+{
+ "date": "2026-11-18",
+ "type": "pulse",
+ "circle": "state",
+ "generated": "2026-11-18T09:01:13.304863-05:00",
+ "emergencies": [],
+ "pulse": [
+  {
+   "id": "0e714adfc9a2",
+   "title": "How to Avoid a Mutual Fund Tax Hit at Year-End",
+   "link": "https://www.kiplinger.com/investing/mutual-funds/how-to-avoid-a-mutual-fund-tax-hit-at-year-end",
+   "source": "Kiplinger",
+   "published": "2026-11-17T18:55:00+00:00",
+   "summary": "",
+   "circle": "national",
+   "category": "finance",
+   "story_key": "avoid-mutual-fund-tax-hit",
+   "composite": 10.5,
+   "bar": 8.0,
+   "decision": "include",
+   "reason": "Keyword estimate (no Claude API key configured).",
+   "flourishing": 0,
+   "domain": 10,
+   "durability": 7,
+   "review_status": "unreviewed",
+   "review_reason": "",
+   "author": null,
+   "label": "headline only, not reviewed",
+   "why_it_matters": "",
+   "talk_to": ""
+  },
+  {
+   "id": "9b512a07f6ca",
+   "title": "What We’re Reading: Phone Bans Are Improving Kids’ Test Scores",
+   "link": "https://reasonstobecheerful.world/what-were-reading-phone-bans-improving-test-scores/",
+   "source": "Reasons to be Cheerful",
+   "published": "2026-11-18T08:00:04+00:00",
+   "summary": "",
+   "circle": "international",
+   "category": "good_in_world",
+   "story_key": "we-re-reading-phone-bans",
+   "composite": 5.75,
+   "bar": 9.0,
+   "decision": "exclude",
+   "reason": "Keyword estimate (no Claude API key configured).",
+   "flourishing": 7,
+   "domain": 0,
+   "durability": 4,
+   "review_status": "unreviewed",
+   "review_reason": "",
+   "author": null,
+   "label": "headline only, not reviewed",
+   "why_it_matters": "",
+   "talk_to": ""
+  }
+ ],
+ "spotlight": {
+  "circle": "state",
+  "items": [
+   {
+    "id": "e8fb9d6f293b",
+    "title": "States split over EPA’s proposal to drop greenhouse gas rules for power plants",
+    "link": "https://indianacapitalchronicle.com/2026/11/18/repub/states-split-over-epas-proposal-to-drop-greenhouse-gas-rules-for-power-plants/",
+    "source": "Indiana Capital Chronicle",
+    "published": "2026-11-18T09:00:01+00:00",
+    "summary": "",
+    "circle": "state",
+    "category": "other",
+    "story_key": "states-split-over-epa-s",
+    "composite": 7.0,
+    "bar": 6.0,
+    "decision": "include",
+    "reason": "Keyword estimate (no Claude API key configured).",
+    "flourishing": 0,
+    "domain": 0,
+    "durability": 7,
+    "review_status": "unreviewed",
+    "review_reason": "",
+    "author": null,
+    "label": "headline only, not reviewed",
+    "why_it_matters": "",
+    "talk_to": ""
+   },
+   {
+    "id": "d40be3e3658e",
+    "title": "Keep your heat on this winter with utility bill assistance",
+    "link": "https://mirrorindy.org/utility-bills-winter-indy-energy-assistance-program/",
+    "source": "Mirror Indy",
+    "published": "2026-11-17T22:00:40+00:00",
+    "summary": "",
+    "circle": "state",
+    "category": "other",
+    "story_key": "keep-your-heat-winter-utility",
+    "composite": 7.0,
+    "bar": 6.0,
+    "decision": "include",
+    "reason": "Keyword estimate (no Claude API key configured).",
+    "flourishing": 0,
+    "domain": 0,
+    "durability": 7,
+    "review_status": "unreviewed",
+    "review_reason": "",
+    "author": null,
+    "label": "headline only, not reviewed",
+    "why_it_matters": "",
+    "talk_to": ""
+   },
+   {
+    "id": "e3a3eb3f62ea",
+    "title": "Garten sworn in as Indiana Senate leader after court intervention, calls for recount of own election",
+    "link": "https://indianacapitalchronicle.com/2026/11/17/republican-senate-leader-chris-garten-asks-indiana-supreme-court-to-let-him-take-office/",
+    "source": "Indiana Capital Chronicle",
+    "published": "2026-11-17T16:11:06+00:00",
+    "summary": "",
+    "circle": "state",
+    "category": "other",
+    "story_key": "garten-sworn-indiana-senate-leader",
+    "composite": 7.0,
+    "bar": 6.0,
+    "decision": "include",
+    "reason": "Keyword estimate (no Claude API key configured).",
+    "flourishing": 0,
+    "domain": 0,
+    "durability": 7,
+    "review_status": "unreviewed",
+    "review_reason": "",
+    "author": null,
+    "label": "headline only, not reviewed",
+    "why_it_matters": "",
+    "talk_to": ""
+   }
+  ]
+ },
+ "methodology": {
+  "considered": 610,
+  "included": 2,
+  "notes": [
+   "4 finance stories were skipped: the daily finance limit is 1.",
+   "The reserved good-in-the-world slot was filled.",
+   "262 international stories were filtered out from today's pulse: did not clear the international bar.",
+   "167 national stories were filtered out from today's pulse: did not clear the national bar.",
+   "49 international stories were filtered out from today's pulse: low durability.",
+   "37 national stories were filtered out from today's pulse: low durability.",
+   "15 state stories were filtered out from today's pulse: below the inclusion bar.",
+   "9 stories: cleared the bar but didn't fit this digest's scope.",
+   "1 state story was filtered out from today's pulse: low durability."
+  ],
+  "borderline": [
+   {
+    "title": "Agency Information Collection Activities; Comment Request on Form 5307-Application for Determination for Adopters of Modified Nonstandardized Pre-Approved Plans",
+    "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23382/agency-information-collection-activities-comment-request-on-form-5307-application-for-determination",
+    "source": "Federal Register: IRS",
+    "note": "Keyword estimate (no Claude API key configured).",
+    "composite": 7.65,
+    "bar": 8.0
+   },
+   {
+    "title": "Nvidia’s leadership saga unfolds as demand is surging for Anthropic’s IPO",
+    "link": "https://www.marketwatch.com/story/nvidias-leadership-saga-unfolds-as-demand-is-surging-for-anthropics-ipo-a7a12d40?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "note": "Keyword estimate (no Claude API key configured).",
+    "composite": 7.5,
+    "bar": 8.0
+   },
+   {
+    "title": "Today in Supreme Court History: November 18, 1811",
+    "link": "https://reason.com/volokh/2026/11/18/today-in-supreme-court-history-november-18-1811-8/",
+    "source": "Reason",
+    "note": "Keyword estimate (no Claude API key configured).",
+    "composite": 7.5,
+    "bar": 8.0
+   },
+   {
+    "title": "The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues",
+    "link": "https://www.marketwatch.com/story/the-fed-is-tightening-the-economy-is-slowing-and-thats-the-perfect-setup-to-buy-bonds-this-trader-argues-b1c88b23?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "note": "Keyword estimate (no Claude API key configured).",
+    "composite": 7.5,
+    "bar": 8.0
+   },
+   {
+    "title": "The good news: Bubble predictions vastly outnumber actual episodes. The bad: There may be a 97% chance of one, right now.",
+    "link": "https://www.marketwatch.com/story/the-good-news-bubble-predictions-vastly-outnumber-actual-episodes-the-bad-there-may-be-a-97-chance-of-one-right-now-8ca55732?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "note": "Keyword estimate (no Claude API key configured).",
+    "composite": 7.5,
+    "bar": 8.0
+   },
+   {
+    "title": "What You Will Pay for Medicare in 2027",
+    "link": "https://www.kiplinger.com/retirement/medicare/what-you-will-pay-for-medicare-in-2027",
+    "source": "Kiplinger",
+    "note": "Keyword estimate (no Claude API key configured).",
+    "composite": 7.5,
+    "bar": 8.0
+   }
+  ],
+  "excluded": [
+   {
+    "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+    "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Mary Peltola’s Alaska win ‘a gift for all America’, says Schumer – US politics live",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
+    "link": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Ministers to drop foie gras imports ban to help seal EU food trade deal",
+    "link": "https://www.theguardian.com/politics/2026/nov/18/labour-drops-foie-gras-import-ban-eu-food-trade-deal",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Legal Services promo codes and coupons",
+    "link": "https://www.kiplinger.com/coupons/category/legal-services",
+    "source": "Kiplinger",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Online Software promo codes and coupons",
+    "link": "https://www.kiplinger.com/coupons/category/online-software",
+    "source": "Kiplinger",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Accounting Services Promo Codes and Coupons",
+    "link": "https://www.kiplinger.com/coupons/category/accounting-services",
+    "source": "Kiplinger",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "VPN promo codes and coupons",
+    "link": "https://www.kiplinger.com/coupons/category/vpn-service",
+    "source": "Kiplinger",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Financial services promo codes and coupons",
+    "link": "https://www.kiplinger.com/coupons/category/financial-services",
+    "source": "Kiplinger",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Man arrested in Nashville after DNA links him to unsolved 1990s rape cases",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/nyc-rape-arrest-nashville-1990s",
+    "source": "The Guardian World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+    "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "How the US House of Representatives chooses its leaders: A visual guide",
+    "link": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+    "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
+    "link": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "GTA 6: Everything you need to know about the highly anticipated game",
+    "link": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Republicans could expedite bill to make big oil immune to lawsuits, warn experts",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
+    "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "The US helped the world rein in nuclear weapons. Could it do the same for AI?",
+    "link": "https://www.vox.com/future-perfect/511092/nuclear-weapons-ai-nonproliferation-safety-regulation",
+    "source": "Vox",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Who gets to decide Venezuela’s future?",
+    "link": "https://www.vox.com/videos/510950/who-gets-to-decide-venezuelas-future",
+    "source": "Vox",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Measles cases in the U.S. are at a 35-year high. Here’s the staggering cost of these outbreaks for all Americans.",
+    "link": "https://www.marketwatch.com/story/measles-cases-in-the-u-s-are-at-a-35-year-high-heres-the-staggering-cost-of-falling-vaccination-rates-for-americans-e80a7ac6?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Doctor whose evidence helped to convict Lucy Letby was barred from treating patients during trial",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/18/doctor-whose-evidence-helped-to-convict-lucy-letby-was-barred-from-treating-patients-during-trial",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "How data centres are turning AI-generated heat into energy",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+    "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "China Approved This Lung Cancer Drug. The FDA Is Making Americans Wait.",
+    "link": "https://reason.com/2026/11/18/china-approved-this-lung-cancer-drug-the-fda-is-making-americans-wait/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Ukraine mourns mother, athlete and drone operator killed in Russian strike",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Rwanda and DRC: What is holding up the Washington peace process?",
+    "link": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "“1 million Ukrainians”: The flawed figures behind Alight’s aid claims",
+    "link": "https://www.thenewhumanitarian.org/investigations/2026/11/18/1-million-ukrainians-flawed-figures-behind-alights-aid-claims",
+    "source": "The New Humanitarian",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Peltola’s Alaska victory secures 56th Democratic seat in Senate | First Thing",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/first-thing-peltolas-alaska-victory-secures-56th-democratic-seat-in-senate",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
+    "link": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "ICJ to rule on Rohingya genocide case: What to expect",
+    "link": "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Palestinians find refuge in ancient caves after Israel demolishes homes",
+    "link": "https://www.aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Key Hegseth adviser faces questions over ties to Israeli defense contractor and Saudi Arabia",
+    "link": "https://www.theguardian.com/us-news/2026/nov/18/pete-hegseth-iran-war-pentagon",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Get Government Out of Air Traffic Control",
+    "link": "https://reason.com/2026/11/18/get-government-out-of-air-traffic-control/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "‘Partnership buys silence’: Fears grow over EU-Rwanda deportation plans",
+    "link": "https://www.aljazeera.com/news/2026/11/18/partnership-buys-silence-fears-grow-over-eu-rwanda-deportation-plans?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
+    "link": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Cameron Bancroft claims entire Australian team knew about ‘Sandpapergate’",
+    "link": "https://www.aljazeera.com/sports/2026/11/18/cameron-bancroft-claims-entire-australian-team-knew-about-sandpapergate?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Who would gain from carving up Pakistan’s provinces?",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/11-16-hosted-pakistan-provinces-plan-explainer?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Who to watch in Spain's election race",
+    "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Measles Is Officially Back",
+    "link": "https://thedispatch.com/newsletter/morning/measles-is-officially-back/",
+    "source": "The Dispatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Trump arrives in China ahead of trilateral summit with Xi, Putin",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Target is seeing a revival — but it still needs to work on shoes and women’s clothing",
+    "link": "https://www.marketwatch.com/story/target-is-seeing-a-revival-but-it-still-needs-to-work-on-shoes-and-womens-clothing-afb16799?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "India lodges complaint against Palestinian footballer after under-17 match",
+    "link": "https://www.aljazeera.com/sports/2026/11/18/india-lodges-complaint-against-palestinian-footballer-after-under-17-match?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Tim Hortons accused of sharing user data with firm linked to Israeli army",
+    "link": "https://www.aljazeera.com/news/2026/11/18/tim-hortons-app-sharing-extensive-data-with-israeli-military-linked-firm?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Bancroft sandpaper claims heap pressure on Cummins",
+    "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Yvette Cooper announces new health support for most vulnerable people in England",
+    "link": "https://www.theguardian.com/society/2026/nov/18/yvette-cooper-health-support-vulnerable-people-england",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Where does the GOP go from here?",
+    "link": "https://www.deseret.com/politics/2026/11/18/where-does-the-republican-party-go-from-here-with-president-trump-leaving-office-in-2028/",
+    "source": "Deseret News",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "‘Something you dream of’: Creed Whittemore’s best game of the season came at perfect time for Utes",
+    "link": "https://www.deseret.com/sports/2026/11/18/utes-football-creed-whittemore/",
+    "source": "Deseret News",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Fear fueled Steve Young. A new bout of anxiety reveals fresh insight for following Christ",
+    "link": "https://www.deseret.com/faith/2026/11/18/steve-young-anxiety-fear-follow-jesus-christ-byu-idaho/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "The sprawling Democratic donor network behind Utah’s political shift",
+    "link": "https://www.deseret.com/politics/2026/11/18/democratic-donors-helped-transform-utah-legislature-in-blue-wave-and-could-shape-utah-political-future/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "A perfect storm is descending on the AI industry",
+    "link": "https://www.vox.com/politics/511132/anthropic-ipo-ai-bubble-nvidia",
+    "source": "Vox",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "They Were Just Admitted to the Bar. Now They’re Federal Prosecutors. Meet Trump’s New DOJ.",
+    "link": "https://www.propublica.org/article/federal-prosecutors-hiring-trump-doj",
+    "source": "ProPublica",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "The Evangelicals Bringing Hope to Climate Advocacy",
+    "link": "https://www.christianitytoday.com/2026/11/the-evangelicals-bringing-hope-to-climate-global-warming-advocacy-yeca/",
+    "source": "Christianity Today",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Review: ‘Ebenezer’",
+    "link": "https://www.christianitytoday.com/2026/11/ebenezer-movie-review/",
+    "source": "Christianity Today",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Q&A: For King & Country’s Joel Smallbone on Christian Art Reaching Mainstream",
+    "link": "https://www.christianitytoday.com/2026/11/qa-joel-smallbone-drummer-boy-christian-art-mainstream/",
+    "source": "Christianity Today",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
+    "link": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "For COP31 attendees, Pakistan offers a cautionary tale on climate finance",
+    "link": "https://www.thenewhumanitarian.org/analysis/2026/11/18/cop31-attendees-pakistan-offers-cautionary-tale-climate-finance",
+    "source": "The New Humanitarian",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Traumas of Sudan war lead to wave of drug addiction",
+    "link": "https://www.aljazeera.com/features/2026/11/18/traumas-of-sudan-war-is-seeing-a-wave-of-drug-addiction?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "SSE threatens to close Yorkshire gas storage site unless ministers intervene",
+    "link": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+    "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "How the East Potomac golf course became a D.C. landmark — and what could happen to it",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6042889/east-potomac-golf-history-future",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Disability advocates rally at Indiana Statehouse to preserve in-home Medicaid supports",
+    "link": "https://indianacapitalchronicle.com/2026/11/18/disability-advocates-rally-at-indiana-statehouse-to-preserve-in-home-medicaid-supports/",
+    "source": "Indiana Capital Chronicle",
+    "reason": "below the inclusion bar",
+    "circle": "state"
+   },
+   {
+    "title": "LA’s complex demands await democratic socialist Mayor-elect Nithya Raman",
+    "link": "https://www.csmonitor.com/USA/2026/1118/los-angeles-democratic-socialist-mayor?icid=rss",
+    "source": "Christian Science Monitor",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Project Gryffindor: Meta's plan to get more school kids using Instagram",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Special education teachers shared their stories. You told NPR you felt seen",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6031176/special-education-teachers-audience-response",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "OpenAI announces new AI safety program; researchers worry it won't be enough",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044223/openai-embedded-evaluators-program-critics",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "China and the U.S. are still the biggest polluters, but only China is doing better",
+    "link": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
+    "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "What do Deutsche Bank leaks reveal about Trump, Epstein and Russia?",
+    "link": "https://www.aljazeera.com/news/2026/11/18/what-do-deutsche-bank-leaks-reveal-about-trump-epstein-and-russia?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Why Democrat Mary Peltola’s US Senate win in Alaska matters",
+    "link": "https://www.aljazeera.com/news/2026/11/18/why-democrat-mary-peltolas-us-senate-win-in-alaska-matters?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Piecemeal wars: A new kind of world war is already under way",
+    "link": "https://www.aljazeera.com/opinions/2026/11/18/piecemeal-wars-a-new-kind-of-world-war-is-already-under-way?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "‘Phantom forests’ in Australia’s arid outback used to create carbon credits meant to offset emissions, report claims",
+    "link": "https://www.theguardian.com/environment/2026/nov/18/phantom-forests-in-australian-arid-outback-used-to-create-carbon-credits-meant-to-offset-emissions-report-claims",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "As Trump arrives in China, low expectations for breakthroughs in rivalry",
+    "link": "https://www.aljazeera.com/economy/2026/11/18/as-trump-arrives-in-china-low-expectations-for-breakthroughs-in-rivalry?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+    "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Ghana's new $60m presidential jet sparks public outrage",
+    "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Photos: Thousands march in Haiti in support of Salvadoran troops",
+    "link": "https://www.aljazeera.com/gallery/2026/11/18/photos-thousands-march-in-haiti-in-support-of-salvadoran-troops?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Sandpapergate: Cricket Australia to open forum for players, rules out probe",
+    "link": "https://www.aljazeera.com/sports/2026/11/18/sandpapergate-cricket-australia-to-open-forum-for-players-rules-out-probe?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "India-UK ties outride Modi’s ‘decolonisation’ rhetoric",
+    "link": "https://www.aljazeera.com/news/2026/11/18/india-uk-ties-outride-modis-decolonisation-rhetoric?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Myanmar-linked arsenic pollution prompts clean water scramble in Thailand",
+    "link": "https://www.aljazeera.com/news/2026/11/18/arsenic-pollution-linked-to-myanmar-mining-prompts-water-alert-in-thailand?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Paris Hilton and AOC speak against AI-generated deepfakes",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/paris-hilton-and-aoc-speak-against-ai-generated-deepfakes?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Brickbat: Watch Where You Point That",
+    "link": "https://reason.com/2026/11/18/brickbat-watch-where-you-point-that/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "David Lammy urges Andy Burnham to fight next election on rejoining EU",
+    "link": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Open Thread",
+    "link": "https://reason.com/volokh/2026/11/18/open-thread-392/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "‘I didn’t notice his body being purple’: Byron Bay doula left newborn to inflate a jumping castle, court hears",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/byron-bay-doula-left-newborn-to-inflate-jumping-castle-freebirth-inquest-ntwnfb",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+    "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Bikie ‘not surprised’ if he used fake $20,000 souvlaki invoice to pocket thousands on Big Build site, inquiry hears",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Brice Sensabaugh scores 40 points and leads huge 4th quarter as Jazz beat Clippers for 2nd win",
+    "link": "https://www.deseret.com/sports/2026/11/17/utah-jazz-beat-los-angeles-clippers-132-107/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Sean Duffy Doesn’t Want to Waste a Good Crisis",
+    "link": "https://thedispatch.com/article/sean-duffy-air-traffic-crisis-federal-aviation-funding/",
+    "source": "The Dispatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "David Beasley Is on a Mission. Could It End at the White House?",
+    "link": "https://thedispatch.com/article/david-beasley-south-carolina-2028-election/",
+    "source": "The Dispatch",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Alito in the Gap",
+    "link": "https://thedispatch.com/article/alito-france-free-speech-houellebecq/",
+    "source": "The Dispatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Midterms Offer Conservatives a Silver Lining",
+    "link": "https://thedispatch.com/article/midterms-ideological-conservatives-movement-rightward-democrats/",
+    "source": "The Dispatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Utah basketball’s latest disheartening loss marked by recurring mistakes and lack of urgency",
+    "link": "https://www.deseret.com/sports/2026/11/17/utah-basketball-eastern-washington-analysis/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
+    "link": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "‘Devastating consequences’: One Nation plan to slash Australia’s refugee program denounced",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Trump Says He Welcomes Foreign Students. His Policies Tell a Different Story.",
+    "link": "https://reason.com/2026/11/18/trump-says-he-welcomes-foreign-students-his-policies-tell-a-different-story/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+    "link": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Racial Nondiscrimination in Private Schools; Hearing",
+    "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23533/racial-nondiscrimination-in-private-schools-hearing",
+    "source": "Federal Register: IRS",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+    "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Rubio rules out cyberattacks or links between tech outages",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Australia’s ‘problematic’ surrogacy laws could be transformed under proposed changes",
+    "link": "https://www.theguardian.com/law/2026/nov/18/australias-strict-surrogacy-laws-could-be-relaxed-under-proposed-changes",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+    "link": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
+    "link": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats 56 Senate seats",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
+    "link": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "White House pulls nomination of Heidi Overton to lead Food and Drug Administration – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Utah and BYU remain unchanged in latest College Football Playoff poll",
+    "link": "https://www.deseret.com/sports/2026/11/17/college-football-playoff-rankings-2026-third-edition-byu-utah-texas-tech-big-12/",
+    "source": "Deseret News",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Deseret News NHL power rankings: Carolina Hurricanes are the team to beat",
+    "link": "https://www.deseret.com/sports/2026/11/17/deseret-news-nhl-power-rankings-carolina-hurricanes-take-first-place/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
+    "link": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Tag team: dual waterspouts appear in San Francisco Bay amid stormy weather",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Hungary on the hunt for a football hero",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "The ‘moon landing’ of gaming: Australians, some of the first to play GTA VI, prepare to descend on Vice City",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/gta-6-biggest-gaming-event-australians-prepare-for-global-release",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "The world needs young adults now: 4 Latter-day Saint leaders’ pleas to young adults",
+    "link": "https://www.deseret.com/faith/2026/11/17/latter-day-saint-leaders-urge-young-adults-to-be-changemakers-have-faith/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "ICE agents shove and pepper-spray pregnant woman",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picking new James Bond",
+    "link": "https://www.theguardian.com/film/2026/nov/17/james-bond-robert-pattinson-jeff-bezos-pick",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "How this single word can shape a life, according to Christian editor Anne Snyder",
+    "link": "https://www.deseret.com/faith/2026/11/17/how-this-single-word-can-shape-a-life-according-to-christian-editor-anne-snyder/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "South Korea’s high-stakes university exams upended by AI cheating scandal",
+    "link": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "What is Trump hoping to achieve at APEC meeting in China?",
+    "link": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
+    "link": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Man charged over ‘brutal attack’ on Somali-American in Minnesota",
+    "link": "https://www.aljazeera.com/news/2026/11/18/man-charged-over-brutal-attack-on-somali-american-in-minnesota?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Ground beef by air: Delivery drones coming to a Walmart near you",
+    "link": "https://www.deseret.com/business/2026/11/17/grocery-delivering-drones-coming-to-salt-lake-city/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Protests as Jason Arday’s accuser speaks at Oxford University",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/protests-as-jason-ardays-accuser-speaks-at-oxford-university?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "White House withdraws nomination of Heidi Overton to lead FDA",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/white-house-withdraws-heidi-overton-fda",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
+    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
+    "link": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Ecuadorian fishermen sue Trump administration over drone strike",
+    "link": "https://www.aljazeera.com/news/2026/11/18/ecuadorian-fishermen-sue-trump-administration-over-drone-strike?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "DR Congo’s rival peace efforts fail to halt violence in the east",
+    "link": "https://www.aljazeera.com/news/2026/11/18/dr-congos-rival-peace-efforts-fail-to-halt-violence-in-the-east?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Episode 323: The transformative power of gratitude",
+    "link": "https://www.deseret.com/faith/2026/11/17/church-news-podcast-episode-323-transformative-power-of-gratitude-with-jenae-nelson/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
+    "link": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+    "source": "The Guardian World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Forensic experts claim Epstein was strangled to death",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/forensic-experts-claim-epstein-was-strangled-to-death?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Why China’s Shenzhen was chosen for APEC summit",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/why-chinas-shenzhen-was-chosen-for-apec-summit?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
+    "link": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Shabana Mahmood to launch fast-track training to improve police leadership",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/18/shabana-mahmood-fast-track-training-police-leadership",
+    "source": "The Guardian World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Brexit work travel rules need urgent improvement, say UK business leaders",
+    "link": "https://www.theguardian.com/world/2026/nov/18/brexit-work-travel-rules-urgent-improvement-cbi",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Ofqual urges ‘life-altering’ penalties for students who use tech to cheat",
+    "link": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Hugh Jackman, Rebel Wilson and 150 Australian artists join call to block Woodside gas development near Scott Reef",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/hugh-jackman-rebel-wilson-australian-artists-greenpeace-campaign-woodside-energy-scott-reef",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "The case for new Democratic leadership",
+    "link": "https://www.vox.com/podcasts/510923/democratic-leadership-fight-van-hollen-schumer-jeffries",
+    "source": "Vox",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "On Data Centers, Americans Demand a Say",
+    "link": "https://thedispatch.com/newsletter/dispatch-energy/data-center-referendum-midterm-voters/",
+    "source": "The Dispatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+    "link": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+    "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Israel parliament elects Gadi Eisenkot ally Matan Kahana as new speaker",
+    "link": "https://www.aljazeera.com/news/2026/11/17/israel-parliament-elects-gadi-eisenkot-ally-matan-kahana-as-new-speaker?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Outage Politics",
+    "link": "https://thedispatch.com/newsletter/boilingfrogs/outages-artificial-intellience-hacking-trump-administration/",
+    "source": "The Dispatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Top spy agency suffers network outage, the latest US technical failure",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/top-spy-agency-suffers-network-outage-the-latest-us-technical-failure?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+    "link": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Millions of red crabs start annual migration on Christmas Island",
+    "link": "https://www.bbc.co.uk/news/videos/cq62p73jjl90o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "When do we start worrying about all these outages?",
+    "link": "https://www.vox.com/podcasts/511088/outages-microsoft-banks-apple-nsa-ai-vulnerability",
+    "source": "Vox",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+    "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "IPS leaders want to close 6 school buildings this summer",
+    "link": "https://mirrorindy.org/ips-leaders-want-to-close-6-school-buildings-this-summer/",
+    "source": "Mirror Indy",
+    "reason": "below the inclusion bar",
+    "circle": "state"
+   },
+   {
+    "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
+    "link": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Is there room for 3 Big 12 teams in the College Football Playoff?",
+    "link": "https://www.deseret.com/sports/2026/11/17/big-12-bowl-projections-after-week-11-2026-season-byu-utah/",
+    "source": "Deseret News",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Iran threatens U.S. military leaders on social media",
+    "link": "https://www.deseret.com/u-s-world/2026/11/17/military-social-media-iran-dugway-curtis/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+    "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Voyager 1 is about to reach a mind-bending milestone",
+    "link": "https://www.vox.com/today-explained-newsletter/510956/voyager-light-day",
+    "source": "Vox",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Bipartisanship touted as slew of new Democrats join Indiana Legislature still run by Republicans",
+    "link": "https://indianacapitalchronicle.com/2026/11/17/bipartisanship-touted-as-slew-of-new-democrats-join-indiana-legislature-still-run-by-republicans/",
+    "source": "Indiana Capital Chronicle",
+    "reason": "below the inclusion bar",
+    "circle": "state"
+   },
+   {
+    "title": "Devon Dampier wins multiple national weekly awards",
+    "link": "https://www.deseret.com/sports/2026/11/17/devon-dampier-national-weekly-awards/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
+    "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Utah’s crackdown on online betting expands with lawsuit against casino site",
+    "link": "https://www.deseret.com/utah/2026/11/17/utah-lawsuit-against-stake-online-casino-illegal-gambling-operation/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Russian military plane crash in Siberia kills 19",
+    "link": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "US loses measles elimination status amid worst outbreak since 1991",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Nvidia doubles revenue in first earnings since Jensen Huang’s resignation",
+    "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Enroll Indy or PowerSchool? Your guide to Indy school enrollment",
+    "link": "https://mirrorindy.org/indianapolis-school-enrollment-guide-enroll-indy-powerschool-ips-2026/",
+    "source": "Mirror Indy",
+    "reason": "below the inclusion bar",
+    "circle": "state"
+   },
+   {
+    "title": "How to be a good-enough home cook",
+    "link": "https://www.vox.com/even-better/23436672/how-to-start-cooking-beginner-guide",
+    "source": "Vox",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "How Friendsgiving eclipsed Turkey Day",
+    "link": "https://www.vox.com/2018/11/16/18097351/friendsgiving-2018-history",
+    "source": "Vox",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Trump nominates Chris LaNeve as army chief after Hegseth fired predecessor",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Utah flips commitment of former Latter-day Saint missionary, BYU signee",
+    "link": "https://www.deseret.com/sports/2026/11/17/jackson-doman-commits-utah-football-tight-end/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
+    "link": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Judge extends deadline for Trump’s deposition in $10bn BBC lawsuit",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/trump-bbc-deposition-delay",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
+    "link": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Trump Can't Stop Talking About His Vanity Projects Because He Will Never Get the Gratitude He Craves",
+    "link": "https://reason.com/2026/11/17/trump-cant-stop-talking-about-his-vanity-projects-because-he-will-never-get-the-gratitude-he-craves/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+    "link": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything instead. Do I tell her?",
+    "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+    "link": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Moment Russian military plane crashes in Siberia, killing 19",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "‘Heads should roll’: owner of Melbourne Cup horse found dumped in skip bin demands investigation",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/stuart-ramsey-calls-for-investigation-so-you-are-melbourne-cup-horse-found-skip-bin-ntwnfb",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Salt Lake City tried to save 10 million gallons of water per day. Here’s how it fared",
+    "link": "https://www.deseret.com/utah/2026/11/17/salt-lake-city-tried-to-save-10-million-gallons-of-water-per-day-heres-how-it-fared/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Light the World turns 10 with a record number of Giving Machines",
+    "link": "https://www.deseret.com/faith/2026/11/17/church-of-jesus-christ-announces-2026-light-the-world-locations/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
+    "link": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "‘Can I pick your brain?’ and other terrible things to say in a networking email",
+    "link": "https://www.marketwatch.com/story/nows-the-perfect-time-for-networking-heres-how-to-send-a-cringe-free-email-73ad34ea?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "With few alternatives, Gazans shelter in collapsing buildings",
+    "link": "https://www.csmonitor.com/World/Middle-East/2026/1117/gaza-war-housing-shortage-collapsed-buildings-al-saada?icid=rss",
+    "source": "Christian Science Monitor",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Russian military plane crashes, killing all 19 on board",
+    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Cetera Sues Ex-Reps Over Client Data Dispute",
+    "link": "https://www.wealthmanagement.com/ibd-news/cetera-sues-ex-advisors-over-alleged-lpl-client-poaching",
+    "source": "WealthManagement.com",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "'Designed To Inflict a Maximal Burden': Courts Are Really Unhappy With CBP Seizing Americans' Phones",
+    "link": "https://reason.com/2026/11/17/designed-to-inflict-a-maximal-burden-courts-are-really-unhappy-with-cbp-seizing-americans-phones/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "US loses measles elimination status after 26 years amid record case numbers",
+    "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+    "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
+    "link": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Some Filipinos, feeling ‘bullied’ by China, are reassured by Trump’s visit",
+    "link": "https://www.csmonitor.com/World/Asia-Pacific/2026/1117/asean-philippines-china-trump-security?icid=rss",
+    "source": "Christian Science Monitor",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "What’s behind the ANC’s decline in South Africa?",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "H.R. 5276, Community Bank LIFT Act",
+    "link": "https://www.cbo.gov/publication/62911",
+    "source": "Congressional Budget Office",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "The U.S.’s classified national-security communications network experiences tech outage",
+    "link": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Sikh Restaurant Owner in Britain Arrested for Social Media Post Amid Spat Over Halal Meat",
+    "link": "https://reason.com/2026/11/17/sikh-restaurant-owner-in-britain-arrested-for-social-media-post-amid-spat-over-halal-meat/",
+    "source": "Reason",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Tensions rise over draft climate deal at COP31",
+    "link": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "University of Birmingham pauses plans to move Shakespeare Institute after outcry",
+    "link": "https://www.theguardian.com/education/2026/nov/17/birmingham-university-shakespeare-institute-stratford-upon-avon",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+    "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+    "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Gold is in a bear market — and hackproof in an increasingly digital world. Is now a good time to buy?",
+    "link": "https://www.marketwatch.com/story/gold-is-in-a-bear-market-and-hackproof-in-an-increasingly-digital-world-is-this-a-good-time-to-buy-fabfd528?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+    "link": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+    "source": "The Guardian World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "In hazy Asia, contrition helps clear the air",
+    "link": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/1117/In-hazy-Asia-contrition-helps-clear-the-air?icid=rss",
+    "source": "Christian Science Monitor",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "‘Godmother’ of illegal Israeli West Bank settler project Daniella Weiss among group sanctioned by Australia",
+    "link": "https://www.theguardian.com/world/2026/nov/18/australia-sanctions-construction-company-west-bank-settlement-expansion-ntwnfb",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Kalshi halts Trump speech bets after CFTC order",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "What Kansas coach Lance Leipold said about BYU ahead of matchup against Cougars",
+    "link": "https://www.deseret.com/sports/2026/11/17/kansas-coach-lance-leipold-comments-on-game-vs-byu/",
+    "source": "Deseret News",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Police charge crowds at Brussels student march",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/police-charge-crowds-at-brussels-student-march?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "China, Canada expand tariff relief after Carney-Xi meeting",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/china-canada-expand-tariff-relief-after-carney-xi-meeting?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Sen. Curtis raises concern over Trump’s new pick for watchdog agency",
+    "link": "https://www.deseret.com/politics/2026/11/17/senator-john-curtis-raises-concern-over-president-trump-new-pick-for-watchdog-agency/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "H.R. 7086, Equitable Access to School Facilities",
+    "link": "https://www.cbo.gov/publication/62912",
+    "source": "Congressional Budget Office",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "New York Wants To Force Social Media Apps To Display Mental Health Warnings. Critics Are Suing.",
+    "link": "https://reason.com/2026/11/17/new-york-wants-to-force-social-media-apps-to-display-mental-health-warnings-critics-are-suing/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "India’s footballers celebrate SAFF final win against Pakistan",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indias-footballers-celebrate-saff-final-win-against-pakistan?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Squashing the competition: How one Illinois town became ‘pumpkin capital of the world’",
+    "link": "https://www.csmonitor.com/USA/Society/2026/1117/pumpkin-pie-libby-s-morton-illinois?icid=rss",
+    "source": "Christian Science Monitor",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Milburn’s absurdly ambitious report offers blueprint for fixing everything and everyone",
+    "link": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-neet-report-absurdly-ambitious-analysis",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Can a robot pianist upstage a human musician?",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/can-a-robot-pianist-upstage-a-human-musician?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Jeffries shifts strategy amid growing Democratic divisions in US House",
+    "link": "https://www.aljazeera.com/news/2026/11/17/jeffries-shifts-strategy-amid-growing-democratic-divisions-in-us-house?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "High school football: 6A state championship preview, Corner Canyon-Skyridge set for a 4th title-game showdown",
+    "link": "https://www.deseret.com/sports/2026/11/17/high-school-football-6a-championship-preview-corner-canyon-skyridge/",
+    "source": "Deseret News",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Using law to try to silence abuse victims is ‘ultimate form of gaslighting’, MPs told",
+    "link": "https://www.theguardian.com/society/2026/nov/17/using-law-try-silence-abuse-victims-ultimate-gaslighting-mps-told",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Ugandan human trafficking survivor uses music to fight abuse",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ugandan-human-trafficking-survivor-uses-music-to-fight-abuse?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Companies get billions in tariff refunds. Consumers are left with the bill.",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
+    "link": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-tax-cuts-businesses-unions-neets-youth-unemployment",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "King Charles says Christian faith guides his reign",
+    "link": "https://www.deseret.com/faith/2026/11/17/king-charles-speaks-at-general-synod-on-christian-faith/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "They Suffered Brain Injuries After Riding a Six Flags Roller Coaster. Regulators Pinned the Blame on Them.",
+    "link": "https://www.propublica.org/article/california-six-flags-x2-roller-coaster-brain-injuries-calosha",
+    "source": "ProPublica",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "More than 100,000 take part in France pay protests",
+    "link": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
+    "link": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Salt Lake City Mayor Erin Mendenhall says she won’t seek reelection in 2027",
+    "link": "https://www.deseret.com/utah/2026/11/17/salt-lake-city-mayor-erin-mendenhall-says-she-wont-seek-reelection-in-2027/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+    "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Monster waves threaten California coast as storms intensify",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_monster-waves-threaten-california-coast-171126?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Popular ‘Library of Things’ program expanding in 2027",
+    "link": "https://mirrorindy.org/indianapolis-public-library-things-lending-program-2027/",
+    "source": "Mirror Indy",
+    "reason": "below the inclusion bar",
+    "circle": "state"
+   },
+   {
+    "title": "6 couples enter the ‘Dancing with the Stars’ semifinals. How many will make it to the finals?",
+    "link": "https://www.deseret.com/entertainment/2026/11/17/dancing-with-the-stars-semifinals-six-couples/",
+    "source": "Deseret News",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Mozambique opposition leader goes on trial on terrorism charges",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/mozambique-opposition-leader-goes-on-trial-on-terrorism-charges?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Indian limbo skater breaks world record",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/indian-limbo-skater-breaks-world-record?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
+    "link": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Braun ‘fired up’ to seek second term in 2028",
+    "link": "https://mirrorindy.org/braun-fired-up-to-seek-second-term-in-2028/",
+    "source": "Mirror Indy",
+    "reason": "below the inclusion bar",
+    "circle": "state"
+   },
+   {
+    "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "UK sanctions firms over Israeli West Bank settlements",
+    "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Indiana health commissioner says public health is generating return on investment",
+    "link": "https://mirrorindy.org/indiana-health-commissioner-says-public-health-is-generating-return-on-investment/",
+    "source": "Mirror Indy",
+    "reason": "below the inclusion bar",
+    "circle": "state"
+   },
+   {
+    "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+    "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+    "link": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Jensen Huang agrees to testify before US House, says can resume CEO role",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
+    "link": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Israeli forces invade Syrian village leaving homes damaged",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/israeli-forces-invade-syrian-village-leaving-homes-damaged?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Anti-Arab hate speech surged on social media during Israel’s election, report finds",
+    "link": "https://www.theguardian.com/world/2026/nov/17/anti-arab-hate-speech-surged-on-social-media-during-israel-election-report",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "&Partners Lures $1.3B Wells Fargo Team",
+    "link": "https://www.wealthmanagement.com/ria-news/partners-poaches-13-billion-wells-fargo-team",
+    "source": "WealthManagement.com",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+    "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
+    "link": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Deseret News archives: Big Utah State Prison break in 1968 had a swift and peaceful conclusion",
+    "link": "https://www.deseret.com/utah/2024/11/17/deseret-news-archives-utah-prison-escape-in-1968/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+    "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Costa Rican journalist shot dead in first such killing in 25 years",
+    "link": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead",
+    "source": "The Guardian World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "How these BYU basketball players plan to serve others throughout the season — and how you can help",
+    "link": "https://www.deseret.com/sports/2026/11/17/byu-basketball-players-have-plans-to-serve-others-this-season/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "The U.S. Spends Half What France Does on Public Pensions. But Congress Is Making the Same Mistakes.",
+    "link": "https://reason.com/2026/11/17/the-u-s-spends-half-what-france-does-on-public-pensions-but-congress-is-making-the-same-mistakes/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "‘Spared a lot’: Kessler twins explained assisted dying decision in final letter",
+    "link": "https://www.theguardian.com/society/2026/nov/17/kessler-twins-assisted-dying-decision",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Free Speech Unmuted: The Devil and Free Speech",
+    "link": "https://reason.com/volokh/2026/11/17/free-speech-unmuted-the-devil-and-free-speech/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Schwab, LPL, Fidelity Veterans Launch AI Platform for Wealth Firms",
+    "link": "https://www.wealthmanagement.com/artificial-intelligence/schwab-lpl-fidelity-veterans-launch-bridge-operating-partners",
+    "source": "WealthManagement.com",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "A vampire, a wizard, Batman and now Bond: A look at Robert Pattinson’s wild career",
+    "link": "https://www.deseret.com/entertainment/2026/11/17/robert-pattinson-major-franchises-career/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "The genius trap: What Jensen Huang’s fall reveals about corporate governance",
+    "link": "https://www.csmonitor.com/Business/2026/1117/nvidia-jensen-huang-ceos-corporate-boards?icid=rss",
+    "source": "Christian Science Monitor",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "In MLB's Salary Cap Fight, the Players Union Has a Last Resort No One Is Talking About",
+    "link": "https://reason.com/2026/11/17/in-mlbs-salary-cap-fight-the-players-union-has-a-last-resort-no-one-is-talking-about/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Inflation Quiz: How Will Rising Costs Hit You in Retirement?",
+    "link": "https://www.kiplinger.com/puzzles/quizzes/inflation-how-will-rising-costs-hit-you-in-retirement",
+    "source": "Kiplinger",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "12 Investment Must Reads for the Week of Nov. 17, 2026",
+    "link": "https://www.wealthmanagement.com/investing-strategies/12-investment-must-reads-for-the-week-of-nov-17-2026",
+    "source": "WealthManagement.com",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
+    "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
+    "link": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "The US has officially lost control of measles",
+    "link": "https://www.vox.com/health/510836/us-measles-cases-deaths-elimination-status",
+    "source": "Vox",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "The 60/40 Portfolio Is Still the Heavyweight Champion",
+    "link": "https://www.wealthmanagement.com/investing-strategies/the-60-40-portfolio-is-still-the-heavyweight-champion",
+    "source": "WealthManagement.com",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Gaza aid in limbo: One year after the Board of Peace",
+    "link": "https://www.thenewhumanitarian.org/feature/2026/11/17/gaza-aid-limbo-one-year-after-board-peace",
+    "source": "The New Humanitarian",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
+    "link": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "BBC reports from Kyiv bridge hit by Russian attack",
+    "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "How the attack on Crimean Bridge unfolded",
+    "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Inside the Administration's Chip Divide",
+    "link": "https://reason.com/2026/11/17/inside-the-administrations-chip-divide/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "How new US chip restrictions on South East Asia will hit China",
+    "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "High school football: 5A state championship preview, powerhouses Orem-West set for Rice-Eccles Stadium rematch",
+    "link": "https://www.deseret.com/sports/2026/11/17/high-school-football-5a-state-championship-preview-story/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Paul Kelly pleads for Albanese to ‘show some backbone’ over AI as creatives campaign for copyright protections",
+    "link": "https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Chris Minns’ backflips are adding up. Is he ‘clearing the runway’ or panicking?",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/18/chris-minns-labor-backflips-are-adding-up-is-he-clearing-the-runway-or-panicking-nsw-state-election",
+    "source": "The Guardian World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Australia’s gender pay gap falls below 20% for first time",
+    "link": "https://www.theguardian.com/world/2026/nov/18/australia-gender-pay-gap-falls-below-20-percent-for-first-time",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Does Your Car Insurance Cover These 5 Cold-Weather Problems?",
+    "link": "https://www.kiplinger.com/personal-finance/car-insurance/does-your-car-insurance-cover-these-cold-weather-problems",
+    "source": "Kiplinger",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Best ETFs for a Divided DC",
+    "link": "https://www.kiplinger.com/investing/etfs/best-etfs-for-a-divided-dc",
+    "source": "Kiplinger",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+    "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "‘Half measures will not do’: Milburn calls for wholesale reform as he publishes major youth unemployment report – live",
+    "link": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "School phone bans result in ‘modest’ academic gains for students, study shows",
+    "link": "https://www.theguardian.com/education/2026/nov/17/school-phone-bans-results-students",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Santander allows staff to count holidays and sick leave as days worked in office",
+    "link": "https://www.theguardian.com/business/2026/nov/17/santander-staff-holidays-sick-leave-days-in-office",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "How Was the Cold War Won?",
+    "link": "https://reason.com/2026/11/17/how-was-the-cold-war-won/",
+    "source": "Reason",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Usman Nurmagomedov released from UAE prison after hotel brawl arrest",
+    "link": "https://www.aljazeera.com/sports/2026/11/17/usman-nurmagomedov-released-from-uae-prison-after-hotel-brawl-arrest?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Brazil defeat Singapore 7-0 as Vinicius scores first-half hat-trick",
+    "link": "https://www.aljazeera.com/sports/2026/11/17/brazil-defeat-singapore-7-0-as-vinicius-scores-first-half-hat-trick?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
+    "link": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "How is US Senate majority leader chosen?",
+    "link": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+    "link": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+    "link": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Serbia’s Student List candidates sworn in as MPs after election triumph",
+    "link": "https://www.theguardian.com/world/2026/nov/17/serbia-student-list-mps-sworn-in-election-triumph",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Can Nvidia sell investors on a future without Jensen Huang?",
+    "link": "https://www.marketwatch.com/story/can-nvidia-sell-investors-on-a-future-without-jensen-huang-3fe4bb49?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Trump addresses Quad leaders at first summit since 2024",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+    "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+    "link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Mozambique’s opposition leader stands trial over deadly 2024 protests",
+    "link": "https://www.aljazeera.com/news/2026/11/17/mozambiques-opposition-leader-stands-trial-over-deadly-2024-protests?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "India vs Pakistan live: SAFF Championship final",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/11/17/india-vs-pakistan-live-saff-championship-final?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Sen. Jack Reed says FAA needs a real plan, not just more money",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6042514/jack-reed-faa-oversight-ground-stop-funding",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Gunmen kill Costa Rican journalist who reported on drugs trade",
+    "link": "https://www.bbc.co.uk/news/articles/c6ly7g5lx7gyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Voldemort, Gotham City and the Greens: Victorian election gets a jolt of life as leaders face off in sole debate",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/17/voldemort-gotham-city-greens-liberal-labor-one-nation-victorian-election-leaders-debate-ntwnfb",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Chuck Schumer’s Looming Leadership Fight",
+    "link": "https://thedispatch.com/newsletter/morning/chuck-schumers-looming-leadership-fight/",
+    "source": "The Dispatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Rebecca Grynspan could be the UN’s first woman boss, if she can sway Trump",
+    "link": "https://www.aljazeera.com/features/2026/11/17/rebeca-grynspans-quest-for-uns-first-woman-chief-amid-trump-sized-hurdle?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+    "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Ukrainian breaks world record for deepest competitive freedive",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ukrainian-breaks-world-record-for-deepest-competitive-freedive?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Alan Milburn says his plan to get young people into work will save only £200m a year",
+    "link": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-report-young-people-work-neets-job-support-savingsalan-milburn-plan-young-people-work-neets-savings-200m-a-year",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Can Google win the AI race without killing its cash cow?",
+    "link": "https://www.npr.org/sections/planet-money/2026/11/17/g-s1-153933/can-google-win-the-ai-race-without-killing-its-cash-cow",
+    "source": "NPR News",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Bridge between Russia and occupied Crimea ‘no longer usable’ after Kyiv strike | First Thing",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/first-thing-russia-crimea-kerch-bridge-ukraine-strike",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Hi-tech Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit",
+    "link": "https://www.theguardian.com/world/2026/nov/17/hi-tech-shenzhen-chinamaxxing-xi-apec-summit",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+    "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Is Pakistan about to carve out new provinces? Inside the controversial plan",
+    "link": "https://www.aljazeera.com/news/2026/11/17/is-pakistan-about-to-carve-out-new-provinces-inside-the-controversial-plan?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "UK music industry hits record high of £8.4bn – but are working musicians being left behind?",
+    "link": "https://www.theguardian.com/music/2026/nov/17/uk-music-industry-hits-record-high-of-84bn-this-is-music-report",
+    "source": "The Guardian World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Bangladesh police clash with garment workers amid protests over wages",
+    "link": "https://www.aljazeera.com/news/2026/11/17/bangladesh-garment-workers-clash-with-police-in-fresh-protests-over-wages?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+    "link": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines",
+    "source": "The Guardian World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "What do Democrats’ sweeping midterm wins mean for Trump’s ICE crackdown?",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/democrats-blue-wave-trump-ice-crackdown",
+    "source": "The Guardian World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "New Orleans police arrest teen over beating death of homeless man ‘unable to defend himself’",
+    "link": "https://www.theguardian.com/us-news/2026/nov/17/new-orleans-police-homeless-man-death",
+    "source": "The Guardian World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "I'm a human doctor with human intelligence. But I sure do like my AI notetaker",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6037556/medicine-ai-doctor-notetaker-scribe",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Opinion: Deconstructing your faith is a good way to lose it altogether",
+    "link": "https://www.deseret.com/opinion/2026/11/17/deconstruct-faith-hurt-faith/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Injuries nearly ended Dawson Baker’s BYU career. Less than a year removed from a torn ACL, he’s battled back into the Cougars’ rotation",
+    "link": "https://www.deseret.com/sports/2026/11/17/byu-basketball-dawson-baker-reflects-after-returning-from-injury/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Healthcare in America might change after Democratic midterm victory",
+    "link": "https://www.deseret.com/u-s-world/2026/11/17/healthcare-after-midterm-elections/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "He plans to run 11,350 miles around the country. He’s taking his family and God with him",
+    "link": "https://www.deseret.com/lifestyle/2026/11/17/utah-man-run-perimeter-united-states-faith-family-travel-van-life/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "The secret of the new Southern Democrats: They’re super liberal",
+    "link": "https://www.vox.com/politics/510933/andrews-talarico-colom-ojeda-new-southern-progressives",
+    "source": "Vox",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "A Federal Women’s Prison Became a “Rape Club.” After Officials Shut It Down, Rampant Abuse Continued Elsewhere.",
+    "link": "https://www.propublica.org/article/federal-womens-prison-sexual-abuse-reform-dublin-bop",
+    "source": "ProPublica",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "How ‘Good Burdens’ Bring You to the Lord’s Table",
+    "link": "https://www.christianitytoday.com/2026/11/good-burdens-lords-table-between-hurry-heaven/",
+    "source": "Christianity Today",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Tyler Perry’s Christmas Movie Is Everything You’d Think It Would Be",
+    "link": "https://www.christianitytoday.com/2026/11/tyler-perry-the-gospel-of-christmas-review/",
+    "source": "Christianity Today",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Using a Walker Isn’t Surrendering to Old Age",
+    "link": "https://www.kiplinger.com/retirement/the-question-that-persuaded-an-older-man-to-use-a-walker",
+    "source": "Kiplinger",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Milemarker Names Jeff Beaumont Chief Operating Officer",
+    "link": "https://www.wealthmanagement.com/advisor-support-platforms/milemarker-names-jeff-beaumont-as-chief-operating-officer",
+    "source": "WealthManagement.com",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
+    "link": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Pick the two sectors where earnings growth will accelerate — as long as the 10-year stays below this key level, say strategists",
+    "link": "https://www.marketwatch.com/story/pick-the-two-sectors-where-earnings-growth-will-accelerate-as-long-as-the-10-year-stays-below-this-key-level-say-strategists-e7c13914?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Trump arrives in Philippines to kick off Asia trip",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Fomula One champion Fernando Alonso to race at Dakar Rally 2027",
+    "link": "https://www.aljazeera.com/sports/2026/11/17/fomula-one-champion-fernando-alonso-to-race-at-dakar-rally-2027?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Democrats in Washington Move to Ban Data Centers on Public Lands",
+    "link": "https://www.propublica.org/article/public-land-data-center-ban-burgum-congress",
+    "source": "ProPublica",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Why are five EU countries reviving plans to deport migrants to Rwanda?",
+    "link": "https://www.aljazeera.com/news/2026/11/17/why-are-five-eu-countries-reviving-plans-to-deport-migrants-to-rwanda?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Will President Trump meet Kim Jong Un?",
+    "link": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "US President Trump arrives in Manila ahead of ASEAN summit",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/us-president-trump-arrives-in-manila-ahead-of-asean-summit?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Childhood obsession fuels unique Batman museum in Logansport",
+    "link": "https://mirrorindy.org/batman-museum-batmobiles-logansport/",
+    "source": "Mirror Indy",
+    "reason": "below the inclusion bar",
+    "circle": "state"
+   },
+   {
+    "title": "‘Breaking Bad’ star Dean Norris is selling 11-acre California estate for $3.2 million amid divorce",
+    "link": "https://www.marketwatch.com/story/breaking-bad-star-dean-norris-is-selling-11-acre-california-estate-for-3-2-million-amid-divorce-03963997?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Sponsored Commentary: Building connection in divided times",
+    "link": "https://indianacapitalchronicle.com/2026/11/17/building-connection-in-divided-times/",
+    "source": "Indiana Capital Chronicle",
+    "reason": "below the inclusion bar",
+    "circle": "state"
+   },
+   {
+    "title": "Indiana health commissioner says public health is generating return on investment",
+    "link": "https://indianacapitalchronicle.com/2026/11/17/indiana-health-commissioner-says-public-health-is-generating-return-on-investment/",
+    "source": "Indiana Capital Chronicle",
+    "reason": "below the inclusion bar",
+    "circle": "state"
+   },
+   {
+    "title": "More people are getting the flu. Should you get a flu shot before you travel?",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6043086/thanksgiving-travel-cold-flu-vaccine-shot-booster",
+    "source": "NPR News",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "She went to college to become a social worker. Now she's joined the skilled trades",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6012818/skilled-trades-apprenticeship-college-data-centers-jobs",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Does locking up a student's cell phone improve test scores? A new study suggests so",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6035684/school-cellphone-ban-learning-loss-yondr-research",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "I Photographed Her Parents as They Were Sentenced for Her Twin’s Death. Years Later, I Photographed Her Life.",
+    "link": "https://www.propublica.org/article/faith-healing-child-photo-essay",
+    "source": "ProPublica",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Afghanistan women defy Taliban ban to pursue their ambitions in secret",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/afghanistan-women-defy-taliban-ban-to-pursue-their-ambitions-in-secret?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Powering towns on pig manure: How Denmark has transformed energy generation",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/powering-towns-on-pig-manure-how-denmark-has-transformed-energy-generation?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+    "link": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Morning news brief",
+    "link": "https://www.npr.org/2026/11/17/nx-s1-6042259/morning-news-brief",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "As Knesset readies for new speaker, Israeli opposition holds powerful role",
+    "link": "https://www.aljazeera.com/news/2026/11/17/as-knesset-readies-for-new-speaker-israeli-opposition-holds-powerful-role?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+    "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Journalist who exposed alleged drug links shot dead in Costa Rica",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/journalist-who-exposed-alleged-drug-links-shot-dead-in-costa-rica?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Kim Jong Un tours North Korea ski resort with daughter Ju Ae",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/kim-jong-un-tours-north-korea-ski-resort-with-daughter-ju-ae?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Trump volleys back to Congress in blame game over aviation ground stop",
+    "link": "https://indianacapitalchronicle.com/2026/11/17/repub/trump-volleys-back-to-congress-in-blame-game-over-aviation-ground-stop/",
+    "source": "Indiana Capital Chronicle",
+    "reason": "low durability",
+    "circle": "state"
+   },
+   {
+    "title": "Brickbat: Granny Goodness",
+    "link": "https://reason.com/2026/11/17/brickbat-granny-goodness/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "‘Line their own coffers’: independent MPs lambast Labor’s last-minute changes to election funding laws",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/17/line-their-own-coffers-independent-mps-lambast-labors-last-minute-changes-to-election-funding-laws",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Irish ‌‌‌‌boxer Lee Reeves, 31, dies three months after sustaining injuries",
+    "link": "https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Communications watchdog leadership reversed findings of draft report into ABC Four Corners program, FoI documents reveal",
+    "link": "https://www.theguardian.com/media/2026/nov/17/communications-watchdog-leadership-reversed-findings-of-draft-report-into-abc-four-corners-program-foi-documents-ntwnfb",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Vance calls out ‘neoconservatives’ over Iran war",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vance-calls-out-neoconservatives-over-iran-war?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "South Korea cheating scandal: Are AI smart glasses a threat to exams?",
+    "link": "https://www.aljazeera.com/news/2026/11/17/south-korea-cheating-scandal-are-ai-smart-glasses-a-threat-to-exams?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Nigerians among 12 suspects arrested in $4.5m Canada luxury car theft syndicate",
+    "link": "https://www.bbc.co.uk/news/articles/cm5y1wr1535ko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "The People Who Became Wildlife",
+    "link": "https://reasonstobecheerful.world/people-became-wildlife-river-tone/",
+    "source": "Reasons to be Cheerful",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Why the Nvidia Scandal Is Everyone’s Problem",
+    "link": "https://thedispatch.com/podcast/dispatch-podcast/why-the-nvidia-scandal-is-everyones-problem/",
+    "source": "The Dispatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "White House Warns Against Congressional Subpoenas",
+    "link": "https://thedispatch.com/podcast/advisoryopinions/white-house-warns-against-congressional-subpoenas/",
+    "source": "The Dispatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Open Thread",
+    "link": "https://reason.com/volokh/2026/11/17/open-thread-391/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Japan sends up jets after alleged Russian incursion of its airspace",
+    "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "India has been named a ‘destination of the year’ for 2027 – here are insiders’ tips on travelling beyond the tropes",
+    "link": "https://www.theguardian.com/world/2026/nov/16/is-is-india-travel-boom-travel-and-leisure-women",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Cooley’s surprise return produces same result. What do the Mammoth need to change?",
+    "link": "https://www.deseret.com/sports/2026/11/17/utah-mammoth-lose-3-2-to-vancouver-canucks/",
+    "source": "Deseret News",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Body of Melbourne Cup horse found dumped in Sydney skip",
+    "link": "https://www.bbc.co.uk/news/articles/ck1ewl2zjqgzo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "‘Disgusted by it’: body of Melbourne Cup race horse found dumped in Sydney skip bin",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/17/disgusted-by-it-body-of-melbourne-cup-horse-found-dumped-in-sydney-skip-bin-ntwnfb",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Woman whose baby died after free birth didn’t know she was pregnant with twins, NSW inquest hears",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/17/nsw-inquest-free-birth-keeper-baby-death-ntwnfb",
+    "source": "The Guardian World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Inside the Chinese 'AI wonderland' where Xi will host Trump",
+    "link": "https://www.bbc.co.uk/news/videos/ckjwjl6ywgn9o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Stop Quoting Roman Generals to Men With History Books",
+    "link": "https://thedispatch.com/article/rubio-hegseth-men-swords-force-laws/",
+    "source": "The Dispatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Has Election Denialism Run Its Course?",
+    "link": "https://thedispatch.com/article/election-denialism-2026-midterms/",
+    "source": "The Dispatch",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "European-made pesticides named in 1,605 poisoning reports in Brazil last year",
+    "link": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+    "link": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Asylum seekers on final ‘one in, one out’ UK-France flight feel they are being ‘punished’",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/17/asylum-seekers-one-in-one-out-uk-france-smugglers",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+    "link": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "United Airlines says ‘widespread’ system outage resolved",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+    "link": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Dolores Huerta honored in ceremony at California state capitol",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/dolores-huerta-honored-california",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+    "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – as it happened",
+    "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "David Jones’ total debt is over $400m including millions owed to staff, administrators confirm",
+    "link": "https://www.theguardian.com/business/2026/nov/17/david-jones-creditors-meeting-debt-administrators",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine",
+    "link": "https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "BYU, Utah State, Utah Valley and Weber State are all headed to the NCAA women’s soccer tournament. Only 1 will reach the Round of 16",
+    "link": "https://www.deseret.com/sports/2026/11/16/womens-soccer-ncaa-championships-byu-utah-state-utah-valley-weber-state/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Church of Jesus Christ advances 3 temples in Latin America",
+    "link": "https://www.deseret.com/faith/2026/11/16/church-of-jesus-christ-progresses-temples-in-mexico-peru-uruguay/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+    "link": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+    "link": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Truck driver fired for ‘unsafe’ use of smartglasses in first reported sacking over device in Australia",
+    "link": "https://www.theguardian.com/technology/2026/nov/17/toll-truck-driver-fired-sacked-smartglasses-australia-ntwnfb",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
+    "link": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "EU countries announce migrant deportation centre in Rwanda",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/eu-countries-announce-migrant-deportation-centre-in-rwanda?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+    "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
+    "link": "https://www.aljazeera.com/news/2026/11/17/ukraine-holds-peace-talks-with-us-europe-as-conflict-escalates?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Trump, D.C. golf course fight centers on access",
+    "link": "https://www.deseret.com/politics/2026/11/16/trump-dc-golf-course-fight-centers-on-access/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "UK seeks closer ties with EU after Brexit fail",
+    "link": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Labor policy backflip will allow more backpackers to work in regional Australia",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/17/labor-backpacker-policy-backflip-work-regional-australia-holiday-visas",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Proposed NSW laws to allow coalmine to increase production pose ‘serious corruption risk’",
+    "link": "https://www.theguardian.com/australia-news/2026/nov/17/proposed-nsw-laws-to-allow-coalmine-to-increase-production-pose-serious-corruption-risk",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Ethiopia Moyale clashes disrupt livelihoods as territorial dispute deepens",
+    "link": "https://www.aljazeera.com/news/2026/11/17/ethiopia-moyale-clashes-disrupt-livelihoods-as-territorial-dispute-deepens?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "BBC launches programme for children forced from school by bandits and poverty in West Africa",
+    "link": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "How Church-owned camps, new and old, are strengthening youth",
+    "link": "https://www.deseret.com/faith/2026/11/16/church-news-church-owned-camps-youth-shipp-camp-ensign-ranch-thomas-s-monson/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Braun ‘fired up’ to seek second term in 2028",
+    "link": "https://indianacapitalchronicle.com/2026/11/16/braun-fired-up-to-seek-second-term-in-2028/",
+    "source": "Indiana Capital Chronicle",
+    "reason": "below the inclusion bar",
+    "circle": "state"
+   },
+   {
+    "title": "Iran war live: Houthis advance in Yemen as Vance rejects ‘forever war’",
+    "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "No. 2 Utes have a lot to navigate in unrelenting college football calendar",
+    "link": "https://www.deseret.com/sports/2026/11/16/utah-utes-morgan-scalley-talks-tcu-showdown/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Paraguay ex-president moved to military jail amid special treatment reports",
+    "link": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Justice Thomas on the Second Amendment in \"Sensitive Places\"",
+    "link": "https://reason.com/volokh/2026/11/16/justice-thomas-on-the-second-amendment-in-sensitive-places/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Trump departs for ASEAN on summit with Xi and Putin",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "United Airlines resolves system outage that delayed flights Monday",
+    "link": "https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Robert Pattinson is James Bond. Everyone has an opinion",
+    "link": "https://www.deseret.com/entertainment/2026/11/16/fans-react-to-robert-pattinson-being-cast-as-james-bond/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Five EU countries announce migrant deportation centre in Rwanda",
+    "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Band of baby sea turtles swims into ocean after historic California nesting",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/california-sea-turtle-eggs-hatched",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Police searching for three stolen Melbourne Cup trophies worth $1m each",
+    "link": "https://www.theguardian.com/sport/2026/nov/17/makybe-diva-melbourne-cup-trophies-stolen-flemington-raid-mount-waverley-ntwnfb",
+    "source": "The Guardian World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Why Is America's Air Traffic Control so Broken?",
+    "link": "https://reason.com/podcast/2026/11/16/why-is-americas-air-traffic-control-so-broken/",
+    "source": "Reason",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Taking Korea's toughest exam from behind bars",
+    "link": "https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Men With Swords",
+    "link": "https://thedispatch.com/newsletter/boilingfrogs/rubio-hegseth-pompey-swords/",
+    "source": "The Dispatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Do Amazon’s Black Friday deals really save you money? A new report casts doubt.",
+    "link": "https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "EU agrees to resurrect cooperation deal with Syria",
+    "link": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Justices Thomas and Alito on State Requirements That Continuing Professional Education Discuss Certain Topics",
+    "link": "https://reason.com/volokh/2026/11/16/justices-thomas-and-alito-on-state-requirements-that-continuing-professional-education-discuss-certain-topics/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Trump closes an AI loophole",
+    "link": "https://www.vox.com/the-logoff-newsletter-trump/510969/trump-nvidia-scandal-ai-chip-export-loophole",
+    "source": "Vox",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Salt Lake City’s historic Pioneer Park gets a makeover. Can it change perceptions?",
+    "link": "https://www.deseret.com/utah/2026/11/16/salt-lake-citys-historic-pioneer-park-gets-a-makeover-can-it-change-perceptions/",
+    "source": "Deseret News",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Bachmeier, Sitake not worried about passing game’s low production in win over Baylor",
+    "link": "https://www.deseret.com/sports/2026/11/16/byu-football-big-12-kalani-sitake-race-cfp-playoffs-commitee-kansas/",
+    "source": "Deseret News",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "How to actually fix America’s air traffic control system",
+    "link": "https://www.vox.com/future-perfect/510975/faa-air-traffic-control-system-canada-funding",
+    "source": "Vox",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
+    "link": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Utah ski season is finally here",
+    "link": "https://www.deseret.com/lifestyle/2026/11/16/utah-ski-snowboard-resorts-opening-winter-season-brian-head-park-city-solitude/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Outdated copper lines left millions stranded in FAA ground stop",
+    "link": "https://www.deseret.com/u-s-world/2026/11/16/why-was-there-an-faa-groundstop/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people",
+    "link": "https://www.theguardian.com/society/2026/nov/16/alan-milburn-urges-burnham-spend-billions-new-deal-young-people-youth-jobs-crisis-welfare-employment",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Mamdani moves to disband NYPD protest unit",
+    "link": "https://www.deseret.com/politics/2026/11/16/mamdani-disbands-police-protest-unit/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Israelis voted for change. Can Gadi Eisenkot deliver?",
+    "link": "https://www.csmonitor.com/World/Middle-East/2026/1116/israel-elections-eisenkot-netanyahu-arab-palestinian?icid=rss",
+    "source": "Christian Science Monitor",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "California sues OpenAI over hacking risks",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Germany thrash Netherlands to book quarterfinal spot",
+    "link": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Deseret News NBA power rankings: Spurs claim No. 1 as Jazz hit rock bottom",
+    "link": "https://www.deseret.com/sports/2026/11/16/deseret-news-nba-power-rankings-spurs-claim-no-1-as-jazz-hit-rock-bottom/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Judge issues order blocking Indiana Senate GOP leader Chris Garten from starting new term",
+    "link": "https://indianacapitalchronicle.com/2026/11/16/judge-issues-order-blocking-indiana-senate-gop-leader-chris-garten-from-starting-new-term/",
+    "source": "Indiana Capital Chronicle",
+    "reason": "below the inclusion bar",
+    "circle": "state"
+   },
+   {
+    "title": "Irvington Community Schools could face closure over financial crisis, canceled classes",
+    "link": "https://mirrorindy.org/irvington-community-schools-could-face-closure-over-financial-crisis-canceled-classes/",
+    "source": "Mirror Indy",
+    "reason": "below the inclusion bar",
+    "circle": "state"
+   },
+   {
+    "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+    "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+    "link": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Elder Rasband visits Mia Love’s son on his mission",
+    "link": "https://www.deseret.com/faith/2026/11/16/apostle-missionary-discuss-impact-service/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Third US aircraft carrier brings thousands more troops to Middle East",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Pope Leo hit by flying rosary while waving to crowds in Peru",
+    "link": "https://www.bbc.co.uk/news/videos/ckpdwn23j5j8o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
+    "link": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Congress Faces a Short, Busy Lame-Duck Session",
+    "link": "https://www.kiplinger.com/politics/congress-faces-a-short-busy-lame-duck-session-2026",
+    "source": "Kiplinger",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Alaska (Once Again) Votes To Keep Ranked Choice Voting",
+    "link": "https://reason.com/2026/11/16/alaska-once-again-votes-to-keep-ranked-choice-voting/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Manchester United’s Endless Loop",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/manchester-uniteds-endless-loop?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Photos: California residents gather to watch massive El Nino-fuelled waves",
+    "link": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "New PBS Documentary Explores the History of Criminal Justice in the U.S.",
+    "link": "https://reason.com/2026/11/16/new-pbs-documentary-explores-the-history-of-criminal-justice-in-the-u-s/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "London Palestine Film Festival returns for 27th year",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+    "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "A new quilt captures Indy’s queer community of color",
+    "link": "https://mirrorindy.org/irvington-lgbtq-festival-voices-quinn-tailor/",
+    "source": "Mirror Indy",
+    "reason": "below the inclusion bar",
+    "circle": "state"
+   },
+   {
+    "title": "Here's How to Prepare for a Bank Outage",
+    "link": "https://www.kiplinger.com/personal-finance/online-banking/when-tech-fails-what-to-do-when-your-bank-goes-offline",
+    "source": "Kiplinger",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Suspect in custody after bomb found at Illinois ethanol plant",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/illinois-bomb-ethanol-plant-suspect",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "SpaceX is about to attempt the ‘holy grail’ of rocketry",
+    "link": "https://www.marketwatch.com/story/spacex-is-about-to-attempt-the-holy-grail-of-rocketry-44e79dcc?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Microsoft identifies months-old bug as root cause of global outage",
+    "link": "https://www.theguardian.com/technology/2026/nov/16/microsoft-global-outage-cause",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Customers report difficulty accessing online services at major US banks",
+    "link": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "UEFA backs Diallo to challenge Infantino for FIFA presidency",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "The civic intelligence in building AI data centers",
+    "link": "https://www.csmonitor.com/Editorials/the-monitors-view/2026/1116/The-civic-intelligence-in-building-AI-data-centers?icid=rss",
+    "source": "Christian Science Monitor",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Jensen Huang’s fans want him back as Nvidia CEO. This is why that’s unlikely.",
+    "link": "https://www.marketwatch.com/story/jensen-huangs-fans-want-him-back-as-nvidia-ceo-this-is-why-thats-unlikely-2be28ac2?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "What will Europe do next in Ukraine?",
+    "link": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Trump tightens AI chip access before meeting Xi and Putin",
+    "link": "https://www.deseret.com/u-s-world/2026/11/16/trump-xi-and-putin-set-to-meet-on-the-sidelines-of-apec/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Refused UK asylum seekers to lose five-day grace period and face immediate removal",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/16/failed-uk-asylum-seekers-to-lose-five-day-grace-period-and-face-immediate-removal",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Nationwide ground stop could cost US airlines hundreds of millions",
+    "link": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Israeli opposition accuses Netanyahu of attempted ‘coup’",
+    "link": "https://www.aljazeera.com/news/2026/11/16/israeli-opposition-accuses-netanyahu-of-attempted-coup?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Crystal balling the CRI: Predicting where every Utah high school lands in 2027-29 realignment",
+    "link": "https://www.deseret.com/sports/2026/11/16/high-school-uhsaa-realignment-predictions/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
+    "link": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Leave.EU and Vote Leave veterans launch rival campaigns to defend Brexit",
+    "link": "https://www.theguardian.com/politics/2026/nov/16/people-behind-vote-leave-eu-launch-new-incarnations-brexit",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "UHSAA prepares to unveil historic 2027-29 realignment using new data-driven index",
+    "link": "https://www.deseret.com/sports/2026/11/16/uhsaa-high-school-sports-realignment-preview-2026-27/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+    "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
+    "link": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+    "link": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Thousands report difficulties accessing accounts online at major US banks",
+    "link": "https://www.aljazeera.com/news/2026/11/16/thousands-report-difficulties-accessing-accounts-online-at-major-us-banks?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Watch the video: Red crabs’ migration from the forest to the sea underway",
+    "link": "https://www.deseret.com/environment/2026/11/16/watch-christmas-crabs-travel-home/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "How Milburn won over Labour on tackling rising youth unemployment",
+    "link": "https://www.theguardian.com/society/2026/nov/16/how-milburn-won-over-labour-tackling-rising-youth-unemployment",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Cornell announces full review of Greek life after scrutiny over sexual assault case",
+    "link": "https://www.theguardian.com/us-news/2026/nov/16/cornell-review-greek-life-sexual-assault-case",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Is Israel’s Eisenkot bloc less right wing than Netanyahu?",
+    "link": "https://www.aljazeera.com/news/2026/11/16/is-israels-opposition-less-right-wing-than-netanyahu?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "BYU and Utah each stay put in latest AP Top 25 poll",
+    "link": "https://www.deseret.com/sports/2026/11/16/byu-utah-ap-football-top-25-poll-update-nov-16/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
+    "link": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Russia is targeting winter energy. Ukrainians are preparing backup heat.",
+    "link": "https://www.csmonitor.com/World/Europe/2026/1116/ukraine-winter-power-outage-heat-energy-solar-batteries?icid=rss",
+    "source": "Christian Science Monitor",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "CBO's Estimates of the Budgetary Effects of Increasing Funding for the Health Care Fraud and Abuse Control Account",
+    "link": "https://www.cbo.gov/publication/62886",
+    "source": "Congressional Budget Office",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Man appears in court over deaths of two people in Leeds police pursuit crash",
+    "link": "https://www.theguardian.com/uk-news/2026/nov/16/man-charged-after-two-people-die-in-leeds-police-pursuit-crash",
+    "source": "The Guardian World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "7 Landscaping Mistakes That Could Cost Utah Homeowners Thousands This Winter",
+    "link": "https://www.deseret.com/brandview/2026/11/16/7-landscaping-mistakes-that-could-cost-utah-homeowners-thousands-this-winter/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Democrats’ midterm wave reached state legislatures. That brings pressure to deliver.",
+    "link": "https://www.csmonitor.com/USA/Politics/2026/1116/democrats-midterms-state-legislatures?icid=rss",
+    "source": "Christian Science Monitor",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Here is the kickoff time for BYU’s regular-season finale against Cincinnati",
+    "link": "https://www.deseret.com/sports/2026/11/16/byu-football-cincinnati-bearcats-broadcast-info-kickoff-time-revealed/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
+    "link": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "A Privilege to Lead CBO",
+    "link": "https://www.cbo.gov/publication/62910",
+    "source": "Congressional Budget Office",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "British actor Robert Pattinson named as new James Bond",
+    "link": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "BYU moves up again in latest AP top 25 poll",
+    "link": "https://www.deseret.com/sports/2026/11/16/college-basketball-ap-poll-update-week-2-2026/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Attend a free grief scream session in Indianapolis",
+    "link": "https://mirrorindy.org/indianapolis-grief-group-scream-release-broad-ripple-events-madabolic-gym/",
+    "source": "Mirror Indy",
+    "reason": "below the inclusion bar",
+    "circle": "state"
+   },
+   {
+    "title": "What’s the most tax-efficient way to donate to charity?",
+    "link": "https://www.marketwatch.com/story/whats-the-most-tax-efficient-way-to-donate-to-charity-3f5864bb?mod=mw_rss_topstories",
+    "source": "MarketWatch",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
+    "link": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
+    "link": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Deseret News archives: In 2001, ‘Harry Potter’ hit the movie screen to great fanfare",
+    "link": "https://www.deseret.com/utah/2024/11/16/deseret-news-archives-in-2001-harry-potter-and-sorcerers-stone-debuted/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "BOK Financial Sues Cerity Over Additional Advisor Poaching",
+    "link": "https://www.wealthmanagement.com/ria-news/bok-financial-sues-cerity-over-new-advisor-poaching",
+    "source": "WealthManagement.com",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Getting up to speed on Big 12 basketball — B12 goes 22-3, Kansas sends Mark Pope home bruised",
+    "link": "https://www.deseret.com/sports/2026/11/16/big-12-basketball-roundup-byu-kansas/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Nearly two million people are behind bars in the US. How did we get here?",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
+    "source": "NPR News",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "U.S. loses long-held measles elimination status amid outbreaks",
+    "link": "https://www.deseret.com/lifestyle/2026/11/16/us-loses-measles-elimination-status-outbreak-pan-american-health-organization/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Musk, Silicon Valley insiders urge Nvidia to restore Jensen Huang as CEO",
+    "link": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "When will we see Robert Pattinson as Bond in cinemas?",
+    "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
+    "link": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "LIVE: Germany vs Netherlands – UEFA Nations League",
+    "link": "https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Trump denies responsibility for FAA nationwide ground stop",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-denies-responsibility-for-faa-nationwide-ground-stop?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "The Feds Own a $1 Billion Stake in the Military Contractor Being Blamed for the Air Traffic Meltdown",
+    "link": "https://reason.com/2026/11/16/the-feds-own-a-1-billion-stake-in-the-military-contractor-being-blamed-for-the-air-traffic-meltdown/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Patagonia, Grady White and Ownership Without an Owner",
+    "link": "https://www.wealthmanagement.com/philanthropy/patagonia-grady-white-and-ownership-without-an-owner",
+    "source": "WealthManagement.com",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Silver linings: Class reunions — to go or not to go?",
+    "link": "https://www.deseret.com/lifestyle/2026/11/16/uncertain-about-class-reunions/",
+    "source": "Deseret News",
+    "reason": "low durability",
+    "circle": "national"
+   },
+   {
+    "title": "Iran braces for natural gas shortages during winter energy imbalance",
+    "link": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Israeli forces demolish the homes of two Palestinian prisoners",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/israeli-forces-demolish-the-homes-of-two-palestinian-prisoners?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Jerusalem Daily: Eisenkot wants Netanyahu out",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jerusalem-daily-eisenkot-wants-netanyahu-out?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Cop31 draft text is attempt to ‘draw out parties’ to find agreement, president of talks says",
+    "link": "https://www.theguardian.com/environment/2026/nov/16/cop31-draft-text-draw-out-parties-find-agreement-president-talks-says",
+    "source": "The Guardian World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election",
+    "link": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Starbucks Red Cup Day 2026: How to Get a Free Cup",
+    "link": "https://www.kiplinger.com/personal-finance/deals/starbucks-red-cup-day-2026",
+    "source": "Kiplinger",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Border Agents Seized and Copied an Immigration Policy Critic's Phone Without a Warrant",
+    "link": "https://reason.com/2026/11/16/border-agents-seized-and-copied-an-immigration-policy-critics-phone-without-a-warrant/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
+    "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
+    "source": "NPR News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Washington May Permit Nudity-Focused Businesses \"to Set Entry Requirements Based on Genitalia\"",
+    "link": "https://reason.com/volokh/2026/11/16/washington-may-permit-nudity-focused-businesses-to-set-entry-requirements-based-on-genitalia/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Nvidia Earnings: Live Updates and Commentary November 2026",
+    "link": "https://www.kiplinger.com/news/live/nvidia-earnings-live-updates-and-commentary-november-2026",
+    "source": "Kiplinger",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "High school girls basketball: 2026 Class 5A team-by-team region capsules, predictions",
+    "link": "https://www.deseret.com/sports/2026/11/16/high-school-girls-basketball-5a-region-projections-2026/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "RIA Edge: New Capital, New Competition Reshape RIA Deal Landscape",
+    "link": "https://www.wealthmanagement.com/ria-edge/ria-edge-new-capital-new-competition-reshape-ria-deal-landscape",
+    "source": "WealthManagement.com",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+    "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Oil tankers hit sea mines in the Strait of Hormuz",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "High school boys basketball: 2026 Class 5A team-by-team region capsules, predictions",
+    "link": "https://www.deseret.com/sports/2026/11/16/high-school-boys-basketball-5a-region-projections-2026/",
+    "source": "Deseret News",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Students protest as air pollution chokes New Delhi",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/students-protest-as-air-pollution-chokes-new-delhi?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "At least 17 killed in two South Africa mass shootings",
+    "link": "https://www.aljazeera.com/news/2026/11/16/at-least-17-killed-in-two-south-africa-mass-shootings?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "low durability",
+    "circle": "international"
+   },
+   {
+    "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
+    "link": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Robert Pattinson: How the Twilight star became 007",
+    "link": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Donald Trump loves Jensen Huang. Everyone else…",
+    "link": "https://www.vox.com/politics/510820/jensen-huang-nvidia-critics-hawks-populists-ai-safety",
+    "source": "Vox",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Why Starshield limits are hurting Ukraine against jet-powered drones",
+    "link": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+    "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
+    "link": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Apollo Makes Minority Investment in Focus Financial",
+    "link": "https://www.wealthmanagement.com/ria-news/apollo-funds-invest-in-focus-financial-partners",
+    "source": "WealthManagement.com",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Infantino made things worse at FIFA than Blatter, says Jurgen Klopp",
+    "link": "https://www.aljazeera.com/sports/2026/11/16/infantino-made-things-worse-at-fifa-than-blatter-says-jurgen-klopp?traffic_source=rss",
+    "source": "Al Jazeera",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   },
+   {
+    "title": "Why the FAA Keeps Failing",
+    "link": "https://reason.com/2026/11/16/why-the-faa-keeps-failing/",
+    "source": "Reason",
+    "reason": "did not clear the national bar",
+    "circle": "national"
+   },
+   {
+    "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+    "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
+    "source": "BBC World",
+    "reason": "did not clear the international bar",
+    "circle": "international"
+   }
+  ],
+  "skew_note": null
+ },
+ "scored_by": [
+  "heuristic"
+ ],
+ "category_counts": {
+  "finance": 1,
+  "good_in_world": 1,
+  "other": 3
+ }
+}
